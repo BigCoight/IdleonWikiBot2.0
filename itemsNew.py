@@ -1,4 +1,5 @@
 import json 
+import numpy as np
 from libs.funcLib import fix
 from libs.jsonEncoder import CompactJSONEncoder
 
@@ -44,18 +45,27 @@ def combineDescription(data):
 def addAtrToDesc(data):
 	#Replaces [ with amount and ] with cooldown
 	if 'description' not in data.keys(): return
-	if '[' in data['description']:
-		data['description']=data['description'].replace('[',data['Amount'])
-		del data['Amount']
-	if ']' in data['description']:
-		data['description']=data['description'].replace(']',data['Cooldown'])
-		del data['Cooldown']
+	newDesc = []
+	for line in data['description']:
+		added = False
+		if '[' in line:
+			newDesc.append(line.replace('[',data['Amount']))
+			del data['Amount']
+			added = True
+		if ']' in line:
+			newDesc.append(line.replace(']',data['Cooldown']))
+			del data['Cooldown']
+			added = True
+		if not added:
+			newDesc.append(line)
+		
+	data['description'] = newDesc
 
 def splitStampData(data,items):
 	#Split the stamp data into a sub atribute
 	stampData = data['description'][0].split(',')
 	del data['description']
-	data['stampData'] = stampData
+	data['stampData'] = [fix(x) for x in stampData]
 
 def allItemsStart(items):
 	typeToSource = {
@@ -86,6 +96,22 @@ def allItemsEnd(items):
 		if data["typeGen"] == "aStamp":
 			if item := items.get(data["stampData"][5]):
 				item["uses"].append((name,"Lots"))
+		if data["detdrops"]:
+			res = []
+			done = set()
+			for drop in data["detdrops"]:
+				if drop[0] not in done:
+					res.append(drop)
+					done.add(drop[0])
+			data["detdrops"] = res
+	#Remove unused arrays
+	for name,data in items.items():	
+		if not data["detdrops"]:
+			del data["detdrops"]
+		if not data["sources"]:
+			del data["sources"]
+		if not data["uses"]:
+			del data["uses"]
 
 def configureDetailedRecipe(items,citem):
 	#puts sub recipes into recipes recursively.
@@ -140,25 +166,19 @@ def droptableToEnem(enemies,droptables):
 		if key in dtToEnem.keys():
 			dtToEnem[key].append(element)
 		else:
-			dtToEnem[key] = element
+			dtToEnem[key] = [element]
 	for name,enem in enemies.items():
 		if drops := enem.get("Drops"):
 			for drop in drops:
-				print(drop)
 				if drop[0][:9] == "DropTable":
-					print("true")
 					addElement(drop[0],[name] + drop[1:3])
 	for name, droptable in droptables.items():
 		for drop in droptable:
 			if drop[0][:5] == "Super":
-				dt = dtToEnem[name]
-				sdt = []
-				for d in dt:
-					sdt.append([dt[0],float(dt[1])*float(drop[1]),float(dt[2])*float(drop[2])])
-				addElement(drop[0],sdt)
-	print(dtToEnem)
-
-
+				if dt := dtToEnem.get(name):
+					for d in dt:
+						addElement(drop[0],[d[0],float(d[1])*float(drop[1]),float(d[2])*float(drop[2])])
+	return dtToEnem
 
 def main():
 	#Get all the information saved from jsons
@@ -168,7 +188,7 @@ def main():
 	fishingTK = openJSON("FishingTK")
 	enemies = openJSON("Enemies")
 	droptables = openJSON("Droptables")
-	droptableToEnem(enemies,droptables)
+	dtToEnemies = droptableToEnem(enemies,droptables)
 	npcs = openJSON("Npcs")
 	recipes = openJSON("Recipes")
 	postOffices = openJSON("PostOffice")
@@ -176,13 +196,13 @@ def main():
 	cauldrons = openJSON("Cauldrens")
 	processing = openCSV("Production")
 	statueData = openCSV("StatueData")
+	#This loop is for specific types of the items
+	allItemsStart(items)
 	#Adding in the fishing toolkit data
 	for typ,datas in fishingTK.items():
 		for i,data in enumerate(datas):
 			if item := items.get(f"{typ}{i}"):
 				item["Fishing"] = data
-	#This loop is for specific types of the items
-	allItemsStart(items)
 	#Adding in production data
 	for name,time,lvl,exp in processing:
 		if item := items.get(name): 
@@ -252,7 +272,7 @@ def main():
 			for req,n in bubble["requirements"]:
 				if item := items.get(req):
 					item["uses"].append((bname,"Lots"))
-
+	#add in card data
 	for section, cards in cardData.items():
 		for name,card in cards.items():
 			itemName ="Cards" + card[0]
@@ -261,16 +281,29 @@ def main():
 				if desc := item.get("description"):
 					if subItem := items.get(desc[0]):
 						item["displayName"] = subItem["displayName"] + "_Card"
+						subItem['hascard'] = True
 				elif enem := enemies.get(name):
 					item["displayName"] = enem["Name"] + "_Card"
-
+					enem['hascard'] = True
+	#Add in statue data
 	for n, data in enumerate(statueData):
 		itemN = f"EquipmentStatues{n+1}" 
 		if item := items.get(itemN):
 			item["statueData"] = data
-
+	#add in subtables sources
+	for name, drops in droptables.items():
+		for drop in drops:
+			if item := items.get(drop[0]):
+				item["sources"].append(name)
+				if detdrops := dtToEnemies.get(name):
+					for detdrop in detdrops:
+						item['detdrops'].append([
+							detdrop[0],
+							np.format_float_positional(float(drop[1])*float(detdrop[1]), trim='-'),
+							str(float(drop[2])*float(detdrop[2]))
+							])
 	allItemsEnd(items)
-	writeJSON("ItemsNew",items)
+	writeJSON("Items",items)
 
 
 if __name__ == '__main__':
