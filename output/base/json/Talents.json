@@ -1,0 +1,2243 @@
+{
+    "BEGINNER": {
+        "HEALTH_BOOSTER": {
+            "Description": "Increases_Max_HP_by_{",
+            "X1": "1",
+            "X2": ".15",
+            "FuncX": "add",
+            "Level Up Text": "+{_HP"
+        },
+        "MANA_BOOSTER": {
+            "Description": "Increases_Max_MP_by_{",
+            "X1": "1",
+            "X2": ".1",
+            "FuncX": "add",
+            "Level Up Text": "+{_MP"
+        },
+        "STAR_PLAYER": {
+            "Description": "Gives_{_Star_Talent_Points._Star_Talents_are_found_throughout_the_game!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Star_Talent_Point"
+        },
+        "BUCKLERED_UP": {
+            "Description": "Increases_Total_Defense_by_+{%",
+            "X1": "40",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Total_DEF"
+        },
+        "SHARPENED_AXE": {
+            "Description": "Increases_Base_Weapon_Power_by_{._This_contributes_to_your_total_damage.",
+            "X1": "0.25",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Base_Weapon_Power"
+        },
+        "FIST_OF_RAGE": {
+            "Description": "Increases_your_Base_STR_by_{_(STR_boosts_Max_HP_and_Crit_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_STR"
+        },
+        "QUICKNESS_BOOTS": {
+            "Description": "Increases_your_Base_AGI_by_{_(AGI_boosts_Movement_Speed_and_Crit_Chance)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_AGI"
+        },
+        "BOOK_OF_THE_WISE": {
+            "Description": "Increases_your_Base_WIS_by_{_(WIS_boosts_Mana_and_Boss_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_WIS"
+        },
+        "LUCKY_CLOVER": {
+            "Description": "Increases_your_Base_LUK_by_{_(LUK_boosts_drop_rate,_EXP_Gain,_and_other_RNG)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK"
+        },
+        "GILDED_SWORD": {
+            "Description": "Boosts_Damage_dealt|to_all_monsters_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Damage"
+        },
+        "HAPPY_DUDE": {
+            "Description": "Increases_Exp_Gain_for_all_Skills_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Exp_Gain"
+        },
+        "KNUCKLEBUSTER": {
+            "Description": "Increases_Critical_Hit_Damage_by_{%",
+            "X1": "30",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Critical_Damage"
+        },
+        "FEATHER_FLIGHT": {
+            "Description": "Increases_Movement_Speed_by_{%",
+            "X1": "20",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Move_Speed"
+        },
+        "EXTRA_BAGS": {
+            "Description": "Carry_Capacity_for_materials_is_increased_by_{%",
+            "X1": "200",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Mat_Carry_Cap"
+        },
+        "SLEEPIN'_ON_THE_JOB": {
+            "Description": "AFK_Gains_Rate_for_Fighting_is_increased_by_{%",
+            "X1": "21",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        }
+    },
+    "JOURNEYMAN": {
+        "INDIANA_ATTACK": {
+            "Description": "Whip_forward,_dealing_{%_dmg_and_pulling_in_up_to_}_monsters.",
+            "X1": "30",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Y1": "3",
+            "Y2": "30",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Dmg_&_+}_Mobs",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1",
+                "cooldown": "5",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "projectile",
+                "AFKactivity": "0"
+            }
+        },
+        "BREAKIN'_THE_BANK": {
+            "Description": "Multiplies_value_of_all_coins_on_ground_by_{x.",
+            "X1": "0.6",
+            "X2": "100",
+            "FuncX": "decayMulti",
+            "Level Up Text": "+{x_Multi",
+            "Active Data": {
+                "K": "1",
+                "D": "1.3",
+                "s": "1.2",
+                "cooldown": "12",
+                "castTime": "1.4",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "90",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "SUPERNOVA_PLAYER": {
+            "Description": "Gives_{_Star_Talent_Points.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Star_Talent_Point"
+        },
+        "TWO_PUNCH_MAN": {
+            "Description": "Regular_punches_do_+{%_more_damage_and_also_hit_a_2nd_time_for_}%_damage",
+            "X1": "0.6",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "25",
+            "Y2": "3",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Dmg_&_+}%_2nd_Dmg"
+        },
+        "GIMME_GIMME": {
+            "Description": "Monsters_have_a_{%_chance_to_drop_2x_loot_for_}_Minutes",
+            "X1": "80",
+            "X2": "60",
+            "FuncX": "decay",
+            "Y1": "3",
+            "Y2": "20",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Chance_&_+}_Minutes",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "2000",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "LUCKY_HIT": {
+            "Description": "LUK's_effect_on_Damage_is_increased_by_{%",
+            "X1": "0.4",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Effect"
+        },
+        "F'LUK'EY_FABRICS": {
+            "Description": "All_Equipment_gives_{%_more_LUK_than_what's_listed",
+            "X1": "100",
+            "X2": "250",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_LUK_from_equips"
+        },
+        "CHACHING!": {
+            "Description": "Straight_up_cash,_yo._+{%_more_to_be_exact.",
+            "X1": "50",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Mo_Money"
+        },
+        "LUCKY_HORSESHOE": {
+            "Description": "+{_base_LUK",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK"
+        },
+        "CURSE_OF_MR_LOOTY_BOOTY": {
+            "Description": "+{%_Drop_rate,_and_-}%_Total_Damage._Cmon,_do_it!_Or_are_u_too_scared?",
+            "X1": "70",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "120",
+            "Y2": "100",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_Drop_&_-}%_Dmg"
+        },
+        "ITS_YOUR_BIRTHDAY!": {
+            "Description": "Drops_some_random_reward._Has_a_{%_chance_to_have_no_cooldown!",
+            "X1": "35",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_chance",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "120",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "CMON_OUT_CRYSTALS": {
+            "Description": "+{%_Crystal_Mob_spawn_chance",
+            "X1": "300",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Spawn_Chance"
+        },
+        "REROLL_PLS": {
+            "Description": "{%_Chance_to_get_a_reroll_on_AFK_rewards._Can_trigger_multiple_times!",
+            "X1": "36",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Chance"
+        },
+        "CARDS_GALORE": {
+            "Description": "+{%_Card_Drop_Chance._As_with_all_card_drop_bonuses,_this_affects_AFK_too.",
+            "X1": "50",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Card_Drop_Chance"
+        },
+        "RARES_EVERYWHERE!": {
+            "Description": "Items_in_all_Rare_Drop_Tables_are_{%_more_likely_to_drop!",
+            "X1": "30",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Rare_Drop_Table_Items"
+        }
+    },
+    "MAESTRO": {
+        "COIN_TOSS": {
+            "Description": "Throws_a_coin_which_deals_{%_Dmg._Damage_also_increases_the_more_money_you_have",
+            "X1": "100",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Dmg",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "86000",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "TRIPLE_JAB": {}
+    },
+    "VIRTUOSO": {
+        "QUAD_JAB": {}
+    },
+    "INFINILYTE": {},
+    "RAGE_BASICS": {
+        "HEALTH_BOOSTER": {
+            "Description": "Increases_Max_HP_by_{",
+            "X1": "1",
+            "X2": ".15",
+            "FuncX": "add",
+            "Level Up Text": "+{_HP"
+        },
+        "MANA_BOOSTER": {
+            "Description": "Increases_Max_MP_by_{",
+            "X1": "1",
+            "X2": ".1",
+            "FuncX": "add",
+            "Level Up Text": "+{_MP"
+        },
+        "STAR_PLAYER": {
+            "Description": "Gives_{_Star_Talent_Points._Star_Talents_are_found_throughout_the_game!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Star_Talent_Point"
+        },
+        "BUCKLERED_UP": {
+            "Description": "Increases_Total_Defense_by_+{%",
+            "X1": "40",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Total_DEF"
+        },
+        "SHARPENED_AXE": {
+            "Description": "Increases_Base_Weapon_Power_by_{._This_contributes_to_your_total_damage.",
+            "X1": "0.25",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Base_Weapon_Power"
+        },
+        "FIST_OF_RAGE": {
+            "Description": "Increases_your_Base_STR_by_{_(STR_boosts_Max_HP_and_Crit_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_STR"
+        },
+        "QUICKNESS_BOOTS": {
+            "Description": "Increases_your_Base_AGI_by_{_(AGI_boosts_Movement_Speed_and_Crit_Chance)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_AGI"
+        },
+        "BOOK_OF_THE_WISE": {
+            "Description": "Increases_your_Base_WIS_by_{_(WIS_boosts_Mana_and_Boss_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_WIS"
+        },
+        "LUCKY_CLOVER": {
+            "Description": "Increases_your_Base_LUK_by_{_(LUK_boosts_drop_rate,_EXP_Gain,_and_other_RNG)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK"
+        },
+        "GILDED_SWORD": {
+            "Description": "Boosts_Damage_dealt|to_all_monsters_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Damage"
+        },
+        "BRUTE_EFFICIENCY": {
+            "Description": "Increases_the_total_efficiency_of_all_specialized_skills_by_{%",
+            "X1": "1",
+            "X2": ".02",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Efficiency"
+        },
+        "MEAT_SHANK": {
+            "Description": "Damage_dealt_is_increased_by_{%_for_every_power_of_10_Max_HP_you_have",
+            "X1": "100",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Damage"
+        },
+        "CRITIKILL": {
+            "Description": "Increases_Critical_Hit_Damage_by_{%",
+            "X1": "52",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Critical_Damage"
+        },
+        "IDLE_BRAWLING": {
+            "Description": "AFK_Gains_Rate_for_Fighting_is_increased_by_{%",
+            "X1": "20",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        },
+        "IDLE_SKILLING": {
+            "Description": "AFK_Gains_Rate_for_all_Specialized_Skills_is_increased_by_{%",
+            "X1": "20",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        }
+    },
+    "WARRIOR": {
+        "POWER_STRIKE": {
+            "Description": "Slash_forward_dealing_{%|damage_to_up_to|3_monsters",
+            "X1": "130",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1.3",
+                "s": "1.2",
+                "cooldown": "20",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "1",
+                "AFKrange": "125",
+                "AFKtype": "projectile",
+                "AFKactivity": "0"
+            }
+        },
+        "WHIRL": {
+            "Description": "Swing_your_weapon_around_you|dealing_{%_damage_to_up_to|}_monsters",
+            "X1": "60",
+            "X2": "1.5",
+            "FuncX": "bigBase",
+            "Y1": "4",
+            "Y2": "24",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Damage_&_+}_Mobs_Hit",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.17",
+                "s": "1.1",
+                "cooldown": "4",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "80",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "HEALTH_OVERDRIVE": {
+            "Description": "Increase_max_HP_by_{%",
+            "X1": ".5",
+            "X2": ".02",
+            "FuncX": "add",
+            "Level Up Text": "+{%_HP"
+        },
+        "Double_Strike": {
+            "Description": "Basic_Attacks_with_Warrior_Weapons_have_a_{%_chance_to_hit_twice",
+            "X1": "110",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "{%_Double_Hit_Chance"
+        },
+        "FIRMLY_GRASP_IT": {
+            "Description": "Temporarily_boosts_base_STR_by_{_for_}_minutes",
+            "X1": "15",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Y1": "2",
+            "Y2": "4",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{_STR_&_+}_Mins",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.18",
+                "s": "1.2",
+                "cooldown": "6",
+                "castTime": "0.45",
+                "manaCost": "9",
+                "inputReq": "0",
+                "AFKrange": "45",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "STRENGTH_IN_NUMBERS": {
+            "Description": "STR's_effect_on_both_Damage_and_HP_is_increased_by_{%",
+            "X1": "0.75",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Effect"
+        },
+        "'STR'ESS_TESTED_GARB": {
+            "Description": "All_Equipment_gives_{%_more_STR_than_what's_listed",
+            "X1": "200",
+            "X2": "250",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_STR_from_equips"
+        },
+        "CARRY_A_BIG_STICK": {
+            "Description": "The_effect_Weapon_Power_has_on_Damage_Dealt_is_increased_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Weapon_Power_Effect"
+        },
+        "ABSOLUTE_UNIT": {
+            "Description": "+{_base_STR",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_STR"
+        },
+        "HAUNGRY_FOR_GOLD": {
+            "Description": "Golden_Food_bonuses_are_increased_by_{%",
+            "X1": "55",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Bonus"
+        },
+        "BIG_PICK": {
+            "Description": "Swings_forward_and_mines_the_rock_with_+{%_bonus_Mining_Efficiency",
+            "X1": "150",
+            "X2": "15",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Efficiency",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1.5",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-1"
+            }
+        },
+        "COPPER_COLLECTOR": {
+            "Description": "Mining_Efficiency_is_increased_by_+{%_for_every_power_of_10_Copper_Ore_in_Storage_Chest.",
+            "X1": "20",
+            "X2": "70",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_efficiency"
+        },
+        "MOTHERLODE_MINER": {
+            "Description": "+{%_base_multi-ore_drop_chance._This_can_trigger_up_to_4_times_in_a_row_per_swing.",
+            "X1": "20",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Multi-Ore_Base_Chance"
+        },
+        "TOOL_PROFICIENCY": {
+            "Description": "Pickaxes_give_+{%_more_Mining_Power_than_whats_listed_for_every_10_Mining_Lv_you_have",
+            "X1": "16",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_POW_per_10_Mining_Lv"
+        },
+        "TEMPESTUOUS_EMOTIONS": {
+            "Description": "Increases_Exp_Gain_for_all_Specialized_Skills_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Exp_Gain"
+        }
+    },
+    "BARBARIAN": {
+        "BEAR_SWIPE": {
+            "Description": "A_big_ol'_bear_claw_swipes_up_to_{_monsters_in_front_of_you,_dealing_}%_damage",
+            "X1": "3",
+            "X2": "30",
+            "FuncX": "intervalAdd",
+            "Y1": "108",
+            "Y2": "2",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_mobs_&_+}%_dmg",
+            "Active Data": {
+                "K": "1.05",
+                "D": "1.4",
+                "s": "1",
+                "cooldown": "12",
+                "castTime": "1.5",
+                "manaCost": "10",
+                "inputReq": "0",
+                "AFKrange": "0",
+                "AFKtype": "buff",
+                "AFKactivity": "1"
+            }
+        },
+        "AXE_HURL": {
+            "Description": "Throws_axe_in_a_downward_arc,_which_deals_{%_dmg_to_up_to_}_monsters.",
+            "X1": "200",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Y1": "2",
+            "Y2": "50",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_dmg_&_+}_mobs",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.25",
+                "s": "1.2",
+                "cooldown": "12",
+                "castTime": "0.8",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "MOCKING_SHOUT": {
+            "Description": "Every_0.5_sec,_monsters_move_toward_you_and_heal_for_{%_HP._You_get_+}%_EXP_gain.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "1",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+1%_Monster_heal,_+1%_EXP",
+            "Active Data": {
+                "K": "1",
+                "D": "1.25",
+                "s": "1.1",
+                "cooldown": "17",
+                "castTime": "0.8",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "200",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "NO_PAIN_NO_GAIN": {
+            "Description": "Reduces_max_HP_by_{%,_increases_damage_by_}%._Also,_you_take_double_damage.",
+            "X1": "100",
+            "X2": "30",
+            "FuncX": "decay",
+            "Y1": "100",
+            "Y2": "50",
+            "FuncY": "decay",
+            "Level Up Text": "-{%_HP_&_+}%_damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.1",
+                "cooldown": "600",
+                "castTime": "1.5",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "MONSTER_DECIMATOR": {
+            "Description": "There_is_a_{%_chance_for_a_monster_kill_to_be_counted_for_double_for_opening_new_portals.",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_double_count_chance"
+        },
+        "APOCALYPSE_ZOW": {
+            "Description": "+{%_Dmg_for_every_monster_you_kill_over_100,000_times._Counts_}_monster_types",
+            "X1": "2",
+            "X2": "25",
+            "FuncX": "intervalAdd",
+            "Y1": "1",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+{%_Dmg_&_+1_mob_type"
+        },
+        "FISTFUL_OF_OBOL": {
+            "Description": "Obols_give_+{%_more_STR_than_what's_listed",
+            "X1": "60",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_STR_from_Obols"
+        },
+        "STRONGEST_STATUES": {
+            "Description": "'Might',_'Mining',_and_'Oceanman'_statues_give_{%_higher_bonuses",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "STR_SUMMORE": {
+            "Description": "+{_Max_Talent_Level_for_'Fist_of_Rage'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "BEEFY_BOTTLES": {
+            "Description": "Each_Lv_of_'Warriors_Only'_Bubble_raises_max_Lv_of_'CritiKill'_Talent,_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_for_Critikill_Talent"
+        },
+        "WORMING_UNDERCOVER": {
+            "Description": "{%_chance_to_wake_the_sleeper_agent_worm_within_the_fish,_letting_you_instantly_catch",
+            "X1": "9.3",
+            "X2": ".7",
+            "FuncX": "bigBase",
+            "Level Up Text": "+1%_Chance",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1.5",
+                "manaCost": "20",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "BOBBIN'_BOBBERS": {
+            "Description": "+{%_Minigame_reward,_and_+1_Fishing_Power_per_pt_of_your_Highscore,_up_to_+}",
+            "X1": "12",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Y1": "5",
+            "Y2": "3",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_reward_&_+}_Cap"
+        },
+        "ALL_FISH_DIET": {
+            "Description": "+{%_Fishing_EXP,_since_like,_fish_is_brain_food_and_so_it_makes_sense_that..._eh_forget_it.",
+            "X1": "1.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1.5%_Fishing_EXP"
+        },
+        "CATCHING_SOME_ZZZ'S": {
+            "Description": "+{%_Away_Gains_for_Fishing_only._Just_fishing._It_totally_doesn't_boost_anything_else!",
+            "X1": "20",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Fishing_Away_Gains"
+        },
+        "BACK_TO_BASICS": {
+            "Description": "+{_Talent_Points_for_the_'Warrior'_talent_tab,_and_+10_dmg_to_these_Talents'_feelings!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "SQUIRE": {
+        "SHOCKWAVE_SLASH": {
+            "Description": "Slash_forward,_causing_a_shockwave_which_deals_{%_dmg_to_up_to_}_enemies",
+            "X1": "175",
+            "X2": "2",
+            "FuncX": "bigBase",
+            "Y1": "3",
+            "Y2": "30",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_DMG_&_+}_Mobs_hit",
+            "Active Data": {
+                "K": "1",
+                "D": "1.4",
+                "s": "1",
+                "cooldown": "15",
+                "castTime": "1.5",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "4"
+            }
+        },
+        "DAGGERANG": {
+            "Description": "Throw_a_dagger_which_comes_right_back_to_you,_dealing_{%_Dmg_to_up_to_}_mobs",
+            "X1": "200",
+            "X2": "1.5",
+            "FuncX": "bigBase",
+            "Y1": "4",
+            "Y2": "30",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_DMG_&_+}_Mobs_hit",
+            "Active Data": {
+                "K": "1",
+                "D": "1.4",
+                "s": "1",
+                "cooldown": "14",
+                "castTime": "1.8",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "BRICKY_SKIN": {
+            "Description": "Block_{%_of_all_damage._Also,_passively_gives_+}_base_DEF_at_all_times,_even_when_not_in_use!",
+            "X1": "20",
+            "X2": "0.4",
+            "FuncX": "bigBase",
+            "Y1": "1",
+            "Y2": "3",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Block,_+}_Base_DEF",
+            "Active Data": {
+                "K": "1",
+                "D": "1.4",
+                "s": "1",
+                "cooldown": "16",
+                "castTime": "0.8",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "MASTERY_UP": {
+            "Description": "+{%_Mastery._This_affects_how_big_your_minimum_damage_is_compared_to_max_damage!",
+            "X1": "18",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Mastery"
+        },
+        "BALANCED_SPIRIT": {
+            "Description": "Boosts_Accuracy_and_DEF_by_+{%,_but_lowers_damage_by_-}%",
+            "X1": "25",
+            "X2": "50",
+            "FuncX": "decay",
+            "Y1": "39",
+            "Y2": "40",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_Acc/DEF,_-}%_Dmg",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1",
+                "manaCost": "20",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "PRECISION_POWER": {
+            "Description": "+{%_Damage_if_your_accuracy_is_1.5x_higher_than_needed_for_100%_hit_chance",
+            "X1": "100",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Dmg_if_ACC_big"
+        },
+        "FISTFUL_OF_OBOL": {
+            "Description": "Obols_give_+{%_more_STR_than_what's_listed",
+            "X1": "60",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_STR_from_Obols"
+        },
+        "SHIELDIEST_STATUES": {
+            "Description": "'Might',_'Mining',_and_'Defence'_statues_give_{%_higher_bonuses",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "STR_SUMMORE": {
+            "Description": "+{_Max_Talent_Level_for_'Fist_of_Rage'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "BLOCKY_BOTTLES": {
+            "Description": "Each_Lv_of_'Warriors_Only'_Bubble_raises_max_Lv_of_'Meat_Shank'_Talent,_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_for_Meat_Shank"
+        },
+        "WAIT_FOR_WORLD_3": {
+            "Description": "This_talent_will_boost_the_World_3_skill_called_'Construction'._For_now_it_does_nothing."
+        },
+        "BACK_TO_BASICS": {
+            "Description": "+{_Talent_Points_for_the_'Warrior'_talent_tab,_and_+10_dmg_to_these_Talents'_feelings!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "BLOOD_BERSERKER": {},
+    "DEATH_BRINGER": {},
+    "DIVINE_KNIGHT": {},
+    "ROYAL_GUARDIAN": {},
+    "FILLER": {},
+    "CALM_BASICS": {
+        "HEALTH_BOOSTER": {
+            "Description": "Increases_Max_HP_by_{",
+            "X1": "1",
+            "X2": ".15",
+            "FuncX": "add",
+            "Level Up Text": "+{_HP"
+        },
+        "MANA_BOOSTER": {
+            "Description": "Increases_Max_MP_by_{",
+            "X1": "1",
+            "X2": ".1",
+            "FuncX": "add",
+            "Level Up Text": "+{_MP"
+        },
+        "STAR_PLAYER": {
+            "Description": "Gives_{_Star_Talent_Points._Star_Talents_are_found_throughout_the_game!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Star_Talent_Point"
+        },
+        "BUCKLERED_UP": {
+            "Description": "Increases_Total_Defense_by_+{%",
+            "X1": "40",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Total_DEF"
+        },
+        "SHARPENED_AXE": {
+            "Description": "Increases_Base_Weapon_Power_by_{._This_contributes_to_your_total_damage.",
+            "X1": "0.25",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Base_Weapon_Power"
+        },
+        "FIST_OF_RAGE": {
+            "Description": "Increases_your_Base_STR_by_{_(STR_boosts_Max_HP_and_Crit_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_STR"
+        },
+        "QUICKNESS_BOOTS": {
+            "Description": "Increases_your_Base_AGI_by_{_(AGI_boosts_Movement_Speed_and_Crit_Chance)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_AGI"
+        },
+        "BOOK_OF_THE_WISE": {
+            "Description": "Increases_your_Base_WIS_by_{_(WIS_boosts_Mana_and_Boss_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_WIS"
+        },
+        "LUCKY_CLOVER": {
+            "Description": "Increases_your_Base_LUK_by_{_(LUK_boosts_drop_rate,_EXP_Gain,_and_other_RNG)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK"
+        },
+        "GILDED_SWORD": {
+            "Description": "Boosts_Damage_dealt|to_all_monsters_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Damage"
+        },
+        "ELUSIVE_EFFICIENCY": {
+            "Description": "Increases_the_total_efficiency_of_all_specialized_skills_by_{%",
+            "X1": "1",
+            "X2": ".02",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Efficiency"
+        },
+        "FEATHERWEIGHT": {
+            "Description": "Increases_Movement_Speed_by_{%_so_you_can_outrun_those_slowpoke_Warriors_and_Mages",
+            "X1": "25",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Move_Speed"
+        },
+        "I_SEE_YOU": {
+            "Description": "Increases_Critical_Hit_Chance_by_{%",
+            "X1": "27",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Crit_Chance"
+        },
+        "IDLE_SHOOTING": {
+            "Description": "AFK_Gains_Rate_for_Fighting_is_increased_by_{%",
+            "X1": "20",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        },
+        "BROKEN_TIME": {
+            "Description": "Production_Speed_in_all_Town_Skills_is_increased_by_{%",
+            "X1": "100",
+            "X2": "75",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Production_Speed"
+        }
+    },
+    "ARCHER": {
+        "PIERCING_ARROW": {
+            "Description": "Shoots_an_arrow_that_deals_{%_damage_to_up_to_}_monsters",
+            "X1": "110",
+            "X2": "2",
+            "FuncX": "bigBase",
+            "Y1": "2",
+            "Y2": "40",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Damage_&_+}_Mobs_Hit",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "KUNG_FU_KICK": {
+            "Description": "Pushes_back_nearby_monsters_by_{_pixels_while_dealing_}%_damage",
+            "X1": "25",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Y1": "60",
+            "Y2": "2",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_pixels_&_+}%_DMG",
+            "Active Data": {
+                "K": "1.15",
+                "D": "1.19",
+                "s": "1.15",
+                "cooldown": "15",
+                "castTime": "0.45",
+                "manaCost": "8",
+                "inputReq": "0",
+                "AFKrange": "300",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "HEMA_OVERDRIVE": {
+            "Description": "Increase_max_HP_and_max_MP_by_{%",
+            "X1": ".4",
+            "X2": ".01",
+            "FuncX": "add",
+            "Level Up Text": "+{%_HP_and_MP"
+        },
+        "STRAFE": {
+            "Description": "Temporarily_boosts_Movement_Speed_by_{%_for_}_minutes",
+            "X1": "5",
+            "X2": ".3",
+            "FuncX": "bigBase",
+            "Y1": "2",
+            "Y2": "15",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Speed_%_+}_Mins",
+            "Active Data": {
+                "K": "1",
+                "D": "1.15",
+                "s": "1",
+                "cooldown": "7",
+                "castTime": "0.45",
+                "manaCost": "4",
+                "inputReq": "0",
+                "AFKrange": "80",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "HAVE_ANOTHER!": {
+            "Description": "Basic_Attacks_have_a_{%_chance_to_fire_1_additional_arrow",
+            "X1": "120",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Chance"
+        },
+        "VEINS_OF_THE_INFERNAL": {
+            "Description": "Increases_Damage_Dealt_by_{%_every_10_Smithing_Levels",
+            "X1": "50",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Damage"
+        },
+        "GARB_OF_UN'AGI'NG_QUALITY": {
+            "Description": "All_Equipment_gives_{%_more_AGI_than_what's_listed",
+            "X1": "1.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_more_AGI_from_equips"
+        },
+        "HIGH_POLYMER_LIMBS": {
+            "Description": "The_effect_Weapon_Power_has_on_Damage_Dealt_is_increased_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Weapon_Power_Effect"
+        },
+        "SANIC_SPEED": {
+            "Description": "+{_base_AGI",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_AGI"
+        },
+        "ROBBINGHOOD": {
+            "Description": "Monster_drop_rarity_increased_by_{%",
+            "X1": "40",
+            "X2": "65",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_rarity"
+        },
+        "SMELTIN'_ERRYDAY": {
+            "Description": "Every_kill_has_a_{%_chance_to_give_}_seconds_of_instant_forge_progress",
+            "X1": "50",
+            "X2": "80",
+            "FuncX": "decay",
+            "Y1": "1",
+            "Y2": "60",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_for_}_forge_secs"
+        },
+        "ACME_ANVIL": {
+            "Description": "Get_1_Anvil_Production_Point,_and_also_gain_+{_extra_pts_every_10_Smithing_Lvs",
+            "X1": "1",
+            "X2": "15",
+            "FuncX": "intervalAdd",
+            "Level Up Text": "+{_extra_pts"
+        },
+        "YEA_I_ALREADY_KNOW": {
+            "Description": "Start_with_{%_exp_per_250_AGI_when_you_lv_up_any_Specialized_Skill._Caps_at_}%.",
+            "X1": "5",
+            "X2": "90",
+            "FuncX": "decay",
+            "Y1": "5",
+            "Y2": "10",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Exp,_and_+}%_Cap"
+        },
+        "GODLY_CREATION": {
+            "Description": "{%_chance_to_apply_a_special_bonus_to_any_equip_crafted_at_the_anvil._",
+            "X1": "50",
+            "X2": "75",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Chance"
+        },
+        "FOCUSED_SOUL": {
+            "Description": "EXP_Gain_for_all_Specialized_Skills_is_increased_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_EXP_gain_in_Spec_Skills"
+        }
+    },
+    "BOWMAN": {
+        "HOMING_ARROWS": {
+            "Description": "Fires_{_arrows_into_the_air,_which_seek_out_nearby_monsters_and_deal_}%_damage",
+            "X1": "2",
+            "X2": "15",
+            "FuncX": "intervalAdd",
+            "Y1": "27",
+            "Y2": "3",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_arrow_&_+}%_damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.2",
+                "cooldown": "30",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-1"
+            }
+        },
+        "MAGIC_SHORTBOW": {
+            "Description": "Magic_shortbows_fire_at_your_target,_and_up_to_{_nearby_monsters,_for_}%_damage",
+            "X1": "2",
+            "X2": "20",
+            "FuncX": "intervalAdd",
+            "Y1": "47",
+            "Y2": "3",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_monsters_&_+}%_dmg",
+            "Active Data": {
+                "K": "1",
+                "D": "1.25",
+                "s": "1.1",
+                "cooldown": "20",
+                "castTime": "0.45",
+                "manaCost": "38",
+                "inputReq": "0",
+                "AFKrange": "300",
+                "AFKtype": "circle",
+                "AFKactivity": "0"
+            }
+        },
+        "FLAX_INSTASTRING": {
+            "Description": "Basic_attacks_have_a_{%_chance_to_spawn_a_Magic_Shortbow.",
+            "X1": "40",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_trigger_chance"
+        },
+        "EXTENDO_RANGEO": {
+            "Description": "Attack_range_is_increased_by_+{_Pixels,_and_+}%_accuracy,_for_a_few_minutes",
+            "X1": "19.5",
+            "X2": ".5",
+            "FuncX": "bigBase",
+            "Y1": "40",
+            "Y2": "60",
+            "FuncY": "decay",
+            "Level Up Text": "+{px_Range_&_+}_mins",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.2",
+                "s": "1.05",
+                "cooldown": "7",
+                "castTime": "0.45",
+                "manaCost": "20",
+                "inputReq": "0",
+                "AFKrange": "100",
+                "AFKtype": "target",
+                "AFKactivity": "0"
+            }
+        },
+        "WOAH,_THAT_WAS_FAST!": {
+            "Description": "All_attack_talent_cooldowns_are_{%_lower._No,_not_regular_attacks_lol",
+            "X1": "30",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_lower_cooldowns"
+        },
+        "SPEEDNA": {
+            "Description": "+{%_Damage_for_every_15%_movement_spd_you_have_above_100%",
+            "X1": "60",
+            "X2": "77",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_damage"
+        },
+        "SHOEFUL_OF_OBOL": {
+            "Description": "Obols_give_+{%_more_AGI_than_what_is_listed",
+            "X1": "135",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_AGI"
+        },
+        "SHWIFTY_STATUES": {
+            "Description": "'Speed',_'Anvil',_and_'Ol_Reliable'_statues_give_+{%_more_bonus",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "AGI_AGAIN": {
+            "Description": "+{_Max_Talent_Level_for_'Quickness_Boots'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "VELOCITY_VESSELS": {
+            "Description": "Each_Lv_of_'Archer_or_Bust'_Bubble_raises_max_Lv_of_'Featherweight',_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_cap"
+        },
+        "TELEKI'NET'IC_LOGS": {
+            "Description": "+{%_Catching_Efficiency_for_every_power_of_10_Oak_Logs_in_the_storage_chest",
+            "X1": "20",
+            "X2": "70",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Efficiency"
+        },
+        "BRIAR_PATCH_RUNNER": {
+            "Description": "AGI_has_a_+{%_larger_effect_on_Catching_Efficiency_than_normal",
+            "X1": "0.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_effect"
+        },
+        "BUG_ENTHUSIAST": {
+            "Description": "+{%_Catching_EXP._You're_one_step_closer_to_figuring_out_how_butter_can_fly!",
+            "X1": "1.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Catching_EXP"
+        },
+        "SUNSET_ON_THE_HIVES": {
+            "Description": "+{%_Away_Gain_for_Catching_Hint:Useful_for_when_you_idle_on_catching!",
+            "X1": "20",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Away_Gains"
+        },
+        "PREVIOUS_POINTS": {
+            "Description": "+{_Talent_Points_for_the_'Archer'_talent_tab._But,what's_wrong_with_these_talents?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "HUNTER": {
+        "360_NOSCOPE": {
+            "Description": "Deal_{%_DMG_split_between_all_hit_monsters._The_more_mobs_hit,_the_less_dmg_done",
+            "X1": "225",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1.4",
+                "s": "1",
+                "cooldown": "45",
+                "castTime": "0.45",
+                "manaCost": "500",
+                "inputReq": "1",
+                "AFKrange": "1",
+                "AFKtype": "target",
+                "AFKactivity": "0"
+            }
+        },
+        "BEAR_TRAP": {
+            "Description": "Lay_down_{_bear_traps_that_deal_}%_dmg_when_a_monster_triggers_it",
+            "X1": "2",
+            "X2": "30",
+            "FuncX": "intervalAdd",
+            "Y1": "150",
+            "Y2": "2",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_Traps_&_+}%_Dmg",
+            "Active Data": {
+                "K": "1.2",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1.1",
+                "manaCost": "30",
+                "inputReq": "2",
+                "AFKrange": "200",
+                "AFKtype": "auto",
+                "AFKactivity": "0"
+            }
+        },
+        "UWU_RAWRRR": {
+            "Description": "When_mobs_die,_their_respawn_time_is_{_seconds_faster!",
+            "X1": "55",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{_seconds_faster",
+            "Active Data": {
+                "K": "1.2",
+                "D": "1",
+                "s": "1",
+                "cooldown": "9",
+                "castTime": "1.5",
+                "manaCost": "40",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "STOP_RIGHT_THERE": {
+            "Description": "Immobilizes_monsters_within_a_{_pixel_radius_of_you_for_}_seconds.",
+            "X1": "150",
+            "X2": "1.5",
+            "FuncX": "bigBase",
+            "Y1": "4",
+            "Y2": "20",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{_pixels_&_+}_sec",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.1",
+                "cooldown": "120",
+                "castTime": "1.5",
+                "manaCost": "50",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "HAVE_ANOTHER..._AGAIN!": {
+            "Description": "Basic_Attacks_have_a_{%_chance_to_fire_1_more_arrow._Stacks_with_'Have_Another!'",
+            "X1": "120",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Chance"
+        },
+        "LOOTY_MC_SHOOTY": {
+            "Description": "+{%_Damage_for_every_50_items_you've_ever_found_on_any_of_your_players.",
+            "X1": "36",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_damage"
+        },
+        "SHOEFUL_OF_OBOL": {
+            "Description": "Obols_give_+{%_more_AGI_than_what_is_listed",
+            "X1": "135",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_AGI"
+        },
+        "STRAIGHTSHOT_STATUES": {
+            "Description": "'Speed',_'Anvil',_and_'Bullseye'_statues_give_+{%_more_bonus",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "AGI_AGAIN": {
+            "Description": "+{_Max_Talent_Level_for_'Quickness_Boots'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "VISIBILITY_VESSELS": {
+            "Description": "Each_Lv_of_'Archer_or_Bust'_Bubble_raises_max_Lv_of_'I_See_You',_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_for_ICU"
+        },
+        "WAIT_FOR_WORLD_3": {
+            "Description": "This_talent_will_boost_the_World_3_skill_called_'Trapping'._For_now_it_does_nothing."
+        },
+        "PREVIOUS_POINTS": {
+            "Description": "+{_Talent_Points_for_the_'Archer'_talent_tab._But,what's_wrong_with_these_talents?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "SIEGE_BREAKER": {
+        "BALLISTA": {
+            "Description": "Ballista_bitch",
+            "X1": "400",
+            "X2": "25",
+            "FuncX": "bigBase",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "0.45",
+                "manaCost": "10",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        }
+    },
+    "MAYHEIM": {},
+    "WIND_WALKER": {},
+    "BEAST_MASTER": {},
+    "SAVVY_BASICS": {
+        "HEALTH_BOOSTER": {
+            "Description": "Increases_Max_HP_by_{",
+            "X1": "1",
+            "X2": ".15",
+            "FuncX": "add",
+            "Level Up Text": "+{_HP"
+        },
+        "MANA_BOOSTER": {
+            "Description": "Increases_Max_MP_by_{",
+            "X1": "1",
+            "X2": ".1",
+            "FuncX": "add",
+            "Level Up Text": "+{_MP"
+        },
+        "STAR_PLAYER": {
+            "Description": "Gives_{_Star_Talent_Points._Star_Talents_are_found_throughout_the_game!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Star_Talent_Point"
+        },
+        "BUCKLERED_UP": {
+            "Description": "Increases_Total_Defense_by_+{%",
+            "X1": "40",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Total_DEF"
+        },
+        "SHARPENED_AXE": {
+            "Description": "Increases_Base_Weapon_Power_by_{._This_contributes_to_your_total_damage.",
+            "X1": "0.25",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Base_Weapon_Power"
+        },
+        "FIST_OF_RAGE": {
+            "Description": "Increases_your_Base_STR_by_{_(STR_boosts_Max_HP_and_Crit_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_STR"
+        },
+        "QUICKNESS_BOOTS": {
+            "Description": "Increases_your_Base_AGI_by_{_(AGI_boosts_Movement_Speed_and_Crit_Chance)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_AGI"
+        },
+        "BOOK_OF_THE_WISE": {
+            "Description": "Increases_your_Base_WIS_by_{_(WIS_boosts_Mana_and_Boss_Damage)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_WIS"
+        },
+        "LUCKY_CLOVER": {
+            "Description": "Increases_your_Base_LUK_by_{_(LUK_boosts_drop_rate,_EXP_Gain,_and_other_RNG)",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK"
+        },
+        "GILDED_SWORD": {
+            "Description": "Boosts_Damage_dealt|to_all_monsters_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Damage"
+        },
+        "SMART_EFFICIENCY": {
+            "Description": "Increases_the_total_efficiency_of_all_specialized_skills_by_{%",
+            "X1": "1",
+            "X2": ".02",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Efficiency"
+        },
+        "OVERCLOCKED_ENERGY": {
+            "Description": "Damage_dealt_is_increased_by_{%_for_every_power_of_10_Max_MP_you_have",
+            "X1": "150",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Damage"
+        },
+        "FARSIGHT": {
+            "Description": "Increases_Crit_Chance_by_{%_and_Crit_Dmg_by_}%",
+            "X1": "17",
+            "X2": "45",
+            "FuncX": "decay",
+            "Y1": "33",
+            "Y2": "45",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_Chance,_+}%_DMG"
+        },
+        "IDLE_CASTING": {
+            "Description": "AFK_Gains_Rate_for_Fighting_is_increased_by_{%",
+            "X1": "20",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        },
+        "ACTIVE_AFK'ER": {
+            "Description": "AFK_Gains_Rate_for_all_Specialized_Skills_is_increased_by_{%",
+            "X1": "20",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_AFK_Gains_Rate"
+        }
+    },
+    "MAGE": {
+        "ENERGY_BOLT": {
+            "Description": "Your_next_basic_attack_strikes_the_Targeted_Enemy_for_{%_Damage",
+            "X1": "160",
+            "X2": "2",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.1",
+                "cooldown": "60",
+                "castTime": "1.5",
+                "manaCost": "50",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "MINI_FIREBALL": {
+            "Description": "Shoots_a_fireball_that_explodes_on_impact,_dealing_{%_damage",
+            "X1": "120",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1.21",
+                "s": "1",
+                "cooldown": "8",
+                "castTime": "1.1",
+                "manaCost": "9",
+                "inputReq": "2",
+                "AFKrange": "1",
+                "AFKtype": "auto",
+                "AFKactivity": "0"
+            }
+        },
+        "MANA_OVERDRIVE": {
+            "Description": "Increase_max_MP_by_{%",
+            "X1": ".5",
+            "X2": ".02",
+            "FuncX": "add",
+            "Level Up Text": "+{%_MP"
+        },
+        "TELEPORT": {
+            "Description": "Move_forward_instantly_by_a_distance_of_{_Pixels",
+            "X1": "25",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Level Up Text": "+1_Pixel_Moved",
+            "Active Data": {
+                "K": "1.05",
+                "D": "1.2",
+                "s": "1.1",
+                "cooldown": "10",
+                "castTime": "0.85",
+                "manaCost": "12",
+                "inputReq": "0",
+                "AFKrange": "270",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "YOU'RE_NEXT": {
+            "Description": "Basic_attacks_have_a_{%_chance_to_Mark_enemies,_who_then_take_}%_more_damage",
+            "X1": "110",
+            "X2": "70",
+            "FuncX": "decay",
+            "Y1": "25",
+            "Y2": ".5",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{%_chance_&_+}%_dmg"
+        },
+        "KNOWLEDGE_IS_POWER": {
+            "Description": "The_effect_your_WIS_stat_has_on_Damage_is_increased_by_{%",
+            "X1": "1.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Effect"
+        },
+        "UNT'WIS'TED_ROBES": {
+            "Description": "All_Equipment_gives_{%_more_WIS_than_what's_listed",
+            "X1": "1.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_more_WIS_from_equips"
+        },
+        "POWER_OVERWHELMING": {
+            "Description": "The_effect_Weapon_Power_has_on_Damage_Dealt_is_increased_by_{%",
+            "X1": "1.2",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Weapon_Power_Effect"
+        },
+        "FREE_MEAL": {
+            "Description": "{%_Chance_for_food_to_not_be_consumed_when_it_otherwise_would_be",
+            "X1": "53",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Non-Consume_Chance"
+        },
+        "INDIVIDUAL_INSIGHT": {
+            "Description": "+{_base_WIS",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_WIS"
+        },
+        "LOG_ON_LOGS": {
+            "Description": "For_{_Minutes,_trees_drop_}%_more_Logs_than_normal",
+            "X1": "2",
+            "X2": "10",
+            "FuncX": "intervalAdd",
+            "Y1": "14",
+            "Y2": "1.86",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_Mins_&_+}%_more_Logs",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.15",
+                "cooldown": "1",
+                "castTime": "0.5",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "auto",
+                "AFKactivity": "-1"
+            }
+        },
+        "LEAF_THIEF": {
+            "Description": "{%_Choppin_Efficiency_per_power_of_10_Leaves_in_your_Storage_Chest.",
+            "X1": "25",
+            "X2": "70",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_efficiency"
+        },
+        "DEFORESTING_ALL_DOUBT": {
+            "Description": "The_effect_your_WIS_stat_has_on_Choppin_Efficiency_is_increased_by_{%",
+            "X1": "0.75",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Effect"
+        },
+        "INNER_PEACE": {
+            "Description": "Increases_Exp_Gain_for_all_Specialized_Skills_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Exp_Gain"
+        },
+        "CHOPPIN_IT_UP_EZ": {
+            "Description": "+{%_Minigame_Rewards,_and_+}%_Dmg_per_25_Pts_of_your_Minigame_Highscore",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "5.7",
+            "Y2": "50",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_Rewards_&_+}%_Dmg"
+        }
+    },
+    "WIZARD": {
+        "ICE_SHARDS": {
+            "Description": "Your_next_basic_attack_deals_{%_dmg_3_times,_and_freezes_all_nearby_mobs",
+            "X1": "70",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Damage",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "0.95",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "3"
+            }
+        },
+        "FLOOR_IS_LAVA": {
+            "Description": "Summon_{x2_volcanos_which_erupt_around_you,_dealing_}%_dmg",
+            "X1": "1",
+            "X2": "40",
+            "FuncX": "intervalAdd",
+            "Y1": "120",
+            "Y2": "1",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{_Volcano_&_+}%_Dmg",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1",
+                "cooldown": "10",
+                "castTime": "1.2",
+                "manaCost": "30",
+                "inputReq": "2",
+                "AFKrange": "200",
+                "AFKtype": "auto",
+                "AFKactivity": "0"
+            }
+        },
+        "TORNADO": {
+            "Description": "Summon_a_tornado,_which_deals_{%_dmg_and_disappears_after_}_seconds",
+            "X1": "20",
+            "X2": "0.30",
+            "FuncX": "bigBase",
+            "Y1": "4",
+            "Y2": "20",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Dmg_&_+}_sec",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1.02",
+                "cooldown": "13",
+                "castTime": "0.95",
+                "manaCost": "30",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "SPEEDY_BOOK": {
+            "Description": "Getting_4@kills_in_4@sec_activates_'Speedy_Book'_boosting_attack_rate_by_{%_for_}_sec",
+            "X1": "10",
+            "X2": "0.2",
+            "FuncX": "bigBase",
+            "Y1": "3",
+            "Y2": "15",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_rate_&_}_sec",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1.02",
+                "cooldown": "25",
+                "castTime": "0.95",
+                "manaCost": "30",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "MANA_IS_LIFE": {
+            "Description": "{%_of_taken_dmg_is_dealt_to_MP._Also_passively_boosts_MP_regen_by_+}%",
+            "X1": "25",
+            "X2": "0.35",
+            "FuncX": "bigBase",
+            "Y1": "15",
+            "Y2": "0.35",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{%_dmg_&_}%_MP_regen",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.02",
+                "cooldown": "2",
+                "castTime": "0.95",
+                "manaCost": "30",
+                "inputReq": "0",
+                "AFKrange": "0",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "PAPERWORK,_GREAT...": {
+            "Description": "+{%_Damage_for_every_10_Stamps_in_your_collection._Oink_Oink!",
+            "X1": "60",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_damage"
+        },
+        "OCCULT_OBOLS": {
+            "Description": "Obols_give_+{%_more_WIS_than_what_is_listed",
+            "X1": "135",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_WIS"
+        },
+        "STARING_STATUES": {
+            "Description": "'Exp',_'Lumberbob',_and_'Beholder'_statues_give_+{%_more_bonus",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "WIS_WUMBO": {
+            "Description": "+{_Max_Talent_Level_for_'Book_of_the_Wise'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "FUSCIA_FLASKS": {
+            "Description": "Each_Lv_of_'Mage_is_Best'_Bubble_raises_max_Lv_of_'Overclocked_Energy',_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_cap"
+        },
+        "WAIT_FOR_WORLD_3": {
+            "Description": "This_talent_will_boost_the_World_3_skill_called_Worship._For_now_it_does_nothing."
+        },
+        "EARLIER_EDUCATION": {
+            "Description": "+{_Talent_Points_for_the_'Mage'_talent_tab._What,_these_talent's_aint_good_'nuff_for_ya?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "SHAMAN": {
+        "CRAZY_CONCOCTIONS": {
+            "Description": "Throws_1_of_4_potions,_with_a_potency_of_{%",
+            "X1": "17",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_Potency",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1.02",
+                "cooldown": "60",
+                "castTime": "0.95",
+                "manaCost": "30",
+                "inputReq": "0",
+                "AFKrange": "50",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "AUSPICIOUS_AURA": {
+            "Description": "Casts_}_aura_which_heals_you_and_damages_monsters._The_strength_of_the_aura_is_{%",
+            "X1": "10",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Y1": "1",
+            "Y2": "35",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_Strength_&_+}_Auras",
+            "Active Data": {
+                "K": "1.1",
+                "D": "1.3",
+                "s": "1.02",
+                "cooldown": "23",
+                "castTime": "0.95",
+                "manaCost": "30",
+                "inputReq": "1",
+                "AFKrange": "50",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "SIZZLING_SKULL": {
+            "Description": "Fire_a_skull_which_bounces_around_dealing_{%_dmg_to_up_to_}_monsters",
+            "X1": "125",
+            "X2": "1",
+            "FuncX": "bigBase",
+            "Y1": "3",
+            "Y2": "20",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_dmg_&_+}_more_mobs",
+            "Active Data": {
+                "K": "1.05",
+                "D": "1.21",
+                "s": "1.1",
+                "cooldown": "40",
+                "castTime": "0.95",
+                "manaCost": "60",
+                "inputReq": "0",
+                "AFKrange": "80",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "TENTEYECLE": {
+            "Description": "Killing_a_monster_has_a_{%_chance_to_reduce_attack_cooldowns_by_}_seconds",
+            "X1": "150",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "2",
+            "Y2": "200",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_chance"
+        },
+        "INSTANT_INVINCIBILITY": {
+            "Description": "When_damaged,_you_will_stay_invincible_for_an_additional_+{_more_seconds",
+            "X1": "5",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{_More_Seconds"
+        },
+        "VIRILE_VIALS": {
+            "Description": "+{%_damage_dealt_for_every_alchemy_vial_upgraded_to_at_least_Green_LV",
+            "X1": "15",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Damage"
+        },
+        "OCCULT_OBOLS": {
+            "Description": "Obols_give_+{%_more_WIS_than_what_is_listed",
+            "X1": "135",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_WIS"
+        },
+        "STUPENDOUS_STATUES": {
+            "Description": "'Exp',_'Lumberbob',_and_'Cauldron'_statues_give_+{%_more_bonus",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "WIS_WUMBO": {
+            "Description": "+{_Max_Talent_Level_for_'Book_of_the_Wise'",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_Lv"
+        },
+        "FANTASIA_FLASKS": {
+            "Description": "Each_Lv_of_'Mage_is_Best'_Bubble_raises_max_Lv_of_'Farsight',_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_cap"
+        },
+        "CRANIUM_COOKING": {
+            "Description": "Killing_a_monster_gives_{_seconds_of_instant_alchemy_progress._Lasts_for_}_seconds",
+            "X1": "40",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "10",
+            "Y2": "2",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{_progress_&_+}_time",
+            "Active Data": {
+                "K": "1.05",
+                "D": "1.21",
+                "s": "1.1",
+                "cooldown": "18",
+                "castTime": "0.95",
+                "manaCost": "60",
+                "inputReq": "0",
+                "AFKrange": "130",
+                "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "BUSY_BREWIN'": {
+            "Description": "Boosts_brew_speed_by_+{%_for_this_character.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_brew_effect"
+        },
+        "BUBBLE_BREAKTHROUGH": {
+            "Description": "+{%_Alchemy_EXP._Also,_+}%_odds_of_New_Bubble_when_brewing_on_this_player",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "1",
+            "Y2": ".02",
+            "FuncY": "add",
+            "Level Up Text": "+{%_EXP_&_+}%_chance"
+        },
+        "SHARING_SOME_SMARTS": {
+            "Description": "All_characters_in_the_same_cauldron_as_this_one_gain_+{%_more_Alch_EXP.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Alch_Exp"
+        },
+        "EARLIER_EDUCATION": {
+            "Description": "+{_Talent_Points_for_the_'Mage'_talent_tab._What,_these_talent's_aint_good_'nuff_for_ya?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Talent_Pt"
+        }
+    },
+    "ELEMENTAL_SORCERER": {},
+    "SPIRITUAL_MONK": {},
+    "BUBONIC_CONJUROR": {},
+    "ARCANE_CULTIST": {},
+    "Special Talent 1": {
+        "BORED_TO_DEATH": {
+            "Description": "Reduces_the_Respawn_Timer_to_{_sec._This_will_boost_AFK_Survival_Percent!",
+            "X1": "600",
+            "X2": "2",
+            "FuncX": "reduce",
+            "Level Up Text": "{_sec_Respawn"
+        },
+        "BEGINNER_BEST_CLASS": {
+            "Description": "+1_Base_Weapon_Power_every_10_Lvs_of_your_best_Beginner._Caps_at_+{.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Weapon_Pow_Cap"
+        },
+        "STUDIOUS_QUESTER": {
+            "Description": "Quests_give_+{%_more_exp_than_normal",
+            "X1": "120",
+            "X2": "40",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Quest_Exp"
+        },
+        "QUEST_CHUNGUS": {
+            "Description": "Each_Completed_Quest_gives_+1_LUK._Total_bonus_caps_at_+{_LUK",
+            "X1": "4",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_LUK_Cap"
+        },
+        "CRYSTALS_4_DAYYS": {
+            "Description": "Crystal_Monsters_have_a_+{%_chance_to_spawn",
+            "X1": "174",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Spawn_Rate"
+        },
+        "WILL_OF_THE_ELDEST": {
+            "Description": "+1_All_Stats_for_every_10_Levels_of_your_highest_leveled_character._Caps_at_+{.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_All_Stat_Cap"
+        },
+        "TICK_TOCK": {
+            "Description": "+{%_Away_Gains_Rate_for_both_Fighting_and_Skills",
+            "X1": "8",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Away_Gain_Rate"
+        },
+        "STONKS!": {
+            "Description": "Gives_{_Special_Talent_Points.",
+            "X1": "130",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "Even_Stonkier!"
+        },
+        "ROLL_DA_DICE": {
+            "Description": "Rolls_a_{_sided_dice._If_it_lands_on_a_1,_you_win_a_special_Trophy!",
+            "X1": "10000",
+            "X2": "25",
+            "FuncX": "reduce",
+            "Level Up Text": "Dice_only_has_{_sides",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "80000",
+                "castTime": "0.95",
+                "manaCost": "100",
+                "inputReq": "0",
+                "AFKrange": "50",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "ATTACKS_ON_SIMMER": {
+            "Description": "Attack_moves_boost_your_AFK_gains_+{%_more_than_they_normally_do",
+            "X1": "40",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_attack_AFK_effect"
+        },
+        "TOILET_PAPER_POSTAGE": {
+            "Description": "Stamps_giving_Skill_Efficiency_will_give_{x_higher_bonuses.",
+            "X1": ".7",
+            "X2": "100",
+            "FuncX": "decayMulti",
+            "Level Up Text": "+{x_higher_bonus"
+        },
+        "EXP_CONVERTER": {
+            "Description": "{%_of_EXP_earned_in_chosen_Skill_is_turned_to_Class_EXP._Assign_to_Attack_to_choose.",
+            "X1": "150",
+            "X2": "200",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Exp_Converted",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "200",
+                "castTime": "0.5",
+                "manaCost": "1",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-1"
+            }
+        },
+        "GOBLET_OF_HEMOGLOBIN": {
+            "Description": "Killing_a_monster_heals_you_by_{%._This_also_counts_for_AFK,_helping_Survivability!",
+            "X1": "6",
+            "X2": "66",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_HP_regen_per_kill"
+        }
+    },
+    "Special Talent 2": {
+        "JUST_EXP": {
+            "Description": "+{%_Class_EXP",
+            "X1": "10",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Class_Exp"
+        },
+        "FROTHY_MALK": {
+            "Description": "Boost_foods,_like_potions,_give_+{%_higher_bonuses_than_normal.",
+            "X1": "50",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Boost_Food_Effect"
+        },
+        "CONVERT_BETTER,_DARNIT!": {
+            "Description": "EXP_Converter_Talent_gives_{x_more_Class_EXP_every_5_LV_of_chosen_skill",
+            "X1": "1.7",
+            "X2": "100",
+            "FuncX": "decayMulti",
+            "Level Up Text": "+{x_more_Class_Exp"
+        },
+        "PULSATION": {
+            "Description": "The_rate_at_which_you_gain_mana_used_to_cast_Attacks_is_boosted_by_+{%",
+            "X1": "75",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Mana_Regen_rate"
+        },
+        "CARDIOVASCULAR!": {
+            "Description": "+{%_additional_card_drop_chance._It's_multiplicative,_so_it_always_helps!",
+            "X1": "60",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_card_drop_chance"
+        }
+    },
+    "Special Talent 3": {
+        "Special27": {}
+    },
+    "Special Talent 4": {
+        "Special40": {}
+    },
+    "Special Talent 5": {
+        "Special53": {}
+    }
+}

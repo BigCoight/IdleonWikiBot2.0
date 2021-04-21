@@ -1,0 +1,16 @@
+{{Weapon
+|level=
+|class=
+|type=
+|speed=
+|weaponpower=
+|str=
+|agi=
+|wis=
+|luck=
+|reach=
+|misc= 
+|upgrade= 
+|sellprice=
+|source=
+}}

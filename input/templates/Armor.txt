@@ -1,0 +1,17 @@
+{{Armor
+|class=
+|level=
+|type=
+|skillpower= 
+|weaponpower= 
+|skill=
+|str=
+|agi=
+|wis=
+|luck=
+|defence=
+|misc= 
+|upgrade= 
+|sellprice=
+|source= 
+}}

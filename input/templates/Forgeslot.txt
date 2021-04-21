@@ -1,0 +1,14 @@
+{{ForgeSlot
+|anvtab=
+|craftnum=
+|levelreq=
+|resource1=
+|quantity1=
+|resource2=
+|quantity2=
+|resource3=
+|quantity3=
+|resource4=
+|quantity4=
+|recipefrom=
+}}

@@ -1,0 +1,407 @@
+{
+    "Blunder_Hills": [
+        {
+            "quantity": "500",
+            "item": "FoodHealth1",
+            "no": 0
+        },
+        {
+            "quantity": "500",
+            "item": "FoodHealth3",
+            "no": 1
+        },
+        {
+            "quantity": "500",
+            "item": "FoodHealth2",
+            "no": 2
+        },
+        {
+            "quantity": "500",
+            "item": "FoodPotMana1",
+            "no": 3
+        },
+        {
+            "quantity": "400",
+            "item": "FoodPotOr1",
+            "no": 4
+        },
+        {
+            "quantity": "400",
+            "item": "FoodPotRe1",
+            "no": 5
+        },
+        {
+            "quantity": "400",
+            "item": "FoodPotGr1",
+            "no": 6
+        },
+        {
+            "quantity": "1000",
+            "item": "OilBarrel1",
+            "no": 7
+        },
+        {
+            "quantity": "5000",
+            "item": "CraftMat3",
+            "no": 8
+        },
+        {
+            "quantity": "3",
+            "item": "StoneW1",
+            "no": 9
+        },
+        {
+            "quantity": "6",
+            "item": "StoneA1",
+            "no": 10
+        },
+        {
+            "quantity": "4",
+            "item": "StoneT1",
+            "no": 11
+        },
+        {
+            "quantity": "1",
+            "item": "EquipmentRings7",
+            "no": 12
+        },
+        {
+            "quantity": "3",
+            "item": "EquipmentStatues1",
+            "no": 13
+        },
+        {
+            "quantity": "4",
+            "item": "SmithingHammerChisel",
+            "no": 14
+        },
+        {
+            "quantity": "1",
+            "item": "StampA5",
+            "no": 15
+        },
+        {
+            "quantity": "1",
+            "item": "StampA6",
+            "no": 16
+        },
+        {
+            "quantity": "1",
+            "item": "StampA3",
+            "no": 17
+        },
+        {
+            "quantity": "1",
+            "item": "InvBag104",
+            "no": 18
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage2",
+            "no": 19
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage6",
+            "no": 20
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage7",
+            "no": 21
+        },
+        {
+            "quantity": "15",
+            "item": "rtt0",
+            "no": 22
+        },
+        {
+            "quantity": "1",
+            "item": "ResetFrag",
+            "no": 23
+        }
+    ],
+    "Encroaching_Forest_Villas": [
+        {
+            "quantity": "1000",
+            "item": "FoodHealth3",
+            "no": 0
+        },
+        {
+            "quantity": "1000",
+            "item": "FoodHealth2",
+            "no": 1
+        },
+        {
+            "quantity": "1000",
+            "item": "FoodHealth5",
+            "no": 2
+        },
+        {
+            "quantity": "500",
+            "item": "FoodPotOr2",
+            "no": 3
+        },
+        {
+            "quantity": "500",
+            "item": "FoodPotYe1",
+            "no": 4
+        },
+        {
+            "quantity": "6",
+            "item": "StoneA2",
+            "no": 5
+        },
+        {
+            "quantity": "1",
+            "item": "StampA12",
+            "no": 6
+        },
+        {
+            "quantity": "1",
+            "item": "EquipmentPendant12",
+            "no": 7
+        },
+        {
+            "quantity": "1",
+            "item": "Quest37",
+            "no": 8
+        },
+        {
+            "quantity": "1",
+            "item": "InvBag105",
+            "no": 9
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage8",
+            "no": 10
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage12",
+            "no": 11
+        },
+        {
+            "quantity": "1",
+            "item": "ResetFrag",
+            "no": 12
+        }
+    ],
+    "YumYum_Grotto": [
+        {
+            "quantity": "25000",
+            "item": "FoodHealth6",
+            "no": 0
+        },
+        {
+            "quantity": "25000",
+            "item": "FoodHealth7",
+            "no": 1
+        },
+        {
+            "quantity": "25000",
+            "item": "FoodHealth4",
+            "no": 2
+        },
+        {
+            "quantity": "10000",
+            "item": "Quest19",
+            "no": 3
+        },
+        {
+            "quantity": "1",
+            "item": "BobJoePickle",
+            "no": 4
+        },
+        {
+            "quantity": "3",
+            "item": "StoneW2",
+            "no": 5
+        },
+        {
+            "quantity": "6",
+            "item": "StoneA2",
+            "no": 6
+        },
+        {
+            "quantity": "4",
+            "item": "StoneT2",
+            "no": 7
+        },
+        {
+            "quantity": "20000",
+            "item": "FoodPotOr2",
+            "no": 8
+        },
+        {
+            "quantity": "20000",
+            "item": "FoodPotGr2",
+            "no": 9
+        },
+        {
+            "quantity": "20000",
+            "item": "FoodPotRe2",
+            "no": 10
+        },
+        {
+            "quantity": "1",
+            "item": "InvBag106",
+            "no": 11
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage9",
+            "no": 12
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage10",
+            "no": 13
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage13",
+            "no": 14
+        },
+        {
+            "quantity": "1",
+            "item": "InvStorage15",
+            "no": 15
+        },
+        {
+            "quantity": "15",
+            "item": "rtt0",
+            "no": 16
+        },
+        {
+            "quantity": "1",
+            "item": "ResetFrag",
+            "no": 17
+        }
+    ],
+    "Faraway_Piers": [
+        {
+            "quantity": "1",
+            "item": "Line1",
+            "no": 0
+        },
+        {
+            "quantity": "1",
+            "item": "Weight1",
+            "no": 1
+        },
+        {
+            "quantity": "1",
+            "item": "Line5",
+            "no": 2
+        },
+        {
+            "quantity": "1",
+            "item": "Weight5",
+            "no": 3
+        },
+        {
+            "quantity": "1",
+            "item": "Weight10",
+            "no": 4
+        },
+        {
+            "quantity": "1",
+            "item": "Line10",
+            "no": 5
+        },
+        {
+            "quantity": "1",
+            "item": "Weight11",
+            "no": 6
+        },
+        {
+            "quantity": "2",
+            "item": "StoneT1",
+            "no": 7
+        },
+        {
+            "quantity": "1",
+            "item": "StoneT2",
+            "no": 8
+        },
+        {
+            "quantity": "1",
+            "item": "StampB8",
+            "no": 9
+        },
+        {
+            "quantity": "1",
+            "item": "StampA15",
+            "no": 10
+        },
+        {
+            "quantity": "1",
+            "item": "ResetFrag",
+            "no": 11
+        }
+    ],
+    "Tundra_Camp": [
+        {
+            "quantity": "1",
+            "item": "Line1",
+            "no": 0
+        },
+        {
+            "quantity": "1",
+            "item": "Weight1",
+            "no": 1
+        },
+        {
+            "quantity": "1",
+            "item": "Line5",
+            "no": 2
+        },
+        {
+            "quantity": "1",
+            "item": "Weight5",
+            "no": 3
+        },
+        {
+            "quantity": "1",
+            "item": "Weight10",
+            "no": 4
+        },
+        {
+            "quantity": "1",
+            "item": "Line10",
+            "no": 5
+        },
+        {
+            "quantity": "1",
+            "item": "Weight11",
+            "no": 6
+        },
+        {
+            "quantity": "2",
+            "item": "StoneT1",
+            "no": 7
+        },
+        {
+            "quantity": "1",
+            "item": "StoneT2",
+            "no": 8
+        },
+        {
+            "quantity": "1",
+            "item": "StampB8",
+            "no": 9
+        },
+        {
+            "quantity": "1",
+            "item": "StampA15",
+            "no": 10
+        },
+        {
+            "quantity": "1",
+            "item": "ResetFrag",
+            "no": 11
+        }
+    ]
+}

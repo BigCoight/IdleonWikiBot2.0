@@ -1,0 +1,15 @@
+{{InfoEnemy
+|image=
+|attack=
+|health=
+|defence=
+|speed=
+|world=
+|area=
+|exp=
+|respawn=
+|defence0=
+|crystal=
+|crystalname=
+|hascard=
+}}

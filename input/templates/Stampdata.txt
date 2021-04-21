@@ -1,0 +1,15 @@
+{{stampdata
+|stype=
+|ftype=
+|x1=
+|x2=
+|i4=
+|material=
+|i6=
+|i7=
+|i8=
+|i9=
+|i10=
+|i11=
+|i12=
+}}

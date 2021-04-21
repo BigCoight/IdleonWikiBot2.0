@@ -1,0 +1,746 @@
+{
+    "Power Cauldron": {
+        "ROID_RAGIN": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Total_STR._'Total'_here_means_that,_for_example,_a_+10%_STR_bonus_from_something_else_wouldn't_affect_this_bonus.",
+            "requirements": [
+                ["OakTree", "25"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "WARRIORS_RULE": {
+            "x1": "2",
+            "x2": "50",
+            "func": "decayMulti",
+            "description": "All_Orange_Passive_Bubbles_give_a_{x_higher_bonus,_but_only_for_your_warrior-based_classes.",
+            "requirements": [
+                ["Grasslands1", "20"],
+                ["CraftMat1", "3"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "HEARTY_DIGGY": {
+            "x1": "50",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_mining_efficiency_per_power_of_10_max_HP_that_your_character_has._The_perfect_bonus_for_miners_with_infinite_HP!",
+            "requirements": [
+                ["JungleTree", "40"],
+                ["CopperBar", "18"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "WYOMING_BLOOD": {
+            "x1": "23.5",
+            "x2": "1.5",
+            "func": "bigBase",
+            "description": "Multi-Ore_mining_chance_is_increased_by_+{%,_and_your_max_Multi-Ore_chance_is_300%_instead_of_100%.",
+            "requirements": [
+                ["Bug1", "30"],
+                ["Forest1", "50"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "REELY_SMART": {
+            "x1": "100",
+            "x2": "80",
+            "func": "decay",
+            "description": "+{%_Mining_and_Fishing_EXP_gain._Y'know_what,_I'll_even_DOUBLE_that_bonus_for_whichever_skill_has_the_lower_level!",
+            "requirements": [
+                ["CraftMat6", "25"],
+                ["DesertA3", "40"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "BIG_MEATY_CLAWS": {
+            "x1": "1",
+            "x2": "0.02",
+            "func": "add",
+            "description": "Increases_base_damage_by_+$._This_bonus_increases_based_on_how_much_Max_HP_you_have_above_250.",
+            "requirements": [
+                ["BirchTree", "200"],
+                ["DesertB2", "75"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "SPLOOSH_SPLOOSH": {
+            "x1": "23.5",
+            "x2": "1.5",
+            "func": "bigBase",
+            "description": "Multi-Fish_fishing_chance_is_increased_by_+{%,_and_your_max_Multi-Fish_chance_is_300%_instead_of_100%.",
+            "requirements": [
+                ["Fish2", "100"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "STRONK_TOOLS": {
+            "x1": "65",
+            "x2": "70",
+            "func": "decay",
+            "description": "The_following_tools_give_+{%_more_skilling_Power_than_normal:_$",
+            "requirements": [
+                ["Plat", "60"],
+                ["Grasslands2", "200"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "FMJ": {
+            "x1": "0.5",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_more_defence_from_Equipment._Also,_+1_base_Def_per_Class_LV,_up_to_+{.",
+            "requirements": [
+                ["Bug4", "50"],
+                ["DesertC2", "140"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        },
+        "BAPPITY_BOOPITY": {
+            "x1": "35",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_critical_Damage._Badabing,_badaboom!_Or_in_Italian,_Babadabinga,_babadaboomahh!",
+            "requirements": [
+                ["CraftMat8", "100"],
+                ["JungleTree", "700"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        }
+    },
+    "Quicc Cauldron": {
+        "SWIFT_STEPPIN": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Total_AGI._Probably_the_lamest_of_the_five_stats..._err,_I_mean_four,_hehe.",
+            "requirements": [
+                ["Copper", "15"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "ARCHER_OR_BUST": {
+            "x1": "2",
+            "x2": "50",
+            "func": "decayMulti",
+            "description": "Green_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_archer-based_characters.",
+            "requirements": [
+                ["Grasslands1", "20"],
+                ["BirchTree", "30"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "HAMMER_HAMMER": {
+            "x1": "23",
+            "x2": "2",
+            "func": "bigBase",
+            "description": "You_can_now_produce_+1_more_items_at_once_in_the_anvil,_and_your_production_speed_is_increased_by_{%.",
+            "requirements": [
+                ["Iron", "30"],
+                ["Grasslands3", "30"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "LIL_BIG_DAMAGE": {
+            "x1": "20",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_Mastery._Mastery_is_your_stat_that_boosts_minimum_damage._Just_like_in_Maplest..._err,_just_like_how_I_thought_it_up_myself!",
+            "requirements": [
+                ["Fish1", "25"],
+                ["Jungle3", "40"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "ANVILNOMICS": {
+            "x1": "40",
+            "x2": "100",
+            "func": "decay",
+            "description": "Costs_for_buying_Anvil_Production_Points_is_reduced_by_{%._This_is_just_like_a_tax_cut,_so_remember_me_as_a_hero!",
+            "requirements": [
+                ["ForestTree", "50"],
+                ["Gold", "40"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "QUICK_SLAP": {
+            "x1": "1",
+            "x2": "0.02",
+            "func": "add",
+            "description": "Increases_base_damage_by_+$._This_bonus_increases_based_on_how_much_Movement_Speed_you_have_above_110%.",
+            "requirements": [
+                ["DesertB1", "90"],
+                ["CraftMat6", "200"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "SANIC_TOOLS": {
+            "x1": "65",
+            "x2": "70",
+            "func": "decay",
+            "description": "The_following_tools_give_+{%_more_skilling_Power_than_normal:_$",
+            "requirements": [
+                ["Jungle1", "130"],
+                ["GoldBar", "6"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "BUG]": {
+            "x1": "23.5",
+            "x2": "1.5",
+            "func": "bigBase",
+            "description": "Multi-Bug_catching_chance_is_increased_by_+{%,_and_your_max_Multi-Bug_chance_is_300%_instead_of_100%.",
+            "requirements": [
+                ["Bug3", "70"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "SHAQURACY": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "Your_secondary_stat_(WIS_for_warrior,_STR_for_archer,_AGI_for_mage)_gives_+{%_more_Accuracy_than_normal.",
+            "requirements": [
+                ["Fish4", "65"],
+                ["PalmTree", "250"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        },
+        "CHEAP_SHOT": {
+            "x1": "7",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_critical_Chance,_as_it_increases_the_chance_for_your_attack_to_hit_the_monster's_privates,_and_for_the_monster_to_be_male.",
+            "requirements": [
+                ["Bug5", "35"],
+                ["DesertC3", "150"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        }
+    },
+    "High-IQ Cauldron": {
+        "STABLE_JENIUS": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Total_WIS._Honesty_the_greatest_bonus_in_any_Idle_Game,_believe_me._Absolutely_incredible,_everyone_says_so!",
+            "requirements": [
+                ["CraftMat1", "10"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "MAGE_IS_BEST": {
+            "x1": "2",
+            "x2": "50",
+            "func": "decayMulti",
+            "description": "Purple_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_mage-based_characters.",
+            "requirements": [
+                ["Grasslands1", "25"],
+                ["CopperBar", "13"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "HOCUS_CHOPPUS": {
+            "x1": "50",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_choppin_efficiency_per_power_of_10_max_MP_that_your_character_has._Super_diaper!_Err,_duper.",
+            "requirements": [
+                ["CraftMat5", "22"],
+                ["ForestTree", "40"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "MOLTO_LOGGO": {
+            "x1": "23.5",
+            "x2": "1.5",
+            "func": "bigBase",
+            "description": "Multi-Log_chop_chance_is_increased_by_+{%,_and_your_max_Multi-Log_chance_is_now_300%_instead_of_100%.",
+            "requirements": [
+                ["IronBar", "21"],
+                ["DesertA2", "30"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "NOODUBBLE": {
+            "x1": "100",
+            "x2": "60",
+            "func": "decay",
+            "description": "+{%_Choppin'_and_Alchemy_EXP_gain._Y'know_what,_I'll_even..._actually,_never_mind.",
+            "requirements": [
+                ["CraftMat7", "20"],
+                ["Fish2", "30"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "NAME_I_GUESS2": {
+            "x1": "1",
+            "x2": "0.02",
+            "func": "add",
+            "description": "Increases_base_damage_by_+$._This_bonus_increases_based_on_how_much_Max_MP_you_have_above_150.",
+            "requirements": [
+                ["Jungle2", "110"],
+                ["Gold", "40"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "LE_BRAIN_TOOLS": {
+            "x1": "65",
+            "x2": "70",
+            "func": "decay",
+            "description": "The_following_tools_give_+{%_more_skilling_Power_than_normal:_$",
+            "requirements": [
+                ["BirchTree", "250"],
+                ["Bug3", "55"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "COOKIN_ROADKILL": {
+            "x1": "120",
+            "x2": "70",
+            "func": "decay",
+            "description": "Cranium_Cooking_lasts_{%_longer,_gives_{%_more_progress_per_kill,_and_has_a_{%_lower_cooldown._Also_+{%_Alchemy_EXP!",
+            "requirements": [
+                ["ToiletTree", "75"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "BREWSTACHIO": {
+            "x1": "50",
+            "x2": "100",
+            "func": "decay",
+            "description": "+{%_Brew_Speed._This_a_multiplicative_bonus,_which_means_its_ultra_powerful,_all_the_time!_Even_on_Mondays,_the_worst_day!",
+            "requirements": [
+                ["DesertC1", "150"],
+                ["Fish4", "50"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        },
+        "ALL_FOR_KILL": {
+            "x1": "40",
+            "x2": "100",
+            "func": "decay",
+            "description": "Attack_Talents_give_+{%_higher_bonuses_to_Offline_Gains_than_they_normally_do._So_you_might_as_well_just_AFK_forever,_bye!",
+            "requirements": [
+                ["StumpTree", "100"],
+                ["PlatBar", "5"],
+                ["Liquid1", "5"],
+                ["Liquid2", "2"]
+            ]
+        }
+    },
+    "Kazam Cauldron": {
+        "LOTTO_SKILLS": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_LUK._Also,_this_will_increase_your_chances_of_winning_the_lottery_in_real_life_from_0.0%_to_0.000%!_I'm_not_even_joking,_it's_true!!",
+            "requirements": [
+                ["Copper", "11"],
+                ["OakTree", "15"],
+                ["CraftMat1", "8"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "DROPPIN_LOADS": {
+            "x1": "40",
+            "x2": "70",
+            "func": "decay",
+            "description": "+{%_Drop_Rate._Thanks_to_this_upgrade,_you_can_get_even_MORE_angry_when_you_keep_not_getting_that_rare_pet_drop_from_the_boss!",
+            "requirements": [
+                ["Fish1", "20"],
+                ["Bug1", "30"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "STARTUE_EXP": {
+            "x1": "25",
+            "x2": "60",
+            "func": "decay",
+            "description": "Leveling_up_a_statue_resets_it's_exp_bar_down_to_{%,_instead_of_0%._Staturrific!_Yea..._the_jokes_are_only_gonna_go_downhill_from_here_lol",
+            "requirements": [
+                ["DesertA1", "30"],
+                ["Forest2", "40"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "LEVEL_UP_GIFT": {
+            "x1": "100",
+            "x2": "30",
+            "func": "decay",
+            "description": "Whenever_you_level_up_anything,_{%_chance_to_drop_a_gift!_It_could_be_an_EXP_balloon,_a_Gem_for_the_gem_shop,_or_something_crazy_weird!",
+            "requirements": [
+                ["Iron", "35"],
+                ["JungleTree", "70"],
+                ["CraftMat5", "30"],
+                ["Liquid1", "2"]
+            ]
+        },
+        "PROWESESSARY": {
+            "x1": "1.5",
+            "x2": "60",
+            "func": "decayMulti",
+            "description": "The_Prowess_Bonus_for_every_skill_is_multiplied_by_{._Prowess_lowers_the_Efficiency_needed_to_get_multiple_QTY_per_drop_from_resources.",
+            "requirements": [
+                ["GoldBar", "25"],
+                ["ToiletTree", "50"],
+                ["Liquid1", "3"]
+            ]
+        },
+        "STAMP_TRAMP": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "Increases_the_Max_Lv_of_the_'Toilet_Paper_Postage'_Talent_to_{._You_can_unlock_this_talent_by_typing_'More_like_Poopy_Pete'_near_Pete.",
+            "requirements": [
+                ["Bug2", "65"],
+                ["Liquid1", "4"]
+            ]
+        },
+        "UNDEVELOPED_COSTS": {
+            "x1": "40",
+            "x2": "70",
+            "func": "decay",
+            "description": "Reduces_the_material_costs_of_all_Alchemy_Bubbles_by_{%._They_are_just_bubbles_though,_how_much_could_they_even_cost?_10_dollars?",
+            "requirements": [
+                ["Fish3", "75"],
+                ["Liquid1", "6"]
+            ]
+        },
+        "DA_DAILY_DRIP": {
+            "x1": "30",
+            "x2": "100",
+            "func": "decay",
+            "description": "Increases_the_Max_Cap_for_every_liquid_by_+$._This_bonus_increases_based_on_the_combined_Alchemy_LV_of_all_your_characters!",
+            "requirements": [
+                ["CraftMat9", "125"],
+                ["Liquid1", "8"]
+            ]
+        },
+        "GRIND_TIME": {
+            "x1": "9.7",
+            "x2": ".3",
+            "func": "bigBase",
+            "description": "+{%_Class_EXP._The_go-to_active_bubble_for_anyone_who_wants_to_reach_max_level_faster_and_finally_start_playing_the_game!",
+            "requirements": [
+                ["Liquid1", "50"],
+                ["Liquid2", "25"]
+            ]
+        },
+        "LAAARRRRYYYY": {
+            "x1": "120",
+            "x2": "100",
+            "func": "decay",
+            "description": "Every_time_you_upgrade_an_Alchemy_bubble,_there's_a_{%_chance_it'll_upgrade_2_times,_for_no_extra_cost!_Two_fer_one,_getter_dun!",
+            "requirements": [
+                ["Dementia", "50"],
+                ["DesertC4", "130"],
+                ["Liquid2", "4"]
+            ]
+        }
+    },
+    "Vials": {
+        "COPPER_CORONA": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "Orange_bubble_cauldron_brew_speed_is_increased_by_+{%",
+            "requirements": [
+                ["Copper", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "SIPPY_SPLINTERS": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "Green_bubble_cauldron_brew_speed_is_increased_by_+{%",
+            "requirements": [
+                ["OakTree", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "MUSHROOM_SOUP": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "Yellow_cauldron_brew_speed_is_increased_by_+{%",
+            "requirements": [
+                ["Grasslands1", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "SPOOL_SPRITE": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "Purple_cauldron_brew_speed_is_increased_by_+{%",
+            "requirements": [
+                ["CraftMat1", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "BARIUM_MIXTURE": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Water_Droplet_max_capacity._Thats_the_1st_liquid_type_in_Alchemy,_btw.",
+            "requirements": [
+                ["CopperBar", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "DIETER_DRENK": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "Monsters_drop_+{%_more_money.",
+            "requirements": [
+                ["Grasslands3", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "SKINNY_0_CAL": {
+            "x1": "2.5",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_chance_to_get_double_points_when_depositing_statues._So_like..._if_you_deposit_one_statue,_it_might_count_as_one!_Or_two.",
+            "requirements": [
+                ["Jungle2", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "THUMB_POW": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "When_converting_Skill_EXP_into_Class_EXP_using_the_'EXP_CONVERTER'_star_talent,_you'll_get_{%_more_Class_EXP_than_you_usually_do.",
+            "requirements": [
+                ["CraftMat5", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "JUNGLE_JUICE": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_liquid_regen_rate_for_all_liquid_cauldrons._Yes,_even_the_secret_one!",
+            "requirements": [
+                ["JungleTree", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "BARLEY_BREW": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "Alchemy_bubble_upgrade_costs_are_{%_lower_for_all_bubbles!_Even_the_giraffe_bubbles_that_look_strangely_like_elephants!",
+            "requirements": [
+                ["IronBar", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "ANEARFUL": {
+            "x1": "2",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Card_drop_rate._Even_works_offline,_just_like_it_always_has!_What_do_you_mean_this_used_to_say_something_different...?",
+            "requirements": [
+                ["Forest1", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "TEA_WITH_PEA": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Liquid_Nitrogen_max_capacity._Thats_the_2nd_liquid_type_in_Alchemy,_btw.",
+            "requirements": [
+                ["ToiletTree", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "GOLD_GUZZLE": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Shop_sell_price.",
+            "requirements": [
+                ["Gold", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "RAMIFICOCTION": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Talent_Points_for_Tab_1._Shout_out_to_that_1_person_who'll_make_it_this_far_without_knowing_what_talents_are,_you're_my_hero!",
+            "requirements": [
+                ["Forest3", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "SEAWATER": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_chance_for_1_kill_to_count_for_2_when_trying_to_open_new_portals,_but_only_while_actively_playing._One,_two,_buckle_my_shoe.",
+            "requirements": [
+                ["Fish1", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "TAIL_TIME": {
+            "x1": "0.5",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Weapon_Power._This_is_gonna_be_OP_in_later_worlds_I_can_already_tell.",
+            "requirements": [
+                ["Sewers2", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "FLY_IN_MY_DRINK": {
+            "x1": "3",
+            "x2": "0",
+            "func": "add",
+            "description": "Eww_go_get_me_another_one,_I_can't_drink_this!_...what,_why_are_you_looking_at_me_like_that?_OH_right,_uh,_this_gives_+{_base_Accuracy.",
+            "requirements": [
+                ["Bug1", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "MIMICRAUGHT": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_EXP_from_monsters._Sorry,_I_know_this_is_a_lame_bonus._Send_me_an_email_if_you_want_me_change_it_to_+{%_NPC_dialogue_talking_speed.",
+            "requirements": [
+                ["DesertA2", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "BLUE_FLAV": {
+            "x1": "30",
+            "x2": "7",
+            "func": "decay",
+            "description": "-{%_material_cost_for_stamps._You_know_how_it's_hard_to_increase_stamps_max_levels?_Well_this_kinda_makes_that_a_bit_less_factual!",
+            "requirements": [
+                ["Plat", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "SLUG_SLURP": {
+            "x1": "2",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Post_Office_Box_Points_for_every_character,_and_easily_the_best_bonus_in_the_game._A_box_will_never_abandon_you!",
+            "requirements": [
+                ["Fish2", "L"],
+                ["Liquid1", "L"]
+            ]
+        },
+        "PICKLE_JAR": {
+            "x1": "50",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Nothing._Absolutely_nothing,_now_and_forever._It's_a_darn_pickle,_what_were_you_expecting?",
+            "requirements": [
+                ["BobJoePickle", "L"],
+                ["Liquid1", "L"]
+            ]
+        }
+    },
+    "Liquid Shop": {
+        "MEDIOCRE_OBOLS": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "1_random_low-quality_Obol._Sure,_it'll_probably_be_a_crappy_bronze_Obol,_but_that's_not_bad_considering_youre_paying_with_water!",
+            "requirements": [
+                ["Liquid1", "10"]
+            ]
+        },
+        "WEAK_UPG_STONE": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "`Slaps_roof_of_car`_This_bad_boy_can_upgrade_so_many_equipm..._wait,_how'd_a_car_get_in_here?_Gives_1_random_low-quality_Upgrade_Stone.",
+            "requirements": [
+                ["Liquid1", "5"]
+            ]
+        },
+        "DISTILLED_WATER": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "This_distilled_water_was_double-purified_by_running_it_through_thousands_of_diamonds!_So_yea,_it's_just_regular_water,_but_more_expensive.",
+            "requirements": [
+                ["Liquid1", "1"]
+            ]
+        },
+        "ONE_MEASLY_GEM": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "1_Gem._Perfect_for_buying_things_in_the_Gem_Shop!_Sponsored_by_LavaFlame2's_Gem_Shop;_'Come_for_the_items,_leave_for_the_prices!'",
+            "requirements": [
+                ["Liquid1", "5"]
+            ]
+        },
+        "STAR_BOOK": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "Gives_you_a_Star-Book!_It's_always_the_same_one,_but_it_comes_with_a_random_Max_Lv,_so_keep_buying_it_until_you_get_one_with_a_100_Lv_Max!",
+            "requirements": [
+                ["Liquid1", "50"]
+            ]
+        },
+        "EXP_BALLOON": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "A_small_exp_balloon._They_give_you_exp_in_whatever_skill_you're_currently_training!_Using_them_in_town_will_give_EXP_in_the_town_skill!",
+            "requirements": [
+                ["Liquid1", "15"]
+            ]
+        },
+        "SMALL_DONATION": {
+            "x1": "1",
+            "x2": "0",
+            "func": "1",
+            "description": "Your_donation_helps_starving_orphan_monsters._They_asked_for_food,_but_beggars_can't_be_choosers!_You_wont_get_anything_for_doing_this.",
+            "requirements": [
+                ["Liquid1", "1"]
+            ]
+        },
+        "DECENT_OBOLS": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "1_random_low-quality_Obol,_except_this_time_the_'low'_was_rated_by_someone_with_higher_standards,_so_it's_more_like_medium_quality!",
+            "requirements": [
+                ["Liquid1", "20"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "TALENT_POINT": {
+            "x1": "1",
+            "x2": "1",
+            "func": "1",
+            "description": "Gives_a_redeemable_talent_point_for_the_2nd_Talent_Tab._Applies_to_all_characters._Also,_this_item's_cost_will_never_reset,_never_ever_ever!",
+            "requirements": [
+                ["Liquid1", "3"],
+                ["Liquid2", "1"]
+            ]
+        }
+    },
+    "??": {}
+}

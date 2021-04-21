@@ -1,0 +1,518 @@
+{
+    "Simple Shippin": {
+        "Orders": {
+            "Copper": {
+                "Base": "150",
+                "Increment": "1.27"
+            },
+            "Iron": {
+                "Base": "150",
+                "Increment": "1.23"
+            },
+            "CopperBar": {
+                "Base": "50",
+                "Increment": "1.25"
+            },
+            "OakTree": {
+                "Base": "200",
+                "Increment": "1.27"
+            },
+            "BirchTree": {
+                "Base": "100",
+                "Increment": "1.26"
+            },
+            "JungleTree": {
+                "Base": "80",
+                "Increment": "1.25"
+            },
+            "Fish1": {
+                "Base": "120",
+                "Increment": "1.23"
+            },
+            "Bug1": {
+                "Base": "120",
+                "Increment": "1.23"
+            },
+            "Fish2": {
+                "Base": "100",
+                "Increment": "1.22"
+            },
+            "Bug2": {
+                "Base": "100",
+                "Increment": "1.22"
+            },
+            "IronBar": {
+                "Base": "50",
+                "Increment": "1.18"
+            },
+            "CraftMat1": {
+                "Base": "100",
+                "Increment": "1.2"
+            },
+            "CraftMat5": {
+                "Base": "40",
+                "Increment": "1.20"
+            },
+            "Gold": {
+                "Base": "100",
+                "Increment": "1.23"
+            },
+            "GoldBar": {
+                "Base": "25",
+                "Increment": "1.15"
+            },
+            "ToiletTree": {
+                "Base": "125",
+                "Increment": "1.22"
+            },
+            "Fish3": {
+                "Base": "70",
+                "Increment": "1.2"
+            },
+            "Bug3": {
+                "Base": "90",
+                "Increment": "1.2"
+            },
+            "CraftMat6": {
+                "Base": "25",
+                "Increment": "1.19"
+            },
+            "PalmTree": {
+                "Base": "110",
+                "Increment": "1.23"
+            },
+            "Fish4": {
+                "Base": "40",
+                "Increment": "1.18"
+            },
+            "StumpTree": {
+                "Base": "100",
+                "Increment": "1.21"
+            },
+            "Bug4": {
+                "Base": "65",
+                "Increment": "1.18"
+            }
+        },
+        "Rewards": {
+            "COIN": ["1", "14", "12", "3", "10"],
+            "StoneA1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "StoneW1": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "StoneT1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "FoodG1": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "Peanut": {
+                "Base": "50",
+                "Increment": "0"
+            },
+            "EquipmentStatues1": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "ExpBalloon1": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentStatues4": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "Key1": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "Key2": {
+                "Base": "1",
+                "Increment": "2"
+            },
+            "StoneHelm1": {
+                "Base": "1",
+                "Increment": "2"
+            },
+            "PremiumGem": {
+                "Base": "1",
+                "Increment": "3"
+            }
+        }
+    },
+    "Plan-it Express": {
+        "Orders": {
+            "EquipmentHats1": {
+                "Base": "1",
+                "Increment": "1.023"
+            },
+            "TestObj1": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentShoes9": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentShoes1": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentShoes15": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentHats15": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentShirts11": {
+                "Base": "1",
+                "Increment": "1.02"
+            },
+            "EquipmentHats16": {
+                "Base": "1",
+                "Increment": "1.018"
+            },
+            "EquipmentShirts2": {
+                "Base": "1",
+                "Increment": "1.018"
+            },
+            "EquipmentBows3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentTools3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentHats18": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentHats28": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentPunching3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentWands5": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "TestObj3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentToolsHatchet1": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentShirts24": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentShoes3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentRings2": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentBows4": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentShirts3": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentBows5": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "FishingRod4": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "CatchingNet4": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentBows6": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "FishingRod5": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentPants5": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentToolsHatchet4": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentTools6": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentPendant14": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentShoes4": {
+                "Base": "1",
+                "Increment": "1"
+            }
+        },
+        "Rewards": {
+            "COIN": ["1", "17", "15", "3", "10"],
+            "StoneA1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "StoneW1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "FoodG4": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "FoodPotGr2": {
+                "Base": "100",
+                "Increment": "0"
+            },
+            "ExpBalloon1": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "EquipmentStatues4": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "StoneA2": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "StoneT2": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "EquipmentStatues6": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "Key1": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "StoneHelm1": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "FoodPotYe1": {
+                "Base": "100",
+                "Increment": "2"
+            },
+            "Key2": {
+                "Base": "1",
+                "Increment": "2"
+            },
+            "StoneW2": {
+                "Base": "1",
+                "Increment": "2"
+            },
+            "PremiumGem": {
+                "Base": "1",
+                "Increment": "3"
+            }
+        }
+    },
+    "Dudes Next Door": {
+        "Orders": {
+            "Grasslands1": {
+                "Base": "125",
+                "Increment": "1.25"
+            },
+            "Grasslands2": {
+                "Base": "120",
+                "Increment": "1.24"
+            },
+            "Grasslands3": {
+                "Base": "115",
+                "Increment": "1.23"
+            },
+            "Jungle1": {
+                "Base": "110",
+                "Increment": "1.22"
+            },
+            "Jungle2": {
+                "Base": "105",
+                "Increment": "1.22"
+            },
+            "Jungle3": {
+                "Base": "100",
+                "Increment": "1.21"
+            },
+            "Forest1": {
+                "Base": "100",
+                "Increment": "1.21"
+            },
+            "Forest2": {
+                "Base": "90",
+                "Increment": "1.22"
+            },
+            "Forest3": {
+                "Base": "90",
+                "Increment": "1.22"
+            },
+            "DesertA1": {
+                "Base": "100",
+                "Increment": "1.25"
+            },
+            "Sewers1": {
+                "Base": "100",
+                "Increment": "1.21"
+            },
+            "DesertA2": {
+                "Base": "95",
+                "Increment": "1.24"
+            },
+            "TreeInterior1": {
+                "Base": "80",
+                "Increment": "1.21"
+            },
+            "DesertA3": {
+                "Base": "150",
+                "Increment": "1.23"
+            },
+            "Sewers2": {
+                "Base": "100",
+                "Increment": "1.2"
+            },
+            "TreeInterior2": {
+                "Base": "70",
+                "Increment": "1.21"
+            },
+            "Quest17": {
+                "Base": "2",
+                "Increment": "1.04"
+            },
+            "DesertB1": {
+                "Base": "100",
+                "Increment": "1.23"
+            },
+            "DesertB2": {
+                "Base": "100",
+                "Increment": "1.23"
+            },
+            "DesertB3": {
+                "Base": "80",
+                "Increment": "1.22"
+            },
+            "DesertB4": {
+                "Base": "80",
+                "Increment": "1.22"
+            },
+            "DesertC1": {
+                "Base": "80",
+                "Increment": "1.22"
+            },
+            "DesertC2": {
+                "Base": "80",
+                "Increment": "1.21"
+            },
+            "DesertC3": {
+                "Base": "80",
+                "Increment": "1.21"
+            },
+            "DesertC4": {
+                "Base": "80",
+                "Increment": "1.21"
+            }
+        },
+        "Rewards": {
+            "COIN": ["1", "10", "13", "3", "10"],
+            "StoneA1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "StoneW1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "FoodG2": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "FoodPotYe2": {
+                "Base": "100",
+                "Increment": "0"
+            },
+            "ExpBalloon1": {
+                "Base": "1",
+                "Increment": "0"
+            },
+            "StoneA2": {
+                "Base": "2",
+                "Increment": "2"
+            },
+            "StoneT2": {
+                "Base": "2",
+                "Increment": "2"
+            },
+            "StoneW2": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "Key2": {
+                "Base": "1",
+                "Increment": "1"
+            },
+            "StoneW3": {
+                "Base": "1",
+                "Increment": "3"
+            },
+            "PremiumGem": {
+                "Base": "2",
+                "Increment": "3"
+            }
+        }
+    },
+    "NYI": {
+        "Orders": {
+            "Copper": {
+                "Base": "150",
+                "Increment": "1.4"
+            }
+        },
+        "Rewards": {
+            "COIN": ["1", "6", "5", "5"],
+            "StoneA1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "StoneW1": {
+                "Base": "2",
+                "Increment": "0"
+            },
+            "FoodG1": {
+                "Base": "1",
+                "Increment": "0"
+            }
+        }
+    }
+}

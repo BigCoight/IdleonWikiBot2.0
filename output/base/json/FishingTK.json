@@ -1,0 +1,306 @@
+{
+    "Weight": [
+        {
+            "Name": "Fly",
+            "Depth1": "2",
+            "Depth2": "1",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Wormie",
+            "Depth1": "0",
+            "Depth2": "15",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "5",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Iron_Hook",
+            "Depth1": "3",
+            "Depth2": "2",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "3",
+            "FishingPower": "1"
+        },
+        {
+            "Name": "Basic_Bobber",
+            "Depth1": "0",
+            "Depth2": "3",
+            "Depth3": "3",
+            "Depth4": "0",
+            "FishingExp": "4",
+            "FishingSpeed": "4",
+            "FishingPower": "1"
+        },
+        {
+            "Name": "Dualhook_Prongs",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "4",
+            "Depth4": "4",
+            "FishingExp": "0",
+            "FishingSpeed": "8",
+            "FishingPower": "3"
+        },
+        {
+            "Name": "Pound_of_Steel",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "30",
+            "FishingExp": "2",
+            "FishingSpeed": "2",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Pound_of_Feathers",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "35",
+            "Depth4": "10",
+            "FishingExp": "0",
+            "FishingSpeed": "5",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Massless_Unit",
+            "Depth1": "20",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "10",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Literal_Elephant",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "20",
+            "Depth4": "60",
+            "FishingExp": "5",
+            "FishingSpeed": "0",
+            "FishingPower": "5"
+        },
+        {
+            "Name": "Valve_Circles",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "40",
+            "FishingExp": "5",
+            "FishingSpeed": "10",
+            "FishingPower": "5"
+        },
+        {
+            "Name": "Dynamite",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "10",
+            "Depth4": "20",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "2"
+        },
+        {
+            "Name": "Not_Dynamite",
+            "Depth1": "12",
+            "Depth2": "12",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "4"
+        },
+        {
+            "Name": "Triple_Threat",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "6",
+            "FishingSpeed": "6",
+            "FishingPower": "6"
+        },
+        {
+            "Name": "Crash_Box",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "11",
+            "FishingExp": "0",
+            "FishingSpeed": "12",
+            "FishingPower": "5"
+        },
+        {
+            "Name": "Fat_Albert",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "10",
+            "FishingSpeed": "0",
+            "FishingPower": "19"
+        }
+    ],
+    "Line": [
+        {
+            "Name": "Fishing_Twine",
+            "Depth1": "0",
+            "Depth2": "3",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Copper_Twine",
+            "Depth1": "0",
+            "Depth2": "3",
+            "Depth3": "5",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "3",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Silver_Twine",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Gold_Twine",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Platinum_Twine",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Leafy_Vines",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "10",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "0",
+            "FishingPower": "2"
+        },
+        {
+            "Name": "Fun_Flags",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "8",
+            "Depth4": "8",
+            "FishingExp": "0",
+            "FishingSpeed": "1",
+            "FishingPower": "3"
+        },
+        {
+            "Name": "Electrical_Wire",
+            "Depth1": "20",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "2",
+            "FishingPower": "5"
+        },
+        {
+            "Name": "Wiener_Links",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "17",
+            "Depth4": "5",
+            "FishingExp": "0",
+            "FishingSpeed": "3",
+            "FishingPower": "10"
+        },
+        {
+            "Name": "Zeus_Gon_Fishin",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "30",
+            "FishingExp": "0",
+            "FishingSpeed": "5",
+            "FishingPower": "20"
+        },
+        {
+            "Name": "Needledrop",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "5",
+            "Depth4": "10",
+            "FishingExp": "5",
+            "FishingSpeed": "0",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Spoons_Lol",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "15",
+            "FishingExp": "9",
+            "FishingSpeed": "2",
+            "FishingPower": "1"
+        },
+        {
+            "Name": "Its_a_Boy",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "0",
+            "FishingSpeed": "15",
+            "FishingPower": "5"
+        },
+        {
+            "Name": "Its_a_Girl",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "15",
+            "FishingSpeed": "5",
+            "FishingPower": "0"
+        },
+        {
+            "Name": "Its_Alright",
+            "Depth1": "0",
+            "Depth2": "0",
+            "Depth3": "0",
+            "Depth4": "0",
+            "FishingExp": "8",
+            "FishingSpeed": "8",
+            "FishingPower": "8"
+        }
+    ]
+}

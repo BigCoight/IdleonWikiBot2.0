@@ -1,0 +1,8 @@
+{{Food
+|type=
+|effect=
+|consume=
+|cooldown=
+|sellprice=
+|source=
+}}

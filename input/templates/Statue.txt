@@ -1,0 +1,6 @@
+{{statue
+|bonus=
+|description=
+|sellprice=
+|source=
+}}

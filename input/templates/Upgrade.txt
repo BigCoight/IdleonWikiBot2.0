@@ -1,0 +1,8 @@
+{{upgrade
+|type=
+|tier=
+|level=
+|description=
+|source=
+|sellprice=
+}}

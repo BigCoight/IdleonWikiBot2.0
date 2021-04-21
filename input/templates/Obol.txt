@@ -1,0 +1,14 @@
+{{obol
+|type=
+|rarity=
+|weaponpower=
+|skillpower=
+|skill=
+|defence=
+|str=
+|agi=
+|wis=
+|luck=
+|misc=
+|source=
+}}

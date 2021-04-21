@@ -1,0 +1,167 @@
+{
+    "DropTable1": [
+        ["COIN", "0", "1", "N/A"],
+        ["SmithingRecipes1", "0.008", "27", "N/A"],
+        ["FoodHealth1", ".25", "10", "N/A"],
+        ["FoodPotMana1", "0.1", "5", "N/A"],
+        ["EquipmentHats5", "0.01", "1", "N/A"],
+        ["EquipmentPants10", "0.02", "1", "N/A"],
+        ["StampB3", "0.0012", "1", "N/A"],
+        ["Quest24", "0.5", "3", "Mutton4"],
+        ["SuperDropTable1", "0.0040", "1", "N/A"]
+    ],
+    "DropTable2": [
+        ["COIN", "0", "1", "N/A"],
+        ["FoodHealth3", ".35", "15", "N/A"],
+        ["EquipmentStatues1", ".12", "1", "N/A"],
+        ["FoodPotGr1", "0.1", "5", "N/A"],
+        ["FoodPotOr2", "0.2", "10", "N/A"],
+        ["rtt0", "0.02", "1", "N/A"],
+        ["EquipmentShirts21", "0.01", "1", "N/A"],
+        ["Quest21", "0.3", "1", "Funguy3"],
+        ["Quest24", "0.5", "4", "Mutton4"],
+        ["SuperDropTable1", "0.0045", "1", "N/A"]
+    ],
+    "DropTable3": [
+        ["COIN", "0", "1", "N/A"],
+        ["FoodHealth2", ".42", "15", "N/A"],
+        ["EquipmentStatues5", ".12", "1", "N/A"],
+        ["SmithingRecipes1", "0.00005", "39", "N/A"],
+        ["FoodPotMana2", ".25", "10", "N/A"],
+        ["StoneT2", ".03", "1", "N/A"],
+        ["rtt0", "0.05", "1", "N/A"],
+        ["Quest24", "0.5", "6", "Mutton4"],
+        ["SuperDropTable1", "0.0050", "1", "N/A"]
+    ],
+    "DropTable3b": [
+        ["COIN", "0", "1", "N/A"],
+        ["FoodPotRe1", ".4", "25", "N/A"],
+        ["FoodPotMana1", ".4", "25", "N/A"],
+        ["EquipmentStatues5", ".09", "1", "N/A"],
+        ["EquipmentStatues4", ".05", "1", "N/A"],
+        ["Quest24", "0.5", "3", "Mutton4"],
+        ["SuperDropTable1", "0.0055", "1", "N/A"]
+    ],
+    "DropTable3c": [
+        ["COIN", "0", "1", "N/A"],
+        ["FoodPotRe1", ".4", "25", "N/A"],
+        ["FoodPotMana1", ".4", "25", "N/A"],
+        ["EquipmentStatues5", ".09", "1", "N/A"],
+        ["EquipmentStatues15", ".05", "1", "N/A"],
+        ["Quest24", "0.5", "3", "Mutton4"],
+        ["SuperDropTable1", "0.0055", "1", "N/A"]
+    ],
+    "DropTable4": [
+        ["COIN", "0", "1", "N/A"],
+        ["StoneA1", ".03", "1", "N/A"],
+        ["StoneT1", ".03", "1", "N/A"],
+        ["EquipmentStatues7", ".27", "1", "N/A"],
+        ["FoodPotGr1", "0.2", "5", "N/A"],
+        ["StampB11", "0.0009", "1", "N/A"],
+        ["SuperDropTable1", "0.0060", "1", "N/A"]
+    ],
+    "DropTable5": [
+        ["COIN", "0", "1", "N/A"],
+        ["Leaf1", ".5", "5", "N/A"],
+        ["StoneW1", ".03", "1", "N/A"],
+        ["StoneT1", ".03", "1", "N/A"],
+        ["EquipmentStatues3", ".32", "1", "N/A"],
+        ["FoodPotOr1", "0.1", "5", "N/A"],
+        ["StampB9", "0.0015", "1", "N/A"],
+        ["SuperDropTable1", "0.0060", "1", "N/A"]
+    ],
+    "SuperDropTable1": [
+        ["COIN", "0", "1", "N/A"],
+        ["SilverPen", ".07", "1", "N/A"],
+        ["Trophy2", ".0003", "1", "N/A"],
+        ["ResetFrag", ".10", "1", "N/A"],
+        ["TalentBook1", ".10", "3623100", "N/A"],
+        ["TalentBook1", ".10", "362450", "N/A"],
+        ["FoodG4", "0.5", "1", "N/A"],
+        ["StoneZ1", "0.85", "2", "N/A"]
+    ],
+    "DropTable5b": [
+        ["COIN", "0", "1", "N/A"],
+        ["EquipmentStatues2", ".07", "1", "N/A"],
+        ["EquipmentStatues4", ".05", "1", "N/A"],
+        ["EquipmentStatues14", ".05", "1", "N/A"]
+    ],
+    "DropTable6": [
+        ["COIN", "0", "1", "N/A"],
+        ["InvBag7", ".0012", "1", "N/A"],
+        ["FoodHealth6", ".42", "15", "N/A"],
+        ["FoodPotGr2", ".4", "25", "N/A"],
+        ["StampB15", "0.0006", "1", "N/A"],
+        ["EquipmentStatues12", ".07", "1", "N/A"],
+        ["Quest32", ".6", "1", "XxX_Cattleprod_XxX3"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable7": [
+        ["COIN", "0", "1", "N/A"],
+        ["StoneA2b", ".005", "1", "N/A"],
+        ["FoodHealth7", ".42", "15", "N/A"],
+        ["StampB16", "0.0004", "1", "N/A"],
+        ["EquipmentStatues11", ".04", "1", "N/A"],
+        ["Quest32", ".9", "1", "XxX_Cattleprod_XxX3"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable8": [
+        ["COIN", "0", "1", "N/A"],
+        ["MidnightCookie", ".003", "1", "N/A"],
+        ["FoodPotRe3", ".4", "25", "N/A"],
+        ["StampB24", "0.00015", "1", "N/A"],
+        ["EquipmentStatues13", ".07", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable9": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampB23", "0.001", "1", "N/A"],
+        ["EquipmentStatues10", ".102", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable10": [
+        ["COIN", "0", "1", "N/A"],
+        ["StoneA2", ".002", "1", "N/A"],
+        ["StoneT1", ".03", "1", "N/A"],
+        ["FoodPotGr1", "0.2", "5", "N/A"],
+        ["StampA13", "0.0004", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable11": [
+        ["COIN", "0", "1", "N/A"],
+        ["StoneW2", ".002", "1", "N/A"],
+        ["StoneT1", ".03", "1", "N/A"],
+        ["EquipmentStatues8", ".05", "1", "N/A"],
+        ["FoodPotOr1", "0.07", "5", "N/A"],
+        ["StampB13", "0.0003", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable12": [
+        ["COIN", "0", "1", "N/A"],
+        ["StoneT2", ".002", "1", "N/A"],
+        ["StoneT1", ".03", "1", "N/A"],
+        ["EquipmentStatues9", ".085", "1", "N/A"],
+        ["FoodPotOr1", "0.07", "5", "N/A"],
+        ["StampA11", "0.0002", "1", "N/A"],
+        ["StampB21", "0.0001", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable13": [
+        ["ExpBalloon1", "0.5", "1", "N/A"],
+        ["PremiumGem", "1", "5", "N/A"],
+        ["Timecandy1", "0.5", "1", "N/A"],
+        ["Timecandy2", "0.334", "1", "N/A"],
+        ["Timecandy3", "0.12", "1", "N/A"],
+        ["Timecandy4", "0.04", "1", "N/A"],
+        ["Timecandy5", "0.012", "1", "N/A"],
+        ["Timecandy6", "0.001", "1", "N/A"]
+    ],
+    "SuperDropTable2": [
+        ["COIN", "0", "1", "N/A"],
+        ["SilverPen", ".09", "1", "N/A"],
+        ["Trophy2", ".0003", "1", "N/A"],
+        ["ResetFrag", ".15", "1", "N/A"],
+        ["FoodG3", "0.5", "1", "N/A"],
+        ["StoneZ1", "0.7", "3", "N/A"]
+    ]
+}

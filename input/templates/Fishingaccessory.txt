@@ -1,0 +1,13 @@
+{{Fishingaccessory
+|description=
+|sellprice=
+|type=
+|depth1=
+|depth2=
+|depth3=
+|depth4=
+|fishingspeed=
+|fishingpower=
+|fishingexp=
+|source=
+}}

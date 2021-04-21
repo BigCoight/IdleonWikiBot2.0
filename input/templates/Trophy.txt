@@ -1,0 +1,12 @@
+{{Trophy
+|weaponpower=
+|str=
+|agi=
+|wis=
+|luck=
+|defence=
+|misc=
+|sellprice=
+|notes=
+|source=
+}}

@@ -1,0 +1,8 @@
+{{stamp
+|number=
+|type=
+|bonus=
+|sellprice=
+|material=
+|source=
+}}
