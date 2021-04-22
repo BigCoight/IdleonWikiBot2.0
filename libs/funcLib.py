@@ -10,6 +10,9 @@ def unScience(val):
                 return val
     return val
 
+def repU(val):
+    return val.replace('|',' ').replace('_',' ').title()
+
 def nameDic(val):
     with open('./input/raw/Names.csv', mode='r') as infile:
         reader = csv.reader(infile)

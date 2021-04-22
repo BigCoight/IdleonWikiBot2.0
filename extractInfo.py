@@ -120,7 +120,7 @@ def writeRecipesJSON():
 				"levelReqToCraft": lvlData[0][0],
 				"expGiven": lvlData[0][1],
 				"no": j,
-				"tab":i,
+				"tab":i+1,
 			}
 		recipes.append(temp.copy())
 	#Overrides 
@@ -128,7 +128,7 @@ def writeRecipesJSON():
 				"recipe": [["Peanut","100"],["GoldBar","50"]],
 				"levelReqToCraft": 1,
 				"expGiven": 1,
-				"no": 71,
+				"no": 51,
 				"tab":1,
 			}
 	recipes[1]["Bullet"] = {
@@ -163,7 +163,7 @@ def writeProductionCSV():
 	writeCSV("Production",re.findall(reProd, prodData))
 
 def writeItemJSON():
-	reNames = r'.\.addNew[a-zA-Z0-9_]*\("([a-zA-Z0-9_]*)", [a-zA-Z0-9_]*\);'
+	reNames = r'.\.addNew[a-zA-Z0-9_]*\("([a-zA-Z0-9_]*)", .*\);'
 	reData = r'..\.setReserved\("([a-zA-Z0-9_]*)", "?([^\s"]*)"?\)'
 	items = {}
 	itemText = reader.getSection("Items")

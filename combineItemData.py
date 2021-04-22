@@ -95,7 +95,7 @@ def allItemsEnd(items):
 	for name,data in items.items():
 		if data["typeGen"] == "aStamp":
 			if item := items.get(data["stampData"][5]):
-				item["uses"].append((name,"Lots"))
+				item["uses"].append((nameDic[name],"Lots","Stamps"))
 		if data["detdrops"]:
 			res = []
 			done = set()
@@ -104,6 +104,14 @@ def allItemsEnd(items):
 					res.append(drop)
 					done.add(drop[0])
 			data["detdrops"] = res
+		toDel = ["common","consumable","equip"]
+		for atr, val in data.items():
+			if val in [0,'0']:
+				toDel.append(atr)
+		for dele in toDel:
+			if dele in data.keys():
+				del data[dele]
+				
 	#Remove unused arrays
 	for name,data in items.items():	
 		if not data["detdrops"]:
@@ -180,10 +188,19 @@ def droptableToEnem(enemies,droptables):
 						addElement(drop[0],[d[0],float(d[1])*float(drop[1]),float(d[2])*float(drop[2])])
 	return dtToEnem
 
+def getSmithingRecipe(recipes, name, qty):
+	tab = int(name[-1]) -1
+	index = int(qty)
+	for name,item in recipes[tab].items():
+		if int(item["no"]) == index:
+			return name
+
 def main():
 	#Get all the information saved from jsons
 	items = openJSON("Items")
 	deleteFiller(items)
+	global nameDic 
+	nameDic = {name:item["displayName"] for name,item in items.items()}
 	cardData = openJSON("CardData")
 	fishingTK = openJSON("FishingTK")
 	enemies = openJSON("Enemies")
@@ -229,41 +246,47 @@ def main():
 				if item := items.get(drop[0]):
 					item["sources"].append(enemy["Name"])
 					item["detdrops"].append((enemy["Name"],drop[1],drop[2]))
-	#Adding in uses and sources from npcs and quests
-	for npc,qdata in npcs.items():
-		for dline in qdata:
-			if dline["Type"] == "ItemsAndSpaceRequired":
-				rewards = dline['Rewards']
-				requirements = zip(dline['ItemTypeReq'],dline['ItemNumReq'])
-				for reward in rewards:
-					if item := items.get(reward):
-						item["sources"].append(npc)
-				for req,num in requirements:
-					if item := items.get(req):
-						item["uses"].append((dline["Name"],num))
 	#Adding in the sources from post office shipping rewards and uses from shipping
 	for name,po in postOffices.items():
 		for req in po["Orders"].keys():
 			if item := items.get(req):
-				item["uses"].append((name,"Lots"))
+				item["uses"].append((name,"Lots",'Post Office'))
 		for rew in po["Rewards"].keys():
 			if item := items.get(rew):
 				item["sources"].append(name)
 	#Adding in all recipes data to the items and adding in uses.
 	for tab in recipes:
 		for name,recipe in tab.items():
-			if item := items.get(name):
+			if item := items.get(name):	
 				item["recipeData"] = recipe
 				item["detrecipe"] = []
 			for sub in recipe["recipe"]:
 				if subItem := items.get(sub[0]):
-					subItem["uses"].append((name,sub[1]))
+					subItem["uses"].append((nameDic[name],sub[1],"Crafting"))
 	#Configure the detailed recipe
 	for tab in recipes:
 		for name,recipe in tab.items():
 			if item := items.get(name):
 				configureDetailedRecipe(items,item)
 				getDetailedTotals(item)
+	#Adding in uses and sources from npcs and quests
+	for npc,qdata in npcs.items():
+		for dline in qdata:
+			#Add in the requirements to the uses of the itmes
+			if dline["Type"] == "ItemsAndSpaceRequired":
+				requirements = zip(dline['ItemTypeReq'],dline['ItemNumReq'])
+				for req,num in requirements:
+					if item := items.get(req):
+						item["uses"].append((dline["Name"],num,"Quests"))
+			#Add in sources for rewards and smithing recipe.
+			if dline["Type"] not in  ["None","SpaceRequired","LevelReq"]:
+				rewards = dline['Rewards']
+				for i in range(len(rewards)):#TalentBook
+					if rewards[i][:-1] == "SmithingRecipes":
+						if item := items.get(getSmithingRecipe(recipes, rewards[i], rewards[i+1])):
+							item["recipeData"]["recipeFrom"] = npc
+					elif item := items.get(rewards[i]):
+						item["sources"].append(npc)
 	#Add in the cauldrens to used in
 	for cname, bubbles in cauldrons.items():
 		if name == "Liquid Shop":
@@ -271,7 +294,7 @@ def main():
 		for bname,bubble in bubbles.items():
 			for req,n in bubble["requirements"]:
 				if item := items.get(req):
-					item["uses"].append((bname,"Lots"))
+					item["uses"].append((bname,"Lots","Alchemy"))
 	#add in card data
 	for section, cards in cardData.items():
 		for name,card in cards.items():
@@ -302,6 +325,16 @@ def main():
 							np.format_float_positional(float(drop[1])*float(detdrop[1]), trim='-'),
 							str(float(drop[2])*float(detdrop[2]))
 							])
+	#Renames the internal to external name
+	for tab in recipes:
+		for name,recipe in tab.items():
+			if item := items.get(name):	
+				recipe["recipe"] = [[nameDic[x],y] for x,y in recipe["recipe"]]
+				item["recipeData"] = recipe
+				item["detrecipe"] = [[x,nameDic[y],z] for x,y,z in item["detrecipe"]]
+				item["detRecipeTotals"] = [[nameDic[y],z] for y,z in item["detRecipeTotals"]]
+	
+	
 	allItemsEnd(items)
 	writeJSON("Items",items)
 
