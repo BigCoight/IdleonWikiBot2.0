@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=8
+|type=HELMET
+|agi=7
+|luck=3
+|upgrade=2
+|defence=5
+|sellprice=500
+|source=Bored_Bean
+}}

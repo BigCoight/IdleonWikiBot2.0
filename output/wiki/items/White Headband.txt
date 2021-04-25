@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=HELMET
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=2
+|sellprice=200
+|source=DropTable1
+}}

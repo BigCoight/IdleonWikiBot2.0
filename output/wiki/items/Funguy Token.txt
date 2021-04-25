@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Proof that you completed all of Funguy's quests!
+|sellprice=1500
+|source=Funguy
+}}

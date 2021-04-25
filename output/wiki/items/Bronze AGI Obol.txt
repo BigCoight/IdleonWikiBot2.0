@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=CIRCLE_OBOL
+|agi=1
+|sellprice=1
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=PalmTree Forest Tree
+|sellprice=1
+|source=Palm_Tree
+}}

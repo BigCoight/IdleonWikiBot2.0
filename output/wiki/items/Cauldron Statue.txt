@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STATUE
+|sellprice=10
+|source=DropTable8
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=UPGRADE
+|description=Drag onto any Weapon to apply. +3 Weapon_Power +4 Random_Stat Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
+|sellprice=25000
+|source=Funguy, Bandit_Bob, Goldric
+}}

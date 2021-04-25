@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=TIME_CANDY
+|description=Hold down to instantly get 4 Hour of AFK Gains.
+|sellprice=1
+|source=Stiltzcho, Papua_Piggea, Desert_Davey, Centurion, Telescope, DropTable13
+}}

@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=HELMET
+|str=2
+|agi=1
+|upgrade=2
+|sellprice=200
+|source=Scripticus
+}}

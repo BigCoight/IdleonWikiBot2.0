@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=STATUE
+|description=A stone statue that resembles some sort of double edged scythe. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=DropTable5
+}}

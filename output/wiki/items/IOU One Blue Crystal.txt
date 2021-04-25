@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=The boss doesn't drop any blue crystals yet, but it will once World 3 is ready!
+|sellprice=100
+}}

@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=HELMET
+|agi=2
+|wis=3
+|luck=8
+|upgrade=2
+|sellprice=200
+|source=Sandy_Pot
+}}

@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=bCraft
+|level=50
+|type=CARRY_BAG
+|speed=-15
+|weaponpower=3
+|skillpower=3
+|str=3
+|reach=10
+|sellprice=4200
+}}

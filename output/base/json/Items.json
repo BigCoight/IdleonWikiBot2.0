@@ -100,7 +100,7 @@
         "equip": "x"
     },
     "Copper": {
-        "displayName": "Copper_Ore",
+        "displayName": "Copper Ore",
         "sellPrice": "3",
         "typeGen": "bOre",
         "ID": "0",
@@ -122,7 +122,7 @@
         "consumable": "A"
     },
     "Iron": {
-        "displayName": "Iron_Ore",
+        "displayName": "Iron Ore",
         "sellPrice": "7",
         "typeGen": "bOre",
         "ID": "1",
@@ -144,7 +144,7 @@
         "consumable": "G"
     },
     "Gold": {
-        "displayName": "Gold_Ore",
+        "displayName": "Gold Ore",
         "sellPrice": "13",
         "typeGen": "bOre",
         "ID": "2",
@@ -162,11 +162,11 @@
         "Effect": "Ore",
         "Amount": "8",
         "Trigger": "0",
-        "Cooldown": "1e3",
+        "Cooldown": "1000",
         "consumable": "N"
     },
     "Plat": {
-        "displayName": "Platinum_Ore",
+        "displayName": "Platinum Ore",
         "sellPrice": "20",
         "typeGen": "bOre",
         "ID": "3",
@@ -188,7 +188,7 @@
         "consumable": "H"
     },
     "Dementia": {
-        "displayName": "Dementia_Ore",
+        "displayName": "Dementia Ore",
         "sellPrice": "35",
         "typeGen": "bOre",
         "ID": "4",
@@ -210,7 +210,7 @@
         "consumable": "Wb"
     },
     "Void": {
-        "displayName": "Void_Ore",
+        "displayName": "Void Ore",
         "sellPrice": "60",
         "typeGen": "bOre",
         "ID": "5",
@@ -228,11 +228,11 @@
         "Effect": "Ore",
         "Amount": "125",
         "Trigger": "0",
-        "Cooldown": "6e3",
+        "Cooldown": "6000",
         "consumable": "Eb"
     },
     "Lustre": {
-        "displayName": "Lustre_Ore",
+        "displayName": "Lustre Ore",
         "sellPrice": "90",
         "typeGen": "bOre",
         "ID": "6",
@@ -254,7 +254,7 @@
         "consumable": "Tb"
     },
     "Starfire": {
-        "displayName": "Starfire_Ore",
+        "displayName": "Starfire Ore",
         "sellPrice": "140",
         "typeGen": "bOre",
         "ID": "7",
@@ -272,11 +272,11 @@
         "Effect": "Ore",
         "Amount": "500",
         "Trigger": "0",
-        "Cooldown": "25e3",
+        "Cooldown": "25000",
         "consumable": "R"
     },
     "Dreadlo": {
-        "displayName": "Dreadlo_Ore",
+        "displayName": "Dreadlo Ore",
         "sellPrice": "190",
         "typeGen": "bOre",
         "ID": "8",
@@ -292,13 +292,13 @@
         "desc_line7": "Filler",
         "desc_line8": "Filler",
         "Effect": "Ore",
-        "Amount": "1e3",
+        "Amount": "1000",
         "Trigger": "0",
         "Cooldown": "100",
         "consumable": "Q"
     },
     "Godshard": {
-        "displayName": "Godshard_Ore",
+        "displayName": "Godshard Ore",
         "sellPrice": "250",
         "typeGen": "bOre",
         "ID": "9",
@@ -314,13 +314,13 @@
         "desc_line7": "Filler",
         "desc_line8": "Filler",
         "Effect": "Ore",
-        "Amount": "5e3",
+        "Amount": "5000",
         "Trigger": "0",
         "Cooldown": "100",
         "consumable": "ob"
     },
     "CopperBar": {
-        "displayName": "Copper_Bar",
+        "displayName": "Copper Bar",
         "sellPrice": "7",
         "typeGen": "bBar",
         "ID": "0",
@@ -329,7 +329,7 @@
         "common": "qb"
     },
     "IronBar": {
-        "displayName": "Iron_Bar",
+        "displayName": "Iron Bar",
         "sellPrice": "32",
         "typeGen": "bBar",
         "ID": "1",
@@ -338,7 +338,7 @@
         "common": "Pb"
     },
     "GoldBar": {
-        "displayName": "Gold_Bar",
+        "displayName": "Gold Bar",
         "sellPrice": "115",
         "typeGen": "bBar",
         "ID": "2",
@@ -347,7 +347,7 @@
         "common": "pa"
     },
     "PlatBar": {
-        "displayName": "Platinum_Bar",
+        "displayName": "Platinum Bar",
         "sellPrice": "460",
         "typeGen": "bBar",
         "ID": "3",
@@ -356,7 +356,7 @@
         "common": "mb"
     },
     "DementiaBar": {
-        "displayName": "Dementia_Bar",
+        "displayName": "Dementia Bar",
         "sellPrice": "1900",
         "typeGen": "bBar",
         "ID": "4",
@@ -365,7 +365,7 @@
         "common": "Za"
     },
     "VoidBar": {
-        "displayName": "Void_Bar",
+        "displayName": "Void Bar",
         "sellPrice": "6800",
         "typeGen": "bBar",
         "ID": "5",
@@ -374,7 +374,7 @@
         "common": "Cb"
     },
     "LustreBar": {
-        "displayName": "Lustre_Bar",
+        "displayName": "Lustre Bar",
         "sellPrice": "1",
         "typeGen": "bBar",
         "ID": "6",
@@ -383,7 +383,7 @@
         "common": "La"
     },
     "StarfireBar": {
-        "displayName": "Starfire_Bar",
+        "displayName": "Starfire Bar",
         "sellPrice": "1",
         "typeGen": "bBar",
         "ID": "7",
@@ -392,7 +392,7 @@
         "common": "Va"
     },
     "DreadloBar": {
-        "displayName": "Dreadlo_Bar",
+        "displayName": "Dreadlo Bar",
         "sellPrice": "1",
         "typeGen": "bBar",
         "ID": "8",
@@ -401,7 +401,7 @@
         "common": "Qa"
     },
     "GodshardBar": {
-        "displayName": "Godshard_Bar",
+        "displayName": "Godshard Bar",
         "sellPrice": "1",
         "typeGen": "bBar",
         "ID": "9",
@@ -410,7 +410,7 @@
         "common": "fa"
     },
     "OilBarrel1": {
-        "displayName": "Crude_Oil",
+        "displayName": "Crude Oil",
         "sellPrice": "8",
         "typeGen": "cOil",
         "ID": "0",
@@ -432,7 +432,7 @@
         "consumable": "qa"
     },
     "OilBarrel2": {
-        "displayName": "Toxic_Sludge",
+        "displayName": "Toxic Sludge",
         "sellPrice": "20",
         "typeGen": "cOil",
         "ID": "0",
@@ -454,7 +454,7 @@
         "consumable": "sb"
     },
     "OilBarrel3": {
-        "displayName": "Radioactive_Waste",
+        "displayName": "Radioactive Waste",
         "sellPrice": "50",
         "typeGen": "cOil",
         "ID": "0",
@@ -476,7 +476,7 @@
         "consumable": "X"
     },
     "OilBarrel4": {
-        "displayName": "Glumlee's_Special|Tutorial_Oil",
+        "displayName": "Glumlee's Special Tutorial Oil",
         "sellPrice": "350",
         "typeGen": "cOil",
         "ID": "0",
@@ -498,7 +498,7 @@
         "consumable": "V"
     },
     "OilBarrel5": {
-        "displayName": "Eco_Friendly_Oil",
+        "displayName": "Eco Friendly Oil",
         "sellPrice": "350",
         "typeGen": "cOil",
         "ID": "0",
@@ -520,7 +520,7 @@
         "consumable": "Ra"
     },
     "OakTree": {
-        "displayName": "Oak_Logs",
+        "displayName": "Oak Logs",
         "sellPrice": "2",
         "typeGen": "bLog",
         "ID": "0",
@@ -529,7 +529,7 @@
         "common": "ja"
     },
     "BirchTree": {
-        "displayName": "Bleach_Logs",
+        "displayName": "Bleach Logs",
         "sellPrice": "3",
         "typeGen": "bLog",
         "ID": "0",
@@ -538,7 +538,7 @@
         "common": "Fa"
     },
     "JungleTree": {
-        "displayName": "Jungle_Logs",
+        "displayName": "Jungle Logs",
         "sellPrice": "6",
         "typeGen": "bLog",
         "ID": "0",
@@ -547,7 +547,7 @@
         "common": "Wa"
     },
     "ForestTree": {
-        "displayName": "Forest_Fibres",
+        "displayName": "Forest Fibres",
         "sellPrice": "10",
         "typeGen": "bLog",
         "ID": "0",
@@ -556,7 +556,7 @@
         "common": "bb"
     },
     "ToiletTree": {
-        "displayName": "Potty_Rolls",
+        "displayName": "Potty Rolls",
         "sellPrice": "15",
         "typeGen": "bLog",
         "ID": "0",
@@ -574,7 +574,7 @@
         "common": "wa"
     },
     "StumpTree": {
-        "displayName": "Veiny_Logs",
+        "displayName": "Veiny Logs",
         "sellPrice": "25",
         "typeGen": "bLog",
         "ID": "0",
@@ -583,7 +583,7 @@
         "common": "P"
     },
     "SaharanFoal": {
-        "displayName": "Tundra_Logs",
+        "displayName": "Tundra Logs",
         "sellPrice": "200",
         "typeGen": "bLog",
         "ID": "0",
@@ -592,8 +592,8 @@
         "common": "ca"
     },
     "AlienTree": {
-        "displayName": "Alien_Hive_Chunk",
-        "sellPrice": "5e3",
+        "displayName": "Alien Hive Chunk",
+        "sellPrice": "5000",
         "typeGen": "bLog",
         "ID": "0",
         "Type": "LOG",
@@ -601,7 +601,7 @@
         "common": "ka"
     },
     "Leaf1": {
-        "displayName": "Grass_Leaf",
+        "displayName": "Grass Leaf",
         "sellPrice": "4",
         "typeGen": "bLeaf",
         "ID": "0",
@@ -610,7 +610,7 @@
         "common": "vb"
     },
     "Leaf2": {
-        "displayName": "Twisty_Leaf",
+        "displayName": "Twisty Leaf",
         "sellPrice": "50",
         "typeGen": "bLeaf",
         "ID": "0",
@@ -619,7 +619,7 @@
         "common": "aa"
     },
     "FillerMaterial": {
-        "displayName": "Not_Yet",
+        "displayName": "Not Yet",
         "sellPrice": "4",
         "typeGen": "dFish",
         "ID": "0",
@@ -663,7 +663,7 @@
         "consumable": "ea"
     },
     "Fish2": {
-        "displayName": "Hermit_Can",
+        "displayName": "Hermit Can",
         "sellPrice": "11",
         "typeGen": "dFish",
         "ID": "0",
@@ -861,7 +861,7 @@
         "consumable": "Ea"
     },
     "Bug3": {
-        "displayName": "Sentient_Cereal",
+        "displayName": "Sentient Cereal",
         "sellPrice": "15",
         "typeGen": "dBugs",
         "ID": "0",
@@ -948,7 +948,7 @@
         "consumable": "cc"
     },
     "Critter1A": {
-        "displayName": "Poison_Froge",
+        "displayName": "Poison Froge",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -992,7 +992,7 @@
         "consumable": "dc"
     },
     "Critter2A": {
-        "displayName": "Mutant_Crabbo",
+        "displayName": "Mutant Crabbo",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1036,7 +1036,7 @@
         "consumable": "uc"
     },
     "Critter3A": {
-        "displayName": "Crescent_Scropie",
+        "displayName": "Crescent Scropie",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1080,7 +1080,7 @@
         "consumable": "ub"
     },
     "Critter4A": {
-        "displayName": "Nakeo_Moleo",
+        "displayName": "Nakeo Moleo",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1168,7 +1168,7 @@
         "consumable": "Ec"
     },
     "Critter6A": {
-        "displayName": "Eternal_Lord_of_|The_Undying_Ember",
+        "displayName": "Eternal Lord of  The Undying Ember",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1233,7 +1233,7 @@
         "consumable": "Tc"
     },
     "Critter8": {
-        "displayName": "Dung_Beat",
+        "displayName": "Dung Beat",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1255,7 +1255,7 @@
         "consumable": "dd"
     },
     "Critter8A": {
-        "displayName": "Jade_Scarab",
+        "displayName": "Jade Scarab",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1299,7 +1299,7 @@
         "consumable": "wd"
     },
     "Critter9A": {
-        "displayName": "Diamond_Duck",
+        "displayName": "Diamond Duck",
         "sellPrice": "3",
         "typeGen": "dCritters",
         "ID": "0",
@@ -1321,7 +1321,7 @@
         "consumable": "bd"
     },
     "Soul": {
-        "displayName": "Forest_Soul",
+        "displayName": "Forest Soul",
         "sellPrice": "3",
         "typeGen": "dSouls",
         "ID": "0",
@@ -1343,7 +1343,7 @@
         "consumable": "Ad"
     },
     "EquipmentHats1": {
-        "displayName": "Farmer_Brim",
+        "displayName": "Farmer Brim",
         "sellPrice": "175",
         "typeGen": "aHelmet",
         "ID": "4",
@@ -1368,7 +1368,7 @@
         "equip": "sd"
     },
     "TestObj15": {
-        "displayName": "Slime_Cap",
+        "displayName": "Slime Cap",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "2",
@@ -1393,7 +1393,7 @@
         "equip": "xd"
     },
     "EquipmentHatsBeg1": {
-        "displayName": "Ice_Cream_Sunday",
+        "displayName": "Ice Cream Sunday",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "24",
@@ -1417,7 +1417,7 @@
         "equip": "le"
     },
     "EquipmentHats15": {
-        "displayName": "Leather_Cap",
+        "displayName": "Leather Cap",
         "sellPrice": "400",
         "typeGen": "aHelmet",
         "ID": "18",
@@ -1442,7 +1442,7 @@
         "equip": "Kd"
     },
     "EquipmentHats5": {
-        "displayName": "White_Headband",
+        "displayName": "White Headband",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "8",
@@ -1467,7 +1467,7 @@
         "equip": "Bd"
     },
     "EquipmentHats6": {
-        "displayName": "Green_Headband",
+        "displayName": "Green Headband",
         "sellPrice": "150",
         "typeGen": "aHelmet",
         "ID": "9",
@@ -1492,7 +1492,7 @@
         "equip": "Hd"
     },
     "EquipmentHats7": {
-        "displayName": "Red_Headband",
+        "displayName": "Red Headband",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "10",
@@ -1517,7 +1517,7 @@
         "equip": "Dd"
     },
     "EquipmentHats8": {
-        "displayName": "Purple_Tupacband",
+        "displayName": "Purple Tupacband",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "11",
@@ -1542,7 +1542,7 @@
         "equip": "Se"
     },
     "EquipmentHats9": {
-        "displayName": "Yellow_Headband",
+        "displayName": "Yellow Headband",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "12",
@@ -1567,7 +1567,7 @@
         "equip": "ce"
     },
     "EquipmentHats10": {
-        "displayName": "Pink_Headband",
+        "displayName": "Pink Headband",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "13",
@@ -1592,7 +1592,7 @@
         "equip": "cd"
     },
     "EquipmentHats11": {
-        "displayName": "Grey_Beret",
+        "displayName": "Grey Beret",
         "sellPrice": "5",
         "typeGen": "aHelmet",
         "ID": "14",
@@ -1617,7 +1617,7 @@
         "equip": "ge"
     },
     "EquipmentHats12": {
-        "displayName": "Traffic_Cone",
+        "displayName": "Traffic Cone",
         "sellPrice": "5",
         "typeGen": "aHelmet",
         "ID": "15",
@@ -1642,7 +1642,7 @@
         "equip": "kd"
     },
     "EquipmentHats13": {
-        "displayName": "Propeller_Cap",
+        "displayName": "Propeller Cap",
         "sellPrice": "5",
         "typeGen": "aHelmet",
         "ID": "16",
@@ -1667,7 +1667,7 @@
         "equip": "id"
     },
     "EquipmentHats14": {
-        "displayName": "Baseball_Hat",
+        "displayName": "Baseball Hat",
         "sellPrice": "5",
         "typeGen": "aHelmet",
         "ID": "17",
@@ -1692,7 +1692,7 @@
         "equip": "Ae"
     },
     "TestObj14": {
-        "displayName": "Trojan_Helmet",
+        "displayName": "Trojan Helmet",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "1",
@@ -1717,7 +1717,7 @@
         "equip": "pe"
     },
     "TestObj16": {
-        "displayName": "Demon_Horns",
+        "displayName": "Demon Horns",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "3",
@@ -1733,7 +1733,7 @@
         "AGI": "3",
         "WIS": "0",
         "LUK": "3",
-        "Defence": "1e4",
+        "Defence": "10000",
         "UQ1txt": "0",
         "UQ1val": "0",
         "UQ2txt": "0",
@@ -1742,7 +1742,7 @@
         "equip": "Zd"
     },
     "EquipmentHats4Choppin": {
-        "displayName": "Stump_Prop",
+        "displayName": "Stump Prop",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "7",
@@ -1767,8 +1767,8 @@
         "equip": "Me"
     },
     "EquipmentHats17": {
-        "displayName": "Copper_Helmet",
-        "sellPrice": "1e3",
+        "displayName": "Copper Helmet",
+        "sellPrice": "1000",
         "typeGen": "aHelmet",
         "ID": "20",
         "Type": "HELMET",
@@ -1792,8 +1792,8 @@
         "equip": "qe"
     },
     "EquipmentHats18": {
-        "displayName": "Iron_Helmet",
-        "sellPrice": "5e3",
+        "displayName": "Iron Helmet",
+        "sellPrice": "5000",
         "typeGen": "aHelmet",
         "ID": "21",
         "Type": "HELMET",
@@ -1817,8 +1817,8 @@
         "equip": "we"
     },
     "EquipmentHats28": {
-        "displayName": "Gold_Helmet",
-        "sellPrice": "15e3",
+        "displayName": "Gold Helmet",
+        "sellPrice": "15000",
         "typeGen": "aHelmet",
         "ID": "32",
         "Type": "HELMET",
@@ -1842,7 +1842,7 @@
         "equip": "Wd"
     },
     "EquipmentHats22": {
-        "displayName": "Amarok_Helmet",
+        "displayName": "Amarok Helmet",
         "sellPrice": "100",
         "typeGen": "aHelmet",
         "ID": "26",
@@ -1867,8 +1867,8 @@
         "equip": "of"
     },
     "EquipmentHats19": {
-        "displayName": "Platinum_Helmet",
-        "sellPrice": "4e4",
+        "displayName": "Platinum Helmet",
+        "sellPrice": "40000",
         "typeGen": "aHelmet",
         "ID": "22",
         "Type": "HELMET",
@@ -1892,7 +1892,7 @@
         "equip": "jg"
     },
     "EquipmentHats53": {
-        "displayName": "Dementia_Helmet",
+        "displayName": "Dementia Helmet",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "56",
@@ -1917,7 +1917,7 @@
         "equip": "mf"
     },
     "EquipmentHats52": {
-        "displayName": "Efaunt_Helmet",
+        "displayName": "Efaunt Helmet",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "55",
@@ -1942,7 +1942,7 @@
         "equip": "Ye"
     },
     "EquipmentHats54": {
-        "displayName": "Void_Imperium|Helmet",
+        "displayName": "Void Imperium Helmet",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "57",
@@ -1967,7 +1967,7 @@
         "equip": "Te"
     },
     "EquipmentHats21": {
-        "displayName": "Party_Hat",
+        "displayName": "Party Hat",
         "sellPrice": "1500",
         "typeGen": "aHelmet",
         "ID": "25",
@@ -1992,7 +1992,7 @@
         "equip": "jf"
     },
     "EquipmentHats23": {
-        "displayName": "Farmer_Brimer",
+        "displayName": "Farmer Brimer",
         "sellPrice": "150",
         "typeGen": "aHelmet",
         "ID": "27",
@@ -2017,7 +2017,7 @@
         "equip": "zf"
     },
     "EquipmentHats24": {
-        "displayName": "Farmer_Brimest",
+        "displayName": "Farmer Brimest",
         "sellPrice": "400",
         "typeGen": "aHelmet",
         "ID": "28",
@@ -2042,7 +2042,7 @@
         "equip": "Ze"
     },
     "EquipmentHats25": {
-        "displayName": "Bored_Beanie",
+        "displayName": "Bored Beanie",
         "sellPrice": "500",
         "typeGen": "aHelmet",
         "ID": "29",
@@ -2067,7 +2067,7 @@
         "equip": "yf"
     },
     "EquipmentHats2": {
-        "displayName": "Royal_Turban",
+        "displayName": "Royal Turban",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "5",
@@ -2092,7 +2092,7 @@
         "equip": "If"
     },
     "EquipmentHats27": {
-        "displayName": "Paper_Boat",
+        "displayName": "Paper Boat",
         "sellPrice": "1500",
         "typeGen": "aHelmet",
         "ID": "31",
@@ -2117,8 +2117,8 @@
         "equip": "Oe"
     },
     "EquipmentHats29": {
-        "displayName": "Alien_Headband",
-        "sellPrice": "1e3",
+        "displayName": "Alien Headband",
+        "sellPrice": "1000",
         "typeGen": "aHelmet",
         "ID": "33",
         "Type": "HELMET",
@@ -2142,7 +2142,7 @@
         "equip": "Zf"
     },
     "EquipmentHats30": {
-        "displayName": "Cowbo_Galloneer",
+        "displayName": "Cowbo Galloneer",
         "sellPrice": "1500",
         "typeGen": "aHelmet",
         "ID": "34",
@@ -2167,7 +2167,7 @@
         "equip": "Ve"
     },
     "EquipmentHats39": {
-        "displayName": "Grandma_Disguise",
+        "displayName": "Grandma Disguise",
         "sellPrice": "1500",
         "typeGen": "aHelmet",
         "ID": "42",
@@ -2192,7 +2192,7 @@
         "equip": "df"
     },
     "EquipmentHats42": {
-        "displayName": "Santa_Hat",
+        "displayName": "Santa Hat",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "45",
@@ -2242,7 +2242,7 @@
         "equip": "kg"
     },
     "EquipmentHats51": {
-        "displayName": "Big_Pretty_Bow",
+        "displayName": "Big Pretty Bow",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "54",
@@ -2267,7 +2267,7 @@
         "equip": "Vg"
     },
     "EquipmentHats55": {
-        "displayName": "Steam_Cap",
+        "displayName": "Steam Cap",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "58",
@@ -2292,7 +2292,7 @@
         "equip": "Cf"
     },
     "EquipmentHats56": {
-        "displayName": "Bunny_Ears",
+        "displayName": "Bunny Ears",
         "sellPrice": "1",
         "typeGen": "aHelmet",
         "ID": "59",
@@ -2317,7 +2317,7 @@
         "equip": "Ng"
     },
     "EquipmentHats20": {
-        "displayName": "Militia_Helm",
+        "displayName": "Militia Helm",
         "sellPrice": "8500",
         "typeGen": "aHelmet",
         "ID": "23",
@@ -2342,7 +2342,7 @@
         "equip": "Wg"
     },
     "TestObj13": {
-        "displayName": "Viking_Cap",
+        "displayName": "Viking Cap",
         "sellPrice": "200",
         "typeGen": "aHelmet",
         "ID": "0",
@@ -2367,7 +2367,7 @@
         "equip": "fh"
     },
     "EquipmentHats3": {
-        "displayName": "Thief_Hood",
+        "displayName": "Thief Hood",
         "sellPrice": "8500",
         "typeGen": "aHelmet",
         "ID": "6",
@@ -2392,7 +2392,7 @@
         "equip": "Lf"
     },
     "EquipmentHats41": {
-        "displayName": "Sleek_Coif",
+        "displayName": "Sleek Coif",
         "sellPrice": "8500",
         "typeGen": "aHelmet",
         "ID": "44",
@@ -2417,7 +2417,7 @@
         "equip": "ug"
     },
     "EquipmentHats16": {
-        "displayName": "Top_Hat",
+        "displayName": "Top Hat",
         "sellPrice": "8500",
         "typeGen": "aHelmet",
         "ID": "19",
@@ -2442,7 +2442,7 @@
         "equip": "$f"
     },
     "EquipmentHats26": {
-        "displayName": "Witch_Hat",
+        "displayName": "Witch Hat",
         "sellPrice": "800",
         "typeGen": "aHelmet",
         "ID": "30",
@@ -2467,7 +2467,7 @@
         "equip": "ag"
     },
     "EquipmentPunching1": {
-        "displayName": "Boxing_Gloves",
+        "displayName": "Boxing Gloves",
         "sellPrice": "1",
         "typeGen": "aWeapon",
         "ID": "1",
@@ -2492,7 +2492,7 @@
         "equip": "bg"
     },
     "EquipmentPunching2": {
-        "displayName": "The_Stingers",
+        "displayName": "The Stingers",
         "sellPrice": "1800",
         "typeGen": "aWeapon",
         "ID": "2",
@@ -2517,7 +2517,7 @@
         "equip": "og"
     },
     "EquipmentPunching3": {
-        "displayName": "Bandage_Wraps",
+        "displayName": "Bandage Wraps",
         "sellPrice": "7800",
         "typeGen": "aWeapon",
         "ID": "3",
@@ -2542,7 +2542,7 @@
         "equip": "Gg"
     },
     "TestObj1": {
-        "displayName": "Wooden_Spear",
+        "displayName": "Wooden Spear",
         "sellPrice": "265",
         "typeGen": "aWeapon",
         "ID": "4",
@@ -2567,7 +2567,7 @@
         "equip": "Yg"
     },
     "TestObj7": {
-        "displayName": "Steel_Axe",
+        "displayName": "Steel Axe",
         "sellPrice": "5500",
         "typeGen": "aWeapon",
         "ID": "6",
@@ -2592,7 +2592,7 @@
         "equip": "Wf"
     },
     "TestObj3": {
-        "displayName": "Royal_Bayonet",
+        "displayName": "Royal Bayonet",
         "sellPrice": "12530",
         "typeGen": "aWeapon",
         "ID": "3",
@@ -2617,8 +2617,8 @@
         "equip": "wh"
     },
     "EquipmentSword1": {
-        "displayName": "Enforced_Slasher",
-        "sellPrice": "26e3",
+        "displayName": "Enforced Slasher",
+        "sellPrice": "26000",
         "typeGen": "aWeapon",
         "ID": "7",
         "Type": "SPEAR",
@@ -2642,8 +2642,8 @@
         "equip": "pg"
     },
     "EquipmentSword2": {
-        "displayName": "The_Ice_Breaker",
-        "sellPrice": "26e3",
+        "displayName": "The Ice Breaker",
+        "sellPrice": "26000",
         "typeGen": "aWeapon",
         "ID": "8",
         "Type": "SPEAR",
@@ -2667,7 +2667,7 @@
         "equip": "Pg"
     },
     "TestObj4": {
-        "displayName": "Frozen_Impaler",
+        "displayName": "Frozen Impaler",
         "sellPrice": "120",
         "typeGen": "aWeapon",
         "ID": "99",
@@ -2692,7 +2692,7 @@
         "equip": "mh"
     },
     "TestObj5": {
-        "displayName": "Blood_Screamer",
+        "displayName": "Blood Screamer",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "2",
@@ -2717,7 +2717,7 @@
         "equip": "sg"
     },
     "TestObj8": {
-        "displayName": "Flaming_Katana",
+        "displayName": "Flaming Katana",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "99",
@@ -2742,7 +2742,7 @@
         "equip": "Sf"
     },
     "TestObj9": {
-        "displayName": "Emerald_Eizon",
+        "displayName": "Emerald Eizon",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "99",
@@ -2792,7 +2792,7 @@
         "equip": "nh"
     },
     "EquipmentWeapons1": {
-        "displayName": "Iron_Sword",
+        "displayName": "Iron Sword",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "1",
@@ -2817,7 +2817,7 @@
         "equip": "yh"
     },
     "TestObj2": {
-        "displayName": "Steel_Spear",
+        "displayName": "Steel Spear",
         "sellPrice": "223400",
         "typeGen": "aWeapon",
         "ID": "99",
@@ -2842,7 +2842,7 @@
         "equip": "Dh"
     },
     "EquipmentBows1": {
-        "displayName": "Wooden_Bow",
+        "displayName": "Wooden Bow",
         "sellPrice": "275",
         "typeGen": "aWeapon",
         "ID": "1",
@@ -2867,8 +2867,8 @@
         "equip": "sf"
     },
     "EquipmentBows3": {
-        "displayName": "Birch_Longbow",
-        "sellPrice": "1e3",
+        "displayName": "Birch Longbow",
+        "sellPrice": "1000",
         "typeGen": "aWeapon",
         "ID": "4",
         "Type": "BOW",
@@ -2892,8 +2892,8 @@
         "equip": "gf"
     },
     "EquipmentBows4": {
-        "displayName": "Carrot_Launcher",
-        "sellPrice": "5e3",
+        "displayName": "Carrot Launcher",
+        "sellPrice": "5000",
         "typeGen": "aWeapon",
         "ID": "3",
         "Type": "BOW",
@@ -2917,8 +2917,8 @@
         "equip": "dh"
     },
     "EquipmentBows5": {
-        "displayName": "Spiked_Menace",
-        "sellPrice": "4e3",
+        "displayName": "Spiked Menace",
+        "sellPrice": "4000",
         "typeGen": "aWeapon",
         "ID": "5",
         "Type": "BOW",
@@ -2942,8 +2942,8 @@
         "equip": "Ui"
     },
     "EquipmentBows6": {
-        "displayName": "Pharoah_Bow",
-        "sellPrice": "15e3",
+        "displayName": "Pharoah Bow",
+        "sellPrice": "15000",
         "typeGen": "aWeapon",
         "ID": "6",
         "Type": "BOW",
@@ -2967,8 +2967,8 @@
         "equip": "bh"
     },
     "EquipmentBows7": {
-        "displayName": "Blizzard_Bow",
-        "sellPrice": "15e3",
+        "displayName": "Blizzard Bow",
+        "sellPrice": "15000",
         "typeGen": "aWeapon",
         "ID": "7",
         "Type": "BOW",
@@ -2992,7 +2992,7 @@
         "equip": "qi"
     },
     "EquipmentBows2": {
-        "displayName": "Rooted_Bow",
+        "displayName": "Rooted Bow",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "2",
@@ -3017,7 +3017,7 @@
         "equip": "sh"
     },
     "EquipmentWands1": {
-        "displayName": "Gnarled_Wand",
+        "displayName": "Gnarled Wand",
         "sellPrice": "20",
         "typeGen": "aWeapon",
         "ID": "3",
@@ -3043,7 +3043,7 @@
     },
     "EquipmentWands2": {
         "displayName": "Quarterstaff",
-        "sellPrice": "4e3",
+        "sellPrice": "4000",
         "typeGen": "aWeapon",
         "ID": "1",
         "Type": "WAND",
@@ -3068,7 +3068,7 @@
     },
     "EquipmentWands5": {
         "displayName": "Starlight",
-        "sellPrice": "1e4",
+        "sellPrice": "10000",
         "typeGen": "aWeapon",
         "ID": "5",
         "Type": "WAND",
@@ -3092,7 +3092,7 @@
         "equip": "Sh"
     },
     "EquipmentWands6": {
-        "displayName": "Crows_Nest",
+        "displayName": "Crows Nest",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "4",
@@ -3117,7 +3117,7 @@
         "equip": "mk"
     },
     "EquipmentWands3": {
-        "displayName": "Spriggly_Staff",
+        "displayName": "Spriggly Staff",
         "sellPrice": "200",
         "typeGen": "aWeapon",
         "ID": "2",
@@ -3167,7 +3167,7 @@
         "equip": "ek"
     },
     "EquipmentShirts1": {
-        "displayName": "Orange_Tee",
+        "displayName": "Orange Tee",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3192,7 +3192,7 @@
         "equip": "Vi"
     },
     "EquipmentShirts2": {
-        "displayName": "Blue_Tee",
+        "displayName": "Blue Tee",
         "sellPrice": "250",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3217,7 +3217,7 @@
         "equip": "hl"
     },
     "EquipmentShirts16": {
-        "displayName": "Spore_Tee",
+        "displayName": "Spore Tee",
         "sellPrice": "125",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3242,7 +3242,7 @@
         "equip": "jk"
     },
     "EquipmentShirts3": {
-        "displayName": "Black_Tee",
+        "displayName": "Black Tee",
         "sellPrice": "50",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3267,7 +3267,7 @@
         "equip": "oj"
     },
     "EquipmentShirts4": {
-        "displayName": "Tanned_Hide",
+        "displayName": "Tanned Hide",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3292,7 +3292,7 @@
         "equip": "Rj"
     },
     "EquipmentShirts6": {
-        "displayName": "Paralax_Chest",
+        "displayName": "Paralax Chest",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3317,7 +3317,7 @@
         "equip": "Uj"
     },
     "EquipmentShirts7": {
-        "displayName": "Molten_Chest",
+        "displayName": "Molten Chest",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3342,7 +3342,7 @@
         "equip": "Hl"
     },
     "EquipmentShirts8": {
-        "displayName": "REPLACE_ME",
+        "displayName": "REPLACE ME",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3367,7 +3367,7 @@
         "equip": "Uh"
     },
     "EquipmentShirts9": {
-        "displayName": "REPLACE_ME",
+        "displayName": "REPLACE ME",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3392,7 +3392,7 @@
         "equip": "Ji"
     },
     "EquipmentShirts21": {
-        "displayName": "Tattered_Cloth",
+        "displayName": "Tattered Cloth",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3417,7 +3417,7 @@
         "equip": "cj"
     },
     "EquipmentShirts10": {
-        "displayName": "Fur_Shirt",
+        "displayName": "Fur Shirt",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3442,7 +3442,7 @@
         "equip": "rk"
     },
     "EquipmentShirts11": {
-        "displayName": "Copper_Platebody",
+        "displayName": "Copper Platebody",
         "sellPrice": "1500",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3467,8 +3467,8 @@
         "equip": "lk"
     },
     "EquipmentShirts12": {
-        "displayName": "Iron_Platebody",
-        "sellPrice": "6e3",
+        "displayName": "Iron Platebody",
+        "sellPrice": "6000",
         "typeGen": "aShirt",
         "ID": "3",
         "Type": "SHIRT",
@@ -3492,8 +3492,8 @@
         "equip": "$k"
     },
     "EquipmentShirts13": {
-        "displayName": "Gold_Platebody",
-        "sellPrice": "12e3",
+        "displayName": "Gold Platebody",
+        "sellPrice": "12000",
         "typeGen": "aShirt",
         "ID": "3",
         "Type": "SHIRT",
@@ -3517,7 +3517,7 @@
         "equip": "Si"
     },
     "EquipmentShirts18": {
-        "displayName": "Amarok_Bodyplate",
+        "displayName": "Amarok Bodyplate",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3542,8 +3542,8 @@
         "equip": "nl"
     },
     "EquipmentShirts14": {
-        "displayName": "Platinum_Platbody",
-        "sellPrice": "4e4",
+        "displayName": "Platinum Platbody",
+        "sellPrice": "40000",
         "typeGen": "aShirt",
         "ID": "3",
         "Type": "SHIRT",
@@ -3567,7 +3567,7 @@
         "equip": "Vh"
     },
     "EquipmentShirts15": {
-        "displayName": "Dementia_Body",
+        "displayName": "Dementia Body",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3592,7 +3592,7 @@
         "equip": "Lj"
     },
     "EquipmentShirts26": {
-        "displayName": "Efaunt_Ribcage",
+        "displayName": "Efaunt Ribcage",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3617,7 +3617,7 @@
         "equip": "Ml"
     },
     "EquipmentShirts27": {
-        "displayName": "Void_Imperium|Platebody",
+        "displayName": "Void Imperium Platebody",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3642,7 +3642,7 @@
         "equip": "nm"
     },
     "EquipmentShirts17": {
-        "displayName": "MCR_Tshirt",
+        "displayName": "MCR Tshirt",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3692,7 +3692,7 @@
         "equip": "Hk"
     },
     "EquipmentShirts20": {
-        "displayName": "Hide_Shirt",
+        "displayName": "Hide Shirt",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3717,7 +3717,7 @@
         "equip": "Sk"
     },
     "EquipmentShirts24": {
-        "displayName": "Green_Tee",
+        "displayName": "Green Tee",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3742,7 +3742,7 @@
         "equip": "Sg"
     },
     "EquipmentShirts25": {
-        "displayName": "Purple_Tee",
+        "displayName": "Purple Tee",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3767,7 +3767,7 @@
         "equip": "Pl"
     },
     "EquipmentShirts5": {
-        "displayName": "Studded_Hide",
+        "displayName": "Studded Hide",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3792,7 +3792,7 @@
         "equip": "un"
     },
     "EquipmentShirts22": {
-        "displayName": "Furled_Robes",
+        "displayName": "Furled Robes",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3817,7 +3817,7 @@
         "equip": "Wj"
     },
     "EquipmentShirts23": {
-        "displayName": "Feral_Leathering",
+        "displayName": "Feral Leathering",
         "sellPrice": "200",
         "typeGen": "aShirt",
         "ID": "3",
@@ -3842,7 +3842,7 @@
         "equip": "tm"
     },
     "EquipmentPants1": {
-        "displayName": "Torn_Jeans",
+        "displayName": "Torn Jeans",
         "sellPrice": "650",
         "typeGen": "aPants",
         "ID": "3",
@@ -3867,8 +3867,8 @@
         "equip": "Em"
     },
     "EquipmentPants2": {
-        "displayName": "Copper_Platelegs",
-        "sellPrice": "3e3",
+        "displayName": "Copper Platelegs",
+        "sellPrice": "3000",
         "typeGen": "aPants",
         "ID": "3",
         "Type": "PANTS",
@@ -3892,8 +3892,8 @@
         "equip": "om"
     },
     "EquipmentPants3": {
-        "displayName": "Iron_Platelegs",
-        "sellPrice": "6e3",
+        "displayName": "Iron Platelegs",
+        "sellPrice": "6000",
         "typeGen": "aPants",
         "ID": "3",
         "Type": "PANTS",
@@ -3917,8 +3917,8 @@
         "equip": "um"
     },
     "EquipmentPants4": {
-        "displayName": "Gold_Platelegs",
-        "sellPrice": "15e3",
+        "displayName": "Gold Platelegs",
+        "sellPrice": "15000",
         "typeGen": "aPants",
         "ID": "3",
         "Type": "PANTS",
@@ -3942,7 +3942,7 @@
         "equip": "$i"
     },
     "EquipmentPants17": {
-        "displayName": "Amarok_Hinds",
+        "displayName": "Amarok Hinds",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -3967,8 +3967,8 @@
         "equip": "sk"
     },
     "EquipmentPants5": {
-        "displayName": "Platinum_Shins",
-        "sellPrice": "25e3",
+        "displayName": "Platinum Shins",
+        "sellPrice": "25000",
         "typeGen": "aPants",
         "ID": "3",
         "Type": "PANTS",
@@ -3992,7 +3992,7 @@
         "equip": "ol"
     },
     "EquipmentPants6": {
-        "displayName": "Dementia_Shins",
+        "displayName": "Dementia Shins",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4017,7 +4017,7 @@
         "equip": "Ek"
     },
     "EquipmentPants20": {
-        "displayName": "Efaunt_Hipilium",
+        "displayName": "Efaunt Hipilium",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4042,7 +4042,7 @@
         "equip": "vl"
     },
     "EquipmentPants21": {
-        "displayName": "Void_Imperium|Slablegs",
+        "displayName": "Void Imperium Slablegs",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4067,7 +4067,7 @@
         "equip": "Wk"
     },
     "EquipmentPants7": {
-        "displayName": "Gilded_Pilates",
+        "displayName": "Gilded Pilates",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4092,7 +4092,7 @@
         "equip": "qm"
     },
     "EquipmentPants8": {
-        "displayName": "Twisted_Scales",
+        "displayName": "Twisted Scales",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4117,7 +4117,7 @@
         "equip": "Fk"
     },
     "EquipmentPants9": {
-        "displayName": "Crystallax_Shins",
+        "displayName": "Crystallax Shins",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4142,7 +4142,7 @@
         "equip": "dl"
     },
     "EquipmentPants10": {
-        "displayName": "Give_Up_On_Life|Pants",
+        "displayName": "Give Up On Life Pants",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4167,7 +4167,7 @@
         "equip": "zk"
     },
     "EquipmentPants11": {
-        "displayName": "Yellow_Belt_Ninja|Pants",
+        "displayName": "Yellow Belt Ninja Pants",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4192,7 +4192,7 @@
         "equip": "gm"
     },
     "EquipmentPants12": {
-        "displayName": "Merchantile_Pants",
+        "displayName": "Merchantile Pants",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4217,7 +4217,7 @@
         "equip": "xm"
     },
     "EquipmentPants13": {
-        "displayName": "Ancient_Leggings",
+        "displayName": "Ancient Leggings",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4242,7 +4242,7 @@
         "equip": "dp"
     },
     "EquipmentPants14": {
-        "displayName": "Forensic_Leggings",
+        "displayName": "Forensic Leggings",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4267,7 +4267,7 @@
         "equip": "im"
     },
     "EquipmentPants15": {
-        "displayName": "Bleached_Designer|Wode_Patch_Pants",
+        "displayName": "Bleached Designer Wode Patch Pants",
         "sellPrice": "3500",
         "typeGen": "aPants",
         "ID": "3",
@@ -4292,7 +4292,7 @@
         "equip": "Pk"
     },
     "EquipmentPants16": {
-        "displayName": "Adam's_Leaf",
+        "displayName": "Adam's Leaf",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4317,7 +4317,7 @@
         "equip": "vj"
     },
     "EquipmentPants18": {
-        "displayName": "Dirty_Coal_Miner|Baggy_Soot_Pants",
+        "displayName": "Dirty Coal Miner Baggy Soot Pants",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4342,7 +4342,7 @@
         "equip": "rm"
     },
     "EquipmentPants19": {
-        "displayName": "Trimmed_Rune|Platelegs",
+        "displayName": "Trimmed Rune Platelegs",
         "sellPrice": "200",
         "typeGen": "aPants",
         "ID": "3",
@@ -4367,8 +4367,8 @@
         "equip": "Uk"
     },
     "EquipmentShoes1": {
-        "displayName": "Copper_Boots",
-        "sellPrice": "1e3",
+        "displayName": "Copper Boots",
+        "sellPrice": "1000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4392,8 +4392,8 @@
         "equip": "go"
     },
     "EquipmentShoes15": {
-        "displayName": "Iron_Boots",
-        "sellPrice": "3e3",
+        "displayName": "Iron Boots",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4417,8 +4417,8 @@
         "equip": "Eh"
     },
     "EquipmentShoes3": {
-        "displayName": "Gold_Boots",
-        "sellPrice": "1e4",
+        "displayName": "Gold Boots",
+        "sellPrice": "10000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4442,8 +4442,8 @@
         "equip": "Fm"
     },
     "EquipmentShoes20": {
-        "displayName": "Amarok_Paws",
-        "sellPrice": "3e3",
+        "displayName": "Amarok Paws",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4467,8 +4467,8 @@
         "equip": "Bl"
     },
     "EquipmentShoes4": {
-        "displayName": "Platinum_Boots",
-        "sellPrice": "2e4",
+        "displayName": "Platinum Boots",
+        "sellPrice": "20000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4492,7 +4492,7 @@
         "equip": "Io"
     },
     "EquipmentShoes5": {
-        "displayName": "Dementia_Boots",
+        "displayName": "Dementia Boots",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4517,7 +4517,7 @@
         "equip": "Cl"
     },
     "EquipmentShoes21": {
-        "displayName": "Efaunts_Broken|Ankles",
+        "displayName": "Efaunts Broken Ankles",
         "sellPrice": "20",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4542,7 +4542,7 @@
         "equip": "Jo"
     },
     "EquipmentShoes22": {
-        "displayName": "Void_Imperium|Kicks",
+        "displayName": "Void Imperium Kicks",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4567,7 +4567,7 @@
         "equip": "ni"
     },
     "EquipmentShoes6": {
-        "displayName": "Hermes_Boots",
+        "displayName": "Hermes Boots",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4592,7 +4592,7 @@
         "equip": "On"
     },
     "EquipmentShoes7": {
-        "displayName": "Goo_Galoshes",
+        "displayName": "Goo Galoshes",
         "sellPrice": "500",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4617,7 +4617,7 @@
         "equip": "gi"
     },
     "EquipmentShoes8": {
-        "displayName": "Yeti_Walkers",
+        "displayName": "Yeti Walkers",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4642,7 +4642,7 @@
         "equip": "vo"
     },
     "EquipmentShoes9": {
-        "displayName": "Flip_Flops",
+        "displayName": "Flip Flops",
         "sellPrice": "500",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4667,7 +4667,7 @@
         "equip": "oi"
     },
     "EquipmentShoes10": {
-        "displayName": "Flap_Flops",
+        "displayName": "Flap Flops",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4692,7 +4692,7 @@
         "equip": "Pn"
     },
     "EquipmentShoes11": {
-        "displayName": "Floop_Flops",
+        "displayName": "Floop Flops",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4717,7 +4717,7 @@
         "equip": "ii"
     },
     "EquipmentShoes12": {
-        "displayName": "Flux_Flops",
+        "displayName": "Flux Flops",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4742,7 +4742,7 @@
         "equip": "Nh"
     },
     "EquipmentShoes13": {
-        "displayName": "Gaia_Shoes",
+        "displayName": "Gaia Shoes",
         "sellPrice": "200",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4792,8 +4792,8 @@
         "equip": "Ko"
     },
     "EquipmentShoes16": {
-        "displayName": "Cavern_Trekkers",
-        "sellPrice": "3e3",
+        "displayName": "Cavern Trekkers",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4817,8 +4817,8 @@
         "equip": "wj"
     },
     "EquipmentShoes17": {
-        "displayName": "Logger_Heels",
-        "sellPrice": "3e3",
+        "displayName": "Logger Heels",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4842,8 +4842,8 @@
         "equip": "tk"
     },
     "EquipmentShoes18": {
-        "displayName": "Angler_Boots",
-        "sellPrice": "3e3",
+        "displayName": "Angler Boots",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4867,8 +4867,8 @@
         "equip": "Wi"
     },
     "EquipmentShoes19": {
-        "displayName": "Bandito_Boots",
-        "sellPrice": "3e3",
+        "displayName": "Bandito Boots",
+        "sellPrice": "3000",
         "typeGen": "aShoes",
         "ID": "3",
         "Type": "SHOES",
@@ -4892,7 +4892,7 @@
         "equip": "Ki"
     },
     "EquipmentShoes2": {
-        "displayName": "Eyern_Boots",
+        "displayName": "Eyern Boots",
         "sellPrice": "20",
         "typeGen": "aShoes",
         "ID": "3",
@@ -4917,7 +4917,7 @@
         "equip": "vi"
     },
     "EquipmentPendant1": {
-        "displayName": "Mint_Icey",
+        "displayName": "Mint Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -4942,7 +4942,7 @@
         "equip": "xj"
     },
     "EquipmentPendant2": {
-        "displayName": "Strawbu_Icey",
+        "displayName": "Strawbu Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -4967,7 +4967,7 @@
         "equip": "Cj"
     },
     "EquipmentPendant3": {
-        "displayName": "Rok_Road_Icey",
+        "displayName": "Rok Road Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -4992,7 +4992,7 @@
         "equip": "hj"
     },
     "EquipmentPendant4": {
-        "displayName": "Rainbo_Icey",
+        "displayName": "Rainbo Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5017,7 +5017,7 @@
         "equip": "Xj"
     },
     "EquipmentPendant5": {
-        "displayName": "Chocotastic_Icey",
+        "displayName": "Chocotastic Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5042,7 +5042,7 @@
         "equip": "Ai"
     },
     "EquipmentPendant6": {
-        "displayName": "Blubbery_Icey",
+        "displayName": "Blubbery Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5067,7 +5067,7 @@
         "equip": "Fi"
     },
     "EquipmentPendant7": {
-        "displayName": "Lava_Icey",
+        "displayName": "Lava Icey",
         "sellPrice": "420",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5092,7 +5092,7 @@
         "equip": "Kk"
     },
     "EquipmentPendant8": {
-        "displayName": "Legends_Icey",
+        "displayName": "Legends Icey",
         "sellPrice": "27",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5117,7 +5117,7 @@
         "equip": "Zi"
     },
     "EquipmentPendant9": {
-        "displayName": "Little_Wooden|Katana",
+        "displayName": "Little Wooden Katana",
         "sellPrice": "200",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5142,7 +5142,7 @@
         "equip": "rj"
     },
     "EquipmentPendant10": {
-        "displayName": "Sleek_Shank",
+        "displayName": "Sleek Shank",
         "sellPrice": "400",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5167,7 +5167,7 @@
         "equip": "sj"
     },
     "EquipmentPendant11": {
-        "displayName": "Carrot_Horror",
+        "displayName": "Carrot Horror",
         "sellPrice": "500",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5217,7 +5217,7 @@
         "equip": "lq"
     },
     "EquipmentPendant13": {
-        "displayName": "Quartz_Pendant",
+        "displayName": "Quartz Pendant",
         "sellPrice": "6500",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5243,7 +5243,7 @@
     },
     "EquipmentPendant14": {
         "displayName": "Fuscismatia",
-        "sellPrice": "1e4",
+        "sellPrice": "10000",
         "typeGen": "aPendant",
         "ID": "3",
         "Type": "PENDANT",
@@ -5267,7 +5267,7 @@
         "equip": "uk"
     },
     "EquipmentPendant15": {
-        "displayName": "Lucky_Fish_Head",
+        "displayName": "Lucky Fish Head",
         "sellPrice": "6500",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5292,8 +5292,8 @@
         "equip": "vk"
     },
     "EquipmentPendant16": {
-        "displayName": "Strung_Bludgeon",
-        "sellPrice": "1e4",
+        "displayName": "Strung Bludgeon",
+        "sellPrice": "10000",
         "typeGen": "aPendant",
         "ID": "3",
         "Type": "PENDANT",
@@ -5317,8 +5317,8 @@
         "equip": "Gi"
     },
     "EquipmentPendant17": {
-        "displayName": "Chaotic_Amarok|Pendant",
-        "sellPrice": "1e4",
+        "displayName": "Chaotic Amarok Pendant",
+        "sellPrice": "10000",
         "typeGen": "aPendant",
         "ID": "3",
         "Type": "PENDANT",
@@ -5342,7 +5342,7 @@
         "equip": "Aj"
     },
     "EquipmentPendant18": {
-        "displayName": "Strung_Steamy",
+        "displayName": "Strung Steamy",
         "sellPrice": "1",
         "typeGen": "aPendant",
         "ID": "3",
@@ -5367,7 +5367,7 @@
         "equip": "gk"
     },
     "EquipmentRings1": {
-        "displayName": "Gold_Ring",
+        "displayName": "Gold Ring",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5392,7 +5392,7 @@
         "equip": "kl"
     },
     "EquipmentRings2": {
-        "displayName": "Copper_Band",
+        "displayName": "Copper Band",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5417,7 +5417,7 @@
         "equip": "dj"
     },
     "EquipmentRings3": {
-        "displayName": "Steel_Band",
+        "displayName": "Steel Band",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5442,7 +5442,7 @@
         "equip": "Ol"
     },
     "EquipmentRings4": {
-        "displayName": "Molden_Crust",
+        "displayName": "Molden Crust",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5467,7 +5467,7 @@
         "equip": "Mk"
     },
     "EquipmentRings5": {
-        "displayName": "Toxic_Bubbles|Band",
+        "displayName": "Toxic Bubbles Band",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5492,7 +5492,7 @@
         "equip": "ok"
     },
     "EquipmentRings6": {
-        "displayName": "Death_Wish",
+        "displayName": "Death Wish",
         "sellPrice": "200",
         "typeGen": "aRing",
         "ID": "3",
@@ -5517,8 +5517,8 @@
         "equip": "Jj"
     },
     "EquipmentRings7": {
-        "displayName": "Pugilist_Demise",
-        "sellPrice": "4e3",
+        "displayName": "Pugilist Demise",
+        "sellPrice": "4000",
         "typeGen": "aRing",
         "ID": "3",
         "Type": "RING",
@@ -5542,7 +5542,7 @@
         "equip": "Jl"
     },
     "EquipmentRings8": {
-        "displayName": "The_Used_Bandaid",
+        "displayName": "The Used Bandaid",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5567,7 +5567,7 @@
         "equip": "Yn"
     },
     "EquipmentRings9": {
-        "displayName": "Chat_Ring",
+        "displayName": "Chat Ring",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5592,7 +5592,7 @@
         "equip": "dn"
     },
     "EquipmentRings10": {
-        "displayName": "Spikeweed_Ring",
+        "displayName": "Spikeweed Ring",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5617,8 +5617,8 @@
         "equip": "Dn"
     },
     "EquipmentRings11": {
-        "displayName": "Defenders_Dignity",
-        "sellPrice": "5e3",
+        "displayName": "Defenders Dignity",
+        "sellPrice": "5000",
         "typeGen": "aRing",
         "ID": "3",
         "Type": "RING",
@@ -5642,7 +5642,7 @@
         "equip": "en"
     },
     "EquipmentRingsFishing1": {
-        "displayName": "Shallow_Watering",
+        "displayName": "Shallow Watering",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5667,7 +5667,7 @@
         "equip": "Tl"
     },
     "EquipmentRingsFishing2": {
-        "displayName": "Oceanic_Ring",
+        "displayName": "Oceanic Ring",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5692,7 +5692,7 @@
         "equip": "Hm"
     },
     "EquipmentRingsFishing3": {
-        "displayName": "Deepwater_Trench|Ring",
+        "displayName": "Deepwater Trench Ring",
         "sellPrice": "2500",
         "typeGen": "aRing",
         "ID": "3",
@@ -5717,8 +5717,8 @@
         "equip": "Vm"
     },
     "EquipmentRings12": {
-        "displayName": "Frisbee_Ring",
-        "sellPrice": "5e3",
+        "displayName": "Frisbee Ring",
+        "sellPrice": "5000",
         "typeGen": "aRing",
         "ID": "3",
         "Type": "RING",
@@ -5742,8 +5742,8 @@
         "equip": "Dl"
     },
     "EquipmentRings13": {
-        "displayName": "Silver_Stopwatch",
-        "sellPrice": "5e3",
+        "displayName": "Silver Stopwatch",
+        "sellPrice": "5000",
         "typeGen": "aRing",
         "ID": "3",
         "Type": "RING",
@@ -5767,7 +5767,7 @@
         "equip": "jm"
     },
     "EquipmentRings14": {
-        "displayName": "Dooble_Goopi",
+        "displayName": "Dooble Goopi",
         "sellPrice": "1",
         "typeGen": "aRing",
         "ID": "3",
@@ -5792,7 +5792,7 @@
         "equip": "Zl"
     },
     "EquipmentRings15": {
-        "displayName": "Sanic_Ring",
+        "displayName": "Sanic Ring",
         "sellPrice": "1",
         "typeGen": "aRing",
         "ID": "3",
@@ -5817,7 +5817,7 @@
         "equip": "sm"
     },
     "EquipmentRings16": {
-        "displayName": "Efaunt_Trunculus",
+        "displayName": "Efaunt Trunculus",
         "sellPrice": "1",
         "typeGen": "aRing",
         "ID": "3",
@@ -5842,7 +5842,7 @@
         "equip": "ep"
     },
     "EquipmentRingsChat1": {
-        "displayName": "Love_Ring",
+        "displayName": "Love Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "1",
@@ -5867,7 +5867,7 @@
         "equip": "on"
     },
     "EquipmentRingsChat2": {
-        "displayName": "Leafy_Ring",
+        "displayName": "Leafy Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "2",
@@ -5892,7 +5892,7 @@
         "equip": "km"
     },
     "EquipmentRingsChat3": {
-        "displayName": "Wealth_Ring",
+        "displayName": "Wealth Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "3",
@@ -5917,7 +5917,7 @@
         "equip": "Wo"
     },
     "EquipmentRingsChat4": {
-        "displayName": "Bob_Ring",
+        "displayName": "Bob Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "4",
@@ -5942,7 +5942,7 @@
         "equip": "ll"
     },
     "EquipmentRingsChat5": {
-        "displayName": "Bubble_Ring",
+        "displayName": "Bubble Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "5",
@@ -5967,7 +5967,7 @@
         "equip": "Zm"
     },
     "EquipmentRingsChat6": {
-        "displayName": "Cthulu's_Ring",
+        "displayName": "Cthulu's Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "6",
@@ -5992,7 +5992,7 @@
         "equip": "xo"
     },
     "EquipmentRingsChat8": {
-        "displayName": "Lava_Sez|Buy_More_Gems",
+        "displayName": "Lava Sez Buy More Gems",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "7",
@@ -6017,7 +6017,7 @@
         "equip": "ym"
     },
     "EquipmentRingsChat9": {
-        "displayName": "HONK_Ring",
+        "displayName": "HONK Ring",
         "sellPrice": "2500",
         "typeGen": "aChatRingMTX",
         "ID": "8",
@@ -6042,7 +6042,7 @@
         "equip": "Dp"
     },
     "EquipmentTools1": {
-        "displayName": "Junk_Pickaxe",
+        "displayName": "Junk Pickaxe",
         "sellPrice": "50",
         "typeGen": "aPick",
         "ID": "0",
@@ -6067,7 +6067,7 @@
         "equip": "jo"
     },
     "EquipmentTools2": {
-        "displayName": "Copper_Pickaxe",
+        "displayName": "Copper Pickaxe",
         "sellPrice": "800",
         "typeGen": "aPick",
         "ID": "1",
@@ -6092,8 +6092,8 @@
         "equip": "Op"
     },
     "EquipmentTools3": {
-        "displayName": "Iron_Pickaxe",
-        "sellPrice": "5e3",
+        "displayName": "Iron Pickaxe",
+        "sellPrice": "5000",
         "typeGen": "aPick",
         "ID": "0",
         "Type": "PICKAXE",
@@ -6117,8 +6117,8 @@
         "equip": "$l"
     },
     "EquipmentTools5": {
-        "displayName": "Gold_Pickaxe",
-        "sellPrice": "1e4",
+        "displayName": "Gold Pickaxe",
+        "sellPrice": "10000",
         "typeGen": "aPick",
         "ID": "2",
         "Type": "PICKAXE",
@@ -6142,7 +6142,7 @@
         "equip": "eq"
     },
     "EquipmentTools6": {
-        "displayName": "Platinum_Pickaxe",
+        "displayName": "Platinum Pickaxe",
         "sellPrice": "200",
         "typeGen": "aPick",
         "ID": "3",
@@ -6167,7 +6167,7 @@
         "equip": "Bm"
     },
     "EquipmentTools7": {
-        "displayName": "Dementia_Pickaxe",
+        "displayName": "Dementia Pickaxe",
         "sellPrice": "200",
         "typeGen": "aPick",
         "ID": "0",
@@ -6192,7 +6192,7 @@
         "equip": "Mm"
     },
     "EquipmentTools8": {
-        "displayName": "Lustre_Pickaxe",
+        "displayName": "Lustre Pickaxe",
         "sellPrice": "200",
         "typeGen": "aPick",
         "ID": "4",
@@ -6217,7 +6217,7 @@
         "equip": "fp"
     },
     "EquipmentTools9": {
-        "displayName": "Dreadlo_Pickolo",
+        "displayName": "Dreadlo Pickolo",
         "sellPrice": "200",
         "typeGen": "aPick",
         "ID": "0",
@@ -6242,7 +6242,7 @@
         "equip": "Pp"
     },
     "EquipmentTools10": {
-        "displayName": "Poopy_Pickaxe",
+        "displayName": "Poopy Pickaxe",
         "sellPrice": "200",
         "typeGen": "aPick",
         "ID": "1",
@@ -6267,7 +6267,7 @@
         "equip": "oq"
     },
     "EquipmentToolsHatchet0": {
-        "displayName": "Old_Hatchet",
+        "displayName": "Old Hatchet",
         "sellPrice": "50",
         "typeGen": "aHatchet",
         "ID": "0",
@@ -6292,7 +6292,7 @@
         "equip": "ko"
     },
     "EquipmentToolsHatchet3": {
-        "displayName": "Copper_Chopper",
+        "displayName": "Copper Chopper",
         "sellPrice": "650",
         "typeGen": "aHatchet",
         "ID": "2",
@@ -6317,8 +6317,8 @@
         "equip": "lo"
     },
     "EquipmentToolsHatchet1": {
-        "displayName": "Iron_Hatchet",
-        "sellPrice": "5e3",
+        "displayName": "Iron Hatchet",
+        "sellPrice": "5000",
         "typeGen": "aHatchet",
         "ID": "0",
         "Type": "HATCHET",
@@ -6342,8 +6342,8 @@
         "equip": "Lo"
     },
     "EquipmentToolsHatchet2b": {
-        "displayName": "Stinky_Axe",
-        "sellPrice": "1e4",
+        "displayName": "Stinky Axe",
+        "sellPrice": "10000",
         "typeGen": "aHatchet",
         "ID": "2",
         "Type": "HATCHET",
@@ -6367,8 +6367,8 @@
         "equip": "Yo"
     },
     "EquipmentToolsHatchet2": {
-        "displayName": "Golden_Axe",
-        "sellPrice": "12e3",
+        "displayName": "Golden Axe",
+        "sellPrice": "12000",
         "typeGen": "aHatchet",
         "ID": "1",
         "Type": "HATCHET",
@@ -6392,7 +6392,7 @@
         "equip": "qq"
     },
     "EquipmentToolsHatchet4": {
-        "displayName": "Plat_Hatchet",
+        "displayName": "Plat Hatchet",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "3",
@@ -6417,7 +6417,7 @@
         "equip": "Qp"
     },
     "EquipmentToolsHatchet5": {
-        "displayName": "Dementia_Dicer",
+        "displayName": "Dementia Dicer",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "4",
@@ -6442,7 +6442,7 @@
         "equip": "Ep"
     },
     "EquipmentToolsHatchet6": {
-        "displayName": "Lustre_Logger",
+        "displayName": "Lustre Logger",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "5",
@@ -6467,7 +6467,7 @@
         "equip": "fn"
     },
     "EquipmentToolsHatchet7": {
-        "displayName": "Void_Hatchet",
+        "displayName": "Void Hatchet",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "6",
@@ -6492,7 +6492,7 @@
         "equip": "pp"
     },
     "EquipmentToolsHatchet8": {
-        "displayName": "Starfire_Hatchet",
+        "displayName": "Starfire Hatchet",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "7",
@@ -6517,7 +6517,7 @@
         "equip": "Tn"
     },
     "EquipmentToolsHatchet9": {
-        "displayName": "Dreadlo|Eviscerator",
+        "displayName": "Dreadlo Eviscerator",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "8",
@@ -6542,7 +6542,7 @@
         "equip": "Un"
     },
     "EquipmentToolsHatchet10": {
-        "displayName": "Annihilator_of|the_Yggdrasil",
+        "displayName": "Annihilator of the Yggdrasil",
         "sellPrice": "200",
         "typeGen": "aHatchet",
         "ID": "9",
@@ -6567,7 +6567,7 @@
         "equip": "$n"
     },
     "FishingRod1": {
-        "displayName": "Wood_Fishing_Rod",
+        "displayName": "Wood Fishing Rod",
         "sellPrice": "200",
         "typeGen": "aFishingRod",
         "ID": "0",
@@ -6592,7 +6592,7 @@
         "equip": "ao"
     },
     "FishingRod2": {
-        "displayName": "Copper_Fish_Rod",
+        "displayName": "Copper Fish Rod",
         "sellPrice": "500",
         "typeGen": "aFishingRod",
         "ID": "0",
@@ -6617,7 +6617,7 @@
         "equip": "Zo"
     },
     "FishingRod3": {
-        "displayName": "Iron_Fishing_Rod",
+        "displayName": "Iron Fishing Rod",
         "sellPrice": "2500",
         "typeGen": "aFishingRod",
         "ID": "1",
@@ -6642,8 +6642,8 @@
         "equip": "Rp"
     },
     "FishingRod4": {
-        "displayName": "Gold_Fishing_Rod",
-        "sellPrice": "1e4",
+        "displayName": "Gold Fishing Rod",
+        "sellPrice": "10000",
         "typeGen": "aFishingRod",
         "ID": "2",
         "Type": "FISHING_ROD",
@@ -6667,8 +6667,8 @@
         "equip": "$o"
     },
     "FishingRod5": {
-        "displayName": "Plat_Fishing_Rod",
-        "sellPrice": "2e4",
+        "displayName": "Plat Fishing Rod",
+        "sellPrice": "20000",
         "typeGen": "aFishingRod",
         "ID": "3",
         "Type": "FISHING_ROD",
@@ -6692,7 +6692,7 @@
         "equip": "Rq"
     },
     "CatchingNet1": {
-        "displayName": "Bug_Net",
+        "displayName": "Bug Net",
         "sellPrice": "100",
         "typeGen": "aBugNet",
         "ID": "0",
@@ -6717,8 +6717,8 @@
         "equip": "hp"
     },
     "CatchingNet2": {
-        "displayName": "Copper_Netted_Net",
-        "sellPrice": "2e3",
+        "displayName": "Copper Netted Net",
+        "sellPrice": "2000",
         "typeGen": "aBugNet",
         "ID": "1",
         "Type": "BUG_CATCHING_NET",
@@ -6742,7 +6742,7 @@
         "equip": "sq"
     },
     "CatchingNet3": {
-        "displayName": "Reinforced_Net",
+        "displayName": "Reinforced Net",
         "sellPrice": "7500",
         "typeGen": "aBugNet",
         "ID": "0",
@@ -6767,8 +6767,8 @@
         "equip": "Gp"
     },
     "CatchingNet4": {
-        "displayName": "Gilded_Net",
-        "sellPrice": "17e3",
+        "displayName": "Gilded Net",
+        "sellPrice": "17000",
         "typeGen": "aBugNet",
         "ID": "2",
         "Type": "BUG_CATCHING_NET",
@@ -6793,7 +6793,7 @@
     },
     "CatchingNet5": {
         "displayName": "Platinet",
-        "sellPrice": "17e3",
+        "sellPrice": "17000",
         "typeGen": "aBugNet",
         "ID": "3",
         "Type": "BUG_CATCHING_NET",
@@ -6817,7 +6817,7 @@
         "equip": "Sq"
     },
     "TrapBoxSet1": {
-        "displayName": "Cardboard_Trap",
+        "displayName": "Cardboard Trap",
         "sellPrice": "0",
         "typeGen": "aTrap",
         "ID": "1",
@@ -6842,7 +6842,7 @@
         "equip": "nr"
     },
     "TrapBoxSet2": {
-        "displayName": "Wooden_Trap",
+        "displayName": "Wooden Trap",
         "sellPrice": "1",
         "typeGen": "aTrap",
         "ID": "2",
@@ -6867,7 +6867,7 @@
         "equip": "Cr"
     },
     "TrapBoxSet3": {
-        "displayName": "Iron_Trap",
+        "displayName": "Iron Trap",
         "sellPrice": "2",
         "typeGen": "aTrap",
         "ID": "2",
@@ -6892,7 +6892,7 @@
         "equip": "pn"
     },
     "TrapBoxSet4": {
-        "displayName": "Royal_Trap",
+        "displayName": "Royal Trap",
         "sellPrice": "3",
         "typeGen": "aTrap",
         "ID": "3",
@@ -6917,7 +6917,7 @@
         "equip": "Tq"
     },
     "TrapBoxSet5": {
-        "displayName": "Eclectic_Trap",
+        "displayName": "Eclectic Trap",
         "sellPrice": "4",
         "typeGen": "aTrap",
         "ID": "3",
@@ -6942,7 +6942,7 @@
         "equip": "Dr"
     },
     "WorshipSkull1": {
-        "displayName": "Wax_Skull",
+        "displayName": "Wax Skull",
         "sellPrice": "100",
         "typeGen": "aSkull",
         "ID": "0",
@@ -6967,7 +6967,7 @@
         "equip": "Uq"
     },
     "WorshipSkull2": {
-        "displayName": "Wax_Skull",
+        "displayName": "Wax Skull",
         "sellPrice": "100",
         "typeGen": "aSkull",
         "ID": "0",
@@ -6992,7 +6992,7 @@
         "equip": "Vq"
     },
     "WorshipSkull3": {
-        "displayName": "Wax_Skull",
+        "displayName": "Wax Skull",
         "sellPrice": "100",
         "typeGen": "aSkull",
         "ID": "0",
@@ -7017,7 +7017,7 @@
         "equip": "ip"
     },
     "WorshipSkull4": {
-        "displayName": "Wax_Skull",
+        "displayName": "Wax Skull",
         "sellPrice": "100",
         "typeGen": "aSkull",
         "ID": "0",
@@ -7042,7 +7042,7 @@
         "equip": "or"
     },
     "WorshipSkull5": {
-        "displayName": "Wax_Skull",
+        "displayName": "Wax Skull",
         "sellPrice": "100",
         "typeGen": "aSkull",
         "ID": "0",
@@ -7089,7 +7089,7 @@
         "consumable": "uq"
     },
     "FoodHealth3": {
-        "displayName": "Hot_Dog",
+        "displayName": "Hot Dog",
         "sellPrice": "7",
         "typeGen": "cFood",
         "ID": "0",
@@ -7111,7 +7111,7 @@
         "consumable": "vq"
     },
     "FoodHealth2": {
-        "displayName": "Cheezy_Pizza",
+        "displayName": "Cheezy Pizza",
         "sellPrice": "20",
         "typeGen": "cFood",
         "ID": "0",
@@ -7155,7 +7155,7 @@
         "consumable": "mo"
     },
     "FoodHealth4": {
-        "displayName": "Saucy_Weiner",
+        "displayName": "Saucy Weiner",
         "sellPrice": "120",
         "typeGen": "cFood",
         "ID": "0",
@@ -7177,7 +7177,7 @@
         "consumable": "Sp"
     },
     "FoodHealth5": {
-        "displayName": "Cranberry_Jam",
+        "displayName": "Cranberry Jam",
         "sellPrice": "32",
         "typeGen": "cFood",
         "ID": "0",
@@ -7199,7 +7199,7 @@
         "consumable": "Aw"
     },
     "FoodHealth6": {
-        "displayName": "Kebab_Sticks",
+        "displayName": "Kebab Sticks",
         "sellPrice": "48",
         "typeGen": "cFood",
         "ID": "0",
@@ -7221,7 +7221,7 @@
         "consumable": "Iq"
     },
     "FoodHealth7": {
-        "displayName": "Meat_Pie",
+        "displayName": "Meat Pie",
         "sellPrice": "80",
         "typeGen": "cFood",
         "ID": "0",
@@ -7243,7 +7243,7 @@
         "consumable": "Cw"
     },
     "FoodHealth8": {
-        "displayName": "Crabby_Cake|Supreme",
+        "displayName": "Crabby Cake Supreme",
         "sellPrice": "120",
         "typeGen": "cFood",
         "ID": "0",
@@ -7265,7 +7265,7 @@
         "consumable": "gw"
     },
     "Meatloaf": {
-        "displayName": "Magic_Meatloaf",
+        "displayName": "Magic Meatloaf",
         "sellPrice": "300",
         "typeGen": "cFood",
         "ID": "0",
@@ -7281,13 +7281,13 @@
         "desc_line7": "Filler",
         "desc_line8": "Filler",
         "Effect": "Health",
-        "Amount": "2e3",
+        "Amount": "2000",
         "Trigger": "30",
         "Cooldown": "10",
         "consumable": "Ew"
     },
     "FoodEvent8": {
-        "displayName": "Milk_Choco",
+        "displayName": "Milk Choco",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7309,7 +7309,7 @@
         "consumable": "hw"
     },
     "FoodPotOr1": {
-        "displayName": "Small_Strength|Potion",
+        "displayName": "Small Strength Potion",
         "sellPrice": "5",
         "typeGen": "cFood",
         "ID": "0",
@@ -7331,7 +7331,7 @@
         "consumable": "Fw"
     },
     "FoodPotOr2": {
-        "displayName": "Average_Strength|Potion",
+        "displayName": "Average Strength Potion",
         "sellPrice": "25",
         "typeGen": "cFood",
         "ID": "0",
@@ -7353,7 +7353,7 @@
         "consumable": "iw"
     },
     "FoodPotOr3": {
-        "displayName": "Decent_Strength|Potion",
+        "displayName": "Decent Strength Potion",
         "sellPrice": "150",
         "typeGen": "cFood",
         "ID": "0",
@@ -7375,7 +7375,7 @@
         "consumable": "Yq"
     },
     "FoodPotRe1": {
-        "displayName": "Small_Life|Potion",
+        "displayName": "Small Life Potion",
         "sellPrice": "4",
         "typeGen": "cFood",
         "ID": "0",
@@ -7397,7 +7397,7 @@
         "consumable": "Js"
     },
     "FoodPotRe2": {
-        "displayName": "Average_Life|Potion",
+        "displayName": "Average Life Potion",
         "sellPrice": "30",
         "typeGen": "cFood",
         "ID": "0",
@@ -7419,7 +7419,7 @@
         "consumable": "Zq"
     },
     "FoodPotRe3": {
-        "displayName": "Decent_Life|Potion",
+        "displayName": "Decent Life Potion",
         "sellPrice": "200",
         "typeGen": "cFood",
         "ID": "0",
@@ -7441,7 +7441,7 @@
         "consumable": "Jq"
     },
     "FoodPotGr1": {
-        "displayName": "Small_Speed|Potion",
+        "displayName": "Small Speed Potion",
         "sellPrice": "7",
         "typeGen": "cFood",
         "ID": "0",
@@ -7463,7 +7463,7 @@
         "consumable": "rs"
     },
     "FoodPotGr2": {
-        "displayName": "Average_Speed|Potion",
+        "displayName": "Average Speed Potion",
         "sellPrice": "60",
         "typeGen": "cFood",
         "ID": "0",
@@ -7485,7 +7485,7 @@
         "consumable": "Er"
     },
     "FoodPotGr3": {
-        "displayName": "Decent_Speed|Potion",
+        "displayName": "Decent Speed Potion",
         "sellPrice": "400",
         "typeGen": "cFood",
         "ID": "0",
@@ -7507,7 +7507,7 @@
         "consumable": "kw"
     },
     "FoodEvent7": {
-        "displayName": "Minto_Choco",
+        "displayName": "Minto Choco",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7529,7 +7529,7 @@
         "consumable": "ms"
     },
     "FoodPotMana1": {
-        "displayName": "Small_Mana|Potion",
+        "displayName": "Small Mana Potion",
         "sellPrice": "5",
         "typeGen": "cFood",
         "ID": "0",
@@ -7551,7 +7551,7 @@
         "consumable": "ns"
     },
     "FoodPotMana2": {
-        "displayName": "Average_Mana|Potion",
+        "displayName": "Average Mana Potion",
         "sellPrice": "25",
         "typeGen": "cFood",
         "ID": "0",
@@ -7573,7 +7573,7 @@
         "consumable": "Yr"
     },
     "FoodPotMana3": {
-        "displayName": "Decent_Mana|Potion",
+        "displayName": "Decent Mana Potion",
         "sellPrice": "175",
         "typeGen": "cFood",
         "ID": "0",
@@ -7595,7 +7595,7 @@
         "consumable": "wp"
     },
     "FoodPotYe1": {
-        "displayName": "Small_EXP|Potion",
+        "displayName": "Small EXP Potion",
         "sellPrice": "25",
         "typeGen": "cFood",
         "ID": "0",
@@ -7617,7 +7617,7 @@
         "consumable": "Ls"
     },
     "FoodPotYe2": {
-        "displayName": "Average_EXP|Potion",
+        "displayName": "Average EXP Potion",
         "sellPrice": "250",
         "typeGen": "cFood",
         "ID": "0",
@@ -7639,7 +7639,7 @@
         "consumable": "Zr"
     },
     "FoodPotYe3": {
-        "displayName": "Decent_EXP|Potion",
+        "displayName": "Decent EXP Potion",
         "sellPrice": "1500",
         "typeGen": "cFood",
         "ID": "0",
@@ -7661,7 +7661,7 @@
         "consumable": "os"
     },
     "FoodEvent6": {
-        "displayName": "Lemony_Choco",
+        "displayName": "Lemony Choco",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7683,7 +7683,7 @@
         "consumable": "pr"
     },
     "FoodMining1": {
-        "displayName": "Icing_Ironbite",
+        "displayName": "Icing Ironbite",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7705,7 +7705,7 @@
         "consumable": "Ms"
     },
     "FoodEvent1": {
-        "displayName": "Giftybread_Man",
+        "displayName": "Giftybread Man",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7727,7 +7727,7 @@
         "consumable": "Ns"
     },
     "FoodChoppin1": {
-        "displayName": "Saucy_Logfries",
+        "displayName": "Saucy Logfries",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7749,7 +7749,7 @@
         "consumable": "Os"
     },
     "FoodEvent2": {
-        "displayName": "Chogg_Nog",
+        "displayName": "Chogg Nog",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7771,7 +7771,7 @@
         "consumable": "ds"
     },
     "FoodFish1": {
-        "displayName": "Slurpin_Herm",
+        "displayName": "Slurpin Herm",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7793,7 +7793,7 @@
         "consumable": "Nr"
     },
     "FoodEvent3": {
-        "displayName": "Candy_Canes",
+        "displayName": "Candy Canes",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7815,7 +7815,7 @@
         "consumable": "ax"
     },
     "FoodCatch1": {
-        "displayName": "Buttered_Toasted|Butter",
+        "displayName": "Buttered Toasted Butter",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7881,7 +7881,7 @@
         "consumable": "rx"
     },
     "BulletB": {
-        "displayName": "FMJ_Bullet",
+        "displayName": "FMJ Bullet",
         "sellPrice": "20",
         "typeGen": "cFood",
         "ID": "0",
@@ -7903,7 +7903,7 @@
         "consumable": "sx"
     },
     "MidnightCookie": {
-        "displayName": "Midnight_Cookie",
+        "displayName": "Midnight Cookie",
         "sellPrice": "300",
         "typeGen": "cFood",
         "ID": "0",
@@ -7925,7 +7925,7 @@
         "consumable": "Kw"
     },
     "FoodEvent5": {
-        "displayName": "Cherry_Choco",
+        "displayName": "Cherry Choco",
         "sellPrice": "10",
         "typeGen": "cFood",
         "ID": "0",
@@ -7947,7 +7947,7 @@
         "consumable": "Lw"
     },
     "PeanutG": {
-        "displayName": "Golden_Peanut",
+        "displayName": "Golden Peanut",
         "sellPrice": "125",
         "typeGen": "cFood",
         "ID": "0",
@@ -7969,7 +7969,7 @@
         "consumable": "es"
     },
     "FoodG1": {
-        "displayName": "Golden_Jam",
+        "displayName": "Golden Jam",
         "sellPrice": "50",
         "typeGen": "cFood",
         "ID": "0",
@@ -7991,7 +7991,7 @@
         "consumable": "cx"
     },
     "FoodG2": {
-        "displayName": "Golden_Kebabs",
+        "displayName": "Golden Kebabs",
         "sellPrice": "200",
         "typeGen": "cFood",
         "ID": "0",
@@ -8013,7 +8013,7 @@
         "consumable": "dx"
     },
     "FoodG3": {
-        "displayName": "Golden_Meat_Pie",
+        "displayName": "Golden Meat Pie",
         "sellPrice": "350",
         "typeGen": "cFood",
         "ID": "0",
@@ -8035,7 +8035,7 @@
         "consumable": "ex"
     },
     "FoodG4": {
-        "displayName": "Golden_Nomwich",
+        "displayName": "Golden Nomwich",
         "sellPrice": "100",
         "typeGen": "cFood",
         "ID": "0",
@@ -8057,7 +8057,7 @@
         "consumable": "fx"
     },
     "rtt0": {
-        "displayName": "Bottled_Town|Teleport",
+        "displayName": "Bottled Town Teleport",
         "sellPrice": "50",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8075,7 +8075,7 @@
         "consumable": "mA"
     },
     "ResetFrag": {
-        "displayName": "Talent_Point|Reset_Fragment",
+        "displayName": "Talent Point Reset Fragment",
         "sellPrice": "200",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8093,7 +8093,7 @@
         "consumable": "$y"
     },
     "ResetCompleted": {
-        "displayName": "Talent_Point|Reset_Potion",
+        "displayName": "Talent Point Reset Potion",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8111,7 +8111,7 @@
         "consumable": "Cy"
     },
     "ResetCompletedS": {
-        "displayName": "Star_Talent|Reset_Potion",
+        "displayName": "Star Talent Reset Potion",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8129,7 +8129,7 @@
         "consumable": "gx"
     },
     "ClassSwap": {
-        "displayName": "Sub_Class_Swap|Token",
+        "displayName": "Sub Class Swap Token",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8147,7 +8147,7 @@
         "consumable": "tz"
     },
     "ResetBox": {
-        "displayName": "Post_Office_Box|Reseto_Magnifico",
+        "displayName": "Post Office Box Reseto Magnifico",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8165,7 +8165,7 @@
         "consumable": "Dy"
     },
     "Ht": {
-        "displayName": "Hat_Premiumifier",
+        "displayName": "Hat Premiumifier",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8183,7 +8183,7 @@
         "consumable": "az"
     },
     "StonePremRestore": {
-        "displayName": "Premium_Stone|Refunder",
+        "displayName": "Premium Stone Refunder",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "1",
@@ -8201,7 +8201,7 @@
         "consumable": "Ey"
     },
     "ExpBalloon1": {
-        "displayName": "Small_Experience|Balloon",
+        "displayName": "Small Experience Balloon",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "50",
@@ -8218,7 +8218,7 @@
         "consumable": "uz"
     },
     "ExpBalloon2": {
-        "displayName": "Medium_Experience|Balloon",
+        "displayName": "Medium Experience Balloon",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "120",
@@ -8235,7 +8235,7 @@
         "consumable": "vz"
     },
     "ExpBalloon3": {
-        "displayName": "Large_Experience|Balloon",
+        "displayName": "Large Experience Balloon",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "200",
@@ -8252,7 +8252,7 @@
         "consumable": "wz"
     },
     "JobApplication": {
-        "displayName": "Job_Application",
+        "displayName": "Job Application",
         "sellPrice": "200",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8270,7 +8270,7 @@
         "consumable": "nA"
     },
     "SmithingHammerChisel": {
-        "displayName": "Sculpting_Tools",
+        "displayName": "Sculpting Tools",
         "sellPrice": "800",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8289,7 +8289,7 @@
     },
     "BobJoePickle": {
         "displayName": "BobJoePickle",
-        "sellPrice": "2e4",
+        "sellPrice": "20000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -8306,7 +8306,7 @@
         "consumable": "bz"
     },
     "Quest1": {
-        "displayName": "Mining|Certificate",
+        "displayName": "Mining Certificate",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8324,7 +8324,7 @@
         "consumable": "Gy"
     },
     "Crystal1": {
-        "displayName": "Desert_Topaz",
+        "displayName": "Desert Topaz",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8342,7 +8342,7 @@
         "consumable": "hx"
     },
     "Crystal2": {
-        "displayName": "Glacier_Quartz",
+        "displayName": "Glacier Quartz",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8360,7 +8360,7 @@
         "consumable": "xz"
     },
     "Crystal3": {
-        "displayName": "Galaxial_Amethyst",
+        "displayName": "Galaxial Amethyst",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8378,7 +8378,7 @@
         "consumable": "Hy"
     },
     "Quest2": {
-        "displayName": "Mining_Certificate",
+        "displayName": "Mining Certificate",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8396,8 +8396,8 @@
         "consumable": "yz"
     },
     "PeanutS": {
-        "displayName": "Stone_Peanut",
-        "sellPrice": "5e3",
+        "displayName": "Stone Peanut",
+        "sellPrice": "5000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -8414,7 +8414,7 @@
         "consumable": "cz"
     },
     "Quest3": {
-        "displayName": "Ketchup_Bottle",
+        "displayName": "Ketchup Bottle",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8432,7 +8432,7 @@
         "consumable": "Iy"
     },
     "Quest4": {
-        "displayName": "Mustard_Bottle",
+        "displayName": "Mustard Bottle",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8450,7 +8450,7 @@
         "consumable": "ix"
     },
     "Quest5": {
-        "displayName": "Golden_Jam",
+        "displayName": "Golden Jam",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8468,7 +8468,7 @@
         "consumable": "zz"
     },
     "Quest6": {
-        "displayName": "Scouting_Report",
+        "displayName": "Scouting Report",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8486,7 +8486,7 @@
         "consumable": "Jy"
     },
     "Quest7": {
-        "displayName": "Strange_Rock",
+        "displayName": "Strange Rock",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8504,7 +8504,7 @@
         "consumable": "dz"
     },
     "Quest8": {
-        "displayName": "Filler_bc_I_messed_up",
+        "displayName": "Filler bc I messed up",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8522,8 +8522,8 @@
         "consumable": "Ky"
     },
     "Quest10": {
-        "displayName": "Green_Tea",
-        "sellPrice": "1e3",
+        "displayName": "Green Tea",
+        "sellPrice": "1000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -8540,7 +8540,7 @@
         "consumable": "Az"
     },
     "Quest11": {
-        "displayName": "Forest_Villas|Flyer_Thingy",
+        "displayName": "Forest Villas Flyer Thingy",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8558,7 +8558,7 @@
         "consumable": "Bz"
     },
     "Quest12": {
-        "displayName": "Dog_Bone",
+        "displayName": "Dog Bone",
         "sellPrice": "7",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8575,7 +8575,7 @@
         "consumable": "Cz"
     },
     "Quest13": {
-        "displayName": "Empty_Box",
+        "displayName": "Empty Box",
         "sellPrice": "7",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8593,7 +8593,7 @@
         "consumable": "mw"
     },
     "Quest14": {
-        "displayName": "Employment|Statistics",
+        "displayName": "Employment Statistics",
         "sellPrice": "50",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8610,7 +8610,7 @@
         "consumable": "ez"
     },
     "Quest15": {
-        "displayName": "Red_Frisbee",
+        "displayName": "Red Frisbee",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8628,7 +8628,7 @@
         "consumable": "Jx"
     },
     "Quest16": {
-        "displayName": "Broken_Mic",
+        "displayName": "Broken Mic",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8646,7 +8646,7 @@
         "consumable": "Dz"
     },
     "Quest17": {
-        "displayName": "Amarok_Slab",
+        "displayName": "Amarok Slab",
         "sellPrice": "250",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8664,7 +8664,7 @@
         "consumable": "Ez"
     },
     "Quest18": {
-        "displayName": "Loomi's_Room_Key",
+        "displayName": "Loomi's Room Key",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8682,7 +8682,7 @@
         "consumable": "Fz"
     },
     "Quest19": {
-        "displayName": "Golden_Dubloon",
+        "displayName": "Golden Dubloon",
         "sellPrice": "3500",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8700,7 +8700,7 @@
         "consumable": "pA"
     },
     "Quest20": {
-        "displayName": "Signed_Arrest|Warrant",
+        "displayName": "Signed Arrest Warrant",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8718,7 +8718,7 @@
         "consumable": "qA"
     },
     "Quest21": {
-        "displayName": "Time_Thingy",
+        "displayName": "Time Thingy",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8736,7 +8736,7 @@
         "consumable": "Gz"
     },
     "Quest22": {
-        "displayName": "Corporatube_Sub",
+        "displayName": "Corporatube Sub",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8754,7 +8754,7 @@
         "consumable": "Hz"
     },
     "Quest23": {
-        "displayName": "Instablab|Follower",
+        "displayName": "Instablab Follower",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8771,7 +8771,7 @@
         "consumable": "Iz"
     },
     "Quest24": {
-        "displayName": "Cloudsound|Follower",
+        "displayName": "Cloudsound Follower",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8789,7 +8789,7 @@
         "consumable": "rA"
     },
     "Quest25": {
-        "displayName": "Birthday_Card",
+        "displayName": "Birthday Card",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8807,7 +8807,7 @@
         "consumable": "fz"
     },
     "Quest26": {
-        "displayName": "Pre_Crime_Box",
+        "displayName": "Pre Crime Box",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8825,7 +8825,7 @@
         "consumable": "My"
     },
     "Quest27": {
-        "displayName": "Bag_o_Nuts",
+        "displayName": "Bag o Nuts",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8843,7 +8843,7 @@
         "consumable": "jx"
     },
     "Quest28": {
-        "displayName": "IOU_One_Blue|Crystal",
+        "displayName": "IOU One Blue Crystal",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8861,7 +8861,7 @@
         "consumable": "Jz"
     },
     "Quest29": {
-        "displayName": "Chaotic_Amarok|Slab",
+        "displayName": "Chaotic Amarok Slab",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8879,7 +8879,7 @@
         "consumable": "Ny"
     },
     "GoldricP1": {
-        "displayName": "Casual_Confidante",
+        "displayName": "Casual Confidante",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8897,7 +8897,7 @@
         "consumable": "MB"
     },
     "GoldricP2": {
-        "displayName": "Triumphant_Treason",
+        "displayName": "Triumphant Treason",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8915,7 +8915,7 @@
         "consumable": "NB"
     },
     "GoldricP3": {
-        "displayName": "Claiming_Cashe",
+        "displayName": "Claiming Cashe",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8933,7 +8933,7 @@
         "consumable": "OB"
     },
     "Quest30": {
-        "displayName": "Giftmas_Box",
+        "displayName": "Giftmas Box",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8951,7 +8951,7 @@
         "consumable": "PB"
     },
     "Quest31": {
-        "displayName": "Gem_Note",
+        "displayName": "Gem Note",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -8969,8 +8969,8 @@
         "consumable": "QB"
     },
     "Cutter": {
-        "displayName": "Bolt_Cutters",
-        "sellPrice": "5e3",
+        "displayName": "Bolt Cutters",
+        "sellPrice": "5000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -8987,7 +8987,7 @@
         "consumable": "RB"
     },
     "Quest32": {
-        "displayName": "Monster_Rating",
+        "displayName": "Monster Rating",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9004,7 +9004,7 @@
         "consumable": "SB"
     },
     "Quest33": {
-        "displayName": "Player_Rating|With_Letter_P",
+        "displayName": "Player Rating With Letter P",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9022,7 +9022,7 @@
         "consumable": "TB"
     },
     "Quest34": {
-        "displayName": "Player_Rating|With_Letter_S",
+        "displayName": "Player Rating With Letter S",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9039,7 +9039,7 @@
         "consumable": "UB"
     },
     "Quest35": {
-        "displayName": "Googley_Eyes",
+        "displayName": "Googley Eyes",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9056,7 +9056,7 @@
         "consumable": "VB"
     },
     "Quest36": {
-        "displayName": "Dootjat_Eye",
+        "displayName": "Dootjat Eye",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9074,8 +9074,8 @@
         "consumable": "WB"
     },
     "Quest37": {
-        "displayName": "Silver_Antique",
-        "sellPrice": "2e4",
+        "displayName": "Silver Antique",
+        "sellPrice": "20000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "HUNK_OF_JUNK",
@@ -9091,7 +9091,7 @@
         "consumable": "XB"
     },
     "Quest38": {
-        "displayName": "Guild_Giftbox",
+        "displayName": "Guild Giftbox",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9109,7 +9109,7 @@
         "consumable": "YB"
     },
     "Quest39": {
-        "displayName": "Lovey_Dovey|Letter",
+        "displayName": "Lovey Dovey Letter",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9127,7 +9127,7 @@
         "consumable": "ZB"
     },
     "Quest40": {
-        "displayName": "Choco_Box",
+        "displayName": "Choco Box",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9162,14 +9162,14 @@
         "consumable": "aC"
     },
     "Quest42": {
-        "displayName": "Egg_Capsule",
+        "displayName": "Egg Capsule",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
         "lvReqToCraft": "15",
         "common": "XM",
-        "desc_line1": "Hold_down_to_open_for_a_random_reward!_Or,_hold_down_for_a_LONG_time_to_open_them_faster..._yea,_dreams_do_come_true_#",
+        "desc_line1": "Hold_down_to_open_for_a_random_reward!_Or,_hold_down_for_a_LONG_time_to_open_them_faster..._yea,_dreams_do_come_true",
         "desc_line2": "Filler",
         "desc_line3": "Filler",
         "desc_line4": "Filler",
@@ -9180,7 +9180,7 @@
         "consumable": "bC"
     },
     "Quest43": {
-        "displayName": "Gummy_Bunny",
+        "displayName": "Gummy Bunny",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9198,7 +9198,7 @@
         "consumable": "cC"
     },
     "Quest44": {
-        "displayName": "Goldegg_Capsule",
+        "displayName": "Goldegg Capsule",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9216,7 +9216,7 @@
         "consumable": "dC"
     },
     "Quest9": {
-        "displayName": "Picnic_Token",
+        "displayName": "Picnic Token",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9234,8 +9234,8 @@
         "consumable": "eC"
     },
     "BadgeG1": {
-        "displayName": "Blunderhills_NPC|Completion_Token",
-        "sellPrice": "3e4",
+        "displayName": "Blunderhills NPC Completion Token",
+        "sellPrice": "30000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9252,8 +9252,8 @@
         "consumable": "fC"
     },
     "BadgeG2": {
-        "displayName": "Blunder_Skills|Completion_Token",
-        "sellPrice": "25e3",
+        "displayName": "Blunder Skills Completion Token",
+        "sellPrice": "25000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9270,7 +9270,7 @@
         "consumable": "gC"
     },
     "BadgeG3": {
-        "displayName": "Blunderhills_Misc|Completion_Token",
+        "displayName": "Blunderhills Misc Completion Token",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9288,7 +9288,7 @@
         "consumable": "hC"
     },
     "NPCtoken1": {
-        "displayName": "Easy_Blunderhills|NPC_Token",
+        "displayName": "Easy Blunderhills NPC Token",
         "sellPrice": "2800",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9306,8 +9306,8 @@
         "consumable": "iC"
     },
     "NPCtoken2": {
-        "displayName": "Med_Blunderhills|NPC_Token",
-        "sellPrice": "6e3",
+        "displayName": "Med Blunderhills NPC Token",
+        "sellPrice": "6000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9324,8 +9324,8 @@
         "consumable": "jC"
     },
     "NPCtoken3": {
-        "displayName": "Hard_Blunderhills|NPC_Token",
-        "sellPrice": "16e3",
+        "displayName": "Hard Blunderhills NPC Token",
+        "sellPrice": "16000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9342,7 +9342,7 @@
         "consumable": "kC"
     },
     "NPCtoken4": {
-        "displayName": "Stiltzcho_Token",
+        "displayName": "Stiltzcho Token",
         "sellPrice": "700",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9360,7 +9360,7 @@
         "consumable": "lC"
     },
     "NPCtoken5": {
-        "displayName": "Woodsman_Token",
+        "displayName": "Woodsman Token",
         "sellPrice": "700",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9378,7 +9378,7 @@
         "consumable": "mC"
     },
     "NPCtoken6": {
-        "displayName": "Glumlee_Token",
+        "displayName": "Glumlee Token",
         "sellPrice": "700",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9396,7 +9396,7 @@
         "consumable": "nC"
     },
     "NPCtoken7": {
-        "displayName": "Papua_Piggea|Token",
+        "displayName": "Papua Piggea Token",
         "sellPrice": "700",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9415,7 +9415,7 @@
     },
     "NPCtoken8": {
         "displayName": "FILLER",
-        "sellPrice": "1e3",
+        "sellPrice": "1000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9432,7 +9432,7 @@
         "consumable": "pC"
     },
     "NPCtoken9": {
-        "displayName": "Funguy_Token",
+        "displayName": "Funguy Token",
         "sellPrice": "1500",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9450,7 +9450,7 @@
         "consumable": "qC"
     },
     "NPCtoken10": {
-        "displayName": "Krunk_Token",
+        "displayName": "Krunk Token",
         "sellPrice": "1500",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9468,7 +9468,7 @@
         "consumable": "rC"
     },
     "NPCtoken11": {
-        "displayName": "Tiki_Chief_Token",
+        "displayName": "Tiki Chief Token",
         "sellPrice": "1500",
         "typeGen": "dQuest",
         "ID": "0",
@@ -9486,8 +9486,8 @@
         "consumable": "sC"
     },
     "NPCtoken12": {
-        "displayName": "Sproutinald_Token",
-        "sellPrice": "4e3",
+        "displayName": "Sproutinald Token",
+        "sellPrice": "4000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9504,8 +9504,8 @@
         "consumable": "tC"
     },
     "NPCtoken13": {
-        "displayName": "Dog_Bone_Token",
-        "sellPrice": "4e3",
+        "displayName": "Dog Bone Token",
+        "sellPrice": "4000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9522,8 +9522,8 @@
         "consumable": "uC"
     },
     "NPCtoken14": {
-        "displayName": "Dazey_Token",
-        "sellPrice": "4e3",
+        "displayName": "Dazey Token",
+        "sellPrice": "4000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9540,8 +9540,8 @@
         "consumable": "vC"
     },
     "NPCtoken15": {
-        "displayName": "TP_Pete_Token",
-        "sellPrice": "4e3",
+        "displayName": "TP Pete Token",
+        "sellPrice": "4000",
         "typeGen": "dQuest",
         "ID": "0",
         "Type": "QUEST_ITEM",
@@ -9558,7 +9558,7 @@
         "consumable": "wC"
     },
     "EquipmentSmithingTabs2": {
-        "displayName": "Anvil_Tab_2",
+        "displayName": "Anvil Tab 2",
         "sellPrice": "100",
         "typeGen": "dQuest",
         "ID": "2",
@@ -9576,7 +9576,7 @@
         "consumable": "xC"
     },
     "EquipmentSmithingTabs3": {
-        "displayName": "Anvil_Tab_3",
+        "displayName": "Anvil Tab 3",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "3",
@@ -9594,7 +9594,7 @@
         "consumable": "yC"
     },
     "EquipmentSmithingTabs4": {
-        "displayName": "Anvil_Tab_4",
+        "displayName": "Anvil Tab 4",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "4",
@@ -9612,7 +9612,7 @@
         "consumable": "zC"
     },
     "EquipmentSmithingTabs5": {
-        "displayName": "Anvil_Tab_5",
+        "displayName": "Anvil Tab 5",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "5",
@@ -9630,7 +9630,7 @@
         "consumable": "AC"
     },
     "EquipmentSmithingTabs6": {
-        "displayName": "Anvil_Tab_6",
+        "displayName": "Anvil Tab 6",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "6",
@@ -9648,7 +9648,7 @@
         "consumable": "BC"
     },
     "EquipmentSmithingTabs7": {
-        "displayName": "Anvil_Tab_7",
+        "displayName": "Anvil Tab 7",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "7",
@@ -9666,7 +9666,7 @@
         "consumable": "CC"
     },
     "EquipmentSmithingTabs8": {
-        "displayName": "Anvil_Tab_8",
+        "displayName": "Anvil Tab 8",
         "sellPrice": "1",
         "typeGen": "dQuest",
         "ID": "8",
@@ -9684,7 +9684,7 @@
         "consumable": "DC"
     },
     "EquipmentStatues1": {
-        "displayName": "Power_Statue",
+        "displayName": "Power Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "0",
@@ -9702,7 +9702,7 @@
         "consumable": "EC"
     },
     "EquipmentStatues2": {
-        "displayName": "Speed_Statue",
+        "displayName": "Speed Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "1",
@@ -9720,7 +9720,7 @@
         "consumable": "FC"
     },
     "EquipmentStatues3": {
-        "displayName": "Mining_Statue",
+        "displayName": "Mining Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "2",
@@ -9738,7 +9738,7 @@
         "consumable": "GC"
     },
     "EquipmentStatues4": {
-        "displayName": "Feasty_Statue",
+        "displayName": "Feasty Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "3",
@@ -9756,7 +9756,7 @@
         "consumable": "HC"
     },
     "EquipmentStatues5": {
-        "displayName": "Health_Statue",
+        "displayName": "Health Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "4",
@@ -9774,7 +9774,7 @@
         "consumable": "IC"
     },
     "EquipmentStatues6": {
-        "displayName": "Kachow_Statue",
+        "displayName": "Kachow Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "5",
@@ -9792,7 +9792,7 @@
         "consumable": "JC"
     },
     "EquipmentStatues7": {
-        "displayName": "Lumberbob_Statue",
+        "displayName": "Lumberbob Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "6",
@@ -9810,7 +9810,7 @@
         "consumable": "KC"
     },
     "EquipmentStatues8": {
-        "displayName": "Thicc_Skin_Statue",
+        "displayName": "Thicc Skin Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "7",
@@ -9828,7 +9828,7 @@
         "consumable": "LC"
     },
     "EquipmentStatues9": {
-        "displayName": "Oceanman_Statue",
+        "displayName": "Oceanman Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "8",
@@ -9846,7 +9846,7 @@
         "consumable": "MC"
     },
     "EquipmentStatues10": {
-        "displayName": "Ol_Reliable|Statue",
+        "displayName": "Ol Reliable Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "9",
@@ -9864,7 +9864,7 @@
         "consumable": "NC"
     },
     "EquipmentStatues11": {
-        "displayName": "Exp_Book_Statue",
+        "displayName": "Exp Book Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "10",
@@ -9882,7 +9882,7 @@
         "consumable": "OC"
     },
     "EquipmentStatues12": {
-        "displayName": "Anvil_Statue",
+        "displayName": "Anvil Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "11",
@@ -9900,7 +9900,7 @@
         "consumable": "PC"
     },
     "EquipmentStatues13": {
-        "displayName": "Cauldron_Statue",
+        "displayName": "Cauldron Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "12",
@@ -9917,7 +9917,7 @@
         "consumable": "QC"
     },
     "EquipmentStatues14": {
-        "displayName": "Beholder_Statue",
+        "displayName": "Beholder Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "13",
@@ -9935,7 +9935,7 @@
         "consumable": "RC"
     },
     "EquipmentStatues15": {
-        "displayName": "Bullseye_Statue",
+        "displayName": "Bullseye Statue",
         "sellPrice": "10",
         "typeGen": "dStatueStone",
         "ID": "14",
@@ -9953,7 +9953,7 @@
         "consumable": "SC"
     },
     "SmithingRecipes1": {
-        "displayName": "Beginner_Recipe",
+        "displayName": "Beginner Recipe",
         "sellPrice": "1",
         "typeGen": "aRecipe",
         "ID": "0",
@@ -9978,7 +9978,7 @@
         "equip": "Ps"
     },
     "SmithingRecipes2": {
-        "displayName": "Novice_Recipe",
+        "displayName": "Novice Recipe",
         "sellPrice": "1",
         "typeGen": "aRecipe",
         "ID": "0",
@@ -10003,7 +10003,7 @@
         "equip": "Qs"
     },
     "SmithingRecipes3": {
-        "displayName": "Apprentice_Recipe",
+        "displayName": "Apprentice Recipe",
         "sellPrice": "1",
         "typeGen": "aRecipe",
         "ID": "0",
@@ -10028,7 +10028,7 @@
         "equip": "Rs"
     },
     "SmithingRecipes4": {
-        "displayName": "Journeyman_Recipe",
+        "displayName": "Journeyman Recipe",
         "sellPrice": "1",
         "typeGen": "aRecipe",
         "ID": "0",
@@ -10053,7 +10053,7 @@
         "equip": "Ss"
     },
     "TalentBook1": {
-        "displayName": "Special_Talent|Book",
+        "displayName": "Special Talent Book",
         "sellPrice": "100",
         "typeGen": "aTalentBook",
         "ID": "0",
@@ -10078,7 +10078,7 @@
         "equip": "Ts"
     },
     "TalentBook2": {
-        "displayName": "Beginner_Talent|Book",
+        "displayName": "Beginner Talent Book",
         "sellPrice": "100",
         "typeGen": "aTalentBook",
         "ID": "0",
@@ -10103,7 +10103,7 @@
         "equip": "Us"
     },
     "TalentBook3": {
-        "displayName": "Warrior_Talent|Book",
+        "displayName": "Warrior Talent Book",
         "sellPrice": "100",
         "typeGen": "aTalentBook",
         "ID": "0",
@@ -10128,7 +10128,7 @@
         "equip": "Vs"
     },
     "TalentBook4": {
-        "displayName": "Archer_Talent|Book",
+        "displayName": "Archer Talent Book",
         "sellPrice": "100",
         "typeGen": "aTalentBook",
         "ID": "0",
@@ -10153,7 +10153,7 @@
         "equip": "Ws"
     },
     "TalentBook5": {
-        "displayName": "Wizard_Talent|Book",
+        "displayName": "Wizard Talent Book",
         "sellPrice": "100",
         "typeGen": "aTalentBook",
         "ID": "0",
@@ -10178,7 +10178,7 @@
         "equip": "Xs"
     },
     "MaxCapBagT2": {
-        "displayName": "Miniature_Mining|Pouch",
+        "displayName": "Miniature Mining Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "3",
@@ -10203,7 +10203,7 @@
         "equip": "Ys"
     },
     "MaxCapBag1": {
-        "displayName": "Cramped_Mining|Pouch",
+        "displayName": "Cramped Mining Pouch",
         "sellPrice": "900",
         "typeGen": "aCarryBag",
         "ID": "10",
@@ -10228,8 +10228,8 @@
         "equip": "Zs"
     },
     "MaxCapBag2": {
-        "displayName": "Small_Mining|Pouch",
-        "sellPrice": "13e3",
+        "displayName": "Small Mining Pouch",
+        "sellPrice": "13000",
         "typeGen": "aCarryBag",
         "ID": "20",
         "Type": "CARRY_BAG",
@@ -10253,7 +10253,7 @@
         "equip": "$s"
     },
     "MaxCapBag3": {
-        "displayName": "Average_Mining|Pouch",
+        "displayName": "Average Mining Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "30",
@@ -10278,7 +10278,7 @@
         "equip": "at"
     },
     "MaxCapBag4": {
-        "displayName": "Sizable_Mining|Pouch",
+        "displayName": "Sizable Mining Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "40",
@@ -10303,14 +10303,14 @@
         "equip": "bt"
     },
     "MaxCapBag5": {
-        "displayName": "Big_Mining|Pouch",
+        "displayName": "Big Mining Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "50",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "bO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "Mining",
         "Speed": "240",
         "Reach": "10",
@@ -10328,7 +10328,7 @@
         "equip": "ct"
     },
     "MaxCapBagT1": {
-        "displayName": "Miniature_Choppin|Pouch",
+        "displayName": "Miniature Choppin Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "4",
@@ -10353,7 +10353,7 @@
         "equip": "dt"
     },
     "MaxCapBag7": {
-        "displayName": "Cramped|Choppin_Pouch",
+        "displayName": "Cramped Choppin Pouch",
         "sellPrice": "1400",
         "typeGen": "aCarryBag",
         "ID": "11",
@@ -10378,7 +10378,7 @@
         "equip": "et"
     },
     "MaxCapBag9": {
-        "displayName": "Small_Choppin|Pouch",
+        "displayName": "Small Choppin Pouch",
         "sellPrice": "10500",
         "typeGen": "aCarryBag",
         "ID": "21",
@@ -10403,7 +10403,7 @@
         "equip": "ft"
     },
     "MaxCapBagT3": {
-        "displayName": "Average_Choppin|Pouch",
+        "displayName": "Average Choppin Pouch",
         "sellPrice": "10500",
         "typeGen": "aCarryBag",
         "ID": "31",
@@ -10428,7 +10428,7 @@
         "equip": "gt"
     },
     "MaxCapBagT4": {
-        "displayName": "Sizable_Choppin|Pouch",
+        "displayName": "Sizable Choppin Pouch",
         "sellPrice": "10500",
         "typeGen": "aCarryBag",
         "ID": "41",
@@ -10453,14 +10453,14 @@
         "equip": "ht"
     },
     "MaxCapBagT5": {
-        "displayName": "Big_Choppin|Pouch",
+        "displayName": "Big Choppin Pouch",
         "sellPrice": "10500",
         "typeGen": "aCarryBag",
         "ID": "51",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "hO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "Chopping",
         "Speed": "240",
         "Reach": "10",
@@ -10478,7 +10478,7 @@
         "equip": "it"
     },
     "MaxCapBag6": {
-        "displayName": "Miniscule_Food|Pouch",
+        "displayName": "Miniscule Food Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "5",
@@ -10503,7 +10503,7 @@
         "equip": "jt"
     },
     "MaxCapBag8": {
-        "displayName": "Cramped_Food|Pouch",
+        "displayName": "Cramped Food Pouch",
         "sellPrice": "5800",
         "typeGen": "aCarryBag",
         "ID": "12",
@@ -10528,7 +10528,7 @@
         "equip": "kt"
     },
     "MaxCapBag10": {
-        "displayName": "Small_Food|Pouch",
+        "displayName": "Small Food Pouch",
         "sellPrice": "5800",
         "typeGen": "aCarryBag",
         "ID": "22",
@@ -10553,7 +10553,7 @@
         "equip": "lt"
     },
     "MaxCapBagF3": {
-        "displayName": "Average_Food|Pouch",
+        "displayName": "Average Food Pouch",
         "sellPrice": "5800",
         "typeGen": "aCarryBag",
         "ID": "32",
@@ -10578,7 +10578,7 @@
         "equip": "mt"
     },
     "MaxCapBagF4": {
-        "displayName": "Sizable_Food|Pouch",
+        "displayName": "Sizable Food Pouch",
         "sellPrice": "5800",
         "typeGen": "aCarryBag",
         "ID": "42",
@@ -10603,14 +10603,14 @@
         "equip": "nt"
     },
     "MaxCapBagF5": {
-        "displayName": "Big_Food|Pouch",
+        "displayName": "Big Food Pouch",
         "sellPrice": "5800",
         "typeGen": "aCarryBag",
         "ID": "52",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "nO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "Foods",
         "Speed": "240",
         "Reach": "10",
@@ -10628,7 +10628,7 @@
         "equip": "ot"
     },
     "MaxCapBagM1": {
-        "displayName": "Mini_Materials|Pouch",
+        "displayName": "Mini Materials Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "5",
@@ -10653,7 +10653,7 @@
         "equip": "pt"
     },
     "MaxCapBagM2": {
-        "displayName": "Cramped_Material|Pouch",
+        "displayName": "Cramped Material Pouch",
         "sellPrice": "4200",
         "typeGen": "aCarryBag",
         "ID": "10",
@@ -10678,7 +10678,7 @@
         "equip": "qt"
     },
     "MaxCapBagM3": {
-        "displayName": "Small_Material|Pouch",
+        "displayName": "Small Material Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "20",
@@ -10703,7 +10703,7 @@
         "equip": "rt"
     },
     "MaxCapBagM4": {
-        "displayName": "Average_Material|Pouch",
+        "displayName": "Average Material Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "30",
@@ -10728,7 +10728,7 @@
         "equip": "st"
     },
     "MaxCapBagM5": {
-        "displayName": "Sizable_Materials|Pouch",
+        "displayName": "Sizable Materials Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "40",
@@ -10753,14 +10753,14 @@
         "equip": "tt"
     },
     "MaxCapBagM6": {
-        "displayName": "Big_Materials|Pouch",
+        "displayName": "Big Materials Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "50",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "tO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "bCraft",
         "Speed": "240",
         "Reach": "10",
@@ -10778,7 +10778,7 @@
         "equip": "ut"
     },
     "MaxCapBagFi0": {
-        "displayName": "Miniature_Fish|Pouch",
+        "displayName": "Miniature Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "6",
@@ -10803,7 +10803,7 @@
         "equip": "vt"
     },
     "MaxCapBagFi1": {
-        "displayName": "Cramped_Fish|Pouch",
+        "displayName": "Cramped Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "13",
@@ -10828,7 +10828,7 @@
         "equip": "wt"
     },
     "MaxCapBagFi2": {
-        "displayName": "Small_Fish|Pouch",
+        "displayName": "Small Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "23",
@@ -10853,7 +10853,7 @@
         "equip": "xt"
     },
     "MaxCapBagFi3": {
-        "displayName": "Average_Fish|Pouch",
+        "displayName": "Average Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "33",
@@ -10878,7 +10878,7 @@
         "equip": "yt"
     },
     "MaxCapBagFi4": {
-        "displayName": "Sizable_Fish|Pouch",
+        "displayName": "Sizable Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "43",
@@ -10903,14 +10903,14 @@
         "equip": "zt"
     },
     "MaxCapBagFi5": {
-        "displayName": "Big_Fish|Pouch",
+        "displayName": "Big Fish Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "53",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "zO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "Fishing",
         "Speed": "240",
         "Reach": "10",
@@ -10928,7 +10928,7 @@
         "equip": "At"
     },
     "MaxCapBagB0": {
-        "displayName": "Miniature_Bug|Pouch",
+        "displayName": "Miniature Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "7",
@@ -10953,7 +10953,7 @@
         "equip": "Bt"
     },
     "MaxCapBagB1": {
-        "displayName": "Cramped_Bug|Pouch",
+        "displayName": "Cramped Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "14",
@@ -10978,7 +10978,7 @@
         "equip": "Ct"
     },
     "MaxCapBagB2": {
-        "displayName": "Small_Bug|Pouch",
+        "displayName": "Small Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "24",
@@ -11003,7 +11003,7 @@
         "equip": "Dt"
     },
     "MaxCapBagB3": {
-        "displayName": "Average_Bug|Pouch",
+        "displayName": "Average Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "34",
@@ -11028,7 +11028,7 @@
         "equip": "Et"
     },
     "MaxCapBagB4": {
-        "displayName": "Sizable_Bug|Pouch",
+        "displayName": "Sizable Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "44",
@@ -11053,14 +11053,14 @@
         "equip": "Ft"
     },
     "MaxCapBagB5": {
-        "displayName": "Big_Bug|Pouch",
+        "displayName": "Big Bug Pouch",
         "sellPrice": "200",
         "typeGen": "aCarryBag",
         "ID": "54",
         "Type": "CARRY_BAG",
         "lvReqToCraft": "1",
         "common": "FO",
-        "lvReqToEquip": "1e3",
+        "lvReqToEquip": "1000",
         "Class": "Bugs",
         "Speed": "240",
         "Reach": "10",
@@ -11078,7 +11078,7 @@
         "equip": "Gt"
     },
     "ObolBronze0": {
-        "displayName": "Bronze_STR_Obol",
+        "displayName": "Bronze STR Obol",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11103,7 +11103,7 @@
         "equip": "Ht"
     },
     "ObolBronze1": {
-        "displayName": "Bronze_AGI_Obol",
+        "displayName": "Bronze AGI Obol",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11128,7 +11128,7 @@
         "equip": "It"
     },
     "ObolBronze2": {
-        "displayName": "Bronze_WIS_Obol",
+        "displayName": "Bronze WIS Obol",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11153,7 +11153,7 @@
         "equip": "Jt"
     },
     "ObolBronze3": {
-        "displayName": "Bronze_LUK_Obol",
+        "displayName": "Bronze LUK Obol",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11178,7 +11178,7 @@
         "equip": "Kt"
     },
     "ObolSilver0": {
-        "displayName": "Silver_STR_Obol",
+        "displayName": "Silver STR Obol",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11203,7 +11203,7 @@
         "equip": "Lt"
     },
     "ObolSilver1": {
-        "displayName": "Silver_AGI_Obol",
+        "displayName": "Silver AGI Obol",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11228,7 +11228,7 @@
         "equip": "Mt"
     },
     "ObolSilver2": {
-        "displayName": "Silver_WIS_Obol",
+        "displayName": "Silver WIS Obol",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11253,7 +11253,7 @@
         "equip": "Nt"
     },
     "ObolSilver3": {
-        "displayName": "Silver_LUK_Obol",
+        "displayName": "Silver LUK Obol",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11278,7 +11278,7 @@
         "equip": "Ot"
     },
     "ObolGold0": {
-        "displayName": "Gold_STR_Obol",
+        "displayName": "Gold STR Obol",
         "sellPrice": "8",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11303,7 +11303,7 @@
         "equip": "Pt"
     },
     "ObolGold1": {
-        "displayName": "Gold_AGI_Obol",
+        "displayName": "Gold AGI Obol",
         "sellPrice": "8",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11328,7 +11328,7 @@
         "equip": "Qt"
     },
     "ObolGold2": {
-        "displayName": "Gold_WIS_Obol",
+        "displayName": "Gold WIS Obol",
         "sellPrice": "8",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11353,7 +11353,7 @@
         "equip": "Rt"
     },
     "ObolGold3": {
-        "displayName": "Gold_LUK_Obol",
+        "displayName": "Gold LUK Obol",
         "sellPrice": "8",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11378,7 +11378,7 @@
         "equip": "St"
     },
     "ObolBronzeDamage": {
-        "displayName": "Bronze_Obol_of|Puny_Damage",
+        "displayName": "Bronze Obol of Puny Damage",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11403,7 +11403,7 @@
         "equip": "Tt"
     },
     "ObolSilverDamage": {
-        "displayName": "Silver_Obol_of|Little_Damage",
+        "displayName": "Silver Obol of Little Damage",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11428,7 +11428,7 @@
         "equip": "Ut"
     },
     "ObolGoldDamage": {
-        "displayName": "Golden_Obol_of|Big_Boy_Damage",
+        "displayName": "Golden Obol of Big Boy Damage",
         "sellPrice": "8",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11453,7 +11453,7 @@
         "equip": "Vt"
     },
     "ObolPlatinumDamage": {
-        "displayName": "Platinum_Obol_of|Lethal_Damage",
+        "displayName": "Platinum Obol of Lethal Damage",
         "sellPrice": "20",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11478,7 +11478,7 @@
         "equip": "Wt"
     },
     "ObolPinkDamage": {
-        "displayName": "Dementia_Obol_of|Infinite_Damage",
+        "displayName": "Dementia Obol of Infinite Damage",
         "sellPrice": "50",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11503,7 +11503,7 @@
         "equip": "Xt"
     },
     "ObolPlatinumSpeed": {
-        "displayName": "Platinum_Obol_of|Blinding_Speed",
+        "displayName": "Platinum Obol of Blinding Speed",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -11528,7 +11528,7 @@
         "equip": "Yt"
     },
     "ObolSilverMoney": {
-        "displayName": "Silver_Obol_of|Pocket_Change",
+        "displayName": "Silver Obol of Pocket Change",
         "sellPrice": "3",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -11553,7 +11553,7 @@
         "equip": "Zt"
     },
     "ObolGoldMoney": {
-        "displayName": "Golden_Obol_of|Plentiful_Riches",
+        "displayName": "Golden Obol of Plentiful Riches",
         "sellPrice": "8",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -11578,7 +11578,7 @@
         "equip": "$t"
     },
     "ObolBronzeMining": {
-        "displayName": "Bronze_Obol_of|Small_Swings",
+        "displayName": "Bronze Obol of Small Swings",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11603,7 +11603,7 @@
         "equip": "au"
     },
     "ObolSilverMining": {
-        "displayName": "Silver_Obol_of|Moderate_Mining",
+        "displayName": "Silver Obol of Moderate Mining",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "1",
@@ -11628,7 +11628,7 @@
         "equip": "bu"
     },
     "ObolGoldMining": {
-        "displayName": "Golden_Obol_of|Diligent_Digging",
+        "displayName": "Golden Obol of Diligent Digging",
         "sellPrice": "8",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -11653,7 +11653,7 @@
         "equip": "cu"
     },
     "ObolPlatinumMining": {
-        "displayName": "Platinum_Obol_of|Dwarven_Delving",
+        "displayName": "Platinum Obol of Dwarven Delving",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -11678,7 +11678,7 @@
         "equip": "du"
     },
     "ObolPinkMining": {
-        "displayName": "Dementia_Obol_of|Magisterial_Metals",
+        "displayName": "Dementia Obol of Magisterial Metals",
         "sellPrice": "50",
         "typeGen": "aObolSparkle",
         "ID": "4",
@@ -11703,7 +11703,7 @@
         "equip": "eu"
     },
     "ObolBronzeChoppin": {
-        "displayName": "Bronze_Obol_of|Chippin_Chops",
+        "displayName": "Bronze Obol of Chippin Chops",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11728,7 +11728,7 @@
         "equip": "fu"
     },
     "ObolSilverChoppin": {
-        "displayName": "Silver_Obol_of|Big_Bark",
+        "displayName": "Silver Obol of Big Bark",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "1",
@@ -11753,7 +11753,7 @@
         "equip": "gu"
     },
     "ObolGoldChoppin": {
-        "displayName": "Golden_Obol_of|Huge_Hackin",
+        "displayName": "Golden Obol of Huge Hackin",
         "sellPrice": "8",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -11778,7 +11778,7 @@
         "equip": "hu"
     },
     "ObolPlatinumChoppin": {
-        "displayName": "Platinum_Obol_of|Lumby_Loggo",
+        "displayName": "Platinum Obol of Lumby Loggo",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -11803,7 +11803,7 @@
         "equip": "iu"
     },
     "ObolPinkChoppin": {
-        "displayName": "Dementia_Obol_of|WOWOWOWWO",
+        "displayName": "Dementia Obol of WOWOWOWWO",
         "sellPrice": "50",
         "typeGen": "aObolSparkle",
         "ID": "4",
@@ -11828,7 +11828,7 @@
         "equip": "ju"
     },
     "ObolBronzeFishing": {
-        "displayName": "Bronze_Obol_of|Finite_Fish",
+        "displayName": "Bronze Obol of Finite Fish",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11853,7 +11853,7 @@
         "equip": "ku"
     },
     "ObolSilverFishing": {
-        "displayName": "Silver_Obol_of|Puny_Pikes",
+        "displayName": "Silver Obol of Puny Pikes",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "1",
@@ -11878,7 +11878,7 @@
         "equip": "lu"
     },
     "ObolGoldFishing": {
-        "displayName": "Golden_Obol_of|Crazy_Carp",
+        "displayName": "Golden Obol of Crazy Carp",
         "sellPrice": "8",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -11903,7 +11903,7 @@
         "equip": "mu"
     },
     "ObolPlatinumFishing": {
-        "displayName": "Platinum_Obol_of|Tremendous_Trout",
+        "displayName": "Platinum Obol of Tremendous Trout",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -11928,7 +11928,7 @@
         "equip": "nu"
     },
     "ObolPinkFishing": {
-        "displayName": "Dementia_Obol_of|Monument_Marlins",
+        "displayName": "Dementia Obol of Monument Marlins",
         "sellPrice": "50",
         "typeGen": "aObolSparkle",
         "ID": "4",
@@ -11953,7 +11953,7 @@
         "equip": "ou"
     },
     "ObolBronzeCatching": {
-        "displayName": "Bronze_Obol_of|Few_Flies",
+        "displayName": "Bronze Obol of Few Flies",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -11978,7 +11978,7 @@
         "equip": "pu"
     },
     "ObolSilverCatching": {
-        "displayName": "Silver_Obol_of|Big_Bugs",
+        "displayName": "Silver Obol of Big Bugs",
         "sellPrice": "3",
         "typeGen": "aObolCircle",
         "ID": "1",
@@ -12003,7 +12003,7 @@
         "equip": "qu"
     },
     "ObolGoldCatching": {
-        "displayName": "Golden_Obol_of|Insane_Insects",
+        "displayName": "Golden Obol of Insane Insects",
         "sellPrice": "8",
         "typeGen": "aObolSquare",
         "ID": "2",
@@ -12028,7 +12028,7 @@
         "equip": "ru"
     },
     "ObolPlatinumCatching": {
-        "displayName": "Platinum_Obol_of|Idk_Yet",
+        "displayName": "Platinum Obol of Idk Yet",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -12053,7 +12053,7 @@
         "equip": "su"
     },
     "ObolPinkCatching": {
-        "displayName": "Dementia_Obol_of|Idk_Yet",
+        "displayName": "Dementia Obol of Idk Yet",
         "sellPrice": "50",
         "typeGen": "aObolSparkle",
         "ID": "4",
@@ -12078,7 +12078,7 @@
         "equip": "tu"
     },
     "ObolSilverLuck": {
-        "displayName": "Silver_Obol_of|Double_Sixes",
+        "displayName": "Silver Obol of Double Sixes",
         "sellPrice": "3",
         "typeGen": "aObolSquare",
         "ID": "4",
@@ -12103,7 +12103,7 @@
         "equip": "uu"
     },
     "ObolPinkLuck": {
-        "displayName": "Dementia_Obol_of|Never_Ending_Luck",
+        "displayName": "Dementia Obol of Never Ending Luck",
         "sellPrice": "50",
         "typeGen": "aObolSparkle",
         "ID": "4",
@@ -12128,7 +12128,7 @@
         "equip": "vu"
     },
     "ObolBronzePop": {
-        "displayName": "Bronze_Obol_of|Pop",
+        "displayName": "Bronze Obol of Pop",
         "sellPrice": "1",
         "typeGen": "aObolCircle",
         "ID": "0",
@@ -12153,7 +12153,7 @@
         "equip": "wu"
     },
     "ObolEfauntA": {
-        "displayName": "Skeletal_Obol_of|Efaunt's_Gaze",
+        "displayName": "Skeletal Obol of Efaunt's Gaze",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -12178,7 +12178,7 @@
         "equip": "xu"
     },
     "ObolAmarokA": {
-        "displayName": "Granite_Obol_of|Amarok's_Stare",
+        "displayName": "Granite Obol of Amarok's Stare",
         "sellPrice": "20",
         "typeGen": "aObolHexagon",
         "ID": "3",
@@ -12203,7 +12203,7 @@
         "equip": "yu"
     },
     "ExpSmith1": {
-        "displayName": "Smithing_Exp",
+        "displayName": "Smithing Exp",
         "sellPrice": "1",
         "typeGen": "dExpOrb",
         "ID": "1",
@@ -12221,7 +12221,7 @@
         "consumable": "TC"
     },
     "StampA1": {
-        "displayName": "Sword_Stamp",
+        "displayName": "Sword Stamp",
         "sellPrice": "500",
         "typeGen": "aStamp",
         "ID": "0",
@@ -12239,7 +12239,7 @@
         "consumable": "UC"
     },
     "StampA2": {
-        "displayName": "Heart_Stamp",
+        "displayName": "Heart Stamp",
         "sellPrice": "500",
         "typeGen": "aStamp",
         "ID": "1",
@@ -12257,7 +12257,7 @@
         "consumable": "VC"
     },
     "StampA3": {
-        "displayName": "Mana_Stamp",
+        "displayName": "Mana Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "2",
@@ -12275,8 +12275,8 @@
         "consumable": "WC"
     },
     "StampA4": {
-        "displayName": "Tomahawk_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Tomahawk Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "3",
         "Type": "STAMP",
@@ -12293,7 +12293,7 @@
         "consumable": "XC"
     },
     "StampA5": {
-        "displayName": "Target_Stamp",
+        "displayName": "Target Stamp",
         "sellPrice": "250",
         "typeGen": "aStamp",
         "ID": "4",
@@ -12311,7 +12311,7 @@
         "consumable": "YC"
     },
     "StampA6": {
-        "displayName": "Shield_Stamp",
+        "displayName": "Shield Stamp",
         "sellPrice": "800",
         "typeGen": "aStamp",
         "ID": "5",
@@ -12329,8 +12329,8 @@
         "consumable": "ZC"
     },
     "StampA7": {
-        "displayName": "Longsword_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Longsword Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "6",
         "Type": "STAMP",
@@ -12347,7 +12347,7 @@
         "consumable": "$C"
     },
     "StampA8": {
-        "displayName": "Kapow_Stamp",
+        "displayName": "Kapow Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "7",
@@ -12365,7 +12365,7 @@
         "consumable": "aD"
     },
     "StampA9": {
-        "displayName": "Fist_Stamp",
+        "displayName": "Fist Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "8",
@@ -12383,7 +12383,7 @@
         "consumable": "bD"
     },
     "StampA10": {
-        "displayName": "Battleaxe_Stamp",
+        "displayName": "Battleaxe Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "9",
@@ -12401,7 +12401,7 @@
         "consumable": "cD"
     },
     "StampA11": {
-        "displayName": "Agile_Stamp",
+        "displayName": "Agile Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "10",
@@ -12419,8 +12419,8 @@
         "consumable": "dD"
     },
     "StampA12": {
-        "displayName": "Vitality_Stamp",
-        "sellPrice": "8e3",
+        "displayName": "Vitality Stamp",
+        "sellPrice": "8000",
         "typeGen": "aStamp",
         "ID": "11",
         "Type": "STAMP",
@@ -12437,8 +12437,8 @@
         "consumable": "eD"
     },
     "StampA13": {
-        "displayName": "Book_Stamp",
-        "sellPrice": "8e3",
+        "displayName": "Book Stamp",
+        "sellPrice": "8000",
         "typeGen": "aStamp",
         "ID": "12",
         "Type": "STAMP",
@@ -12455,8 +12455,8 @@
         "consumable": "fD"
     },
     "StampA14": {
-        "displayName": "Manamoar_Stamp",
-        "sellPrice": "8e3",
+        "displayName": "Manamoar Stamp",
+        "sellPrice": "8000",
         "typeGen": "aStamp",
         "ID": "13",
         "Type": "STAMP",
@@ -12473,8 +12473,8 @@
         "consumable": "gD"
     },
     "StampA15": {
-        "displayName": "Clover_Stamp",
-        "sellPrice": "12e3",
+        "displayName": "Clover Stamp",
+        "sellPrice": "12000",
         "typeGen": "aStamp",
         "ID": "14",
         "Type": "STAMP",
@@ -12491,8 +12491,8 @@
         "consumable": "hD"
     },
     "StampA16": {
-        "displayName": "Scimitar_Stamp",
-        "sellPrice": "4e3",
+        "displayName": "Scimitar Stamp",
+        "sellPrice": "4000",
         "typeGen": "aStamp",
         "ID": "15",
         "Type": "STAMP",
@@ -12509,7 +12509,7 @@
         "consumable": "iD"
     },
     "StampA17": {
-        "displayName": "Bullseye_Stamp",
+        "displayName": "Bullseye Stamp",
         "sellPrice": "12500",
         "typeGen": "aStamp",
         "ID": "16",
@@ -12527,8 +12527,8 @@
         "consumable": "jD"
     },
     "StampA18": {
-        "displayName": "Feather_Stamp",
-        "sellPrice": "6e3",
+        "displayName": "Feather Stamp",
+        "sellPrice": "6000",
         "typeGen": "aStamp",
         "ID": "17",
         "Type": "STAMP",
@@ -12545,7 +12545,7 @@
         "consumable": "kD"
     },
     "StampA19": {
-        "displayName": "Polearm_Stamp",
+        "displayName": "Polearm Stamp",
         "sellPrice": "7500",
         "typeGen": "aStamp",
         "ID": "18",
@@ -12563,8 +12563,8 @@
         "consumable": "lD"
     },
     "StampA20": {
-        "displayName": "Violence_Stamp",
-        "sellPrice": "25e3",
+        "displayName": "Violence Stamp",
+        "sellPrice": "25000",
         "typeGen": "aStamp",
         "ID": "19",
         "Type": "STAMP",
@@ -12581,8 +12581,8 @@
         "consumable": "mD"
     },
     "StampA21": {
-        "displayName": "Buckler_Stamp",
-        "sellPrice": "12e3",
+        "displayName": "Buckler Stamp",
+        "sellPrice": "12000",
         "typeGen": "aStamp",
         "ID": "20",
         "Type": "STAMP",
@@ -12617,8 +12617,8 @@
         "consumable": "oD"
     },
     "StampA23": {
-        "displayName": "Sukka_Foo",
-        "sellPrice": "1e4",
+        "displayName": "Sukka Foo",
+        "sellPrice": "10000",
         "typeGen": "aStamp",
         "ID": "22",
         "Type": "STAMP",
@@ -12635,8 +12635,8 @@
         "consumable": "pD"
     },
     "StampA24": {
-        "displayName": "Arcane_Stamp",
-        "sellPrice": "6e3",
+        "displayName": "Arcane Stamp",
+        "sellPrice": "6000",
         "typeGen": "aStamp",
         "ID": "23",
         "Type": "STAMP",
@@ -12671,8 +12671,8 @@
         "consumable": "rD"
     },
     "StampA26": {
-        "displayName": "Steve_Sword",
-        "sellPrice": "5e4",
+        "displayName": "Steve Sword",
+        "sellPrice": "50000",
         "typeGen": "aStamp",
         "ID": "25",
         "Type": "STAMP",
@@ -12689,7 +12689,7 @@
         "consumable": "sD"
     },
     "StampA27": {
-        "displayName": "Blover_Stamp",
+        "displayName": "Blover Stamp",
         "sellPrice": "12500",
         "typeGen": "aStamp",
         "ID": "26",
@@ -12707,8 +12707,8 @@
         "consumable": "tD"
     },
     "StampA28": {
-        "displayName": "Stat_Graph_Stamp",
-        "sellPrice": "1e4",
+        "displayName": "Stat Graph Stamp",
+        "sellPrice": "10000",
         "typeGen": "aStamp",
         "ID": "27",
         "Type": "STAMP",
@@ -12851,10 +12851,10 @@
         "consumable": "BD"
     },
     "StampB1": {
-        "displayName": "Pickaxe_Stamp",
+        "displayName": "Pickaxe Stamp",
         "sellPrice": "500",
         "typeGen": "aStamp",
-        "ID": "1e3",
+        "ID": "1000",
         "Type": "STAMP",
         "lvReqToCraft": "0",
         "common": "hQ",
@@ -12869,7 +12869,7 @@
         "consumable": "CD"
     },
     "StampB2": {
-        "displayName": "Hatchet_Stamp",
+        "displayName": "Hatchet Stamp",
         "sellPrice": "1200",
         "typeGen": "aStamp",
         "ID": "1001",
@@ -12887,7 +12887,7 @@
         "consumable": "DD"
     },
     "StampB3": {
-        "displayName": "Anvil_Zoomer|Stamp",
+        "displayName": "Anvil Zoomer Stamp",
         "sellPrice": "800",
         "typeGen": "aStamp",
         "ID": "1002",
@@ -12905,8 +12905,8 @@
         "consumable": "ED"
     },
     "StampB4": {
-        "displayName": "Lil'_Mining_Baggy|Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Lil' Mining Baggy Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "1003",
         "Type": "STAMP",
@@ -12923,8 +12923,8 @@
         "consumable": "FD"
     },
     "StampB5": {
-        "displayName": "Twin_Ores_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Twin Ores Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "1004",
         "Type": "STAMP",
@@ -12941,8 +12941,8 @@
         "consumable": "GD"
     },
     "StampB6": {
-        "displayName": "Choppin'_Bag|Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Choppin' Bag Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "1005",
         "Type": "STAMP",
@@ -12959,8 +12959,8 @@
         "consumable": "HD"
     },
     "StampB7": {
-        "displayName": "Duplogs_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Duplogs Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "1006",
         "Type": "STAMP",
@@ -12977,7 +12977,7 @@
         "consumable": "ID"
     },
     "StampB8": {
-        "displayName": "Matty_Bag_Stamp",
+        "displayName": "Matty Bag Stamp",
         "sellPrice": "6700",
         "typeGen": "aStamp",
         "ID": "1007",
@@ -12995,7 +12995,7 @@
         "consumable": "JD"
     },
     "StampB9": {
-        "displayName": "Smart_Dirt_Stamp",
+        "displayName": "Smart Dirt Stamp",
         "sellPrice": "1500",
         "typeGen": "aStamp",
         "ID": "1008",
@@ -13013,8 +13013,8 @@
         "consumable": "KD"
     },
     "StampB10": {
-        "displayName": "Cool_Diggy_Tool|Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Cool Diggy Tool Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "1009",
         "Type": "STAMP",
@@ -13031,7 +13031,7 @@
         "consumable": "LD"
     },
     "StampB11": {
-        "displayName": "High_IQ_Lumber|Stamp",
+        "displayName": "High IQ Lumber Stamp",
         "sellPrice": "1800",
         "typeGen": "aStamp",
         "ID": "1010",
@@ -13049,7 +13049,7 @@
         "consumable": "MD"
     },
     "StampB12": {
-        "displayName": "Swag_Swingy_Tool|Stamp",
+        "displayName": "Swag Swingy Tool Stamp",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "1011",
@@ -13067,8 +13067,8 @@
         "consumable": "ND"
     },
     "StampB13": {
-        "displayName": "Alch_Go_Brrr|Stamp",
-        "sellPrice": "2e3",
+        "displayName": "Alch Go Brrr Stamp",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "1012",
         "Type": "STAMP",
@@ -13085,7 +13085,7 @@
         "consumable": "OD"
     },
     "StampB14": {
-        "displayName": "Brainstew_Stamps",
+        "displayName": "Brainstew Stamps",
         "sellPrice": "2500",
         "typeGen": "aStamp",
         "ID": "1013",
@@ -13103,8 +13103,8 @@
         "consumable": "PD"
     },
     "StampB15": {
-        "displayName": "Drippy_Drop_Stamp",
-        "sellPrice": "2e3",
+        "displayName": "Drippy Drop Stamp",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "1014",
         "Type": "STAMP",
@@ -13121,8 +13121,8 @@
         "consumable": "QD"
     },
     "StampB16": {
-        "displayName": "Droplots_Stamp",
-        "sellPrice": "5e3",
+        "displayName": "Droplots Stamp",
+        "sellPrice": "5000",
         "typeGen": "aStamp",
         "ID": "1015",
         "Type": "STAMP",
@@ -13139,8 +13139,8 @@
         "consumable": "RD"
     },
     "StampB17": {
-        "displayName": "Fishing_Rod_Stamp",
-        "sellPrice": "2e3",
+        "displayName": "Fishing Rod Stamp",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "1016",
         "Type": "STAMP",
@@ -13157,8 +13157,8 @@
         "consumable": "SD"
     },
     "StampB18": {
-        "displayName": "Fishhead_Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Fishhead Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "1017",
         "Type": "STAMP",
@@ -13175,8 +13175,8 @@
         "consumable": "TD"
     },
     "StampB19": {
-        "displayName": "Catch_Net_Stamp",
-        "sellPrice": "2e3",
+        "displayName": "Catch Net Stamp",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "1018",
         "Type": "STAMP",
@@ -13193,8 +13193,8 @@
         "consumable": "UD"
     },
     "StampB20": {
-        "displayName": "Fly_Intel_Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Fly Intel Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "1019",
         "Type": "STAMP",
@@ -13211,8 +13211,8 @@
         "consumable": "VD"
     },
     "StampB21": {
-        "displayName": "Bag_o_Heads_Stamp",
-        "sellPrice": "2e3",
+        "displayName": "Bag o Heads Stamp",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "1020",
         "Type": "STAMP",
@@ -13229,8 +13229,8 @@
         "consumable": "WD"
     },
     "StampB22": {
-        "displayName": "Holy_Mackerel|Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Holy Mackerel Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "1021",
         "Type": "STAMP",
@@ -13247,8 +13247,8 @@
         "consumable": "XD"
     },
     "StampB23": {
-        "displayName": "Bugsack_Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Bugsack Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "1022",
         "Type": "STAMP",
@@ -13265,8 +13265,8 @@
         "consumable": "YD"
     },
     "StampB24": {
-        "displayName": "Buzz_Buzz_Stamp",
-        "sellPrice": "4e3",
+        "displayName": "Buzz Buzz Stamp",
+        "sellPrice": "4000",
         "typeGen": "aStamp",
         "ID": "1023",
         "Type": "STAMP",
@@ -13283,10 +13283,10 @@
         "consumable": "ZD"
     },
     "StampC1": {
-        "displayName": "Questin_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Questin Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
-        "ID": "2e3",
+        "ID": "2000",
         "Type": "STAMP",
         "lvReqToCraft": "0",
         "common": "FQ",
@@ -13301,8 +13301,8 @@
         "consumable": "$D"
     },
     "StampC2": {
-        "displayName": "Mason_Jar_Stamp",
-        "sellPrice": "1e4",
+        "displayName": "Mason Jar Stamp",
+        "sellPrice": "10000",
         "typeGen": "aStamp",
         "ID": "2001",
         "Type": "STAMP",
@@ -13320,7 +13320,7 @@
     },
     "StampC3": {
         "displayName": "Crystallin",
-        "sellPrice": "2e3",
+        "sellPrice": "2000",
         "typeGen": "aStamp",
         "ID": "2002",
         "Type": "STAMP",
@@ -13355,8 +13355,8 @@
         "consumable": "cE"
     },
     "StampC5": {
-        "displayName": "Apple_Stamp",
-        "sellPrice": "1e3",
+        "displayName": "Apple Stamp",
+        "sellPrice": "1000",
         "typeGen": "aStamp",
         "ID": "2004",
         "Type": "STAMP",
@@ -13373,8 +13373,8 @@
         "consumable": "dE"
     },
     "StampC6": {
-        "displayName": "Potion_Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Potion Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "2005",
         "Type": "STAMP",
@@ -13391,8 +13391,8 @@
         "consumable": "eE"
     },
     "StampC7": {
-        "displayName": "Golden_Apple|Stamp",
-        "sellPrice": "1e4",
+        "displayName": "Golden Apple Stamp",
+        "sellPrice": "10000",
         "typeGen": "aStamp",
         "ID": "2006",
         "Type": "STAMP",
@@ -13427,8 +13427,8 @@
         "consumable": "gE"
     },
     "StampC9": {
-        "displayName": "Card_Stamp",
-        "sellPrice": "3e3",
+        "displayName": "Card Stamp",
+        "sellPrice": "3000",
         "typeGen": "aStamp",
         "ID": "2008",
         "Type": "STAMP",
@@ -13499,7 +13499,7 @@
         "consumable": "kE"
     },
     "StampC13": {
-        "displayName": "Talent_I_Stamp",
+        "displayName": "Talent I Stamp",
         "sellPrice": "1",
         "typeGen": "aStamp",
         "ID": "2012",
@@ -13517,8 +13517,8 @@
         "consumable": "lE"
     },
     "StampC14": {
-        "displayName": "Talent_II_Stamp",
-        "sellPrice": "12e3",
+        "displayName": "Talent II Stamp",
+        "sellPrice": "12000",
         "typeGen": "aStamp",
         "ID": "2013",
         "Type": "STAMP",
@@ -13535,7 +13535,7 @@
         "consumable": "mE"
     },
     "StampC15": {
-        "displayName": "Talent_III_Stamp",
+        "displayName": "Talent III Stamp",
         "sellPrice": "1",
         "typeGen": "aStamp",
         "ID": "2014",
@@ -13553,7 +13553,7 @@
         "consumable": "nE"
     },
     "StampC16": {
-        "displayName": "Talent_IV_Stamp",
+        "displayName": "Talent IV Stamp",
         "sellPrice": "1",
         "typeGen": "aStamp",
         "ID": "2015",
@@ -13571,7 +13571,7 @@
         "consumable": "oE"
     },
     "StampC17": {
-        "displayName": "Talent_V_Stamp",
+        "displayName": "Talent V Stamp",
         "sellPrice": "1",
         "typeGen": "aStamp",
         "ID": "2016",
@@ -13589,7 +13589,7 @@
         "consumable": "pE"
     },
     "StampC18": {
-        "displayName": "Talent_S_Stamp",
+        "displayName": "Talent S Stamp",
         "sellPrice": "1",
         "typeGen": "aStamp",
         "ID": "2017",
@@ -13607,7 +13607,7 @@
         "consumable": "qE"
     },
     "StoneWe": {
-        "displayName": "Easter_Weapon|Stone",
+        "displayName": "Easter Weapon Stone",
         "sellPrice": "125",
         "typeGen": "dStone",
         "ID": "0",
@@ -13629,7 +13629,7 @@
         "consumable": "Rx"
     },
     "StoneW1": {
-        "displayName": "Weapon_Upgrade|Stone_I",
+        "displayName": "Weapon Upgrade Stone I",
         "sellPrice": "125",
         "typeGen": "dStone",
         "ID": "0",
@@ -13651,7 +13651,7 @@
         "consumable": "Sx"
     },
     "StoneW2": {
-        "displayName": "Weapon_Upgrade|Stone_II",
+        "displayName": "Weapon Upgrade Stone II",
         "sellPrice": "1500",
         "typeGen": "dStone",
         "ID": "0",
@@ -13673,8 +13673,8 @@
         "consumable": "Tx"
     },
     "StoneW3": {
-        "displayName": "Weapon_Upgrade|Stone_III",
-        "sellPrice": "25e3",
+        "displayName": "Weapon Upgrade Stone III",
+        "sellPrice": "25000",
         "typeGen": "dStone",
         "ID": "0",
         "Type": "UPGRADE",
@@ -13695,8 +13695,8 @@
         "consumable": "Ux"
     },
     "StoneW6": {
-        "displayName": "Warped_Weapon|Upgrade_Stone",
-        "sellPrice": "25e3",
+        "displayName": "Warped Weapon Upgrade Stone",
+        "sellPrice": "25000",
         "typeGen": "dStone",
         "ID": "0",
         "Type": "UPGRADE",
@@ -13717,7 +13717,7 @@
         "consumable": "Vx"
     },
     "StoneAe": {
-        "displayName": "Easter_Armor|Stone",
+        "displayName": "Easter Armor Stone",
         "sellPrice": "100",
         "typeGen": "dStone",
         "ID": "1",
@@ -13739,7 +13739,7 @@
         "consumable": "Wx"
     },
     "StoneA1": {
-        "displayName": "Armor_Upgrade|Stone_I",
+        "displayName": "Armor Upgrade Stone I",
         "sellPrice": "100",
         "typeGen": "dStone",
         "ID": "1",
@@ -13761,7 +13761,7 @@
         "consumable": "Xx"
     },
     "StoneA1b": {
-        "displayName": "Armor_Upgrade|Stone_G",
+        "displayName": "Armor Upgrade Stone G",
         "sellPrice": "100",
         "typeGen": "dStone",
         "ID": "1",
@@ -13783,7 +13783,7 @@
         "consumable": "Yx"
     },
     "StoneA2": {
-        "displayName": "Armor_Upgrade|Stone_II",
+        "displayName": "Armor Upgrade Stone II",
         "sellPrice": "850",
         "typeGen": "dStone",
         "ID": "1",
@@ -13805,7 +13805,7 @@
         "consumable": "Zx"
     },
     "StoneA2b": {
-        "displayName": "Armor_Upgrade|Stone_B",
+        "displayName": "Armor Upgrade Stone B",
         "sellPrice": "100",
         "typeGen": "dStone",
         "ID": "1",
@@ -13827,8 +13827,8 @@
         "consumable": "$x"
     },
     "StoneA3": {
-        "displayName": "Armor_Upgrade|Stone_III",
-        "sellPrice": "15e3",
+        "displayName": "Armor Upgrade Stone III",
+        "sellPrice": "15000",
         "typeGen": "dStone",
         "ID": "1",
         "Type": "UPGRADE",
@@ -13849,8 +13849,8 @@
         "consumable": "ay"
     },
     "StoneA3b": {
-        "displayName": "Armor_Upgrade|Stone_C",
-        "sellPrice": "15e3",
+        "displayName": "Armor Upgrade Stone C",
+        "sellPrice": "15000",
         "typeGen": "dStone",
         "ID": "1",
         "Type": "UPGRADE",
@@ -13871,7 +13871,7 @@
         "consumable": "by"
     },
     "StoneTe": {
-        "displayName": "Easter_Tool|Upgrade_Stone",
+        "displayName": "Easter Tool Upgrade Stone",
         "sellPrice": "110",
         "typeGen": "dStone",
         "ID": "2",
@@ -13893,7 +13893,7 @@
         "consumable": "cy"
     },
     "StoneT1": {
-        "displayName": "Tool_Upgrade|Stone_I",
+        "displayName": "Tool Upgrade Stone I",
         "sellPrice": "110",
         "typeGen": "dStone",
         "ID": "2",
@@ -13915,7 +13915,7 @@
         "consumable": "dy"
     },
     "StoneT1e": {
-        "displayName": "Giftmas_Tool|Upgrade_Stone",
+        "displayName": "Giftmas Tool Upgrade Stone",
         "sellPrice": "110",
         "typeGen": "dStone",
         "ID": "2",
@@ -13937,7 +13937,7 @@
         "consumable": "ey"
     },
     "StoneT2": {
-        "displayName": "Tool_Upgrade|Stone_II",
+        "displayName": "Tool Upgrade Stone II",
         "sellPrice": "1250",
         "typeGen": "dStone",
         "ID": "2",
@@ -13959,8 +13959,8 @@
         "consumable": "fy"
     },
     "StoneT3": {
-        "displayName": "Tool_Upgrade|Stone_III",
-        "sellPrice": "2e4",
+        "displayName": "Tool Upgrade Stone III",
+        "sellPrice": "20000",
         "typeGen": "dStone",
         "ID": "2",
         "Type": "UPGRADE",
@@ -13981,7 +13981,7 @@
         "consumable": "gy"
     },
     "StoneHelm1": {
-        "displayName": "Helmet_Upgrade|Stone_I",
+        "displayName": "Helmet Upgrade Stone I",
         "sellPrice": "400",
         "typeGen": "dStone",
         "ID": "1",
@@ -14003,8 +14003,8 @@
         "consumable": "hy"
     },
     "StoneHelm6": {
-        "displayName": "Warped_Helmet|Upgrade_Stone",
-        "sellPrice": "5e3",
+        "displayName": "Warped Helmet Upgrade Stone",
+        "sellPrice": "5000",
         "typeGen": "dStone",
         "ID": "4",
         "Type": "UPGRADE",
@@ -14025,8 +14025,8 @@
         "consumable": "iy"
     },
     "StoneHelm1b": {
-        "displayName": "Giftmas_Helmet|Upgrade_Stone",
-        "sellPrice": "5e3",
+        "displayName": "Giftmas Helmet Upgrade Stone",
+        "sellPrice": "5000",
         "typeGen": "dStone",
         "ID": "4",
         "Type": "UPGRADE",
@@ -14047,7 +14047,7 @@
         "consumable": "jy"
     },
     "StoneZ1": {
-        "displayName": "Mystery_Upgrade|Stone_I",
+        "displayName": "Mystery Upgrade Stone I",
         "sellPrice": "777",
         "typeGen": "dStone",
         "ID": "5",
@@ -14069,7 +14069,7 @@
         "consumable": "ky"
     },
     "StonePremSTR": {
-        "displayName": "Premium_STR|Stone",
+        "displayName": "Premium STR Stone",
         "sellPrice": "777",
         "typeGen": "dStone",
         "ID": "6",
@@ -14091,7 +14091,7 @@
         "consumable": "ly"
     },
     "StonePremAGI": {
-        "displayName": "Premium_AGI|Stone",
+        "displayName": "Premium AGI Stone",
         "sellPrice": "777",
         "typeGen": "dStone",
         "ID": "6",
@@ -14113,7 +14113,7 @@
         "consumable": "my"
     },
     "StonePremWIS": {
-        "displayName": "Premium_WIS|Stone",
+        "displayName": "Premium WIS Stone",
         "sellPrice": "777",
         "typeGen": "dStone",
         "ID": "6",
@@ -14135,7 +14135,7 @@
         "consumable": "ny"
     },
     "StonePremLUK": {
-        "displayName": "Premium_LUK|Stone",
+        "displayName": "Premium LUK Stone",
         "sellPrice": "777",
         "typeGen": "dStone",
         "ID": "6",
@@ -14175,7 +14175,7 @@
         "consumable": "rE"
     },
     "CraftMat2": {
-        "displayName": "Crimson_String",
+        "displayName": "Crimson String",
         "sellPrice": "1",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14193,7 +14193,7 @@
         "consumable": "sE"
     },
     "CraftMat3": {
-        "displayName": "Cue_Tape",
+        "displayName": "Cue Tape",
         "sellPrice": "3",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14211,7 +14211,7 @@
         "consumable": "tE"
     },
     "CraftMat5": {
-        "displayName": "Trusty_Nails",
+        "displayName": "Trusty Nails",
         "sellPrice": "12",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14229,7 +14229,7 @@
         "consumable": "uE"
     },
     "CraftMat6": {
-        "displayName": "Boring_Brick",
+        "displayName": "Boring Brick",
         "sellPrice": "25",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14247,7 +14247,7 @@
         "consumable": "vE"
     },
     "CraftMat7": {
-        "displayName": "Chain_Link",
+        "displayName": "Chain Link",
         "sellPrice": "40",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14265,7 +14265,7 @@
         "consumable": "wE"
     },
     "CraftMat9": {
-        "displayName": "Leather_Hide",
+        "displayName": "Leather Hide",
         "sellPrice": "60",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14283,7 +14283,7 @@
         "consumable": "xE"
     },
     "CraftMat8": {
-        "displayName": "Pinion_Spur",
+        "displayName": "Pinion Spur",
         "sellPrice": "80",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14301,7 +14301,7 @@
         "consumable": "yE"
     },
     "CraftMat10": {
-        "displayName": "Lugi_Bracket",
+        "displayName": "Lugi Bracket",
         "sellPrice": "100",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14445,7 +14445,7 @@
         "consumable": "GE"
     },
     "PureWater": {
-        "displayName": "Distilled_Water",
+        "displayName": "Distilled Water",
         "sellPrice": "50",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14462,7 +14462,7 @@
         "consumable": "HE"
     },
     "Grasslands1": {
-        "displayName": "Spore_Cap",
+        "displayName": "Spore Cap",
         "sellPrice": "3",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14480,7 +14480,7 @@
         "consumable": "IE"
     },
     "Grasslands2": {
-        "displayName": "Frog_Leg",
+        "displayName": "Frog Leg",
         "sellPrice": "5",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14498,7 +14498,7 @@
         "consumable": "JE"
     },
     "Grasslands3": {
-        "displayName": "Bean_Slices",
+        "displayName": "Bean Slices",
         "sellPrice": "7",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14516,7 +14516,7 @@
         "consumable": "KE"
     },
     "Grasslands4": {
-        "displayName": "Red_Spore_Cap",
+        "displayName": "Red Spore Cap",
         "sellPrice": "7",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14534,7 +14534,7 @@
         "consumable": "LE"
     },
     "Jungle1": {
-        "displayName": "Slime_Sludge",
+        "displayName": "Slime Sludge",
         "sellPrice": "10",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14552,7 +14552,7 @@
         "consumable": "ME"
     },
     "Jungle2": {
-        "displayName": "Snake_Skin",
+        "displayName": "Snake Skin",
         "sellPrice": "13",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14570,7 +14570,7 @@
         "consumable": "NE"
     },
     "Jungle3": {
-        "displayName": "Carrot_Cube",
+        "displayName": "Carrot Cube",
         "sellPrice": "15",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14588,7 +14588,7 @@
         "consumable": "OE"
     },
     "Forest1": {
-        "displayName": "Goblin_Ear",
+        "displayName": "Goblin Ear",
         "sellPrice": "20",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14624,7 +14624,7 @@
         "consumable": "QE"
     },
     "Forest3": {
-        "displayName": "Bullfrog_Horn",
+        "displayName": "Bullfrog Horn",
         "sellPrice": "30",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14642,7 +14642,7 @@
         "consumable": "RE"
     },
     "Sewers1": {
-        "displayName": "Corn_Kernels",
+        "displayName": "Corn Kernels",
         "sellPrice": "30",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14660,7 +14660,7 @@
         "consumable": "SE"
     },
     "Sewers1b": {
-        "displayName": "Golden_Plop",
+        "displayName": "Golden Plop",
         "sellPrice": "500",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14678,7 +14678,7 @@
         "consumable": "TE"
     },
     "Sewers2": {
-        "displayName": "Rats_Tail",
+        "displayName": "Rats Tail",
         "sellPrice": "90",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14732,7 +14732,7 @@
         "consumable": "WE"
     },
     "TreeInterior1b": {
-        "displayName": "Woodular_Circle",
+        "displayName": "Woodular Circle",
         "sellPrice": "90",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14768,7 +14768,7 @@
         "consumable": "YE"
     },
     "BabaYagaETC": {
-        "displayName": "Baba_Yaga_Baby|Eggs",
+        "displayName": "Baba Yaga Baby Eggs",
         "sellPrice": "400",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14786,7 +14786,7 @@
         "consumable": "ZE"
     },
     "DesertA1": {
-        "displayName": "Pocket_Sand",
+        "displayName": "Pocket Sand",
         "sellPrice": "60",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14804,7 +14804,7 @@
         "consumable": "$E"
     },
     "DesertA1b": {
-        "displayName": "Glass_Shard",
+        "displayName": "Glass Shard",
         "sellPrice": "60",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14822,7 +14822,7 @@
         "consumable": "aF"
     },
     "DesertA2": {
-        "displayName": "Megalodon_Tooth",
+        "displayName": "Megalodon Tooth",
         "sellPrice": "70",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14840,7 +14840,7 @@
         "consumable": "bF"
     },
     "DesertA3": {
-        "displayName": "Crabby_Cakey",
+        "displayName": "Crabby Cakey",
         "sellPrice": "80",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14858,7 +14858,7 @@
         "consumable": "cF"
     },
     "DesertA3b": {
-        "displayName": "Nuget_Cake",
+        "displayName": "Nuget Cake",
         "sellPrice": "80",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14894,7 +14894,7 @@
         "consumable": "eF"
     },
     "DesertB2": {
-        "displayName": "Furled_Flag",
+        "displayName": "Furled Flag",
         "sellPrice": "108",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14912,7 +14912,7 @@
         "consumable": "fF"
     },
     "DesertB3": {
-        "displayName": "Pincer_Arm",
+        "displayName": "Pincer Arm",
         "sellPrice": "120",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14930,7 +14930,7 @@
         "consumable": "gF"
     },
     "DesertB4": {
-        "displayName": "Potato_Remains",
+        "displayName": "Potato Remains",
         "sellPrice": "133",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14948,7 +14948,7 @@
         "consumable": "hF"
     },
     "DesertC1": {
-        "displayName": "High_Steaks",
+        "displayName": "High Steaks",
         "sellPrice": "145",
         "typeGen": "bCraft",
         "ID": "0",
@@ -14966,7 +14966,7 @@
         "consumable": "iF"
     },
     "DesertC2": {
-        "displayName": "Wakka_Cherry",
+        "displayName": "Wakka Cherry",
         "sellPrice": "160",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15038,7 +15038,7 @@
         "consumable": "mF"
     },
     "SnowA1": {
-        "displayName": "Floof_Ploof",
+        "displayName": "Floof Ploof",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15056,7 +15056,7 @@
         "consumable": "nF"
     },
     "SnowA2": {
-        "displayName": "Melty_Cube",
+        "displayName": "Melty Cube",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15074,7 +15074,7 @@
         "consumable": "oF"
     },
     "SnowA3": {
-        "displayName": "Moustache_Comb",
+        "displayName": "Moustache Comb",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15092,7 +15092,7 @@
         "consumable": "pF"
     },
     "SnowA4": {
-        "displayName": "Ram_Wool",
+        "displayName": "Ram Wool",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15110,7 +15110,7 @@
         "consumable": "qF"
     },
     "SnowB1": {
-        "displayName": "Sticky_Stick",
+        "displayName": "Sticky Stick",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15128,7 +15128,7 @@
         "consumable": "rF"
     },
     "SnowB2": {
-        "displayName": "Mamooth_Tusk",
+        "displayName": "Mamooth Tusk",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15146,7 +15146,7 @@
         "consumable": "sF"
     },
     "SnowB2a": {
-        "displayName": "Ice,_Age_3",
+        "displayName": "Ice, Age 3",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15164,7 +15164,7 @@
         "consumable": "tF"
     },
     "SnowB5": {
-        "displayName": "Snow_Ball",
+        "displayName": "Snow Ball",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15200,7 +15200,7 @@
         "consumable": "vF"
     },
     "SnowB4": {
-        "displayName": "Cracked_Glass",
+        "displayName": "Cracked Glass",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15218,7 +15218,7 @@
         "consumable": "wF"
     },
     "SnowC1": {
-        "displayName": "Sippy_Straw",
+        "displayName": "Sippy Straw",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15236,7 +15236,7 @@
         "consumable": "xF"
     },
     "SnowC2": {
-        "displayName": "Cryosnake_Skin",
+        "displayName": "Cryosnake Skin",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15254,7 +15254,7 @@
         "consumable": "yF"
     },
     "SnowC3": {
-        "displayName": "Audio_Cord",
+        "displayName": "Audio Cord",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15271,7 +15271,7 @@
         "consumable": "zF"
     },
     "SnowC4": {
-        "displayName": "Contact_Lense",
+        "displayName": "Contact Lense",
         "sellPrice": "200",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15289,7 +15289,7 @@
         "consumable": "AF"
     },
     "IceMountains2": {
-        "displayName": "Ice_A_La_Crem",
+        "displayName": "Ice A La Crem",
         "sellPrice": "1",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15325,7 +15325,7 @@
         "consumable": "CF"
     },
     "EfauntDrop1": {
-        "displayName": "Ripped_Tunic",
+        "displayName": "Ripped Tunic",
         "sellPrice": "1",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15343,7 +15343,7 @@
         "consumable": "DF"
     },
     "EfauntDrop2": {
-        "displayName": "Ribbed_Tunic",
+        "displayName": "Ribbed Tunic",
         "sellPrice": "1",
         "typeGen": "bCraft",
         "ID": "0",
@@ -15361,8 +15361,8 @@
         "consumable": "EF"
     },
     "Trophy1": {
-        "displayName": "King_of_Food",
-        "sellPrice": "1e4",
+        "displayName": "King of Food",
+        "sellPrice": "10000",
         "typeGen": "aTrophy",
         "ID": "15",
         "Type": "TROPHY",
@@ -15386,7 +15386,7 @@
         "equip": "zu"
     },
     "Trophy2": {
-        "displayName": "Lucky_Lad",
+        "displayName": "Lucky Lad",
         "sellPrice": "777",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15411,7 +15411,7 @@
         "equip": "Au"
     },
     "Trophy3": {
-        "displayName": "Club_Member",
+        "displayName": "Club Member",
         "sellPrice": "777",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15436,7 +15436,7 @@
         "equip": "Bu"
     },
     "Trophy4": {
-        "displayName": "I_Made_This_Game",
+        "displayName": "I Made This Game",
         "sellPrice": "777",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15461,7 +15461,7 @@
         "equip": "Cu"
     },
     "Trophy5": {
-        "displayName": "Dice_Dynamo",
+        "displayName": "Dice Dynamo",
         "sellPrice": "777",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15486,7 +15486,7 @@
         "equip": "Du"
     },
     "Trophy6": {
-        "displayName": "Blunder_Hero",
+        "displayName": "Blunder Hero",
         "sellPrice": "69",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15511,7 +15511,7 @@
         "equip": "Eu"
     },
     "Trophy7": {
-        "displayName": "Original_Gamer",
+        "displayName": "Original Gamer",
         "sellPrice": "69",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15561,7 +15561,7 @@
         "equip": "Gu"
     },
     "Trophy9": {
-        "displayName": "Ultra_Unboxer",
+        "displayName": "Ultra Unboxer",
         "sellPrice": "69",
         "typeGen": "aTrophy",
         "ID": "15",
@@ -15586,7 +15586,7 @@
         "equip": "Hu"
     },
     "Starlight": {
-        "displayName": "Starlight_Ore",
+        "displayName": "Starlight Ore",
         "sellPrice": "5",
         "typeGen": "bOre",
         "ID": "0",
@@ -15608,7 +15608,7 @@
         "consumable": "py"
     },
     "AlienTreetutorial": {
-        "displayName": "Alien_Logs",
+        "displayName": "Alien Logs",
         "sellPrice": "50",
         "typeGen": "bLog",
         "ID": "0",
@@ -15617,7 +15617,7 @@
         "common": "TS"
     },
     "EquipmentWeapons2": {
-        "displayName": "Flesh_Reaper",
+        "displayName": "Flesh Reaper",
         "sellPrice": "40",
         "typeGen": "aWeapon",
         "ID": "5",
@@ -15660,7 +15660,7 @@
         "consumable": "FF"
     },
     "Timecandy1": {
-        "displayName": "1_HR_Time_Candy",
+        "displayName": "1 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "60",
@@ -15678,7 +15678,7 @@
         "consumable": "GF"
     },
     "Timecandy2": {
-        "displayName": "2_HR_Time_Candy",
+        "displayName": "2 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "120",
@@ -15696,7 +15696,7 @@
         "consumable": "HF"
     },
     "Timecandy3": {
-        "displayName": "4_HR_Time_Candy",
+        "displayName": "4 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "240",
@@ -15714,7 +15714,7 @@
         "consumable": "IF"
     },
     "Timecandy4": {
-        "displayName": "12_HR_Time_Candy",
+        "displayName": "12 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "720",
@@ -15732,7 +15732,7 @@
         "consumable": "JF"
     },
     "Timecandy5": {
-        "displayName": "24_HR_Time_Candy",
+        "displayName": "24 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "1440",
@@ -15750,7 +15750,7 @@
         "consumable": "KF"
     },
     "Timecandy6": {
-        "displayName": "72_HR_Time_Candy",
+        "displayName": "72 HR Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "4320",
@@ -15768,7 +15768,7 @@
         "consumable": "LF"
     },
     "Timecandy7": {
-        "displayName": "Steamy_Time_Candy",
+        "displayName": "Steamy Time Candy",
         "sellPrice": "1",
         "typeGen": "dTimeCandy",
         "ID": "1",
@@ -15786,7 +15786,7 @@
         "consumable": "MF"
     },
     "InvBag1": {
-        "displayName": "Inventory_Bag_A",
+        "displayName": "Inventory Bag A",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "0",
@@ -15811,7 +15811,7 @@
         "equip": "Ju"
     },
     "InvBag2": {
-        "displayName": "Inventory_Bag_B",
+        "displayName": "Inventory Bag B",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "1",
@@ -15836,7 +15836,7 @@
         "equip": "Ku"
     },
     "InvBag3": {
-        "displayName": "Inventory_Bag_C",
+        "displayName": "Inventory Bag C",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "2",
@@ -15861,7 +15861,7 @@
         "equip": "Lu"
     },
     "InvBag4": {
-        "displayName": "Inventory_Bag_D",
+        "displayName": "Inventory Bag D",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "3",
@@ -15886,7 +15886,7 @@
         "equip": "Mu"
     },
     "InvBag5": {
-        "displayName": "Inventory_Bag_E",
+        "displayName": "Inventory Bag E",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "4",
@@ -15911,7 +15911,7 @@
         "equip": "Nu"
     },
     "InvBag6": {
-        "displayName": "Inventory_Bag_F",
+        "displayName": "Inventory Bag F",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "5",
@@ -15936,7 +15936,7 @@
         "equip": "Ou"
     },
     "InvBag7": {
-        "displayName": "Inventory_Bag_G",
+        "displayName": "Inventory Bag G",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "6",
@@ -15961,7 +15961,7 @@
         "equip": "Pu"
     },
     "InvBag8": {
-        "displayName": "Inventory_Bag_H",
+        "displayName": "Inventory Bag H",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "7",
@@ -15986,7 +15986,7 @@
         "equip": "Qu"
     },
     "InvBag9": {
-        "displayName": "Inventory_Bag_I",
+        "displayName": "Inventory Bag I",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "8",
@@ -16011,7 +16011,7 @@
         "equip": "Ru"
     },
     "InvBag21": {
-        "displayName": "Inventory_Bag_U",
+        "displayName": "Inventory Bag U",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "20",
@@ -16036,7 +16036,7 @@
         "equip": "Su"
     },
     "InvBag22": {
-        "displayName": "Inventory_Bag_V",
+        "displayName": "Inventory Bag V",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "21",
@@ -16061,7 +16061,7 @@
         "equip": "Tu"
     },
     "InvBag23": {
-        "displayName": "Inventory_Bag_W",
+        "displayName": "Inventory Bag W",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "22",
@@ -16086,7 +16086,7 @@
         "equip": "Uu"
     },
     "InvBag24": {
-        "displayName": "Inventory_Bag_X",
+        "displayName": "Inventory Bag X",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "23",
@@ -16111,7 +16111,7 @@
         "equip": "Vu"
     },
     "InvBag25": {
-        "displayName": "Inventory_Bag_Y",
+        "displayName": "Inventory Bag Y",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "24",
@@ -16136,7 +16136,7 @@
         "equip": "Wu"
     },
     "InvBag26": {
-        "displayName": "Inventory_Bag_Z",
+        "displayName": "Inventory Bag Z",
         "sellPrice": "200",
         "typeGen": "aInventoryBag",
         "ID": "25",
@@ -16161,7 +16161,7 @@
         "equip": "Xu"
     },
     "InvBag100": {
-        "displayName": "Snakeskinventory|Bag",
+        "displayName": "Snakeskinventory Bag",
         "sellPrice": "1300",
         "typeGen": "aInventoryBag",
         "ID": "100",
@@ -16186,8 +16186,8 @@
         "equip": "Yu"
     },
     "InvBag101": {
-        "displayName": "Totally_Normal|and_not_fake_Bag",
-        "sellPrice": "5e3",
+        "displayName": "Totally Normal and not fake Bag",
+        "sellPrice": "5000",
         "typeGen": "aInventoryBag",
         "ID": "101",
         "Type": "INVENTORY_",
@@ -16236,8 +16236,8 @@
         "equip": "$u"
     },
     "InvBag103": {
-        "displayName": "Sandy_Satchel",
-        "sellPrice": "5e3",
+        "displayName": "Sandy Satchel",
+        "sellPrice": "5000",
         "typeGen": "aInventoryBag",
         "ID": "103",
         "Type": "INVENTORY_",
@@ -16261,7 +16261,7 @@
         "equip": "av"
     },
     "InvBag104": {
-        "displayName": "Bummo_Bag",
+        "displayName": "Bummo Bag",
         "sellPrice": "24",
         "typeGen": "aInventoryBag",
         "ID": "104",
@@ -16286,7 +16286,7 @@
         "equip": "bv"
     },
     "InvBag105": {
-        "displayName": "Capitalist_Case",
+        "displayName": "Capitalist Case",
         "sellPrice": "2499",
         "typeGen": "aInventoryBag",
         "ID": "105",
@@ -16311,7 +16311,7 @@
         "equip": "cv"
     },
     "InvBag106": {
-        "displayName": "Wealthy_Wallet",
+        "displayName": "Wealthy Wallet",
         "sellPrice": "249999",
         "typeGen": "aInventoryBag",
         "ID": "106",
@@ -16336,7 +16336,7 @@
         "equip": "dv"
     },
     "InvBag107": {
-        "displayName": "Prosperous_Pouch",
+        "displayName": "Prosperous Pouch",
         "sellPrice": "24999999",
         "typeGen": "aInventoryBag",
         "ID": "107",
@@ -16361,7 +16361,7 @@
         "equip": "ev"
     },
     "InvBag108": {
-        "displayName": "Sack_of_Success",
+        "displayName": "Sack of Success",
         "sellPrice": "2499999999",
         "typeGen": "aInventoryBag",
         "ID": "108",
@@ -16386,7 +16386,7 @@
         "equip": "fv"
     },
     "InvStorage1": {
-        "displayName": "Storage_Chest_1",
+        "displayName": "Storage Chest 1",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "0",
@@ -16411,8 +16411,8 @@
         "equip": "gv"
     },
     "InvStorage2": {
-        "displayName": "Storage_Chest_2",
-        "sellPrice": "1e3",
+        "displayName": "Storage Chest 2",
+        "sellPrice": "1000",
         "typeGen": "aStorageChest",
         "ID": "1",
         "Type": "STORAGE_",
@@ -16436,7 +16436,7 @@
         "equip": "hv"
     },
     "InvStorage3": {
-        "displayName": "Storage_Chest_3",
+        "displayName": "Storage Chest 3",
         "sellPrice": "800",
         "typeGen": "aStorageChest",
         "ID": "2",
@@ -16461,7 +16461,7 @@
         "equip": "iv"
     },
     "InvStorage4": {
-        "displayName": "Storage_Chest_4",
+        "displayName": "Storage Chest 4",
         "sellPrice": "1500",
         "typeGen": "aStorageChest",
         "ID": "3",
@@ -16486,7 +16486,7 @@
         "equip": "jv"
     },
     "InvStorage5": {
-        "displayName": "Storage_Chest_5",
+        "displayName": "Storage Chest 5",
         "sellPrice": "2200",
         "typeGen": "aStorageChest",
         "ID": "4",
@@ -16511,7 +16511,7 @@
         "equip": "kv"
     },
     "InvStorage6": {
-        "displayName": "Storage_Chest_6",
+        "displayName": "Storage Chest 6",
         "sellPrice": "2500",
         "typeGen": "aStorageChest",
         "ID": "5",
@@ -16536,7 +16536,7 @@
         "equip": "lv"
     },
     "InvStorage7": {
-        "displayName": "Storage_Chest_7",
+        "displayName": "Storage Chest 7",
         "sellPrice": "5500",
         "typeGen": "aStorageChest",
         "ID": "6",
@@ -16561,7 +16561,7 @@
         "equip": "mv"
     },
     "InvStorage8": {
-        "displayName": "Storage_Chest_8",
+        "displayName": "Storage Chest 8",
         "sellPrice": "5500",
         "typeGen": "aStorageChest",
         "ID": "7",
@@ -16586,7 +16586,7 @@
         "equip": "nv"
     },
     "InvStorage9": {
-        "displayName": "Storage_Chest_9",
+        "displayName": "Storage Chest 9",
         "sellPrice": "8900",
         "typeGen": "aStorageChest",
         "ID": "8",
@@ -16611,8 +16611,8 @@
         "equip": "ov"
     },
     "InvStorage10": {
-        "displayName": "Storage_Chest_10",
-        "sellPrice": "25e3",
+        "displayName": "Storage Chest 10",
+        "sellPrice": "25000",
         "typeGen": "aStorageChest",
         "ID": "9",
         "Type": "STORAGE_",
@@ -16636,8 +16636,8 @@
         "equip": "pv"
     },
     "InvStorage11": {
-        "displayName": "Storage_Chest_11",
-        "sellPrice": "5e4",
+        "displayName": "Storage Chest 11",
+        "sellPrice": "50000",
         "typeGen": "aStorageChest",
         "ID": "10",
         "Type": "STORAGE_",
@@ -16661,8 +16661,8 @@
         "equip": "qv"
     },
     "InvStorage12": {
-        "displayName": "Storage_Chest_12",
-        "sellPrice": "7e3",
+        "displayName": "Storage Chest 12",
+        "sellPrice": "7000",
         "typeGen": "aStorageChest",
         "ID": "11",
         "Type": "STORAGE_",
@@ -16686,8 +16686,8 @@
         "equip": "rv"
     },
     "InvStorage13": {
-        "displayName": "Storage_Chest_13",
-        "sellPrice": "6e4",
+        "displayName": "Storage Chest 13",
+        "sellPrice": "60000",
         "typeGen": "aStorageChest",
         "ID": "12",
         "Type": "STORAGE_",
@@ -16711,7 +16711,7 @@
         "equip": "sv"
     },
     "InvStorage14": {
-        "displayName": "Storage_Chest_14",
+        "displayName": "Storage Chest 14",
         "sellPrice": "1",
         "typeGen": "aStorageChest",
         "ID": "14",
@@ -16736,8 +16736,8 @@
         "equip": "tv"
     },
     "InvStorage15": {
-        "displayName": "Storage_Chest_15",
-        "sellPrice": "1e5",
+        "displayName": "Storage Chest 15",
+        "sellPrice": "100000",
         "typeGen": "aStorageChest",
         "ID": "13",
         "Type": "STORAGE_",
@@ -16761,7 +16761,7 @@
         "equip": "uv"
     },
     "InvStorage16": {
-        "displayName": "Storage_Chest_16",
+        "displayName": "Storage Chest 16",
         "sellPrice": "100",
         "typeGen": "aStorageChest",
         "ID": "15",
@@ -16786,7 +16786,7 @@
         "equip": "vv"
     },
     "InvStorage31": {
-        "displayName": "Storage_Chest_90",
+        "displayName": "Storage Chest 90",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "30",
@@ -16811,7 +16811,7 @@
         "equip": "wv"
     },
     "InvStorage32": {
-        "displayName": "Storage_Chest_91",
+        "displayName": "Storage Chest 91",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "31",
@@ -16836,7 +16836,7 @@
         "equip": "xv"
     },
     "InvStorage33": {
-        "displayName": "Storage_Chest_92",
+        "displayName": "Storage Chest 92",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "32",
@@ -16861,7 +16861,7 @@
         "equip": "yv"
     },
     "InvStorage34": {
-        "displayName": "Storage_Chest_93",
+        "displayName": "Storage Chest 93",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "33",
@@ -16886,7 +16886,7 @@
         "equip": "zv"
     },
     "InvStorage35": {
-        "displayName": "Storage_Chest_94",
+        "displayName": "Storage Chest 94",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "34",
@@ -16911,7 +16911,7 @@
         "equip": "Av"
     },
     "InvStorage36": {
-        "displayName": "Storage_Chest_95",
+        "displayName": "Storage Chest 95",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "35",
@@ -16936,7 +16936,7 @@
         "equip": "Bv"
     },
     "InvStorage37": {
-        "displayName": "Storage_Chest_96",
+        "displayName": "Storage Chest 96",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "36",
@@ -16961,7 +16961,7 @@
         "equip": "Cv"
     },
     "InvStorage38": {
-        "displayName": "Storage_Chest_97",
+        "displayName": "Storage Chest 97",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "37",
@@ -16986,7 +16986,7 @@
         "equip": "Dv"
     },
     "InvStorage39": {
-        "displayName": "Storage_Chest_98",
+        "displayName": "Storage Chest 98",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "38",
@@ -17011,7 +17011,7 @@
         "equip": "Ev"
     },
     "InvStorage40": {
-        "displayName": "Storage_Chest_99",
+        "displayName": "Storage Chest 99",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "39",
@@ -17036,7 +17036,7 @@
         "equip": "Fv"
     },
     "InvStorage41": {
-        "displayName": "Storage_Chest_99B",
+        "displayName": "Storage Chest 99B",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "40",
@@ -17061,7 +17061,7 @@
         "equip": "Gv"
     },
     "InvStorage42": {
-        "displayName": "Storage_Chest_99C",
+        "displayName": "Storage Chest 99C",
         "sellPrice": "200",
         "typeGen": "aStorageChest",
         "ID": "41",
@@ -17086,8 +17086,8 @@
         "equip": "Hv"
     },
     "InvStorageF": {
-        "displayName": "Dank_Paypay_Chest",
-        "sellPrice": "1e3",
+        "displayName": "Dank Paypay Chest",
+        "sellPrice": "1000",
         "typeGen": "aStorageChest",
         "ID": "100",
         "Type": "STORAGE_",
@@ -17111,7 +17111,7 @@
         "equip": "Iv"
     },
     "Key1": {
-        "displayName": "Forest_Villa_Key",
+        "displayName": "Forest Villa Key",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "0",
@@ -17129,7 +17129,7 @@
         "consumable": "NF"
     },
     "Key2": {
-        "displayName": "Efaunt's_Tomb_Key",
+        "displayName": "Efaunt's Tomb Key",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "1",
@@ -17147,7 +17147,7 @@
         "consumable": "OF"
     },
     "Key3": {
-        "displayName": "Chizoar's_Cavern_Key",
+        "displayName": "Chizoar's Cavern Key",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "1",
@@ -17165,7 +17165,7 @@
         "consumable": "PF"
     },
     "ObolFrag": {
-        "displayName": "Obol_Fragment",
+        "displayName": "Obol Fragment",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "-1",
@@ -17183,7 +17183,7 @@
         "consumable": "QF"
     },
     "DoubleAFKtix": {
-        "displayName": "Double_AFK_Gain|Ticket",
+        "displayName": "Double AFK Gain Ticket",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "-1",
@@ -17201,7 +17201,7 @@
         "consumable": "RF"
     },
     "TixCol": {
-        "displayName": "Colosseum_Ticket",
+        "displayName": "Colosseum Ticket",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "-1",
@@ -17219,7 +17219,7 @@
         "consumable": "SF"
     },
     "DeliveryBox": {
-        "displayName": "Delivery_Box",
+        "displayName": "Delivery Box",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "-1",
@@ -17237,7 +17237,7 @@
         "consumable": "TF"
     },
     "SilverPen": {
-        "displayName": "Silver_Pen",
+        "displayName": "Silver Pen",
         "sellPrice": "50",
         "typeGen": "dCurrency",
         "ID": "-1",
@@ -17273,7 +17273,7 @@
         "consumable": "VF"
     },
     "TalentPoint1": {
-        "displayName": "Talent_Point|Tab_1",
+        "displayName": "Talent Point Tab 1",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "0",
@@ -17291,7 +17291,7 @@
         "consumable": "WF"
     },
     "TalentPoint2": {
-        "displayName": "Talent_Point|Tab_2",
+        "displayName": "Talent Point Tab 2",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "1",
@@ -17309,7 +17309,7 @@
         "consumable": "XF"
     },
     "TalentPoint3": {
-        "displayName": "Talent_Point|Tab_3",
+        "displayName": "Talent Point Tab 3",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "2",
@@ -17327,7 +17327,7 @@
         "consumable": "YF"
     },
     "TalentPoint4": {
-        "displayName": "Talent_Point|Tab_4",
+        "displayName": "Talent Point Tab 4",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "3",
@@ -17345,7 +17345,7 @@
         "consumable": "ZF"
     },
     "TalentPoint5": {
-        "displayName": "Talent_Point|Tab_4",
+        "displayName": "Talent Point Tab 4",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "4",
@@ -17363,7 +17363,7 @@
         "consumable": "$F"
     },
     "TalentPoint6": {
-        "displayName": "Talent_Point|Special_Tab",
+        "displayName": "Talent Point Special Tab",
         "sellPrice": "1",
         "typeGen": "dCurrency",
         "ID": "5",
@@ -17381,7 +17381,7 @@
         "consumable": "aG"
     },
     "Line1": {
-        "displayName": "Copper_Twine",
+        "displayName": "Copper Twine",
         "sellPrice": "3500",
         "typeGen": "dFishToolkit",
         "ID": "1",
@@ -17399,7 +17399,7 @@
         "consumable": "bG"
     },
     "Line2": {
-        "displayName": "Silver_Twine",
+        "displayName": "Silver Twine",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "2",
@@ -17417,7 +17417,7 @@
         "consumable": "cG"
     },
     "Line3": {
-        "displayName": "Gold_Twine",
+        "displayName": "Gold Twine",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "3",
@@ -17435,7 +17435,7 @@
         "consumable": "dG"
     },
     "Line4": {
-        "displayName": "Platinum_Twine",
+        "displayName": "Platinum Twine",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "4",
@@ -17453,7 +17453,7 @@
         "consumable": "eG"
     },
     "Line5": {
-        "displayName": "Leafy_Vines",
+        "displayName": "Leafy Vines",
         "sellPrice": "7500",
         "typeGen": "dFishToolkit",
         "ID": "5",
@@ -17471,7 +17471,7 @@
         "consumable": "fG"
     },
     "Line6": {
-        "displayName": "Fun_Flags",
+        "displayName": "Fun Flags",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "6",
@@ -17489,7 +17489,7 @@
         "consumable": "gG"
     },
     "Line7": {
-        "displayName": "Electrical_Wiring",
+        "displayName": "Electrical Wiring",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "7",
@@ -17507,7 +17507,7 @@
         "consumable": "hG"
     },
     "Line8": {
-        "displayName": "Wiener_Links",
+        "displayName": "Wiener Links",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "8",
@@ -17525,7 +17525,7 @@
         "consumable": "iG"
     },
     "Line9": {
-        "displayName": "Zeus_Gon_Fishin",
+        "displayName": "Zeus Gon Fishin",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "9",
@@ -17544,7 +17544,7 @@
     },
     "Line10": {
         "displayName": "Needledrop",
-        "sellPrice": "15e3",
+        "sellPrice": "15000",
         "typeGen": "dFishToolkit",
         "ID": "10",
         "Type": "FISHING_ACCESSORY",
@@ -17561,7 +17561,7 @@
         "consumable": "kG"
     },
     "Line11": {
-        "displayName": "Spoons_Lol",
+        "displayName": "Spoons Lol",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "11",
@@ -17579,7 +17579,7 @@
         "consumable": "lG"
     },
     "Line12": {
-        "displayName": "Its_a_Boy|Celebration",
+        "displayName": "Its a Boy Celebration",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "12",
@@ -17597,7 +17597,7 @@
         "consumable": "mG"
     },
     "Line13": {
-        "displayName": "Its_a_Girl|Celebration",
+        "displayName": "Its a Girl Celebration",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "13",
@@ -17615,7 +17615,7 @@
         "consumable": "nG"
     },
     "Line14": {
-        "displayName": "Its_Alright|Celebration",
+        "displayName": "Its Alright Celebration",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "14",
@@ -17633,8 +17633,8 @@
         "consumable": "oG"
     },
     "Weight1": {
-        "displayName": "Wormie_Weight",
-        "sellPrice": "5e3",
+        "displayName": "Wormie Weight",
+        "sellPrice": "5000",
         "typeGen": "dFishToolkit",
         "ID": "1",
         "Type": "FISHING_ACCESSORY",
@@ -17651,7 +17651,7 @@
         "consumable": "pG"
     },
     "Weight2": {
-        "displayName": "Iron_Hook",
+        "displayName": "Iron Hook",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "2",
@@ -17669,7 +17669,7 @@
         "consumable": "qG"
     },
     "Weight3": {
-        "displayName": "Basic_Bobber",
+        "displayName": "Basic Bobber",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "3",
@@ -17687,7 +17687,7 @@
         "consumable": "rG"
     },
     "Weight4": {
-        "displayName": "Dualhook_Prongs",
+        "displayName": "Dualhook Prongs",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "4",
@@ -17705,8 +17705,8 @@
         "consumable": "sG"
     },
     "Weight5": {
-        "displayName": "One_Pound_of|Steel",
-        "sellPrice": "1e4",
+        "displayName": "One Pound of Steel",
+        "sellPrice": "10000",
         "typeGen": "dFishToolkit",
         "ID": "5",
         "Type": "FISHING_ACCESSORY",
@@ -17723,7 +17723,7 @@
         "consumable": "tG"
     },
     "Weight6": {
-        "displayName": "One_Pound_of|Feathers",
+        "displayName": "One Pound of Feathers",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "6",
@@ -17741,7 +17741,7 @@
         "consumable": "uG"
     },
     "Weight7": {
-        "displayName": "Massless_Unit_for|Physics_Questions",
+        "displayName": "Massless Unit for Physics Questions",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "7",
@@ -17759,7 +17759,7 @@
         "consumable": "vG"
     },
     "Weight8": {
-        "displayName": "Literal_Elephant",
+        "displayName": "Literal Elephant",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "8",
@@ -17777,7 +17777,7 @@
         "consumable": "wG"
     },
     "Weight9": {
-        "displayName": "Valve_Patented|Circle_Thingies",
+        "displayName": "Valve Patented Circle Thingies",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "9",
@@ -17813,8 +17813,8 @@
         "consumable": "yG"
     },
     "Weight11": {
-        "displayName": "Not_Dynamite",
-        "sellPrice": "55e3",
+        "displayName": "Not Dynamite",
+        "sellPrice": "55000",
         "typeGen": "dFishToolkit",
         "ID": "11",
         "Type": "FISHING_ACCESSORY",
@@ -17831,7 +17831,7 @@
         "consumable": "zG"
     },
     "Weight12": {
-        "displayName": "Triple_Threat",
+        "displayName": "Triple Threat",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "12",
@@ -17849,7 +17849,7 @@
         "consumable": "AG"
     },
     "Weight13": {
-        "displayName": "Crash_Box",
+        "displayName": "Crash Box",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "11",
@@ -17867,7 +17867,7 @@
         "consumable": "BG"
     },
     "Weight14": {
-        "displayName": "Fat_Albert",
+        "displayName": "Fat Albert",
         "sellPrice": "50",
         "typeGen": "dFishToolkit",
         "ID": "12",
@@ -19594,7 +19594,7 @@
         "consumable": "sI"
     },
     "CardPack1": {
-        "displayName": "Newbie_Card_Pack",
+        "displayName": "Newbie Card Pack",
         "sellPrice": "1",
         "typeGen": "dCardPack",
         "ID": "0",
@@ -19612,7 +19612,7 @@
         "consumable": "tI"
     },
     "CardPack2": {
-        "displayName": "Ancient_Card_Pack",
+        "displayName": "Ancient Card Pack",
         "sellPrice": "1",
         "typeGen": "dCardPack",
         "ID": "0",
@@ -19630,7 +19630,7 @@
         "consumable": "uI"
     },
     "EquipmentHats31": {
-        "displayName": "Smitty's_Bubble|Blowing_Hat",
+        "displayName": "Smitty's Bubble Blowing Hat",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "35",
@@ -19655,7 +19655,7 @@
         "equip": "Jv"
     },
     "EquipmentHats32": {
-        "displayName": "Bandit_Bob_Mask",
+        "displayName": "Bandit Bob Mask",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "36",
@@ -19680,7 +19680,7 @@
         "equip": "Kv"
     },
     "EquipmentHats33": {
-        "displayName": "Paper_Bag",
+        "displayName": "Paper Bag",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "37",
@@ -19730,7 +19730,7 @@
         "equip": "Mv"
     },
     "EquipmentHats35": {
-        "displayName": "Diamon_Horns",
+        "displayName": "Diamon Horns",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "39",
@@ -19755,7 +19755,7 @@
         "equip": "Nv"
     },
     "EquipmentHats36": {
-        "displayName": "Halloween_Pumpkin",
+        "displayName": "Halloween Pumpkin",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "40",
@@ -19780,7 +19780,7 @@
         "equip": "Ov"
     },
     "EquipmentHats40": {
-        "displayName": "Pardoned_Turkey",
+        "displayName": "Pardoned Turkey",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "43",
@@ -19805,7 +19805,7 @@
         "equip": "Pv"
     },
     "EquipmentHats37": {
-        "displayName": "Hotdog_Hero",
+        "displayName": "Hotdog Hero",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "41",
@@ -19830,7 +19830,7 @@
         "equip": "Qv"
     },
     "EquipmentHats38": {
-        "displayName": "Invisible_Hat",
+        "displayName": "Invisible Hat",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "0",
@@ -19880,7 +19880,7 @@
         "equip": "Sv"
     },
     "EquipmentHats47": {
-        "displayName": "Pop_Cat",
+        "displayName": "Pop Cat",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "50",
@@ -19905,7 +19905,7 @@
         "equip": "Tv"
     },
     "EquipmentHats48": {
-        "displayName": "Dairy_Dunk",
+        "displayName": "Dairy Dunk",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "51",
@@ -19930,7 +19930,7 @@
         "equip": "Uv"
     },
     "EquipmentHats49": {
-        "displayName": "The_Classic",
+        "displayName": "The Classic",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "52",
@@ -19955,7 +19955,7 @@
         "equip": "Vv"
     },
     "EquipmentHats50": {
-        "displayName": "Green_Beanie",
+        "displayName": "Green Beanie",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "53",
@@ -20005,7 +20005,7 @@
         "equip": "Xv"
     },
     "EquipmentHats45": {
-        "displayName": "Giftmas_Tree",
+        "displayName": "Giftmas Tree",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "48",
@@ -20030,7 +20030,7 @@
         "equip": "Yv"
     },
     "EquipmentHats57": {
-        "displayName": "Big_Bunny",
+        "displayName": "Big Bunny",
         "sellPrice": "1",
         "typeGen": "aHelmetMTX",
         "ID": "60",
@@ -20055,7 +20055,7 @@
         "equip": "Zv"
     },
     "GemP1": {
-        "displayName": "Infinite_Forge",
+        "displayName": "Infinite Forge",
         "sellPrice": "1",
         "typeGen": "aError",
         "ID": "0",

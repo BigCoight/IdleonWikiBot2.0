@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=BEGINNER
+|level=30
+|type=HELMET
+|wis=6
+|upgrade=5
+|defence=5
+|sellprice=200
+}}

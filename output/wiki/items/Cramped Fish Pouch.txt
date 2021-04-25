@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=Fishing
+|level=50
+|type=CARRY_BAG
+|speed=-25
+|weaponpower=4
+|skillpower=4
+|str=3
+|reach=10
+|sellprice=200
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=Eugh whats this WATER doing around my ice???
+|sellprice=200
+|source=Frost_Flake
+}}

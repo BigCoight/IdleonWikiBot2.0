@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=WARRIOR
+|level=85
+|type=SWORD
+|speed=7
+|weaponpower=36
+|skillpower=36
+|wis=6
+|luck=8
+|reach=74
+|upgrade=2
+|sellprice=200
+}}

@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=ALL
+|level=20
+|type=HATCHET
+|speed=2
+|weaponpower=19
+|skillpower=19
+|wis=8
+|luck=4
+|upgrade=2
+|sellprice=10000
+|source=Dr_Defecaus
+}}

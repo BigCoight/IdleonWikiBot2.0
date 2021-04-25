@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=PREMIUM_HELMET
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=7
+|sellprice=1
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=HONK! HONK!
+|sellprice=3
+|source=Trapping
+}}

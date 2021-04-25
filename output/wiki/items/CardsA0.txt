@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=mushG
+|sellprice=1
+|source=Green_Mushroom
+}}

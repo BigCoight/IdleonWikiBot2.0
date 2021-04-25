@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=Argg, yer spendin' all me money!
+|sellprice=3
+|source=Trapping
+}}

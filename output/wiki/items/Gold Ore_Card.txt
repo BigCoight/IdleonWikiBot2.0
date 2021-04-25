@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Gold
+|sellprice=1
+|source=Gold
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|class=ALL
+|level=999
+|type=ANVIL_RECIPE
+|sellprice=1
+}}

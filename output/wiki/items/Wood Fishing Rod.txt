@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=4
+|type=FISHING_ROD
+|speed=3
+|weaponpower=3
+|skillpower=3
+|str=1
+|upgrade=2
+|sellprice=200
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=Adorable!!! Look how cute it's tail is, and that itty bitty nose, and the fact that it's a mouse and not a rat so I don't want to hit it with a broom!
+|sellprice=3
+|source=Trapping
+}}

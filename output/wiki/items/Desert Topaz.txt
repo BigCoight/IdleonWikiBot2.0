@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Restores power to the Desert Portal in the Grasslands Town.
+|sellprice=1
+}}

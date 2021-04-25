@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=MAGE
+|level=30
+|type=WAND
+|speed=3
+|weaponpower=23
+|skillpower=23
+|agi=1
+|wis=11
+|reach=160
+|upgrade=3
+|sellprice=10000
+}}

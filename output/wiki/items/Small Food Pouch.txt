@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=Foods
+|level=100
+|type=CARRY_BAG
+|speed=118
+|weaponpower=2
+|skillpower=2
+|str=3
+|reach=10
+|sellprice=5800
+|source=Funguy
+}}

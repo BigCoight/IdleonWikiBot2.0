@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=50
+|type=SHOES
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|upgrade=3
+|defence=15
+|sellprice=20000
+}}

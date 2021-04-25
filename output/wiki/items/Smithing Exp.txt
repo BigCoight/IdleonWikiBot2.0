@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=EXPERIENCE
+|description=A little ball of pure energy! It's sole purpose is to give the creator smithing exp. It is basically useless in its crafted state.
+|sellprice=1
+}}

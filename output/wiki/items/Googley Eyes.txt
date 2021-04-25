@@ -1,0 +1,4 @@
+{{ItemInfo
+|type=SUMMON_ITEM
+|sellprice=100
+}}

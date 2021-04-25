@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=GOLDEN_FOOD
+|description=Increases Damage Dealt to all monsters by 20%. Golden foods are never consumed.
+|sellprice=200
+|source=Sandstone_Silver_Chest, Frostbite_Silver_Chest, [[Post Office#Dudes Next Door|Dudes Next Door]], Picnic_Stowaway, Picnic_Stowaway, Picnic_Stowaway, Picnic_Stowaway
+}}

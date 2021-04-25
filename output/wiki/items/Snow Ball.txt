@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=If you have two of these together, please be careful what other objects you put near them, I need to keep this game age appropirate!
+|sellprice=200
+|source=Snowman
+}}

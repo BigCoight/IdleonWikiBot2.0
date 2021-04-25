@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=TROPHY
+|str=3
+|agi=3
+|wis=3
+|luck=3
+|defence=3
+|sellprice=69
+}}

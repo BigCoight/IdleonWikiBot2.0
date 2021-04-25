@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=It's like a monocle, but not quite.
+|sellprice=180
+|source=Sand_Giant
+}}

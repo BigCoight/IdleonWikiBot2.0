@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=OakTree Oak Tree
+|sellprice=1
+|source=Oak_Tree
+}}

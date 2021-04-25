@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=8
+|type=HATCHET
+|speed=3
+|weaponpower=7
+|skillpower=7
+|agi=1
+|wis=3
+|upgrade=2
+|sellprice=650
+}}

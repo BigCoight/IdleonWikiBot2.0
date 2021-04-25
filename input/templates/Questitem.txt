@@ -1,6 +1,0 @@
-{{questitem
-|quest=
-|description=
-|source=
-|sellprice=
-}}

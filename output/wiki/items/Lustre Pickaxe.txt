@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=55
+|type=PICKAXE
+|speed=5
+|weaponpower=23
+|skillpower=23
+|str=20
+|agi=7
+|upgrade=4
+|sellprice=200
+}}

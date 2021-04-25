@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=35
+|type=PANTS
+|str=4
+|agi=4
+|wis=4
+|upgrade=3
+|defence=16
+|sellprice=15000
+|source=Sandstone_Golden_Chest, Frostbite_Golden_Chest
+}}

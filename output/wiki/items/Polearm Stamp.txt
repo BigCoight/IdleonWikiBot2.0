@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=7500
+|source=Papua_Piggea
+}}

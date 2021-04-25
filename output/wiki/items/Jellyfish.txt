@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=FISH
+|description=Don't let it sting you, unless you're into getting tinkled on by random beach-goers.
+|sellprice=14
+|source=Fishing, Sandstone_Silver_Chest, Frostbite_Silver_Chest
+}}

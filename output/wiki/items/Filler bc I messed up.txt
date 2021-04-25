@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Filler.
+|sellprice=1
+}}

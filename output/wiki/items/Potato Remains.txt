@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=Mashed potatos, I get it!
+|sellprice=133
+|source=Mashed_Potato
+}}

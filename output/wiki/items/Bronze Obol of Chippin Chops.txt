@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=CIRCLE_OBOL
+|weaponpower=1
+|skillpower=1
+|sellprice=1
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Proof that you completed all of the Woodsman's quests!
+|sellprice=700
+|source=Woodsman
+}}

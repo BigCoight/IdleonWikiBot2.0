@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=Bugs
+|level=250
+|type=CARRY_BAG
+|speed=-5
+|weaponpower=5
+|skillpower=5
+|str=3
+|reach=10
+|sellprice=200
+}}

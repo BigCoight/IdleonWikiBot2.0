@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=5
+|type=TRAP_BOX_SET
+|speed=4
+|weaponpower=4
+|skillpower=4
+|agi=2
+|upgrade=1
+|sellprice=1
+}}

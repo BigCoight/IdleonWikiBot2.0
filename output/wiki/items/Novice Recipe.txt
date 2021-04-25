@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=999
+|type=ANVIL_RECIPE
+|sellprice=1
+|source=Mimic, Crabcake, Mafioso, Sand_Giant
+}}

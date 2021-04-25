@@ -1,0 +1,4 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|sellprice=1
+}}

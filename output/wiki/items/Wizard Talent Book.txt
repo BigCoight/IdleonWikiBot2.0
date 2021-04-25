@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=MAGE
+|level=999
+|type=TALENT_BOOK
+|str=3
+|sellprice=100
+}}

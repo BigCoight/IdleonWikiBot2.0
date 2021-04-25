@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=HEXAGON_OBOL
+|weaponpower=4
+|skillpower=4
+|agi=3
+|sellprice=20
+}}

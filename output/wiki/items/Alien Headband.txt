@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=13
+|type=HELMET
+|agi=3
+|wis=11
+|upgrade=3
+|defence=4
+|sellprice=1000
+|source=Promotheus
+}}

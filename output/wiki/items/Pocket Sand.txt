@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=This sand aint right, I tell you hwat!
+|sellprice=60
+|source=Sandy_Pot
+}}

@@ -1,0 +1,14 @@
+{{ItemInfo
+|class=ARCHER
+|level=30
+|type=BOW
+|speed=6
+|weaponpower=17
+|skillpower=17
+|str=5
+|agi=8
+|luck=3
+|reach=175
+|upgrade=3
+|sellprice=4000
+}}

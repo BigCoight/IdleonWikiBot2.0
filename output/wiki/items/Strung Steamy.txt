@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=PENDANT
+|str=1
+|agi=1
+|wis=1
+|luck=3
+|sellprice=1
+}}

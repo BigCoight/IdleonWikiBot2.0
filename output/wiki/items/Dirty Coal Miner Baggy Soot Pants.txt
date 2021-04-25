@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=25
+|type=PANTS
+|str=7
+|upgrade=3
+|defence=12
+|sellprice=200
+}}

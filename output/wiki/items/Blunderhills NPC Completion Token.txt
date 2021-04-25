@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Made up of all the tokens that you collected after completing an NPC's entire questline.
+|sellprice=30000
+}}

@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=WORSHIP_SKULL
+|speed=4
+|weaponpower=4
+|skillpower=4
+|agi=2
+|upgrade=1
+|sellprice=100
+}}

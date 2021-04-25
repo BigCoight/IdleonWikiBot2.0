@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=BAR
+|sellprice=7
+|source=Forging, Fire_Forge, Dewdrop_Bronze_Chest, Dewdrop_Silver_Chest
+}}

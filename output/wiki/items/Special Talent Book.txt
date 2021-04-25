@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=999
+|type=TALENT_BOOK
+|sellprice=100
+|source=Crystal_Carrot, Crystal_Crabal, Crystal_Cattle, Scripticus, Glumlee, Picnic_Stowaway, Rocklyte, SuperDropTable1, SuperDropTable1
+}}

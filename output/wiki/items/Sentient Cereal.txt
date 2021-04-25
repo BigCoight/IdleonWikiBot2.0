@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=BUG
+|sellprice=15
+|source=Catching, Sandstone_Silver_Chest, Frostbite_Silver_Chest
+}}

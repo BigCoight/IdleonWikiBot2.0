@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=2500
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
+}}

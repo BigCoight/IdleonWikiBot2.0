@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=60
+|type=RING
+|agi=8
+|luck=4
+|upgrade=4
+|defence=5
+|sellprice=1
+}}

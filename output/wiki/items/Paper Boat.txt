@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=30
+|type=HELMET
+|str=4
+|wis=10
+|upgrade=4
+|defence=12
+|sellprice=1500
+}}

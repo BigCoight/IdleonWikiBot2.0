@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MATERIAL
+|description=The big one is the Spur. The puny one is the Pinion. Have fun bragging in class when you get this question right on a test.
+|sellprice=80
+|source=[[Smithing#Production items|Anvil Production]]
+}}

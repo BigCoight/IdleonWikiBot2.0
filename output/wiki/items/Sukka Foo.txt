@@ -1,0 +1,4 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=10000
+}}

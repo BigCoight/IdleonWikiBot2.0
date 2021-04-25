@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=TIME_CANDY
+|description=Hold down to instantly get 1 Hour of AFK Gains.
+|sellprice=1
+|source=Scripticus, Desert_Davey, Mutton, Fishpaste97, Djonnut, Cowbo_Jones, Centurion, Loveulyte, Iceland_Irwin, DropTable13
+}}

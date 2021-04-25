@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=ALL
+|level=6
+|type=FISTICUFF
+|speed=5
+|weaponpower=11
+|skillpower=11
+|str=5
+|luck=5
+|reach=60
+|upgrade=2
+|sellprice=1800
+}}

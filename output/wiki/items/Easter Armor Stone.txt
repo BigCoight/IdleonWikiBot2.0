@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=UPGRADE
+|description=Drag onto any Armor to apply. +1 Defence +3 Random_Stat Success Chance; 30% Uses up 1 slots only if Successful
+|sellprice=100
+|source=Egggulyte, Egg_Capsule, Floofie, Shell_Snake
+}}

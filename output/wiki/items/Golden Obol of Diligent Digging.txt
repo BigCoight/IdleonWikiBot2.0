@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SQUARE_OBOL
+|weaponpower=3
+|skillpower=3
+|str=2
+|sellprice=8
+}}

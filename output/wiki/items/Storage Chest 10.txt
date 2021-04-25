@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=STORAGE_
+|reach=10
+|sellprice=25000
+|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]]
+}}

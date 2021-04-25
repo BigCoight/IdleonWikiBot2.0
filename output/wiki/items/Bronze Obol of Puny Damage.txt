@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=CIRCLE_OBOL
+|sellprice=1
+|source=Obol_Altar
+}}

@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=BEGINNER
+|level=10
+|type=HELMET
+|luck=5
+|upgrade=5
+|defence=10
+|sellprice=1500
+}}

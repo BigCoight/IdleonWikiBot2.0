@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=4
+|type=PICKAXE
+|speed=3
+|weaponpower=2
+|skillpower=2
+|str=1
+|sellprice=50
+|source=Scripticus
+}}

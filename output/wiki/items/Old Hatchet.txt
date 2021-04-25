@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=4
+|type=HATCHET
+|speed=3
+|weaponpower=3
+|skillpower=3
+|wis=1
+|upgrade=1
+|sellprice=50
+|source=Woodsman
+}}

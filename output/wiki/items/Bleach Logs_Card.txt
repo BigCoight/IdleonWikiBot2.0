@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=BirchTree Birch Tree
+|sellprice=1
+|source=Birch_Tree
+}}

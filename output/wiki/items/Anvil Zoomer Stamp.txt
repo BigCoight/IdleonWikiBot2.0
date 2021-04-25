@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=800
+|source=DropTable1
+}}

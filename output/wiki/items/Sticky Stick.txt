@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=It's ALLLLL sticky!
+|sellprice=200
+|source=Bloque
+}}

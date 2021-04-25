@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=TROPHY
+|luck=7
+|sellprice=777
+|source=SuperDropTable1, SuperDropTable2
+}}

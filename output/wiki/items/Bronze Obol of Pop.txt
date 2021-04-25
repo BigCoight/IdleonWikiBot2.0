@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=CIRCLE_OBOL
+|luck=1
+|defence=1
+|sellprice=1
+|source=Gigafrog
+}}

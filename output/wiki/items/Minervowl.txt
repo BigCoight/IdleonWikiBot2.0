@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=It's a more expensive hoot, I guess. Sorry I ain't got no jokes for owls.
+|sellprice=3
+|source=Trapping
+}}

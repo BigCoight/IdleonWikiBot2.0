@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=TELEPORT
+|description=Hold down on this item to be teleported back to Town.
+|sellprice=50
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], Scripticus, Promotheus, DropTable2, DropTable3
+}}

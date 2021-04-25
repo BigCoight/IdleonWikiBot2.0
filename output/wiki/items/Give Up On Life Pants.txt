@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=7
+|type=PANTS
+|wis=6
+|upgrade=2
+|defence=3
+|sellprice=200
+|source=DropTable1
+}}

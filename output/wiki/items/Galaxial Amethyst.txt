@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Restores power to the Galaxy Portal in the glacier town, allowing travel to World 4!
+|sellprice=1
+}}

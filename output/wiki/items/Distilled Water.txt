@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=MATERIAL
+|sellprice=50
+|source=Carpetiem, Loominadi
+}}

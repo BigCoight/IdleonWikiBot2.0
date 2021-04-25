@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=The traditional gift given to those about to be victimized. A favorite amongst criminals!
+|sellprice=100
+}}

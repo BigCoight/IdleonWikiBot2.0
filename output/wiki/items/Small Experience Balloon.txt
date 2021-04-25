@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=EXP_BALLOON
+|sellprice=1
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], TP_Pete, TP_Pete, Sprout, Sprout, Scripticus, Picnic_Stowaway, Picnic_Stowaway, Promotheus, Stiltzcho, Builder_Bird, Papua_Piggea, Papua_Piggea, Bandit_Bob, Carpetiem, Loominadi, Cowbo_Jones, Cowbo_Jones, Cowbo_Jones, DropTable13
+}}

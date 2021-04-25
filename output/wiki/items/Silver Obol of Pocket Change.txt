@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SQUARE_OBOL
+|str=4
+|agi=1
+|wis=2
+|luck=4
+|sellprice=3
+}}

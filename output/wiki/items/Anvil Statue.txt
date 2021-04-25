@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=STATUE
+|description=A little monument to the efforts of a most devious coyote, whose dreams were always just out of reach, and whose head often felt the crushing blow of defeat.
+|sellprice=10
+|source=DropTable6
+}}

@@ -1,7 +1,0 @@
-{{resource
-|type=
-|skill=
-|description=
-|sellprice=
-|source=
-}}

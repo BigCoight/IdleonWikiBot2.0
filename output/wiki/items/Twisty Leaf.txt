@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=LEAF
+|sellprice=50
+|source=Choppin
+}}

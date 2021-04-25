@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SHIRT
+|upgrade=5
+|defence=5
+|sellprice=50
+}}

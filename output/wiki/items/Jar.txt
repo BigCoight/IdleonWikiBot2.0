@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=25
+|type=HELMET
+|upgrade=3
+|defence=25
+|sellprice=1
+|source=Snake_Jar
+}}

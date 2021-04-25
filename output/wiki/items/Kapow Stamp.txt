@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=2500
+|source=Gigafrog
+}}

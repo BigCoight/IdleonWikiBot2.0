@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ARCHER
+|level=10
+|type=HELMET
+|str=3
+|agi=6
+|upgrade=2
+|defence=9
+|sellprice=8500
+}}

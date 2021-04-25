@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=He was one of the good ones... Alas he is now just a pickle. Good for scaring a cat though!
+|sellprice=20000
+|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]]
+}}

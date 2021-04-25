@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=CARD
+|description=Fish2 Snail
+|sellprice=1
+}}

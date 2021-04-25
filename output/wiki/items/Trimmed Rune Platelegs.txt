@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=82
+|type=PANTS
+|str=4
+|agi=2
+|upgrade=5
+|defence=20
+|sellprice=200
+|source=King_Doot
+}}

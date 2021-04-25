@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=12
+|type=RING
+|weaponpower=3
+|skillpower=3
+|str=6
+|agi=2
+|upgrade=2
+|sellprice=2500
+}}

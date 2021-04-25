@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=TIME_CANDY
+|description=An entire day, just like that! Hold down to instantly get 24 Hour of AFK Gains.
+|sellprice=1
+|source=Stiltzcho, DropTable13
+}}

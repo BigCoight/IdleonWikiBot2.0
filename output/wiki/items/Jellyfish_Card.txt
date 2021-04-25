@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=CARD
+|description=Fish3 Jellyfish
+|sellprice=1
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=UPGRADE
+|description=Drag onto any Equip to apply. +3 Mystery_Stat Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
+|sellprice=777
+|source=Nightmare_Amarok, Nightmare_Amarok, Biggie_Hours, King_Doot, Bushlyte, Bushlyte, Bushlyte, Rocklyte, Tiki_Chief, Loominadi, Loominadi, Loominadi, SuperDropTable1, SuperDropTable2
+}}

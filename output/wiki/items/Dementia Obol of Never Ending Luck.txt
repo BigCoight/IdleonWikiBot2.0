@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SPARKLE_OBOL
+|luck=10
+|sellprice=50
+}}

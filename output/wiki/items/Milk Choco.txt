@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=HEALTH_FOOD
+|description=Auto-Used when your health goes below 80%. Restores 420 HP. Has a 20 second Cooldown.
+|sellprice=10
+|source=Loveulyte, Chocco_Box, Valentslime
+}}

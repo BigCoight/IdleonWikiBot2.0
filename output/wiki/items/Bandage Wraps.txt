@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=BEGINNER
+|level=25
+|type=FISTICUFF
+|speed=7
+|weaponpower=20
+|skillpower=20
+|str=6
+|luck=10
+|reach=65
+|upgrade=3
+|sellprice=7800
+}}

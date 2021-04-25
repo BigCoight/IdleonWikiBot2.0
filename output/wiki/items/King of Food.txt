@@ -1,0 +1,14 @@
+{{ItemInfo
+|class=ALL
+|level=65
+|type=TROPHY
+|weaponpower=3
+|skillpower=3
+|str=10
+|agi=10
+|wis=10
+|luck=10
+|defence=25
+|sellprice=10000
+|source=Picnic_Stowaway
+}}

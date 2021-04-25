@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=55
+|type=RING
+|weaponpower=4
+|skillpower=4
+|upgrade=4
+|defence=6
+|sellprice=200
+|source=Meel
+}}

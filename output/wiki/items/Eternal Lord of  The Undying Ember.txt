@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=CRITTER
+|sellprice=3
+|source=Trapping
+}}

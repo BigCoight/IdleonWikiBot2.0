@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|sellprice=1
+|source=Rat, Rat
+}}

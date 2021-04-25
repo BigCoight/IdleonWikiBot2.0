@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=MAGE
+|level=30
+|type=SHOES
+|wis=9
+|upgrade=3
+|defence=4
+|sellprice=200
+}}

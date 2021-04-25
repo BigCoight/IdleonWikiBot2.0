@@ -1,6 +1,6 @@
 import json 
 import numpy as np
-from libs.funcLib import fix
+from libs.funcLib import fix, repU
 from libs.jsonEncoder import CompactJSONEncoder
 
 
@@ -38,7 +38,7 @@ def combineDescription(data):
 	desc = []
 	for i in range(start,9):
 		if data[f'desc_line{i}'] != "Filler":
-			desc.append(data[f'desc_line{i}'])
+			desc.append(repU(data[f'desc_line{i}'],True))
 		del data[f'desc_line{i}']
 	data['description'] = desc
 
@@ -56,17 +56,33 @@ def addAtrToDesc(data):
 			newDesc.append(line.replace(']',data['Cooldown']))
 			del data['Cooldown']
 			added = True
+		if '*' in line:
+			newDesc.append(line.replace('*',data["Amount"]))
+			del data["Amount"]
+			added = True
+		if '#' in line:
+			newDesc.append(line.replace('#',data["Trigger"]))
+			del data["Trigger"]
+			added = True
 		if not added:
 			newDesc.append(line)
 		
 	data['description'] = newDesc
 
-def splitStampData(data,items):
+def splitStampData(data):
 	#Split the stamp data into a sub atribute
 	stampData = data['description'][0].split(',')
 	del data['description']
 	data['stampData'] = [fix(x) for x in stampData]
 
+def addUpgradeData(data):
+	upgrades = data["Effect"].split('.')
+	upgrades.reverse()
+	del data["Effect"]
+	for upgrade in upgrades:
+		up, no = upgrade.split(',')
+		data['description'].insert(1,f'+{no} {up}')
+		
 def allItemsStart(items):
 	typeToSource = {
 		"bOre":"Mining",
@@ -77,7 +93,6 @@ def allItemsStart(items):
 		'dBugs':"Catching",
 		'dCritters':"Trapping",
 		'dSouls':"Worshiping?",
-
 	}
 	for name,data in items.items():
 		data['sources'] = []
@@ -87,15 +102,17 @@ def allItemsStart(items):
 		addAtrToDesc(data)
 		typeGen = data["typeGen"]
 		if typeGen == "aStamp":
-			splitStampData(data,items)
-		elif source := typeToSource.get(typeGen):
+			splitStampData(data)
+		elif typeGen == "dStone":
+			addUpgradeData(data)
+		if source := typeToSource.get(typeGen):
 			data["sources"].append(source)
 
 def allItemsEnd(items):
 	for name,data in items.items():
 		if data["typeGen"] == "aStamp":
 			if item := items.get(data["stampData"][5]):
-				item["uses"].append((nameDic[name],"Lots","Stamps"))
+				item["uses"].append((f'[[{nameDic[name]}]]',"Lots","Stamps"))
 		if data["detdrops"]:
 			res = []
 			done = set()
@@ -140,24 +157,20 @@ def getDetailedTotals(item):
 	detrecipe = item["detrecipe"]
 	currentDepth = -1
 	def addToTotals(item,number):
-		if item in totals.keys():
-			totals[item] += int(number)
-		else:
-			totals[item] = int(number)
+		totals[item] = totals.get(item,0) + int(number)
 	while counter != 4:
 		if i == len(detrecipe):
 			addToTotals(detrecipe[i-1][1],detrecipe[i-1][2])
 			break
 		if currentDepth < detrecipe[i][0]:#If we see an item with a higher depth that means there is a sub recipe
 			currentDepth = detrecipe[i][0]#we set this to our current depth untill we find the smallest subrecipe
-			i += 1#move on
 		elif currentDepth == detrecipe[i][0]:#This means we are in the subrecipe
 			addToTotals(detrecipe[i-1][1],detrecipe[i-1][2])#We add it, since this is our subrecipe
-			i += 1
 		else:#If we reach the end of the sub recipe
+			addToTotals(detrecipe[i-1][1],detrecipe[i-1][2])
 			currentDepth = -1
 			counter += 1
-			i+=1
+		i += 1
 	item["detRecipeTotals"] = [(n, v) for n, v in totals.items()]
 
 def deleteFiller(items):
@@ -179,7 +192,7 @@ def droptableToEnem(enemies,droptables):
 		if drops := enem.get("Drops"):
 			for drop in drops:
 				if drop[0][:9] == "DropTable":
-					addElement(drop[0],[name] + drop[1:3])
+					addElement(drop[0],[f'[[{enem["Name"]}]]'] + drop[1:3])
 	for name, droptable in droptables.items():
 		for drop in droptable:
 			if drop[0][:5] == "Super":
@@ -250,10 +263,10 @@ def main():
 	for name,po in postOffices.items():
 		for req in po["Orders"].keys():
 			if item := items.get(req):
-				item["uses"].append((name,"Lots",'Post Office'))
+				item["uses"].append((f'[[Post Office#{name}|{name}]]',"Lots",'Post Office'))
 		for rew in po["Rewards"].keys():
 			if item := items.get(rew):
-				item["sources"].append(name)
+				item["sources"].append(f'[[Post Office#{name}|{name}]]')
 	#Adding in all recipes data to the items and adding in uses.
 	for tab in recipes:
 		for name,recipe in tab.items():
@@ -262,7 +275,7 @@ def main():
 				item["detrecipe"] = []
 			for sub in recipe["recipe"]:
 				if subItem := items.get(sub[0]):
-					subItem["uses"].append((nameDic[name],sub[1],"Crafting"))
+					subItem["uses"].append((f'[[{nameDic[name]}]]',sub[1],"Crafting"))
 	#Configure the detailed recipe
 	for tab in recipes:
 		for name,recipe in tab.items():
@@ -277,7 +290,7 @@ def main():
 				requirements = zip(dline['ItemTypeReq'],dline['ItemNumReq'])
 				for req,num in requirements:
 					if item := items.get(req):
-						item["uses"].append((dline["Name"],num,"Quests"))
+						item["uses"].append((f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]',num,"Quests"))
 			#Add in sources for rewards and smithing recipe.
 			if dline["Type"] not in  ["None","SpaceRequired","LevelReq"]:
 				rewards = dline['Rewards']
@@ -294,7 +307,7 @@ def main():
 		for bname,bubble in bubbles.items():
 			for req,n in bubble["requirements"]:
 				if item := items.get(req):
-					item["uses"].append((bname,"Lots","Alchemy"))
+					item["uses"].append((f'[[{cname}#{bname}|{bname}]]',"Lots","Alchemy"))
 	#add in card data
 	for section, cards in cardData.items():
 		for name,card in cards.items():

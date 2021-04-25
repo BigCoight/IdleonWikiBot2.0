@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=A tiny ketchup bottle, small enough for a Frog to use. Would go great with some Mustard!
+|sellprice=1
+|source=Frog
+}}

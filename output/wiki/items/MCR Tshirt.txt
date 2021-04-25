@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=25
+|type=SHIRT
+|weaponpower=2
+|skillpower=2
+|agi=8
+|upgrade=4
+|defence=1
+|sellprice=200
+|source=Sprout
+}}

@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SQUARE_OBOL
+|wis=4
+|luck=6
+|sellprice=8
+}}

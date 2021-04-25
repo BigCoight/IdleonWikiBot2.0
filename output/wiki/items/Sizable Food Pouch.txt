@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=Foods
+|level=500
+|type=CARRY_BAG
+|speed=170
+|weaponpower=2
+|skillpower=2
+|str=3
+|reach=10
+|sellprice=5800
+}}

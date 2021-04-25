@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Bug3 Jellyfish
+|sellprice=1
+|source=Sentient_Cereal
+}}

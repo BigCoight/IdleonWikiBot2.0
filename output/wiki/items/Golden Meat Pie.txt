@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=GOLDEN_FOOD
+|description=Increases your Total Defence by 50. Golden foods are never consumed
+|sellprice=350
+|source=Sandstone_Golden_Chest, Frostbite_Golden_Chest, Picnic_Stowaway, Picnic_Stowaway, Picnic_Stowaway, SuperDropTable2
+}}

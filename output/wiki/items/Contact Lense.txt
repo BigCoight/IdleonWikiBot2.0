@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=It's the only transparent item in IdleOn! If they weren't, they'd just be pirate eyepatches after all...
+|sellprice=200
+|source=Neyeptune
+}}

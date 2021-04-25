@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=mushR
+|sellprice=1
+|source=Red_Mushroom
+}}

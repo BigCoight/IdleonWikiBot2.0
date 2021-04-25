@@ -1,0 +1,14 @@
+{{ItemInfo
+|class=ALL
+|level=50
+|type=TROPHY
+|weaponpower=2
+|skillpower=2
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|defence=15
+|sellprice=69
+|source=Scripticus
+}}

@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=An empty box, the perfect place to put all your Hermit Cans, Megalodon teeth, and pure water... that you don't have anymore haha!
+|sellprice=7
+}}

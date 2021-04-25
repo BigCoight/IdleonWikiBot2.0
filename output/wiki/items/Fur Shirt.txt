@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ARCHER
+|level=18
+|type=SHIRT
+|str=5
+|agi=9
+|upgrade=3
+|defence=13
+|sellprice=200
+}}

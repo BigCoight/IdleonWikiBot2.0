@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=BUG
+|description=LOL I had my fingers crossed!
+|sellprice=20
+|source=Catching
+}}

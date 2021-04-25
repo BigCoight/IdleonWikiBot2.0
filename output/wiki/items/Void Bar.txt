@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=BAR
+|sellprice=6800
+|source=Forging, Cinder_Forge
+}}

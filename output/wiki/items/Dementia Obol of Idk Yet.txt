@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=SPARKLE_OBOL
+|weaponpower=5
+|skillpower=5
+|agi=5
+|sellprice=50
+}}

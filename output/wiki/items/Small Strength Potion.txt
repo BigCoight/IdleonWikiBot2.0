@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=BOOST_FOOD
+|description=Increases Base Dmg by 10. 15% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|sellprice=5
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], DropTable5, DropTable11, DropTable12
+}}

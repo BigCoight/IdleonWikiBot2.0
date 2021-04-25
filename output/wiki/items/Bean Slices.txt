@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=There's something disturbing about how these beans have bones. Not as disturbing as how they also have eyeballs and walk around, but still disturbing anyway.
+|sellprice=7
+|source=Bored_Bean
+}}

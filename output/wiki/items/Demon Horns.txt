@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=ALL
+|level=15
+|type=HELMET
+|weaponpower=5
+|skillpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|defence=10000
+|sellprice=200
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=STATUE
+|description=A stone statue sculpted in the likeness of an absolute unit. Give this to the Statue Man in return for some bonus stats.
+|sellprice=10
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Post Office#Simple Shippin|Simple Shippin]], Town_Marble, Bandit_Bob, DropTable2
+}}

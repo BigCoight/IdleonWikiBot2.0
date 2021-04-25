@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=MAGE
+|level=10
+|type=HELMET
+|wis=8
+|luck=1
+|upgrade=2
+|defence=7
+|sellprice=8500
+}}

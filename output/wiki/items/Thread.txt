@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MATERIAL
+|description=It's basically string cheese, but without the cheese.
+|sellprice=3
+|source=[[Smithing#Production items|Anvil Production]]
+}}

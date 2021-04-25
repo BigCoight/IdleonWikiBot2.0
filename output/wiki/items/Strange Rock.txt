@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Looks like the piece of a golem. It even has 'Made In Golemtopia' engraved on the side of it.
+|sellprice=1
+|source=Baby_Boa
+}}

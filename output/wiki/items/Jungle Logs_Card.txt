@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=JungleTree Jungle Tree
+|sellprice=1
+|source=Jungle_Tree
+}}

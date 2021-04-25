@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=BAR
+|sellprice=1
+|source=Forging
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MATERIAL
+|description=Ohh that's why it's called Cue tape!
+|sellprice=3
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
+}}

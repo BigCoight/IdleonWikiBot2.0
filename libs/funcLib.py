@@ -1,4 +1,5 @@
 import csv
+from os import execv
 def unScience(val):
     if val:
         if '.' in val:
@@ -10,8 +11,14 @@ def unScience(val):
                 return val
     return val
 
-def repU(val):
-    return val.replace('|',' ').replace('_',' ').title()
+def repU(val,t=False):
+    try:
+        if t:
+            return val.replace('|',' ').replace('_',' ')
+        else:
+            return val.replace('|',' ').replace('_',' ').title()
+    except:
+        return val
 
 def nameDic(val):
     with open('./input/raw/Names.csv', mode='r') as infile:

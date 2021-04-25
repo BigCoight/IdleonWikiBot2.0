@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=How many O's are in this item's name? Yep, you're right, there's six! Good job!
+|sellprice=95
+|source=Mafioso
+}}

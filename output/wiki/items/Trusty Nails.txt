@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MATERIAL
+|description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead!
+|sellprice=12
+|source=[[Smithing#Production items|Anvil Production]]
+}}

@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=CARD
+|description=Lustre Oak Tree
+|sellprice=1
+}}

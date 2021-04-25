@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Mmmmm, these nuts are so yuuuummy!
+|sellprice=100
+|source=Goldric
+}}

@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=HEALTH_FOOD
+|description=Auto-Used when your health goes below 50%. Restores 200 HP. Has a 30 second Cooldown.
+|sellprice=32
+|source=[[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]]
+}}

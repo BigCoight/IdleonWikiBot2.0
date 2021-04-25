@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Dementia
+|sellprice=1
+|source=Dementia
+}}

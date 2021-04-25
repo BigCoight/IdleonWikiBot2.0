@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=Dodo tshh do dodo tss dodo tss badabada dodoooo
+|sellprice=3
+|source=Trapping
+}}

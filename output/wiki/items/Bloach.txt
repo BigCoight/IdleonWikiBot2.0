@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=FISH
+|description=The result of putting Blood and Leech into a bad pokemon generator.
+|sellprice=18
+|source=Fishing, Sandstone_Golden_Chest, Frostbite_Golden_Chest
+}}

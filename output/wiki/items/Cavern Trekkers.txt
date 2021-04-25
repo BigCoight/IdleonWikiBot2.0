@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=WARRIOR
+|level=30
+|type=SHOES
+|str=5
+|wis=1
+|upgrade=3
+|defence=10
+|sellprice=3000
+}}

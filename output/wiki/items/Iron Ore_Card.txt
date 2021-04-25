@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Iron
+|sellprice=1
+|source=Iron
+}}

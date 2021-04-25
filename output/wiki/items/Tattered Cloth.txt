@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=MAGE
+|level=15
+|type=SHIRT
+|wis=8
+|luck=3
+|upgrade=2
+|sellprice=200
+|source=DropTable2
+}}

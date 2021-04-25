@@ -1,0 +1,6 @@
+{{ItemInfo
+|class=BEGINNER
+|level=999
+|type=TALENT_BOOK
+|sellprice=100
+}}

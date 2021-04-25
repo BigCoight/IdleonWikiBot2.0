@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=65
+|type=HATCHET
+|speed=5
+|weaponpower=29
+|skillpower=29
+|wis=24
+|luck=8
+|upgrade=2
+|sellprice=200
+}}

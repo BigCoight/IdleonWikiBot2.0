@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=CIRCLE_OBOL
+|str=2
+|sellprice=3
+|source=Carpetiem
+}}

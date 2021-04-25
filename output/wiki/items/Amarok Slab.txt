@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=A piece of rock from the big bad wolf himself. Careful, it's overflowing with green plasma energy! No wait, that's just some moss.
+|sellprice=250
+|source=Amarok, Chaotic_Amarok, Nightmare_Amarok
+}}

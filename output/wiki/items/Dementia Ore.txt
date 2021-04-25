@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=ORE
+|description=Smelt down 50 Ores into 1 Bar at the Forge. Smelting will take 3500 per Bar using Forge Slot 1.
+|sellprice=35
+|source=Mining, Sandstone_Golden_Chest, Frostbite_Golden_Chest
+}}

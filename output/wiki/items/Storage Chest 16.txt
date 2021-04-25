@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=STORAGE_
+|speed=290
+|reach=10
+|sellprice=100
+}}

@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=30
+|type=PENDANT
+|weaponpower=2
+|skillpower=2
+|wis=12
+|upgrade=4
+|sellprice=10000
+}}

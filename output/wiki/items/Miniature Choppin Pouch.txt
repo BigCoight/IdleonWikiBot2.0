@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=Chopping
+|level=25
+|type=CARRY_BAG
+|speed=-5
+|weaponpower=1
+|skillpower=1
+|str=3
+|reach=10
+|sellprice=200
+|source=Woodsman
+}}

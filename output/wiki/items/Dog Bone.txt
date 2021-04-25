@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|sellprice=7
+|source=Wode_Board
+}}

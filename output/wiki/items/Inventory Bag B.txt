@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=3
+|type=INVENTORY_
+|speed=-20
+|reach=10
+|sellprice=200
+|source=Scripticus
+}}

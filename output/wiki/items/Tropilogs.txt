@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=LOG
+|sellprice=20
+|source=Choppin, Sandstone_Silver_Chest, Frostbite_Silver_Chest
+}}

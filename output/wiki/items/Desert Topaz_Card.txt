@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Crystal1
+|sellprice=1
+|source=Crystal_Crabal
+}}

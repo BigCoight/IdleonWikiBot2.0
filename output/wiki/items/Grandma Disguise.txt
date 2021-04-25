@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=35
+|type=HELMET
+|wis=15
+|upgrade=6
+|defence=5
+|sellprice=1500
+|source=Amarok, Chaotic_Amarok, Nightmare_Amarok
+}}

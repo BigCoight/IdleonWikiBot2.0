@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=BAR
+|sellprice=460
+|source=Forging, Cinder_Forge, Sandstone_Golden_Chest, Frostbite_Golden_Chest
+}}

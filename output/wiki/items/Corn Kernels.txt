@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=I guess what they say about corn is true...
+|sellprice=30
+|source=Poop, Dr_Defecaus
+}}

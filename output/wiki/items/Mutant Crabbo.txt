@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CRITTER
+|description=Argghgg, yershpend annual memo knee!!... Yea mutants can't speak very well, probably on account of the radiation poisioning and all that. 
+|sellprice=3
+|source=Trapping
+}}

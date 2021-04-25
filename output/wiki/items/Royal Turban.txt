@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=70
+|type=HELMET
+|agi=15
+|upgrade=6
+|defence=7
+|sellprice=200
+|source=Efaunt, Chaotic_Efaunt, Nightmare_Amarok
+}}

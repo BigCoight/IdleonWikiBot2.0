@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=EXP_BALLOON
+|sellprice=1
+|source=Tiki_Chief, Constructor_Crow, Snake_Jar, Wellington, Dazey, Cowbo_Jones
+}}

@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=ANVIL_EXPANSION
+|description=Unlocks the 7th tab of craftable items for all anvils!
+|sellprice=1
+}}

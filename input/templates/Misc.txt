@@ -1,6 +1,0 @@
-{{misc
-|type=
-|description=
-|sellprice=
-|source=
-}}

@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=WARRIOR
+|level=50
+|type=SPEAR
+|speed=5
+|weaponpower=26
+|skillpower=26
+|str=12
+|wis=4
+|reach=80
+|upgrade=3
+|sellprice=26000
+}}

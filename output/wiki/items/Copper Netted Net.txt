@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=8
+|type=BUG_CATCHING_NET
+|speed=4
+|weaponpower=9
+|skillpower=9
+|str=1
+|agi=3
+|upgrade=2
+|sellprice=2000
+}}

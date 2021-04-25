@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=9
+|type=RING
+|str=3
+|upgrade=2
+|sellprice=4000
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
+}}

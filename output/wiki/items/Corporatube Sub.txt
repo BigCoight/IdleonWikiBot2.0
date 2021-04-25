@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Represents a single subscriber on the Corporatube Video Platform. It You'sed to be called something else, but no one around here remembers.
+|sellprice=1
+|source=Poop, Poop, Poop
+}}

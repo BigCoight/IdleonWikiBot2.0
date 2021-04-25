@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=HEALTH_FOOD
+|description=Auto-Used when your health goes below 30%. Restores 2000 HP. Has a 10 second Cooldown.
+|sellprice=300
+|source=Amarok, Chaotic_Amarok, Nightmare_Amarok
+}}

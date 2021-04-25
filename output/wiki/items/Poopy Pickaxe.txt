@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=15
+|type=PICKAXE
+|speed=2
+|weaponpower=18
+|skillpower=18
+|upgrade=6
+|defence=3
+|sellprice=200
+|source=Dr_Defecaus, TP_Pete
+}}

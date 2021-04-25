@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=CARD
+|description=Fish1 Goldfish
+|sellprice=1
+}}

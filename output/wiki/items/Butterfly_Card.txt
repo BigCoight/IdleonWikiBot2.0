@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Bug2 Butterflies
+|sellprice=1
+|source=Butterflies
+}}

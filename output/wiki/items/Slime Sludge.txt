@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=Ewww, slimey.
+|sellprice=10
+|source=Slime
+}}

@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|sellprice=100
+|source=DropTable6, DropTable7
+}}

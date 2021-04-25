@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=It's a bit small, so it's not quite an hourglass, is it.
+|sellprice=1
+|source=Biggie_Hours
+}}

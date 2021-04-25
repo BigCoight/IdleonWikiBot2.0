@@ -1,6 +1,6 @@
 {
     "Power Cauldron": {
-        "ROID_RAGIN": {
+        "Roid Ragin": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -10,7 +10,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "WARRIORS_RULE": {
+        "Warriors Rule": {
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
@@ -21,7 +21,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "HEARTY_DIGGY": {
+        "Hearty Diggy": {
             "x1": "50",
             "x2": "100",
             "func": "decay",
@@ -32,7 +32,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "WYOMING_BLOOD": {
+        "Wyoming Blood": {
             "x1": "23.5",
             "x2": "1.5",
             "func": "bigBase",
@@ -43,7 +43,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "REELY_SMART": {
+        "Reely Smart": {
             "x1": "100",
             "x2": "80",
             "func": "decay",
@@ -54,7 +54,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "BIG_MEATY_CLAWS": {
+        "Big Meaty Claws": {
             "x1": "1",
             "x2": "0.02",
             "func": "add",
@@ -65,7 +65,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "SPLOOSH_SPLOOSH": {
+        "Sploosh Sploosh": {
             "x1": "23.5",
             "x2": "1.5",
             "func": "bigBase",
@@ -75,7 +75,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "STRONK_TOOLS": {
+        "Stronk Tools": {
             "x1": "65",
             "x2": "70",
             "func": "decay",
@@ -86,7 +86,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "FMJ": {
+        "Fmj": {
             "x1": "0.5",
             "x2": "0",
             "func": "add",
@@ -98,7 +98,7 @@
                 ["Liquid2", "2"]
             ]
         },
-        "BAPPITY_BOOPITY": {
+        "Bappity Boopity": {
             "x1": "35",
             "x2": "100",
             "func": "decay",
@@ -112,7 +112,7 @@
         }
     },
     "Quicc Cauldron": {
-        "SWIFT_STEPPIN": {
+        "Swift Steppin": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -122,7 +122,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "ARCHER_OR_BUST": {
+        "Archer Or Bust": {
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
@@ -133,7 +133,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "HAMMER_HAMMER": {
+        "Hammer Hammer": {
             "x1": "23",
             "x2": "2",
             "func": "bigBase",
@@ -144,7 +144,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "LIL_BIG_DAMAGE": {
+        "Lil Big Damage": {
             "x1": "20",
             "x2": "100",
             "func": "decay",
@@ -155,7 +155,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "ANVILNOMICS": {
+        "Anvilnomics": {
             "x1": "40",
             "x2": "100",
             "func": "decay",
@@ -166,7 +166,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "QUICK_SLAP": {
+        "Quick Slap": {
             "x1": "1",
             "x2": "0.02",
             "func": "add",
@@ -177,7 +177,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "SANIC_TOOLS": {
+        "Sanic Tools": {
             "x1": "65",
             "x2": "70",
             "func": "decay",
@@ -188,7 +188,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "BUG]": {
+        "Bug]": {
             "x1": "23.5",
             "x2": "1.5",
             "func": "bigBase",
@@ -198,7 +198,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "SHAQURACY": {
+        "Shaquracy": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -210,7 +210,7 @@
                 ["Liquid2", "2"]
             ]
         },
-        "CHEAP_SHOT": {
+        "Cheap Shot": {
             "x1": "7",
             "x2": "100",
             "func": "decay",
@@ -224,7 +224,7 @@
         }
     },
     "High-IQ Cauldron": {
-        "STABLE_JENIUS": {
+        "Stable Jenius": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -234,7 +234,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "MAGE_IS_BEST": {
+        "Mage Is Best": {
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
@@ -245,7 +245,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "HOCUS_CHOPPUS": {
+        "Hocus Choppus": {
             "x1": "50",
             "x2": "100",
             "func": "decay",
@@ -256,7 +256,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "MOLTO_LOGGO": {
+        "Molto Loggo": {
             "x1": "23.5",
             "x2": "1.5",
             "func": "bigBase",
@@ -267,7 +267,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "NOODUBBLE": {
+        "Noodubble": {
             "x1": "100",
             "x2": "60",
             "func": "decay",
@@ -278,7 +278,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "NAME_I_GUESS2": {
+        "Name I Guess2": {
             "x1": "1",
             "x2": "0.02",
             "func": "add",
@@ -289,7 +289,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "LE_BRAIN_TOOLS": {
+        "Le Brain Tools": {
             "x1": "65",
             "x2": "70",
             "func": "decay",
@@ -300,7 +300,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "COOKIN_ROADKILL": {
+        "Cookin Roadkill": {
             "x1": "120",
             "x2": "70",
             "func": "decay",
@@ -310,7 +310,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "BREWSTACHIO": {
+        "Brewstachio": {
             "x1": "50",
             "x2": "100",
             "func": "decay",
@@ -322,7 +322,7 @@
                 ["Liquid2", "2"]
             ]
         },
-        "ALL_FOR_KILL": {
+        "All For Kill": {
             "x1": "40",
             "x2": "100",
             "func": "decay",
@@ -336,7 +336,7 @@
         }
     },
     "Kazam Cauldron": {
-        "LOTTO_SKILLS": {
+        "Lotto Skills": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -348,7 +348,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "DROPPIN_LOADS": {
+        "Droppin Loads": {
             "x1": "40",
             "x2": "70",
             "func": "decay",
@@ -359,7 +359,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "STARTUE_EXP": {
+        "Startue Exp": {
             "x1": "25",
             "x2": "60",
             "func": "decay",
@@ -370,7 +370,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "LEVEL_UP_GIFT": {
+        "Level Up Gift": {
             "x1": "100",
             "x2": "30",
             "func": "decay",
@@ -382,7 +382,7 @@
                 ["Liquid1", "2"]
             ]
         },
-        "PROWESESSARY": {
+        "Prowesessary": {
             "x1": "1.5",
             "x2": "60",
             "func": "decayMulti",
@@ -393,7 +393,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "STAMP_TRAMP": {
+        "Stamp Tramp": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -403,7 +403,7 @@
                 ["Liquid1", "4"]
             ]
         },
-        "UNDEVELOPED_COSTS": {
+        "Undeveloped Costs": {
             "x1": "40",
             "x2": "70",
             "func": "decay",
@@ -413,7 +413,7 @@
                 ["Liquid1", "6"]
             ]
         },
-        "DA_DAILY_DRIP": {
+        "Da Daily Drip": {
             "x1": "30",
             "x2": "100",
             "func": "decay",
@@ -423,7 +423,7 @@
                 ["Liquid1", "8"]
             ]
         },
-        "GRIND_TIME": {
+        "Grind Time": {
             "x1": "9.7",
             "x2": ".3",
             "func": "bigBase",
@@ -433,7 +433,7 @@
                 ["Liquid2", "25"]
             ]
         },
-        "LAAARRRRYYYY": {
+        "Laaarrrryyyy": {
             "x1": "120",
             "x2": "100",
             "func": "decay",
@@ -446,7 +446,7 @@
         }
     },
     "Vials": {
-        "COPPER_CORONA": {
+        "Copper Corona": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -456,7 +456,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "SIPPY_SPLINTERS": {
+        "Sippy Splinters": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -466,7 +466,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "MUSHROOM_SOUP": {
+        "Mushroom Soup": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -476,7 +476,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "SPOOL_SPRITE": {
+        "Spool Sprite": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -486,7 +486,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "BARIUM_MIXTURE": {
+        "Barium Mixture": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -496,7 +496,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "DIETER_DRENK": {
+        "Dieter Drenk": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -506,7 +506,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "SKINNY_0_CAL": {
+        "Skinny 0 Cal": {
             "x1": "2.5",
             "x2": "0",
             "func": "add",
@@ -516,7 +516,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "THUMB_POW": {
+        "Thumb Pow": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -526,7 +526,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "JUNGLE_JUICE": {
+        "Jungle Juice": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -536,7 +536,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "BARLEY_BREW": {
+        "Barley Brew": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -546,7 +546,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "ANEARFUL": {
+        "Anearful": {
             "x1": "2",
             "x2": "0",
             "func": "add",
@@ -556,7 +556,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "TEA_WITH_PEA": {
+        "Tea With Pea": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -566,7 +566,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "GOLD_GUZZLE": {
+        "Gold Guzzle": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -576,7 +576,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "RAMIFICOCTION": {
+        "Ramificoction": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -586,7 +586,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "SEAWATER": {
+        "Seawater": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -596,7 +596,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "TAIL_TIME": {
+        "Tail Time": {
             "x1": "0.5",
             "x2": "0",
             "func": "add",
@@ -606,7 +606,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "FLY_IN_MY_DRINK": {
+        "Fly In My Drink": {
             "x1": "3",
             "x2": "0",
             "func": "add",
@@ -616,7 +616,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "MIMICRAUGHT": {
+        "Mimicraught": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -626,7 +626,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "BLUE_FLAV": {
+        "Blue Flav": {
             "x1": "30",
             "x2": "7",
             "func": "decay",
@@ -636,7 +636,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "SLUG_SLURP": {
+        "Slug Slurp": {
             "x1": "2",
             "x2": "0",
             "func": "add",
@@ -646,7 +646,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "PICKLE_JAR": {
+        "Pickle Jar": {
             "x1": "50",
             "x2": "0",
             "func": "add",
@@ -658,7 +658,7 @@
         }
     },
     "Liquid Shop": {
-        "MEDIOCRE_OBOLS": {
+        "Mediocre Obols": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -667,7 +667,7 @@
                 ["Liquid1", "10"]
             ]
         },
-        "WEAK_UPG_STONE": {
+        "Weak Upg Stone": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -676,7 +676,7 @@
                 ["Liquid1", "5"]
             ]
         },
-        "DISTILLED_WATER": {
+        "Distilled Water": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -685,7 +685,7 @@
                 ["Liquid1", "1"]
             ]
         },
-        "ONE_MEASLY_GEM": {
+        "One Measly Gem": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -694,7 +694,7 @@
                 ["Liquid1", "5"]
             ]
         },
-        "STAR_BOOK": {
+        "Star Book": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -703,7 +703,7 @@
                 ["Liquid1", "50"]
             ]
         },
-        "EXP_BALLOON": {
+        "Exp Balloon": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -712,7 +712,7 @@
                 ["Liquid1", "15"]
             ]
         },
-        "SMALL_DONATION": {
+        "Small Donation": {
             "x1": "1",
             "x2": "0",
             "func": "1",
@@ -721,7 +721,7 @@
                 ["Liquid1", "1"]
             ]
         },
-        "DECENT_OBOLS": {
+        "Decent Obols": {
             "x1": "1",
             "x2": "1",
             "func": "0",
@@ -731,7 +731,7 @@
                 ["Liquid2", "3"]
             ]
         },
-        "TALENT_POINT": {
+        "Talent Point": {
             "x1": "1",
             "x2": "1",
             "func": "1",

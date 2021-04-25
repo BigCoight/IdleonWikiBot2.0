@@ -1,0 +1,12 @@
+{{ItemInfo
+|class=ALL
+|level=15
+|type=SHIRT
+|str=3
+|agi=3
+|wis=3
+|upgrade=2
+|defence=12
+|sellprice=6000
+|source=Dewdrop_Golden_Chest
+}}

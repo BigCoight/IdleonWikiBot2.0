@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|sellprice=200
+|source=Bop_Box
+}}

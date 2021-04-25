@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=15
+|type=INVENTORY_
+|speed=165
+|reach=10
+|sellprice=200
+|source=Cowbo_Jones
+}}

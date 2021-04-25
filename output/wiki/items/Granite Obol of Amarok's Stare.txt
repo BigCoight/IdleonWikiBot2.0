@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=HEXAGON_OBOL
+|str=3
+|sellprice=20
+|source=Amarok, Chaotic_Amarok
+}}

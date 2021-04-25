@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MONSTER_DROP
+|description=Click the pen on, then hold it down against your desk and let go, and BAM that baby will fly you straight to the principal's office!
+|sellprice=200
+|source=Penguin
+}}

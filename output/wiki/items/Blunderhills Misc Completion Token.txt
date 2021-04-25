@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Proof that you collected all the cards and completed all the tasks associated with Blunder Hills.
+|sellprice=1
+}}

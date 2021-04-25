@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=LOG
+|sellprice=3
+|source=Choppin, Dewdrop_Silver_Chest
+}}

@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=QUEST_ITEM
+|description=Proof that you mastered the art of the Mining, Smithing, and  Choppin skills.
+|sellprice=25000
+}}

@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=PENDANT
+|str=2
+|agi=1
+|upgrade=1
+|sellprice=200
+|source=Picnic_Stowaway
+}}

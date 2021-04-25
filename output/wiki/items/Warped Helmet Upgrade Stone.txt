@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=UPGRADE
+|description=Drag onto any Helmet to apply. +5 Random_Stat Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
+|sellprice=5000
+|source=Picnic_Stowaway, Snake_Jar, Cowbo_Jones
+}}

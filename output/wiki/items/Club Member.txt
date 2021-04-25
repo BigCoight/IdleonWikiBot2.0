@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=BEGINNER
+|level=1
+|type=TROPHY
+|luck=5
+|defence=5
+|sellprice=777
+|source=Rocklyte
+}}

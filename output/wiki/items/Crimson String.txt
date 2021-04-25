@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=MATERIAL
+|description=I think Scripticus forgot to take out his... spoon? You may want to give that back.
+|sellprice=1
+|source=Scripticus
+}}

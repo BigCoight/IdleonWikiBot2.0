@@ -1,0 +1,14 @@
+{{ItemInfo
+|class=ALL
+|level=80
+|type=HELMET
+|weaponpower=1
+|skillpower=1
+|str=8
+|agi=8
+|wis=8
+|luck=8
+|upgrade=6
+|defence=38
+|sellprice=1
+}}

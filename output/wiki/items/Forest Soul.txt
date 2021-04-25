@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=SOUL
+|description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
+|sellprice=3
+|source=Worshiping?
+}}

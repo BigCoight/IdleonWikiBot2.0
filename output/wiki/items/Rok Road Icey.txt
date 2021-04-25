@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=PENDANT
+|weaponpower=3
+|skillpower=3
+|str=2
+|agi=2
+|wis=2
+|luck=2
+|upgrade=1
+|sellprice=420
+}}

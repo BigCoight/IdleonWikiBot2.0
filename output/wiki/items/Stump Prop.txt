@@ -1,0 +1,13 @@
+{{ItemInfo
+|class=ALL
+|level=4
+|type=HELMET
+|weaponpower=5
+|skillpower=5
+|agi=3
+|luck=4
+|upgrade=3
+|defence=2
+|sellprice=200
+|source=Woodsman
+}}

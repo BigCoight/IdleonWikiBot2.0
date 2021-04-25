@@ -1,0 +1,10 @@
+{{ItemInfo
+|class=ALL
+|level=10
+|type=SHOES
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}

@@ -1,0 +1,11 @@
+{{ItemInfo
+|class=ALL
+|level=14
+|type=PENDANT
+|agi=2
+|wis=5
+|luck=2
+|upgrade=2
+|sellprice=500
+|source=Stiltzcho
+}}

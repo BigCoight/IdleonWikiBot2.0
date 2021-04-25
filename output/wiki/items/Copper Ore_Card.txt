@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=CARD
+|description=Copper
+|sellprice=1
+|source=Copper
+}}

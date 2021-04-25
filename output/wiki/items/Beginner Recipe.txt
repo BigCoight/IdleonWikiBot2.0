@@ -1,0 +1,7 @@
+{{ItemInfo
+|class=ALL
+|level=999
+|type=ANVIL_RECIPE
+|sellprice=1
+|source=Slime, Slime, Glublin, Wode_Board, DropTable1, DropTable3
+}}

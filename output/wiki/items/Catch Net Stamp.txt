@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=STAMP
+|sellprice=2000
+|source=XxX_Cattleprod_XxX
+}}

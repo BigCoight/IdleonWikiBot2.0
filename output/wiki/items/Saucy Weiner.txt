@@ -1,0 +1,6 @@
+{{ItemInfo
+|type=HEALTH_FOOD
+|description=Auto-Used when your health goes below 50%. Restores 700 HP. Has a 30 second Cooldown.
+|sellprice=120
+|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]]
+}}

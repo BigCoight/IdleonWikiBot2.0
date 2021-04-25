@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=UPGRADE
+|description=Drag onto any Tool to apply. +4 Random_Stat Success Chance; 60% Uses up 1 slots only if Successful
+|sellprice=110
+}}

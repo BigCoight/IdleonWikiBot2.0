@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=ALL
+|level=1
+|type=STORAGE_
+|speed=170
+|reach=10
+|sellprice=2500
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
+}}

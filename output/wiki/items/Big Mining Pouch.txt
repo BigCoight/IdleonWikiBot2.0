@@ -1,0 +1,9 @@
+{{ItemInfo
+|class=Mining
+|level=1000
+|type=CARRY_BAG
+|speed=240
+|str=3
+|reach=10
+|sellprice=200
+}}

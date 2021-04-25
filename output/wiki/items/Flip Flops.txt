@@ -1,0 +1,8 @@
+{{ItemInfo
+|class=ALL
+|level=4
+|type=SHOES
+|agi=3
+|upgrade=1
+|sellprice=500
+}}

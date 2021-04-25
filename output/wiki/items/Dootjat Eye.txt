@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=SUMMON_ITEM
+|description=Blinks repeatedly when close to the Black Market, where you buy the Ankh used in the ice zone to get the Hedjet... wait, wrong game, sorry!
+|sellprice=100
+}}

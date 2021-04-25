@@ -1,0 +1,5 @@
+{{ItemInfo
+|type=LOG
+|sellprice=5000
+|source=Choppin
+}}

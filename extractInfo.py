@@ -1,4 +1,4 @@
-from libs.funcLib import fix
+from libs.funcLib import fix, repU
 import re
 import numpy as np
 import csv
@@ -172,7 +172,8 @@ def writeItemJSON():
 		if data := re.findall(reData,itemData[i]):
 			items[itemData[i+1]] = {}
 			for atr,val in data:
-				items[itemData[i+1]][atr] = val
+				items[itemData[i+1]][atr] = fix(val)
+			items[itemData[i+1]]["displayName"] = repU(items[itemData[i+1]]["displayName"],True)
 	writeJSON("Items",items)
 
 def writeQuestJSON():
@@ -193,14 +194,14 @@ def writeQuestJSON():
 						atr = fix(data[k])
 						val = fix(data[k+1],['"',',})',' })',';'])
 						val = strToArray(val) if '[' in val else fix(val,[','])
-						temp[atr] = val
+						temp[atr] = repU(val)
 					npcs[questData[i]].append(temp.copy())
 
 	for questName,npc,diff,index in addQuestNames():
 		if index == 'f':
 			continue
 		index = int(index)
-		npcs[npc][index]["Name"] = questName
+		npcs[npc][index]["Name"] = repU(questName)
 		npcs[npc][index]["Difficulty"] = diff
 	writeJSON("Npcs",npcs)
 
@@ -236,11 +237,12 @@ def writeDroptablesJSON():
 	writeJSON("Droptables",tables)
 
 def writePostOfficeJSON():
-	postNames = ["Simple Shippin","Plan-it Express","Dudes Next Door", "NYI", "NYI", "NYI", "NYI"]
+	postNames = ["Simple Shippin","Plan-it Express","Dudes Next Door"]
 	postData = fix(reader.getSection("PostOffice"),['\n','  '])#DO LATER SIMILAR TO addRecipes()
 	postOfficeData = {}
 	postOffices = ['[[' + x + ']]' for x in re.split(r'\],?\],?],\[\[\[',postData)]
 	for j,postOffice in enumerate(postOffices):
+		if j > len(postNames): break
 		category = ['[[' + x + ']]' for x in re.split(r',?\],?],\[\[',postOffice)]
 		temp = {}
 		for n,v in enumerate(["Orders","Rewards"]):
@@ -278,6 +280,7 @@ def writeBubbleJSON():
 		cauldrens[bubbleNames[n]] = {}
 		for bubble in bubbles:
 			bubData = bubble.split(' ')
+			bubData[0] = repU(bubData[0])
 			if bubData[0] not in cauldrens[bubbleNames[n]].keys() and bubData[-1] != "Filler":
 				if len(bubData) < 9:
 					continue
