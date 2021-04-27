@@ -1,9 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CIRCLE_OBOL
+|type=Circle Obol
 |str=1
 |agi=1
 |wis=1
+|misc=20 Base Damage
 |sellprice=3
+|rariry=Silver
 }}

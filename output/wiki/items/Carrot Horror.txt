@@ -1,11 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=14
-|type=PENDANT
+|type=Pendant
 |agi=2
 |wis=5
 |luck=2
 |upgrade=2
 |sellprice=500
-|source=Stiltzcho
+|source=[[Stiltzcho#Investigator By Day, Prankster By Night|Investigator By Day, Prankster By Night]]
 }}

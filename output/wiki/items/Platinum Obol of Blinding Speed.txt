@@ -1,7 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HEXAGON_OBOL
+|type=Hexagon Obol
 |agi=4
+|misc=4% Movement Speed
 |sellprice=20
+|rariry=Platinum
 }}

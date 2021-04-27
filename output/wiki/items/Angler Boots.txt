@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=30
-|type=SHOES
+|type=Shoes
 |str=6
+|misc=20% Fishin Efficincy
 |upgrade=3
 |defence=8
 |sellprice=3000

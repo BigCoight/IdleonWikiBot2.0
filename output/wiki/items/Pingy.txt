@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=CRITTER
+{{InfoItem
+|type=Critter
 |description=It's basically just Gunter but with RTX off.
 |sellprice=3
 |source=Trapping

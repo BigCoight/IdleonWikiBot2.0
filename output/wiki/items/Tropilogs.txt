@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=LOG
+{{InfoItem
+|type=Log
 |sellprice=20
-|source=Choppin, Sandstone_Silver_Chest, Frostbite_Silver_Chest
+|source=Choppin, [[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]]
 }}

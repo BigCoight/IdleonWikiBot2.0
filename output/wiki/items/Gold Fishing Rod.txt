@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=FISHING_ROD
+|type=Fishing Rod
 |speed=4
 |weaponpower=19
-|skillpower=19
 |str=6
 |luck=4
 |upgrade=3

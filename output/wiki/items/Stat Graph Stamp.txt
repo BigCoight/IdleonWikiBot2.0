@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=10000
-|source=XxX_Cattleprod_XxX
+|source=[[XxX_Cattleprod_XxX#Ok, Now It'S Peak Gaming!|Ok, Now It'S Peak Gaming!]]
 }}

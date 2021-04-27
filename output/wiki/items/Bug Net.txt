@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=BUG_CATCHING_NET
+|type=Bug Catching Net
 |speed=4
 |weaponpower=4
-|skillpower=4
 |agi=2
 |upgrade=2
 |sellprice=100

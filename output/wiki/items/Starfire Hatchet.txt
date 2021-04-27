@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=80
-|type=HATCHET
+|type=Hatchet
 |speed=5
 |weaponpower=35
-|skillpower=35
 |agi=9
 |wis=28
 |luck=3

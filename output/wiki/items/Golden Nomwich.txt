@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=GOLDEN_FOOD
+{{InfoItem
+|type=Golden Food
 |description=Increases Base Damage Dealt to all monsters by 400. Golden foods are never consumed.
 |sellprice=100
-|source=Dewdrop_Silver_Chest, [[Post Office#Plan-it Express|Plan-it Express]], SuperDropTable1
+|source=[[Colosseum#Dewdrop_Silver_Chest|Dewdrop_Silver_Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[SuperDropTable1]]
 }}

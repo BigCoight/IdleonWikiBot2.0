@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=mushR
 |sellprice=1
-|source=Red_Mushroom
+|source=[[Red_Mushroom]]
 }}

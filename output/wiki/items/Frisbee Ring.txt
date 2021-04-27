@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=45
-|type=RING
+|type=Ring
 |str=12
+|misc=20 Accuracy
 |upgrade=4
 |sellprice=5000
-|source=Sprout
+|source=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
 }}

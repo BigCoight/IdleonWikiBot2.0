@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SPARKLE_OBOL
-|weaponpower=5
+|skill=mining
+|type=Sparkle Obol
 |skillpower=5
 |str=5
 |sellprice=50
+|rariry=Dementia
 }}

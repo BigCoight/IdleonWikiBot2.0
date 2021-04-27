@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=JungleTree Jungle Tree
 |sellprice=1
-|source=Jungle_Tree
+|source=[[Jungle_Tree]]
 }}

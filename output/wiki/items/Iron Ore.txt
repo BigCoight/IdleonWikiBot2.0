@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=ORE
+{{InfoItem
+|type=Ore
 |description=Smelt down 4 Ores into 1 Bar at the Forge. Smelting will take 400 per Bar using Forge Slot 1.
 |sellprice=7
-|source=Mining, Dewdrop_Silver_Chest
+|source=Mining, [[Colosseum#Dewdrop_Silver_Chest|Dewdrop_Silver_Chest]]
 }}

@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SPEAR
+|type=Spear
 |speed=5
 |weaponpower=690
-|skillpower=690
 |agi=80
 |luck=420
 |reach=70

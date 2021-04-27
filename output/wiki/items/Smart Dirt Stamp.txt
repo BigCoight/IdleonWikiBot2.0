@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=1500
-|source=DropTable5
+|source=[[DropTable5]]
 }}

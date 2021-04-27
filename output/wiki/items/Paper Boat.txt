@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=30
-|type=HELMET
+|type=Helmet
 |str=4
 |wis=10
+|misc=5% Fishin Efficincy
 |upgrade=4
 |defence=12
 |sellprice=1500

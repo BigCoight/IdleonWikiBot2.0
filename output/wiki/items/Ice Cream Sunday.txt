@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=BEGINNER
+{{InfoItem
+|class=Beginner
 |level=30
-|type=HELMET
+|type=Helmet
 |wis=6
 |upgrade=5
 |defence=5

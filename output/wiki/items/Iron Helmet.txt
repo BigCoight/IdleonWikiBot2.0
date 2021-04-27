@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=15
-|type=HELMET
+|type=Helmet
 |str=5
 |agi=5
 |wis=5
 |upgrade=2
 |defence=9
 |sellprice=5000
-|source=Sandstone_Silver_Chest, Frostbite_Silver_Chest
+|source=[[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]]
 }}

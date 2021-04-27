@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=That looks sharp! Is probably what the pincermin said before you cut his arm off.
 |sellprice=120
-|source=Pincermin
+|source=[[Pincermin]]
 }}

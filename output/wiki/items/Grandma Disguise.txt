@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=35
-|type=HELMET
+|type=Helmet
 |wis=15
+|misc=7% Xp From Monsters
 |upgrade=6
 |defence=5
 |sellprice=1500
-|source=Amarok, Chaotic_Amarok, Nightmare_Amarok
+|source=[[Amarok]], [[Chaotic_Amarok]], [[Nightmare_Amarok]]
 }}

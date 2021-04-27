@@ -1,13 +1,13 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=PENDANT
+|type=Pendant
 |weaponpower=7
-|skillpower=7
 |str=3
 |agi=3
 |wis=3
 |luck=3
+|misc=5% Xp From Monsters
 |upgrade=1
 |sellprice=420
 }}

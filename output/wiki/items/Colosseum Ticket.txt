@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TICKET
+{{InfoItem
+|type=Ticket
 |description=Hold down to add these Colosseum tickets to your account. Account items are shared between all your Characters!
 |sellprice=50
-|source=Typhoon, Centurion, Centurion
+|source=[[Typhoon#Surprise Attack!|Surprise Attack!]], [[Centurion#Down The Mimic Hole!|Down The Mimic Hole!]], [[Centurion#Which One Of Yous Is The Mafia?|Which One Of Yous Is The Mafia?]]
 }}

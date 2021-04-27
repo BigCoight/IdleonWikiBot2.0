@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=8
-|type=PICKAXE
+|type=Pickaxe
 |speed=3
 |weaponpower=6
-|skillpower=6
 |str=3
 |upgrade=2
 |sellprice=800

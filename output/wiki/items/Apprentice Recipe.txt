@@ -1,6 +1,6 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=999
-|type=ANVIL_RECIPE
+|type=Anvil Recipe
 |sellprice=1
 }}

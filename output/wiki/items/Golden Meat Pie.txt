@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=GOLDEN_FOOD
+{{InfoItem
+|type=Golden Food
 |description=Increases your Total Defence by 50. Golden foods are never consumed
 |sellprice=350
-|source=Sandstone_Golden_Chest, Frostbite_Golden_Chest, Picnic_Stowaway, Picnic_Stowaway, Picnic_Stowaway, SuperDropTable2
+|source=[[Colosseum#Sandstone_Golden_Chest|Sandstone_Golden_Chest]], [[Colosseum#Frostbite_Golden_Chest|Frostbite_Golden_Chest]], [[Picnic_Stowaway#The Last Supper, At Least For Today!|The Last Supper, At Least For Today!]], [[Picnic_Stowaway#Don'T Desert The Dessert|Don'T Desert The Dessert]], [[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]], [[SuperDropTable2]]
 }}

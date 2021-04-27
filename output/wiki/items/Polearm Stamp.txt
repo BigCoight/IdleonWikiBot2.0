@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=7500
-|source=Papua_Piggea
+|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
 }}

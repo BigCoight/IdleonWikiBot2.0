@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=BUG
+{{InfoItem
+|type=Bug
 |description=Hahahahaha! Soryy... I promise I wont make this kind of joke again
 |sellprice=9
 |source=Catching

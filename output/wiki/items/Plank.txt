@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=I wonder what the Ed Boys are up to these days?
 |sellprice=25
-|source=Wode_Board
+|source=[[Wode_Board]]
 }}

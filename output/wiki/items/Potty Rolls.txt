@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=LOG
+{{InfoItem
+|type=Log
 |sellprice=15
-|source=Choppin, Dewdrop_Golden_Chest
+|source=Choppin, [[Colosseum#Dewdrop_Golden_Chest|Dewdrop_Golden_Chest]]
 }}

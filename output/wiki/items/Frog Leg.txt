@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away.
 |sellprice=5
-|source=Frog, Void, Lustre, Starfire, Dreadlo, Godshard, Alien_Tree, Fly_Nest, Butterfly_Bar, Sentient_Bowl, Grocery_Bag
+|source=[[Frog]], [[Void]], [[Lustre]], [[Starfire]], [[Dreadlo]], [[Godshard]], [[Alien_Tree]], [[Fly_Nest]], [[Butterfly_Bar]], [[Sentient_Bowl]], [[Grocery_Bag]]
 }}

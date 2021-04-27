@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=PENDANT
+|type=Pendant
 |str=1
 |agi=1
 |wis=1
 |luck=3
+|misc=3% Drop Chance
 |sellprice=1
 }}

@@ -1,11 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=PICKAXE
+|type=Pickaxe
 |speed=3
 |weaponpower=2
-|skillpower=2
 |str=1
 |sellprice=50
-|source=Scripticus
+|source=[[Scripticus#Certified Swinger, Of Pickaxes Of Course!|Certified Swinger, Of Pickaxes Of Course!]]
 }}

@@ -1,13 +1,12 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=18
-|type=BOW
+|type=Bow
 |speed=2
 |weaponpower=22
-|skillpower=22
 |agi=8
 |reach=225
 |upgrade=2
 |sellprice=5000
-|source=Carrotman
+|source=[[Carrotman]]
 }}

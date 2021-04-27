@@ -1,11 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=82
-|type=PANTS
+|type=Pants
 |str=4
 |agi=2
+|misc=10% Defence
 |upgrade=5
 |defence=20
 |sellprice=200
-|source=King_Doot
+|source=[[King_Doot]]
 }}

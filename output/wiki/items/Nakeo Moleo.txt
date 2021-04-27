@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=CRITTER
+{{InfoItem
+|type=Critter
 |description=This mole ain't got no fur! Ew, gross!!! Disgusting even!!!!! Imagine an animal with no fur... eugh just the thought...
 |sellprice=3
 |source=Trapping

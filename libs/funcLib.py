@@ -1,5 +1,6 @@
 import csv
 from os import execv
+import re
 def unScience(val):
     if val:
         if '.' in val:
@@ -19,6 +20,12 @@ def repU(val,t=False):
             return val.replace('|',' ').replace('_',' ').title()
     except:
         return val
+
+def camelCaseSplitter(string):
+    return re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', string)).split()
+
+
+
 
 def nameDic(val):
     with open('./input/raw/Names.csv', mode='r') as infile:

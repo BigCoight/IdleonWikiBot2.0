@@ -60,7 +60,7 @@ def addAtrToDesc(data):
 			newDesc.append(line.replace('*',data["Amount"]))
 			del data["Amount"]
 			added = True
-		if '#' in line:
+		if '#' in line and "Trigger" in data.keys():
 			newDesc.append(line.replace('#',data["Trigger"]))
 			del data["Trigger"]
 			added = True
@@ -107,6 +107,17 @@ def allItemsStart(items):
 			addUpgradeData(data)
 		if source := typeToSource.get(typeGen):
 			data["sources"].append(source)
+		if "UQ1val" in data.keys() and "UQ1txt" in data.keys():
+
+			if data["UQ1val"] != '0':
+				data["miscUp1"] = data["UQ1val"] + repU(data["UQ1txt"])
+				del data["UQ1val"]
+				del data["UQ1txt"]
+			if data["UQ2val"] != '0':
+				data["miscUp2"] = data["UQ2val"] + repU(data["UQ2txt"])
+				del data["UQ2val"]
+				del data["UQ2txt"]
+		
 
 def allItemsEnd(items):
 	for name,data in items.items():
@@ -121,6 +132,12 @@ def allItemsEnd(items):
 					res.append(drop)
 					done.add(drop[0])
 			data["detdrops"] = res
+
+		if 'Amarok' in data["displayName"] and "recipeData" in data.keys():
+			data["recipeData"]["recipeFrom"] = "[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]"
+		elif 'Efaunt' in data["displayName"] and "recipeData" in data.keys():
+			data["recipeData"]["recipeFrom"] = "[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]"
+		
 		toDel = ["common","consumable","equip"]
 		for atr, val in data.items():
 			if val in [0,'0']:
@@ -140,15 +157,16 @@ def allItemsEnd(items):
 
 def configureDetailedRecipe(items,citem):
 	#puts sub recipes into recipes recursively.
-	for req,no in citem["recipeData"]["recipe"]:
-		if item := items.get(req):
-			if "recipeData" in item.keys():
-				if item["detrecipe"] == []:
-					configureDetailedRecipe(items,item)
-				citem["detrecipe"].append([0] + [req, no])
-				citem["detrecipe"] += [[x[0] + 1, x[1], str(int(x[2])*int(no))] for x in item["detrecipe"]]
-			else:
-				citem["detrecipe"].append([0] + [req,no])
+	if citem["detrecipe"] == []:
+		for req,no in citem["recipeData"]["recipe"]:
+			if item := items.get(req):
+				if "recipeData" in item.keys():
+					if item["detrecipe"] == []:
+						configureDetailedRecipe(items,item)
+					citem["detrecipe"].append([0] + [req, no])
+					citem["detrecipe"] += [[x[0] + 1, x[1], str(int(x[2])*int(no))] for x in item["detrecipe"]]
+				else:
+					citem["detrecipe"].append([0] + [req,no])
 
 def getDetailedTotals(item):
 	i = 0
@@ -226,6 +244,7 @@ def main():
 	cauldrons = openJSON("Cauldrens")
 	processing = openCSV("Production")
 	statueData = openCSV("StatueData")
+	taskUnlocks = openJSON("TaskUnlocks")
 	#This loop is for specific types of the items
 	allItemsStart(items)
 	#Adding in the fishing toolkit data
@@ -257,8 +276,16 @@ def main():
 		if drops := enemy.get("Drops"):
 			for drop in drops:
 				if item := items.get(drop[0]):
-					item["sources"].append(enemy["Name"])
-					item["detdrops"].append((enemy["Name"],drop[1],drop[2]))
+					enemName = ''
+					if name[0:5] == "Chest":
+						enemName = f"Colosseum#{enemy['Name']}|{enemy['Name']}"
+					elif False:
+						pass
+					else:
+						enemName = enemy['Name']
+
+					item["sources"].append(f"[[{enemName}]]")
+					item["detdrops"].append((f"[[{enemName}]]",drop[1],drop[2]))
 	#Adding in the sources from post office shipping rewards and uses from shipping
 	for name,po in postOffices.items():
 		for req in po["Orders"].keys():
@@ -291,6 +318,8 @@ def main():
 				for req,num in requirements:
 					if item := items.get(req):
 						item["uses"].append((f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]',num,"Quests"))
+						if item['typeGen'] == 'dQuest':
+							item['questAss'] = f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]'
 			#Add in sources for rewards and smithing recipe.
 			if dline["Type"] not in  ["None","SpaceRequired","LevelReq"]:
 				rewards = dline['Rewards']
@@ -299,7 +328,7 @@ def main():
 						if item := items.get(getSmithingRecipe(recipes, rewards[i], rewards[i+1])):
 							item["recipeData"]["recipeFrom"] = npc
 					elif item := items.get(rewards[i]):
-						item["sources"].append(npc)
+						item["sources"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
 	#Add in the cauldrens to used in
 	for cname, bubbles in cauldrons.items():
 		if name == "Liquid Shop":
@@ -330,7 +359,7 @@ def main():
 	for name, drops in droptables.items():
 		for drop in drops:
 			if item := items.get(drop[0]):
-				item["sources"].append(name)
+				item["sources"].append(f"[[{name}]]")
 				if detdrops := dtToEnemies.get(name):
 					for detdrop in detdrops:
 						item['detdrops'].append([
@@ -346,8 +375,12 @@ def main():
 				item["recipeData"] = recipe
 				item["detrecipe"] = [[x,nameDic[y],z] for x,y,z in item["detrecipe"]]
 				item["detRecipeTotals"] = [[nameDic[y],z] for y,z in item["detRecipeTotals"]]
-	
-	
+	#Adding in recipe source from the task unlocks
+	for taskUnlock in taskUnlocks:
+		for ite in taskUnlock:
+			if item := items.get(ite):
+				if ite == "PremiumGem": continue
+				item["recipeData"]["recipeFrom"] = "[[Tasks/Unlocks|Tasks]]"
 	allItemsEnd(items)
 	writeJSON("Items",items)
 

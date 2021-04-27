@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Armor to apply. +1 Weapon_Power +3 Random_Stat Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
 |sellprice=15000
-|source=Biggie_Hours, King_Doot, Meel
+|source=[[Biggie_Hours]], [[King_Doot]], [[Meel#Waitin' For The Cards To Drop|Waitin' For The Cards To Drop]]
 }}

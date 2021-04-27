@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=Lustre Oak Tree
 |sellprice=1
 }}

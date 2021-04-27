@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=BEGINNER
+{{InfoItem
+|class=Beginner
 |level=15
-|type=HELMET
+|type=Helmet
 |agi=4
 |luck=2
 |upgrade=4

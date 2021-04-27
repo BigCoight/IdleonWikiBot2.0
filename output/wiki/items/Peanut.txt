@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=HEALTH_FOOD
+{{InfoItem
+|type=Health Food
 |description=Auto-Used when your health goes below 75%. Restores 80 HP. Has a 20 second Cooldown. The favorite snack of all bloblytes!
 |sellprice=12
 |source=[[Post Office#Simple Shippin|Simple Shippin]]

@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=35
-|type=PANTS
+|type=Pants
 |str=4
 |agi=4
 |wis=4
 |upgrade=3
 |defence=16
 |sellprice=15000
-|source=Sandstone_Golden_Chest, Frostbite_Golden_Chest
+|source=[[Colosseum#Sandstone_Golden_Chest|Sandstone_Golden_Chest]], [[Colosseum#Frostbite_Golden_Chest|Frostbite_Golden_Chest]]
 }}

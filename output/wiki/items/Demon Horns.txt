@@ -1,9 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=15
-|type=HELMET
+|type=Helmet
 |weaponpower=5
-|skillpower=5
 |str=3
 |agi=3
 |luck=3

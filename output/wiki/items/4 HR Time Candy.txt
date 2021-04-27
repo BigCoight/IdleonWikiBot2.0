@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TIME_CANDY
+{{InfoItem
+|type=Time Candy
 |description=Hold down to instantly get 4 Hour of AFK Gains.
 |sellprice=1
-|source=Stiltzcho, Papua_Piggea, Desert_Davey, Centurion, Telescope, DropTable13
+|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua_Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert_Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'M Seeing Stars!|I'M Seeing Stars!]], [[DropTable13]]
 }}

@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Tool to apply. +3 Weapon_Power +4 Random_Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=20000
-|source=Goldric
+|source=[[Goldric#Hoopsies|Hoopsies]]
 }}

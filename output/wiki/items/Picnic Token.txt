@@ -1,6 +1,7 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Picnic_Stowaway#King Of Food|King Of Food]]
 |description=Proof that you were able to feed a blobulyte all day. If you bring 30 of these to the Picnic Stowaway, you'll get a Trophy!
 |sellprice=1
-|source=Picnic_Stowaway
+|source=[[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]]
 }}

@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=2
-|type=SHIRT
+|type=Shirt
 |luck=3
 |upgrade=1
 |defence=4

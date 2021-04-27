@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=45
-|type=PICKAXE
+|type=Pickaxe
 |speed=4
 |weaponpower=19
-|skillpower=19
 |str=15
 |agi=5
+|misc=2% Mining Efficincy
 |upgrade=3
 |sellprice=200
 }}

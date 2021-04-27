@@ -1,10 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HELMET
+|type=Helmet
 |str=2
 |agi=1
 |upgrade=2
 |sellprice=200
-|source=Scripticus
+|source=[[Scripticus#Gear Up, Gamer!|Gear Up, Gamer!]]
 }}

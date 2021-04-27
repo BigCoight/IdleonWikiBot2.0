@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=30
-|type=RING
+|type=Ring
 |luck=1
+|misc=5% Money
 |upgrade=3
 |defence=2
 |sellprice=1

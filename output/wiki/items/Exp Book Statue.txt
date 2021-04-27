@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=STATUE
+{{InfoItem
+|type=Statue
 |description=I haven't read a book since middle school, so I'm just assuming this is what they look like.
 |sellprice=10
-|source=DropTable7
+|source=[[DropTable7]]
 }}

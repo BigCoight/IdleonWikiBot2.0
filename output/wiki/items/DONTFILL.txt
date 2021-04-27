@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=Boss2B
 |sellprice=1
-|source=Chaotic_Efaunt
+|source=[[Chaotic_Efaunt]]
 }}

@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HELMET
+|type=Helmet
 |str=1
 |agi=1
 |wis=1
 |luck=1
 |upgrade=2
 |sellprice=200
-|source=DropTable1
+|source=[[DropTable1]]
 }}

@@ -1,9 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=70
-|type=PANTS
+|type=Pants
 |weaponpower=5
-|skillpower=5
 |str=7
 |agi=7
 |wis=7

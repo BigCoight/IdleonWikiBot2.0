@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=35
-|type=SHIRT
+|type=Shirt
 |str=5
 |agi=5
 |wis=5

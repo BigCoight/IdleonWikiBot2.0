@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=ANVIL_EXPANSION
+{{InfoItem
+|type=Anvil Expansion
 |description=Unlocks the 5th tab of craftable items for all anvils!
 |sellprice=1
 }}

@@ -1,8 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SQUARE_OBOL
+|type=Square Obol
 |wis=4
 |luck=6
+|misc=13% Money
 |sellprice=8
+|rariry=Golden
 }}

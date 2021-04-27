@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[TP_Pete#The Rats Are To Blame!|The Rats Are To Blame!]]
 |sellprice=50
-|source=Rat
+|source=[[Rat]]
 }}

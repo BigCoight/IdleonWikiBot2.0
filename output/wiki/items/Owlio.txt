@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=CRITTER
+{{InfoItem
+|type=Critter
 |description=Hoot hoot! Yea thats all I got for this one.
 |sellprice=3
 |source=Trapping

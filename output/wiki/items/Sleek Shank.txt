@@ -1,9 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=PENDANT
+|type=Pendant
 |weaponpower=1
-|skillpower=1
 |upgrade=2
 |defence=4
 |sellprice=400

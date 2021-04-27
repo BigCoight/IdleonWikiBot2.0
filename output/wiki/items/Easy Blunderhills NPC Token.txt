@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
 |description=Made up of the tokens from all of the Blunder NPCs whose quests are easiest to complete.
 |sellprice=2800
 }}

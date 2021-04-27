@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=1000
-|source=Baby_Boa
+|source=[[Baby_Boa]]
 }}

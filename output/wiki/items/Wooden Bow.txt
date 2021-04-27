@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=BOW
+|type=Bow
 |speed=5
 |weaponpower=7
-|skillpower=7
 |str=2
 |agi=3
 |reach=150

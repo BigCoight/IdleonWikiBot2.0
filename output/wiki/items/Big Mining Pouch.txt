@@ -1,7 +1,7 @@
-{{ItemInfo
+{{InfoItem
 |class=Mining
 |level=1000
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=240
 |str=3
 |reach=10

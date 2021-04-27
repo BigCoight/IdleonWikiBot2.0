@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Ah Mr. Thermostat, not looking so hot now that I've broken you into tiny little bits... no seriously, I can't tell the temperature now that you're broken.
 |sellprice=200
-|source=Thermister
+|source=[[Thermister]]
 }}

@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HELMET
+|type=Helmet
 |str=1
 |agi=1
 |wis=1
+|misc=5% Xp From Monsters
 |upgrade=3
 |sellprice=1
 }}

@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TELEPORT
+{{InfoItem
+|type=Teleport
 |description=Hold down on this item to be teleported back to Town.
 |sellprice=50
-|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], Scripticus, Promotheus, DropTable2, DropTable3
+|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Scripticus#What Lies At The Heart Of The Forest|What Lies At The Heart Of The Forest]], [[Promotheus#I'M Ready, Promotion!|I'M Ready, Promotion!]], [[DropTable2]], [[DropTable3]]
 }}

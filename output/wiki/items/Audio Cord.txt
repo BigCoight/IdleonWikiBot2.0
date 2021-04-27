@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |sellprice=200
-|source=Bop_Box
+|source=[[Bop_Box]]
 }}

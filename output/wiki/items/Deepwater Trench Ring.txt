@@ -1,11 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=9
-|type=RING
+|type=Ring
 |weaponpower=3
-|skillpower=3
 |str=6
 |agi=2
+|misc=40 Purple Depth
 |upgrade=2
 |sellprice=2500
 }}

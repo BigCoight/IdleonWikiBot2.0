@@ -1,11 +1,11 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=75
-|type=SPEAR
+|type=Spear
 |speed=5
 |weaponpower=33
-|skillpower=33
 |str=20
+|misc=5% Crit Damage
 |reach=76
 |upgrade=4
 |sellprice=26000

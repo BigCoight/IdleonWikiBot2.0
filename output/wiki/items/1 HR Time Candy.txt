@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TIME_CANDY
+{{InfoItem
+|type=Time Candy
 |description=Hold down to instantly get 1 Hour of AFK Gains.
 |sellprice=1
-|source=Scripticus, Desert_Davey, Mutton, Fishpaste97, Djonnut, Cowbo_Jones, Centurion, Loveulyte, Iceland_Irwin, DropTable13
+|source=[[Scripticus#Can'T Somebody Else Do It?|Can'T Somebody Else Do It?]], [[Desert_Davey#U Cool?|U Cool?]], [[Mutton#Clout Chasin'|Clout Chasin']], [[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]], [[Djonnut#Genie Dieting|Genie Dieting]], [[Cowbo_Jones#No Country For One Character|No Country For One Character]], [[Centurion#Which One Of Yous Is The Mafia?|Which One Of Yous Is The Mafia?]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Iceland_Irwin#Crikey, It'S Cold Out!|Crikey, It'S Cold Out!]], [[DropTable13]]
 }}

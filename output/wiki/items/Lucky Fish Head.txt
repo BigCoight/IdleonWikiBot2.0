@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=20
-|type=PENDANT
+|type=Pendant
 |str=2
 |agi=2
 |wis=2

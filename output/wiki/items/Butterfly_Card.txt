@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=Bug2 Butterflies
 |sellprice=1
-|source=Butterflies
+|source=[[Butterflies]]
 }}

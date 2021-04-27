@@ -1,6 +1,7 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
 |description=Represents a single follower on Cloudsound. This isn't a website, it's literally a giant cloud that emits sound that people enjoy following around. Why, what were YOU thinking this was?
 |sellprice=1
-|source=DropTable1, DropTable2, DropTable3, DropTable3b, DropTable3c
+|source=[[DropTable1]], [[DropTable2]], [[DropTable3]], [[DropTable3b]], [[DropTable3c]]
 }}

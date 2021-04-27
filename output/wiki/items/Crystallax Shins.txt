@@ -1,9 +1,8 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=15
-|type=PANTS
+|type=Pants
 |weaponpower=5
-|skillpower=5
 |str=3
 |agi=3
 |luck=3

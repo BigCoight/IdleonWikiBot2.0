@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Made of wood.
 |sellprice=90
-|source=Walking_Stick
+|source=[[Walking_Stick]]
 }}

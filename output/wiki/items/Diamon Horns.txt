@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=PREMIUM_HELMET
+|type=Premium Helmet
 |str=1
 |agi=1
 |wis=1

@@ -1,12 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=HATCHET
+|type=Hatchet
 |speed=3
 |weaponpower=3
-|skillpower=3
 |wis=1
 |upgrade=1
 |sellprice=50
-|source=Woodsman
+|source=[[Woodsman#A Noob'S 2Nd First Swing|A Noob'S 2Nd First Swing]]
 }}

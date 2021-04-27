@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=Bug3 Jellyfish
 |sellprice=1
-|source=Sentient_Cereal
+|source=[[Sentient_Cereal]]
 }}

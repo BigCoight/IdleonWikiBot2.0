@@ -1,7 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SQUARE_OBOL
+|type=Square Obol
 |luck=3
+|misc=10% Drop Chance
 |sellprice=3
+|rariry=Silver
 }}

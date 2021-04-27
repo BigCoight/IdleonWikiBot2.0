@@ -1,10 +1,10 @@
-{{ItemInfo
+{{InfoItem
 |class=Mining
 |level=25
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=-5
 |str=3
 |reach=10
 |sellprice=200
-|source=Glumlee
+|source=[[Glumlee#Literally Burning Your Money|Literally Burning Your Money]]
 }}

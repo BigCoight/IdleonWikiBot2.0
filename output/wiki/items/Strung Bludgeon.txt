@@ -1,9 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=20
-|type=PENDANT
+|type=Pendant
 |weaponpower=4
-|skillpower=4
 |upgrade=3
 |sellprice=10000
 }}

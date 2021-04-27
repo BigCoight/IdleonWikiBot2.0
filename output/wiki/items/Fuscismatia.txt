@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=70
-|type=PENDANT
+|type=Pendant
 |wis=10
+|misc=30 Purple Depth
 |upgrade=3
 |defence=5
 |sellprice=10000
-|source=Snelbie
+|source=[[Snelbie]]
 }}

@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Equip to apply. +3 Mystery_Stat Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
-|source=Nightmare_Amarok, Nightmare_Amarok, Biggie_Hours, King_Doot, Bushlyte, Bushlyte, Bushlyte, Rocklyte, Tiki_Chief, Loominadi, Loominadi, Loominadi, SuperDropTable1, SuperDropTable2
+|source=[[Nightmare_Amarok]], [[Nightmare_Amarok]], [[Biggie_Hours]], [[King_Doot]], [[Bushlyte#A Peanut For Your Thoughts|A Peanut For Your Thoughts]], [[Bushlyte#Honk If You Love Peanuts!|Honk If You Love Peanuts!]], [[Bushlyte#A Peanut Saved Is A Peanut Not Eaten!|A Peanut Saved Is A Peanut Not Eaten!]], [[Rocklyte#If Life Gives You Peanuts, Make Shiny Peanuts!|If Life Gives You Peanuts, Make Shiny Peanuts!]], [[Tiki_Chief#Hotel? Tikivago. Sorry, Couldn'T Help It!|Hotel? Tikivago. Sorry, Couldn'T Help It!]], [[Loominadi#Rhyming Is Key!|Rhyming Is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey To The Center Of The Blundermines|Journey To The Center Of The Blundermines]], [[SuperDropTable1]], [[SuperDropTable2]]
 }}

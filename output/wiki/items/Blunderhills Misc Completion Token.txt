@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Champion Of The Grasslands|Champion Of The Grasslands]]
 |description=Proof that you collected all the cards and completed all the tasks associated with Blunder Hills.
 |sellprice=1
 }}

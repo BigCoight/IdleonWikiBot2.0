@@ -1,9 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=HELMET
+|type=Helmet
 |upgrade=3
 |defence=25
 |sellprice=1
-|source=Snake_Jar
+|source=[[Snake_Jar#Psa. You Are Being Eaten!|Psa. You Are Being Eaten!]]
 }}

@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Weoweoweoweowdingding!
 |sellprice=160
-|source=Moonmoon
+|source=[[Moonmoon]]
 }}

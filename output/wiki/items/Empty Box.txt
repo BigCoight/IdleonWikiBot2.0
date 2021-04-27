@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Postboy_Pablob#Signed, Sealed And Lost In The Post|Signed, Sealed And Lost In The Post]]
 |description=An empty box, the perfect place to put all your Hermit Cans, Megalodon teeth, and pure water... that you don't have anymore haha!
 |sellprice=7
 }}

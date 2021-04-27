@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=6
-|type=HELMET
+|type=Helmet
 |str=2
+|misc=25 Base Damage
 |upgrade=2
 |defence=3
 |sellprice=1500
-|source=Cowbo_Jones
+|source=[[Cowbo_Jones#A Hat In Crime|A Hat In Crime]]
 }}

@@ -1,11 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=50
-|type=SHOES
+|type=Shoes
 |str=5
 |agi=5
 |wis=5
 |luck=5
+|misc=5% Defence
 |upgrade=3
 |defence=15
 |sellprice=20000

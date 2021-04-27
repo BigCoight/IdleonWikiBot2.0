@@ -1,12 +1,13 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=17
-|type=RING
+|type=Ring
 |str=1
 |agi=1
 |wis=1
 |luck=1
+|misc=2% Fight Afk Gain
 |upgrade=3
 |sellprice=5000
-|source=Funguy
+|source=[[Funguy#Partycrastination|Partycrastination]]
 }}

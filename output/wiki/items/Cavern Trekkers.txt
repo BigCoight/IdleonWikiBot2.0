@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=30
-|type=SHOES
+|type=Shoes
 |str=5
 |wis=1
+|misc=20% Mining Efficincy
 |upgrade=3
 |defence=10
 |sellprice=3000

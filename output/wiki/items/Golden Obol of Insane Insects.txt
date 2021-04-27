@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SQUARE_OBOL
-|weaponpower=3
+|skill=catching
+|type=Square Obol
 |skillpower=3
 |agi=2
 |sellprice=8
+|rariry=Golden
 }}

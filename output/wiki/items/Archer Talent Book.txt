@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=999
-|type=TALENT_BOOK
+|type=Talent Book
 |str=3
 |sellprice=100
 }}

@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=PANTS
+|type=Pants
 |agi=3
 |wis=7
+|misc=5% Chop Efficiency
 |upgrade=3
 |defence=11
 |sellprice=3500

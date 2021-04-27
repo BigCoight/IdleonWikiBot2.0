@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=BEGINNER
+{{InfoItem
+|class=Beginner
 |level=25
-|type=FISTICUFF
+|type=Fisticuff
 |speed=7
 |weaponpower=20
-|skillpower=20
 |str=6
 |luck=10
 |reach=65

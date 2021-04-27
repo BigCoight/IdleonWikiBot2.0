@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=2000
-|source=XxX_Cattleprod_XxX
+|source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
 }}

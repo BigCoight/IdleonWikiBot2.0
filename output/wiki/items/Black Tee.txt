@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SHIRT
+|type=Shirt
 |upgrade=5
 |defence=5
 |sellprice=50

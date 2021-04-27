@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Dog_Bone#Why He Die???|Why He Die???]]
 |sellprice=7
-|source=Wode_Board
+|source=[[Wode_Board]]
 }}

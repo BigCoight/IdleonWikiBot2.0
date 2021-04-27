@@ -1,10 +1,9 @@
-{{ItemInfo
+{{InfoItem
 |class=Bugs
 |level=1000
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=240
 |weaponpower=5
-|skillpower=5
 |str=3
 |reach=10
 |sellprice=200

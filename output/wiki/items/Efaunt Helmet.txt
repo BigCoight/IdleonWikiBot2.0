@@ -1,13 +1,13 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=80
-|type=HELMET
+|type=Helmet
 |weaponpower=1
-|skillpower=1
 |str=8
 |agi=8
 |wis=8
 |luck=8
+|misc=5% Drop Chance
 |upgrade=6
 |defence=38
 |sellprice=1

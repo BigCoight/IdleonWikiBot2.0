@@ -1,12 +1,11 @@
-{{ItemInfo
+{{InfoItem
 |class=Chopping
 |level=25
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=-5
 |weaponpower=1
-|skillpower=1
 |str=3
 |reach=10
 |sellprice=200
-|source=Woodsman
+|source=[[Woodsman#A Noob'S First Swing|A Noob'S First Swing]]
 }}

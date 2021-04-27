@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
 |description=Proof that you completed all of Glumlee's quests!
 |sellprice=700
-|source=Glumlee
+|source=[[Glumlee#He'S Havin' A Bad Day|He'S Havin' A Bad Day]]
 }}

@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=40
-|type=HELMET
+|type=Helmet
 |str=4
 |agi=12
 |upgrade=3

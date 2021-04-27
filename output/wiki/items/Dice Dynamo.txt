@@ -1,9 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=TROPHY
+|type=Trophy
 |weaponpower=1
-|skillpower=1
 |luck=5
+|misc=2% Luk
 |sellprice=777
 }}

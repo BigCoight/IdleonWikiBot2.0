@@ -1,4 +1,4 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
 |sellprice=1
 }}

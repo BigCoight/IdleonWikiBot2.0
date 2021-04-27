@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Weapon to apply. +1 Weapon_Power +1 Random_Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=1500
-|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], Green_Mushroom, Dewdrop_Silver_Chest, Sandstone_Bronze_Chest, Frostbite_Bronze_Chest, [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], Cowbo_Jones, DropTable11
+|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Green_Mushroom]], [[Colosseum#Dewdrop_Silver_Chest|Dewdrop_Silver_Chest]], [[Colosseum#Sandstone_Bronze_Chest|Sandstone_Bronze_Chest]], [[Colosseum#Frostbite_Bronze_Chest|Frostbite_Bronze_Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable11]]
 }}

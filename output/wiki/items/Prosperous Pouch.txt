@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=70
-|type=INVENTORY_
+|type=Inventory 
 |reach=10
 |sellprice=24999999
 }}

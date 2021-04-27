@@ -1,13 +1,13 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CHAT_RING
+|type=Chat Ring
 |weaponpower=1
-|skillpower=1
 |str=1
 |agi=1
 |wis=1
 |luck=1
+|misc=100% All Natural
 |upgrade=3
 |sellprice=2500
 }}

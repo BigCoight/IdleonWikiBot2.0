@@ -1,9 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=INVENTORY_G
+|type=Inventory G
 |speed=-20
 |reach=10
 |sellprice=200
-|source=Scripticus
+|source=[[Scripticus#Mr. Worldwide|Mr. Worldwide]]
 }}

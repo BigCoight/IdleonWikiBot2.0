@@ -1,7 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=SPARKLE_OBOL
+|type=Sparkle Obol
 |luck=10
+|misc=30% Drop Chance
 |sellprice=50
+|rariry=Dementia
 }}

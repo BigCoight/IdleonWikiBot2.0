@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=80
-|type=SHIRT
+|type=Shirt
 |str=5
 |agi=5
 |wis=5
+|misc=4% Mastery
 |upgrade=6
 |defence=30
 |sellprice=200

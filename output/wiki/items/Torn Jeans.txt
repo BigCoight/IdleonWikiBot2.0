@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=PANTS
+|type=Pants
 |agi=2
 |wis=1
 |upgrade=1

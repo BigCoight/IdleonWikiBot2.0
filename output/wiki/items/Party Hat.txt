@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=BEGINNER
+{{InfoItem
+|class=Beginner
 |level=10
-|type=HELMET
+|type=Helmet
 |luck=5
+|misc=5% Xp From Monsters
 |upgrade=5
 |defence=10
 |sellprice=1500

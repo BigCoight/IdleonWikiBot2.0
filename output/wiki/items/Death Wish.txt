@@ -1,11 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=55
-|type=RING
+|type=Ring
 |weaponpower=4
-|skillpower=4
+|misc=5% Boss Damage
 |upgrade=4
 |defence=6
 |sellprice=200
-|source=Meel
+|source=[[Meel#Waitin' For The Cards To Drop|Waitin' For The Cards To Drop]]
 }}

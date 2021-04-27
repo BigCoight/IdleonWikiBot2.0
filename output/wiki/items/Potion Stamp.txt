@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=3000
-|source=Papua_Piggea
+|source=[[Papua_Piggea#Stamp Collecting|Stamp Collecting]]
 }}

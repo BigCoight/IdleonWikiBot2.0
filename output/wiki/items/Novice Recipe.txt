@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=999
-|type=ANVIL_RECIPE
+|type=Anvil Recipe
 |sellprice=1
-|source=Mimic, Crabcake, Mafioso, Sand_Giant
+|source=[[Mimic]], [[Crabcake]], [[Mafioso]], [[Sand_Giant]]
 }}

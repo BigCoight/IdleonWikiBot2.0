@@ -1,10 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=85
-|type=RING
+|type=Ring
 |weaponpower=3
-|skillpower=3
 |agi=10
+|misc=2% Crit Chance
 |upgrade=4
 |defence=8
 |sellprice=1

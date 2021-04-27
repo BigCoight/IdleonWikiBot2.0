@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=155
-|type=SWORD
+|type=Sword
 |speed=8
 |weaponpower=55
-|skillpower=55
 |str=10
 |agi=5
 |wis=6

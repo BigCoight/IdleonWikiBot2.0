@@ -1,9 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CIRCLE_OBOL
+|type=Circle Obol
 |luck=1
+|misc=2% Drop Chance
 |defence=1
 |sellprice=1
-|source=Gigafrog
+|rariry=Bronze
+|source=[[Gigafrog]]
 }}

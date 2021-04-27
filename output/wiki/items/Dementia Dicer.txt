@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=45
-|type=HATCHET
+|type=Hatchet
 |speed=4
 |weaponpower=23
-|skillpower=23
 |agi=6
 |wis=17
 |upgrade=2

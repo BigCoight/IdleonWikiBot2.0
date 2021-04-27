@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=FISH
+{{InfoItem
+|type=Fish
 |description=The branding on the soda can must have gotten washed off by some kind of liquidy, wavey substance. Oh, right.
 |sellprice=11
-|source=Fishing, Sandstone_Bronze_Chest
+|source=Fishing, [[Colosseum#Sandstone_Bronze_Chest|Sandstone_Bronze_Chest]]
 }}

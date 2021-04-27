@@ -1,12 +1,11 @@
-{{ItemInfo
-|class=bCraft
+{{InfoItem
+|class=Bcraft
 |level=100
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=118
 |weaponpower=3
-|skillpower=3
 |str=3
 |reach=10
 |sellprice=200
-|source=Scripticus
+|source=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
 }}

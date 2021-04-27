@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CIRCLE_OBOL
+|type=Circle Obol
 |weaponpower=1
-|skillpower=1
+|misc=60 Base Damage
 |sellprice=20
+|rariry=Platinum
 }}

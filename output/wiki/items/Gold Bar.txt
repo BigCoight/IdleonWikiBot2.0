@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=BAR
+{{InfoItem
+|type=Bar
 |sellprice=115
-|source=Forging, Fire_Forge, Sandstone_Bronze_Chest, Sandstone_Silver_Chest, Frostbite_Bronze_Chest, Frostbite_Silver_Chest
+|source=Forging, [[Fire_Forge]], [[Colosseum#Sandstone_Bronze_Chest|Sandstone_Bronze_Chest]], [[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Bronze_Chest|Frostbite_Bronze_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]]
 }}

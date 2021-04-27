@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=30
-|type=SHOES
+|type=Shoes
 |agi=6
+|misc=20% Catch Efficincy
 |upgrade=3
 |defence=8
 |sellprice=3000

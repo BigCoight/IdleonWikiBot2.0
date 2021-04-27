@@ -1,12 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=SHIRT
+|type=Shirt
 |weaponpower=2
-|skillpower=2
 |agi=8
 |upgrade=4
 |defence=1
 |sellprice=200
-|source=Sprout
+|source=[[Sprout#Shoe Shopping With Sprout|Shoe Shopping With Sprout]]
 }}

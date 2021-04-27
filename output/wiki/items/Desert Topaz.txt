@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Builder_Bird#Restoring Power To The Portal|Restoring Power To The Portal]]
 |description=Restores power to the Desert Portal in the Grasslands Town.
 |sellprice=1
 }}

@@ -1,8 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=STORAGE_
+|type=Storage 
 |reach=10
 |sellprice=50000
-|source=Snake_Jar
+|source=[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]]
 }}

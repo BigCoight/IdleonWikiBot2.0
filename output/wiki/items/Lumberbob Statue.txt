@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=STATUE
+{{InfoItem
+|type=Statue
 |description=A stone statue named in a world where the name Jack doesn't exist. Give this to the Statue Man in return for some bonus stats
 |sellprice=10
-|source=DropTable4
+|source=[[DropTable4]]
 }}

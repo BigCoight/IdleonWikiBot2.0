@@ -1,13 +1,14 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HEXAGON_OBOL
+|type=Hexagon Obol
 |weaponpower=1
-|skillpower=1
 |str=2
 |agi=2
 |wis=2
 |luck=2
+|misc=5% Boss Damage
 |sellprice=20
-|source=Efaunt, Chaotic_Efaunt, Nightmare_Amarok
+|rariry=Skeletal
+|source=[[Efaunt]], [[Chaotic_Efaunt]], [[Nightmare_Amarok]]
 }}

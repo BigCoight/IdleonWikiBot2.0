@@ -1,10 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=PENDANT
+|type=Pendant
 |str=2
 |agi=1
 |upgrade=1
 |sellprice=200
-|source=Picnic_Stowaway
+|source=[[Picnic_Stowaway#Beating Up Frogs For Some Sauce|Beating Up Frogs For Some Sauce]]
 }}

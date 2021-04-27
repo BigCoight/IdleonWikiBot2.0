@@ -1,11 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=70
-|type=HELMET
+|type=Helmet
 |str=12
 |agi=12
 |wis=12
 |luck=12
+|misc=6% Defence
 |upgrade=4
 |defence=34
 |sellprice=1

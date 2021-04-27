@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=6
-|type=FISTICUFF
+|type=Fisticuff
 |speed=5
 |weaponpower=11
-|skillpower=11
 |str=5
 |luck=5
 |reach=60

@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=Crystal2
 |sellprice=1
-|source=Crystal_Cattle
+|source=[[Crystal_Cattle]]
 }}

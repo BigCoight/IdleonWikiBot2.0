@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=2
-|type=SHIRT
+|type=Shirt
 |str=2
 |agi=1
 |upgrade=1

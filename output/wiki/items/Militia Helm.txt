@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=10
-|type=HELMET
+|type=Helmet
 |str=7
 |agi=2
 |upgrade=2

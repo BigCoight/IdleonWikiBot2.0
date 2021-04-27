@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=BAR
+{{InfoItem
+|type=Bar
 |sellprice=32
-|source=Forging, Fire_Forge, Dewdrop_Golden_Chest
+|source=Forging, [[Fire_Forge]], [[Colosseum#Dewdrop_Golden_Chest|Dewdrop_Golden_Chest]]
 }}

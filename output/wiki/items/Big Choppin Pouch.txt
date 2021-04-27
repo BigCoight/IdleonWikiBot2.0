@@ -1,10 +1,9 @@
-{{ItemInfo
+{{InfoItem
 |class=Chopping
 |level=1000
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=240
 |weaponpower=1
-|skillpower=1
 |str=3
 |reach=10
 |sellprice=10500

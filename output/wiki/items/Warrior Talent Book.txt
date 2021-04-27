@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=999
-|type=TALENT_BOOK
+|type=Talent Book
 |str=3
 |sellprice=100
 }}

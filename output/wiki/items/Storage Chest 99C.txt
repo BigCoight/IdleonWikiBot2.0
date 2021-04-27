@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=STORAGE_
+|type=Storage 
 |speed=150
 |reach=10
 |sellprice=200

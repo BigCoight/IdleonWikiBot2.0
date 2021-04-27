@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CIRCLE_OBOL
-|weaponpower=2
+|skill=fishing
+|type=Circle Obol
 |skillpower=2
 |str=1
 |sellprice=3
+|rariry=Silver
 }}

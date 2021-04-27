@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=TROPHY
+|type=Trophy
 |weaponpower=4
-|skillpower=4
 |str=3
 |agi=3
 |wis=3
 |luck=3
+|misc=20% Xp From Monsters
 |sellprice=69
 }}

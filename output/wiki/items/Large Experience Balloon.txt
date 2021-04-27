@@ -1,4 +1,4 @@
-{{ItemInfo
-|type=EXP_BALLOON
+{{InfoItem
+|type=Exp Balloon
 |sellprice=1
 }}

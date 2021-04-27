@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TIME_CANDY
+{{InfoItem
+|type=Time Candy
 |description=Twelve hours, that's a long time! Hold down to instantly get 12 Hour of AFK Gains.
 |sellprice=1
-|source=Snake_Jar, Centurion, Iceland_Irwin, DropTable13
+|source=[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]], [[Centurion#Colosseum Gdq|Colosseum Gdq]], [[Iceland_Irwin#Crikey, It'S Cold Out!|Crikey, It'S Cold Out!]], [[DropTable13]]
 }}

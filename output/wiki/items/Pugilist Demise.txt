@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=9
-|type=RING
+|type=Ring
 |str=3
+|misc=4% Boss Damage
 |upgrade=2
 |sellprice=4000
 |source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]

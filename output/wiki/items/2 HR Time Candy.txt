@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=TIME_CANDY
+{{InfoItem
+|type=Time Candy
 |description=Hold down to instantly get 2 Hour of AFK Gains.
 |sellprice=1
-|source=Stiltzcho, Speccius, Postboy_Pablob, Centurion, Centurion, Giftmas_Blobulyte, Telescope, DropTable13
+|source=[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]], [[Speccius#More Like 'Sleepius' Lmao|More Like 'Sleepius' Lmao]], [[Postboy_Pablob#Signed, Sealed And Lost In The Post|Signed, Sealed And Lost In The Post]], [[Centurion#High Scorer|High Scorer]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Telescope#I'M Seeing Stars!|I'M Seeing Stars!]], [[DropTable13]]
 }}

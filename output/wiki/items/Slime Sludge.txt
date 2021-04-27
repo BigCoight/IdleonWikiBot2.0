@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Ewww, slimey.
 |sellprice=10
-|source=Slime
+|source=[[Slime]]
 }}

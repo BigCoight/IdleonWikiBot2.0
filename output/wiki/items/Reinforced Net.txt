@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=18
-|type=BUG_CATCHING_NET
+|type=Bug Catching Net
 |speed=4
 |weaponpower=14
-|skillpower=14
 |str=2
 |agi=4
 |upgrade=2

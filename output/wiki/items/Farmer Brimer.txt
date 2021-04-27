@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=3
-|type=HELMET
+|type=Helmet
 |agi=4
 |wis=2
 |upgrade=2

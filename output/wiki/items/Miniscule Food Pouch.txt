@@ -1,12 +1,11 @@
-{{ItemInfo
+{{InfoItem
 |class=Foods
 |level=25
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=-5
 |weaponpower=2
-|skillpower=2
 |str=3
 |reach=10
 |sellprice=200
-|source=Picnic_Stowaway
+|source=[[Picnic_Stowaway#The Hungry Stowaway|The Hungry Stowaway]]
 }}

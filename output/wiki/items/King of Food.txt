@@ -1,14 +1,14 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=65
-|type=TROPHY
+|type=Trophy
 |weaponpower=3
-|skillpower=3
 |str=10
 |agi=10
 |wis=10
 |luck=10
+|misc=20% Food Effect
 |defence=25
 |sellprice=10000
-|source=Picnic_Stowaway
+|source=[[Picnic_Stowaway#King Of Food|King Of Food]]
 }}

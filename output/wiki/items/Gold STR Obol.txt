@@ -1,7 +1,8 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=CIRCLE_OBOL
+|type=Circle Obol
 |str=4
 |sellprice=8
+|rariry=Gold
 }}

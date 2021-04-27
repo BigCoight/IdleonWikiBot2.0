@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Eugh whats this WATER doing around my ice???
 |sellprice=200
-|source=Frost_Flake
+|source=[[Frost_Flake]]
 }}

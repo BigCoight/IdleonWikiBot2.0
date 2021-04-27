@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=CRITTER
+{{InfoItem
+|type=Critter
 |description=This cutie will stab its way into your heart if you aren't careful! No seriosuly please be careful the bugger pricked my foot the other day and it hurt bad.
 |sellprice=3
 |source=Trapping

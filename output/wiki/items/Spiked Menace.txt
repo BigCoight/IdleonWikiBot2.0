@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=30
-|type=BOW
+|type=Bow
 |speed=6
 |weaponpower=17
-|skillpower=17
 |str=5
 |agi=8
 |luck=3

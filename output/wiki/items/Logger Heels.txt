@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=30
-|type=SHOES
+|type=Shoes
 |wis=7
+|misc=20% Chop Efficiency
 |upgrade=3
 |defence=6
 |sellprice=3000

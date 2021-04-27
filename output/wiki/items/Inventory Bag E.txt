@@ -1,9 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=15
-|type=INVENTORY_
+|type=Inventory 
 |speed=165
 |reach=10
 |sellprice=200
-|source=Cowbo_Jones
+|source=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
 }}

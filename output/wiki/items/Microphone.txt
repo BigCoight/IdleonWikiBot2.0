@@ -1,12 +1,12 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=1
-|type=WAND
+|type=Wand
 |speed=8
 |weaponpower=13
-|skillpower=13
 |agi=5
 |wis=9
+|misc=5% Movement Speed
 |reach=160
 |upgrade=3
 |sellprice=200

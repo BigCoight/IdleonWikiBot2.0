@@ -1,12 +1,13 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=15
-|type=SHIRT
+|type=Shirt
 |str=3
 |agi=3
 |wis=3
+|misc=50
 |upgrade=2
 |defence=12
 |sellprice=6000
-|source=Dewdrop_Golden_Chest
+|source=[[Colosseum#Dewdrop_Golden_Chest|Dewdrop_Golden_Chest]]
 }}

@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=10
-|type=HELMET
+|type=Helmet
 |wis=8
 |luck=1
 |upgrade=2

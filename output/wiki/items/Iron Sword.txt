@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=1
-|type=SPEAR
+|type=Spear
 |speed=9
 |weaponpower=25
-|skillpower=25
 |str=3
 |luck=1
 |reach=78

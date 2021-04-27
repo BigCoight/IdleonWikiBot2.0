@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=SPEAR
+|type=Spear
 |speed=5
 |weaponpower=7
-|skillpower=7
 |str=3
 |wis=1
 |reach=70

@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=30
-|type=WAND
+|type=Wand
 |speed=3
 |weaponpower=23
-|skillpower=23
 |agi=1
 |wis=11
 |reach=160

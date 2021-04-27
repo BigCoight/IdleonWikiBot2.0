@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=LEAF
+{{InfoItem
+|type=Leaf
 |sellprice=50
 |source=Choppin
 }}

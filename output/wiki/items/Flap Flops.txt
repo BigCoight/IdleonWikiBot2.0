@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=10
-|type=SHOES
+|type=Shoes
 |str=3
 |agi=3
 |luck=3
+|misc=3% Movement Speed
 |upgrade=2
 |sellprice=200
 }}

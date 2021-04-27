@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=TROPHY
+|type=Trophy
 |luck=7
+|misc=7% Drop Chance
 |sellprice=777
-|source=SuperDropTable1, SuperDropTable2
+|source=[[SuperDropTable1]], [[SuperDropTable2]]
 }}

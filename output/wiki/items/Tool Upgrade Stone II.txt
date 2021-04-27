@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Tool to apply. +2 Weapon_Power +2 Random_Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=1250
-|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Vendors#Faraway_Piers|Faraway_Piers Vendor]], [[Vendors#Tundra_Camp|Tundra_Camp Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], TP_Pete, Scubidew, DropTable3, DropTable12
+|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Vendors#Faraway_Piers|Faraway_Piers Vendor]], [[Vendors#Tundra_Camp|Tundra_Camp Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#The Rats Are To Blame!|The Rats Are To Blame!]], [[Scubidew#Uncovering The Deep Sea State!!!|Uncovering The Deep Sea State!!!]], [[DropTable3]], [[DropTable12]]
 }}

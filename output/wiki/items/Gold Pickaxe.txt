@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=PICKAXE
+|type=Pickaxe
 |speed=4
 |weaponpower=13
-|skillpower=13
 |str=8
 |agi=3
 |upgrade=2

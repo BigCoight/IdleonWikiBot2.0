@@ -26,7 +26,7 @@ def writeCSV(fn,lst):
 				outfile.write(str(i)+ '\n')
 		
 def readSections():
-	reader = CodeReader('./input/codefile/idleon114b.txt')
+	reader = CodeReader(r'./input/codefile/idleon114b.txt')
 	reader.addSection('__name__ = "scripts.ItemDefinitions";','addNewItem = function',"Items")
 	reader.addSection('dialogueDefs = new','finishDialogue',"Quests")
 	reader.addSection('scripts.MonsterDefinitions','};',"Enemies")
@@ -52,6 +52,7 @@ def readSections():
 	reader.addSection('atkMoveMap = new ','};',"ActiveSkill")
 	reader.addSection('StatueInfo = function ()','}','StatueInfo')
 	reader.addSection('CardStuff = function ()','}','CardInfo')
+	reader.addSection('TaskUnlocks = function ()','}',"TaskUnlocks")
 	reader.readCode()
 	return reader
 
@@ -170,10 +171,14 @@ def writeItemJSON():
 	itemData = re.split(reNames,itemText)
 	for i in range(0,len(itemData),2):
 		if data := re.findall(reData,itemData[i]):
-			items[itemData[i+1]] = {}
+			itemName = itemData[i+1]
+			items[itemName] = {}
+			item = items[itemName]
 			for atr,val in data:
-				items[itemData[i+1]][atr] = fix(val)
-			items[itemData[i+1]]["displayName"] = repU(items[itemData[i+1]]["displayName"],True)
+				item[atr] = fix(val)
+			item["displayName"] = repU(item["displayName"],True)
+			item["Type"] = repU(item["Type"])
+			if "Class" in item.keys(): item["Class"] = item["Class"].title()
 	writeJSON("Items",items)
 
 def writeQuestJSON():
@@ -242,7 +247,7 @@ def writePostOfficeJSON():
 	postOfficeData = {}
 	postOffices = ['[[' + x + ']]' for x in re.split(r'\],?\],?],\[\[\[',postData)]
 	for j,postOffice in enumerate(postOffices):
-		if j > len(postNames): break
+		if j >= len(postNames): break
 		category = ['[[' + x + ']]' for x in re.split(r',?\],?],\[\[',postOffice)]
 		temp = {}
 		for n,v in enumerate(["Orders","Rewards"]):
@@ -373,7 +378,23 @@ def writeStatueCSV():
 
 	writeCSV("StatueData",res)
 	
-
+def writeTaskUnlocks():
+	TaskUnlocks = []
+	unlockData = fix(reader.getSection("TaskUnlocks"),['\n','  '])
+	taskUnlocks = ['[[' + x + ']]' for x in re.split(r'\],?\],?],\[\[\[',unlockData)]
+	for j,taskUnlock in enumerate(taskUnlocks):
+		if j >= 2: break
+		categories = ['[[' + x + ']]' for x in re.split(r',?\],?],\[\[',taskUnlock)]
+		temp = []
+		for category in categories:
+			items = ['[' + x + ']' for x in re.split(r',?],\[',category)]
+			for ite in items:
+				ite = strToArray(ite)
+				print(ite)
+				temp.append(ite[0])
+		TaskUnlocks.append(temp[:])
+	writeJSON("TaskUnlocks",TaskUnlocks)
+		
 
 reader = readSections()
 MAPNAMES = writeMapNamesCSV()
@@ -392,3 +413,4 @@ writeTalentJSON()
 writeCustomSourcesJSON()
 writeCardJSON()
 writeStatueCSV()
+writeTaskUnlocks()

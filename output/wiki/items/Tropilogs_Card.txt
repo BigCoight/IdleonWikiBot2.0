@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=CARD
+{{InfoItem
+|type=Card
 |description=PalmTree Forest Tree
 |sellprice=1
-|source=Palm_Tree
+|source=[[Palm_Tree]]
 }}

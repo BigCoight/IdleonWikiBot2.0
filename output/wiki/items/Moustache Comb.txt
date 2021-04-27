@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=MONSTER_DROP
+{{InfoItem
+|type=Monster Drop
 |description=Sad times I hope I remember to change this before relase.
 |sellprice=200
-|source=Sir_Stache
+|source=[[Sir_Stache]]
 }}

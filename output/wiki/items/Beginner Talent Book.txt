@@ -1,6 +1,6 @@
-{{ItemInfo
-|class=BEGINNER
+{{InfoItem
+|class=Beginner
 |level=999
-|type=TALENT_BOOK
+|type=Talent Book
 |sellprice=100
 }}

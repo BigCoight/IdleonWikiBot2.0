@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Armor to apply. +2 Defence +2 Random_Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=850
-|source=[[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], Bored_Bean, Dewdrop_Silver_Chest, Sandstone_Bronze_Chest, Frostbite_Bronze_Chest, [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], Cowbo_Jones, DropTable10
+|source=[[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Bored_Bean]], [[Colosseum#Dewdrop_Silver_Chest|Dewdrop_Silver_Chest]], [[Colosseum#Sandstone_Bronze_Chest|Sandstone_Bronze_Chest]], [[Colosseum#Frostbite_Bronze_Chest|Frostbite_Bronze_Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable10]]
 }}

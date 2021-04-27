@@ -1,11 +1,12 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=13
-|type=HELMET
+|type=Helmet
 |agi=3
 |wis=11
+|misc=10% Mana Regen
 |upgrade=3
 |defence=4
 |sellprice=1000
-|source=Promotheus
+|source=[[Promotheus#Slovakian Scare|Slovakian Scare]]
 }}

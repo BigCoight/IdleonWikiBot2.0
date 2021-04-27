@@ -1,6 +1,6 @@
-{{ItemInfo
-|type=UPGRADE
+{{InfoItem
+|type=Upgrade
 |description=Drag onto any Weapon to apply. +2 Weapon_Power +1 Random_Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=25000
-|source=Sandstone_Silver_Chest, Frostbite_Silver_Chest, [[Post Office#Dudes Next Door|Dudes Next Door]]
+|source=[[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
 }}

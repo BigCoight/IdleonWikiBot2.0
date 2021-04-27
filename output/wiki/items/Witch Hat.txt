@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=40
-|type=HELMET
+|type=Helmet
 |agi=1
 |wis=16
 |upgrade=3

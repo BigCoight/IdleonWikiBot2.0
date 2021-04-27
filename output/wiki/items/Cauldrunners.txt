@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=30
-|type=SHOES
+|type=Shoes
 |wis=9
+|misc=4% Brew Speed
 |upgrade=3
 |defence=4
 |sellprice=200

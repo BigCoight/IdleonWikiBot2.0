@@ -1,10 +1,9 @@
-{{ItemInfo
+{{InfoItem
 |class=Foods
 |level=1000
-|type=CARRY_BAG
+|type=Carry Bag
 |speed=240
 |weaponpower=2
-|skillpower=2
 |str=3
 |reach=10
 |sellprice=5800

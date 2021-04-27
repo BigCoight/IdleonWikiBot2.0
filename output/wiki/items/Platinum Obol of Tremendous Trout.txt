@@ -1,9 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=HEXAGON_OBOL
-|weaponpower=4
+|skill=fishing
+|type=Hexagon Obol
 |skillpower=4
 |str=3
 |sellprice=20
+|rariry=Platinum
 }}

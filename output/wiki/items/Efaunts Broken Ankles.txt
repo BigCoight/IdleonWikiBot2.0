@@ -1,10 +1,11 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=75
-|type=SHOES
+|type=Shoes
 |str=2
 |agi=2
 |wis=2
+|misc=2% Movement Speed
 |upgrade=6
 |defence=18
 |sellprice=20

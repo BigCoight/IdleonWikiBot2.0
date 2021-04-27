@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=MAGE
+{{InfoItem
+|class=Mage
 |level=40
-|type=SHIRT
+|type=Shirt
 |agi=1
 |wis=13
 |upgrade=3

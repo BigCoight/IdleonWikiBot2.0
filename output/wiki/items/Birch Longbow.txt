@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=ARCHER
+{{InfoItem
+|class=Archer
 |level=12
-|type=BOW
+|type=Bow
 |speed=6
 |weaponpower=12
-|skillpower=12
 |str=4
 |agi=5
 |reach=170

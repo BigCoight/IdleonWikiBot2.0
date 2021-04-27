@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=GOLDEN_FOOD
+{{InfoItem
+|type=Golden Food
 |description=Increases Mining Efficiency by 30%. Golden foods are never consumed.
 |sellprice=125
 }}

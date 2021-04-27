@@ -1,13 +1,14 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=4
-|type=HELMET
-|weaponpower=5
+|skill=choppin
+|type=Helmet
 |skillpower=5
 |agi=3
 |luck=4
+|misc=5% Chop Efficiency
 |upgrade=3
 |defence=2
 |sellprice=200
-|source=Woodsman
+|source=[[Woodsman#It'S Just A Plank, Bro!|It'S Just A Plank, Bro!]]
 }}

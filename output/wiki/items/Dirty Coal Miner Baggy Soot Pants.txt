@@ -1,8 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=25
-|type=PANTS
+|type=Pants
 |str=7
+|misc=5% Mining Efficincy
 |upgrade=3
 |defence=12
 |sellprice=200

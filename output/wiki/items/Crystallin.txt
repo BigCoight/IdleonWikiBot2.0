@@ -1,5 +1,5 @@
-{{ItemInfo
-|type=STAMP
+{{InfoItem
+|type=Stamp
 |sellprice=2000
-|source=Crystal_Carrot, Crystal_Crabal, Crystal_Cattle
+|source=[[Crystal_Carrot]], [[Crystal_Crabal]], [[Crystal_Cattle]]
 }}

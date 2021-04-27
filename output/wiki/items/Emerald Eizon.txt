@@ -1,10 +1,9 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=95
-|type=SWORD
+|type=Sword
 |speed=7
 |weaponpower=45
-|skillpower=45
 |wis=3
 |luck=2
 |reach=76

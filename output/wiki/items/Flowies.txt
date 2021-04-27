@@ -1,5 +1,6 @@
-{{ItemInfo
-|type=QUEST_ITEM
+{{InfoItem
+|type=Quest Item
+|quest=[[Dazey#Literally Physics|Literally Physics]]
 |sellprice=100
-|source=Baba_Yaga
+|source=[[Baba_Yaga]]
 }}

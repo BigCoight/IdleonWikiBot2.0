@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=15
-|type=RING
+|type=Ring
 |str=1
 |agi=1
 |wis=1

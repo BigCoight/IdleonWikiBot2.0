@@ -1,10 +1,10 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=7
-|type=PANTS
+|type=Pants
 |wis=6
 |upgrade=2
 |defence=3
 |sellprice=200
-|source=DropTable1
+|source=[[DropTable1]]
 }}

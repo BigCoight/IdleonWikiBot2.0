@@ -1,9 +1,9 @@
-{{ItemInfo
-|class=ALL
+{{InfoItem
+|class=All
 |level=1
-|type=STORAGE_
+|type=Storage 
 |speed=330
 |reach=10
 |sellprice=1500
-|source=Cowbo_Jones
+|source=[[Cowbo_Jones#The Hatless Howerhouse!|The Hatless Howerhouse!]]
 }}

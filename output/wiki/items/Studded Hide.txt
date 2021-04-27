@@ -1,7 +1,7 @@
-{{ItemInfo
-|class=WARRIOR
+{{InfoItem
+|class=Warrior
 |level=40
-|type=SHIRT
+|type=Shirt
 |str=10
 |wis=4
 |upgrade=3
