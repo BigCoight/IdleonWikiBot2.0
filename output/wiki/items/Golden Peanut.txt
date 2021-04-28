@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Golden Food
-|description=Increases Mining Efficiency by 30%. Golden foods are never consumed.
+|description=Increases Mining Efficiency by [%. Golden foods are never consumed.
 |sellprice=125
 }}
+{{gfoodbonus|30|Increases Mining Efficiency by [%.}}

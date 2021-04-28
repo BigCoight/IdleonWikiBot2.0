@@ -45,6 +45,7 @@ def combineDescription(data):
 def addAtrToDesc(data):
 	#Replaces [ with amount and ] with cooldown
 	if 'description' not in data.keys(): return
+	if data["Type"] == "Golden Food": return
 	newDesc = []
 	for line in data['description']:
 		added = False

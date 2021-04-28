@@ -8902,6 +8902,7 @@
         "Type": "Golden Food",
         "lvReqToCraft": "10",
         "Effect": "MiningEff",
+        "Amount": "30",
         "Trigger": "-1337",
         "Cooldown": "1",
         "uses": [
@@ -8914,7 +8915,7 @@
         ],
         "description": [
             "Increases Mining Efficiency",
-            "by 30%.",
+            "by [%.",
             "Golden foods are never consumed."
         ],
         "recipeData": {
@@ -8949,6 +8950,7 @@
         "Type": "Golden Food",
         "lvReqToCraft": "10",
         "Effect": "MaxHPpct",
+        "Amount": "30",
         "Trigger": "-1337",
         "Cooldown": "1",
         "sources": [
@@ -8967,7 +8969,7 @@
         ],
         "description": [
             "Increases your Max Health by",
-            "30%.",
+            "[%.",
             "Golden foods are never consumed."
         ]
     },
@@ -8978,6 +8980,7 @@
         "Type": "Golden Food",
         "lvReqToCraft": "10",
         "Effect": "Damage",
+        "Amount": "20",
         "Trigger": "-1337",
         "Cooldown": "1",
         "sources": [
@@ -9003,7 +9006,7 @@
         ],
         "description": [
             "Increases Damage Dealt to",
-            "all monsters by 20%.",
+            "all monsters by [%.",
             "Golden foods are never consumed."
         ]
     },
@@ -9014,6 +9017,7 @@
         "Type": "Golden Food",
         "lvReqToCraft": "10",
         "Effect": "Defence",
+        "Amount": "50",
         "Trigger": "-1337",
         "Cooldown": "1",
         "sources": [
@@ -9090,7 +9094,7 @@
         ],
         "description": [
             "Increases your Total Defence",
-            "by 50.",
+            "by [.",
             "Golden foods are never consumed"
         ]
     },
@@ -9101,6 +9105,7 @@
         "Type": "Golden Food",
         "lvReqToCraft": "10",
         "Effect": "BaseDamage",
+        "Amount": "400",
         "Trigger": "-1337",
         "Cooldown": "1",
         "sources": [
@@ -9152,7 +9157,7 @@
         ],
         "description": [
             "Increases Base Damage Dealt to",
-            "all monsters by 400.",
+            "all monsters by [.",
             "Golden foods are never consumed."
         ]
     },

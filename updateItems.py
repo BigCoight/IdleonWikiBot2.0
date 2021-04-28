@@ -1,4 +1,4 @@
-import pywikibot
+#import pywikibot
 import json
 from libs.funcLib import camelCaseSplitter, nameDic
 
@@ -36,8 +36,11 @@ def doSkillPower(name,item):
 	if isSkill(name):return item["Weapon_Power"]
 	return ''
 
-head = '{{InfoItem\n'
-tail = '}}'
+itemHead = '{{InfoItem\n'
+head = '{{'
+tail = '}}\n'
+
+
 
 mapIntToWiki = {
 	"class":"Class",
@@ -73,19 +76,25 @@ def isSkill(name):
 
 def writeItem(name,item):
 	dispName = item["displayName"]
-
-	with open(fr'./output/wiki/items/{dispName}.txt' ,mode='w') as outfile:
-		outfile.write(head)
-		for wiki,atr in mapIntToWiki.items():
-			if isinstance(atr, str):
-				if artibute := item.get(atr):
-					outfile.write(f"|{wiki}={artibute}\n")
-			else:
-				if artibute := atr(name,item):
-					outfile.write(f"|{wiki}={artibute}\n")
-		outfile.write(tail)
+	itemData = itemHead
+	for wiki,atr in mapIntToWiki.items():
+		if isinstance(atr, str):
+			if artibute := item.get(atr):
+				itemData += (f"|{wiki}={artibute}\n")
+		else:
+			if artibute := atr(name,item):
+				itemData += (f"|{wiki}={artibute}\n")
+	itemData += (tail)
+	if item["Type"] == "Golden Food":
+		itemData += writeGoldFood(name, item)
 	
-
+	with open(fr'./output/wiki/items/{dispName}.txt' ,mode='w') as outfile:
+		outfile.write(itemData)
+	
+def writeGoldFood(name, item):
+	amount = item["Amount"]
+	desc = item["description"][0] + ' ' + item["description"][1]
+	return f"{head}gfoodbonus|{amount}|{desc}{tail}"
 
 
 
