@@ -1,5 +1,5 @@
 {
-    "Gem Shop": [
+    "[[Gem Shop]]": [
         "CardPack2",
         "CardPack1",
         "ResetBox",
@@ -62,7 +62,7 @@
         "EquipmentHats13",
         "EquipmentHats12"
     ],
-    "Level Up Gift": [
+    "[[Alchemy#Level up Gift|Level up Gift]]": [
         "EquipmentHats21",
         "PremiumGem",
         "Timecandy1",
@@ -86,7 +86,7 @@
         "EquipmentStatues7",
         "EquipmentStatues8"
     ],
-    "Guild Gift Box": [
+    "[[Guild Giftbox]]": [
         "Trophy9",
         "FoodPotYe3",
         "FoodPotYe2",
@@ -106,5 +106,32 @@
         "Timecandy2",
         "Timecandy1"
     ],
-    "Start": ["StampA1", "StampA2"]
+    "Start": ["StampA1", "StampA2"],
+    "[[Alchemy#Liquid Shop|Mediocre Obols]]": [
+        "ObolBronze0",
+        "ObolBronze1",
+        "ObolBronze2",
+        "ObolBronze3",
+        "ObolBronzeMining",
+        "ObolBronzeChoppin",
+        "ObolBronzeDamage"
+    ],
+    "[[Alchemy#Liquid Shop|Decent Obols]]": [
+        "ObolBronze0",
+        "ObolBronze1",
+        "ObolBronze2",
+        "ObolBronze3",
+        "ObolSilverDamage",
+        "ObolBronzeFishing",
+        "ObolBronzeCatching",
+        "ObolSilverFishing",
+        "ObolSilverChoppin",
+        "ObolSilverCatching",
+        "ObolSilverMining",
+        "ObolSilver0",
+        "ObolSilver1",
+        "ObolSilver2",
+        "ObolSilver3"
+    ],
+    "[[Alchemy#Liquid Shop|Weak UPG Stone]]": ["StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"]
 }

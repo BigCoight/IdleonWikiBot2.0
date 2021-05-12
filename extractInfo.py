@@ -226,8 +226,9 @@ def writeQuestJSON():
                     for k in range(1, len(data), 2):
                         atr = fix(data[k])
                         val = fix(data[k+1], ['"', ',})', ' })', ';'])
-                        val = strToArray(val) if '[' in val else fix(val, [','])
-                        temp[atr] = repU(val,True)
+                        val = strToArray(
+                            val) if '[' in val else fix(val, [','])
+                        temp[atr] = repU(val, True)
                     npcs[questData[i]].append(temp.copy())
 
     for questName, npc, diff, index in addQuestNames():
@@ -272,6 +273,30 @@ def writeDroptablesJSON():
     tables = {}
     for i in range(0, len(droptables)-1, 2):
         tables[droptables[i+1]] = re.findall(reDrops, droptables[i])
+    obols = []
+    for i in range(12):  # Obolsu
+        if i < 4:
+            obols.append([f"ObolBronze{i}", str(0.0006*(1+1/20)), "1", "N/A"])
+        elif i < 8:
+            obols.append(
+                [f"ObolSilver{i-4}", str(0.0006*(1+1/20)), "1", "N/A"])
+        elif i == 8:
+            obols.append([f"ObolSilverMoney", str(0.027*(1+1/20)), "1", "N/A"])
+        elif i == 9:
+            obols.append(
+                [f"ObolSilverDamage", str(0.027*(1+1/20)), "1", "N/A"])
+        elif i == 10:
+            obols.append([f"ObolGold3", str(0.021*(1+1/20)), "1", "N/A"])
+        elif i == 11:
+            obols.append([f"ObolSilverLuck", str(0.021*(1+1/20)), "1", "N/A"])
+        if i < 4:
+            tables[f"DropTable{i+1}"].insert(-1, obols[i])
+        elif i < 8:
+            tables[f"DropTable{i+2}"].insert(-1, obols[i])
+        elif i < 10:
+            tables[f"SuperDropTable1"].insert(-1, obols[i])
+        elif i < 12:
+            tables[f"SuperDropTable2"].insert(-1, obols[i])
     writeJSON("Droptables", tables)
 
 
@@ -409,15 +434,21 @@ def writeTalentJSON():
 
 def writeCustomSourcesJSON():
     custSources = {}
-    custSources["Gem Shop"] = ["CardPack2", "CardPack1", "ResetBox", "ClassSwap", "ResetCompletedS", "ResetCompleted", "InvBag21", "InvBag22", "InvBag23", "InvBag24", "InvBag25", "InvStorage31", "InvStorage32", "InvStorage33", "InvStorage34", "InvStorage35", "InvStorage36", "InvStorage37", "InvStorage38", "InvStorage39", "InvStorage40", "InvStorage41", "InvStorage42", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "EquipmentRingsChat1", "EquipmentRingsChat2",
-                               "EquipmentRingsChat4", "EquipmentRingsChat5", "EquipmentRingsChat6", "EquipmentRingsChat3", "EquipmentRingsChat9", "EquipmentHats38", "EquipmentHats35", "EquipmentHats50", "EquipmentHats49", "Ht", "EquipmentHats48", "EquipmentHats47", "EquipmentHats46", "StonePremSTR", "StonePremWIS", "StonePremLUK", "StonePremAGI", "StonePremRestore", "EquipmentHats31", "EquipmentHats34", "EquipmentHats33", "EquipmentHats38", "EquipmentHats32", "EquipmentHats37", "EquipmentHats35", "EquipmentHats40"]
+    custSources["[[Gem Shop]]"] = ["CardPack2", "CardPack1", "ResetBox", "ClassSwap", "ResetCompletedS", "ResetCompleted", "InvBag21", "InvBag22", "InvBag23", "InvBag24", "InvBag25", "InvStorage31", "InvStorage32", "InvStorage33", "InvStorage34", "InvStorage35", "InvStorage36", "InvStorage37", "InvStorage38", "InvStorage39", "InvStorage40", "InvStorage41", "InvStorage42", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "EquipmentRingsChat1", "EquipmentRingsChat2",
+                                   "EquipmentRingsChat4", "EquipmentRingsChat5", "EquipmentRingsChat6", "EquipmentRingsChat3", "EquipmentRingsChat9", "EquipmentHats38", "EquipmentHats35", "EquipmentHats50", "EquipmentHats49", "Ht", "EquipmentHats48", "EquipmentHats47", "EquipmentHats46", "StonePremSTR", "StonePremWIS", "StonePremLUK", "StonePremAGI", "StonePremRestore", "EquipmentHats31", "EquipmentHats34", "EquipmentHats33", "EquipmentHats38", "EquipmentHats32", "EquipmentHats37", "EquipmentHats35", "EquipmentHats40"]
     custSources["Starter Hat"] = ["EquipmentHats14",
                                   "EquipmentHats11", "EquipmentHats13", "EquipmentHats12"]
-    custSources["Level Up Gift"] = ["EquipmentHats21", "PremiumGem", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "Timecandy5", "Line6", "StoneZ1", "FoodPotYe1", "FoodPotYe2", "FoodPotYe3",
-                                    "StampC9", "Quest25", 'EquipmentStatues1', 'EquipmentStatues2', 'EquipmentStatues3', 'EquipmentStatues4', 'EquipmentStatues5', 'EquipmentStatues6', 'EquipmentStatues7', 'EquipmentStatues8']
-    custSources["Guild Gift Box"] = ["Trophy9", "FoodPotYe3", "FoodPotYe2", "PremiumGem", "StoneA3b", "StoneW2", "StoneA2", "StonePremLUK",
-                                     "StoneHelm6", "StoneW6", "ExpBalloon1", "ExpBalloon2", "ExpBalloon3", "ResetFrag", "Timecandy4", "Timecandy3", "Timecandy2", "Timecandy1"]
+    custSources["[[Alchemy#Level up Gift|Level up Gift]]"] = ["EquipmentHats21", "PremiumGem", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "Timecandy5", "Line6", "StoneZ1", "FoodPotYe1", "FoodPotYe2", "FoodPotYe3",
+                                                              "StampC9", "Quest25", 'EquipmentStatues1', 'EquipmentStatues2', 'EquipmentStatues3', 'EquipmentStatues4', 'EquipmentStatues5', 'EquipmentStatues6', 'EquipmentStatues7', 'EquipmentStatues8']
+    custSources["[[Guild Giftbox]]"] = ["Trophy9", "FoodPotYe3", "FoodPotYe2", "PremiumGem", "StoneA3b", "StoneW2", "StoneA2", "StonePremLUK",
+                                        "StoneHelm6", "StoneW6", "ExpBalloon1", "ExpBalloon2", "ExpBalloon3", "ResetFrag", "Timecandy4", "Timecandy3", "Timecandy2", "Timecandy1"]
     custSources["Start"] = ["StampA1", "StampA2"]
+    custSources["[[Alchemy#Liquid Shop|Mediocre Obols]]"] = ["ObolBronze0", "ObolBronze1",
+                                                             "ObolBronze2", "ObolBronze3", "ObolBronzeMining", "ObolBronzeChoppin", "ObolBronzeDamage"]
+    custSources["[[Alchemy#Liquid Shop|Decent Obols]]"] = ["ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronze3", "ObolSilverDamage", "ObolBronzeFishing",
+                                                           "ObolBronzeCatching", "ObolSilverFishing", "ObolSilverChoppin", "ObolSilverCatching", "ObolSilverMining", "ObolSilver0", "ObolSilver1", "ObolSilver2", "ObolSilver3"]
+    custSources["[[Alchemy#Liquid Shop|Weak UPG Stone]]"] = [
+        "StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"]
     writeJSON("CustomSources", custSources)
 
 

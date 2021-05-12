@@ -339,6 +339,7 @@ def main():
     processing = openCSV("Production")
     statueData = openCSV("StatueData")
     taskUnlocks = openJSON("TaskUnlocks")
+    customSources = openJSON("CustomSources")
 
     # This loop is for specific types of the items
     allItemsStart(items)
@@ -498,9 +499,15 @@ def main():
                 if ite == "PremiumGem":
                     continue
                 item["recipeData"]["recipeFrom"] = "[[Tasks/Unlocks|Tasks]]"
+
+    for source, ites in customSources.items():
+        for ite in ites:
+            if item := items.get(ite):
+                item["sources"].append(source)
+
     allItemsEnd(items)
     writeJSON("Items", items)
-    getNotes.main()
+    # getNotes.main()
 
 
 if __name__ == '__main__':
