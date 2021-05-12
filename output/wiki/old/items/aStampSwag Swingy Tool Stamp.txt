@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=12
+|type=Skills
+|bonus= Choppin Efficiency
+|material=Iron Pickaxe
+|sellprice=2500
+}}

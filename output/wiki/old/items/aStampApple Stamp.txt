@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=5
+|type=Misc
+|bonus=% HP Food Effect
+|material=Meat Pie
+|sellprice=1000
+}}

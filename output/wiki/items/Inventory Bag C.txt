@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=5
-|type=Inventory 
-|speed=-20
-|reach=10
-|sellprice=200
-|source=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
-}}

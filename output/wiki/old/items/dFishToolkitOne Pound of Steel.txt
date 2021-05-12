@@ -1,0 +1,12 @@
+{{Fishingaccessory
+|depth4=30
+|fishingexp=2
+|fishingspeed=2
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=10000
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=3|vendor=Faraway Piers|stock=1|buyprice=40000}}
+{{Vendoritem/tablerow|number=3|vendor=Tundra Camp|stock=1|buyprice=40000}}
+{{quest/tail}}

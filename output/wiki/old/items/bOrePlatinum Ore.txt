@@ -1,0 +1,16 @@
+{{InfoItem
+|type=Ore
+|description=Smelt down 20 Ores into 1 Bar at the Forge. Smelting will take 2200 per Bar using Forge Slot 1.
+|sellprice=20
+|source=Mining, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.6|50}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.6|50}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Sizable Mining Pouch]]|6750|Crafting}}
+{{usedin/row|[[Platinet]]|6000|Crafting}}
+{{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Blue Flav|Blue Flav]]|Lots|Alchemy}}
+{{quest/tail}}

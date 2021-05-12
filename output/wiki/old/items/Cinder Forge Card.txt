@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Cinder Forge
+|order=4
+|category=Medium Resources
+|effect=+{%_Smithing_EXP
+|bonus=10
+|reqtier=7
+}}

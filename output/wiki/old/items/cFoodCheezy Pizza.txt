@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Health Food
+|description=Auto-Used when your health goes below 50%. Restores 125 HP. Has a 30 second Cooldown.
+|sellprice=20
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Baby Boa]], [[Carrotman]], [[DropTable3]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=500|buyprice=80}}
+{{Vendoritem/tablerow|number=1|vendor=Encroaching Forest Villas|stock=1000|buyprice=80}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|25|Quests}}
+{{quest/tail}}

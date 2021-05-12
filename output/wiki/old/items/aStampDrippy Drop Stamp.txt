@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=15
+|type=Skills
+|bonus=% Liquid Spd
+|material=Pocket Sand
+|sellprice=2000
+|source=[[DropTable6]]
+}}

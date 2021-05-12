@@ -1,0 +1,15 @@
+{{InfoItem
+|class=All
+|level=20
+|type=Pendant
+|str=2
+|agi=2
+|wis=2
+|luck=5
+|upgrade=3
+|sellprice=6500
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=7|vendor=Encroaching Forest Villas|stock=1|buyprice=26000}}
+{{quest/tail}}

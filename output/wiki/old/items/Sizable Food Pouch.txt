@@ -1,0 +1,45 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Health Food, Boost Food, Golden Food.
+|sellprice=126230
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=36
+|levelreq=28
+|expgiven=28000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Meat Pie|quantity1=9
+|resource2=Nuget Cake|quantity2=6
+|resource3=Average Food Pouch|quantity3=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Meat Pie|9}}
+{{detrecipe|3|Nuget Cake|6}}
+{{detrecipe|3|Average Food Pouch|2}}
+{{detrecipe|40|Cramped Food Pouch|20}}
+{{detrecipe|80|Nomwich|1500}}
+{{detrecipe|80|Hot Dog|500}}
+{{detrecipe|80|Oak Logs|1200}}
+{{detrecipe|80|Copper Bar|300}}
+{{detrecipe|40|Meat Pie|500}}
+{{detrecipe|40|Icing Ironbite|1200}}
+{{detrecipe|80|Iron Ore|6000}}
+{{detrecipe|80|Small Mana Potion|2400}}
+{{detrecipe|40|Saucy Logfries|1200}}
+{{detrecipe|80|Jungle Logs|7200}}
+{{detrecipe|80|Small Life Potion|3600}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Meat Pie|9}}
+{{detrecipe/totals|Nuget Cake|6}}
+{{detrecipe/totals|Nomwich|1500}}
+{{detrecipe/totals|Hot Dog|500}}
+{{detrecipe/totals|Oak Logs|1200}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Iron Ore|6000}}
+{{detrecipe/totals|Small Mana Potion|2400}}
+{{detrecipe/totals|Jungle Logs|7200}}
+{{detrecipe/totals|Small Life Potion|3600}}
+{{quest/tail}}

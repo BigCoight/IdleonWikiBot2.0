@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=15
+|type=Misc
+|bonus= Talent 3 Pts
+|material=Copper Ore
+|sellprice=1
+}}

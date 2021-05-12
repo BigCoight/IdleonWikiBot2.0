@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Statue
+|description=It takes a true artist to make a realistic statue like this one. He captured the flying aspect of those stone flies perfectly!
+|sellprice=10
+|source=[[DropTable9]]
+}}
+{{Statuedata|0.3|+ @ Catchin Power}}{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.06119999999999999|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.06119999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.001224|1.0}}
+{{quest/tail}}

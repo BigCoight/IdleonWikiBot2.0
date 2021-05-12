@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Critter
+|description=The living embodiment of the classic cryptocurrency Frogecoin
+|sellprice=3
+|source=Trapping
+}}

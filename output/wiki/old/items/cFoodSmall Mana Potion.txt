@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Boost Food
+|description=Boosts Mana Regen Rate by 10% 40% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus.
+|sellprice=5
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Frog]], [[DropTable1]], [[DropTable3b]], [[DropTable3c]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=3|vendor=Blunder Hills|stock=500|buyprice=20}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Icing Ironbite]]|2|Crafting}}
+{{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|50|Quests}}
+{{quest/tail}}

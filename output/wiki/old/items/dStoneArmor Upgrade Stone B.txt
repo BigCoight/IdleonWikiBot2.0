@@ -1,0 +1,21 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Armor to apply. +5 Defence Success Chance; 45% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
+|sellprice=100
+|tier=B
+|source=[[DropTable7]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0025|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0025|1.0}}
+{{detdrops|[[Mafioso]]|0.000016000000000000003|1.0}}
+{{detdrops|[[Sand Castle]]|0.000017500000000000002|1.0}}
+{{detdrops|[[Pincermin]]|0.000018500000000000002|1.0}}
+{{detdrops|[[Mashed Potato]]|0.0000195|1.0}}
+{{detdrops|[[Dig Doug]]|0.000016000000000000003|1.0}}
+{{detdrops|[[Efaunt]]|0.005|2.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.005|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.005|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.005|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.005|1.0}}
+{{quest/tail}}

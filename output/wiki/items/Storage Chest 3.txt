@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|speed=330
-|reach=10
-|sellprice=800
-|source=[[Krunk#The Scientific Method, According To A Rock|The Scientific Method, According To A Rock]]
-}}

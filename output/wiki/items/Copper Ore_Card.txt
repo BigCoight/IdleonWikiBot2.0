@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Copper
-|sellprice=1
-|source=[[Copper]]
-}}

@@ -1,0 +1,7 @@
+{{InfoItem
+|type=Material
+|description=Hey look Mario! I have-a my own reference in the game!
+|sellprice=100
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=40|num=7|expcraft=160|time=12500}}

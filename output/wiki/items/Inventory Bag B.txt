@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=3
-|type=Inventory 
-|speed=-20
-|reach=10
-|sellprice=200
-|source=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
-}}

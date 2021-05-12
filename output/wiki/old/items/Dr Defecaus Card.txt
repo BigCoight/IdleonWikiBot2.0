@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Dr Defecaus
+|order=1
+|category=Bosses
+|effect=+{%_Total_Damage
+|bonus=1.5
+|reqtier=5
+|source=[[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.03|1}}
+{{quest/tail}}

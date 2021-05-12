@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Scripticus#Champion Of The Grasslands|Champion Of The Grasslands]]
-|description=Proof that you mastered the art of the Mining, Smithing, and  Choppin skills.
-|sellprice=25000
-}}

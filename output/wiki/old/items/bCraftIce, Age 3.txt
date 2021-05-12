@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Monster Drop
+|description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has 50,000 1 star ratings claiming it to be false advertising.
+|sellprice=200
+}}

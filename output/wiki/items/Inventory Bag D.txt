@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=10
-|type=Inventory 
-|speed=165
-|reach=10
-|sellprice=200
-|source=[[Promotheus#The Witcher, But Not Really|The Witcher, But Not Really]]
-}}

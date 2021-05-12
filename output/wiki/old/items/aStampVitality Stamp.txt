@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=12
+|type=Combat
+|bonus= Base HP
+|material=Snake Skin
+|sellprice=8000
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+}}

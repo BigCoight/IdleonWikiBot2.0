@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=22
+|type=Skills
+|bonus=% Multifish Chance
+|material=Platinum Ore
+|sellprice=3000
+|source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
+}}

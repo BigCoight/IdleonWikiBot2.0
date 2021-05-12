@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=2
+|type=Skills
+|bonus= Choppin Efficiency
+|material=Thread
+|sellprice=1200
+}}

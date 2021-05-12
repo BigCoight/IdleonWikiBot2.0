@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=3
+|type=Misc
+|bonus=% Spawn Chance
+|material=Boring Brick
+|sellprice=2000
+|source=[[Crystal Carrot]], [[Crystal Crabal]], [[Crystal Cattle]]
+}}

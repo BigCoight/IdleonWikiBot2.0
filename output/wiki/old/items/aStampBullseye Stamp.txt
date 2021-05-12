@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=17
+|type=Combat
+|bonus= Base Accuracy
+|material=Sentient Cereal
+|sellprice=12500
+|source=[[Mutton#7 Figure Followers|7 Figure Followers]]
+}}

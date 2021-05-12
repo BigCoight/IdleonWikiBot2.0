@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Constructor_Crow#Restoring Power To Another Portal|Restoring Power To Another Portal]]
-|description=Restores power to the Glacial Portal in the desert town, allowing travel to World 3!
-|sellprice=1
-}}

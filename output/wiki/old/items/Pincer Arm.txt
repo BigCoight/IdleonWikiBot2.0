@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Monster Drop
+|description=That looks sharp! Is probably what the pincermin said before you cut his arm off.
+|sellprice=120
+|source=[[Pincermin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Pincermin]]|0.18|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Platinum Pickaxe]]|10500|Crafting}}
+{{usedin/row|[[Talent II Stamp]]|Lots|Stamps}}
+{{quest/tail}}

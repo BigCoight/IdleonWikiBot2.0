@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Fish
-|description=It's not a snack, and it certainly doesn't smile back... for copyright reasons!
-|sellprice=4
-|source=Fishing, [[Colosseum#Sandstone_Bronze_Chest|Sandstone_Bronze_Chest]], [[Colosseum#Frostbite_Bronze_Chest|Frostbite_Bronze_Chest]]
-}}

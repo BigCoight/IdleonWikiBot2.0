@@ -1,0 +1,41 @@
+{{InfoItem
+|class=All
+|level=35
+|skill=catching
+|type=Bug Catching Net
+|skillpower=26
+|str=3
+|agi=7
+|upgrade=3
+|sellprice=637000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=34
+|levelreq=29
+|expgiven=29000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Fruitfly|quantity1=8000
+|resource2=Platinum Ore|quantity2=6000
+|resource3=Gilded Net|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Fruitfly|8000}}
+{{detrecipe|3|Platinum Ore|6000}}
+{{detrecipe|3|Gilded Net|3}}
+{{detrecipe|40|Golden Dubloon|15}}
+{{detrecipe|40|Butterfly|7500}}
+{{detrecipe|40|Reinforced Net|15}}
+{{detrecipe|80|Forest Fibres|12000}}
+{{detrecipe|80|Butterfly|12750}}
+{{detrecipe|80|Distilled Water|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fruitfly|8000}}
+{{detrecipe/totals|Platinum Ore|6000}}
+{{detrecipe/totals|Golden Dubloon|15}}
+{{detrecipe/totals|Butterfly|20250}}
+{{detrecipe/totals|Forest Fibres|12000}}
+{{detrecipe/totals|Distilled Water|45}}
+{{quest/tail}}

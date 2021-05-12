@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Monster Drop
+|description=''Theres a snake in me boots! Oh wait no, my boots are the snake!''  - Someone who wears snakeskin boots
+|sellprice=13
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.18|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Name I Guess2|Name I Guess2]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Skinny 0 Cal|Skinny 0 Cal]]|Lots|Alchemy}}
+{{quest/tail}}

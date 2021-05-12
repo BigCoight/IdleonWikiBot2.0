@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Fly
+|order=11
+|category=Easy Resources
+|effect=+{%_Monster_EXP_While_Active
+|bonus=10
+|reqtier=4
+|source=[[Catching#Drops|Catching Flies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
+{{quest/tail}}

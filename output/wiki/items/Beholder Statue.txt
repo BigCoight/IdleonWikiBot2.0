@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Statue
-|description=This statue is beautiful! Well, at least to me.
-|sellprice=10
-|source=[[DropTable5b]]
-}}

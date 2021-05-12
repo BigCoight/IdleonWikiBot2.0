@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Barrel
-|description=Increases Forging Speed by 15% for the Forge Slot it's in. 75% chance to be consumed when a bar is forged.
-|sellprice=8
-|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Glumlee#Learning To Smelt|Learning To Smelt]]
-}}

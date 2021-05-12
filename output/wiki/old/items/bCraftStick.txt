@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Monster Drop
+|description=Made of wood.
+|sellprice=90
+|source=[[Walking Stick]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.21|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Feral Leathering]]|3000|Crafting}}
+{{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|500|Quests}}
+{{quest/tail}}

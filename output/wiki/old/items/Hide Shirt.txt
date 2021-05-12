@@ -1,0 +1,38 @@
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Shirt
+|str=6
+|upgrade=3
+|defence=4
+|sellprice=10110
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=45
+|levelreq=14
+|expgiven=600
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Bleach Logs|quantity1=325
+|resource2=Copper Platebody|quantity2=2
+|resource3=Steel Axe|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Studded Hide]]|4|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Bleach Logs|325}}
+{{detrecipe|3|Copper Platebody|2}}
+{{detrecipe|40|Copper Bar|130}}
+{{detrecipe|40|Trusty Nails|300}}
+{{detrecipe|3|Steel Axe|1}}
+{{detrecipe|40|Slime Sludge|150}}
+{{detrecipe|40|Boring Brick|125}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bleach Logs|325}}
+{{detrecipe/totals|Copper Bar|130}}
+{{detrecipe/totals|Trusty Nails|300}}
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Boring Brick|125}}
+{{quest/tail}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|luck=3
+|misc=10% Drop Chance
+|sellprice=3
+|rarity=Silver
+}}

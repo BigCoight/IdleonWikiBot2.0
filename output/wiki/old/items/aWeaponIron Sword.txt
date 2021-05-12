@@ -1,0 +1,12 @@
+{{InfoItem
+|class=Warrior
+|level=1
+|type=Spear
+|speed=9
+|weaponpower=25
+|str=3
+|luck=1
+|reach=78
+|upgrade=2
+|sellprice=200
+}}

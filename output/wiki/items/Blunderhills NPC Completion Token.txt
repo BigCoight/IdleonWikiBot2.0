@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Scripticus#Champion Of The Grasslands|Champion Of The Grasslands]]
-|description=Made up of all the tokens that you collected after completing an NPC's entire questline.
-|sellprice=30000
-}}

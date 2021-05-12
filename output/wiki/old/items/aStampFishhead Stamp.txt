@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=18
+|type=Skills
+|bonus=% Fishing Exp
+|material=Megalodon Tooth
+|sellprice=3000
+|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+}}

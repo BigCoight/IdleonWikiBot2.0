@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Desert Boss Keys to your account.
+|sellprice=50
+|source=[[King Doot]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Djonnut#I'm Blue Dabadedada|I'm Blue Dabadedada]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.8|1}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.18|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.18|1}}
+{{quest/tail}}

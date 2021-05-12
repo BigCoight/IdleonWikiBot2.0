@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Statue
+|description=A stone statue that isnt actually fast because its made of stone and stone can't move. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[Krunk#King of the Cavern|King of the Cavern]], [[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]], [[Stiltzcho#No Stone Unturned|No Stone Unturned]], [[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]], [[DropTable5b]]
+}}
+{{Statuedata|0.1|+ %@ Move Speed}}{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.07|2.0}}
+{{detdrops|[[Crystal Crabal]]|0.07|3.0}}
+{{detdrops|[[Crystal Cattle]]|0.07|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.00014000000000000001|1.0}}
+{{quest/tail}}

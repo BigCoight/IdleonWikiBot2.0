@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Statue
+|description=A stone statue that looks good enough to eat to anyone who doesn't notice that it's inedible. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]]
+}}
+{{Statuedata|1|+ %@ Food Effect}}{{detdrops/head}}
+{{detdrops|[[Poop]]|0.00030000000000000003|1.0}}
+{{detdrops|[[Rat]]|0.00030000000000000003|1.0}}
+{{detdrops|[[Crystal Carrot]]|0.05|2.0}}
+{{detdrops|[[Crystal Crabal]]|0.05|3.0}}
+{{detdrops|[[Crystal Cattle]]|0.05|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
+{{quest/tail}}

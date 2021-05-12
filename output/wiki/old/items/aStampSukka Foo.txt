@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=23
+|type=Combat
+|bonus=% Boss Damage
+|material=Amarok Slab
+|sellprice=10000
+}}

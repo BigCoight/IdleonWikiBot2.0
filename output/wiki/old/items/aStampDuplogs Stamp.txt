@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=7
+|type=Skills
+|bonus=% Multi Log Chance
+|material=Militia Helm
+|sellprice=1000
+}}

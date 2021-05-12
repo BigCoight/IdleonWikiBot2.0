@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Papua Piggea's quests!
+|sellprice=700
+|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
+{{quest/tail}}

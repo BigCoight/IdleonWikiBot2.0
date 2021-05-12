@@ -1,0 +1,4 @@
+{{Fishingaccessory
+|type=Fishing Accessory
+|sellprice=50
+}}

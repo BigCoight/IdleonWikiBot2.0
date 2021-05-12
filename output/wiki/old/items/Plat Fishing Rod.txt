@@ -1,0 +1,42 @@
+{{InfoItem
+|class=All
+|level=35
+|skill=fishing
+|type=Fishing Rod
+|skillpower=25
+|str=9
+|upgrade=3
+|sellprice=1135000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=32
+|levelreq=29
+|expgiven=29000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Bloach|quantity1=7000
+|resource2=Platinum Bar|quantity2=1000
+|resource3=Gold Fishing Rod|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Bloach|7000}}
+{{detrecipe|3|Platinum Bar|1000}}
+{{detrecipe|3|Gold Fishing Rod|3}}
+{{detrecipe|40|Hermit Can|7500}}
+{{detrecipe|40|Leather Hide|3000}}
+{{detrecipe|40|Iron Fishing Rod|15}}
+{{detrecipe|80|Iron Bar|4500}}
+{{detrecipe|80|Hermit Can|12750}}
+{{detrecipe|80|Distilled Water|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bloach|7000}}
+{{detrecipe/totals|Platinum Bar|1000}}
+{{detrecipe/totals|Hermit Can|20250}}
+{{detrecipe/totals|Leather Hide|3000}}
+{{detrecipe/totals|Iron Bar|4500}}
+{{detrecipe/totals|Distilled Water|45}}
+{{quest/tail}}

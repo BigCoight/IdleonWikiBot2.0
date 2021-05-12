@@ -1,0 +1,31 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Health Food, Boost Food, Golden Food.
+|sellprice=550
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=14
+|levelreq=7
+|expgiven=20
+|recipefrom=Start
+|resource1=Nomwich|quantity1=75
+|resource2=Hot Dog|quantity2=25
+|resource3=Oak Logs|quantity3=60
+|resource4=Copper Bar|quantity4=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Average Food Pouch]]|10|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Nomwich|75}}
+{{detrecipe|3|Hot Dog|25}}
+{{detrecipe|3|Oak Logs|60}}
+{{detrecipe|3|Copper Bar|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Nomwich|75}}
+{{detrecipe/totals|Hot Dog|25}}
+{{detrecipe/totals|Oak Logs|60}}
+{{detrecipe/totals|Copper Bar|15}}
+{{quest/tail}}

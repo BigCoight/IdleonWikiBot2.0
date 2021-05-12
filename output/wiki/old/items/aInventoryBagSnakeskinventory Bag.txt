@@ -1,0 +1,14 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=1300
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.00008|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
+{{quest/tail}}

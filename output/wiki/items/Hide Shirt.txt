@@ -1,9 +1,0 @@
-{{InfoItem
-|class=Warrior
-|level=15
-|type=Shirt
-|str=6
-|upgrade=3
-|defence=4
-|sellprice=200
-}}

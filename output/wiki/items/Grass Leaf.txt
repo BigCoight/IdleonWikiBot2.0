@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Leaf
-|sellprice=4
-|source=Choppin, [[DropTable5]]
-}}

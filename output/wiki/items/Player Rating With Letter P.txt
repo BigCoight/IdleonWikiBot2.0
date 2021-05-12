@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[XxX_Cattleprod_XxX#Ok, Now It'S Peak Gaming!|Ok, Now It'S Peak Gaming!]]
-|description='WTF y do my items CONSTANTLY DISAPPEAR I HATE IT!! Complete RUBBISH! 1 STAR UNTIL YOU FIX MY SPECIFIC PROBLEM and even then I'll probably just raise it to 2 stars lol'
-|sellprice=100
-}}

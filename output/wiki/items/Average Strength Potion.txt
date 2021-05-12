@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Boost Food
-|description=Increases Base Dmg by 30. 13% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
-|sellprice=25
-|source=[[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]], [[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[DropTable2]]
-}}

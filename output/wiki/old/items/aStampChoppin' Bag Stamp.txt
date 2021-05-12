@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=6
+|type=Skills
+|bonus= Choppin Carry Cap
+|material=Carrot Cube
+|sellprice=1000
+|source=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
+}}

@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=20
-|type=Ring
-|luck=1
-|upgrade=2
-|defence=10
-|sellprice=5000
-}}

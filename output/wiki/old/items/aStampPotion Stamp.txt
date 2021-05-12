@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=6
+|type=Misc
+|bonus=% Boost Food Effect
+|material=Icing Ironbite
+|sellprice=3000
+|source=[[Papua_Piggea#Stamp Collecting|Stamp Collecting]]
+}}

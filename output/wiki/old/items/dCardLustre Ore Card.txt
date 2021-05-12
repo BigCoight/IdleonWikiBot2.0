@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Lustre Ore
+|order=3
+|category=Medium Resources
+|effect=+{_Base_LUK
+|bonus=10
+|reqtier=4
+}}

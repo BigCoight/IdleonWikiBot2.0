@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Sir Stache
+|order=2
+|category=Frostfire Tyundra
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=1.5
+|reqtier=2.5
+|source=[[Sir Stache]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.0001|1}}
+{{quest/tail}}

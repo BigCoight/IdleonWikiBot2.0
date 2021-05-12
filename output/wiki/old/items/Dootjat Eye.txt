@@ -1,0 +1,28 @@
+{{InfoItem
+|type=Summon Item
+|description=Blinks repeatedly when close to the Black Market, where you buy the Ankh used in the ice zone to get the Hedjet... wait, wrong game, sorry!
+|sellprice=29360
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=58
+|levelreq=21
+|expgiven=2500
+|recipefrom=Start
+|resource1=Silver Antique|quantity1=1
+|resource2=Gold Bar|quantity2=80
+|resource3=Ghost|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Helmet]]|3|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Silver Antique|1}}
+{{detrecipe|3|Gold Bar|80}}
+{{detrecipe|3|Ghost|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Silver Antique|1}}
+{{detrecipe/totals|Gold Bar|80}}
+{{detrecipe/totals|Ghost|1}}
+{{quest/tail}}

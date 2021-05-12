@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Fragment
+|description=Hold down on this item to turn 10 Fragments into 1 Talent Point Reset Potion. You'll need 1 open inventory space for this to work.
+|sellprice=200
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Promotheus#Three Right Answers|Three Right Answers]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[SuperDropTable1]], [[SuperDropTable2]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=23|vendor=Blunder Hills|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=12|vendor=Encroaching Forest Villas|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=17|vendor=YumYum Grotto|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=11|vendor=Faraway Piers|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=11|vendor=Tundra Camp|stock=1|buyprice=800}}
+{{quest/tail}}

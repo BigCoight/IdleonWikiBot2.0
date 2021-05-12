@@ -1,0 +1,42 @@
+{{InfoItem
+|class=All
+|level=35
+|skill=choppin
+|type=Hatchet
+|skillpower=18
+|agi=5
+|wis=14
+|upgrade=3
+|sellprice=1040800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=30
+|levelreq=26
+|expgiven=16000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Tropilogs|quantity1=8000
+|resource2=Chain Link|quantity2=6000
+|resource3=Golden Axe|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Tropilogs|8000}}
+{{detrecipe|3|Chain Link|6000}}
+{{detrecipe|3|Golden Axe|3}}
+{{detrecipe|40|Golden Dubloon|15}}
+{{detrecipe|40|Crabby Cakey|6000}}
+{{detrecipe|40|Iron Hatchet|15}}
+{{detrecipe|80|Jungle Logs|5550}}
+{{detrecipe|80|Boring Brick|3000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Chain Link|6000}}
+{{detrecipe/totals|Golden Dubloon|15}}
+{{detrecipe/totals|Crabby Cakey|6000}}
+{{detrecipe/totals|Jungle Logs|5550}}
+{{detrecipe/totals|Boring Brick|3000}}
+{{quest/tail}}

@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Obol_Altar#Bad Kitty, Get Off That Altar!|Bad Kitty, Get Off That Altar!]]
-|description=He was one of the good ones... Alas he is now just a pickle. Good for scaring a cat though!
-|sellprice=20000
-|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]]
-}}

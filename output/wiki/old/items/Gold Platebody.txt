@@ -1,0 +1,35 @@
+{{InfoItem
+|class=All
+|level=35
+|type=Shirt
+|str=5
+|agi=5
+|wis=5
+|upgrade=3
+|defence=18
+|sellprice=141525
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=1
+|levelreq=16
+|expgiven=1400
+|recipefrom=Start
+|resource1=Pocket Sand|quantity1=1500
+|resource2=Copper Platebody|quantity2=5
+|resource3=Gold Bar|quantity3=350
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Pocket Sand|1500}}
+{{detrecipe|3|Copper Platebody|5}}
+{{detrecipe|40|Copper Bar|325}}
+{{detrecipe|40|Trusty Nails|750}}
+{{detrecipe|3|Gold Bar|350}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Pocket Sand|1500}}
+{{detrecipe/totals|Copper Bar|325}}
+{{detrecipe/totals|Trusty Nails|750}}
+{{detrecipe/totals|Gold Bar|350}}
+{{quest/tail}}

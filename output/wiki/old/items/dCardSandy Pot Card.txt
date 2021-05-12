@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Sandy Pot
+|order=0
+|category=Yum Yum Desert
+|effect=+{%_EXP_Conversion_from_Talent
+|bonus=10
+|reqtier=12
+|source=[[Sandy Pot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandy Pot]]|0.0001|1}}
+{{quest/tail}}

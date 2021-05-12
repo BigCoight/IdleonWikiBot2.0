@@ -1,0 +1,13 @@
+{{InfoItem
+|class=All
+|level=85
+|type=Shoes
+|str=7
+|agi=7
+|wis=7
+|luck=7
+|misc=7% Defence
+|upgrade=4
+|defence=22
+|sellprice=200
+}}

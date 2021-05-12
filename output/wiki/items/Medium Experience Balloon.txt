@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Exp Balloon
-|sellprice=1
-|source=[[Tiki_Chief#Blame It On The Goblins|Blame It On The Goblins]], [[Constructor_Crow#Restoring Power To Another Portal|Restoring Power To Another Portal]], [[Snake_Jar#Psa. You Are Being Eaten!|Psa. You Are Being Eaten!]], [[Wellington#You Can'T Run, But You Can Hide|You Can'T Run, But You Can Hide]], [[Dazey#Literally Physics|Literally Physics]], [[Cowbo_Jones#Children? What'D They Ever Do For Me...|Children? What'D They Ever Do For Me...]]
-}}

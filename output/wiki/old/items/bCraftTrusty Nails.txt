@@ -1,0 +1,21 @@
+{{InfoItem
+|type=Material
+|description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead!
+|sellprice=12
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=5|num=2|expcraft=8|time=250}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Cramped Choppin Pouch]]|30|Crafting}}
+{{usedin/row|[[The Stingers]]|20|Crafting}}
+{{usedin/row|[[Cramped Material Pouch]]|80|Crafting}}
+{{usedin/row|[[Copper Platebody]]|150|Crafting}}
+{{usedin/row|[[Iron Boots]]|500|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|300|Quests}}
+{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|1000|Quests}}
+{{usedin/row|[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]|750|Quests}}
+{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Thumb Pow|Thumb Pow]]|Lots|Alchemy}}
+{{quest/tail}}

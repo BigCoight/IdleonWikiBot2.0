@@ -1,4 +1,0 @@
-{{InfoItem
-|type=Summon Item
-|sellprice=100
-}}

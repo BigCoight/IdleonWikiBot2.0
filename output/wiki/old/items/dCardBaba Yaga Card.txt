@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Baba Yaga
+|order=0
+|category=Bosses
+|effect=+{%_Money_from_Monsters
+|bonus=1.5
+|reqtier=10
+|source=[[Baba Yaga]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baba Yaga]]|0.03|1}}
+{{quest/tail}}

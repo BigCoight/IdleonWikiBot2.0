@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=5
+|type=Skills
+|bonus=% Multi Ore Chance
+|material=Thief Hood
+|sellprice=1000
+}}

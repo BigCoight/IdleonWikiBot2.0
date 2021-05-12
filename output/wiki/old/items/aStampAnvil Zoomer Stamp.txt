@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=3
+|type=Skills
+|bonus=% Anvil Production Spd
+|material=Copper Ore
+|sellprice=800
+|source=[[DropTable1]]
+}}

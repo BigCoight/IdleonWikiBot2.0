@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=2
+|type=Misc
+|bonus=% All Carry Cap
+|material=Glass Shard
+|sellprice=10000
+|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+}}

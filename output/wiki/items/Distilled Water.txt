@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Material
-|sellprice=50
-|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]]
-}}

@@ -1,0 +1,13 @@
+{{InfoCard
+|title=Amarok
+|order=3
+|category=Bosses
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=1.5
+|reqtier=2.5
+|source=[[Amarok]], [[Nightmare Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Amarok]]|0.04|1}}
+{{detdrops|[[Nightmare Amarok]]|0.02|1}}
+{{quest/tail}}

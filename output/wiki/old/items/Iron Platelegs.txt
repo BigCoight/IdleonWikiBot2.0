@@ -1,0 +1,31 @@
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|wis=3
+|upgrade=2
+|defence=11
+|sellprice=14700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=34
+|levelreq=14
+|expgiven=750
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=225
+|resource2=Boring Brick|quantity2=300
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Shins]]|6|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|225}}
+{{detrecipe|3|Boring Brick|300}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|225}}
+{{detrecipe/totals|Boring Brick|300}}
+{{quest/tail}}

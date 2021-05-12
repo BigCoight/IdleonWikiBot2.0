@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Upgrade
-|description=Drag onto any Helmet to apply. +4 Random_Stat Success Chance; 60% Uses up 1 item slots.
-|sellprice=5000
-}}

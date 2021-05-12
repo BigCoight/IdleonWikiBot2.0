@@ -1,0 +1,7 @@
+{{Fishingaccessory
+|fishingexp=6
+|fishingspeed=6
+|fishingpower=6
+|type=Fishing Accessory
+|sellprice=50
+}}

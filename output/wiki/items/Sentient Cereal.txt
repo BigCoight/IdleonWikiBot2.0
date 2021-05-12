@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Bug
-|sellprice=15
-|source=Catching, [[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]]
-}}

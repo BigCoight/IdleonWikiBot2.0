@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Picnic_Stowaway#Beating Up Frogs For Some Sauce|Beating Up Frogs For Some Sauce]]
-|description=A tiny ketchup bottle, small enough for a Frog to use. Would go great with some Mustard!
-|sellprice=1
-|source=[[Frog]]
-}}

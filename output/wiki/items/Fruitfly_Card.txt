@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Bug4 Snail
-|sellprice=1
-|source=[[Fruitflies]]
-}}

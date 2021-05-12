@@ -1,0 +1,32 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Monster Parts, Smithing Production Items.
+|sellprice=63700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=19
+|levelreq=18
+|expgiven=2400
+|recipefrom=Start
+|resource1=Cramped Material Pouch|quantity1=10
+|resource2=Glass Shard|quantity2=1
+|resource3=Chain Link|quantity3=1250
+}}
+{{usedin/head}}
+{{usedin/row|[[Sizable Materials Pouch]]|2|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Cramped Material Pouch|10}}
+{{detrecipe|40|Trusty Nails|800}}
+{{detrecipe|40|Frog Leg|400}}
+{{detrecipe|40|Bean Slices|300}}
+{{detrecipe|3|Glass Shard|1}}
+{{detrecipe|3|Chain Link|1250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Trusty Nails|800}}
+{{detrecipe/totals|Frog Leg|400}}
+{{detrecipe/totals|Bean Slices|300}}
+{{detrecipe/totals|Chain Link|1250}}
+{{quest/tail}}

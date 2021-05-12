@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=10
+|type=Skills
+|bonus= Mining Efficiency
+|material=Iron Hatchet
+|sellprice=1000
+}}

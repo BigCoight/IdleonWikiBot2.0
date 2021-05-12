@@ -1,0 +1,8 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|wis=4
+|sellprice=8
+|rarity=Gold
+}}

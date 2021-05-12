@@ -1,0 +1,12 @@
+{{InfoItem
+|class=Warrior
+|level=85
+|type=Sword
+|speed=7
+|weaponpower=36
+|wis=6
+|luck=8
+|reach=74
+|upgrade=2
+|sellprice=200
+}}

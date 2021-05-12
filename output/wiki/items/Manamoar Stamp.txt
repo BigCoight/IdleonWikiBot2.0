@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=8000
-|source=[[Mutton#Clout Chasin'|Clout Chasin']]
-}}

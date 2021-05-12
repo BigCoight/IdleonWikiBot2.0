@@ -1,0 +1,35 @@
+{{InfoItem
+|class=Warrior
+|level=11
+|type=Spear
+|speed=5
+|weaponpower=14
+|str=7
+|wis=3
+|reach=62
+|upgrade=2
+|sellprice=4625
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=24
+|levelreq=12
+|expgiven=270
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Slime Sludge|quantity1=150
+|resource2=Boring Brick|quantity2=125
+}}
+{{usedin/head}}
+{{usedin/row|[[Hide Shirt]]|1|Crafting}}
+{{usedin/row|[[Royal Bayonet]]|3|Crafting}}
+{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+{{usedin/row|[[Polearm Stamp]]|Lots|Stamps}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|150}}
+{{detrecipe|3|Boring Brick|125}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Boring Brick|125}}
+{{quest/tail}}

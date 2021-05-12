@@ -1,0 +1,10 @@
+{{InfoItem
+|class=All
+|level=1
+|skill=catching
+|type=Circle Obol
+|skillpower=2
+|agi=1
+|sellprice=3
+|rarity=Silver
+}}

@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=14
+|type=Skills
+|bonus=% Alch Exp
+|material=Gold Ore
+|sellprice=2500
+|source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
+}}

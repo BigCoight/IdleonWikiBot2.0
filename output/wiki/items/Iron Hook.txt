@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Fishing Accessory
-|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
-|sellprice=50
-|source=[[Scubidew#Don'T Step To Me, Bro!|Don'T Step To Me, Bro!]]
-}}

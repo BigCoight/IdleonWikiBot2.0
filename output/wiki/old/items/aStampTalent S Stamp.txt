@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=18
+|type=Misc
+|bonus= Star Talent Pts
+|material=Copper Ore
+|sellprice=1
+}}

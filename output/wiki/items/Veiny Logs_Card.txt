@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=StumpTree Jungle Tree
-|sellprice=1
-|source=[[Stump_Tree]]
-}}

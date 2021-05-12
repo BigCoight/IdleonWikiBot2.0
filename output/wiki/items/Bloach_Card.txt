@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Fish4 Flies
-|sellprice=1
-}}

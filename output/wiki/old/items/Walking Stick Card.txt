@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Walking Stick
+|order=12
+|category=Blunder Hills
+|effect=+{_Base_WIS
+|bonus=10
+|reqtier=5
+|source=[[Walking Stick]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.000060|1}}
+{{quest/tail}}

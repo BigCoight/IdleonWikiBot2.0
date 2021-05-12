@@ -1,0 +1,28 @@
+{{InfoItem
+|type=Monster Drop
+|description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away.
+|sellprice=5
+|source=[[Frog]], [[Mining#Drops|Mining Void]], [[Mining#Drops|Mining Lustre]], [[Mining#Drops|Mining Starfire]], [[Mining#Drops|Mining Dreadlo]], [[Mining#Drops|Mining Godshard]], [[Choppin#Drops|Choppin Alien Tree]], [[Fly Nest]], [[Butterfly Bar]], [[Sentient Bowl]], [[Grocery Bag]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.21|1}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Starfire]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Dreadlo]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Godshard]]|0.4|2}}
+{{detdrops|[[Choppin#Drops|Choppin Alien Tree]]|0.015|2}}
+{{detdrops|[[Fly Nest]]|0.0|2}}
+{{detdrops|[[Butterfly Bar]]|0.0|2}}
+{{detdrops|[[Sentient Bowl]]|0.0|2}}
+{{detdrops|[[Grocery Bag]]|0.0|2}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Torn Jeans]]|20|Crafting}}
+{{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
+{{usedin/row|[[Leather Cap]]|25|Crafting}}
+{{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
+{{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
+{{quest/tail}}

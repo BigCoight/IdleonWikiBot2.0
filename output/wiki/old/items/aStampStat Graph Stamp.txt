@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=28
+|type=Combat
+|bonus= All Stats
+|material=Mystery Upgrade Stone I
+|sellprice=10000
+|source=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+}}

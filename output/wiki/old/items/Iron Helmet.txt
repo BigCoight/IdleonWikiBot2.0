@@ -1,0 +1,34 @@
+{{InfoItem
+|class=All
+|level=15
+|type=Helmet
+|str=5
+|agi=5
+|wis=5
+|upgrade=2
+|defence=9
+|sellprice=13760
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=32
+|levelreq=12
+|expgiven=520
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=180
+|resource2=Goblin Ear|quantity2=400
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Platinum Helmet]]|4|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|1|Quests}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|180}}
+{{detrecipe|3|Goblin Ear|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|180}}
+{{detrecipe/totals|Goblin Ear|400}}
+{{quest/tail}}

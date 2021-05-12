@@ -1,6 +1,6 @@
 {
     "ForgeA": {
-        "Name": "Fire_Forge",
+        "Name": "Fire Forge",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -26,7 +26,7 @@
         ]
     },
     "ForgeB": {
-        "Name": "Cinder_Forge",
+        "Name": "Cinder Forge",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -52,7 +52,7 @@
         ]
     },
     "Bandit_Bob": {
-        "Name": "Bandit_Bob",
+        "Name": "Bandit Bob",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -81,7 +81,7 @@
         ]
     },
     "Crystal0": {
-        "Name": "Crystal_Carrot",
+        "Name": "Crystal Carrot",
         "AFKtype": "FIGHTING",
         "MonsterFace": "1",
         "MonsterOffsetX": "23",
@@ -113,7 +113,7 @@
         ]
     },
     "Crystal1": {
-        "Name": "Crystal_Crabal",
+        "Name": "Crystal Crabal",
         "AFKtype": "FIGHTING",
         "MonsterFace": "11",
         "MonsterOffsetX": "38",
@@ -145,7 +145,7 @@
         ]
     },
     "Crystal2": {
-        "Name": "Crystal_Cattle",
+        "Name": "Crystal Cattle",
         "AFKtype": "FIGHTING",
         "MonsterFace": "47",
         "MonsterOffsetX": "38",
@@ -177,7 +177,7 @@
         ]
     },
     "mushG": {
-        "Name": "Green_Mushroom",
+        "Name": "Green Mushroom",
         "AFKtype": "FIGHTING",
         "MonsterFace": "1",
         "MonsterOffsetX": "23",
@@ -238,7 +238,7 @@
         ]
     },
     "beanG": {
-        "Name": "Bored_Bean",
+        "Name": "Bored Bean",
         "AFKtype": "FIGHTING",
         "MonsterFace": "7",
         "MonsterOffsetX": "38",
@@ -295,7 +295,7 @@
         ]
     },
     "snakeG": {
-        "Name": "Baby_Boa",
+        "Name": "Baby Boa",
         "AFKtype": "FIGHTING",
         "MonsterFace": "25",
         "MonsterOffsetX": "38",
@@ -381,7 +381,7 @@
         ]
     },
     "plank": {
-        "Name": "Wode_Board",
+        "Name": "Wode Board",
         "AFKtype": "FIGHTING",
         "MonsterFace": "3",
         "MonsterOffsetX": "38",
@@ -440,7 +440,7 @@
         ]
     },
     "branch": {
-        "Name": "Walking_Stick",
+        "Name": "Walking Stick",
         "AFKtype": "FIGHTING",
         "MonsterFace": "8",
         "MonsterOffsetX": "32",
@@ -493,7 +493,7 @@
         ]
     },
     "mushW": {
-        "Name": "Wood_Mushroom",
+        "Name": "Wood Mushroom",
         "AFKtype": "FIGHTING",
         "MonsterFace": "34",
         "MonsterOffsetX": "23",
@@ -605,7 +605,7 @@
         ]
     },
     "rockG": {
-        "Name": "Healing_Rune",
+        "Name": "Healing Rune",
         "AFKtype": "FIGHTING",
         "MonsterFace": "13",
         "MonsterOffsetX": "42",
@@ -625,7 +625,7 @@
         "Damages": ["50", "1"]
     },
     "rockB": {
-        "Name": "Shielding_Rune",
+        "Name": "Shielding Rune",
         "AFKtype": "FIGHTING",
         "MonsterFace": "13",
         "MonsterOffsetX": "42",
@@ -645,7 +645,7 @@
         "Damages": ["50", "1"]
     },
     "rockS": {
-        "Name": "Skeleton_Rune",
+        "Name": "Skeleton Rune",
         "AFKtype": "FIGHTING",
         "MonsterFace": "13",
         "MonsterOffsetX": "42",
@@ -665,7 +665,7 @@
         "Damages": ["50", "1"]
     },
     "jarSand": {
-        "Name": "Sandy_Pot",
+        "Name": "Sandy Pot",
         "AFKtype": "FIGHTING",
         "MonsterFace": "16",
         "MonsterOffsetX": "38",
@@ -778,7 +778,7 @@
         ]
     },
     "sandcastle": {
-        "Name": "Sand_Castle",
+        "Name": "Sand Castle",
         "AFKtype": "FIGHTING",
         "MonsterFace": "28",
         "MonsterOffsetX": "50",
@@ -831,7 +831,7 @@
         ]
     },
     "potato": {
-        "Name": "Mashed_Potato",
+        "Name": "Mashed Potato",
         "AFKtype": "FIGHTING",
         "MonsterFace": "21",
         "MonsterOffsetX": "50",
@@ -911,7 +911,7 @@
         ]
     },
     "sandgiant": {
-        "Name": "Sand_Giant",
+        "Name": "Sand Giant",
         "AFKtype": "FIGHTING",
         "MonsterFace": "29",
         "MonsterOffsetX": "50",
@@ -991,7 +991,7 @@
         ]
     },
     "flake": {
-        "Name": "Frost_Flake",
+        "Name": "Frost Flake",
         "AFKtype": "FIGHTING",
         "MonsterFace": "36",
         "MonsterOffsetX": "38",
@@ -1017,7 +1017,7 @@
         ]
     },
     "stache": {
-        "Name": "Sir_Stache",
+        "Name": "Sir Stache",
         "AFKtype": "FIGHTING",
         "MonsterFace": "37",
         "MonsterOffsetX": "38",
@@ -1043,7 +1043,7 @@
         ]
     },
     "ram": {
-        "Name": "Dedotated_Ram",
+        "Name": "Dedotated Ram",
         "AFKtype": "FIGHTING",
         "MonsterFace": "46",
         "MonsterOffsetX": "38",
@@ -1251,7 +1251,7 @@
         ]
     },
     "speaker": {
-        "Name": "Bop_Box",
+        "Name": "Bop Box",
         "AFKtype": "FIGHTING",
         "MonsterFace": "44",
         "MonsterOffsetX": "38",
@@ -1303,7 +1303,7 @@
         ]
     },
     "mushR": {
-        "Name": "Red_Mushroom",
+        "Name": "Red Mushroom",
         "AFKtype": "FIGHTING",
         "MonsterFace": "19",
         "MonsterOffsetX": "23",
@@ -1329,7 +1329,7 @@
         ]
     },
     "shovelR": {
-        "Name": "Dig_Doug",
+        "Name": "Dig Doug",
         "AFKtype": "FIGHTING",
         "MonsterFace": "23",
         "MonsterOffsetX": "38",
@@ -1435,7 +1435,7 @@
         ]
     },
     "wolfB": {
-        "Name": "Chaotic_Amarok",
+        "Name": "Chaotic Amarok",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1467,7 +1467,7 @@
         ]
     },
     "wolfC": {
-        "Name": "Nightmare_Amarok",
+        "Name": "Nightmare Amarok",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1529,7 +1529,7 @@
         ]
     },
     "Boss2B": {
-        "Name": "Chaotic_Efaunt",
+        "Name": "Chaotic Efaunt",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1560,7 +1560,7 @@
         ]
     },
     "Boss2C": {
-        "Name": "Nightmare_Amarok",
+        "Name": "Nightmare Amarok",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1591,7 +1591,7 @@
         ]
     },
     "poopBig": {
-        "Name": "Dr_Defecaus",
+        "Name": "Dr Defecaus",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1621,7 +1621,7 @@
         ]
     },
     "babayaga": {
-        "Name": "Baba_Yaga",
+        "Name": "Baba Yaga",
         "AFKtype": "FIGHTING",
         "MonsterFace": "6",
         "MonsterOffsetX": "42",
@@ -1650,7 +1650,7 @@
         ]
     },
     "babaHour": {
-        "Name": "Biggie_Hours",
+        "Name": "Biggie Hours",
         "AFKtype": "FIGHTING",
         "MonsterFace": "6",
         "MonsterOffsetX": "42",
@@ -1679,7 +1679,7 @@
         ]
     },
     "babaMummy": {
-        "Name": "King_Doot",
+        "Name": "King Doot",
         "AFKtype": "FIGHTING",
         "MonsterFace": "6",
         "MonsterOffsetX": "42",
@@ -1710,7 +1710,7 @@
         ]
     },
     "xmasEvent": {
-        "Name": "Giftmas_Blobulyte",
+        "Name": "Giftmas Blobulyte",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1739,7 +1739,7 @@
         ]
     },
     "xmasEvent2": {
-        "Name": "Meaning_of_Giftmas",
+        "Name": "Meaning of Giftmas",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1797,7 +1797,7 @@
         ]
     },
     "loveEvent2": {
-        "Name": "Chocco_Box",
+        "Name": "Chocco Box",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1855,7 +1855,7 @@
         ]
     },
     "EasterEvent2": {
-        "Name": "Egg_Capsule",
+        "Name": "Egg Capsule",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1885,7 +1885,7 @@
         ]
     },
     "Blank0ramaFiller": {
-        "Name": "Nightmare_Amarok",
+        "Name": "Nightmare Amarok",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -1992,7 +1992,7 @@
         ]
     },
     "snakeY": {
-        "Name": "Shell_Snake",
+        "Name": "Shell Snake",
         "AFKtype": "FIGHTING",
         "MonsterFace": "25",
         "MonsterOffsetX": "38",
@@ -2267,7 +2267,7 @@
         ]
     },
     "OakTree": {
-        "Name": "Oak_Tree",
+        "Name": "Oak Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2292,7 +2292,7 @@
         ]
     },
     "BirchTree": {
-        "Name": "Birch_Tree",
+        "Name": "Birch Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2317,7 +2317,7 @@
         ]
     },
     "JungleTree": {
-        "Name": "Jungle_Tree",
+        "Name": "Jungle Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2342,7 +2342,7 @@
         ]
     },
     "ForestTree": {
-        "Name": "Forest_Tree",
+        "Name": "Forest Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2367,7 +2367,7 @@
         ]
     },
     "ToiletTree": {
-        "Name": "Toilet_Tree",
+        "Name": "Toilet Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2392,7 +2392,7 @@
         ]
     },
     "PalmTree": {
-        "Name": "Palm_Tree",
+        "Name": "Palm Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2417,7 +2417,7 @@
         ]
     },
     "StumpTree": {
-        "Name": "Stump_Tree",
+        "Name": "Stump Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2442,7 +2442,7 @@
         ]
     },
     "SaharanFoal": {
-        "Name": "Saharan_Foal",
+        "Name": "Saharan Foal",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2467,7 +2467,7 @@
         ]
     },
     "AlienTree": {
-        "Name": "Alien_Tree",
+        "Name": "Alien Tree",
         "AFKtype": "CHOPPIN",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2491,7 +2491,7 @@
         ]
     },
     "FishSmall": {
-        "Name": "Small_Fish",
+        "Name": "Small Fish",
         "AFKtype": "FISHING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2539,7 +2539,7 @@
         ]
     },
     "Fish2": {
-        "Name": "Hermit_Can",
+        "Name": "Hermit Can",
         "AFKtype": "FIGHTING",
         "MonsterFace": "4",
         "MonsterOffsetX": "42",
@@ -2611,7 +2611,7 @@
         ]
     },
     "BugNest1": {
-        "Name": "Fly_Nest",
+        "Name": "Fly Nest",
         "AFKtype": "FIGHTING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2635,7 +2635,7 @@
         ]
     },
     "BugNest2": {
-        "Name": "Butterfly_Bar",
+        "Name": "Butterfly Bar",
         "AFKtype": "FIGHTING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2659,7 +2659,7 @@
         ]
     },
     "BugNest3": {
-        "Name": "Sentient_Bowl",
+        "Name": "Sentient Bowl",
         "AFKtype": "FIGHTING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2683,7 +2683,7 @@
         ]
     },
     "BugNest4": {
-        "Name": "Grocery_Bag",
+        "Name": "Grocery Bag",
         "AFKtype": "FIGHTING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2757,7 +2757,7 @@
         ]
     },
     "Bug3": {
-        "Name": "Sentient_Cereal",
+        "Name": "Sentient Cereal",
         "AFKtype": "CATCHING",
         "MonsterFace": "0",
         "MonsterOffsetX": "32",
@@ -2850,7 +2850,7 @@
         ]
     },
     "ChestA1": {
-        "Name": "Dewdrop_Bronze_Chest",
+        "Name": "Dewdrop Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -2881,7 +2881,7 @@
         ]
     },
     "ChestB1": {
-        "Name": "Dewdrop_Silver_Chest",
+        "Name": "Dewdrop Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -2915,7 +2915,7 @@
         ]
     },
     "ChestC1": {
-        "Name": "Dewdrop_Golden_Chest",
+        "Name": "Dewdrop Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -2948,7 +2948,7 @@
         ]
     },
     "ChestD1": {
-        "Name": "Dewdrop_Legendary_Chest",
+        "Name": "Dewdrop Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -2968,7 +2968,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA2": {
-        "Name": "Sandstone_Bronze_Chest",
+        "Name": "Sandstone Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3001,7 +3001,7 @@
         ]
     },
     "ChestB2": {
-        "Name": "Sandstone_Silver_Chest",
+        "Name": "Sandstone Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3036,7 +3036,7 @@
         ]
     },
     "ChestC2": {
-        "Name": "Sandstone_Golden_Chest",
+        "Name": "Sandstone Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3067,7 +3067,7 @@
         ]
     },
     "ChestD2": {
-        "Name": "Sandstone_Legendary_Chest",
+        "Name": "Sandstone Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3087,7 +3087,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA3": {
-        "Name": "Frostbite_Bronze_Chest",
+        "Name": "Frostbite Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3119,7 +3119,7 @@
         ]
     },
     "ChestB3": {
-        "Name": "Frostbite_Silver_Chest",
+        "Name": "Frostbite Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3154,7 +3154,7 @@
         ]
     },
     "ChestC3": {
-        "Name": "Frostbite_Golden_Chest",
+        "Name": "Frostbite Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3185,7 +3185,7 @@
         ]
     },
     "ChestD3": {
-        "Name": "Frostbite_Legendary_Chest",
+        "Name": "Frostbite Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3205,7 +3205,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA4": {
-        "Name": "NYI_Bronze_Chest",
+        "Name": "NYI Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3225,7 +3225,7 @@
         "Damages": ["0", "1"]
     },
     "ChestB4": {
-        "Name": "NYI_Silver_Chest",
+        "Name": "NYI Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3245,7 +3245,7 @@
         "Damages": ["0", "1"]
     },
     "ChestC4": {
-        "Name": "NYI_Golden_Chest",
+        "Name": "NYI Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3265,7 +3265,7 @@
         "Damages": ["0", "1"]
     },
     "ChestD4": {
-        "Name": "NYI_Legendary_Chest",
+        "Name": "NYI Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3285,7 +3285,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA5": {
-        "Name": "NYI_Bronze_Chest",
+        "Name": "NYI Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3305,7 +3305,7 @@
         "Damages": ["0", "1"]
     },
     "ChestB5": {
-        "Name": "NYI_Silver_Chest",
+        "Name": "NYI Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3325,7 +3325,7 @@
         "Damages": ["0", "1"]
     },
     "ChestC5": {
-        "Name": "NYI_Golden_Chest",
+        "Name": "NYI Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3345,7 +3345,7 @@
         "Damages": ["0", "1"]
     },
     "ChestD5": {
-        "Name": "NYI_Legendary_Chest",
+        "Name": "NYI Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3365,7 +3365,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA6": {
-        "Name": "NYI_Bronze_Chest",
+        "Name": "NYI Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3385,7 +3385,7 @@
         "Damages": ["0", "1"]
     },
     "ChestB6": {
-        "Name": "NYI_Silver_Chest",
+        "Name": "NYI Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3405,7 +3405,7 @@
         "Damages": ["0", "1"]
     },
     "ChestC6": {
-        "Name": "NYI_Golden_Chest",
+        "Name": "NYI Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3425,7 +3425,7 @@
         "Damages": ["0", "1"]
     },
     "ChestD6": {
-        "Name": "NYI_Legendary_Chest",
+        "Name": "NYI Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3445,7 +3445,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA7": {
-        "Name": "NYI_Bronze_Chest",
+        "Name": "NYI Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3465,7 +3465,7 @@
         "Damages": ["0", "1"]
     },
     "ChestB7": {
-        "Name": "NYI_Silver_Chest",
+        "Name": "NYI Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3485,7 +3485,7 @@
         "Damages": ["0", "1"]
     },
     "ChestC7": {
-        "Name": "NYI_Golden_Chest",
+        "Name": "NYI Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3505,7 +3505,7 @@
         "Damages": ["0", "1"]
     },
     "ChestD7": {
-        "Name": "NYI_Legendary_Chest",
+        "Name": "NYI Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3525,7 +3525,7 @@
         "Damages": ["0", "1"]
     },
     "ChestA8": {
-        "Name": "NYI_Bronze_Chest",
+        "Name": "NYI Bronze Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3545,7 +3545,7 @@
         "Damages": ["0", "1"]
     },
     "ChestB8": {
-        "Name": "NYI_Silver_Chest",
+        "Name": "NYI Silver Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3565,7 +3565,7 @@
         "Damages": ["0", "1"]
     },
     "ChestC8": {
-        "Name": "NYI_Golden_Chest",
+        "Name": "NYI Golden Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3585,7 +3585,7 @@
         "Damages": ["0", "1"]
     },
     "ChestD8": {
-        "Name": "NYI_Legendary_Chest",
+        "Name": "NYI Legendary Chest",
         "AFKtype": "error",
         "MonsterFace": "0",
         "MonsterOffsetX": "34",
@@ -3705,7 +3705,7 @@
         "Damages": ["0", "1"]
     },
     "Nothing": {
-        "Name": "_",
+        "Name": " ",
         "AFKtype": "Nothing",
         "MonsterFace": "0",
         "MonsterOffsetX": "22",

@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|description=Mmmmm, these nuts are so yuuuummy!
-|sellprice=100
-|source=[[Goldric#Dress To Impress|Dress To Impress]]
-}}

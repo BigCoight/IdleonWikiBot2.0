@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Giftmas_Blobulyte#You Shouldn'T Have! No, Really.|You Shouldn'T Have! No, Really.]]
-|description=Avast, land lubber! This coin be property of the YumYum Sea Pirates! Ye best be returning it, lest ye want an underwater funeral, arg!
-|sellprice=3500
-|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]], [[Bandit_Bob]], [[Bandit_Bob]], [[Bandit_Bob]], [[Bandit_Bob]], [[Bandit_Bob]], [[Bandit_Bob]]
-}}

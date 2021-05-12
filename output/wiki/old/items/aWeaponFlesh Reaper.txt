@@ -1,0 +1,11 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Spear
+|speed=5
+|weaponpower=690
+|agi=80
+|luck=420
+|reach=70
+|sellprice=40
+}}

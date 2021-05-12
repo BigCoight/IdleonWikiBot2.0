@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=21
+|type=Skills
+|bonus=% Fish Carry Cap
+|material=Butterfly
+|sellprice=2000
+|source=[[DropTable12]]
+}}

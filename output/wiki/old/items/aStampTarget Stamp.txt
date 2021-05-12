@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=5
+|type=Combat
+|bonus= Base Accuracy
+|material=Thread
+|sellprice=250
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}

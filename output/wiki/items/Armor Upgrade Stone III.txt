@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Upgrade
-|description=Drag onto any Armor to apply. +3 Defence +4 Random_Stat Success Chance; 50% Uses up 1 slots only if Successful
-|sellprice=15000
-|source=[[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]]
-}}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Butterfly
+|order=12
+|category=Easy Resources
+|effect=+{%_Total_Catching_Efficiency
+|bonus=10
+|reqtier=5
+|source=[[Catching#Drops|Catching Butterflies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
+{{quest/tail}}

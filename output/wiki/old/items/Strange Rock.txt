@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Stiltzcho#No Stone Unturned|No Stone Unturned]]
+|description=Looks like the piece of a golem. It even has 'Made In Golemtopia' engraved on the side of it.
+|sellprice=1
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.2|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Stiltzcho#No Stone Unturned|No Stone Unturned]]|5|Quests}}
+{{quest/tail}}

@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=20
+|type=Skills
+|bonus=% Catching Exp
+|material=Crabby Cakey
+|sellprice=3000
+|source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
+}}

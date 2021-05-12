@@ -1,0 +1,38 @@
+{{InfoItem
+|class=All
+|level=35
+|type=Helmet
+|str=7
+|agi=7
+|wis=7
+|misc=3% Defence
+|upgrade=3
+|defence=15
+|sellprice=38250
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=0
+|levelreq=15
+|expgiven=900
+|recipefrom=Start
+|resource1=Fly|quantity1=2000
+|resource2=Copper Helmet|quantity2=4
+|resource3=Gold Bar|quantity3=250
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Fly|2000}}
+{{detrecipe|3|Copper Helmet|4}}
+{{detrecipe|40|Copper Bar|200}}
+{{detrecipe|40|Bean Slices|300}}
+{{detrecipe|3|Gold Bar|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Bean Slices|300}}
+{{detrecipe/totals|Gold Bar|250}}
+{{quest/tail}}

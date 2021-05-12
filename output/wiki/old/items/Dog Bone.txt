@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Dog_Bone#Why he Die???|Why he Die???]]
+|description=Dog Bone must have died from a blunt strike to the head, surely that's where he got his Ghost-Name from! Pretty proud of myself for solving this, even if Item Descriptions like me aren't capable of feeling pride!
+|sellprice=7
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|.1|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Dog_Bone#Why he Die???|Why he Die???]]|10|Quests}}
+{{quest/tail}}

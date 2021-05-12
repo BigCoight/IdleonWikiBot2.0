@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Upgrade
-|description=Drag onto any Weapon to apply. +1 Weapon_Power +2 Defence Success Chance; 25% Uses up 1 slots only if Successful
-|sellprice=125
-|source=[[Egggulyte]], [[Egg_Capsule]], [[Floofie]], [[Shell_Snake]]
-}}

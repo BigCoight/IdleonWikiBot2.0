@@ -1,0 +1,15 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Helmet
+|str=2
+|agi=4
+|wis=1
+|luck=1
+|upgrade=2
+|sellprice=150
+|source=[[Frog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.00025|1}}
+{{quest/tail}}

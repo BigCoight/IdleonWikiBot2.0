@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Picnic_Stowaway#Luncheon With The Inlaws|Luncheon With The Inlaws]]
-|description=You gotta embrace the marble! You gotta sniff the marble! You gotta lick the marble! You gotta wash the marble! You gotta BE THE MARBLE!
-|sellprice=800
-|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
-}}

@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Bar
-|sellprice=460
-|source=Forging, [[Cinder_Forge]], [[Colosseum#Sandstone_Golden_Chest|Sandstone_Golden_Chest]], [[Colosseum#Frostbite_Golden_Chest|Frostbite_Golden_Chest]]
-}}

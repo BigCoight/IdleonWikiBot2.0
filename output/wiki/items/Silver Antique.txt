@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Hunk Of Junk
-|sellprice=20000
-|source=[[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]]
-}}

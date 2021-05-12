@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=ToiletTree Birch Tree
-|sellprice=1
-|source=[[Toilet_Tree]]
-}}

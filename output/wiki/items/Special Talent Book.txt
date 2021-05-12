@@ -1,7 +1,0 @@
-{{InfoItem
-|class=All
-|level=999
-|type=Talent Book
-|sellprice=100
-|source=[[Crystal_Carrot]], [[Crystal_Crabal]], [[Crystal_Cattle]], [[Scripticus#The Bigger They Are, The Bigger They Fall!|The Bigger They Are, The Bigger They Fall!]], [[Glumlee#The Impossible Task|The Impossible Task]], [[Picnic_Stowaway#The Last Supper, At Least For Today!|The Last Supper, At Least For Today!]], [[Rocklyte#Becoming The Best Beginner|Becoming The Best Beginner]], [[SuperDropTable1]], [[SuperDropTable1]]
-}}

@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=2000
-|source=[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]
-}}

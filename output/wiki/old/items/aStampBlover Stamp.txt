@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=27
+|type=Combat
+|bonus= Base LUK
+|material=Jellyfish
+|sellprice=12500
+}}

@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=9
+|type=Skills
+|bonus=% Mining Exp
+|material=Plank
+|sellprice=1500
+|source=[[DropTable5]]
+}}

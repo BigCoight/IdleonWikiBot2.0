@@ -1,0 +1,12 @@
+{{InfoItem
+|class=Archer
+|level=75
+|type=Bow
+|speed=6
+|weaponpower=30
+|str=5
+|agi=13
+|reach=200
+|upgrade=4
+|sellprice=15000
+}}

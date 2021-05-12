@@ -1,7 +1,0 @@
-{{InfoItem
-|class=All
-|level=999
-|type=Anvil Recipe
-|sellprice=1
-|source=[[Slime]], [[Slime]], [[Glublin]], [[Wode_Board]], [[DropTable1]], [[DropTable3]]
-}}

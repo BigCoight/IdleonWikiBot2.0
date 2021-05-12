@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=1000
-|source=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
-}}

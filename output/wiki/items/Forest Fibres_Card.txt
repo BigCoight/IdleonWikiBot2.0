@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=ForestTree Forest Tree
-|sellprice=1
-|source=[[Forest_Tree]]
-}}

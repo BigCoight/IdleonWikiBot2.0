@@ -1,0 +1,35 @@
+{{InfoItem
+|class=All
+|level=4
+|type=Shirt
+|agi=1
+|wis=2
+|upgrade=2
+|defence=3
+|sellprice=295
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=36
+|levelreq=3
+|expgiven=15
+|recipefrom=Scripticus
+|resource1=Spore Cap|quantity1=25
+|resource2=Oak Logs|quantity2=50
+|resource3=Orange Tee|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Black Tee]]|3|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|50}}
+{{detrecipe|3|Orange Tee|2}}
+{{detrecipe|40|Spore Cap|20}}
+{{detrecipe|40|Oak Logs|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|45}}
+{{detrecipe/totals|Oak Logs|80}}
+{{quest/tail}}

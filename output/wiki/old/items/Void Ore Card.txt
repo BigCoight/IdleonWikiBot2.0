@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Void Ore
+|order=2
+|category=Medium Resources
+|effect=+{%_Card_Drop_Chance
+|bonus=10
+|reqtier=6
+}}

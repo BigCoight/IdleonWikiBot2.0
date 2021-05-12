@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=10
+|type=Combat
+|bonus=% Total Damage
+|material=Grass Leaf
+|sellprice=2500
+|source=[[Gigafrog]]
+}}

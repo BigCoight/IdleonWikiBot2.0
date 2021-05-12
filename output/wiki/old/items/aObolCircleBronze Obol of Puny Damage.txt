@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=5 Base Damage
+|sellprice=1
+|rarity=Bronze
+|source=[[Obol_Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]]
+}}

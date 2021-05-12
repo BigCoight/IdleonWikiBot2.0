@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Circle Obol
-|agi=2
-|sellprice=3
-|rariry=Silver
-}}

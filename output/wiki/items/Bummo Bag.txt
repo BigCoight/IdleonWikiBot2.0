@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Inventory 
-|reach=10
-|sellprice=24
-|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]]
-}}

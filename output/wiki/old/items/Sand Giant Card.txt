@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Sand Giant
+|order=9
+|category=Yum Yum Desert
+|effect=+{%_Minimum_Damage
+|bonus=10
+|reqtier=2
+|source=[[Sand Giant]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Giant]]|0.0001|1}}
+{{quest/tail}}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Bloque
+|order=3
+|category=Frostfire Tyundra
+|effect=+{%_Fighting_AFK_gain_rate
+|bonus=1.5
+|reqtier=2.5
+|source=[[Bloque]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.0001|1}}
+{{quest/tail}}

@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=19
+|type=Combat
+|bonus=% Total Damage
+|material=Steel Axe
+|sellprice=7500
+|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+}}

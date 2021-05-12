@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Gold
-|sellprice=1
-|source=[[Gold]]
-}}

@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Boost Food
-|description=Increases Mining Speed by 10% 10% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
-|sellprice=10
-|source=[[Krunk#A Plot To Be Perfect|A Plot To Be Perfect]]
-}}

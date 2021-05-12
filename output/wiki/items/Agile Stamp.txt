@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=2500
-|source=[[DropTable12]]
-}}

@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Health Food
+|description=Auto-Used when your health goes below 50%. Restores 300 HP. Has a 30 second Cooldown.
+|sellprice=48
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[DropTable6]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=0|vendor=YumYum Grotto|stock=25000|buyprice=192}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Buttered Toasted Butter]]|1|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|500|Quests}}
+{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|130|Quests}}
+{{quest/tail}}

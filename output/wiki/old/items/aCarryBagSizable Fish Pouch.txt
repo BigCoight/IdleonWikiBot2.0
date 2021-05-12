@@ -1,0 +1,31 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Fish.
+|sellprice=359375
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=33
+|levelreq=27
+|expgiven=17000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Bloach|quantity1=6750
+|resource2=Average Fish Pouch|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Bloach|6750}}
+{{detrecipe|3|Average Fish Pouch|5}}
+{{detrecipe|40|Cramped Fish Pouch|50}}
+{{detrecipe|80|Goldfish|9000}}
+{{detrecipe|40|Small Fish Pouch|25}}
+{{detrecipe|80|Hermit Can|10625}}
+{{detrecipe|80|Distilled Water|50}}
+{{detrecipe|40|Hermit Can|7500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bloach|6750}}
+{{detrecipe/totals|Goldfish|9000}}
+{{detrecipe/totals|Hermit Can|18125}}
+{{detrecipe/totals|Distilled Water|50}}
+{{quest/tail}}

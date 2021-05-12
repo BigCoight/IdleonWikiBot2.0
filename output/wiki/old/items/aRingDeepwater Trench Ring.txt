@@ -1,0 +1,11 @@
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|misc=40 Purple Depth
+|upgrade=2
+|sellprice=2500
+}}

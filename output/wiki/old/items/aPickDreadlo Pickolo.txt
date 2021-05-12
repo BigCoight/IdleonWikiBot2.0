@@ -1,0 +1,12 @@
+{{InfoItem
+|class=All
+|level=65
+|skill=mining
+|type=Pickaxe
+|skillpower=29
+|str=25
+|agi=9
+|misc=8% Mining Efficincy
+|upgrade=4
+|sellprice=200
+}}

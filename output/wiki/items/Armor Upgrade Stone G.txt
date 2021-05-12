@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Upgrade
-|description=Drag onto any Armor to apply. +4 Random_Stat Success Chance; 42% Uses up 1 slots only if Successful
-|sellprice=100
-|source=[[Krunk#The Scientific Method, According To A Rock|The Scientific Method, According To A Rock]]
-}}

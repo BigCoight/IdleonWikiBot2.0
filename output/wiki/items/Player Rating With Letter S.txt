@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[XxX_Cattleprod_XxX#Ok, Now It'S Peak Gaming!|Ok, Now It'S Peak Gaming!]]
-|sellprice=100
-}}

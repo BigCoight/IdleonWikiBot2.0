@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=13
+|type=Misc
+|bonus= Talent 1 Pts
+|material=Frog Leg
+|sellprice=1
+}}

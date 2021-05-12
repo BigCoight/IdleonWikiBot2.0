@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Fishing Accessory
-|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Woah. Woah! WOAAHHH!!!
-|sellprice=50
-}}

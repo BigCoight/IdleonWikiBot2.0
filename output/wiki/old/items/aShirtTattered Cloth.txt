@@ -1,0 +1,24 @@
+{{InfoItem
+|class=Mage
+|level=15
+|type=Shirt
+|wis=8
+|luck=3
+|upgrade=2
+|sellprice=200
+|source=[[DropTable2]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.005|1.0}}
+{{detdrops|[[Slime]]|0.00004|1.0}}
+{{detdrops|[[Baby Boa]]|0.00005|1.0}}
+{{detdrops|[[Carrotman]]|0.00006|1.0}}
+{{detdrops|[[Amarok]]|0.01|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.01|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.01|2.0}}
+{{detdrops|[[Baba Yaga]]|0.01|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.01|1.0}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Furled Robes]]|4|Crafting}}
+{{quest/tail}}

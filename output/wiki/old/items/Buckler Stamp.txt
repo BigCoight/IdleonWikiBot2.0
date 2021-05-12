@@ -1,0 +1,5 @@
+{{InfoItem
+|type=Stamp
+|sellprice=12000
+}}
+{{stampdata|stype=BaseDef|ftype=add|x1=1|x2=0|i4=7|material=PlatBar|i6=25|i7=6|i8=2200|i9=1.305|i10=0|i11={} Base Defence|i12=0}}

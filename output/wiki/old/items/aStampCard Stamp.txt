@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=9
+|type=Misc
+|bonus=% Card Drop Rate
+|material=Furled Flag
+|sellprice=3000
+}}

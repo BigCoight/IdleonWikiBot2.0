@@ -1,0 +1,32 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Helmet
+|agi=2
+|wis=5
+|upgrade=2
+|sellprice=1130
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=40
+|levelreq=5
+|expgiven=20
+|recipefrom=Start
+|resource1=Bleach Logs|quantity1=100
+|resource2=Iron Ore|quantity2=50
+|resource3=Crude Oil|quantity3=60
+}}
+{{usedin/head}}
+{{usedin/row|[[Hamish#Should We Tell Him?|Should We Tell Him?]]|1|Quests}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Iron Ore|50}}
+{{detrecipe|3|Crude Oil|60}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Iron Ore|50}}
+{{detrecipe/totals|Crude Oil|60}}
+{{quest/tail}}

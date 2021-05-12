@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=11
+|type=Combat
+|bonus= AGI
+|material=Copper Chopper
+|sellprice=2500
+|source=[[DropTable12]]
+}}

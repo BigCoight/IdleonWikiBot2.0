@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Monster Drop
-|sellprice=145
-|source=[[Tyson]]
-}}

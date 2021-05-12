@@ -1,0 +1,25 @@
+{{InfoItem
+|type=Log
+|sellprice=3
+|source=Choppin, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Copper Platelegs]]|200|Crafting}}
+{{usedin/row|[[Birch Longbow]]|250|Crafting}}
+{{usedin/row|[[Small Choppin Pouch]]|850|Crafting}}
+{{usedin/row|[[Purple Tupacband]]|100|Crafting}}
+{{usedin/row|[[Hide Shirt]]|325|Crafting}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|900|Crafting}}
+{{usedin/row|[[Peanut]]|1|Crafting}}
+{{usedin/row|[[Purple Tee]]|100|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}
+{{usedin/row|[[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|1500|Quests}}
+{{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|3|Quests}}
+{{usedin/row|[[Power Cauldron#Big Meaty Claws|Big Meaty Claws]]|Lots|Alchemy}}
+{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+{{quest/tail}}

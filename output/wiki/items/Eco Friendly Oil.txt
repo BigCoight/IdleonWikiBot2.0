@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Barrel
-|description=Increases Forging Speed by 10% for the Forge Slot it's in. 30% chance to be consumed when a bar is forged.
-|sellprice=350
-}}

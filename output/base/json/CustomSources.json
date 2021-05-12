@@ -1,5 +1,5 @@
 {
-    "Gem_Shop": [
+    "Gem Shop": [
         "CardPack2",
         "CardPack1",
         "ResetBox",
@@ -56,13 +56,13 @@
         "EquipmentHats35",
         "EquipmentHats40"
     ],
-    "Starter_Hat": [
+    "Starter Hat": [
         "EquipmentHats14",
         "EquipmentHats11",
         "EquipmentHats13",
         "EquipmentHats12"
     ],
-    "Level_Up_Gift": [
+    "Level Up Gift": [
         "EquipmentHats21",
         "PremiumGem",
         "Timecandy1",
@@ -86,22 +86,25 @@
         "EquipmentStatues7",
         "EquipmentStatues8"
     ],
-    "Guild_Gift_Box": [
+    "Guild Gift Box": [
         "Trophy9",
-        "ExpBalloon2",
-        "ExpBalloon3",
-        "ExpBalloon1",
-        "StonePremLUK",
-        "StoneA3b",
         "FoodPotYe3",
         "FoodPotYe2",
-        "Timecandy1",
-        "Timecandy2",
-        "Timecandy3",
-        "Timecandy4",
-        "ResetFrag",
         "PremiumGem",
+        "StoneA3b",
         "StoneW2",
-        "StoneA2"
-    ]
+        "StoneA2",
+        "StonePremLUK",
+        "StoneHelm6",
+        "StoneW6",
+        "ExpBalloon1",
+        "ExpBalloon2",
+        "ExpBalloon3",
+        "ResetFrag",
+        "Timecandy4",
+        "Timecandy3",
+        "Timecandy2",
+        "Timecandy1"
+    ],
+    "Start": ["StampA1", "StampA2"]
 }

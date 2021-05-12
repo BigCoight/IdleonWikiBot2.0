@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Health Food
-|description=Auto-Used when your health goes below 50%. Restores 50 HP. Has a 30 second Cooldown.
-|sellprice=7
-|source=[[Vendors#Blunder_Hills|Blunder_Hills Vendor]], [[Vendors#Encroaching_Forest_Villas|Encroaching_Forest_Villas Vendor]], [[DropTable2]]
-}}

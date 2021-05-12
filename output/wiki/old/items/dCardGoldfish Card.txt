@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Goldfish
+|order=8
+|category=Easy Resources
+|effect=+{%_Total_MP
+|bonus=10
+|reqtier=3
+}}

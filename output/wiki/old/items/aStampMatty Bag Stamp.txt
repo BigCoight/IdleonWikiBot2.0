@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=8
+|type=Skills
+|bonus= Material Carry Cap
+|material=Cramped Material Pouch
+|sellprice=6700
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+}}

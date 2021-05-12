@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=18
+|type=Combat
+|bonus= Base Move Speed
+|material=Coconotnotto
+|sellprice=6000
+}}

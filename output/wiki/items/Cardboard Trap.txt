@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Trap Box Set
-|speed=4
-|weaponpower=4
-|agi=2
-|upgrade=1
-}}

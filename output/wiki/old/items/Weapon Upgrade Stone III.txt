@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Weapon to apply. +2 Weapon Power +1 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
+|sellprice=25000
+|tier=III
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.04|1}}
+{{quest/tail}}

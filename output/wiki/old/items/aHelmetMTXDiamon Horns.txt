@@ -1,0 +1,11 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Premium Helmet
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=7
+|sellprice=1
+}}

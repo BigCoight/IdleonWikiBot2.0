@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|quest=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
-|description=That's weird, Bandit Bob's signature looks an awful lot like yours...
-|sellprice=1
-|source=[[Bandit_Bob#Bringing Bob'S Boxes|Bringing Bob'S Boxes]]
-}}

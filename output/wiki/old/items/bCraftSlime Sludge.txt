@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Monster Drop
+|description=Ewww, slimey.
+|sellprice=10
+|source=[[Slime]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Slime]]|0.19|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Steel Axe]]|150|Crafting}}
+{{usedin/row|[[Birch Longbow]]|150|Crafting}}
+{{usedin/row|[[Quarterstaff]]|150|Crafting}}
+{{usedin/row|[[Goo Galoshes]]|600|Crafting}}
+{{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
+{{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}
+{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
+{{quest/tail}}

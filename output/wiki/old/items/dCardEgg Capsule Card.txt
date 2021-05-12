@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Egg Capsule
+|order=9
+|category=Event
+|effect=+{%_Critical_Damage
+|bonus=1.5
+|reqtier=1
+}}

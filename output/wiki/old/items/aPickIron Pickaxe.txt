@@ -1,0 +1,32 @@
+{{InfoItem
+|class=All
+|level=18
+|skill=mining
+|type=Pickaxe
+|skillpower=10
+|str=5
+|agi=2
+|upgrade=2
+|sellprice=8230
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=28
+|levelreq=13
+|expgiven=500
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=140
+|resource2=Carrot Cube|quantity2=250
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Gold Pickaxe]]|5|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|140}}
+{{detrecipe|3|Carrot Cube|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|140}}
+{{detrecipe/totals|Carrot Cube|250}}
+{{quest/tail}}

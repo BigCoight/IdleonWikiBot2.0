@@ -1,0 +1,29 @@
+{{InfoItem
+|class=All
+|level=15
+|type=Ring
+|str=1
+|agi=1
+|wis=1
+|luck=4
+|upgrade=4
+|defence=1
+|sellprice=19200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=39
+|levelreq=13
+|expgiven=700
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Iron Bar|quantity1=600
+}}
+{{usedin/head}}
+{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|600}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|600}}
+{{quest/tail}}

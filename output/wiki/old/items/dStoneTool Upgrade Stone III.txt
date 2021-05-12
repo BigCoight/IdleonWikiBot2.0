@@ -1,0 +1,7 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Tool to apply. +3 Weapon Power +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
+|sellprice=20000
+|tier=III
+|source=[[Goldric#Hoopsies|Hoopsies]]
+}}

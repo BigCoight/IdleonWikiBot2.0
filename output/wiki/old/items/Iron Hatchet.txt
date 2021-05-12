@@ -1,0 +1,33 @@
+{{InfoItem
+|class=All
+|level=18
+|skill=choppin
+|type=Hatchet
+|skillpower=10
+|str=2
+|wis=5
+|upgrade=2
+|sellprice=7220
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=30
+|levelreq=14
+|expgiven=680
+|recipefrom=Start
+|resource1=Jungle Logs|quantity1=370
+|resource2=Boring Brick|quantity2=200
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Golden Axe]]|5|Crafting}}
+{{usedin/row|[[Cool Diggy Tool Stamp]]|Lots|Stamps}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Jungle Logs|370}}
+{{detrecipe|3|Boring Brick|200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Jungle Logs|370}}
+{{detrecipe/totals|Boring Brick|200}}
+{{quest/tail}}

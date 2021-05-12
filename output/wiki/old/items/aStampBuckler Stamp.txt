@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=21
+|type=Combat
+|bonus= Base Defence
+|material=Platinum Bar
+|sellprice=12000
+}}

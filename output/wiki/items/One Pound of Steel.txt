@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Fishing Accessory
-|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
-|sellprice=10000
-|source=[[Vendors#Faraway_Piers|Faraway_Piers Vendor]], [[Vendors#Tundra_Camp|Tundra_Camp Vendor]]
-}}

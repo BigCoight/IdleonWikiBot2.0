@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=1
+|type=Misc
+|bonus=% Quest EXP
+|material=Slime Sludge
+|sellprice=1000
+|source=[[Tiki_Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]
+}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Glumlee's quests!
+|sellprice=700
+|source=[[Glumlee#He's Havin' a Bad Day|He's Havin' a Bad Day]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
+{{quest/tail}}

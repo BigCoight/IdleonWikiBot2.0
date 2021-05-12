@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Shirt
-|upgrade=5
-|defence=5
-|sellprice=50
-}}

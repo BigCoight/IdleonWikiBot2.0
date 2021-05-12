@@ -1,0 +1,16 @@
+{{InfoItem
+|type=Statue
+|description=A stone statue that resembles some sort of double edged scythe. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[DropTable5]]
+}}
+{{Statuedata|0.3|+ @ Mining Power}}{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.16|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.00256|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00272|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0028799999999999997|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00304|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.003392|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0032640000000000004|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.002848|1.0}}
+{{quest/tail}}

@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=4000
-|source=[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]
-}}

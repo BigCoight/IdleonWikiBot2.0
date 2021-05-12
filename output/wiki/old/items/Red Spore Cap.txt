@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Monster Drop
+|description=It's often misunderstood that this is just the spore's stylish hat, due to the cosmetic nature of Green Spores, but this cap is actually part of this spore's head.
+|sellprice=7
+|source=[[Red Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Red Mushroom]]|0.20|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Purple Tee]]|40|Crafting}}
+{{quest/tail}}

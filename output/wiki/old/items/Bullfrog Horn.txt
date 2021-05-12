@@ -1,0 +1,17 @@
+{{InfoItem
+|type=Monster Drop
+|description=Makes a loud noise when thrown at someones head, although the sound doesn't come from the horn itself...
+|sellprice=30
+|source=[[Gigafrog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.14|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
+{{usedin/row|[[Amarok Hinds]]|1000|Crafting}}
+{{usedin/row|[[Strung Bludgeon]]|9000|Crafting}}
+{{usedin/row|[[Vials#Ramificoction|Ramificoction]]|Lots|Alchemy}}
+{{usedin/row|[[High IQ Lumber Stamp]]|Lots|Stamps}}
+{{quest/tail}}

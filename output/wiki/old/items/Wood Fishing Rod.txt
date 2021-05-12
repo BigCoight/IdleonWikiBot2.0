@@ -1,0 +1,10 @@
+{{InfoItem
+|class=All
+|level=4
+|skill=fishing
+|type=Fishing Rod
+|skillpower=3
+|str=1
+|upgrade=2
+|sellprice=200
+}}

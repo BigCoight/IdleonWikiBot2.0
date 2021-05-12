@@ -1,0 +1,14 @@
+{{InfoCard
+|title=Ghost
+|order=0
+|category=Event
+|effect=+{%_Monster_EXP_While_Active
+|bonus=2
+|reqtier=3
+|source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Giftmas Blobulyte]]|0.05|1}}
+{{detdrops|[[Meaning of Giftmas]]|0.05|1}}
+{{detdrops|[[Ghost]]|0.05|1}}
+{{quest/tail}}

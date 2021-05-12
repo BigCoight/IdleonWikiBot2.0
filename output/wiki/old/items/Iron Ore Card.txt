@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Iron Ore
+|order=1
+|category=Easy Resources
+|effect=+{%_Total_Mining_Efficiency
+|bonus=10
+|reqtier=5
+|source=[[Mining#Drops|Mining Iron]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.00013|1}}
+{{quest/tail}}

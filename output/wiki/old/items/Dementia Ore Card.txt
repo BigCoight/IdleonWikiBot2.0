@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Dementia Ore
+|order=1
+|category=Medium Resources
+|effect=+{%_Mining_Speed
+|bonus=10
+|reqtier=4
+|source=[[Mining#Drops|Mining Dementia]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.00006|1}}
+{{quest/tail}}

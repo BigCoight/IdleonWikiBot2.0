@@ -1,0 +1,12 @@
+{{InfoItem
+|class=All
+|level=80
+|skill=choppin
+|type=Hatchet
+|skillpower=35
+|agi=9
+|wis=28
+|luck=3
+|upgrade=2
+|sellprice=200
+}}

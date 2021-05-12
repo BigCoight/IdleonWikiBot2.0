@@ -1,0 +1,19 @@
+{{InfoItem
+|type=Fish
+|description=The result of putting Blood and Leech into a bad pokemon generator.
+|sellprice=18
+|source=Fishing, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|150}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|150}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Pharoah Bow]]|5200|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|7000|Crafting}}
+{{usedin/row|[[Sizable Fish Pouch]]|6750|Crafting}}
+{{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}
+{{usedin/row|[[Droplots Stamp]]|Lots|Stamps}}
+{{quest/tail}}

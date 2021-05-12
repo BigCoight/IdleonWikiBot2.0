@@ -1,0 +1,15 @@
+{{InfoItem
+|class=All
+|level=20
+|skill=choppin
+|type=Hatchet
+|skillpower=19
+|wis=8
+|luck=4
+|upgrade=2
+|sellprice=10000
+|source=[[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.02|1}}
+{{quest/tail}}

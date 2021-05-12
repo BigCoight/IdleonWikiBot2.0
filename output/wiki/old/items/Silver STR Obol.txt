@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|str=2
+|sellprice=3
+|rarity=Silver
+|source=[[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]]
+}}

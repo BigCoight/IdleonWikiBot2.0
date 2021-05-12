@@ -1,0 +1,18 @@
+{{InfoItem
+|type=Monster Drop
+|description=Conker would have called this something else.                  NOTE: This is a very rare drop from Poops
+|sellprice=500
+|source=[[Poop]], [[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.00005|1}}
+{{detdrops|[[Dr Defecaus]]|0.1|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills Misc Completion Token]]|12|Crafting}}
+{{usedin/row|[[Defenders Dignity]]|17|Crafting}}
+{{usedin/row|[[Crows Nest]]|8|Crafting}}
+{{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
+{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
+{{usedin/row|[[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]]|1|Quests}}
+{{quest/tail}}

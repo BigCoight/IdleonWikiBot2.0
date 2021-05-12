@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=1000
-|source=[[Tiki_Chief#Three Strikes, You'Re Out!|Three Strikes, You'Re Out!]]
-}}

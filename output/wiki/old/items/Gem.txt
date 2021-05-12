@@ -1,0 +1,22 @@
+{{InfoItem
+|type=Gem
+|description=Hold down to add these gems to your account. You can then spend them in the Gem Shop!
+|sellprice=69
+|source=[[King Doot]], [[Egggulyte]], [[Egg Capsule]], [[Shell Snake]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#Roll of Anger|Roll of Anger]], [[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]], [[Funguy#Party Crashin'|Party Crashin']], [[Papua_Piggea#Oinko Boinko|Oinko Boinko]], [[Desert_Davey#U Cool?|U Cool?]], [[Mutton#Cross Platform Promotion|Cross Platform Promotion]], [[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]], [[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]], [[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Bandit_Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]], [[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[Carpetiem#Be like Buster!|Be like Buster!]], [[Goldric#Trickle Down Economics|Trickle Down Economics]], [[Goldric#Hoopsies|Hoopsies]], [[Goldric#Only Winners have Portraits|Only Winners have Portraits]], [[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]], [[Meel#Spooky Scary Skelepoops|Spooky Scary Skelepoops]], [[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]], [[Snake_Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[Wellington#Findin' Fingerprints|Findin' Fingerprints]], [[Dazey#Dressing like a Dork|Dressing like a Dork]], [[Cowbo_Jones#The Grind Begins...?|The Grind Begins...?]], [[Cowbo_Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Cowbo_Jones#The Notorious B.O.B|The Notorious B.O.B]], [[Cowbo_Jones#The Worst Trade Deal in History|The Worst Trade Deal in History]], [[Cowbo_Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Loveulyte#Heartbreaker|Heartbreaker]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]], [[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[DropTable13]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.6|8}}
+{{detdrops|[[Egggulyte]]|0.3|1}}
+{{detdrops|[[Egg Capsule]]|0.3|1}}
+{{detdrops|[[Shell Snake]]|0.05|1}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.05|1}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.12|1}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.3|1}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.2|1}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.4|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.2|1}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.4|1}}
+{{detdrops|[[Biggie Hours]]|0.4|5.0}}
+{{quest/tail}}

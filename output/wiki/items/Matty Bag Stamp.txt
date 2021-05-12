@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=6700
-|source=[[Vendors#Faraway_Piers|Faraway_Piers Vendor]], [[Vendors#Tundra_Camp|Tundra_Camp Vendor]]
-}}

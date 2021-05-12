@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|description=Made up of the tokens from all of the Blunder NPCs whose quests are hardest to complete.
-|sellprice=16000
-}}

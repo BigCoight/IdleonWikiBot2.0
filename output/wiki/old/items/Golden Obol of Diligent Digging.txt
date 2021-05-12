@@ -1,0 +1,10 @@
+{{InfoItem
+|class=All
+|level=1
+|skill=mining
+|type=Square Obol
+|skillpower=3
+|str=2
+|sellprice=8
+|rarity=Golden
+}}

@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=4
-|type=Shoes
-|agi=3
-|misc=2% Movement Speed
-|upgrade=1
-|sellprice=500
-}}

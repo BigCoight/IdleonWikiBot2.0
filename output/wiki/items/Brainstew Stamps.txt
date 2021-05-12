@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=2500
-|source=[[Wellington#Platforms In Disguise, Platsformers!|Platforms In Disguise, Platsformers!]]
-}}

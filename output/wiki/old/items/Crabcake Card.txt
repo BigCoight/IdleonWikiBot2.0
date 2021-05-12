@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Crabcake
+|order=2
+|category=Yum Yum Desert
+|effect=+{%_To_not_consume_Food
+|bonus=10
+|reqtier=6
+|source=[[Crabcake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crabcake]]|0.0001|1}}
+{{quest/tail}}

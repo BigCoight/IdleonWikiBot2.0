@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=17
+|type=Skills
+|bonus= Fishing Efficiency
+|material=Fly
+|sellprice=2000
+|source=[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]
+}}

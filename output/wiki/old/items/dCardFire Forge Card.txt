@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Fire Forge
+|order=3
+|category=Easy Resources
+|effect=+{%_Smithing_EXP
+|bonus=10
+|reqtier=4
+}}

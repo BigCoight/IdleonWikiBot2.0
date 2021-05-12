@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=16
+|type=Skills
+|bonus= Liquid Cap
+|material=Bloach
+|sellprice=5000
+|source=[[DropTable7]]
+}}

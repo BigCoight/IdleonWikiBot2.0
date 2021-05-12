@@ -1,0 +1,48 @@
+{{InfoItem
+|class=All
+|level=50
+|type=Shoes
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|misc=5% Defence
+|upgrade=3
+|defence=15
+|sellprice=557000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=23
+|levelreq=32
+|expgiven=55000
+|recipefrom=Start
+|resource1=Tropilogs|quantity1=8000
+|resource2=Jellyfish|quantity2=8000
+|resource3=Gold Boots|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Efaunts Broken Ankles]]|1|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Tropilogs|8000}}
+{{detrecipe|3|Jellyfish|8000}}
+{{detrecipe|3|Gold Boots|3}}
+{{detrecipe|40|Gold Bar|1800}}
+{{detrecipe|40|Iron Boots|6}}
+{{detrecipe|80|Trusty Nails|3000}}
+{{detrecipe|80|Iron Bar|750}}
+{{detrecipe|80|Copper Boots|12}}
+{{detrecipe|120|Copper Bar|2400}}
+{{detrecipe|40|Distilled Water|24}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|2400}}
+{{detrecipe/totals|Distilled Water|24}}
+{{quest/tail}}

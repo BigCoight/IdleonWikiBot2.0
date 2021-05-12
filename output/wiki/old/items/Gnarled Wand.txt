@@ -1,0 +1,31 @@
+{{InfoItem
+|class=All
+|level=4
+|type=Wand
+|speed=5
+|weaponpower=7
+|wis=4
+|reach=115
+|upgrade=1
+|sellprice=135
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=3
+|levelreq=3
+|expgiven=12
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=25
+|resource2=Oak Logs|quantity2=30
+}}
+{{usedin/head}}
+{{usedin/row|[[Sleek Shank]]|3|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Oak Logs|30}}
+{{quest/tail}}

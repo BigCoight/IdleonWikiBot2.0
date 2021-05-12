@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=35
-|type=Inventory 
-|reach=10
-|sellprice=249999
-|source=[[Vendors#YumYum_Grotto|YumYum_Grotto Vendor]]
-}}

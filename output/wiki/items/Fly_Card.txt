@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Bug1 Flies
-|sellprice=1
-|source=[[Flies]]
-}}

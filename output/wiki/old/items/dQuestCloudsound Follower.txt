@@ -1,0 +1,36 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single follower on Cloudsound. This isn't a website, it's literally a giant cloud that emits sound that people enjoy following around. Why, what were YOU thinking this was?
+|sellprice=1
+|source=[[DropTable1]], [[DropTable2]], [[DropTable3]], [[DropTable3b]], [[DropTable3c]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.3|3.0}}
+{{detdrops|[[Green Mushroom]]|0.0015|3.0}}
+{{detdrops|[[Frog]]|0.0019|3.0}}
+{{detdrops|[[Bored Bean]]|0.00225|3.0}}
+{{detdrops|[[Red Mushroom]]|0.0026|3.0}}
+{{detdrops|[[Amarok]]|0.5|6.0}}
+{{detdrops|[[Chaotic Amarok]]|0.5|12.0}}
+{{detdrops|[[Nightmare Amarok]]|0.5|6.0}}
+{{detdrops|[[Baba Yaga]]|0.5|6.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.5|3.0}}
+{{detdrops|[[Slime]]|0.002|4.0}}
+{{detdrops|[[Baby Boa]]|0.0025|4.0}}
+{{detdrops|[[Carrotman]]|0.003|4.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.5|4.0}}
+{{detdrops|[[Glublin]]|0.002|6.0}}
+{{detdrops|[[Wode Board]]|0.00225|6.0}}
+{{detdrops|[[Gigafrog]]|0.0025|6.0}}
+{{detdrops|[[Dr Defecaus]]|0.5|12.0}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.5|6.0}}
+{{detdrops|[[Poop]]|0.003|3.0}}
+{{detdrops|[[Rat]]|0.003|3.0}}
+{{detdrops|[[Walking Stick]]|0.00285|3.0}}
+{{detdrops|[[Nutto]]|0.00325|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.0035|3.0}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|500000|Quests}}
+{{quest/tail}}

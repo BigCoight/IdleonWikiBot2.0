@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Bop Box
+|order=10
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=10
+|reqtier=3
+|source=[[Bop Box]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bop Box]]|0.0001|1}}
+{{quest/tail}}

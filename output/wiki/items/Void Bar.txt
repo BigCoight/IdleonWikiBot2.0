@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Bar
-|sellprice=6800
-|source=Forging, [[Cinder_Forge]]
-}}

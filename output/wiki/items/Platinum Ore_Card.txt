@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Card
-|description=Plat
-|sellprice=1
-|source=[[Plat]]
-}}

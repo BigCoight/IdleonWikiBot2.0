@@ -1,0 +1,10 @@
+{{InfoItem
+|class=All
+|level=1
+|skill=catching
+|type=Square Obol
+|skillpower=3
+|agi=2
+|sellprice=8
+|rarity=Golden
+}}

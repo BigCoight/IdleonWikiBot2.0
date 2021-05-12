@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|skill=mining
+|type=Circle Obol
+|skillpower=1
+|sellprice=1
+|rarity=Bronze
+}}

@@ -1,4 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=12500
-}}

@@ -1,0 +1,14 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=3
+|misc=4% Defence
+|sellprice=20
+|rarity=Granite
+|source=[[Amarok]], [[Chaotic Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Amarok]]|0.0007|1}}
+{{detdrops|[[Chaotic Amarok]]|0.0033|1}}
+{{quest/tail}}

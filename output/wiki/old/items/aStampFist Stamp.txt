@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=9
+|type=Combat
+|bonus= STR
+|material=Bleach Logs
+|sellprice=2500
+|source=[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]
+}}

@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=10000
-|source=[[XxX_Cattleprod_XxX#Wait No, I Meant Pathetic Gaming|Wait No, I Meant Pathetic Gaming]]
-}}

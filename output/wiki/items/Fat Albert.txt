@@ -1,4 +1,0 @@
-{{InfoItem
-|type=Fishing Accessory
-|sellprice=50
-}}

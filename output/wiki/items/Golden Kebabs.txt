@@ -1,7 +1,0 @@
-{{InfoItem
-|type=Golden Food
-|description=Increases Damage Dealt to all monsters by [%. Golden foods are never consumed.
-|sellprice=200
-|source=[[Colosseum#Sandstone_Silver_Chest|Sandstone_Silver_Chest]], [[Colosseum#Frostbite_Silver_Chest|Frostbite_Silver_Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Picnic_Stowaway#Luncheon With The Inlaws|Luncheon With The Inlaws]], [[Picnic_Stowaway#Afternoon Tea In A Jiffy|Afternoon Tea In A Jiffy]], [[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic_Stowaway#The Last Supper, At Least For Today!|The Last Supper, At Least For Today!]]
-}}
-{{gfoodbonus|20|Increases Damage Dealt to all monsters by [%.}}

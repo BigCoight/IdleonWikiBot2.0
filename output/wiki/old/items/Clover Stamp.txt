@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Stamp
+|sellprice=12000
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+}}
+{{stampdata|stype=BaseLUK|ftype=add|x1=1|x2=0|i4=2|material=EquipmentShirts12|i6=1|i7=2|i8=300|i9=1.38|i10=0|i11={} LUK|i12=6}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=10|vendor=Faraway Piers|stock=1|buyprice=48000}}
+{{Vendoritem/tablerow|number=10|vendor=Tundra Camp|stock=1|buyprice=48000}}
+{{quest/tail}}

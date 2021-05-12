@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Monster Drop
-|sellprice=200
-|source=[[Bop_Box]]
-}}

@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Stamp
+|sellprice=2500
+|source=[[Gigafrog]]
+}}
+{{stampdata|stype=CritDmg|ftype=decay|x1=8|x2=40|i4=3|material=CraftMat5|i6=50|i7=6|i8=50|i9=1.3|i10=0|i11={}% Critical Damage|i12=6}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.0003|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Papua_Piggea#Oinko Boinko|Oinko Boinko]]|1|Quests}}
+{{quest/tail}}

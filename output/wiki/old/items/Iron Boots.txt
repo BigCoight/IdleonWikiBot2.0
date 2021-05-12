@@ -1,0 +1,38 @@
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|str=2
+|agi=2
+|wis=2
+|upgrade=2
+|defence=4
+|sellprice=12800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=38
+|levelreq=13
+|expgiven=600
+|recipefrom=Start
+|resource1=Trusty Nails|quantity1=500
+|resource2=Iron Bar|quantity2=125
+|resource3=Copper Boots|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+{{usedin/row|[[Amarok Paws]]|1|Crafting}}
+{{usedin/row|[[Gold Boots]]|2|Crafting}}
+{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Trusty Nails|500}}
+{{detrecipe|3|Iron Bar|125}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|400}}
+{{quest/tail}}

@@ -1,0 +1,14 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=H o l d   d o w n   t o   p e r m a n e n t l y   a d d   + 2   S l o t s   t o   y o u r   I n v e n t o r y .   C a n   o n l y   b e   u s e d   o n c e .
+|sellprice=1300
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.00008|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
+{{quest/tail}}

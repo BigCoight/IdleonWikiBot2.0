@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Stamp
+|sellprice=6000
+|source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
+}}
+{{stampdata|stype=BaseWIS|ftype=add|x1=1|x2=0|i4=3|material=GoldBar|i6=50|i7=7|i8=1550|i9=1.36|i10=0|i11={} Base Defence|i12=0}}

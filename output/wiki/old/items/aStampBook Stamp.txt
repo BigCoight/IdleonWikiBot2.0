@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=13
+|type=Combat
+|bonus= WIS
+|material=Iron Bar
+|sellprice=8000
+|source=[[DropTable10]]
+}}

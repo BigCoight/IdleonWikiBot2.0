@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=14
+|type=Combat
+|bonus= Base MP
+|material=Goblin Ear
+|sellprice=8000
+|source=[[Mutton#Clout Chasin'|Clout Chasin']]
+}}

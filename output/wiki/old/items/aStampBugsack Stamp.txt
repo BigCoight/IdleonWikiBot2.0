@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=23
+|type=Skills
+|bonus=% Bug Carry Cap
+|material=Hermit Can
+|sellprice=3000
+|source=[[DropTable9]]
+}}

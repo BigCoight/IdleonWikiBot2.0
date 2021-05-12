@@ -1,0 +1,6 @@
+{{Fishingaccessory
+|depth1=20
+|fishingexp=10
+|type=Fishing Accessory
+|sellprice=50
+}}

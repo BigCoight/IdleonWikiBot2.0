@@ -1,0 +1,31 @@
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Blunder NPCs whose quests are easiest to complete.
+|sellprice=3600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=60
+|levelreq=1
+|expgiven=2
+|recipefrom=Start
+|resource1=Woodsman Token|quantity1=1
+|resource2=Glumlee Token|quantity2=1
+|resource3=Stiltzcho Token|quantity3=1
+|resource4=Funguy Token|quantity4=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Woodsman Token|1}}
+{{detrecipe|3|Glumlee Token|1}}
+{{detrecipe|3|Stiltzcho Token|1}}
+{{detrecipe|3|Funguy Token|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Woodsman Token|1}}
+{{detrecipe/totals|Glumlee Token|1}}
+{{detrecipe/totals|Stiltzcho Token|1}}
+{{detrecipe/totals|Funguy Token|1}}
+{{quest/tail}}

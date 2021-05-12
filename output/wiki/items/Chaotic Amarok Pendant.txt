@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=30
-|type=Pendant
-|weaponpower=2
-|wis=12
-|upgrade=4
-|sellprice=10000
-}}

@@ -1,0 +1,6 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Equip to apply. +5 Str Success Chance; 101% Can only be used on Premium Equips!
+|sellprice=777
+|tier=Premium
+}}

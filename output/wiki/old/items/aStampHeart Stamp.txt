@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=2
+|type=Combat
+|bonus= Base HP
+|material=Oak Logs
+|sellprice=500
+}}

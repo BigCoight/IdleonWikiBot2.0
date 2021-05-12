@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Statue
-|description=I don't think the sculptor who named this statue back in 3000 BC would be happy with how his typo would be interpreted.
-|sellprice=10
-|source=[[Sprout#Sticks And Stone Something Something Bones...|Sticks And Stone Something Something Bones...]], [[DropTable11]]
-}}

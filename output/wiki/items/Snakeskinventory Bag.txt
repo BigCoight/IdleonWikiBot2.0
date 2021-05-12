@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Inventory 
-|speed=120
-|reach=10
-|sellprice=1300
-|source=[[Baby_Boa]]
-}}

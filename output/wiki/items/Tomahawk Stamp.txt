@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=1000
-|source=[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]
-}}

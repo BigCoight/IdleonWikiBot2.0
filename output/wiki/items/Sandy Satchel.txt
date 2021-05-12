@@ -1,7 +1,0 @@
-{{InfoItem
-|class=All
-|level=20
-|type=Inventory 
-|reach=10
-|sellprice=5000
-}}

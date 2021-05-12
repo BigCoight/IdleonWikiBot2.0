@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Boop
+|order=2
+|category=Bosses
+|effect=+{%_Fighting_AFK_gain_rate
+|bonus=1
+|reqtier=1
+|source=[[Boop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Boop]]|0.0015|1}}
+{{quest/tail}}

@@ -1,0 +1,22 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Fish.
+|sellprice=720
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=73
+|levelreq=9
+|expgiven=125
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Goldfish|quantity1=180
+}}
+{{usedin/head}}
+{{usedin/row|[[Average Fish Pouch]]|10|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Goldfish|180}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goldfish|180}}
+{{quest/tail}}

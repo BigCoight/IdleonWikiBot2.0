@@ -1,0 +1,34 @@
+{{InfoItem
+|class=All
+|level=18
+|skill=catching
+|type=Bug Catching Net
+|skillpower=14
+|str=2
+|agi=4
+|upgrade=2
+|sellprice=15800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=78
+|levelreq=16
+|expgiven=750
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Forest Fibres|quantity1=800
+|resource2=Butterfly|quantity2=850
+|resource3=Distilled Water|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Gilded Net]]|5|Crafting}}
+{{quest/tail}}{{detrecipe/head}}
+{{detrecipe|3|Forest Fibres|800}}
+{{detrecipe|3|Butterfly|850}}
+{{detrecipe|3|Distilled Water|3}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Forest Fibres|800}}
+{{detrecipe/totals|Butterfly|850}}
+{{detrecipe/totals|Distilled Water|3}}
+{{quest/tail}}

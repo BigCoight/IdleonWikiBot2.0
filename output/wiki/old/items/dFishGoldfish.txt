@@ -1,0 +1,23 @@
+{{InfoItem
+|type=Fish
+|description=It's not a snack, and it certainly doesn't smile back... for copyright reasons!
+|sellprice=4
+|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|50}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Copper Fish Rod]]|400|Crafting}}
+{{usedin/row|[[Cramped Fish Pouch]]|180|Crafting}}
+{{usedin/row|[[Gold Platelegs]]|500|Crafting}}
+{{usedin/row|[[Defenders Dignity]]|16000|Crafting}}
+{{usedin/row|[[Angler Boots]]|1250|Crafting}}
+{{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|400|Quests}}
+{{usedin/row|[[Whattso#Mopey Dick|Mopey Dick]]|20|Quests}}
+{{usedin/row|[[Quicc Cauldron#Lil Big Damage|Lil Big Damage]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Droppin Loads|Droppin Loads]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Seawater|Seawater]]|Lots|Alchemy}}
+{{quest/tail}}

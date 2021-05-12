@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|speed=330
-|reach=10
-|sellprice=200
-|source=[[Hamish#Slime For Storage|Slime For Storage]]
-}}

@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=11
+|type=Skills
+|bonus=% Choppin Exp
+|material=Bullfrog Horn
+|sellprice=1800
+|source=[[DropTable4]]
+}}

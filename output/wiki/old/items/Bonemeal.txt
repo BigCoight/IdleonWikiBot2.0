@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Monster Drop
+|description=Imagine the guy who came up with this name... ''wait, you guys HAVENT been eating this stuff?''
+|sellprice=90
+|source=[[Boop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Boop]]|0.5|1}}
+{{quest/tail}}
+{{usedin/head}}
+{{usedin/row|[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]|777|Quests}}
+{{quest/tail}}

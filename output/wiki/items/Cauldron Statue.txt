@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Statue
-|sellprice=10
-|source=[[DropTable8]]
-}}
