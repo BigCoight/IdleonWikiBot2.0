@@ -1,43 +1,48 @@
 import csv
+import json
 from os import execv
 import re
+
+
 def unScience(val):
     if val:
         if '.' in val:
             return val
         else:
             try:
-                return str(int(float(val))) 
+                return str(int(float(val)))
             except:
                 return val
     return val
 
-def repU(val,t=False):
+
+def repU(val, t=False):
     try:
         if t:
-            return val.replace('|',' ').replace('_',' ')
+            return val.replace('|', ' ').replace('_', ' ')
         else:
-            return val.replace('|',' ').replace('_',' ').title()
+            return val.replace('|', ' ').replace('_', ' ').title()
     except:
         return val
+
 
 def camelCaseSplitter(string):
     return re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', string)).split()
 
 
+def nameDic():
+    with open(fr'./output/modified/json/Items.json', mode='r') as jsonFile:
+        items = json.load(jsonFile)
+        nameDic = {name: item["displayName"] for name, item in items.items()}
+        return nameDic
 
-
-def nameDic(val):
-    with open('./input/raw/Names.csv', mode='r') as infile:
-        reader = csv.reader(infile)
-        res = {rows[0]:rows[1].lstrip().replace('|',' ').replace('_',' ') for rows in reader if rows[1].lstrip().replace('|',' ').replace('_',' ') not in ["ERROR"]}
-    return res.get(val.replace('\n',''),val)
 
 def nameDicR(val):
     with open('./input/raw/Names.csv', mode='r') as infile:
         reader = csv.reader(infile)
-        res = {rows[1].lstrip().replace('|',"_").replace('_',' '):rows[0].lstrip() for rows in reader}
-    return res.get(val.lstrip().replace('|',"_").replace('_',' '),val)
+        res = {rows[1].lstrip().replace('|', "_").replace(
+            '_', ' '): rows[0].lstrip() for rows in reader}
+    return res.get(val.lstrip().replace('|', "_").replace('_', ' '), val)
 
 
 def enemyInternal():
@@ -50,6 +55,7 @@ def alchVials():
     with open('./input/raw/rawVialData.txt', mode='r') as inVials:
         Vials = inVials.readlines()
     return [x.title().replace('_', ' ').replace('\n', '') for x in Vials if x != '\n']
+
 
 def mapName():
     with open('./input/raw/rawMapNames.txt', mode='r') as inMapNames:
@@ -68,10 +74,6 @@ def nameToMap():
     return res
 
 
-
-
-
-
 # Item functions
 def toInt(val):
     try:
@@ -86,6 +88,7 @@ def doBonus(val):
     except:
         return "None"
 
+
 def stampTypeID(val):
     if val[:2] == "10" and len(val) > 2:
         return "Skills"
@@ -94,13 +97,14 @@ def stampTypeID(val):
     else:
         return "Combat"
 
-def fix(val,replaceNull = [],repU = False):
+
+def fix(val, replaceNull=[], repU=False):
     if val:
         for rep in replaceNull:
-            val = val.replace(rep,'')
+            val = val.replace(rep, '')
         if repU:
             val = val.replace('_', ' ')
             if val[0] != '|':
-                val = val.replace('|',' ')
+                val = val.replace('|', ' ')
         return unScience(val.lstrip().rstrip())
-    return unScience(val) 
+    return unScience(val)

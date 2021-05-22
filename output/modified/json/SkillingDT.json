@@ -1,0 +1,237 @@
+{
+    "ORE_TYPE": {
+        "Copper": [
+            ["Copper Ore Card", "0.0002", "1", "N/A"],
+            ["DropTable4", "0.0065", "1", "N/A"]
+        ],
+        "Iron": [
+            ["Iron Ore Card", "0.00013", "1", "N/A"],
+            ["DropTable4", "0.0070", "1", "N/A"]
+        ],
+        "Gold": [
+            ["Gold Ore Card", "0.00011", "1", "N/A"],
+            ["DropTable4", "0.0075", "1", "N/A"]
+        ],
+        "Plat": [
+            ["Platinum Ore Card", "0.00008", "1", "N/A"],
+            ["DropTable4", "0.0077", "1", "N/A"]
+        ],
+        "Dementia": [
+            ["Dementia Ore Card", "0.00006", "1", "N/A"],
+            ["DropTable4", "0.0082", "1", "N/A"]
+        ],
+        "Void": [
+            ["Frog Leg", "0.4", "2", "N/A"]
+        ],
+        "Lustre": [
+            ["Frog Leg", "0.4", "2", "N/A"]
+        ],
+        "Starfire": [
+            ["Frog Leg", "0.4", "2", "N/A"]
+        ],
+        "Dreadlo": [
+            ["Frog Leg", "0.4", "2", "N/A"]
+        ],
+        "Godshard": [
+            ["Frog Leg", "0.4", "2", "N/A"]
+        ],
+        "Error": null
+    },
+    "TREE_TYPE": {
+        "Oak Tree": [
+            ["Oak Logs Card", "0.0004", "1", "N/A"],
+            ["DropTable5", "0.008", "1", "N/A"]
+        ],
+        "Birch Tree": [
+            ["Bleach Logs Card", "0.00029", "1", "N/A"],
+            ["DropTable5", "0.0085", "1", "N/A"]
+        ],
+        "Jungle Tree": [
+            ["Jungle Logs Card", "0.00021", "1", "N/A"],
+            ["DropTable5", "0.009", "1", "N/A"]
+        ],
+        "Forest Tree": [
+            ["Forest Fibres Card", "0.00017", "1", "N/A"],
+            ["DropTable5", "0.0095", "1", "N/A"]
+        ],
+        "Toilet Tree": [
+            ["Potty Rolls Card", "0.00012", "1", "N/A"],
+            ["DropTable5", "0.0106", "1", "N/A"]
+        ],
+        "Palm Tree": [
+            ["Tropilogs Card", "0.00011", "1", "N/A"],
+            ["DropTable11", "0.015", "2", "N/A"]
+        ],
+        "Stump Tree": [
+            ["Veiny Logs Card", "0.00013", "1", "N/A"],
+            ["DropTable5", "0.0102", "1", "N/A"]
+        ],
+        "Saharan Foal": [
+            ["DONTFILL", "0.0001", "1", "N/A"],
+            ["DropTable5", "0.0089", "1", "N/A"]
+        ],
+        "Alien Tree": [
+            ["Frog Leg", "0.015", "2", "N/A"]
+        ],
+        "Error": null
+    },
+    "FISH_TYPE": {
+        "Small Fish": [
+            ["DropTable9", "0.012", "1", "N/A"]
+        ],
+        "Goldfish": [
+            ["DropTable9", "0.012", "1", "N/A"]
+        ],
+        "Hermit Can": [
+            ["DropTable9", "0.012", "1", "N/A"]
+        ],
+        "Jellyfish": [
+            ["DropTable9", "0.012", "1", "N/A"]
+        ],
+        "Bloach": [
+            ["DropTable9", "0.012", "1", "N/A"]
+        ]
+    },
+    "BUG_TYPE": {
+        "Flies": [
+            ["Fly Card", "0.00022", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "Butterflies": [
+            ["Butterfly Card", "0.00018", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "Sentient Cereal": [
+            ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "Fruitflies": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ]
+    },
+    "Colloseum": {
+        "Dewdrop Bronze Chest": [
+            ["COIN", "1", "100", "N/A"],
+            ["Gem", "0.05", "1", "N/A"],
+            ["Weapon Upgrade Stone I", "0.025", "1", "N/A"],
+            ["Armor Upgrade Stone I", "0.09", "1", "N/A"],
+            ["Oak Logs", "0.6", "40", "N/A"],
+            ["Copper Ore", "0.6", "30", "N/A"],
+            ["Copper Bar", "0.2", "20", "N/A"],
+            ["DropTable1", "1", "1", "N/A"],
+            ["Forest Villa Key", "0.04", "1", "N/A"]
+        ],
+        "Dewdrop Silver Chest": [
+            ["COIN", "1", "400", "N/A"],
+            ["Gem", "0.12", "1", "N/A"],
+            ["Copper Helmet", "0.02", "1", "N/A"],
+            ["Weapon Upgrade Stone II", "0.04", "1", "N/A"],
+            ["Armor Upgrade Stone II", "0.1", "1", "N/A"],
+            ["Golden Nomwich", "0.5", "1", "N/A"],
+            ["Iron Ore", "0.6", "50", "N/A"],
+            ["Copper Bar", "0.35", "50", "N/A"],
+            ["Forest Villa Key", "0.1", "1", "N/A"],
+            ["Jungle Logs", "0.4", "15", "N/A"],
+            ["Bleach Logs", "0.1", "25", "N/A"],
+            ["DropTable2", "1", "1", "N/A"]
+        ],
+        "Dewdrop Golden Chest": [
+            ["COIN", "1", "1250", "N/A"],
+            ["Gem", "0.3", "1", "N/A"],
+            ["Gem", "0.8", "1", "N/A"],
+            ["Golden Jam", "0.5", "1", "N/A"],
+            ["Iron Bar", "0.1", "15", "N/A"],
+            ["Gold Ore", "0.1", "20", "N/A"],
+            ["Potty Rolls", "0.5", "50", "N/A"],
+            ["Forest Villa Key", "0.18", "1", "N/A"],
+            ["Veiny Logs", "0.5", "50", "N/A"],
+            ["Iron Platebody", "0.04", "1", "N/A"],
+            ["DropTable3", "1", "1", "N/A"]
+        ],
+        "Dewdrop Legendary Chest": null,
+        "Sandstone Bronze Chest": [
+            ["COIN", "1", "1000", "N/A"],
+            ["Gem", "0.1", "1", "N/A"],
+            ["Weapon Upgrade Stone II", "0.025", "1", "N/A"],
+            ["Armor Upgrade Stone II", "0.09", "1", "N/A"],
+            ["Goldfish", "0.6", "50", "N/A"],
+            ["Hermit Can", "0.4", "50", "N/A"],
+            ["Fly", "0.6", "65", "N/A"],
+            ["Gold Ore", "0.6", "75", "N/A"],
+            ["Efaunt's Tomb Key", "0.04", "1", "N/A"],
+            ["Gold Bar", "0.2", "20", "N/A"],
+            ["DropTable6", "1", "1", "N/A"]
+        ],
+        "Sandstone Silver Chest": [
+            ["COIN", "1", "4000", "N/A"],
+            ["Gem", "0.2", "1", "N/A"],
+            ["Iron Helmet", "0.02", "1", "N/A"],
+            ["Weapon Upgrade Stone III", "0.04", "1", "N/A"],
+            ["Armor Upgrade Stone III", "0.09", "1", "N/A"],
+            ["Jellyfish", "0.4", "100", "N/A"],
+            ["Sentient Cereal", "0.4", "125", "N/A"],
+            ["Efaunt's Tomb Key", "0.1", "1", "N/A"],
+            ["Golden Kebabs", "0.5", "1", "N/A"],
+            ["Platinum Ore", "0.6", "50", "N/A"],
+            ["Gold Bar", "0.35", "60", "N/A"],
+            ["Tropilogs", "0.5", "100", "N/A"],
+            ["DropTable7", "1", "1", "N/A"]
+        ],
+        "Sandstone Golden Chest": [
+            ["COIN", "1", "10000", "N/A"],
+            ["Gem", "0.4", "1", "N/A"],
+            ["Golden Meat Pie", "0.5", "1", "N/A"],
+            ["Platinum Bar", "0.2", "20", "N/A"],
+            ["Dementia Ore", "0.1", "80", "N/A"],
+            ["Bloach", "0.2", "150", "N/A"],
+            ["Gold Platelegs", "0.04", "1", "N/A"],
+            ["Efaunt's Tomb Key", "0.18", "1", "N/A"],
+            ["DropTable8", "1", "1", "N/A"]
+        ],
+        "Sandstone Legendary Chest": null,
+        "Frostbite Bronze Chest": [
+            ["COIN", "1", "1000", "N/A"],
+            ["Gem", "0.1", "1", "N/A"],
+            ["Weapon Upgrade Stone II", "0.025", "1", "N/A"],
+            ["Armor Upgrade Stone II", "0.09", "1", "N/A"],
+            ["Goldfish", "0.6", "50", "N/A"],
+            ["Fly", "0.6", "65", "N/A"],
+            ["Gold Ore", "0.6", "75", "N/A"],
+            ["Efaunt's Tomb Key", "0.04", "1", "N/A"],
+            ["Gold Bar", "0.2", "20", "N/A"],
+            ["DropTable6", "1", "1", "N/A"]
+        ],
+        "Frostbite Silver Chest": [
+            ["COIN", "1", "4000", "N/A"],
+            ["Gem", "0.2", "1", "N/A"],
+            ["Iron Helmet", "0.02", "1", "N/A"],
+            ["Weapon Upgrade Stone III", "0.04", "1", "N/A"],
+            ["Armor Upgrade Stone III", "0.09", "1", "N/A"],
+            ["Jellyfish", "0.4", "100", "N/A"],
+            ["Sentient Cereal", "0.4", "125", "N/A"],
+            ["Efaunt's Tomb Key", "0.1", "1", "N/A"],
+            ["Golden Kebabs", "0.5", "1", "N/A"],
+            ["Platinum Ore", "0.6", "50", "N/A"],
+            ["Gold Bar", "0.35", "60", "N/A"],
+            ["Tropilogs", "0.5", "100", "N/A"],
+            ["DropTable7", "1", "1", "N/A"]
+        ],
+        "Frostbite Golden Chest": [
+            ["COIN", "1", "10000", "N/A"],
+            ["Gem", "0.4", "1", "N/A"],
+            ["Golden Meat Pie", "0.5", "1", "N/A"],
+            ["Platinum Bar", "0.2", "20", "N/A"],
+            ["Dementia Ore", "0.1", "80", "N/A"],
+            ["Bloach", "0.2", "150", "N/A"],
+            ["Gold Platelegs", "0.04", "1", "N/A"],
+            ["Efaunt's Tomb Key", "0.18", "1", "N/A"],
+            ["DropTable8", "1", "1", "N/A"]
+        ],
+        "Frostbite Legendary Chest": null,
+        "NYI Bronze Chest": null,
+        "NYI Silver Chest": null,
+        "NYI Golden Chest": null,
+        "NYI Legendary Chest": null
+    }
+}

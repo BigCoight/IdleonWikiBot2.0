@@ -1,0 +1,162 @@
+{
+    "DropTable1": [
+        ["Copper Band;Recipe", "0.008", "1", "N/A"],
+        ["Nomwich", ".25", "10", "N/A"],
+        ["Small Mana Potion", "0.1", "5", "N/A"],
+        ["White Headband", "0.01", "1", "N/A"],
+        ["Give Up On Life Pants", "0.02", "1", "N/A"],
+        ["Anvil Zoomer Stamp", "0.0012", "1", "N/A"],
+        ["Cloudsound Follower", "0.5", "3", "Mutton4"],
+        ["Bronze STR Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable1", "0.0040", "1", "N/A"]
+    ],
+    "DropTable2": [
+        ["Hot Dog", ".35", "15", "N/A"],
+        ["Power Statue", ".12", "1", "N/A"],
+        ["Small Speed Potion", "0.1", "5", "N/A"],
+        ["Average Strength Potion", "0.2", "10", "N/A"],
+        ["Bottled Town Teleport", "0.02", "1", "N/A"],
+        ["Tattered Cloth", "0.01", "1", "N/A"],
+        ["Time Thingy", "0.3", "1", "Funguy3"],
+        ["Cloudsound Follower", "0.5", "4", "Mutton4"],
+        ["Bronze AGI Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable1", "0.0045", "1", "N/A"]
+    ],
+    "DropTable3": [
+        ["Cheezy Pizza", ".42", "15", "N/A"],
+        ["Health Statue", ".12", "1", "N/A"],
+        ["Steel Band;Recipe", "0.00005", "1", "N/A"],
+        ["Average Mana Potion", ".25", "10", "N/A"],
+        ["Tool Upgrade Stone II", ".03", "1", "N/A"],
+        ["Bottled Town Teleport", "0.05", "1", "N/A"],
+        ["Cloudsound Follower", "0.5", "6", "Mutton4"],
+        ["Bronze WIS Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable1", "0.0050", "1", "N/A"]
+    ],
+    "DropTable3b": [
+        ["Small Life Potion", ".4", "25", "N/A"],
+        ["Small Mana Potion", ".4", "25", "N/A"],
+        ["Health Statue", ".09", "1", "N/A"],
+        ["Feasty Statue", ".05", "1", "N/A"],
+        ["Cloudsound Follower", "0.5", "3", "Mutton4"],
+        ["SuperDropTable1", "0.0055", "1", "N/A"]
+    ],
+    "DropTable3c": [
+        ["Small Life Potion", ".4", "25", "N/A"],
+        ["Small Mana Potion", ".4", "25", "N/A"],
+        ["Health Statue", ".09", "1", "N/A"],
+        ["Bullseye Statue", ".05", "1", "N/A"],
+        ["Cloudsound Follower", "0.5", "3", "Mutton4"],
+        ["SuperDropTable1", "0.0055", "1", "N/A"]
+    ],
+    "DropTable4": [
+        ["Armor Upgrade Stone I", ".03", "1", "N/A"],
+        ["Tool Upgrade Stone I", ".03", "1", "N/A"],
+        ["Lumberbob Statue", ".27", "1", "N/A"],
+        ["Small Speed Potion", "0.2", "5", "N/A"],
+        ["High IQ Lumber Stamp", "0.0009", "1", "N/A"],
+        ["Bronze LUK Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable1", "0.0060", "1", "N/A"]
+    ],
+    "DropTable5": [
+        ["Grass Leaf", ".5", "5", "N/A"],
+        ["Weapon Upgrade Stone I", ".03", "1", "N/A"],
+        ["Tool Upgrade Stone I", ".03", "1", "N/A"],
+        ["Mining Statue", ".32", "1", "N/A"],
+        ["Small Strength Potion", "0.1", "5", "N/A"],
+        ["Smart Dirt Stamp", "0.0015", "1", "N/A"],
+        ["SuperDropTable1", "0.0060", "1", "N/A"]
+    ],
+    "SuperDropTable1": [
+        ["Silver Pen", ".07", "1", "N/A"],
+        ["Lucky Lad", ".0003", "1", "N/A"],
+        ["Talent Point Reset Fragment", ".10", "1", "N/A"],
+        ["ROLL_DA_DICE;Talent_Book", ".10", "1", "N/A"],
+        ["ATTACKS_ON_SIMMER;Talent_Book", ".10", "1", "N/A"],
+        ["Golden Nomwich", "0.5", "1", "N/A"],
+        ["Silver Obol of Pocket Change", "0.02835", "1", "N/A"],
+        ["Silver Obol of Little Damage", "0.02835", "1", "N/A"],
+        ["Mystery Upgrade Stone I", "0.85", "2", "N/A"]
+    ],
+    "DropTable5b": [
+        ["Speed Statue", ".07", "1", "N/A"],
+        ["Feasty Statue", ".05", "1", "N/A"],
+        ["Beholder Statue", ".05", "1", "N/A"]
+    ],
+    "DropTable6": [
+        ["Inventory Bag G", ".0012", "1", "N/A"],
+        ["Kebab Sticks", ".42", "15", "N/A"],
+        ["Average Speed Potion", ".4", "25", "N/A"],
+        ["Drippy Drop Stamp", "0.0006", "1", "N/A"],
+        ["Anvil Statue", ".07", "1", "N/A"],
+        ["Monster Rating", ".6", "1", "XxX_Cattleprod_XxX3"],
+        ["Silver STR Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable7": [
+        ["Armor Upgrade Stone B", ".005", "1", "N/A"],
+        ["Meat Pie", ".42", "15", "N/A"],
+        ["Droplots Stamp", "0.0004", "1", "N/A"],
+        ["Exp Book Statue", ".04", "1", "N/A"],
+        ["Monster Rating", ".9", "1", "XxX_Cattleprod_XxX3"],
+        ["Silver AGI Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable8": [
+        ["Midnight Cookie", ".003", "1", "N/A"],
+        ["Decent Life Potion", ".4", "25", "N/A"],
+        ["Buzz Buzz Stamp", "0.00015", "1", "N/A"],
+        ["Cauldron Statue", ".07", "1", "N/A"],
+        ["Silver WIS Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable9": [
+        ["Bugsack Stamp", "0.001", "1", "N/A"],
+        ["Ol Reliable Statue", ".102", "1", "N/A"],
+        ["Silver LUK Obol", "0.0006299999999999999", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable10": [
+        ["Armor Upgrade Stone II", ".002", "1", "N/A"],
+        ["Tool Upgrade Stone I", ".03", "1", "N/A"],
+        ["Small Speed Potion", "0.2", "5", "N/A"],
+        ["Book Stamp", "0.0004", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable11": [
+        ["Weapon Upgrade Stone II", ".002", "1", "N/A"],
+        ["Tool Upgrade Stone I", ".03", "1", "N/A"],
+        ["Thicc Skin Statue", ".05", "1", "N/A"],
+        ["Small Strength Potion", "0.07", "5", "N/A"],
+        ["Alch Go Brrr Stamp", "0.0003", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable12": [
+        ["Tool Upgrade Stone II", ".002", "1", "N/A"],
+        ["Tool Upgrade Stone I", ".03", "1", "N/A"],
+        ["Oceanman Statue", ".085", "1", "N/A"],
+        ["Small Strength Potion", "0.07", "5", "N/A"],
+        ["Agile Stamp", "0.0002", "1", "N/A"],
+        ["Bag o Heads Stamp", "0.0001", "1", "N/A"],
+        ["SuperDropTable2", "0.006", "1", "N/A"]
+    ],
+    "DropTable13": [
+        ["Small Experience Balloon", "0.5", "1", "N/A"],
+        ["Gem", "1", "5", "N/A"],
+        ["1 HR Time Candy", "0.5", "1", "N/A"],
+        ["2 HR Time Candy", "0.334", "1", "N/A"],
+        ["4 HR Time Candy", "0.12", "1", "N/A"],
+        ["12 HR Time Candy", "0.04", "1", "N/A"],
+        ["24 HR Time Candy", "0.012", "1", "N/A"],
+        ["72 HR Time Candy", "0.001", "1", "N/A"]
+    ],
+    "SuperDropTable2": [
+        ["Silver Pen", ".09", "1", "N/A"],
+        ["Lucky Lad", ".0003", "1", "N/A"],
+        ["Talent Point Reset Fragment", ".15", "1", "N/A"],
+        ["Golden Meat Pie", "0.5", "1", "N/A"],
+        ["Gold LUK Obol", "0.022050000000000004", "1", "N/A"],
+        ["Silver Obol of Double Sixes", "0.022050000000000004", "1", "N/A"],
+        ["Mystery Upgrade Stone I", "0.7", "3", "N/A"]
+    ]
+}
