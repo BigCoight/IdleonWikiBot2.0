@@ -1,0 +1,246 @@
+{{InfoItem
+|class=All
+|level=4
+|skill=choppin
+|type=Hatchet
+|skillpower=3
+|wis=1
+|upgrade=1
+|sellprice=50
+|source=[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]
+}}
+{{InfoItem
+|class=All
+|level=8
+|skill=choppin
+|type=Hatchet
+|skillpower=7
+|agi=1
+|wis=3
+|upgrade=2
+|sellprice=196
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=10
+|levelreq=4
+|expgiven=10
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=13
+|resource2=Oak Logs|quantity2=30
+|resource3=Thread|quantity3=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|13}}
+{{detrecipe|3|Oak Logs|30}}
+{{detrecipe|3|Thread|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|13}}
+{{detrecipe/totals|Oak Logs|30}}
+{{detrecipe/totals|Thread|15}}
+|}
+{{InfoItem
+|class=All
+|level=18
+|skill=choppin
+|type=Hatchet
+|skillpower=10
+|str=2
+|wis=5
+|upgrade=2
+|sellprice=7220
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=30
+|levelreq=14
+|expgiven=680
+|recipefrom=Start
+|resource1=Jungle Logs|quantity1=370
+|resource2=Boring Brick|quantity2=200
+}}
+{{usedin/head}}
+{{usedin/row|[[Golden Axe]]|5|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Jungle Logs|370}}
+{{detrecipe|3|Boring Brick|200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Jungle Logs|370}}
+{{detrecipe/totals|Boring Brick|200}}
+|}
+{{InfoItem
+|class=All
+|level=20
+|skill=choppin
+|type=Hatchet
+|skillpower=19
+|wis=8
+|luck=4
+|upgrade=2
+|sellprice=10000
+|source=[[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.02|1}}
+|}
+{{InfoItem
+|class=All
+|level=25
+|skill=choppin
+|type=Hatchet
+|skillpower=14
+|wis=8
+|luck=4
+|upgrade=2
+|sellprice=213600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=10
+|levelreq=20
+|expgiven=4400
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Dubloon|quantity1=5
+|resource2=Crabby Cakey|quantity2=2000
+|resource3=Iron Hatchet|quantity3=5
+}}
+{{usedin/head}}
+{{usedin/row|[[Plat Hatchet]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Dubloon|5}}
+{{detrecipe|3|Crabby Cakey|2000}}
+{{detrecipe|3|Iron Hatchet|5}}
+{{detrecipe|40|Jungle Logs|1850}}
+{{detrecipe|40|Boring Brick|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Dubloon|5}}
+{{detrecipe/totals|Crabby Cakey|2000}}
+{{detrecipe/totals|Jungle Logs|1850}}
+{{detrecipe/totals|Boring Brick|1000}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|skill=choppin
+|type=Hatchet
+|skillpower=18
+|agi=5
+|wis=14
+|upgrade=3
+|sellprice=1040800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=30
+|levelreq=26
+|expgiven=16000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Tropilogs|quantity1=8000
+|resource2=Chain Link|quantity2=6000
+|resource3=Golden Axe|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Tropilogs|8000}}
+{{detrecipe|3|Chain Link|6000}}
+{{detrecipe|3|Golden Axe|3}}
+{{detrecipe|40|Golden Dubloon|15}}
+{{detrecipe|40|Crabby Cakey|6000}}
+{{detrecipe|40|Iron Hatchet|15}}
+{{detrecipe|80|Jungle Logs|5550}}
+{{detrecipe|80|Boring Brick|3000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Chain Link|6000}}
+{{detrecipe/totals|Golden Dubloon|15}}
+{{detrecipe/totals|Crabby Cakey|6000}}
+{{detrecipe/totals|Jungle Logs|5550}}
+{{detrecipe/totals|Boring Brick|3000}}
+|}
+{{InfoItem
+|class=All
+|level=45
+|skill=choppin
+|type=Hatchet
+|skillpower=23
+|agi=6
+|wis=17
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=55
+|skill=choppin
+|type=Hatchet
+|skillpower=26
+|str=7
+|wis=20
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=65
+|skill=choppin
+|type=Hatchet
+|skillpower=29
+|wis=24
+|luck=8
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=80
+|skill=choppin
+|type=Hatchet
+|skillpower=35
+|agi=9
+|wis=28
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=90
+|skill=choppin
+|type=Hatchet
+|skillpower=40
+|str=4
+|agi=4
+|wis=32
+|luck=4
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=100
+|skill=choppin
+|type=Hatchet
+|skillpower=50
+|str=5
+|agi=5
+|wis=40
+|luck=5
+|upgrade=2
+|sellprice=200
+}}

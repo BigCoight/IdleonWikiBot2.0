@@ -1,0 +1,11 @@
+{{Fishingaccessory
+|depth3=10
+|fishingpower=2
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=7500
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=2|vendor=Faraway Piers|stock=1|buyprice=30000}}
+{{Vendoritem/tablerow|number=2|vendor=Tundra Camp|stock=1|buyprice=30000}}
+|}

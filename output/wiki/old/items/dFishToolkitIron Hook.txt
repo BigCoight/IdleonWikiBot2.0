@@ -1,9 +1,0 @@
-{{Fishingaccessory
-|depth1=3
-|depth2=2
-|fishingspeed=3
-|fishingpower=1
-|source=[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]
-|type=Fishing Accessory
-|sellprice=50
-}}

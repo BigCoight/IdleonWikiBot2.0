@@ -1,0 +1,22 @@
+{{InfoItem
+|type=Material
+|description=It's basically string cheese, but without the cheese.
+|sellprice=3
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=1|num=1|expcraft=5|time=100}}
+{{usedin/head}}
+{{usedin/row|[[Wooden Bow]]|30|Crafting}}
+{{usedin/row|[[Torn Jeans]]|15|Crafting}}
+{{usedin/row|[[Copper Chopper]]|15|Crafting}}
+{{usedin/row|[[Leather Cap]]|13|Crafting}}
+{{usedin/row|[[Thief Hood]]|150|Crafting}}
+{{usedin/row|[[Sleek Shank]]|300|Crafting}}
+{{usedin/row|[[Green Tee]]|150|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|600|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Stable Jenius|Stable Jenius]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Spool Sprite|Spool Sprite]]|Lots|Alchemy}}
+|}

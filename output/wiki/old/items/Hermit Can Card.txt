@@ -1,8 +1,0 @@
-{{InfoCard
-|title=Hermit Can
-|order=9
-|category=Easy Resources
-|effect=+{%_Total_Fishing_Efficiency
-|bonus=10
-|reqtier=5
-}}

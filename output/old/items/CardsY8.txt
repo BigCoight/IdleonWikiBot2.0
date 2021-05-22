@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Egggulyte
+|order=8
+|category=Event
+|effect=+{%_Card_Drop_Chance
+|bonus=1
+|reqtier=1.5
+}}

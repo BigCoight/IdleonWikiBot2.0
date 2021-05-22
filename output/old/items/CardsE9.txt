@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Cryosnake
+|order=9
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Cryosnake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cryosnake]]|0.0001|1}}
+|}

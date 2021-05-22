@@ -1,0 +1,457 @@
+{{InfoItem
+|class=All
+|level=4
+|type=Pants
+|agi=2
+|wis=1
+|upgrade=1
+|defence=4
+|sellprice=201
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=6
+|levelreq=4
+|expgiven=7
+|recipefrom=Start
+|resource1=Frog Leg|quantity1=20
+|resource2=Copper Bar|quantity2=8
+|resource3=Thread|quantity3=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|10|Crafting}}
+{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|8|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Frog Leg|20}}
+{{detrecipe|3|Copper Bar|8}}
+{{detrecipe|3|Thread|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Frog Leg|20}}
+{{detrecipe/totals|Copper Bar|8}}
+{{detrecipe/totals|Thread|15}}
+|}
+{{InfoItem
+|class=All
+|level=8
+|type=Pants
+|str=2
+|agi=2
+|wis=2
+|upgrade=2
+|defence=6
+|sellprice=1160
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=18
+|levelreq=8
+|expgiven=75
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=80
+|resource2=Bleach Logs|quantity2=200
+}}
+{{usedin/head}}
+{{usedin/row|[[Gold Platelegs]]|6|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|80}}
+{{detrecipe|3|Bleach Logs|200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|80}}
+{{detrecipe/totals|Bleach Logs|200}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|wis=3
+|upgrade=2
+|defence=11
+|sellprice=14700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=34
+|levelreq=14
+|expgiven=750
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=225
+|resource2=Boring Brick|quantity2=300
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Shins]]|6|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|225}}
+{{detrecipe|3|Boring Brick|300}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|225}}
+{{detrecipe/totals|Boring Brick|300}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|type=Pants
+|str=4
+|agi=4
+|wis=4
+|upgrade=3
+|defence=16
+|sellprice=63585
+|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=2
+|levelreq=18
+|expgiven=2500
+|recipefrom=Start
+|resource1=Goldfish|quantity1=500
+|resource2=Copper Platelegs|quantity2=6
+|resource3=Gold Bar|quantity3=475
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Goldfish|500}}
+{{detrecipe|3|Copper Platelegs|6}}
+{{detrecipe|40|Copper Bar|480}}
+{{detrecipe|40|Bleach Logs|1200}}
+{{detrecipe|3|Gold Bar|475}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goldfish|500}}
+{{detrecipe/totals|Copper Bar|480}}
+{{detrecipe/totals|Bleach Logs|1200}}
+{{detrecipe/totals|Gold Bar|475}}
+|}
+{{InfoItem
+|class=All
+|level=40
+|type=Pants
+|str=2
+|agi=2
+|wis=2
+|upgrade=5
+|defence=18
+|sellprice=51500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=66
+|levelreq=17
+|expgiven=1500
+|recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
+|resource1=Amarok Slab|quantity1=6
+|resource2=Chain Link|quantity2=500
+|resource3=Bullfrog Horn|quantity3=1000
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Amarok Slab|6}}
+{{detrecipe|3|Chain Link|500}}
+{{detrecipe|3|Bullfrog Horn|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Amarok Slab|6}}
+{{detrecipe/totals|Chain Link|500}}
+{{detrecipe/totals|Bullfrog Horn|1000}}
+|}
+{{InfoItem
+|class=All
+|level=50
+|type=Pants
+|str=6
+|agi=6
+|wis=6
+|upgrade=3
+|defence=23
+|sellprice=670700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=22
+|levelreq=31
+|expgiven=50000
+|recipefrom=Start
+|resource1=Sentient Cereal|quantity1=500
+|resource2=Iron Platelegs|quantity2=6
+|resource3=Platinum Bar|quantity3=1250
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Sentient Cereal|500}}
+{{detrecipe|3|Iron Platelegs|6}}
+{{detrecipe|40|Iron Bar|1350}}
+{{detrecipe|40|Boring Brick|1800}}
+{{detrecipe|3|Platinum Bar|1250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Sentient Cereal|500}}
+{{detrecipe/totals|Iron Bar|1350}}
+{{detrecipe/totals|Boring Brick|1800}}
+{{detrecipe/totals|Platinum Bar|1250}}
+|}
+{{InfoItem
+|class=All
+|level=70
+|type=Pants
+|weaponpower=5
+|str=7
+|agi=7
+|wis=7
+|upgrade=4
+|defence=28
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=75
+|type=Pants
+|str=4
+|agi=4
+|wis=4
+|upgrade=6
+|defence=32
+|sellprice=1260
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=62
+|levelreq=37
+|expgiven=40000
+|recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
+|resource1=Ripped Tunic|quantity1=7
+|resource2=Minuteglass|quantity2=3
+|resource3=Distilled Water|quantity3=25
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Ripped Tunic|7}}
+{{detrecipe|3|Minuteglass|3}}
+{{detrecipe|3|Distilled Water|25}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Ripped Tunic|7}}
+{{detrecipe/totals|Minuteglass|3}}
+{{detrecipe/totals|Distilled Water|25}}
+|}
+{{InfoItem
+|class=All
+|level=90
+|type=Pants
+|weaponpower=5
+|str=7
+|agi=7
+|wis=7
+|upgrade=4
+|defence=28
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Pants
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Pants
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=7
+|type=Pants
+|wis=6
+|upgrade=2
+|defence=3
+|sellprice=200
+|source=[[DropTable1]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.012|1.0}}
+{{detdrops|[[Green Mushroom]]|0.00006|1.0}}
+{{detdrops|[[Frog]]|0.000076|1.0}}
+{{detdrops|[[Bored Bean]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Red Mushroom]]|0.000104|1.0}}
+{{detdrops|[[Amarok]]|0.02|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.02|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.02|2.0}}
+{{detdrops|[[Baba Yaga]]|0.02|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.02|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=25
+|type=Pants
+|agi=3
+|wis=7
+|misc=5% Chop Efficiency
+|upgrade=3
+|defence=11
+|sellprice=4710
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=48
+|levelreq=12
+|expgiven=400
+|recipefrom=Start
+|resource1=Torn Jeans|quantity1=10
+|resource2=Plank|quantity2=400
+|resource3=Bleach Logs|quantity3=900
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Torn Jeans|10}}
+{{detrecipe|40|Frog Leg|200}}
+{{detrecipe|40|Copper Bar|80}}
+{{detrecipe|40|Thread|150}}
+{{detrecipe|3|Plank|400}}
+{{detrecipe|3|Bleach Logs|900}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Frog Leg|200}}
+{{detrecipe/totals|Copper Bar|80}}
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Bleach Logs|900}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Pants
+|str=4
+|wis=13
+|upgrade=3
+|defence=2
+|sellprice=200
+|source=[[Sprout#Justice Wears No Clothes|Justice Wears No Clothes]]
+}}
+{{InfoItem
+|class=All
+|level=25
+|type=Pants
+|str=7
+|misc=5% Mining Efficincy
+|upgrade=3
+|defence=12
+|sellprice=3358
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=49
+|levelreq=12
+|expgiven=400
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Torn Jeans|quantity1=8
+|resource2=Iron Ore|quantity2=250
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Torn Jeans|8}}
+{{detrecipe|40|Frog Leg|160}}
+{{detrecipe|40|Copper Bar|64}}
+{{detrecipe|40|Thread|120}}
+{{detrecipe|3|Iron Ore|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Frog Leg|160}}
+{{detrecipe/totals|Copper Bar|64}}
+{{detrecipe/totals|Thread|120}}
+{{detrecipe/totals|Iron Ore|250}}
+|}
+{{InfoItem
+|class=All
+|level=82
+|type=Pants
+|str=4
+|agi=2
+|misc=10% Defence
+|upgrade=5
+|defence=20
+|sellprice=200
+|source=[[King Doot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.04|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Helmet]]|1|Crafting}}
+|}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Mafioso
+|order=3
+|category=Yum Yum Desert
+|effect=+{_Base_AGI
+|bonus=5
+|reqtier=10
+|source=[[Mafioso]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mafioso]]|0.0001|1}}
+|}

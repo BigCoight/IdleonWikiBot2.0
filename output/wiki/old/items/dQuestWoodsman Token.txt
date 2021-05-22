@@ -1,9 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|description=Proof that you completed all of the Woodsman's quests!
-|sellprice=700
-|source=[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]
-}}
-{{usedin/head}}
-{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
-{{quest/tail}}

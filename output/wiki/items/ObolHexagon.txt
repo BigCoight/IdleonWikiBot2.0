@@ -1,0 +1,82 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|agi=4
+|misc=4% Movement Speed
+|sellprice=20
+|rarity=Platinum
+}}
+{{InfoItem
+|class=All
+|level=1
+|skill=mining
+|type=Hexagon Obol
+|skillpower=4
+|str=3
+|sellprice=20
+|rarity=Platinum
+}}
+{{InfoItem
+|class=All
+|level=1
+|skill=choppin
+|type=Hexagon Obol
+|skillpower=4
+|wis=3
+|sellprice=20
+|rarity=Platinum
+}}
+{{InfoItem
+|class=All
+|level=1
+|skill=fishing
+|type=Hexagon Obol
+|skillpower=4
+|str=3
+|sellprice=20
+|rarity=Platinum
+}}
+{{InfoItem
+|class=All
+|level=1
+|skill=catching
+|type=Hexagon Obol
+|skillpower=4
+|agi=3
+|sellprice=20
+|rarity=Platinum
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|weaponpower=1
+|str=2
+|agi=2
+|wis=2
+|luck=2
+|misc=5% Boss Damage
+|sellprice=20
+|rarity=Skeletal
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Efaunt]]|0.001|1}}
+{{detdrops|[[Chaotic Efaunt]]|0.001|1}}
+{{detdrops|[[Nightmare Amarok]]|0.001|1}}
+|}
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=3
+|misc=4% Defence
+|sellprice=20
+|rarity=Granite
+|source=[[Amarok]], [[Chaotic Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Amarok]]|0.0007|1}}
+{{detdrops|[[Chaotic Amarok]]|0.0033|1}}
+|}

@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Glublin_Walking.gif
+|attack=35
+|health=1250
+|defence=52
+|speed=4
+|world=Blunder Hills
+|area=Forest Outskirts
+|exp=60
+|respawn=52
+|defence0=26.12
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Carrotman|Wode Board}}
+{{DropTable/head}}
+{{DropTable/coin|19|0.39}}
+{{DropTable/row|Goblin Ear|0.16|1}}
+{{DropTable/card|0.000086}}
+{{DropTable/row|Helmet Upgrade Stone I|0.00015|1}}
+{{DropTable/recipe0|Fur Shirt|0.00003}}
+{{DropTable3|chance=0.004}}
+|}

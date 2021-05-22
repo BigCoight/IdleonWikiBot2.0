@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Rat
+|order=11
+|category=Blunder Hills
+|effect=+{%_Critical_Chance
+|bonus=1
+|reqtier=10
+|source=[[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|0.000050|1}}
+|}

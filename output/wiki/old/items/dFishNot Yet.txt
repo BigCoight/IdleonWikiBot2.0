@@ -1,9 +1,0 @@
-{{InfoItem
-|type=Fish
-|description=Sorry gamer, but this material isn't in the game yet! You'll have to wait for the next update to get it.
-|sellprice=4
-|source=Fishing
-}}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
-{{quest/tail}}

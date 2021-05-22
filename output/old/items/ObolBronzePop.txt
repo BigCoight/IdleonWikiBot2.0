@@ -1,0 +1,14 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|luck=1
+|misc=2% Drop Chance
+|defence=1
+|sellprice=1
+|rarity=Bronze
+|source=[[Gigafrog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.00001|1}}
+|}

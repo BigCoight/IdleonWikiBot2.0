@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Mimic
+|order=1
+|category=Yum Yum Desert
+|effect=+{%_Total_Drop_Rate
+|bonus=3
+|reqtier=10
+|source=[[Mimic]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mimic]]|0.0001|1}}
+|}

@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Dr Defecaus_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=74500
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Baba Yaga|Boop}}
+{{DropTable/head}}
+{{DropTable/card|0.03}}
+{{DropTable/row|Job Application|1|1}}
+{{DropTable/row|Corn Kernels|1|150}}
+{{DropTable/row|Stinky Axe|0.02|1}}
+{{DropTable/row|Poopy Pickaxe|0.01|1}}
+{{DropTable/row|Golden Plop|0.1|1}}
+{{DropTable3|chance=1}}
+|}

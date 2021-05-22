@@ -1,0 +1,42 @@
+{{InfoItem
+|class=Beginner
+|level=25
+|type=Fisticuff
+|speed=7
+|weaponpower=20
+|str=6
+|luck=10
+|reach=65
+|upgrade=3
+|sellprice=50300
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=4
+|levelreq=18
+|expgiven=3300
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Cue Tape|quantity1=5000
+|resource2=The Stingers|quantity2=10
+|resource3=Potty Rolls|quantity3=2000
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Cue Tape|5000}}
+{{detrecipe|3|The Stingers|10}}
+{{detrecipe|40|Copper Bar|200}}
+{{detrecipe|40|Oak Logs|750}}
+{{detrecipe|40|Trusty Nails|200}}
+{{detrecipe|3|Potty Rolls|2000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Oak Logs|750}}
+{{detrecipe/totals|Trusty Nails|200}}
+{{detrecipe/totals|Potty Rolls|2000}}
+|}

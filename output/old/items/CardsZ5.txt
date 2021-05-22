@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Biggie Hours
+|order=5
+|category=Bosses
+|effect=+{%_Double_AFK_claim_chance
+|bonus=3
+|reqtier=1.5
+|source=[[Biggie Hours]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.024|1}}
+|}

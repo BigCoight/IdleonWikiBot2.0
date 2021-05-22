@@ -1,8 +1,0 @@
-{{InfoItem
-|type=Bar
-|sellprice=6800
-|source=Forging, [[Cinder Forge]]
-}}
-{{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
-{{quest/tail}}

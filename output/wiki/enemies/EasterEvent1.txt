@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Egggulyte_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Shell Snake|Egg Capsule}}
+{{DropTable/head}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Gem|0.3|1}}
+{{DropTable/row|Egg Capsule|0.05|1}}
+{{DropTable/row|Easter Tool Upgrade Stone|0.25|3}}
+{{DropTable/row|Easter Armor Stone|0.25|3}}
+{{DropTable/row|Easter Weapon Stone|0.25|2}}
+|}

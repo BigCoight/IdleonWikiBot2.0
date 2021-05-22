@@ -1,0 +1,10 @@
+{{InfoItem
+|class=All
+|level=1
+|skill=choppin
+|type=Circle Obol
+|skillpower=1
+|sellprice=1
+|rarity=Bronze
+|source=[[Alchemy#Liquid Shop|Mediocre Obols]]
+}}

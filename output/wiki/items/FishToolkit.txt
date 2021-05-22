@@ -1,0 +1,229 @@
+{{Fishingaccessory
+|depth2=3
+|depth3=5
+|fishingspeed=3
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=3500
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=0|vendor=Faraway Piers|stock=1|buyprice=14000}}
+{{Vendoritem/tablerow|number=0|vendor=Tundra Camp|stock=1|buyprice=14000}}
+|}
+{{Fishingaccessory
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=10
+|fishingpower=2
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=7500
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=2|vendor=Faraway Piers|stock=1|buyprice=30000}}
+{{Vendoritem/tablerow|number=2|vendor=Tundra Camp|stock=1|buyprice=30000}}
+|}
+{{Fishingaccessory
+|depth3=8
+|depth4=8
+|fishingspeed=1
+|fishingpower=3
+|source=[[Alchemy#Level up Gift|Level up Gift]]
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth1=20
+|fishingspeed=2
+|fishingpower=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=17
+|depth4=5
+|fishingspeed=3
+|fishingpower=10
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth4=30
+|fishingspeed=5
+|fishingpower=20
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=5
+|depth4=10
+|fishingexp=5
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=15000
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=5|vendor=Faraway Piers|stock=1|buyprice=60000}}
+{{Vendoritem/tablerow|number=5|vendor=Tundra Camp|stock=1|buyprice=60000}}
+|}
+{{Fishingaccessory
+|depth4=15
+|fishingexp=9
+|fishingspeed=2
+|fishingpower=1
+|source=[[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]]
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|fishingspeed=15
+|fishingpower=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|fishingexp=15
+|fishingspeed=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|fishingexp=8
+|fishingspeed=8
+|fishingpower=8
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth2=15
+|fishingexp=5
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Whattso#Mopey Dick|Mopey Dick]]
+|type=Fishing Accessory
+|sellprice=5000
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=1|vendor=Faraway Piers|stock=1|buyprice=20000}}
+{{Vendoritem/tablerow|number=1|vendor=Tundra Camp|stock=1|buyprice=20000}}
+|}
+{{Fishingaccessory
+|depth1=3
+|depth2=2
+|fishingspeed=3
+|fishingpower=1
+|source=[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth2=3
+|depth3=3
+|fishingexp=4
+|fishingspeed=4
+|fishingpower=1
+|source=[[Scubidew#Uncovering the Deep Sea State!!!|Uncovering the Deep Sea State!!!]]
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=4
+|depth4=4
+|fishingspeed=8
+|fishingpower=3
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth4=30
+|fishingexp=2
+|fishingspeed=2
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=10000
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=3|vendor=Faraway Piers|stock=1|buyprice=40000}}
+{{Vendoritem/tablerow|number=3|vendor=Tundra Camp|stock=1|buyprice=40000}}
+|}
+{{Fishingaccessory
+|depth3=35
+|depth4=10
+|fishingspeed=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth1=20
+|fishingexp=10
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=20
+|depth4=60
+|fishingexp=5
+|fishingpower=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth4=40
+|fishingexp=5
+|fishingspeed=10
+|fishingpower=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth3=10
+|depth4=20
+|fishingpower=2
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=17500
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=4|vendor=Faraway Piers|stock=1|buyprice=70000}}
+{{Vendoritem/tablerow|number=4|vendor=Tundra Camp|stock=1|buyprice=70000}}
+|}
+{{Fishingaccessory
+|depth1=12
+|depth2=12
+|fishingpower=4
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|type=Fishing Accessory
+|sellprice=55000
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=6|vendor=Faraway Piers|stock=1|buyprice=220000}}
+{{Vendoritem/tablerow|number=6|vendor=Tundra Camp|stock=1|buyprice=220000}}
+|}
+{{Fishingaccessory
+|fishingexp=6
+|fishingspeed=6
+|fishingpower=6
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|depth4=11
+|fishingspeed=12
+|fishingpower=5
+|type=Fishing Accessory
+|sellprice=50
+}}
+{{Fishingaccessory
+|fishingexp=10
+|fishingpower=19
+|type=Fishing Accessory
+|sellprice=50
+}}

@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|description=H o l d   d o w n   t o   p e r m a n e n t l y   a d d   + 5   S l o t s   t o   y o u r   S t o r a g e   C h e s t .   C a n   o n l y   b e   u s e d   o n c e .
-|sellprice=50000
-|source=[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]]
-}}

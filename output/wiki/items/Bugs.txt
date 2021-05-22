@@ -1,0 +1,68 @@
+{{InfoItem
+|type=Bug
+|description=I don't know whyyyy she swallowed a flyyy, perhaps she'll cry from being perpetually made fun of in the form of a nursey rhyme just because she made one bad decision... er, die!
+|sellprice=3
+|source=Catching, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|65}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|65}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Copper Netted Net]]|400|Crafting}}
+{{usedin/row|[[Cramped Bug Pouch]]|180|Crafting}}
+{{usedin/row|[[Gold Helmet]]|2000|Crafting}}
+{{usedin/row|[[Bullet]]|10|Crafting}}
+{{usedin/row|[[Bandito Boots]]|2000|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Wyoming Blood|Wyoming Blood]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Droppin Loads|Droppin Loads]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Fly In My Drink|Fly In My Drink]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bug
+|description=Hahahahaha! Soryy... I promise I wont make this kind of joke again
+|sellprice=9
+|source=Catching
+}}
+{{usedin/head}}
+{{usedin/row|[[Reinforced Net]]|850|Crafting}}
+{{usedin/row|[[Small Bug Pouch]]|425|Crafting}}
+{{usedin/row|[[Gilded Net]]|2500|Crafting}}
+{{usedin/row|[[Average Bug Pouch]]|1600|Crafting}}
+{{usedin/row|[[Bandito Boots]]|1250|Crafting}}
+{{usedin/row|[[Buttered Toasted Butter]]|5|Crafting}}
+{{usedin/row|[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]|1500|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Kazam Cauldron#Stamp Tramp|Stamp Tramp]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bug
+|description=Honestly, I was shocked too at first when I learned that cereal in real life was harvested from Cereal Bugs. Like for real... look it up, there are genuine cereal hives that are harvested!
+|sellprice=15
+|source=Catching, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|125}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|125}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Platinum Shins]]|500|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Bug]|Bug]]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bug
+|description=LOL I had my fingers crossed!
+|sellprice=20
+|source=Catching
+}}
+{{usedin/head}}
+{{usedin/row|[[Crows Nest]]|8500|Crafting}}
+{{usedin/row|[[Platinet]]|8000|Crafting}}
+{{usedin/row|[[Sizable Bug Pouch]]|6750|Crafting}}
+{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+|}

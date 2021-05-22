@@ -2,7 +2,7 @@
 import json
 from libs.funcLib import camelCaseSplitter, doBonus, nameDic
 from libs.jsonEncoder import CompactJSONEncoder
-from pywikibot import Page, Site
+#from pywikibot import Page, Site
 import re
 
 
@@ -12,13 +12,33 @@ def writeFile(fn, out):
 
 
 def writeOLD(fn, out):
-    with open(rf'./output/wiki/old/items/{fn}.txt', mode='w') as outfile:
+    with open(rf'./output/old/items/{fn}.txt', mode='w') as outfile:
         outfile.write(out)
+
+
+def checkOld(fn, check):
+    '''
+    Returns true if they are the same.
+    '''
+    with open(rf'./output/old/items/{fn}.txt', mode='r') as infile:
+        if (check != infile.read()):
+            print(infile.read())
+        return check == infile.read()
 
 
 def writeJSON(fn, dicti):
     with open(fn, mode='w') as outfile:
         outfile.write(CompactJSONEncoder(indent=4).encode(dicti))
+
+
+def resetOutFiles(itemTypes):
+    for itemType in itemTypes:
+        open(rf"./output/wiki/items/{itemType}.txt", 'w').close()
+
+
+def addToType(itemType, out):
+    with open(rf"./output/wiki/items/{itemType}.txt", 'a') as outfile:
+        outfile.write(out)
 
 
 def doSkill(name, item):
@@ -193,8 +213,8 @@ def writeCard(name, item):
         'order': 4,
         'category': 0,
         'effect': 2,
-        'bonus': 1,
-        'reqtier': 3,
+        'bonus': 3,
+        'reqtier': 1,
         'source': doSource,
     }
     if 'cardData' not in item.keys():
@@ -291,12 +311,12 @@ def writeVendors(name, item):
         for wiki, atr in mapShopData.items():
             res += f"|{wiki}={shopData[atr]}"
         res += f"|buyprice={int(item['sellPrice'])*4}" + "}}\n"
-    return res + '{{quest/tail}}\n'
+    return res + '|}\n'
 
 
 def writeStatue(name, item):
     statueData = item["statueData"]
-    return "{{Statuedata" + f"|{statueData[3]}|{statueData[1]}" + '}}'
+    return "{{Statuedata" + f"|{statueData[3]}|{statueData[1]}" + '}}\n'
 
 
 def writeDetdrops(name, item):
@@ -305,7 +325,7 @@ def writeDetdrops(name, item):
     for detdrop in detdrops:
         res += "{{detdrops|" + \
             f"{detdrop[0]}|{detdrop[1]}|{detdrop[2]}" + "}}\n"
-    return res + "{{quest/tail}}\n"
+    return res + "|}\n"
 
 
 def writeDetrecipe(name, item):
@@ -318,15 +338,16 @@ def writeDetrecipe(name, item):
     detRecipeTotals = item["detRecipeTotals"]
     for sub in detRecipeTotals:
         res += "{{detrecipe/totals" + f"|{sub[0]}|{sub[1]}" + '}}\n'
-    return res + "{{quest/tail}}"
+    return res + "|}\n"
 
 
 def writeUses(name, item):
     uses = item["uses"]
     res = '{{usedin/head}}\n'
+    uses = sorted(uses, key=lambda x: x[1] == "Lots")
     for use in uses:
         res += '{{'+f'usedin/row|{use[0]}|{use[1]}|{use[2]}'+'}}\n'
-    return res + "{{quest/tail}}"
+    return res + "|}\n"
 
 
 def writeProccessing(name, item):
@@ -334,15 +355,7 @@ def writeProccessing(name, item):
     return "{{"+f"ProductionSlot|lvlreq={proccessing[2]}|num={proccessing[0]}|expcraft={proccessing[3]}|time={proccessing[1]}"+"}}\n"
 
 
-def searchNotes(name, item):
-    page = Page(Site(), item["displayName"])
-    notes = re.findall(r'\|notes=(.*)\n', page.text)
-    if notes:
-        return notes[0]
-    return ''
-
-
-def main(OLD):
+def main(OLD, UPLOAD):
     toWiki = {
         "dCard": writeCard,
         "dFishToolkit": writeFish,
@@ -360,8 +373,18 @@ def main(OLD):
 
     if OLD:
         for name, data in allItems.items():
-            writeOLD(items[name]["typeGen"] + items[name]["displayName"], data)
+            writeOLD(name, data)
+
+    itemTypes = {x["typeGen"][1:] for x in items.values()}
+    resetOutFiles(itemTypes)
+    for name, data in allItems.items():
+        addToType(items[name]["typeGen"][1:], data)
+
+    if UPLOAD:
+        for name, data in allItems.items():
+            if checkOld(name, data) == False:
+                pass
 
 
 if __name__ == '__main__':
-    main(True)
+    main(True, True)

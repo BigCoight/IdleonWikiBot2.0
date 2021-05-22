@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Quest Item
+|description=Hold down to open! There's a santa hat in one of these, as well as various holiday exclusive goodies, even cards!
+|sellprice=100
+|source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Giftmas Blobulyte]]|0.05|1}}
+{{detdrops|[[Meaning of Giftmas]]|0.05|1}}
+{{detdrops|[[Ghost]]|0.15|1}}
+|}

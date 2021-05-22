@@ -1,0 +1,110 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=69% Love
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=100% All Natural
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=3
+|agi=3
+|wis=3
+|luck=3
+|misc=777% Coolness
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=808% Bob
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=666% Pure Evil
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=-1% Self Esteem
+|upgrade=3
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Chat Ring
+|weaponpower=1
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=100% Honk
+|upgrade=3
+|sellprice=2500
+|source=[[Gem Shop]]
+}}

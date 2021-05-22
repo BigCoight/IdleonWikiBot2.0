@@ -1,9 +1,0 @@
-{{Fishingaccessory
-|depth4=15
-|fishingexp=9
-|fishingspeed=2
-|fishingpower=1
-|source=[[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]]
-|type=Fishing Accessory
-|sellprice=50
-}}

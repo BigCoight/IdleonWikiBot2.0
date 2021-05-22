@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Material
+|description=Ohh that's why it's called Cue tape!
+|sellprice=3
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=8|vendor=Blunder Hills|stock=5000|buyprice=12}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Boxing Gloves]]|5|Crafting}}
+{{usedin/row|[[Bandage Wraps]]|5000|Crafting}}
+|}

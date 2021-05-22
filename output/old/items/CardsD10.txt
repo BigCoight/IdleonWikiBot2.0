@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Sentient Cereal
+|order=9
+|category=Medium Resources
+|effect=+{%_Catching_EXP
+|bonus=5
+|reqtier=10
+|source=[[Catching#Drops|Catching Sentient Cereal]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00016|1}}
+|}

@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Sand Giant_Walking.gif
+|attack=260
+|health=30000
+|defence=550
+|speed=3
+|world=Yum Yum Desert
+|area=Sands of Time
+|exp=410
+|respawn=40
+|defence0=288.51
+|crystal=Yes
+|crystalname=Crystal Crabal
+|hascard=Yes
+}}
+{{EnemyNavigation|Moonmoon|Snelbie}}
+{{DropTable/head}}
+{{DropTable/coin|140|0.34}}
+{{DropTable/row|Singlecle|0.152|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/recipe1|Dootjat Eye|0.000017}}
+{{DropTable8|chance=0.0037}}
+|}

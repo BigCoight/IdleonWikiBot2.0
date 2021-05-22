@@ -1,0 +1,12 @@
+{{InfoCard
+|title=King Doot
+|order=6
+|category=Bosses
+|effect=+{%_Total_Drop_Rate
+|bonus=6
+|reqtier=1.5
+|source=[[King Doot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.04|1}}
+|}

@@ -1,0 +1,156 @@
+{{InfoItem
+|class=All
+|level=4
+|skill=fishing
+|type=Fishing Rod
+|skillpower=3
+|str=1
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=8
+|skill=fishing
+|type=Fishing Rod
+|skillpower=8
+|str=2
+|upgrade=2
+|sellprice=3000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=72
+|levelreq=10
+|expgiven=200
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Copper Bar|quantity1=200
+|resource2=Goldfish|quantity2=400
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|200}}
+{{detrecipe|3|Goldfish|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Goldfish|400}}
+|}
+{{InfoItem
+|class=All
+|level=18
+|skill=fishing
+|type=Fishing Rod
+|skillpower=13
+|str=4
+|wis=1
+|upgrade=2
+|sellprice=19100
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=76
+|levelreq=16
+|expgiven=750
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Iron Bar|quantity1=300
+|resource2=Hermit Can|quantity2=850
+|resource3=Distilled Water|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Gold Fishing Rod]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|300}}
+{{detrecipe|3|Hermit Can|850}}
+{{detrecipe|3|Distilled Water|3}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|300}}
+{{detrecipe/totals|Hermit Can|850}}
+{{detrecipe/totals|Distilled Water|3}}
+|}
+{{InfoItem
+|class=All
+|level=25
+|skill=fishing
+|type=Fishing Rod
+|skillpower=19
+|str=6
+|luck=4
+|upgrade=3
+|sellprice=183000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=12
+|levelreq=22
+|expgiven=5500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Hermit Can|quantity1=2500
+|resource2=Leather Hide|quantity2=1000
+|resource3=Iron Fishing Rod|quantity3=5
+}}
+{{usedin/head}}
+{{usedin/row|[[Plat Fishing Rod]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Hermit Can|2500}}
+{{detrecipe|3|Leather Hide|1000}}
+{{detrecipe|3|Iron Fishing Rod|5}}
+{{detrecipe|40|Iron Bar|1500}}
+{{detrecipe|40|Hermit Can|4250}}
+{{detrecipe|40|Distilled Water|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Hermit Can|6750}}
+{{detrecipe/totals|Leather Hide|1000}}
+{{detrecipe/totals|Iron Bar|1500}}
+{{detrecipe/totals|Distilled Water|15}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|skill=fishing
+|type=Fishing Rod
+|skillpower=25
+|str=9
+|upgrade=3
+|sellprice=1135000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=32
+|levelreq=29
+|expgiven=29000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Bloach|quantity1=7000
+|resource2=Platinum Bar|quantity2=1000
+|resource3=Gold Fishing Rod|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Bloach|7000}}
+{{detrecipe|3|Platinum Bar|1000}}
+{{detrecipe|3|Gold Fishing Rod|3}}
+{{detrecipe|40|Hermit Can|7500}}
+{{detrecipe|40|Leather Hide|3000}}
+{{detrecipe|40|Iron Fishing Rod|15}}
+{{detrecipe|80|Iron Bar|4500}}
+{{detrecipe|80|Hermit Can|12750}}
+{{detrecipe|80|Distilled Water|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bloach|7000}}
+{{detrecipe/totals|Platinum Bar|1000}}
+{{detrecipe/totals|Hermit Can|20250}}
+{{detrecipe/totals|Leather Hide|3000}}
+{{detrecipe/totals|Iron Bar|4500}}
+{{detrecipe/totals|Distilled Water|45}}
+|}

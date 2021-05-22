@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Wode Board
+|order=8
+|category=Blunder Hills
+|effect=+{_Base_STR
+|bonus=2
+|reqtier=10
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|0.000080|1}}
+|}

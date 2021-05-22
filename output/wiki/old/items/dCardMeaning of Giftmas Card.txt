@@ -1,8 +1,0 @@
-{{InfoCard
-|title=Meaning of Giftmas
-|order=2
-|category=Event
-|effect=+{%_Money_from_Monsters
-|bonus=1.5
-|reqtier=3
-}}

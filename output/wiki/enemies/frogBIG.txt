@@ -1,0 +1,26 @@
+{{InfoEnemy
+|image=Gigafrog_Walking.gif
+|attack=60
+|health=2500
+|defence=120
+|speed=3
+|world=Blunder Hills
+|area=Tucked Away
+|exp=95
+|respawn=55
+|defence0=50.87
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Wode Board|Poop}}
+{{DropTable/head}}
+{{DropTable/coin|28|0.35}}
+{{DropTable/row|Bullfrog Horn|0.14|1}}
+{{DropTable/card|0.000070}}
+{{DropTable/row|Average Life Potion|0.001|5}}
+{{DropTable/row|Battleaxe Stamp|0.00003|1}}
+{{DropTable/row|Kapow Stamp|0.0003|1|([[Papua_Piggea]])}}
+{{DropTable/row|Bronze Obol of Pop|0.00001|1}}
+{{DropTable3|chance=0.005}}
+|}

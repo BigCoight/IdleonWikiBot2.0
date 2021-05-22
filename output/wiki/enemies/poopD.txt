@@ -1,0 +1,18 @@
+{{InfoEnemy
+|image=Boop_Walking.gif
+|attack=250
+|health=200000
+|defence=120
+|speed=3
+|area=Meel's Crypt
+|exp=1000
+|respawn=74500
+|defence0=275.97
+|hascard=Yes
+}}
+{{EnemyNavigation|Dr Defecaus|Amarok}}
+{{DropTable/head}}
+{{DropTable/coin|1|.99}}
+{{DropTable/row|Bonemeal|0.5|1}}
+{{DropTable/card|0.0015}}
+|}

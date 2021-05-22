@@ -1,0 +1,25 @@
+{{InfoEnemy
+|image=Slime_Walking.gif
+|attack=17
+|health=250
+|defence=9
+|speed=4
+|world=Blunder Hills
+|area=Jungle Perimeter
+|exp=23
+|respawn=42
+|defence0=10.43
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Bored Bean|Baby Boa}}
+{{DropTable/head}}
+{{DropTable/coin|8|0.44}}
+{{DropTable/row|Slime Sludge|0.19|1}}
+{{DropTable/card|0.000095}}
+{{DropTable/row|Toxic Sludge|0.0003|10}}
+{{DropTable/recipe0|Goo Galoshes|0.00003}}
+{{DropTable/recipe0|Dooble Goopi|0.00002}}
+{{DropTable2|chance=0.004}}
+|}

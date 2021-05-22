@@ -1,0 +1,487 @@
+{{InfoStamp
+|number=1
+|type=Combat
+|bonus= Base Damage
+|material=Spore Cap
+|sellprice=500
+|source=Start
+}}
+{{InfoStamp
+|number=2
+|type=Combat
+|bonus= Base HP
+|material=Oak Logs
+|sellprice=500
+|source=Start
+}}
+{{InfoStamp
+|number=3
+|type=Combat
+|bonus= Base MP
+|material=Copper Ore
+|sellprice=2500
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{InfoStamp
+|number=4
+|type=Combat
+|bonus=% Total Damage
+|material=Copper Bar
+|sellprice=1000
+|source=[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]
+}}
+{{InfoStamp
+|number=5
+|type=Combat
+|bonus= Base Accuracy
+|material=Thread
+|sellprice=250
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{InfoStamp
+|number=6
+|type=Combat
+|bonus= Base Defence
+|material=Iron Ore
+|sellprice=800
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{InfoStamp
+|number=7
+|type=Combat
+|bonus= Base Damage
+|material=Bean Slices
+|sellprice=1000
+|source=[[Baby Boa]]
+}}
+{{InfoStamp
+|number=8
+|type=Combat
+|bonus=% Critical Damage
+|material=Trusty Nails
+|sellprice=2500
+|source=[[Gigafrog]]
+}}
+{{InfoStamp
+|number=9
+|type=Combat
+|bonus= STR
+|material=Bleach Logs
+|sellprice=2500
+|source=[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]
+}}
+{{InfoStamp
+|number=10
+|type=Combat
+|bonus=% Total Damage
+|material=Grass Leaf
+|sellprice=2500
+|source=[[Gigafrog]]
+}}
+{{InfoStamp
+|number=11
+|type=Combat
+|bonus= AGI
+|material=Copper Chopper
+|sellprice=2500
+|source=[[DropTable12]]
+}}
+{{InfoStamp
+|number=12
+|type=Combat
+|bonus= Base HP
+|material=Snake Skin
+|sellprice=8000
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+}}
+{{InfoStamp
+|number=13
+|type=Combat
+|bonus= WIS
+|material=Iron Bar
+|sellprice=8000
+|source=[[DropTable10]]
+}}
+{{InfoStamp
+|number=14
+|type=Combat
+|bonus= Base MP
+|material=Goblin Ear
+|sellprice=8000
+|source=[[Mutton#Clout Chasin'|Clout Chasin']]
+}}
+{{InfoStamp
+|number=15
+|type=Combat
+|bonus= LUK
+|material=Iron Platebody
+|sellprice=12000
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+}}
+{{InfoStamp
+|number=16
+|type=Combat
+|bonus= Base Damage
+|material=Goldfish
+|sellprice=4000
+|source=[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]
+}}
+{{InfoStamp
+|number=17
+|type=Combat
+|bonus= Base Accuracy
+|material=Sentient Cereal
+|sellprice=12500
+|source=[[Mutton#7 Figure Followers|7 Figure Followers]]
+}}
+{{InfoStamp
+|number=18
+|type=Combat
+|bonus= Base Move Speed
+|material=Coconotnotto
+|sellprice=6000
+}}
+{{InfoStamp
+|number=19
+|type=Combat
+|bonus=% Total Damage
+|material=Steel Axe
+|sellprice=7500
+|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+}}
+{{InfoStamp
+|number=20
+|type=Combat
+|bonus=% STR from Talents
+|material=Dementia Ore
+|sellprice=25000
+}}
+{{InfoStamp
+|number=21
+|type=Combat
+|bonus= Base Defence
+|material=Platinum Bar
+|sellprice=12000
+}}
+{{InfoStamp
+|number=23
+|type=Combat
+|bonus=% Boss Damage
+|material=Amarok Slab
+|sellprice=10000
+}}
+{{InfoStamp
+|number=24
+|type=Combat
+|bonus= Base Defence
+|material=Gold Bar
+|sellprice=6000
+|source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
+}}
+{{InfoStamp
+|number=26
+|type=Combat
+|bonus=% Total Damage
+|material=Fruitfly
+|sellprice=50000
+|source=[[Mutton#7 Figure Followers|7 Figure Followers]]
+}}
+{{InfoStamp
+|number=27
+|type=Combat
+|bonus= Base LUK
+|material=Jellyfish
+|sellprice=12500
+}}
+{{InfoStamp
+|number=28
+|type=Combat
+|bonus= All Stats
+|material=Mystery Upgrade Stone I
+|sellprice=10000
+|source=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+}}
+{{InfoStamp
+|number=1
+|type=Skills
+|bonus= Mining Efficiency
+|material=Oak Logs
+|sellprice=500
+}}
+{{InfoStamp
+|number=2
+|type=Skills
+|bonus= Choppin Efficiency
+|material=Thread
+|sellprice=1200
+}}
+{{InfoStamp
+|number=3
+|type=Skills
+|bonus=% Anvil Production Spd
+|material=Copper Ore
+|sellprice=800
+|source=[[DropTable1]]
+}}
+{{InfoStamp
+|number=4
+|type=Skills
+|bonus= Mining Carry Cap
+|material=Jungle Logs
+|sellprice=1000
+|source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
+}}
+{{InfoStamp
+|number=5
+|type=Skills
+|bonus=% Multi Ore Chance
+|material=Thief Hood
+|sellprice=1000
+}}
+{{InfoStamp
+|number=6
+|type=Skills
+|bonus= Choppin Carry Cap
+|material=Carrot Cube
+|sellprice=1000
+|source=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
+}}
+{{InfoStamp
+|number=7
+|type=Skills
+|bonus=% Multi Log Chance
+|material=Militia Helm
+|sellprice=1000
+}}
+{{InfoStamp
+|number=8
+|type=Skills
+|bonus= Material Carry Cap
+|material=Cramped Material Pouch
+|sellprice=6700
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+}}
+{{InfoStamp
+|number=9
+|type=Skills
+|bonus=% Mining Exp
+|material=Plank
+|sellprice=1500
+|source=[[DropTable5]]
+}}
+{{InfoStamp
+|number=10
+|type=Skills
+|bonus= Mining Efficiency
+|material=Iron Hatchet
+|sellprice=1000
+}}
+{{InfoStamp
+|number=11
+|type=Skills
+|bonus=% Choppin Exp
+|material=Bullfrog Horn
+|sellprice=1800
+|source=[[DropTable4]]
+}}
+{{InfoStamp
+|number=12
+|type=Skills
+|bonus= Choppin Efficiency
+|material=Iron Pickaxe
+|sellprice=2500
+}}
+{{InfoStamp
+|number=13
+|type=Skills
+|bonus=% Alch Speed
+|material=Forest Fibres
+|sellprice=2000
+|source=[[DropTable11]]
+}}
+{{InfoStamp
+|number=14
+|type=Skills
+|bonus=% Alch Exp
+|material=Gold Ore
+|sellprice=2500
+|source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
+}}
+{{InfoStamp
+|number=15
+|type=Skills
+|bonus=% Liquid Spd
+|material=Pocket Sand
+|sellprice=2000
+|source=[[DropTable6]]
+}}
+{{InfoStamp
+|number=16
+|type=Skills
+|bonus= Liquid Cap
+|material=Bloach
+|sellprice=5000
+|source=[[DropTable7]]
+}}
+{{InfoStamp
+|number=17
+|type=Skills
+|bonus= Fishing Efficiency
+|material=Fly
+|sellprice=2000
+|source=[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]
+}}
+{{InfoStamp
+|number=18
+|type=Skills
+|bonus=% Fishing Exp
+|material=Megalodon Tooth
+|sellprice=3000
+|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+}}
+{{InfoStamp
+|number=19
+|type=Skills
+|bonus= Catching Efficiency
+|material=Goldfish
+|sellprice=2000
+|source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
+}}
+{{InfoStamp
+|number=20
+|type=Skills
+|bonus=% Catching Exp
+|material=Crabby Cakey
+|sellprice=3000
+|source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
+}}
+{{InfoStamp
+|number=21
+|type=Skills
+|bonus=% Fish Carry Cap
+|material=Butterfly
+|sellprice=2000
+|source=[[DropTable12]]
+}}
+{{InfoStamp
+|number=22
+|type=Skills
+|bonus=% Multifish Chance
+|material=Platinum Ore
+|sellprice=3000
+|source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
+}}
+{{InfoStamp
+|number=23
+|type=Skills
+|bonus=% Bug Carry Cap
+|material=Hermit Can
+|sellprice=3000
+|source=[[DropTable9]]
+}}
+{{InfoStamp
+|number=24
+|type=Skills
+|bonus=% Multibug Chance
+|material=Potty Rolls
+|sellprice=4000
+|source=[[DropTable8]]
+}}
+{{InfoStamp
+|number=1
+|type=Misc
+|bonus=% Quest EXP
+|material=Slime Sludge
+|sellprice=1000
+|source=[[Tiki_Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]
+}}
+{{InfoStamp
+|number=2
+|type=Misc
+|bonus=% All Carry Cap
+|material=Glass Shard
+|sellprice=10000
+|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+}}
+{{InfoStamp
+|number=3
+|type=Misc
+|bonus=% Spawn Chance
+|material=Boring Brick
+|sellprice=2000
+|source=[[Crystal Carrot]], [[Crystal Crabal]], [[Crystal Cattle]]
+}}
+{{InfoStamp
+|number=5
+|type=Misc
+|bonus=% HP Food Effect
+|material=Meat Pie
+|sellprice=1000
+}}
+{{InfoStamp
+|number=6
+|type=Misc
+|bonus=% Boost Food Effect
+|material=Icing Ironbite
+|sellprice=3000
+|source=[[Papua_Piggea#Stamp Collecting|Stamp Collecting]]
+}}
+{{InfoStamp
+|number=7
+|type=Misc
+|bonus=% Gold Food Effect
+|material=Golden Nomwich
+|sellprice=10000
+|source=[[Mutton#7 Figure Followers|7 Figure Followers]]
+}}
+{{InfoStamp
+|number=9
+|type=Misc
+|bonus=% Card Drop Rate
+|material=Furled Flag
+|sellprice=3000
+|source=[[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{InfoStamp
+|number=13
+|type=Misc
+|bonus= Talent 1 Pts
+|material=Frog Leg
+|sellprice=1
+}}
+{{InfoStamp
+|number=14
+|type=Misc
+|bonus= Talent 2 Pts
+|material=Pincer Arm
+|sellprice=12000
+|source=[[Wellington#You Can't Run, but you Can Hide|You Can't Run, but you Can Hide]]
+}}
+{{InfoStamp
+|number=15
+|type=Misc
+|bonus= Talent 3 Pts
+|material=Copper Ore
+|sellprice=1
+}}
+{{InfoStamp
+|number=16
+|type=Misc
+|bonus= Talent 4 Pts
+|material=Copper Ore
+|sellprice=1
+}}
+{{InfoStamp
+|number=17
+|type=Misc
+|bonus= Talent 5 Pts
+|material=Copper Ore
+|sellprice=1
+}}
+{{InfoStamp
+|number=18
+|type=Misc
+|bonus= Star Talent Pts
+|material=Copper Ore
+|sellprice=1
+}}

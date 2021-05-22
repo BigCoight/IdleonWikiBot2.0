@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Critter
-|description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!!
-|sellprice=3
-|source=Trapping
-}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Helmet
+|wis=1
+|upgrade=1
+|sellprice=5
+|source=Starter Hat
+}}

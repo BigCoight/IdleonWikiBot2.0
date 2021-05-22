@@ -1,0 +1,19 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|weaponpower=1
+|str=2
+|agi=2
+|wis=2
+|luck=2
+|misc=5% Boss Damage
+|sellprice=20
+|rarity=Skeletal
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Efaunt]]|0.001|1}}
+{{detdrops|[[Chaotic Efaunt]]|0.001|1}}
+{{detdrops|[[Nightmare Amarok]]|0.001|1}}
+|}

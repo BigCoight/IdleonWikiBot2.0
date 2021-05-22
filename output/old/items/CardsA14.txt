@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Crystal Carrot
+|order=14
+|category=Blunder Hills
+|effect=+{%_Total_Drop_Rate
+|bonus=5
+|reqtier=3
+|source=[[Crystal Carrot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.01|1}}
+|}

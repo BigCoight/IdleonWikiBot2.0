@@ -1,0 +1,36 @@
+{{InfoItem
+|class=All
+|level=6
+|type=Fisticuff
+|speed=5
+|weaponpower=11
+|str=5
+|luck=5
+|reach=60
+|upgrade=2
+|sellprice=530
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=13
+|levelreq=6
+|expgiven=15
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=20
+|resource2=Oak Logs|quantity2=75
+|resource3=Trusty Nails|quantity3=20
+}}
+{{usedin/head}}
+{{usedin/row|[[Bandage Wraps]]|10|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Oak Logs|75}}
+{{detrecipe|3|Trusty Nails|20}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Oak Logs|75}}
+{{detrecipe/totals|Trusty Nails|20}}
+|}

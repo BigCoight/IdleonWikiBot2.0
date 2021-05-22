@@ -1,0 +1,31 @@
+{{InfoItem
+|class=Archer
+|level=18
+|type=Shirt
+|str=5
+|agi=9
+|upgrade=3
+|defence=13
+|sellprice=26000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=44
+|levelreq=14
+|expgiven=800
+|recipefrom=Funguy
+|resource1=Goblin Ear|quantity1=500
+|resource2=Iron Bar|quantity2=500
+}}
+{{usedin/head}}
+{{usedin/row|[[Feral Leathering]]|4|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Goblin Ear|500}}
+{{detrecipe|3|Iron Bar|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goblin Ear|500}}
+{{detrecipe/totals|Iron Bar|500}}
+|}

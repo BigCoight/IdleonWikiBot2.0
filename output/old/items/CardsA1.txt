@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Red Mushroom
+|order=1
+|category=Blunder Hills
+|effect=+{_Base_LUK
+|bonus=3
+|reqtier=10
+|source=[[Red Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Red Mushroom]]|0.0001|1}}
+|}

@@ -1,0 +1,258 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory G
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Scripticus#Mr. Worldwide|Mr. Worldwide]]
+}}
+{{InfoItem
+|class=All
+|level=3
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
+}}
+{{InfoItem
+|class=All
+|level=5
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
+}}
+{{InfoItem
+|class=All
+|level=10
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Promotheus#The Witcher, but not Really|The Witcher, but not Really]]
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
+}}
+{{InfoItem
+|class=All
+|level=20
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Cowbo_Jones#Commence Criminal Crimes!|Commence Criminal Crimes!]]
+}}
+{{InfoItem
+|class=All
+|level=20
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[DropTable6]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0007199999999999999|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0007199999999999999|1.0}}
+{{detdrops|[[Sandy Pot]]|0.0000036|1.0}}
+{{detdrops|[[Mimic]]|0.00000384|1.0}}
+{{detdrops|[[Crabcake]]|0.000004319999999999999|1.0}}
+{{detdrops|[[Efaunt]]|0.0012|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0012|2.0}}
+{{detdrops|[[Biggie Hours]]|0.0006|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.0012|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.0012|1.0}}
+|}
+{{InfoItem
+|class=All
+|level=20
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Cowbo_Jones#Oh No, not the Elderly!|Oh No, not the Elderly!]]
+}}
+{{InfoItem
+|class=All
+|level=20
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=1300
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.00008|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
+|}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=5000
+|source=[[Mimic]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mimic]]|0.000025|1}}
+|}
+{{InfoItem
+|class=All
+|level=5
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=1757
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=52
+|levelreq=8
+|expgiven=60
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Spore Tee|quantity1=2
+|resource2=Dank Paypay Chest|quantity2=1
+|resource3=Spore Cap|quantity3=169
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Tee|2}}
+{{detrecipe|3|Dank Paypay Chest|1}}
+{{detrecipe|3|Spore Cap|169}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Tee|2}}
+{{detrecipe/totals|Dank Paypay Chest|1}}
+{{detrecipe/totals|Spore Cap|169}}
+|}
+{{InfoItem
+|class=All
+|level=20
+|type=Inventory 
+|description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
+|sellprice=48420
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=59
+|levelreq=18
+|expgiven=1200
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Plop|quantity1=1
+|resource2=Snakeskinventory Bag|quantity2=1
+|resource3=Pocket Sand|quantity3=777
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Plop|1}}
+{{detrecipe|3|Snakeskinventory Bag|1}}
+{{detrecipe|3|Pocket Sand|777}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Plop|1}}
+{{detrecipe/totals|Snakeskinventory Bag|1}}
+{{detrecipe/totals|Pocket Sand|777}}
+|}
+{{InfoItem
+|class=All
+|level=1
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=24
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=18|vendor=Blunder Hills|stock=1|buyprice=96}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=2499
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=1|buyprice=9996}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=249999
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=11|vendor=YumYum Grotto|stock=1|buyprice=999996}}
+|}
+{{InfoItem
+|class=All
+|level=70
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=24999999
+}}
+{{InfoItem
+|class=All
+|level=120
+|type=Inventory 
+|description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
+|sellprice=2499999999
+}}

@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Armor to apply. +3 Defence +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
+|sellprice=15000
+|tier=III
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.09|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.09|1}}
+|}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Frost Flake
+|order=1
+|category=Frostfire Tyundra
+|effect=+{%_Total_Damage
+|bonus=5
+|reqtier=1.5
+|source=[[Frost Flake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frost Flake]]|0.0001|1}}
+|}

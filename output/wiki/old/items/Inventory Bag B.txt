@@ -1,8 +1,0 @@
-{{InfoItem
-|class=All
-|level=3
-|type=Inventory 
-|description=H o l d   d o w n   t o   p e r m a n e n t l y   a d d   + 1   S l o t s   t o   y o u r   I n v e n t o r y .   C a n   o n l y   b e   u s e d   o n c e .
-|sellprice=200
-|source=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
-}}

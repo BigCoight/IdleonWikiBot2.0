@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Quenchie
+|order=8
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Quenchie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Quenchie]]|0.0001|1}}
+|}

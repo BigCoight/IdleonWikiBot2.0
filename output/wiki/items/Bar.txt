@@ -1,0 +1,143 @@
+{{InfoItem
+|type=Bar
+|sellprice=7
+|source=Forging, [[Fire Forge]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Fire Forge]]|0.5|69}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.35|50}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Wooden Spear]]|10|Crafting}}
+{{usedin/row|[[Torn Jeans]]|8|Crafting}}
+{{usedin/row|[[Flip Flops]]|20|Crafting}}
+{{usedin/row|[[Copper Pickaxe]]|13|Crafting}}
+{{usedin/row|[[Copper Chopper]]|13|Crafting}}
+{{usedin/row|[[The Stingers]]|20|Crafting}}
+{{usedin/row|[[Cramped Food Pouch]]|15|Crafting}}
+{{usedin/row|[[Copper Helmet]]|50|Crafting}}
+{{usedin/row|[[Copper Platebody]]|65|Crafting}}
+{{usedin/row|[[Copper Platelegs]]|80|Crafting}}
+{{usedin/row|[[Copper Boots]]|200|Crafting}}
+{{usedin/row|[[Quarterstaff]]|100|Crafting}}
+{{usedin/row|[[Copper Band]]|300|Crafting}}
+{{usedin/row|[[Copper Fish Rod]]|200|Crafting}}
+{{usedin/row|[[Glumlee#Learning to Smelt|Learning to Smelt]]|1|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Hearty Diggy|Hearty Diggy]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Barium Mixture|Barium Mixture]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=32
+|source=Forging, [[Fire Forge]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Fire Forge]]|0.5|69}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|15}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Militia Helm]]|25|Crafting}}
+{{usedin/row|[[Thief Hood]]|25|Crafting}}
+{{usedin/row|[[Top Hat]]|25|Crafting}}
+{{usedin/row|[[Party Hat]]|200|Crafting}}
+{{usedin/row|[[Iron Pickaxe]]|140|Crafting}}
+{{usedin/row|[[Iron Helmet]]|180|Crafting}}
+{{usedin/row|[[Iron Platebody]]|200|Crafting}}
+{{usedin/row|[[Iron Platelegs]]|225|Crafting}}
+{{usedin/row|[[Anvil Tab 2]]|500|Crafting}}
+{{usedin/row|[[Iron Boots]]|125|Crafting}}
+{{usedin/row|[[Steel Band]]|600|Crafting}}
+{{usedin/row|[[Fur Shirt]]|500|Crafting}}
+{{usedin/row|[[Amarok Bodyplate]]|500|Crafting}}
+{{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
+{{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
+{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Barley Brew|Barley Brew]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=115
+|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Fire Forge]]|0.5|69}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.35|60}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Golden Peanut]]|50|Crafting}}
+{{usedin/row|[[Gold Helmet]]|250|Crafting}}
+{{usedin/row|[[Gold Platebody]]|350|Crafting}}
+{{usedin/row|[[Gold Platelegs]]|475|Crafting}}
+{{usedin/row|[[Gold Boots]]|600|Crafting}}
+{{usedin/row|[[Spiked Menace]]|250|Crafting}}
+{{usedin/row|[[Gold Pickaxe]]|800|Crafting}}
+{{usedin/row|[[Viking Cap]]|400|Crafting}}
+{{usedin/row|[[Dootjat Eye]]|80|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=460
+|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cinder Forge]]|0.5|69}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|20}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunder Skills Completion Token]]|1000|Crafting}}
+{{usedin/row|[[Platinum Helmet]]|750|Crafting}}
+{{usedin/row|[[Platinum Platbody]]|1000|Crafting}}
+{{usedin/row|[[Platinum Shins]]|1250|Crafting}}
+{{usedin/row|[[Platinum Pickaxe]]|1000|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|1000|Crafting}}
+{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=1900
+|source=Forging, [[Cinder Forge]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cinder Forge]]|0.5|69}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=6800
+|source=Forging, [[Cinder Forge]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cinder Forge]]|0.5|69}}
+|}
+{{InfoItem
+|type=Bar
+|sellprice=1
+|source=Forging
+}}
+{{InfoItem
+|type=Bar
+|sellprice=1
+|source=Forging
+}}
+{{InfoItem
+|type=Bar
+|sellprice=1
+|source=Forging
+}}
+{{InfoItem
+|type=Bar
+|sellprice=1
+|source=Forging
+}}

@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Critter
-|description=Argg, yer spendin' all me money!
-|sellprice=3
-|source=Trapping
-}}

@@ -1,6 +1,0 @@
-{{Fishingaccessory
-|fishingspeed=15
-|fishingpower=5
-|type=Fishing Accessory
-|sellprice=50
-}}

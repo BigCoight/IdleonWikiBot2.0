@@ -1,9 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=8000
-|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
-}}
-{{stampdata|stype=BaseHP|ftype=add|x1=2|x2=0|i4=4|material=Jungle2|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Base HP|i12=6}}
-{{Vendoritem/head}}
-{{Vendoritem/tablerow|number=6|vendor=Encroaching Forest Villas|stock=1|buyprice=32000}}
-{{quest/tail}}

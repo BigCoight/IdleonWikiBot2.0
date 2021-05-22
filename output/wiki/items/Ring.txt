@@ -1,0 +1,335 @@
+{{InfoItem
+|class=All
+|level=15
+|type=Ring
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Ring
+|str=1
+|agi=1
+|wis=1
+|luck=3
+|upgrade=3
+|sellprice=2100
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=27
+|levelreq=11
+|expgiven=330
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=300
+}}
+{{usedin/head}}
+{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|300}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|300}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Ring
+|str=1
+|agi=1
+|wis=1
+|luck=4
+|upgrade=4
+|defence=1
+|sellprice=19200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=39
+|levelreq=13
+|expgiven=700
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Iron Bar|quantity1=600
+}}
+{{usedin/head}}
+{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|600}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|600}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Ring
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Ring
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=55
+|type=Ring
+|weaponpower=4
+|misc=5% Boss Damage
+|upgrade=4
+|defence=6
+|sellprice=200
+|source=[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]
+}}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|str=3
+|misc=4% Boss Damage
+|upgrade=2
+|sellprice=4000
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=12|vendor=Blunder Hills|stock=1|buyprice=16000}}
+|}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=4
+|luck=1
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=12
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=20
+|type=Ring
+|luck=1
+|upgrade=2
+|defence=10
+|sellprice=73250
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=16
+|levelreq=23
+|expgiven=10000
+|recipefrom=Start
+|resource1=Goldfish|quantity1=16000
+|resource2=Golden Plop|quantity2=17
+|resource3=Distilled Water|quantity3=15
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Goldfish|16000}}
+{{detrecipe|3|Golden Plop|17}}
+{{detrecipe|3|Distilled Water|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goldfish|16000}}
+{{detrecipe/totals|Golden Plop|17}}
+{{detrecipe/totals|Distilled Water|15}}
+|}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|misc=20 Yellow Depth
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|misc=30 Red Depth
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=9
+|type=Ring
+|weaponpower=3
+|str=6
+|agi=2
+|misc=40 Purple Depth
+|upgrade=2
+|sellprice=2500
+}}
+{{InfoItem
+|class=All
+|level=45
+|type=Ring
+|str=12
+|misc=20 Accuracy
+|upgrade=4
+|sellprice=5000
+|source=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
+}}
+{{InfoItem
+|class=All
+|level=17
+|type=Ring
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|misc=2% Fight Afk Gain
+|upgrade=3
+|sellprice=5000
+|source=[[Funguy#Partycrastination|Partycrastination]]
+}}
+{{InfoItem
+|class=All
+|level=30
+|type=Ring
+|luck=1
+|misc=5% Money
+|upgrade=3
+|defence=2
+|sellprice=31300
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=47
+|levelreq=16
+|expgiven=800
+|recipefrom=Start
+|resource1=Slime Sludge|quantity1=1000
+|resource2=Copper Band|quantity2=1
+|resource3=Steel Band|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|1000}}
+{{detrecipe|3|Copper Band|1}}
+{{detrecipe|40|Copper Bar|300}}
+{{detrecipe|3|Steel Band|1}}
+{{detrecipe|40|Iron Bar|600}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|1000}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Iron Bar|600}}
+|}
+{{InfoItem
+|class=All
+|level=60
+|type=Ring
+|agi=8
+|luck=4
+|misc=1% Movement Speed
+|upgrade=4
+|defence=5
+|sellprice=1
+}}
+{{InfoItem
+|class=All
+|level=85
+|type=Ring
+|weaponpower=3
+|agi=10
+|misc=2% Crit Chance
+|upgrade=4
+|defence=8
+|sellprice=186439
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=64
+|levelreq=45
+|expgiven=500000
+|recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
+|resource1=Ribbed Tunic|quantity1=4
+|resource2=Ripped Tunic|quantity2=15
+|resource3=Bandage Wraps|quantity3=1
+|resource4=Pharoah Bow|quantity4=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Ribbed Tunic|4}}
+{{detrecipe|3|Ripped Tunic|15}}
+{{detrecipe|3|Bandage Wraps|1}}
+{{detrecipe|40|Cue Tape|5000}}
+{{detrecipe|40|The Stingers|10}}
+{{detrecipe|80|Copper Bar|200}}
+{{detrecipe|80|Oak Logs|750}}
+{{detrecipe|80|Trusty Nails|200}}
+{{detrecipe|40|Potty Rolls|2000}}
+{{detrecipe|3|Pharoah Bow|1}}
+{{detrecipe|40|Woodular Circle|8}}
+{{detrecipe|40|Bloach|5200}}
+{{detrecipe|40|Spiked Menace|2}}
+{{detrecipe|80|Gold Bar|500}}
+{{detrecipe|80|Birch Longbow|6}}
+{{detrecipe|120|Slime Sludge|900}}
+{{detrecipe|120|Bleach Logs|1500}}
+{{detrecipe|80|Distilled Water|16}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Ribbed Tunic|4}}
+{{detrecipe/totals|Ripped Tunic|15}}
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Oak Logs|750}}
+{{detrecipe/totals|Trusty Nails|200}}
+{{detrecipe/totals|Woodular Circle|8}}
+{{detrecipe/totals|Bloach|5200}}
+{{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Slime Sludge|900}}
+{{detrecipe/totals|Bleach Logs|1500}}
+{{detrecipe/totals|Distilled Water|16}}
+|}

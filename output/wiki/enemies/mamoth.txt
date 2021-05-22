@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=mamooth_Walking.gif
+|attack=0
+|health=115000
+|defence=1
+|speed=3
+|world=Frostfire Tyundra
+|area=Mamooooth Mountain
+|exp=1030
+|respawn=40
+|defence0=0.22
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Bloque|Snowman}}
+{{DropTable/head}}
+{{DropTable/coin|10|0.5}}
+{{DropTable/row|Mamooth Tusk|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable8|chance=0.4}}
+|}

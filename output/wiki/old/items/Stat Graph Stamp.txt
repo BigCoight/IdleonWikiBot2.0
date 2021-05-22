@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=10000
-|source=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
-}}
-{{stampdata|stype=BaseAllStat|ftype=add|x1=1|x2=0|i4=2|material=StoneZ1|i6=2|i7=2|i8=2000|i9=1.36|i10=0|i11={} All Stats|i12=0}}

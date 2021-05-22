@@ -1,0 +1,155 @@
+{{InfoItem
+|class=All
+|level=4
+|skill=catching
+|type=Bug Catching Net
+|skillpower=4
+|agi=2
+|upgrade=2
+|sellprice=100
+}}
+{{InfoItem
+|class=All
+|level=8
+|skill=catching
+|type=Bug Catching Net
+|skillpower=9
+|str=1
+|agi=3
+|upgrade=2
+|sellprice=4200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=74
+|levelreq=10
+|expgiven=200
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Jungle Logs|quantity1=500
+|resource2=Fly|quantity2=400
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Jungle Logs|500}}
+{{detrecipe|3|Fly|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Jungle Logs|500}}
+{{detrecipe/totals|Fly|400}}
+|}
+{{InfoItem
+|class=All
+|level=18
+|skill=catching
+|type=Bug Catching Net
+|skillpower=14
+|str=2
+|agi=4
+|upgrade=2
+|sellprice=15800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=78
+|levelreq=16
+|expgiven=750
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Forest Fibres|quantity1=800
+|resource2=Butterfly|quantity2=850
+|resource3=Distilled Water|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Gilded Net]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Forest Fibres|800}}
+{{detrecipe|3|Butterfly|850}}
+{{detrecipe|3|Distilled Water|3}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Forest Fibres|800}}
+{{detrecipe/totals|Butterfly|850}}
+{{detrecipe/totals|Distilled Water|3}}
+|}
+{{InfoItem
+|class=All
+|level=25
+|skill=catching
+|type=Bug Catching Net
+|skillpower=20
+|str=2
+|agi=6
+|upgrade=2
+|sellprice=119000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=14
+|levelreq=22
+|expgiven=5500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Dubloon|quantity1=5
+|resource2=Butterfly|quantity2=2500
+|resource3=Reinforced Net|quantity3=5
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinet]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Dubloon|5}}
+{{detrecipe|3|Butterfly|2500}}
+{{detrecipe|3|Reinforced Net|5}}
+{{detrecipe|40|Forest Fibres|4000}}
+{{detrecipe|40|Butterfly|4250}}
+{{detrecipe|40|Distilled Water|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Dubloon|5}}
+{{detrecipe/totals|Butterfly|6750}}
+{{detrecipe/totals|Forest Fibres|4000}}
+{{detrecipe/totals|Distilled Water|15}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|skill=catching
+|type=Bug Catching Net
+|skillpower=26
+|str=3
+|agi=7
+|upgrade=3
+|sellprice=637000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=34
+|levelreq=29
+|expgiven=29000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Fruitfly|quantity1=8000
+|resource2=Platinum Ore|quantity2=6000
+|resource3=Gilded Net|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Fruitfly|8000}}
+{{detrecipe|3|Platinum Ore|6000}}
+{{detrecipe|3|Gilded Net|3}}
+{{detrecipe|40|Golden Dubloon|15}}
+{{detrecipe|40|Butterfly|7500}}
+{{detrecipe|40|Reinforced Net|15}}
+{{detrecipe|80|Forest Fibres|12000}}
+{{detrecipe|80|Butterfly|12750}}
+{{detrecipe|80|Distilled Water|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fruitfly|8000}}
+{{detrecipe/totals|Platinum Ore|6000}}
+{{detrecipe/totals|Golden Dubloon|15}}
+{{detrecipe/totals|Butterfly|20250}}
+{{detrecipe/totals|Forest Fibres|12000}}
+{{detrecipe/totals|Distilled Water|45}}
+|}

@@ -1,0 +1,204 @@
+{{InfoItem
+|class=All
+|level=4
+|skill=mining
+|type=Pickaxe
+|skillpower=2
+|str=1
+|sellprice=50
+|source=[[Scripticus#Certified Swinger, of Pickaxes of course!|Certified Swinger, of Pickaxes of course!]]
+}}
+{{InfoItem
+|class=All
+|level=8
+|skill=mining
+|type=Pickaxe
+|skillpower=6
+|str=3
+|upgrade=2
+|sellprice=241
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=8
+|levelreq=3
+|expgiven=10
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=13
+|resource2=Frog Leg|quantity2=30
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|13}}
+{{detrecipe|3|Frog Leg|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|13}}
+{{detrecipe/totals|Frog Leg|30}}
+|}
+{{InfoItem
+|class=All
+|level=18
+|skill=mining
+|type=Pickaxe
+|skillpower=10
+|str=5
+|agi=2
+|upgrade=2
+|sellprice=8230
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=28
+|levelreq=13
+|expgiven=500
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=140
+|resource2=Carrot Cube|quantity2=250
+}}
+{{usedin/head}}
+{{usedin/row|[[Gold Pickaxe]]|5|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|140}}
+{{detrecipe|3|Carrot Cube|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|140}}
+{{detrecipe/totals|Carrot Cube|250}}
+|}
+{{InfoItem
+|class=All
+|level=25
+|skill=mining
+|type=Pickaxe
+|skillpower=13
+|str=8
+|agi=3
+|upgrade=2
+|sellprice=308150
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=8
+|levelreq=20
+|expgiven=4400
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Megalodon Tooth|quantity1=2500
+|resource2=Gold Bar|quantity2=800
+|resource3=Iron Pickaxe|quantity3=5
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Pickaxe]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Megalodon Tooth|2500}}
+{{detrecipe|3|Gold Bar|800}}
+{{detrecipe|3|Iron Pickaxe|5}}
+{{detrecipe|40|Iron Bar|700}}
+{{detrecipe|40|Carrot Cube|1250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Megalodon Tooth|2500}}
+{{detrecipe/totals|Gold Bar|800}}
+{{detrecipe/totals|Iron Bar|700}}
+{{detrecipe/totals|Carrot Cube|1250}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|skill=mining
+|type=Pickaxe
+|skillpower=16
+|str=11
+|agi=4
+|misc=1% Mining Efficincy
+|upgrade=3
+|sellprice=2644450
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=28
+|levelreq=26
+|expgiven=16000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Platinum Bar|quantity1=1000
+|resource2=Pincer Arm|quantity2=10500
+|resource3=Gold Pickaxe|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Platinum Bar|1000}}
+{{detrecipe|3|Pincer Arm|10500}}
+{{detrecipe|3|Gold Pickaxe|3}}
+{{detrecipe|40|Megalodon Tooth|7500}}
+{{detrecipe|40|Gold Bar|2400}}
+{{detrecipe|40|Iron Pickaxe|15}}
+{{detrecipe|80|Iron Bar|2100}}
+{{detrecipe|80|Carrot Cube|3750}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Platinum Bar|1000}}
+{{detrecipe/totals|Pincer Arm|10500}}
+{{detrecipe/totals|Megalodon Tooth|7500}}
+{{detrecipe/totals|Gold Bar|2400}}
+{{detrecipe/totals|Iron Bar|2100}}
+{{detrecipe/totals|Carrot Cube|3750}}
+|}
+{{InfoItem
+|class=All
+|level=45
+|skill=mining
+|type=Pickaxe
+|skillpower=19
+|str=15
+|agi=5
+|misc=2% Mining Efficincy
+|upgrade=3
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=55
+|skill=mining
+|type=Pickaxe
+|skillpower=23
+|str=20
+|agi=7
+|misc=5% Mining Efficincy
+|upgrade=4
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=65
+|skill=mining
+|type=Pickaxe
+|skillpower=29
+|str=25
+|agi=9
+|misc=8% Mining Efficincy
+|upgrade=4
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|skill=mining
+|type=Pickaxe
+|skillpower=18
+|misc=2% Mining Efficincy
+|upgrade=6
+|defence=3
+|sellprice=200
+|source=[[Dr Defecaus]], [[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.01|1}}
+|}

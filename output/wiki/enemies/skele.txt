@@ -1,0 +1,20 @@
+{{InfoEnemy
+|image=Xylobone_Walking.gif
+|attack=2
+|health=14000
+|defence=228
+|speed=4
+|world=Frostfire Tyundra
+|exp=420
+|respawn=40
+|defence0=0.5
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Dedotated Ram|Bloodbone}}
+{{DropTable/head}}
+{{DropTable/coin|10|0.5}}
+{{DropTable/card|0.0001}}
+{{DropTable8|chance=0.4}}
+|}

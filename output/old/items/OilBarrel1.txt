@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Barrel
+|description=Increases Forging Speed by 15% for the Forge Slot it's in. 75% chance to be consumed when a bar is forged.
+|sellprice=8
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Glumlee#Learning to Smelt|Learning to Smelt]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=7|vendor=Blunder Hills|stock=1000|buyprice=32}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Purple Tupacband]]|60|Crafting}}
+{{usedin/row|[[Eco Friendly Oil]]|1|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|200|Quests}}
+|}

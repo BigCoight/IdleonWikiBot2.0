@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Critter
-|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind and darkness to umm... people who can't remember what to say. Ah crap.
-|sellprice=3
-|source=Trapping
-}}

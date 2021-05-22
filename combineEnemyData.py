@@ -34,13 +34,13 @@ def getSmithingRecipe(recipes, name, qty):
     index = int(qty)
     for name, item in recipes[tab].items():
         if int(item["no"]) == index:
-            return nameDict.get(name, name)
+            return nameDict.get(name, name), tab
 
 
 def getTalentName(talentName, qty):
     no = int(qty[0])
     index = int(qty[1:no+1])
-    return talentName[index]
+    return repU(talentName[index])
 
 
 def updateDrops(drops, nameDict, recipes, talentNames):
@@ -50,12 +50,13 @@ def updateDrops(drops, nameDict, recipes, talentNames):
             continue
         drop[0] = nameDict.get(drop[0], drop[0])
         if drop[0][:-1] == "SmithingRecipes":
-            dname = getSmithingRecipe(
-                recipes, drop[0], drop[2]) + ";Recipe"
+            recipData = getSmithingRecipe(
+                recipes, drop[0], drop[2])
+            dname = f"{recipData[0]};Recipe;{recipData[1]}" 
             newDrops.append([dname, drop[1], '1', drop[3]])
         elif drop[0][:-1] == "TalentBook":
             dname = getTalentName(
-                talentNames, drop[2]) + ";Talent_Book"
+                talentNames, drop[2]) + ";Talent Book"
             newDrops.append([dname, drop[1], '1', drop[3]])
         else:
             newDrops.append(drop)

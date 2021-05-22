@@ -1,0 +1,26 @@
+{{InfoEnemy
+|image=Crystal Cattle_Walking.gif
+|attack=1
+|health=1000000
+|defence=180
+|speed=5
+|world=Frostfire Tyundra
+|exp=210
+|respawn=252000
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Bloodbone|Baba Yaga}}
+{{DropTable/head}}
+{{DropTable/coin|1|0.5}}
+{{DropTable/card|0.008}}
+{{DropTable/row|Crystallin|.1|1|([[Papua_Piggea]])}}
+{{DropTable/talentQuest Chungus|.005}}}}
+{{DropTable6|chance=.6}}
+{{DropTable7|chance=.5}}
+{{DropTable8|chance=.4}}
+{{DropTable9|chance=.6}}
+{{DropTable12|chance=.5}}
+{{DropTable5b|chance=1}}
+|}

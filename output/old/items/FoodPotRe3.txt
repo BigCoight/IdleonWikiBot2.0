@@ -1,0 +1,34 @@
+{{InfoItem
+|type=Boost Food
+|description=Increases Base HP by 250. 3% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|sellprice=200
+|source=[[DropTable8]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.16000000000000003|25.0}}
+{{detdrops|[[Crystal Cattle]]|0.16000000000000003|25.0}}
+{{detdrops|[[Tyson]]|0.00128|25.0}}
+{{detdrops|[[Moonmoon]]|0.0014000000000000002|25.0}}
+{{detdrops|[[Sand Giant]]|0.0014800000000000002|25.0}}
+{{detdrops|[[Snelbie]]|0.00156|25.0}}
+{{detdrops|[[Sheepie]]|0.16000000000000003|25.0}}
+{{detdrops|[[Frost Flake]]|0.16000000000000003|25.0}}
+{{detdrops|[[Sir Stache]]|0.16000000000000003|25.0}}
+{{detdrops|[[Dedotated Ram]]|0.16000000000000003|25.0}}
+{{detdrops|[[Bloque]]|0.16000000000000003|25.0}}
+{{detdrops|[[mamooth]]|0.16000000000000003|25.0}}
+{{detdrops|[[Snowman]]|0.16000000000000003|25.0}}
+{{detdrops|[[Penguin]]|0.16000000000000003|25.0}}
+{{detdrops|[[Thermister]]|0.16000000000000003|25.0}}
+{{detdrops|[[Quenchie]]|0.16000000000000003|25.0}}
+{{detdrops|[[Cryosnake]]|0.16000000000000003|25.0}}
+{{detdrops|[[Bop Box]]|0.16000000000000003|25.0}}
+{{detdrops|[[Neyeptune]]|0.16000000000000003|25.0}}
+{{detdrops|[[Xylobone]]|0.16000000000000003|25.0}}
+{{detdrops|[[Bloodbone]]|0.16000000000000003|25.0}}
+{{detdrops|[[Efaunt]]|0.4|50.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.4|50.0}}
+{{detdrops|[[Nightmare Amarok]]|0.4|50.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.4|25.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.4|25.0}}
+|}

@@ -1,6 +1,6 @@
 {
     "DropTable1": [
-        ["Copper Band;Recipe", "0.008", "1", "N/A"],
+        ["Copper Band;Recipe;0", "0.008", "1", "N/A"],
         ["Nomwich", ".25", "10", "N/A"],
         ["Small Mana Potion", "0.1", "5", "N/A"],
         ["White Headband", "0.01", "1", "N/A"],
@@ -25,7 +25,7 @@
     "DropTable3": [
         ["Cheezy Pizza", ".42", "15", "N/A"],
         ["Health Statue", ".12", "1", "N/A"],
-        ["Steel Band;Recipe", "0.00005", "1", "N/A"],
+        ["Steel Band;Recipe;0", "0.00005", "1", "N/A"],
         ["Average Mana Potion", ".25", "10", "N/A"],
         ["Tool Upgrade Stone II", ".03", "1", "N/A"],
         ["Bottled Town Teleport", "0.05", "1", "N/A"],
@@ -71,8 +71,8 @@
         ["Silver Pen", ".07", "1", "N/A"],
         ["Lucky Lad", ".0003", "1", "N/A"],
         ["Talent Point Reset Fragment", ".10", "1", "N/A"],
-        ["ROLL_DA_DICE;Talent_Book", ".10", "1", "N/A"],
-        ["ATTACKS_ON_SIMMER;Talent_Book", ".10", "1", "N/A"],
+        ["Roll Da Dice;Talent Book", ".10", "1", "N/A"],
+        ["Attacks On Simmer;Talent Book", ".10", "1", "N/A"],
         ["Golden Nomwich", "0.5", "1", "N/A"],
         ["Silver Obol of Pocket Change", "0.02835", "1", "N/A"],
         ["Silver Obol of Little Damage", "0.02835", "1", "N/A"],

@@ -1,0 +1,615 @@
+{{InfoItem
+|class=All
+|level=8
+|type=Shoes
+|str=1
+|agi=1
+|wis=1
+|luck=2
+|upgrade=2
+|defence=2
+|sellprice=1400
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=19
+|levelreq=10
+|expgiven=110
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=200
+}}
+{{usedin/head}}
+{{usedin/row|[[Iron Boots]]|2|Crafting}}
+{{usedin/row|[[Goo Galoshes]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|200}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|str=2
+|agi=2
+|wis=2
+|upgrade=2
+|defence=4
+|sellprice=12800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=38
+|levelreq=13
+|expgiven=600
+|recipefrom=Start
+|resource1=Trusty Nails|quantity1=500
+|resource2=Iron Bar|quantity2=125
+|resource3=Copper Boots|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Amarok Paws]]|1|Crafting}}
+{{usedin/row|[[Gold Boots]]|2|Crafting}}
+{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Trusty Nails|500}}
+{{detrecipe|3|Iron Bar|125}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|400}}
+|}
+{{InfoItem
+|class=All
+|level=30
+|type=Shoes
+|str=3
+|agi=3
+|wis=3
+|luck=3
+|upgrade=3
+|defence=8
+|sellprice=95000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=3
+|levelreq=20
+|expgiven=4200
+|recipefrom=Start
+|resource1=Gold Bar|quantity1=600
+|resource2=Iron Boots|quantity2=2
+|resource3=Distilled Water|quantity3=8
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Boots]]|3|Crafting}}
+{{usedin/row|[[Cavern Trekkers]]|1|Crafting}}
+{{usedin/row|[[Angler Boots]]|1|Crafting}}
+{{usedin/row|[[Logger Heels]]|1|Crafting}}
+{{usedin/row|[[Bandito Boots]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Bar|600}}
+{{detrecipe|3|Iron Boots|2}}
+{{detrecipe|40|Trusty Nails|1000}}
+{{detrecipe|40|Iron Bar|250}}
+{{detrecipe|40|Copper Boots|4}}
+{{detrecipe|80|Copper Bar|800}}
+{{detrecipe|3|Distilled Water|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|8}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|type=Shoes
+|str=1
+|agi=1
+|wis=1
+|misc=3% Defence
+|upgrade=5
+|defence=10
+|sellprice=15050
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=67
+|levelreq=14
+|expgiven=700
+|recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
+|resource1=Amarok Slab|quantity1=5
+|resource2=Grass Leaf|quantity2=250
+|resource3=Iron Boots|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Amarok Slab|5}}
+{{detrecipe|3|Grass Leaf|250}}
+{{detrecipe|3|Iron Boots|1}}
+{{detrecipe|40|Trusty Nails|500}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Copper Boots|2}}
+{{detrecipe|80|Copper Bar|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Amarok Slab|5}}
+{{detrecipe/totals|Grass Leaf|250}}
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|400}}
+|}
+{{InfoItem
+|class=All
+|level=50
+|type=Shoes
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|misc=5% Defence
+|upgrade=3
+|defence=15
+|sellprice=557000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=23
+|levelreq=32
+|expgiven=55000
+|recipefrom=Start
+|resource1=Tropilogs|quantity1=8000
+|resource2=Jellyfish|quantity2=8000
+|resource3=Gold Boots|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunts Broken Ankles]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Tropilogs|8000}}
+{{detrecipe|3|Jellyfish|8000}}
+{{detrecipe|3|Gold Boots|3}}
+{{detrecipe|40|Gold Bar|1800}}
+{{detrecipe|40|Iron Boots|6}}
+{{detrecipe|80|Trusty Nails|3000}}
+{{detrecipe|80|Iron Bar|750}}
+{{detrecipe|80|Copper Boots|12}}
+{{detrecipe|120|Copper Bar|2400}}
+{{detrecipe|40|Distilled Water|24}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|2400}}
+{{detrecipe/totals|Distilled Water|24}}
+|}
+{{InfoItem
+|class=All
+|level=65
+|type=Shoes
+|str=7
+|agi=7
+|wis=7
+|luck=7
+|misc=7% Defence
+|upgrade=4
+|defence=22
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=75
+|type=Shoes
+|str=2
+|agi=2
+|wis=2
+|misc=2% Movement Speed
+|upgrade=6
+|defence=18
+|sellprice=557245
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=63
+|levelreq=32
+|expgiven=25000
+|recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
+|resource1=Ripped Tunic|quantity1=5
+|resource2=Nuget Cake|quantity2=3
+|resource3=Platinum Boots|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Ripped Tunic|5}}
+{{detrecipe|3|Nuget Cake|3}}
+{{detrecipe|3|Platinum Boots|1}}
+{{detrecipe|40|Tropilogs|8000}}
+{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Gold Boots|3}}
+{{detrecipe|80|Gold Bar|1800}}
+{{detrecipe|80|Iron Boots|6}}
+{{detrecipe|120|Trusty Nails|3000}}
+{{detrecipe|120|Iron Bar|750}}
+{{detrecipe|120|Copper Boots|12}}
+{{detrecipe|160|Copper Bar|2400}}
+{{detrecipe|80|Distilled Water|24}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Ripped Tunic|5}}
+{{detrecipe/totals|Nuget Cake|3}}
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|2400}}
+{{detrecipe/totals|Distilled Water|24}}
+|}
+{{InfoItem
+|class=All
+|level=85
+|type=Shoes
+|str=7
+|agi=7
+|wis=7
+|luck=7
+|misc=7% Defence
+|upgrade=4
+|defence=22
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=10
+|type=Shoes
+|str=1
+|agi=1
+|wis=1
+|luck=2
+|misc=5% Money
+|upgrade=3
+|sellprice=14800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=43
+|levelreq=11
+|expgiven=300
+|recipefrom=Start
+|resource1=Slime Sludge|quantity1=600
+|resource2=Jungle Logs|quantity2=1000
+|resource3=Copper Boots|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|600}}
+{{detrecipe|3|Jungle Logs|1000}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|600}}
+{{detrecipe/totals|Jungle Logs|1000}}
+{{detrecipe/totals|Copper Bar|400}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=4
+|type=Shoes
+|agi=3
+|misc=2% Movement Speed
+|upgrade=1
+|sellprice=430
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=7
+|levelreq=6
+|expgiven=10
+|recipefrom=Start
+|resource1=Bean Slices|quantity1=30
+|resource2=Copper Bar|quantity2=20
+|resource3=Grass Leaf|quantity3=20
+}}
+{{usedin/head}}
+{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
+{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Bean Slices|30}}
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Grass Leaf|20}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bean Slices|30}}
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Grass Leaf|20}}
+|}
+{{InfoItem
+|class=All
+|level=10
+|type=Shoes
+|str=3
+|agi=3
+|luck=3
+|misc=3% Movement Speed
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=25
+|type=Shoes
+|str=3
+|agi=3
+|luck=3
+|misc=4% Movement Speed
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=50
+|type=Shoes
+|str=5
+|agi=3
+|luck=8
+|misc=5% Movement Speed
+|upgrade=3
+|defence=40
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|str=2
+|agi=6
+|misc=2% Xp From Monsters
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Mage
+|level=30
+|type=Shoes
+|wis=9
+|misc=4% Brew Speed
+|upgrade=3
+|defence=4
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=30
+|type=Shoes
+|str=5
+|wis=1
+|misc=20% Mining Efficincy
+|upgrade=3
+|defence=10
+|sellprice=107950
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=52
+|levelreq=22
+|expgiven=5500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Gold Boots|quantity1=1
+|resource2=Distilled Water|quantity2=9
+|resource3=Copper Ore|quantity3=1500
+|resource4=Iron Ore|quantity4=1200
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|800}}
+{{detrecipe|40|Distilled Water|8}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Copper Ore|1500}}
+{{detrecipe|3|Iron Ore|1200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Copper Ore|1500}}
+{{detrecipe/totals|Iron Ore|1200}}
+|}
+{{InfoItem
+|class=Mage
+|level=30
+|type=Shoes
+|wis=7
+|misc=20% Chop Efficiency
+|upgrade=3
+|defence=6
+|sellprice=114650
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=54
+|levelreq=22
+|expgiven=5000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Gold Boots|quantity1=1
+|resource2=Distilled Water|quantity2=9
+|resource3=Jungle Logs|quantity3=1600
+|resource4=Forest Fibres|quantity4=1000
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|800}}
+{{detrecipe|40|Distilled Water|8}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Jungle Logs|1600}}
+{{detrecipe|3|Forest Fibres|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Jungle Logs|1600}}
+{{detrecipe/totals|Forest Fibres|1000}}
+|}
+{{InfoItem
+|class=Warrior
+|level=30
+|type=Shoes
+|str=6
+|misc=20% Fishin Efficincy
+|upgrade=3
+|defence=8
+|sellprice=111050
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=53
+|levelreq=24
+|expgiven=6500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Gold Boots|quantity1=1
+|resource2=Distilled Water|quantity2=9
+|resource3=Goldfish|quantity3=1250
+|resource4=Hermit Can|quantity4=1000
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|800}}
+{{detrecipe|40|Distilled Water|8}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Goldfish|1250}}
+{{detrecipe|3|Hermit Can|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Goldfish|1250}}
+{{detrecipe/totals|Hermit Can|1000}}
+|}
+{{InfoItem
+|class=Archer
+|level=30
+|type=Shoes
+|agi=6
+|misc=20% Catch Efficincy
+|upgrade=3
+|defence=8
+|sellprice=112300
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=55
+|levelreq=24
+|expgiven=6500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Gold Boots|quantity1=1
+|resource2=Distilled Water|quantity2=9
+|resource3=Fly|quantity3=2000
+|resource4=Butterfly|quantity4=1250
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|800}}
+{{detrecipe|40|Distilled Water|8}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Fly|2000}}
+{{detrecipe|3|Butterfly|1250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Butterfly|1250}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Shoes
+|misc=100% Novelty
+|upgrade=2
+|defence=1
+|sellprice=20
+}}

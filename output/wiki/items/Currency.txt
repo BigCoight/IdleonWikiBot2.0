@@ -1,0 +1,196 @@
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Forest Boss Keys to your account. Account items are shared between all your Characters!
+|sellprice=50
+|source=[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Dog_Bone#Why he Die???|Why he Die???]], [[Dog_Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.18|1}}
+|}
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Desert Boss Keys to your account.
+|sellprice=50
+|source=[[King Doot]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Djonnut#I'm Blue Dabadedada|I'm Blue Dabadedada]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.8|1}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.18|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.18|1}}
+|}
+{{InfoItem
+|type=Boss Key
+|description=Hold down to add these Iceland Boss Keys to your account.
+|sellprice=50
+}}
+{{InfoItem
+|type=Obol Fragment
+|description=Hold down to add these Obol Fragments to your account. Account items are shared between all your Characters!
+|sellprice=50
+}}
+{{InfoItem
+|type=Ticket
+|description=Hold down to add these Double AFK tickets to your account. Account items are shared between all your Characters!
+|sellprice=50
+}}
+{{InfoItem
+|type=Ticket
+|description=Hold down to add these Colosseum tickets to your account. Account items are shared between all your Characters!
+|sellprice=50
+|source=[[Typhoon#Surprise Attack!|Surprise Attack!]], [[Centurion#Down The Mimic Hole!|Down The Mimic Hole!]], [[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]]
+}}
+{{InfoItem
+|type=Box
+|description=Hold down to add these Delivery Boxes to your Post-Office Upgrade amount! These will be shared between all your Characters!
+|sellprice=50
+}}
+{{InfoItem
+|type=Office Pen
+|description=Hold down to add a Silver Pen to your Post-Office! You can use it to skip a Delivery!
+|sellprice=50
+|source=[[SuperDropTable1]], [[SuperDropTable2]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.000168|1.0}}
+{{detdrops|[[Green Mushroom]]|0.0000008400000000000001|1.0}}
+{{detdrops|[[Frog]]|0.000001064|1.0}}
+{{detdrops|[[Bored Bean]]|0.0000012600000000000002|1.0}}
+{{detdrops|[[Red Mushroom]]|0.0000014560000000000001|1.0}}
+{{detdrops|[[Amarok]]|0.00028000000000000003|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.00028000000000000003|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.00028000000000000003|2.0}}
+{{detdrops|[[Baba Yaga]]|0.00028000000000000003|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.00028000000000000003|1.0}}
+{{detdrops|[[Slime]]|0.0000012600000000000002|1.0}}
+{{detdrops|[[Baby Boa]]|0.000001575|1.0}}
+{{detdrops|[[Carrotman]]|0.0000018900000000000001|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.000315|1.0}}
+{{detdrops|[[Glublin]]|0.0000014000000000000001|1.0}}
+{{detdrops|[[Wode Board]]|0.000001575|1.0}}
+{{detdrops|[[Gigafrog]]|0.0000017500000000000002|1.0}}
+{{detdrops|[[Dr Defecaus]]|0.00035000000000000005|2.0}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.00035000000000000005|1.0}}
+{{detdrops|[[Poop]]|0.00000231|1.0}}
+{{detdrops|[[Rat]]|0.00000231|1.0}}
+{{detdrops|[[Walking Stick]]|0.0000021945|1.0}}
+{{detdrops|[[Nutto]]|0.0000025024999999999998|1.0}}
+{{detdrops|[[Wood Mushroom]]|0.0000026950000000000005|1.0}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.00000273|1.0}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.0000029400000000000007|1.0}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.00000315|1.0}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.0000032340000000000007|1.0}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.0000034440000000000004|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0000033600000000000004|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.000003570000000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000037800000000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.000003990000000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.000004452000000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000004284000000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.0000037380000000000005|1.0}}
+{{detdrops|[[Crystal Crabal]]|0.00032399999999999996|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.00032399999999999996|1.0}}
+{{detdrops|[[Sandy Pot]]|0.00000162|1.0}}
+{{detdrops|[[Mimic]]|0.0000017280000000000002|1.0}}
+{{detdrops|[[Crabcake]]|0.000001944|1.0}}
+{{detdrops|[[Efaunt]]|0.00054|2.0}}
+{{detdrops|[[Biggie Hours]]|0.00027|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.00054|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.00054|1.0}}
+{{detdrops|[[Mafioso]]|0.0000017280000000000002|1.0}}
+{{detdrops|[[Sand Castle]]|0.0000018900000000000001|1.0}}
+{{detdrops|[[Pincermin]]|0.000001998|1.0}}
+{{detdrops|[[Mashed Potato]]|0.000002106|1.0}}
+{{detdrops|[[Dig Doug]]|0.0000017280000000000002|1.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.00054|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.00054|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.00054|1.0}}
+{{detdrops|[[Tyson]]|0.0000017280000000000002|1.0}}
+{{detdrops|[[Moonmoon]]|0.0000018900000000000001|1.0}}
+{{detdrops|[[Sand Giant]]|0.000001998|1.0}}
+{{detdrops|[[Snelbie]]|0.000002106|1.0}}
+{{detdrops|[[Sheepie]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Frost Flake]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Sir Stache]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Bloque]]|0.00021600000000000002|1.0}}
+{{detdrops|[[mamooth]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Snowman]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Penguin]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Thermister]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Quenchie]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Cryosnake]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Bop Box]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Neyeptune]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Xylobone]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Bloodbone]]|0.00021600000000000002|1.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.00054|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.00054|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.00000648|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.00000648|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.00000648|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.00000648|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.00000648|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000008099999999999999|2.0}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.000008099999999999999|1.0}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000008099999999999999|1.0}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000008099999999999999|1.0}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000008099999999999999|1.0}}
+|}
+{{InfoItem
+|type=Gem
+|description=Hold down to add these gems to your account. You can then spend them in the Gem Shop!
+|sellprice=69
+|source=[[King Doot]], [[Egggulyte]], [[Egg Capsule]], [[Shell Snake]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#Roll of Anger|Roll of Anger]], [[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]], [[Funguy#Party Crashin'|Party Crashin']], [[Papua_Piggea#Oinko Boinko|Oinko Boinko]], [[Desert_Davey#U Cool?|U Cool?]], [[Mutton#Cross Platform Promotion|Cross Platform Promotion]], [[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]], [[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]], [[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Bandit_Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]], [[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[Carpetiem#Be like Buster!|Be like Buster!]], [[Goldric#Trickle Down Economics|Trickle Down Economics]], [[Goldric#Hoopsies|Hoopsies]], [[Goldric#Only Winners have Portraits|Only Winners have Portraits]], [[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]], [[Meel#Spooky Scary Skelepoops|Spooky Scary Skelepoops]], [[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]], [[Snake_Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[Wellington#Findin' Fingerprints|Findin' Fingerprints]], [[Dazey#Dressing like a Dork|Dressing like a Dork]], [[Cowbo_Jones#The Grind Begins...?|The Grind Begins...?]], [[Cowbo_Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Cowbo_Jones#The Notorious B.O.B|The Notorious B.O.B]], [[Cowbo_Jones#The Worst Trade Deal in History|The Worst Trade Deal in History]], [[Cowbo_Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Loveulyte#Heartbreaker|Heartbreaker]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]], [[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.6|8}}
+{{detdrops|[[Egggulyte]]|0.3|1}}
+{{detdrops|[[Egg Capsule]]|0.3|1}}
+{{detdrops|[[Shell Snake]]|0.05|1}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.05|1}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.12|1}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.3|1}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.2|1}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.4|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.2|1}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.4|1}}
+{{detdrops|[[Biggie Hours]]|0.4|5.0}}
+|}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the first tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the second tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the third tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the fourth tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the fifth tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}
+{{InfoItem
+|type=Talent Point
+|description=Hold down to gain a Talent Point for the Special tab of talents. THIS APPLIES TO ALL CHARACTERS, even ones you haven't made yet, so it doesn't matter which character uses this item.
+|sellprice=1
+}}

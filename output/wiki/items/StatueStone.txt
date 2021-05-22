@@ -1,0 +1,245 @@
+{{InfoItem
+|type=Statue
+|description=A stone statue sculpted in the likeness of an absolute unit. Give this to the Statue Man in return for some bonus stats.
+|sellprice=10
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Post Office#Simple Shippin|Simple Shippin]], [[Town_Marble#Visualizing the Sculpture Within...|Visualizing the Sculpture Within...]], [[Bandit_Bob#Bob's Brand New Bandana|Bob's Brand New Bandana]], [[DropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|3|+ @ Base Damage}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=13|vendor=Blunder Hills|stock=3|buyprice=40}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|20|Quests}}
+|}
+{{InfoItem
+|type=Statue
+|description=A stone statue that isnt actually fast because its made of stone and stone can't move. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[Krunk#King of the Cavern|King of the Cavern]], [[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]], [[Stiltzcho#No Stone Unturned|No Stone Unturned]], [[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]], [[DropTable5b]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|0.1|+ %@ Move Speed}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.07|2.0}}
+{{detdrops|[[Crystal Crabal]]|0.07|3.0}}
+{{detdrops|[[Crystal Cattle]]|0.07|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.00014000000000000001|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=A stone statue that resembles some sort of double edged scythe. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[DropTable5]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|0.3|+ @ Mining Power}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.16|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.00256|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00272|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0028799999999999997|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00304|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.003392|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0032640000000000004|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.002848|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=A stone statue that looks good enough to eat to anyone who doesn't notice that it's inedible. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|1|+ %@ Food Effect}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.00030000000000000003|1.0}}
+{{detdrops|[[Rat]]|0.00030000000000000003|1.0}}
+{{detdrops|[[Crystal Carrot]]|0.05|2.0}}
+{{detdrops|[[Crystal Crabal]]|0.05|3.0}}
+{{detdrops|[[Crystal Cattle]]|0.05|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=A stone statue made by someone for a romantic propsal. I don't think it ended well. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[DropTable3]], [[DropTable3b]], [[DropTable3c]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|3|+ @ Base Health}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.048|1.0}}
+{{detdrops|[[Glublin]]|0.00048|1.0}}
+{{detdrops|[[Wode Board]]|0.0005399999999999999|1.0}}
+{{detdrops|[[Gigafrog]]|0.0006|1.0}}
+{{detdrops|[[Amarok]]|0.12|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.12|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.12|2.0}}
+{{detdrops|[[Dr Defecaus]]|0.12|2.0}}
+{{detdrops|[[Baba Yaga]]|0.12|0.5}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.12|1.0}}
+{{detdrops|[[Poop]]|0.00054|1.0}}
+{{detdrops|[[Rat]]|0.00054|1.0}}
+{{detdrops|[[Walking Stick]]|0.000513|1.0}}
+{{detdrops|[[Nutto]]|0.0005849999999999999|1.0}}
+{{detdrops|[[Wood Mushroom]]|0.00063|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=A stone statue named after the catch phrase of a very fast and very not real red car. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[Post Office#Plan-it Express|Plan-it Express]], [[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Tiki_Chief#Brochure Building|Brochure Building]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|0.4|+ %@ Crit Damage}}
+{{InfoItem
+|type=Statue
+|description=A stone statue named in a world where the name Jack doesn't exist. Give this to the Statue Man in return for some bonus stats
+|sellprice=10
+|source=[[DropTable4]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|0.3|+ @ Choppin Power}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.162|1.0}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.001755|1.0}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.0018900000000000002|1.0}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.002025|1.0}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.002079|1.0}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.0022140000000000003|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=I don't think the sculptor who named this statue back in 3000 BC would be happy with how his typo would be interpreted.
+|sellprice=10
+|source=[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]], [[DropTable11]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{Statuedata|1|+ @ Base Defence}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.00075|2.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=What's that, statue? You want to... take me by the hand and lead me to the land? With that land pecifically being the one that you understand?
+|sellprice=10
+|source=[[DropTable12]]
+}}
+{{Statuedata|0.3|+ @ Fishing Power}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0425|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0425|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.001275|1.0}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.001275|1.0}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.001275|1.0}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.001275|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=It takes a true artist to make a realistic statue like this one. He captured the flying aspect of those stone flies perfectly!
+|sellprice=10
+|source=[[DropTable9]]
+}}
+{{Statuedata|0.3|+ @ Catchin Power}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.06119999999999999|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.06119999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.001224|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.001224|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=I haven't read a book since middle school, so I'm just assuming this is what they look like.
+|sellprice=10
+|source=[[DropTable7]]
+}}
+{{Statuedata|0.1|+ %@ Class Exp}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.02|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.02|1.0}}
+{{detdrops|[[Mafioso]]|0.00012800000000000002|1.0}}
+{{detdrops|[[Sand Castle]]|0.00014000000000000001|1.0}}
+{{detdrops|[[Pincermin]]|0.00014800000000000002|1.0}}
+{{detdrops|[[Mashed Potato]]|0.000156|1.0}}
+{{detdrops|[[Dig Doug]]|0.00012800000000000002|1.0}}
+{{detdrops|[[Efaunt]]|0.04|2.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.04|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.04|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.04|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.04|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=A little monument to the efforts of a most devious coyote, whose dreams were always just out of reach, and whose head often felt the crushing blow of defeat.
+|sellprice=10
+|source=[[DropTable6]]
+}}
+{{Statuedata|0.5|+ %@ Product Spd}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.042|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.042|1.0}}
+{{detdrops|[[Sandy Pot]]|0.00021000000000000004|1.0}}
+{{detdrops|[[Mimic]]|0.00022400000000000002|1.0}}
+{{detdrops|[[Crabcake]]|0.000252|1.0}}
+{{detdrops|[[Efaunt]]|0.07|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.07|2.0}}
+{{detdrops|[[Biggie Hours]]|0.035|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.07|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.07|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=They used to tie women to these things and throw them into the ocean to see if they were a witch. If they were, they'd use all the water in the ocean to upgrade the cauldron and thus not drown! Not sure what happened if they werent.
+|sellprice=10
+|source=[[DropTable8]]
+}}
+{{Statuedata|0.5|+ %@ Alchemy Exp}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.028000000000000004|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.028000000000000004|1.0}}
+{{detdrops|[[Tyson]]|0.00022400000000000002|1.0}}
+{{detdrops|[[Moonmoon]]|0.00024500000000000005|1.0}}
+{{detdrops|[[Sand Giant]]|0.00025900000000000006|1.0}}
+{{detdrops|[[Snelbie]]|0.000273|1.0}}
+{{detdrops|[[Sheepie]]|0.028000000000000004|1.0}}
+{{detdrops|[[Frost Flake]]|0.028000000000000004|1.0}}
+{{detdrops|[[Sir Stache]]|0.028000000000000004|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.028000000000000004|1.0}}
+{{detdrops|[[Bloque]]|0.028000000000000004|1.0}}
+{{detdrops|[[mamooth]]|0.028000000000000004|1.0}}
+{{detdrops|[[Snowman]]|0.028000000000000004|1.0}}
+{{detdrops|[[Penguin]]|0.028000000000000004|1.0}}
+{{detdrops|[[Thermister]]|0.028000000000000004|1.0}}
+{{detdrops|[[Quenchie]]|0.028000000000000004|1.0}}
+{{detdrops|[[Cryosnake]]|0.028000000000000004|1.0}}
+{{detdrops|[[Bop Box]]|0.028000000000000004|1.0}}
+{{detdrops|[[Neyeptune]]|0.028000000000000004|1.0}}
+{{detdrops|[[Xylobone]]|0.028000000000000004|1.0}}
+{{detdrops|[[Bloodbone]]|0.028000000000000004|1.0}}
+{{detdrops|[[Efaunt]]|0.07|2.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.07|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.07|2.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.07|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.07|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=This statue is beautiful! Well, at least to me.
+|sellprice=10
+|source=[[DropTable5b]]
+}}
+{{Statuedata|0.2|+ %@ Crit Chance}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.05|2.0}}
+{{detdrops|[[Crystal Crabal]]|0.05|3.0}}
+{{detdrops|[[Crystal Cattle]]|0.05|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
+|}
+{{InfoItem
+|type=Statue
+|description=This statue was created by shooting a target statue into a stationary arrow statue.
+|sellprice=10
+|source=[[DropTable3c]]
+}}
+{{Statuedata|0.8|+ %@ Accuracy}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.00028500000000000004|1.0}}
+{{detdrops|[[Nutto]]|0.000325|1.0}}
+{{detdrops|[[Wood Mushroom]]|0.00035000000000000005|1.0}}
+|}

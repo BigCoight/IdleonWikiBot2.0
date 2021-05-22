@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=King Doot_Walking.gif
+|attack=800
+|health=3000000
+|defence=1000
+|speed=4
+|exp=50000
+|respawn=86400
+|defence0=973.57
+|hascard=Yes
+}}
+{{EnemyNavigation|Biggie Hours|Efaunt}}
+{{DropTable/head}}
+{{DropTable/coin|25000|1}}
+{{DropTable/card|0.04}}
+{{DropTable/row|Efaunt's Tomb Key|0.8|1}}
+{{DropTable/row|Gem|0.6|8}}
+{{DropTable/row|Mystery Upgrade Stone I|1|1}}
+{{DropTable/row|Armor Upgrade Stone C|0.04|1}}
+{{DropTable/row|Trimmed Rune Platelegs|0.04|1}}
+{{DropTable/row|Midnight Cookie|.2|2}}
+{{DropTable13|chance=0.5}}
+|}

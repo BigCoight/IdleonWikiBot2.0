@@ -1,6 +1,0 @@
-{{InfoItem
-|type=Exp Balloon
-|description=Hold down to gain EXP in the skill that's displayed in the corner of your screen. If you're in a town, you will gain EXP in the town skill. The amount of EXP you get is based on your skill's Lv.
-|sellprice=1
-|source=[[Tiki_Chief#Blame it on the Goblins|Blame it on the Goblins]], [[Constructor_Crow#Restoring Power to another Portal|Restoring Power to another Portal]], [[Snake_Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Wellington#You Can't Run, but you Can Hide|You Can't Run, but you Can Hide]], [[Dazey#Literally Physics|Literally Physics]], [[Cowbo_Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]]
-}}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Glublin
+|order=7
+|category=Blunder Hills
+|effect=+{%_Total_HP
+|bonus=2
+|reqtier=10
+|source=[[Glublin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Glublin]]|0.000086|1}}
+|}

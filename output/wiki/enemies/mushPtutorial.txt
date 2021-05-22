@@ -1,0 +1,11 @@
+{{InfoEnemy
+|image=Error_Walking.gif
+|attack=5
+|health=200
+|defence=1
+|speed=4
+|exp=200
+|respawn=22
+|defence0=2
+}}
+{{EnemyNavigation||}}

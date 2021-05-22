@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Carrotman
+|order=6
+|category=Blunder Hills
+|effect=+{_Base_AGI
+|bonus=2
+|reqtier=10
+|source=[[Carrotman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.000090|1}}
+|}

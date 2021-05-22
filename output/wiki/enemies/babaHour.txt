@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Biggie Hours_Walking.gif
+|attack=500
+|health=800000
+|defence=600
+|speed=5
+|exp=12500
+|respawn=86400
+|defence0=593.5
+|hascard=Yes
+}}
+{{EnemyNavigation|Chaotic Amarok|King Doot}}
+{{DropTable/head}}
+{{DropTable/coin|7000|1}}
+{{DropTable/row|Minuteglass|0.3|1}}
+{{DropTable/row|Mystery Upgrade Stone I|0.4|2}}
+{{DropTable/row|Armor Upgrade Stone C|0.008|1}}
+{{DropTable/card|0.024}}
+{{DropTable6|chance=0.5}}
+{{DropTable13|chance=0.4}}
+|}

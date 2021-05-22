@@ -1,0 +1,51 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|str=4
+|agi=1
+|wis=2
+|luck=4
+|misc=8% Money
+|sellprice=3
+|rarity=Silver
+|source=[[SuperDropTable1]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}
+{{detdrops|[[Green Mushroom]]|0.0000003402|1.0}}
+{{detdrops|[[Frog]]|0.00000043092|1.0}}
+{{detdrops|[[Bored Bean]]|0.0000005103|1.0}}
+{{detdrops|[[Red Mushroom]]|0.00000058968|1.0}}
+{{detdrops|[[Amarok]]|0.0001134|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.0001134|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0001134|2.0}}
+{{detdrops|[[Baba Yaga]]|0.0001134|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.0001134|1.0}}
+{{detdrops|[[Slime]]|0.0000005103|1.0}}
+{{detdrops|[[Baby Boa]]|0.0000006378749999999999|1.0}}
+{{detdrops|[[Carrotman]]|0.00000076545|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.000127575|1.0}}
+{{detdrops|[[Glublin]]|0.000000567|1.0}}
+{{detdrops|[[Wode Board]]|0.0000006378749999999999|1.0}}
+{{detdrops|[[Gigafrog]]|0.00000070875|1.0}}
+{{detdrops|[[Dr Defecaus]]|0.00014175|2.0}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.00014175|1.0}}
+{{detdrops|[[Poop]]|0.0000009355499999999999|1.0}}
+{{detdrops|[[Rat]]|0.0000009355499999999999|1.0}}
+{{detdrops|[[Walking Stick]]|0.0000008887724999999999|1.0}}
+{{detdrops|[[Nutto]]|0.0000010135125|1.0}}
+{{detdrops|[[Wood Mushroom]]|0.000001091475|1.0}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.00000110565|1.0}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.0000011907|1.0}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.0000012757499999999998|1.0}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.0000013097700000000002|1.0}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.00000139482|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0000013608|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00000144585|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000015309|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.0000016159500000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.0000018030600000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0000017350200000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.0000015138900000000002|1.0}}
+|}

@@ -1,9 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|description=Proof that you completed all of Dog Bone's quests!
-|sellprice=4000
-|source=[[Dog_Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]
-}}
-{{usedin/head}}
-{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
-{{quest/tail}}

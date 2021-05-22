@@ -1,0 +1,37 @@
+{{InfoItem
+|class=All
+|level=10
+|type=Shoes
+|str=1
+|agi=1
+|wis=1
+|luck=2
+|misc=5% Money
+|upgrade=3
+|sellprice=14800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=43
+|levelreq=11
+|expgiven=300
+|recipefrom=Start
+|resource1=Slime Sludge|quantity1=600
+|resource2=Jungle Logs|quantity2=1000
+|resource3=Copper Boots|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|600}}
+{{detrecipe|3|Jungle Logs|1000}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|600}}
+{{detrecipe/totals|Jungle Logs|1000}}
+{{detrecipe/totals|Copper Bar|400}}
+|}

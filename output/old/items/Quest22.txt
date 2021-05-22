@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single subscriber on the Corporatube Video Platform. It You'sed to be called something else, but no one around here remembers.
+|sellprice=1
+|source=[[Poop]], [[Poop]], [[Poop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.23|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Clout Chasin'|Clout Chasin']]|300|Quests}}
+{{usedin/row|[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]|5000|Quests}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|200000|Quests}}
+|}

@@ -1,0 +1,31 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Bugs.
+|sellprice=332125
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=35
+|levelreq=27
+|expgiven=17000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Fruitfly|quantity1=6750
+|resource2=Average Bug Pouch|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Fruitfly|6750}}
+{{detrecipe|3|Average Bug Pouch|5}}
+{{detrecipe|40|Cramped Bug Pouch|50}}
+{{detrecipe|80|Fly|9000}}
+{{detrecipe|40|Small Bug Pouch|25}}
+{{detrecipe|80|Butterfly|10625}}
+{{detrecipe|80|Distilled Water|50}}
+{{detrecipe|40|Butterfly|8000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fruitfly|6750}}
+{{detrecipe/totals|Fly|9000}}
+{{detrecipe/totals|Butterfly|18625}}
+{{detrecipe/totals|Distilled Water|50}}
+|}

@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Wood Mushroom
+|order=15
+|category=Blunder Hills
+|effect=+{%_Total_Accuracy
+|bonus=5
+|reqtier=10
+|source=[[Wood Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wood Mushroom]]|0.0001|1}}
+|}

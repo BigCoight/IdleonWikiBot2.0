@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Monster Drop
+|description=In case you haven't noticed, these are all references to the famous early 90s videogame called Gex! This desription is like a bad joke at Louis CK's house!
+|sellprice=160
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dootjat Eye]]|1|Crafting}}
+|}

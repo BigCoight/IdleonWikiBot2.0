@@ -1,0 +1,38 @@
+{{InfoItem
+|class=All
+|level=50
+|type=Pants
+|str=6
+|agi=6
+|wis=6
+|upgrade=3
+|defence=23
+|sellprice=670700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=22
+|levelreq=31
+|expgiven=50000
+|recipefrom=Start
+|resource1=Sentient Cereal|quantity1=500
+|resource2=Iron Platelegs|quantity2=6
+|resource3=Platinum Bar|quantity3=1250
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Sentient Cereal|500}}
+{{detrecipe|3|Iron Platelegs|6}}
+{{detrecipe|40|Iron Bar|1350}}
+{{detrecipe|40|Boring Brick|1800}}
+{{detrecipe|3|Platinum Bar|1250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Sentient Cereal|500}}
+{{detrecipe/totals|Iron Bar|1350}}
+{{detrecipe/totals|Boring Brick|1800}}
+{{detrecipe/totals|Platinum Bar|1250}}
+|}

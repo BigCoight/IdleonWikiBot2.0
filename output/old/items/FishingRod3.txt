@@ -1,0 +1,35 @@
+{{InfoItem
+|class=All
+|level=18
+|skill=fishing
+|type=Fishing Rod
+|skillpower=13
+|str=4
+|wis=1
+|upgrade=2
+|sellprice=19100
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=76
+|levelreq=16
+|expgiven=750
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Iron Bar|quantity1=300
+|resource2=Hermit Can|quantity2=850
+|resource3=Distilled Water|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Gold Fishing Rod]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|300}}
+{{detrecipe|3|Hermit Can|850}}
+{{detrecipe|3|Distilled Water|3}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|300}}
+{{detrecipe/totals|Hermit Can|850}}
+{{detrecipe/totals|Distilled Water|3}}
+|}

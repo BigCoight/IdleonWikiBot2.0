@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Gold Ore
+|order=2
+|category=Easy Resources
+|effect=+{%_Mining_EXP
+|bonus=5
+|reqtier=10
+|source=[[Mining#Drops|Mining Gold]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.00011|1}}
+|}

@@ -1,0 +1,57 @@
+{{InfoItem
+|type=Barrel
+|description=Increases Forging Speed by 15% for the Forge Slot it's in. 75% chance to be consumed when a bar is forged.
+|sellprice=8
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Glumlee#Learning to Smelt|Learning to Smelt]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=7|vendor=Blunder Hills|stock=1000|buyprice=32}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Purple Tupacband]]|60|Crafting}}
+{{usedin/row|[[Eco Friendly Oil]]|1|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|200|Quests}}
+|}
+{{InfoItem
+|type=Barrel
+|description=Increases Extra Bar chance by 20% for the Slot it's in. 60% chance to be consumed when a bar is forged.
+|sellprice=20
+|source=[[Slime]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Slime]]|0.0003|10}}
+|}
+{{InfoItem
+|type=Barrel
+|description=Increases chance to Not Use Up Ores by 3% for the Slot it's in. 60% chance to be consumed when a bar is forged.
+|sellprice=50
+}}
+{{InfoItem
+|type=Barrel
+|description=Increases Forging Speed by 999% for the Forge Slot it's in. 200% chance to be consumed when a bar is forged.
+|sellprice=350
+|source=[[Glumlee#Learning to Swing|Learning to Swing]]
+}}
+{{InfoItem
+|type=Barrel
+|description=Increases Forging Speed by 10% for the Forge Slot it's in. 30% chance to be consumed when a bar is forged.
+|sellprice=12
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=46
+|levelreq=4
+|expgiven=3
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Crude Oil|quantity1=1
+|resource2=Grass Leaf|quantity2=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Crude Oil|1}}
+{{detrecipe|3|Grass Leaf|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Crude Oil|1}}
+{{detrecipe/totals|Grass Leaf|1}}
+|}

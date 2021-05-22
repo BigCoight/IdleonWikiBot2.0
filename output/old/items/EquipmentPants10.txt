@@ -1,0 +1,25 @@
+{{InfoItem
+|class=All
+|level=7
+|type=Pants
+|wis=6
+|upgrade=2
+|defence=3
+|sellprice=200
+|source=[[DropTable1]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.012|1.0}}
+{{detdrops|[[Green Mushroom]]|0.00006|1.0}}
+{{detdrops|[[Frog]]|0.000076|1.0}}
+{{detdrops|[[Bored Bean]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Red Mushroom]]|0.000104|1.0}}
+{{detdrops|[[Amarok]]|0.02|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.02|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.02|2.0}}
+{{detdrops|[[Baba Yaga]]|0.02|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.02|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
+|}

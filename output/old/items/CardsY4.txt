@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Loveulyte
+|order=4
+|category=Event
+|effect=+{%_Total_HP
+|bonus=5
+|reqtier=1.5
+}}

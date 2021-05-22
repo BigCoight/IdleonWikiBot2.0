@@ -1,8 +1,0 @@
-{{Fishingaccessory
-|depth4=40
-|fishingexp=5
-|fishingspeed=10
-|fishingpower=5
-|type=Fishing Accessory
-|sellprice=50
-}}

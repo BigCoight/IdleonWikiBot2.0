@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Jellyfish
+|order=10
+|category=Easy Resources
+|effect=+{%_Fishing_EXP
+|bonus=5
+|reqtier=10
+}}

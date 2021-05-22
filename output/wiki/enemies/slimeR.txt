@@ -1,0 +1,20 @@
+{{InfoEnemy
+|image=Valentslime_Walking.gif
+|attack=1
+|health=500
+|defence=9
+|speed=4
+|exp=20
+|respawn=42
+|hascard=Yes
+}}
+{{EnemyNavigation|Meaning of Giftmas|Loveulyte}}
+{{DropTable/head}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0.085}}
+{{DropTable/row|Choco Box|0.20|1}}
+{{DropTable/row|Cherry Choco|0.25|3}}
+{{DropTable/row|Lemony Choco|0.25|3}}
+{{DropTable/row|Minto Choco|0.25|2}}
+{{DropTable/row|Milk Choco|0.25|2}}
+|}

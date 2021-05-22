@@ -1,0 +1,19 @@
+{{InfoItem
+|class=Archer
+|level=18
+|type=Bow
+|speed=2
+|weaponpower=22
+|agi=8
+|reach=225
+|upgrade=2
+|sellprice=5000
+|source=[[Carrotman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.00004|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills Misc Completion Token]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}

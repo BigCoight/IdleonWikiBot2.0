@@ -1,0 +1,9 @@
+{{Fishingaccessory
+|depth3=8
+|depth4=8
+|fishingspeed=1
+|fishingpower=3
+|source=[[Alchemy#Level up Gift|Level up Gift]]
+|type=Fishing Accessory
+|sellprice=50
+}}

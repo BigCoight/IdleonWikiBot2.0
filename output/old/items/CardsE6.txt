@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Penguin
+|order=6
+|category=Frostfire Tyundra
+|effect=+{%_EXP_from_monsters
+|bonus=5
+|reqtier=1.5
+|source=[[Penguin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Penguin]]|0.0001|1}}
+|}

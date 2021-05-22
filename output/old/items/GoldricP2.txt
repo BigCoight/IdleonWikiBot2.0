@@ -1,0 +1,13 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]
+|description=It's a rendition of the Battle of Sassasge, wherein Goldrichius Von Gallbladder waged war on the municipal kingdom of Sterling S. Elvar
+|sellprice=100
+|source=[[Mafioso]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mafioso]]|0.075|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]|200|Quests}}
+|}

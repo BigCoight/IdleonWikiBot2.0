@@ -1,0 +1,34 @@
+{{InfoItem
+|class=All
+|level=2
+|type=Shirt
+|str=2
+|agi=1
+|upgrade=1
+|defence=3
+|sellprice=60
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=5
+|levelreq=1
+|expgiven=5
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=10
+|resource2=Oak Logs|quantity2=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Blue Tee]]|2|Crafting}}
+{{usedin/row|[[Purple Tee]]|3|Crafting}}
+{{usedin/row|[[Green Tee]]|3|Crafting}}
+{{usedin/row|[[Black Tee]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|10}}
+{{detrecipe|3|Oak Logs|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|10}}
+{{detrecipe/totals|Oak Logs|15}}
+|}

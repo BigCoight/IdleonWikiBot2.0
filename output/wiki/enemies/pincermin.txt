@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Pincermin_Walking.gif
+|attack=140
+|health=15500
+|defence=300
+|speed=5
+|world=Yum Yum Desert
+|area=Pincer Plateau
+|exp=290
+|respawn=50
+|defence0=141.06
+|crystal=Yes
+|crystalname=Crystal Crabal
+|hascard=Yes
+}}
+{{EnemyNavigation|Sand Castle|Mashed Potato}}
+{{DropTable/head}}
+{{DropTable/coin|90|0.38}}
+{{DropTable/row|Pincer Arm|0.18|1}}
+{{DropTable/card|0.0001}}
+{{DropTable7|chance=0.0037}}
+|}

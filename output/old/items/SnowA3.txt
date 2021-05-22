@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Monster Drop
+|description=Sad times I hope I remember to change this before relase.
+|sellprice=200
+|source=[[Sir Stache]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.16|1}}
+|}

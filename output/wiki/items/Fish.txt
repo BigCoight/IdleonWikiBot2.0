@@ -1,0 +1,91 @@
+{{InfoItem
+|type=Fish
+|description=Sorry gamer, but this material isn't in the game yet! You'll have to wait for the next update to get it.
+|sellprice=4
+|source=Fishing
+}}
+{{usedin/head}}
+{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+|}
+{{InfoItem
+|type=Fish
+|description=It's not a snack, and it certainly doesn't smile back... for copyright reasons!
+|sellprice=4
+|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|50}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Copper Fish Rod]]|400|Crafting}}
+{{usedin/row|[[Cramped Fish Pouch]]|180|Crafting}}
+{{usedin/row|[[Gold Platelegs]]|500|Crafting}}
+{{usedin/row|[[Defenders Dignity]]|16000|Crafting}}
+{{usedin/row|[[Angler Boots]]|1250|Crafting}}
+{{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|400|Quests}}
+{{usedin/row|[[Whattso#Mopey Dick|Mopey Dick]]|20|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Lil Big Damage|Lil Big Damage]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Droppin Loads|Droppin Loads]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Seawater|Seawater]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Fish
+|description=The branding on the soda can must have gotten washed off by some kind of liquidy, wavey substance. Oh, right.
+|sellprice=11
+|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.4|50}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Iron Fishing Rod]]|850|Crafting}}
+{{usedin/row|[[Small Fish Pouch]]|425|Crafting}}
+{{usedin/row|[[Gold Fishing Rod]]|2500|Crafting}}
+{{usedin/row|[[Average Fish Pouch]]|1500|Crafting}}
+{{usedin/row|[[Empty Box]]|250|Crafting}}
+{{usedin/row|[[Angler Boots]]|1000|Crafting}}
+{{usedin/row|[[Slurpin Herm]]|5|Crafting}}
+{{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|100|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Sploosh Sploosh|Sploosh Sploosh]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Noodubble|Noodubble]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Slug Slurp|Slug Slurp]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Fish
+|description=Don't let it sting you, unless you're into getting tinkled on by random beach-goers.
+|sellprice=14
+|source=Fishing, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|100}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|100}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Platinum Helmet]]|4000|Crafting}}
+{{usedin/row|[[Platinum Boots]]|8000|Crafting}}
+{{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|25|Quests}}
+{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|1000|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Kazam Cauldron#Undeveloped Costs|Undeveloped Costs]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Fish
+|description=The result of putting Blood and Leech into a bad pokemon generator.
+|sellprice=18
+|source=Fishing, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|150}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|150}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Pharoah Bow]]|5200|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|7000|Crafting}}
+{{usedin/row|[[Sizable Fish Pouch]]|6750|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}
+|}

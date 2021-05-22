@@ -1,0 +1,57 @@
+{{InfoItem
+|class=All
+|level=85
+|type=Ring
+|weaponpower=3
+|agi=10
+|misc=2% Crit Chance
+|upgrade=4
+|defence=8
+|sellprice=186439
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=64
+|levelreq=45
+|expgiven=500000
+|recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
+|resource1=Ribbed Tunic|quantity1=4
+|resource2=Ripped Tunic|quantity2=15
+|resource3=Bandage Wraps|quantity3=1
+|resource4=Pharoah Bow|quantity4=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Ribbed Tunic|4}}
+{{detrecipe|3|Ripped Tunic|15}}
+{{detrecipe|3|Bandage Wraps|1}}
+{{detrecipe|40|Cue Tape|5000}}
+{{detrecipe|40|The Stingers|10}}
+{{detrecipe|80|Copper Bar|200}}
+{{detrecipe|80|Oak Logs|750}}
+{{detrecipe|80|Trusty Nails|200}}
+{{detrecipe|40|Potty Rolls|2000}}
+{{detrecipe|3|Pharoah Bow|1}}
+{{detrecipe|40|Woodular Circle|8}}
+{{detrecipe|40|Bloach|5200}}
+{{detrecipe|40|Spiked Menace|2}}
+{{detrecipe|80|Gold Bar|500}}
+{{detrecipe|80|Birch Longbow|6}}
+{{detrecipe|120|Slime Sludge|900}}
+{{detrecipe|120|Bleach Logs|1500}}
+{{detrecipe|80|Distilled Water|16}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Ribbed Tunic|4}}
+{{detrecipe/totals|Ripped Tunic|15}}
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Oak Logs|750}}
+{{detrecipe/totals|Trusty Nails|200}}
+{{detrecipe/totals|Woodular Circle|8}}
+{{detrecipe/totals|Bloach|5200}}
+{{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Slime Sludge|900}}
+{{detrecipe/totals|Bleach Logs|1500}}
+{{detrecipe/totals|Distilled Water|16}}
+|}

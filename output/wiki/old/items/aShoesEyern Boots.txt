@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=15
-|type=Shoes
-|misc=100% Novelty
-|upgrade=2
-|defence=1
-|sellprice=20
-}}

@@ -1,0 +1,40 @@
+{{InfoItem
+|class=All
+|level=25
+|skill=catching
+|type=Bug Catching Net
+|skillpower=20
+|str=2
+|agi=6
+|upgrade=2
+|sellprice=119000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=14
+|levelreq=22
+|expgiven=5500
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Dubloon|quantity1=5
+|resource2=Butterfly|quantity2=2500
+|resource3=Reinforced Net|quantity3=5
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinet]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Dubloon|5}}
+{{detrecipe|3|Butterfly|2500}}
+{{detrecipe|3|Reinforced Net|5}}
+{{detrecipe|40|Forest Fibres|4000}}
+{{detrecipe|40|Butterfly|4250}}
+{{detrecipe|40|Distilled Water|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Dubloon|5}}
+{{detrecipe/totals|Butterfly|6750}}
+{{detrecipe/totals|Forest Fibres|4000}}
+{{detrecipe/totals|Distilled Water|15}}
+|}

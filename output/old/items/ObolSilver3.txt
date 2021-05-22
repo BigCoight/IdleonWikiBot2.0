@@ -1,0 +1,18 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|luck=2
+|sellprice=3
+|rarity=Silver
+|source=[[DropTable9]], [[Alchemy#Liquid Shop|Decent Obols]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0003779999999999999|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0003779999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.000007559999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.000007559999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.000007559999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.000007559999999999999|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.000007559999999999999|1.0}}
+|}

@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Sand Castle_Walking.gif
+|attack=125
+|health=13000
+|defence=270
+|speed=3
+|world=Yum Yum Desert
+|area=Shifty Sandbox
+|exp=265
+|respawn=40
+|defence0=123.37
+|crystal=Yes
+|crystalname=Crystal Crabal
+|hascard=Yes
+}}
+{{EnemyNavigation|Mafioso|Pincermin}}
+{{DropTable/head}}
+{{DropTable/coin|80|0.4}}
+{{DropTable/row|Claiming Cashe|0.05|1|([[Goldric]])}}
+{{DropTable/row|Furled Flag|0.19|1}}
+{{DropTable/card|0.0001}}
+{{DropTable7|chance=0.0035}}
+|}

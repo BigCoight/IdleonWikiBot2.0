@@ -1,0 +1,1017 @@
+{{InfoCard
+|title=Green Mushroom
+|order=0
+|category=Blunder Hills
+|effect=+{_Base_HP
+|bonus=12
+|reqtier=5
+|source=[[Green Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Green Mushroom]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Red Mushroom
+|order=1
+|category=Blunder Hills
+|effect=+{_Base_LUK
+|bonus=3
+|reqtier=10
+|source=[[Red Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Red Mushroom]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Frog
+|order=2
+|category=Blunder Hills
+|effect=+{_Base_MP
+|bonus=10
+|reqtier=6
+|source=[[Frog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Bored Bean
+|order=3
+|category=Blunder Hills
+|effect=+{_Base_Damage
+|bonus=7
+|reqtier=7
+|source=[[Bored Bean]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bored Bean]]|0.000097|1}}
+|}
+{{InfoCard
+|title=Slime
+|order=4
+|category=Blunder Hills
+|effect=+{_Base_WIS
+|bonus=2
+|reqtier=8
+|source=[[Slime]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Slime]]|0.000095|1}}
+|}
+{{InfoCard
+|title=Baby Boa
+|order=5
+|category=Blunder Hills
+|effect=+{_Move_Spd
+|bonus=1
+|reqtier=9
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.000094|1}}
+|}
+{{InfoCard
+|title=Carrotman
+|order=6
+|category=Blunder Hills
+|effect=+{_Base_AGI
+|bonus=2
+|reqtier=10
+|source=[[Carrotman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.000090|1}}
+|}
+{{InfoCard
+|title=Glublin
+|order=7
+|category=Blunder Hills
+|effect=+{%_Total_HP
+|bonus=2
+|reqtier=10
+|source=[[Glublin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Glublin]]|0.000086|1}}
+|}
+{{InfoCard
+|title=Wode Board
+|order=8
+|category=Blunder Hills
+|effect=+{_Base_STR
+|bonus=2
+|reqtier=10
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|0.000080|1}}
+|}
+{{InfoCard
+|title=Gigafrog
+|order=9
+|category=Blunder Hills
+|effect=+{%_Card_Drop_Chance
+|bonus=5
+|reqtier=10
+|source=[[Gigafrog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.000070|1}}
+|}
+{{InfoCard
+|title=Poop
+|order=10
+|category=Blunder Hills
+|effect=+{%_Crystal_Mob_Spawn_Chance
+|bonus=10
+|reqtier=10
+|source=[[Poop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.000060|1}}
+|}
+{{InfoCard
+|title=Rat
+|order=11
+|category=Blunder Hills
+|effect=+{%_Critical_Chance
+|bonus=1
+|reqtier=10
+|source=[[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|0.000050|1}}
+|}
+{{InfoCard
+|title=Walking Stick
+|order=12
+|category=Blunder Hills
+|effect=+{_Base_WIS
+|bonus=5
+|reqtier=10
+|source=[[Walking Stick]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.000060|1}}
+|}
+{{InfoCard
+|title=Nutto
+|order=13
+|category=Blunder Hills
+|effect=+{%_Money_from_Monsters
+|bonus=5
+|reqtier=10
+|source=[[Nutto]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Nutto]]|0.000050|1}}
+|}
+{{InfoCard
+|title=Crystal Carrot
+|order=14
+|category=Blunder Hills
+|effect=+{%_Total_Drop_Rate
+|bonus=5
+|reqtier=3
+|source=[[Crystal Carrot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.01|1}}
+|}
+{{InfoCard
+|title=Boop
+|order=2
+|category=Bosses
+|effect=+{%_Fighting_AFK_gain_rate
+|bonus=1
+|reqtier=1
+|source=[[Boop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Boop]]|0.0015|1}}
+|}
+{{InfoCard
+|title=Wood Mushroom
+|order=15
+|category=Blunder Hills
+|effect=+{%_Total_Accuracy
+|bonus=5
+|reqtier=10
+|source=[[Wood Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wood Mushroom]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Sandy Pot
+|order=0
+|category=Yum Yum Desert
+|effect=+{%_EXP_Conversion_from_Talent
+|bonus=12
+|reqtier=10
+|source=[[Sandy Pot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandy Pot]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Mimic
+|order=1
+|category=Yum Yum Desert
+|effect=+{%_Total_Drop_Rate
+|bonus=3
+|reqtier=10
+|source=[[Mimic]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mimic]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Crabcake
+|order=2
+|category=Yum Yum Desert
+|effect=+{%_To_not_consume_Food
+|bonus=6
+|reqtier=10
+|source=[[Crabcake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crabcake]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Mafioso
+|order=3
+|category=Yum Yum Desert
+|effect=+{_Base_AGI
+|bonus=5
+|reqtier=10
+|source=[[Mafioso]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mafioso]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Sand Castle
+|order=4
+|category=Yum Yum Desert
+|effect=+{%_Total_Accuracy
+|bonus=4
+|reqtier=10
+|source=[[Sand Castle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Castle]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Pincermin
+|order=5
+|category=Yum Yum Desert
+|effect=+{_Weapon_Power
+|bonus=1
+|reqtier=10
+|source=[[Pincermin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Pincermin]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Mashed Potato
+|order=6
+|category=Yum Yum Desert
+|effect=+{%_Critical_Damage
+|bonus=3
+|reqtier=10
+|source=[[Mashed Potato]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mashed Potato]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Tyson
+|order=7
+|category=Yum Yum Desert
+|effect=+{_Base_STR
+|bonus=5
+|reqtier=10
+|source=[[Tyson]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Tyson]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Moonmoon
+|order=8
+|category=Yum Yum Desert
+|effect=+{%_Monster_EXP_While_Active
+|bonus=8
+|reqtier=10
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Sand Giant
+|order=9
+|category=Yum Yum Desert
+|effect=+{%_Minimum_Damage
+|bonus=2
+|reqtier=10
+|source=[[Sand Giant]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Giant]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Snelbie
+|order=10
+|category=Yum Yum Desert
+|effect=+{%_Card_Drop_Chance
+|bonus=8
+|reqtier=10
+|source=[[Snelbie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Snelbie]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Dig Doug
+|order=11
+|category=Yum Yum Desert
+|effect=+{_Base_LUK
+|bonus=6
+|reqtier=10
+|source=[[Dig Doug]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dig Doug]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Desert Topaz
+|order=12
+|category=Yum Yum Desert
+|effect=+{%_EXP_from_monsters
+|bonus=2
+|reqtier=3
+|source=[[Crystal Crabal]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.008|1}}
+|}
+{{InfoCard
+|title=Bandit Bob
+|order=13
+|category=Yum Yum Desert
+|effect=+{%_Money_from_Monsters
+|bonus=1
+|reqtier=1
+}}
+{{InfoCard
+|title=Copper Ore
+|order=0
+|category=Easy Resources
+|effect=+{_Base_accuracy
+|bonus=4
+|reqtier=10
+|source=[[Mining#Drops|Mining Copper]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.0002|1}}
+|}
+{{InfoCard
+|title=Iron Ore
+|order=1
+|category=Easy Resources
+|effect=+{%_Total_Mining_Efficiency
+|bonus=5
+|reqtier=10
+|source=[[Mining#Drops|Mining Iron]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.00013|1}}
+|}
+{{InfoCard
+|title=Gold Ore
+|order=2
+|category=Easy Resources
+|effect=+{%_Mining_EXP
+|bonus=5
+|reqtier=10
+|source=[[Mining#Drops|Mining Gold]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.00011|1}}
+|}
+{{InfoCard
+|title=Oak Logs
+|order=4
+|category=Easy Resources
+|effect=+{_Base_Defence
+|bonus=3
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Oak Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0004|1}}
+|}
+{{InfoCard
+|title=Bleach Logs
+|order=5
+|category=Easy Resources
+|effect=+{%_Total_Choppin_Efficiency
+|bonus=5
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Birch Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00029|1}}
+|}
+{{InfoCard
+|title=Jungle Logs
+|order=6
+|category=Easy Resources
+|effect=+{%_Choppin_EXP
+|bonus=5
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Jungle Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.00021|1}}
+|}
+{{InfoCard
+|title=Forest Fibres
+|order=7
+|category=Easy Resources
+|effect=+{%_EXP_Conversion_from_Talent
+|bonus=8
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Forest Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00017|1}}
+|}
+{{InfoCard
+|title=Goldfish
+|order=8
+|category=Easy Resources
+|effect=+{%_Total_MP
+|bonus=3
+|reqtier=10
+}}
+{{InfoCard
+|title=Hermit Can
+|order=9
+|category=Easy Resources
+|effect=+{%_Total_Fishing_Efficiency
+|bonus=5
+|reqtier=10
+}}
+{{InfoCard
+|title=Jellyfish
+|order=10
+|category=Easy Resources
+|effect=+{%_Fishing_EXP
+|bonus=5
+|reqtier=10
+}}
+{{InfoCard
+|title=Fly
+|order=11
+|category=Easy Resources
+|effect=+{%_Monster_EXP_While_Active
+|bonus=4
+|reqtier=10
+|source=[[Catching#Drops|Catching Flies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
+|}
+{{InfoCard
+|title=Butterfly
+|order=12
+|category=Easy Resources
+|effect=+{%_Total_Catching_Efficiency
+|bonus=5
+|reqtier=10
+|source=[[Catching#Drops|Catching Butterflies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
+|}
+{{InfoCard
+|title=Fire Forge
+|order=3
+|category=Easy Resources
+|effect=+{%_Smithing_EXP
+|bonus=4
+|reqtier=10
+}}
+{{InfoCard
+|title=Dementia Ore
+|order=1
+|category=Medium Resources
+|effect=+{%_Mining_Speed
+|bonus=4
+|reqtier=10
+|source=[[Mining#Drops|Mining Dementia]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.00006|1}}
+|}
+{{InfoCard
+|title=Platinum Ore
+|order=0
+|category=Medium Resources
+|effect=+{%_Mining_Away_Gains
+|bonus=2
+|reqtier=10
+|source=[[Mining#Drops|Mining Plat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.00008|1}}
+|}
+{{InfoCard
+|title=Void Ore
+|order=2
+|category=Medium Resources
+|effect=+{%_Card_Drop_Chance
+|bonus=6
+|reqtier=10
+}}
+{{InfoCard
+|title=Lustre Ore
+|order=3
+|category=Medium Resources
+|effect=+{_Base_LUK
+|bonus=4
+|reqtier=10
+}}
+{{InfoCard
+|title=Potty Rolls
+|order=6
+|category=Medium Resources
+|effect=+{%_Choppin_Speed
+|bonus=4
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Toilet Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00012|1}}
+|}
+{{InfoCard
+|title=Veiny Logs
+|order=7
+|category=Medium Resources
+|effect=+{%_Total_Accuracy
+|bonus=3
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Stump Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.00013|1}}
+|}
+{{InfoCard
+|title=Tropilogs
+|order=5
+|category=Medium Resources
+|effect=+{%_Choppin_Away_Gains
+|bonus=2
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Palm Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.00011|1}}
+|}
+{{InfoCard
+|title=Fruitfly
+|order=10
+|category=Medium Resources
+|effect=+{%_Catching_Away_Gains
+|bonus=2
+|reqtier=10
+|source=[[Catching#Drops|Catching Fruitflies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
+|}
+{{InfoCard
+|title=Sentient Cereal
+|order=9
+|category=Medium Resources
+|effect=+{%_Catching_EXP
+|bonus=5
+|reqtier=10
+|source=[[Catching#Drops|Catching Sentient Cereal]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00016|1}}
+|}
+{{InfoCard
+|title=Bloach
+|order=8
+|category=Medium Resources
+|effect=+{%_Fishing_Away_Gains
+|bonus=2
+|reqtier=10
+}}
+{{InfoCard
+|title=Cinder Forge
+|order=4
+|category=Medium Resources
+|effect=+{%_Smithing_EXP
+|bonus=7
+|reqtier=10
+}}
+{{InfoCard
+|title=Sheepie
+|order=0
+|category=Frostfire Tyundra
+|effect=+{%_Money_from_Monsters
+|bonus=10
+|reqtier=1.5
+|source=[[Sheepie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Frost Flake
+|order=1
+|category=Frostfire Tyundra
+|effect=+{%_Total_Damage
+|bonus=5
+|reqtier=1.5
+|source=[[Frost Flake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frost Flake]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Sir Stache
+|order=2
+|category=Frostfire Tyundra
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=2.5
+|reqtier=1.5
+|source=[[Sir Stache]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Bloque
+|order=3
+|category=Frostfire Tyundra
+|effect=+{%_Fighting_AFK_gain_rate
+|bonus=2.5
+|reqtier=1.5
+|source=[[Bloque]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.0001|1}}
+|}
+{{InfoCard
+|title=mamooth
+|order=4
+|category=Frostfire Tyundra
+|effect=+{%_Double_AFK_claim_chance
+|bonus=3
+|reqtier=1.5
+|source=[[mamooth]]
+}}
+{{detdrops/head}}
+{{detdrops|[[mamooth]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Snowman
+|order=5
+|category=Frostfire Tyundra
+|effect=+{%_Total_Drop_Rate
+|bonus=6
+|reqtier=1.5
+|source=[[Snowman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Snowman]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Penguin
+|order=6
+|category=Frostfire Tyundra
+|effect=+{%_EXP_from_monsters
+|bonus=5
+|reqtier=1.5
+|source=[[Penguin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Penguin]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Thermister
+|order=7
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Thermister]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Thermister]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Quenchie
+|order=8
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Quenchie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Quenchie]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Cryosnake
+|order=9
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Cryosnake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cryosnake]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Bop Box
+|order=10
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Bop Box]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bop Box]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Neyeptune
+|order=11
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Neyeptune]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Neyeptune]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Xylobone
+|order=13
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Xylobone]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Xylobone]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Bloodbone
+|order=14
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Bloodbone]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bloodbone]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Dedotated Ram
+|order=12
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Dedotated Ram]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dedotated Ram]]|0.0001|1}}
+|}
+{{InfoCard
+|title=Glacier Quartz
+|order=15
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Crystal Cattle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.008|1}}
+|}
+{{InfoCard
+|title=Ghost
+|order=0
+|category=Event
+|effect=+{%_Monster_EXP_While_Active
+|bonus=3
+|reqtier=2
+|source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Giftmas Blobulyte]]|0.05|1}}
+{{detdrops|[[Meaning of Giftmas]]|0.05|1}}
+{{detdrops|[[Ghost]]|0.05|1}}
+|}
+{{InfoCard
+|title=Giftmas Blobulyte
+|order=1
+|category=Event
+|effect=+{%_Total_Drop_Rate
+|bonus=3
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Meaning of Giftmas
+|order=2
+|category=Event
+|effect=+{%_Money_from_Monsters
+|bonus=3
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Valentslime
+|order=3
+|category=Event
+|effect=+{%_Defence_from_Equipment
+|bonus=3
+|reqtier=2
+|source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Loveulyte]]|0.05|1}}
+{{detdrops|[[Chocco Box]]|0.05|1}}
+{{detdrops|[[Valentslime]]|0.085|1}}
+|}
+{{InfoCard
+|title=Loveulyte
+|order=4
+|category=Event
+|effect=+{%_Total_HP
+|bonus=5
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Chocco Box
+|order=5
+|category=Event
+|effect=+{%_Boost_Food_Effect
+|bonus=4
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Floofie
+|order=6
+|category=Event
+|effect=+{%_MP_regen_rate
+|bonus=3
+|reqtier=3
+|source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Egggulyte]]|0.05|1}}
+{{detdrops|[[Egg Capsule]]|0.05|1}}
+{{detdrops|[[Floofie]]|0.05|1}}
+|}
+{{InfoCard
+|title=Shell Snake
+|order=7
+|category=Event
+|effect=+{_Base_LUK
+|bonus=3
+|reqtier=3
+|source=[[Shell Snake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Shell Snake]]|0.05|1}}
+|}
+{{InfoCard
+|title=Egggulyte
+|order=8
+|category=Event
+|effect=+{%_Card_Drop_Chance
+|bonus=1
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Egg Capsule
+|order=9
+|category=Event
+|effect=+{%_Critical_Damage
+|bonus=1
+|reqtier=1.5
+}}
+{{InfoCard
+|title=Baba Yaga
+|order=0
+|category=Bosses
+|effect=+{%_Money_from_Monsters
+|bonus=10
+|reqtier=1.5
+|source=[[Baba Yaga]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baba Yaga]]|0.03|1}}
+|}
+{{InfoCard
+|title=Dr Defecaus
+|order=1
+|category=Bosses
+|effect=+{%_Total_Damage
+|bonus=5
+|reqtier=1.5
+|source=[[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|0.03|1}}
+|}
+{{InfoCard
+|title=Amarok
+|order=3
+|category=Bosses
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=2.5
+|reqtier=1.5
+|source=[[Amarok]], [[Nightmare Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Amarok]]|0.04|1}}
+{{detdrops|[[Nightmare Amarok]]|0.02|1}}
+|}
+{{InfoCard
+|title=Efaunt
+|order=7
+|category=Bosses
+|effect=+{%_EXP_from_monsters
+|bonus=5
+|reqtier=1.5
+|source=[[Efaunt]], [[Nightmare Amarok]], [[Error]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Efaunt]]|0.035|1}}
+{{detdrops|[[Nightmare Amarok]]|0.01|1}}
+{{detdrops|[[Error]]|0.0000005|1}}
+|}
+{{InfoCard
+|title=Chaotic Amarok
+|order=4
+|category=Bosses
+|effect=+{%_Fighting_AFK_gain_rate
+|bonus=2.5
+|reqtier=1.5
+|source=[[Chaotic Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Amarok]]|0.02|1}}
+|}
+{{InfoCard
+|title=Biggie Hours
+|order=5
+|category=Bosses
+|effect=+{%_Double_AFK_claim_chance
+|bonus=3
+|reqtier=1.5
+|source=[[Biggie Hours]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.024|1}}
+|}
+{{InfoCard
+|title=King Doot
+|order=6
+|category=Bosses
+|effect=+{%_Total_Drop_Rate
+|bonus=6
+|reqtier=1.5
+|source=[[King Doot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[King Doot]]|0.04|1}}
+|}
+{{InfoCard
+|title=Chaotic Efaunt
+|order=8
+|category=Bosses
+|effect=+{%_Skill_EXP
+|bonus=3.75
+|reqtier=1.5
+|source=[[Chaotic Efaunt]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Efaunt]]|0.045|1}}
+|}

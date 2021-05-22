@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Time Candy
+|description=An entire day, just like that! Hold down to instantly get 24 Hour of AFK Gains.
+|sellprice=1
+|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.0048000000000000004|1.0}}
+{{detdrops|[[King Doot]]|0.006|1.0}}
+|}

@@ -1,0 +1,21 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|str=1
+|sellprice=1
+|rarity=Bronze
+|source=[[DropTable1]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.0003779999999999999|1.0}}
+{{detdrops|[[Green Mushroom]]|0.0000018899999999999997|1.0}}
+{{detdrops|[[Frog]]|0.000002394|1.0}}
+{{detdrops|[[Bored Bean]]|0.0000028349999999999995|1.0}}
+{{detdrops|[[Red Mushroom]]|0.0000032759999999999992|1.0}}
+{{detdrops|[[Amarok]]|0.0006299999999999999|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.0006299999999999999|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0006299999999999999|2.0}}
+{{detdrops|[[Baba Yaga]]|0.0006299999999999999|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.0006299999999999999|1.0}}
+|}

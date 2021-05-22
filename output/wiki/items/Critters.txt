@@ -1,0 +1,108 @@
+{{InfoItem
+|type=Critter
+|description=The living embodiment of the classic cryptocurrency Frogecoin
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=The living embodiment of the classic cryptocurrency Frogecoin
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Argg, yer spendin' all me money!
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Argghgg, yershpend annual memo knee!!... Yea mutants can't speak very well, probably on account of the radiation poisioning and all that. 
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=This cutie will stab its way into your heart if you aren't careful! No seriosuly please be careful the bugger pricked my foot the other day and it hurt bad.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!!
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Adorable!!! Look how cute it's tail is, and that itty bitty nose, and the fact that it's a mouse and not a rat so I don't want to hit it with a broom!
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=This mole ain't got no fur! Ew, gross!!! Disgusting even!!!!! Imagine an animal with no fur... eugh just the thought...
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Hoot hoot! Yea thats all I got for this one.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=It's a more expensive hoot, I guess. Sorry I ain't got no jokes for owls.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=It's basically just Gunter but with RTX off.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind and darkness to umm... people who can't remember what to say. Ah crap.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=It could use a carrot, the lil' guy needs some food!
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=The other bunny is brilliant... But I like this one more.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Dodo tshh do dodo tss dodo tss badabada dodoooo
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=Oh I guess this one is a scarab, not a beetle. You can tell because of the way it is.
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=HONK! HONK!
+|sellprice=3
+|source=Trapping
+}}
+{{InfoItem
+|type=Critter
+|description=One of the only beings strong enough to take on the Eternal Lord of the Undying Ember realm... their battle would be legendary.
+|sellprice=3
+|source=Trapping
+}}

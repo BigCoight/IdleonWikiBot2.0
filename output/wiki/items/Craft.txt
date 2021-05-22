@@ -1,0 +1,813 @@
+{{InfoItem
+|type=Material
+|description=It's basically string cheese, but without the cheese.
+|sellprice=3
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=1|num=1|expcraft=5|time=100}}
+{{usedin/head}}
+{{usedin/row|[[Wooden Bow]]|30|Crafting}}
+{{usedin/row|[[Torn Jeans]]|15|Crafting}}
+{{usedin/row|[[Copper Chopper]]|15|Crafting}}
+{{usedin/row|[[Leather Cap]]|13|Crafting}}
+{{usedin/row|[[Thief Hood]]|150|Crafting}}
+{{usedin/row|[[Sleek Shank]]|300|Crafting}}
+{{usedin/row|[[Green Tee]]|150|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|600|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Stable Jenius|Stable Jenius]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Spool Sprite|Spool Sprite]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=I think Scripticus forgot to take out his... spoon? You may want to give that back.
+|sellprice=1
+|source=[[Scripticus#Hardcore Gamer Status, Here I Come!|Hardcore Gamer Status, Here I Come!]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Boxing Gloves]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Material
+|description=Ohh that's why it's called Cue tape!
+|sellprice=3
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=8|vendor=Blunder Hills|stock=5000|buyprice=12}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Boxing Gloves]]|5|Crafting}}
+{{usedin/row|[[Bandage Wraps]]|5000|Crafting}}
+|}
+{{InfoItem
+|type=Material
+|description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead!
+|sellprice=12
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=5|num=2|expcraft=8|time=250}}
+{{usedin/head}}
+{{usedin/row|[[Cramped Choppin Pouch]]|30|Crafting}}
+{{usedin/row|[[The Stingers]]|20|Crafting}}
+{{usedin/row|[[Cramped Material Pouch]]|80|Crafting}}
+{{usedin/row|[[Copper Platebody]]|150|Crafting}}
+{{usedin/row|[[Iron Boots]]|500|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|300|Quests}}
+{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|1000|Quests}}
+{{usedin/row|[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]|750|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Thumb Pow|Thumb Pow]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=Go get your shovel... And we'll dig a deep hole... To gain a skill level... To gain a skill level...
+|sellprice=25
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=12|num=3|expcraft=14|time=500}}
+{{usedin/head}}
+{{usedin/row|[[Steel Axe]]|125|Crafting}}
+{{usedin/row|[[Iron Hatchet]]|200|Crafting}}
+{{usedin/row|[[Iron Platelegs]]|300|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
+{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=Better keep an eye on this or it might try to leave your inventory to go save Chain Zelda!
+|sellprice=40
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=18|num=4|expcraft=25|time=1000}}
+{{usedin/head}}
+{{usedin/row|[[Anvil Tab 2]]|200|Crafting}}
+{{usedin/row|[[Amarok Hinds]]|500|Crafting}}
+{{usedin/row|[[Starlight]]|1000|Crafting}}
+{{usedin/row|[[Average Material Pouch]]|1250|Crafting}}
+{{usedin/row|[[Plat Hatchet]]|6000|Crafting}}
+{{usedin/row|[[High-IQ Cauldron#Noodubble|Noodubble]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=I mean come on, would this really be a Fantasy MMO if it didn't have a leather material item?
+|sellprice=60
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=25|num=5|expcraft=40|time=2000}}
+{{usedin/head}}
+{{usedin/row|[[Gold Fishing Rod]]|1000|Crafting}}
+{{usedin/row|[[Enforced Slasher]]|9000|Crafting}}
+{{usedin/row|[[Furled Robes]]|1500|Crafting}}
+{{usedin/row|[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]|100|Quests}}
+{{usedin/row|[[Kazam Cauldron#Da Daily Drip|Da Daily Drip]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=The big one is the Spur. The puny one is the Pinion. Have fun bragging in class when you get this question right on a test.
+|sellprice=80
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=32|num=6|expcraft=80|time=5000}}
+{{usedin/head}}
+{{usedin/row|[[Power Cauldron#Bappity Boopity|Bappity Boopity]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Material
+|description=Hey look Mario! I have-a my own reference in the game!
+|sellprice=100
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=40|num=7|expcraft=160|time=12500}}
+{{InfoItem
+|type=Material
+|description=The full filtration process also invovles filtering the diamonds through a vat of diamonds before using those filtered diamonds to filter the water! If only they'd filter their filtration process through diamonds so this item description wouldn't be so long.
+|sellprice=50
+|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Chaotic Amarok Pendant]]|25|Crafting}}
+{{usedin/row|[[Iron Fishing Rod]]|3|Crafting}}
+{{usedin/row|[[Small Fish Pouch]]|2|Crafting}}
+{{usedin/row|[[Reinforced Net]]|3|Crafting}}
+{{usedin/row|[[Small Bug Pouch]]|2|Crafting}}
+{{usedin/row|[[Gold Boots]]|8|Crafting}}
+{{usedin/row|[[Royal Bayonet]]|8|Crafting}}
+{{usedin/row|[[Spiked Menace]]|8|Crafting}}
+{{usedin/row|[[Starlight]]|8|Crafting}}
+{{usedin/row|[[Defenders Dignity]]|15|Crafting}}
+{{usedin/row|[[Strung Bludgeon]]|20|Crafting}}
+{{usedin/row|[[Empty Box]]|4|Crafting}}
+{{usedin/row|[[Googley Eyes]]|5|Crafting}}
+{{usedin/row|[[Cavern Trekkers]]|9|Crafting}}
+{{usedin/row|[[Angler Boots]]|9|Crafting}}
+{{usedin/row|[[Logger Heels]]|9|Crafting}}
+{{usedin/row|[[Bandito Boots]]|9|Crafting}}
+{{usedin/row|[[Efaunt Ribcage]]|25|Crafting}}
+{{usedin/row|[[Efaunt Hipilium]]|25|Crafting}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's often misunderstood that this is part of the spore's head. But it's actually just a stylish hat. ... well, stylish in Mushroom Culture at least.
+|sellprice=3
+|source=[[Green Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Green Mushroom]]|0.22|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Wooden Spear]]|25|Crafting}}
+{{usedin/row|[[Wooden Bow]]|25|Crafting}}
+{{usedin/row|[[Gnarled Wand]]|25|Crafting}}
+{{usedin/row|[[Farmer Brim]]|5|Crafting}}
+{{usedin/row|[[Orange Tee]]|10|Crafting}}
+{{usedin/row|[[Blue Tee]]|25|Crafting}}
+{{usedin/row|[[Blunderbag]]|169|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Mushroom Soup|Mushroom Soup]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away.
+|sellprice=5
+|source=[[Frog]], [[Mining#Drops|Mining Void]], [[Mining#Drops|Mining Lustre]], [[Mining#Drops|Mining Starfire]], [[Mining#Drops|Mining Dreadlo]], [[Mining#Drops|Mining Godshard]], [[Choppin#Drops|Choppin Alien Tree]], [[Fly Nest]], [[Butterfly Bar]], [[Sentient Bowl]], [[Grocery Bag]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.21|1}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Starfire]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Dreadlo]]|0.4|2}}
+{{detdrops|[[Mining#Drops|Mining Godshard]]|0.4|2}}
+{{detdrops|[[Choppin#Drops|Choppin Alien Tree]]|0.015|2}}
+{{detdrops|[[Fly Nest]]|0.0|2}}
+{{detdrops|[[Butterfly Bar]]|0.0|2}}
+{{detdrops|[[Sentient Bowl]]|0.0|2}}
+{{detdrops|[[Grocery Bag]]|0.0|2}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Torn Jeans]]|20|Crafting}}
+{{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
+{{usedin/row|[[Leather Cap]]|25|Crafting}}
+{{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=There's something disturbing about how these beans have bones. Not as disturbing as how they also have eyeballs and walk around, but still disturbing anyway.
+|sellprice=7
+|source=[[Bored Bean]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bored Bean]]|0.20|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Flip Flops]]|30|Crafting}}
+{{usedin/row|[[Cramped Material Pouch]]|30|Crafting}}
+{{usedin/row|[[Copper Helmet]]|75|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Hammer Hammer|Hammer Hammer]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Dieter Drenk|Dieter Drenk]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's often misunderstood that this is just the spore's stylish hat, due to the cosmetic nature of Green Spores, but this cap is actually part of this spore's head.
+|sellprice=7
+|source=[[Red Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Red Mushroom]]|0.20|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Purple Tee]]|40|Crafting}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Ewww, slimey.
+|sellprice=10
+|source=[[Slime]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Slime]]|0.19|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Steel Axe]]|150|Crafting}}
+{{usedin/row|[[Birch Longbow]]|150|Crafting}}
+{{usedin/row|[[Quarterstaff]]|150|Crafting}}
+{{usedin/row|[[Goo Galoshes]]|600|Crafting}}
+{{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
+{{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=''Theres a snake in me boots! Oh wait no, my boots are the snake!''  - Someone who wears snakeskin boots
+|sellprice=13
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.18|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Name I Guess2|Name I Guess2]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Skinny 0 Cal|Skinny 0 Cal]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Probably the only time you'll ever see a carrot cut into a cube!
+|sellprice=15
+|source=[[Carrotman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.17|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Iron Pickaxe]]|250|Crafting}}
+{{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|2|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Lil Big Damage|Lil Big Damage]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=This item will listen to anything you have to say, it's all ears!
+|sellprice=20
+|source=[[Glublin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Glublin]]|0.16|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Iron Helmet]]|400|Crafting}}
+{{usedin/row|[[Fur Shirt]]|500|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Wyoming Blood|Wyoming Blood]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Anearful|Anearful]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=I wonder what the Ed Boys are up to these days?
+|sellprice=25
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|0.15|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|400|Crafting}}
+{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Makes a loud noise when thrown at someones head, although the sound doesn't come from the horn itself...
+|sellprice=30
+|source=[[Gigafrog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.14|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
+{{usedin/row|[[Amarok Hinds]]|1000|Crafting}}
+{{usedin/row|[[Strung Bludgeon]]|9000|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Vials#Ramificoction|Ramificoction]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=I guess what they say about corn is true...
+|sellprice=30
+|source=[[Poop]], [[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.24|1}}
+{{detdrops|[[Dr Defecaus]]|1|150}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Amarok Bodyplate]]|1200|Crafting}}
+{{usedin/row|[[Witch Hat]]|4000|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Conker would have called this something else.                  NOTE: This is a very rare drop from Poops
+|sellprice=500
+|source=[[Poop]], [[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.00005|1}}
+{{detdrops|[[Dr Defecaus]]|0.1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills Misc Completion Token]]|12|Crafting}}
+{{usedin/row|[[Defenders Dignity]]|17|Crafting}}
+{{usedin/row|[[Crows Nest]]|8|Crafting}}
+{{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
+{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
+{{usedin/row|[[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]]|1|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Ew why did you pick this up?
+|sellprice=90
+|source=[[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|0.19|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Vials#Tail Time|Tail Time]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Imagine the guy who came up with this name... ''wait, you guys HAVENT been eating this stuff?''
+|sellprice=90
+|source=[[Boop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Boop]]|0.5|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]|777|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Made of wood.
+|sellprice=90
+|source=[[Walking Stick]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.21|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Feral Leathering]]|3000|Crafting}}
+{{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Made of circle that's been carved into the shape of a wood.            NOTE: This is a very rare drop from Branches
+|sellprice=90
+|source=[[Walking Stick]], [[Wood Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Walking Stick]]|0.00005|1}}
+{{detdrops|[[Wood Mushroom]]|0.000075|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Amarok Helmet]]|8|Crafting}}
+{{usedin/row|[[Pharoah Bow]]|8|Crafting}}
+{{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
+{{usedin/row|[[Googley Eyes]]|2|Crafting}}
+{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Every time I plant one of these, someone eventually steals it and puts a fully grown tree in its place! Very annoying!
+|sellprice=90
+|source=[[Nutto]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Nutto]]|0.23|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Eventually you'll be able to turn these into a hatchable egg! Or maybe you already can! Or maybe you never will! Who knows what future content there may be!
+|sellprice=400
+|source=[[Baba Yaga]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baba Yaga]]|0.006|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=This sand aint right, I tell you hwat!
+|sellprice=60
+|source=[[Sandy Pot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandy Pot]]|0.22|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Gold Platebody]]|1500|Crafting}}
+{{usedin/row|[[Sandy Satchel]]|777|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=The result of letting heat and sand get it on if you know what I'm sayin.                        NOTE: This is a very rare drop from Sandy Pots
+|sellprice=60
+|source=[[Sandy Pot]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sandy Pot]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Strung Bludgeon]]|10|Crafting}}
+{{usedin/row|[[Average Material Pouch]]|1|Crafting}}
+{{usedin/row|[[Viking Cap]]|2|Crafting}}
+{{usedin/row|[[Sleek Coif]]|2|Crafting}}
+{{usedin/row|[[Witch Hat]]|2|Crafting}}
+{{usedin/row|[[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Wait a minute, this isn't a real megalodon tooth!
+|sellprice=70
+|source=[[Mimic]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mimic]]|0.212|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Gold Pickaxe]]|2500|Crafting}}
+{{usedin/row|[[Empty Box]]|400|Crafting}}
+{{usedin/row|[[Studded Hide]]|4000|Crafting}}
+{{usedin/row|[[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Mimicraught|Mimicraught]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=You could probably start a restaurant selling these! Just employ an overeager cook, give the place a cool name like The Crispy Crustacean, and you'd be set!
+|sellprice=80
+|source=[[Crabcake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crabcake]]|0.205|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Golden Axe]]|2000|Crafting}}
+{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|150|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Ohhhhh, that's what people mean when they say Love At First Sight!                             NOTE: This is a very rare drop from Crabcakes
+|sellprice=80
+|source=[[Crabcake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crabcake]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Enforced Slasher]]|8|Crafting}}
+{{usedin/row|[[Sizable Food Pouch]]|6|Crafting}}
+{{usedin/row|[[Studded Hide]]|1|Crafting}}
+{{usedin/row|[[Feral Leathering]]|1|Crafting}}
+{{usedin/row|[[Furled Robes]]|1|Crafting}}
+{{usedin/row|[[Efaunts Broken Ankles]]|3|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=How many O's are in this item's name? Yep, you're right, there's six! Good job!
+|sellprice=95
+|source=[[Mafioso]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mafioso]]|0.2|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]]|2500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's an American Flag with red paint spilled on all the non-red bits... no wait, it's the German Flag, but they ran out of black and yellow material.
+|sellprice=108
+|source=[[Sand Castle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Castle]]|0.19|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Big Meaty Claws|Big Meaty Claws]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=That looks sharp! Is probably what the pincermin said before you cut his arm off.
+|sellprice=120
+|source=[[Pincermin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Pincermin]]|0.18|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Platinum Pickaxe]]|10500|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Mashed potatos, I get it!
+|sellprice=133
+|source=[[Mashed Potato]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mashed Potato]]|0.17|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Platinum Platbody]]|5000|Crafting}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Monster Drop
+|sellprice=145
+|source=[[Tyson]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Tyson]]|0.18|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Anvil Tab 3]]|1500|Crafting}}
+{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Weoweoweoweowdingding!
+|sellprice=160
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.165|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=In case you haven't noticed, these are all references to the famous early 90s videogame called Gex! This desription is like a bad joke at Louis CK's house!
+|sellprice=160
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dootjat Eye]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's like a monocle, but not quite.
+|sellprice=180
+|source=[[Sand Giant]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Giant]]|0.152|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Cheap Shot|Cheap Shot]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=The very tippy top of the shell, with some of the underneath part attached as well.
+|sellprice=200
+|source=[[Snelbie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Snelbie]]|0.14|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Kazam Cauldron#Laaarrrryyyy|Laaarrrryyyy]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=A ball of sheep wool. Well, it used to be a ball of ice cream but then I re-drew it.
+|sellprice=200
+|source=[[Sheepie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Eugh whats this WATER doing around my ice???
+|sellprice=200
+|source=[[Frost Flake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frost Flake]]|0.16|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]|1|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Sad times I hope I remember to change this before relase.
+|sellprice=200
+|source=[[Sir Stache]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's got a horn stuck in it. I guess you could say this wool is kinda 
+|sellprice=200
+|source=[[Dedotated Ram]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dedotated Ram]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's ALLLLL sticky!
+|sellprice=200
+|source=[[Bloque]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=No see, this is a mamOOth tusk, not a mammoth tusk, thats why you think it looks weird. Trust me, it's an incredibly drawn mamooth tusk, truly a work of art.
+|sellprice=200
+|source=[[mamooth]]
+}}
+{{detdrops/head}}
+{{detdrops|[[mamooth]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has 50,000 1 star ratings claiming it to be false advertising.
+|sellprice=200
+}}
+{{InfoItem
+|type=Monster Drop
+|description=If you have two of these together, please be careful what other objects you put near them, I need to keep this game age appropirate!
+|sellprice=200
+|source=[[Snowman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Snowman]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Click the pen on, then hold it down against your desk and let go, and BAM that baby will fly you straight to the principal's office!
+|sellprice=200
+|source=[[Penguin]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Penguin]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Ah Mr. Thermostat, not looking so hot now that I've broken you into tiny little bits... no seriously, I can't tell the temperature now that you're broken.
+|sellprice=200
+|source=[[Thermister]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Thermister]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=This vacuum operated liquid transfer system is capable of dispencing over 500 mL of dangerous dihydrogen monoxide chemical compounds from one end to the other!
+|sellprice=200
+|source=[[Quenchie]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Quenchie]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Wow this is just a cheap recolouring of the normal snakeskin! I want my money back!
+|sellprice=200
+|source=[[Cryosnake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cryosnake]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Uhhhh... which one which one...?? The red or the blue??? Cmon think think think.. Blue...? 'BOOOOOM'.       Wait, this is an audio cord description? Whoops, I thought this was the Bomb Defuser description!!
+|sellprice=200
+|source=[[Bop Box]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Bop Box]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's the only transparent item in IdleOn! If they weren't, they'd just be pirate eyepatches after all...
+|sellprice=200
+|source=[[Neyeptune]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Neyeptune]]|0.16|1}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=It's just a normal ice cream. It's been given a fancy name so people would pay more for it in a store.
+|sellprice=1
+}}
+{{InfoItem
+|type=Monster Drop
+|description=It's a bit small, so it's not quite an hourglass, is it.
+|sellprice=1
+|source=[[Biggie Hours]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.3|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Hipilium]]|3|Crafting}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=A piece of Efaunt's tunic. I guess it must have gotten torn off while you were absolutely obliterating them with big time Damage.
+|sellprice=1
+|source=[[Efaunt]], [[Chaotic Efaunt]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Efaunt]]|0.3|1}}
+{{detdrops|[[Chaotic Efaunt]]|0.4|3}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Helmet]]|20|Crafting}}
+{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
+{{usedin/row|[[Efaunt Hipilium]]|7|Crafting}}
+{{usedin/row|[[Efaunts Broken Ankles]]|5|Crafting}}
+{{usedin/row|[[Efaunt Trunculus]]|15|Crafting}}
+|}
+{{InfoItem
+|type=Monster Drop
+|description=Chaotic Efaunt is probably glad you removed a few of his ribs, for uhh... various reasons.
+|sellprice=1
+|source=[[Chaotic Efaunt]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Efaunt]]|0.2|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Trunculus]]|4|Crafting}}
+|}

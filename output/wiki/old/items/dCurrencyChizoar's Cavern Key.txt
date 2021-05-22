@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Boss Key
-|description=Hold down to add these Iceland Boss Keys to your account.
-|sellprice=50
-}}

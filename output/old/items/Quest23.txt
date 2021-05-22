@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single follower on Instablab, who probably sound like this: 'Oh mah gawd Becky, you would not Buh Leeeeve how lame this game I'm playing is. They have a joke about Insta that tooootally isn't funnay, like seriouslayy!
+|sellprice=1
+|source=[[Rat]], [[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|0.16|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]|1000|Quests}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|300000|Quests}}
+|}

@@ -1,0 +1,15 @@
+{{InfoItem
+|type=Material
+|description=Go get your shovel... And we'll dig a deep hole... To gain a skill level... To gain a skill level...
+|sellprice=25
+|source=[[Smithing#Production items|Anvil Production]]
+}}
+{{ProductionSlot|lvlreq=12|num=3|expcraft=14|time=500}}
+{{usedin/head}}
+{{usedin/row|[[Steel Axe]]|125|Crafting}}
+{{usedin/row|[[Iron Hatchet]]|200|Crafting}}
+{{usedin/row|[[Iron Platelegs]]|300|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
+{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+|}

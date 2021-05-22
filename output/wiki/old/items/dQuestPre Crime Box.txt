@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Quest Item
-|description=The traditional gift given to those about to be victimized. A favorite amongst criminals!
-|sellprice=100
-}}

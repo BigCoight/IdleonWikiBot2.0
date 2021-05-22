@@ -1,8 +1,0 @@
-{{InfoCard
-|title=Chocco Box
-|order=5
-|category=Event
-|effect=+{%_Boost_Food_Effect
-|bonus=1.5
-|reqtier=4
-}}

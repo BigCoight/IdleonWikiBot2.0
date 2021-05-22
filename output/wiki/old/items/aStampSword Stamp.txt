@@ -1,7 +1,0 @@
-{{InfoStamp
-|number=1
-|type=Combat
-|bonus= Base Damage
-|material=Spore Cap
-|sellprice=500
-}}

@@ -1,0 +1,27 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Helmet
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=2
+|sellprice=200
+|source=[[DropTable1]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.006|1.0}}
+{{detdrops|[[Green Mushroom]]|0.00003|1.0}}
+{{detdrops|[[Frog]]|0.000038|1.0}}
+{{detdrops|[[Bored Bean]]|0.000044999999999999996|1.0}}
+{{detdrops|[[Red Mushroom]]|0.000052|1.0}}
+{{detdrops|[[Amarok]]|0.01|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.01|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.01|2.0}}
+{{detdrops|[[Baba Yaga]]|0.01|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.01|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
+|}

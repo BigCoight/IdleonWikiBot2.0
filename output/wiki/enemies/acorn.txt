@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Nutto_Walking.gif
+|attack=40
+|health=4000
+|defence=200
+|speed=5
+|world=Blunder Hills
+|area=Hollowed Trunk
+|exp=190
+|respawn=60
+|defence0=30.84
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Walking Stick|Crystal Carrot}}
+{{DropTable/head}}
+{{DropTable/coin|110|.3}}
+{{DropTable/row|Acorn|0.23|1}}
+{{DropTable/card|0.000050}}
+{{DropTable3c|chance=0.0065}}
+|}

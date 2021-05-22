@@ -1,0 +1,36 @@
+{{InfoItem
+|class=All
+|level=25
+|type=Pants
+|agi=3
+|wis=7
+|misc=5% Chop Efficiency
+|upgrade=3
+|defence=11
+|sellprice=4710
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=48
+|levelreq=12
+|expgiven=400
+|recipefrom=Start
+|resource1=Torn Jeans|quantity1=10
+|resource2=Plank|quantity2=400
+|resource3=Bleach Logs|quantity3=900
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Torn Jeans|10}}
+{{detrecipe|40|Frog Leg|200}}
+{{detrecipe|40|Copper Bar|80}}
+{{detrecipe|40|Thread|150}}
+{{detrecipe|3|Plank|400}}
+{{detrecipe|3|Bleach Logs|900}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Frog Leg|200}}
+{{detrecipe/totals|Copper Bar|80}}
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Bleach Logs|900}}
+|}

@@ -1,0 +1,740 @@
+{{InfoItem
+|class=All
+|level=2
+|type=Fisticuff
+|speed=6
+|weaponpower=4
+|str=2
+|luck=2
+|reach=55
+|sellprice=16
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=0
+|levelreq=1
+|expgiven=3
+|recipefrom=Start
+|resource1=Crimson String|quantity1=1
+|resource2=Cue Tape|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Crimson String|1}}
+{{detrecipe|3|Cue Tape|5}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Crimson String|1}}
+{{detrecipe/totals|Cue Tape|5}}
+|}
+{{InfoItem
+|class=All
+|level=6
+|type=Fisticuff
+|speed=5
+|weaponpower=11
+|str=5
+|luck=5
+|reach=60
+|upgrade=2
+|sellprice=530
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=13
+|levelreq=6
+|expgiven=15
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=20
+|resource2=Oak Logs|quantity2=75
+|resource3=Trusty Nails|quantity3=20
+}}
+{{usedin/head}}
+{{usedin/row|[[Bandage Wraps]]|10|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Oak Logs|75}}
+{{detrecipe|3|Trusty Nails|20}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Oak Logs|75}}
+{{detrecipe/totals|Trusty Nails|20}}
+|}
+{{InfoItem
+|class=Beginner
+|level=25
+|type=Fisticuff
+|speed=7
+|weaponpower=20
+|str=6
+|luck=10
+|reach=65
+|upgrade=3
+|sellprice=50300
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=4
+|levelreq=18
+|expgiven=3300
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Cue Tape|quantity1=5000
+|resource2=The Stingers|quantity2=10
+|resource3=Potty Rolls|quantity3=2000
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Cue Tape|5000}}
+{{detrecipe|3|The Stingers|10}}
+{{detrecipe|40|Copper Bar|200}}
+{{detrecipe|40|Oak Logs|750}}
+{{detrecipe|40|Trusty Nails|200}}
+{{detrecipe|3|Potty Rolls|2000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Oak Logs|750}}
+{{detrecipe/totals|Trusty Nails|200}}
+{{detrecipe/totals|Potty Rolls|2000}}
+|}
+{{InfoItem
+|class=All
+|level=4
+|type=Spear
+|speed=5
+|weaponpower=7
+|str=3
+|wis=1
+|reach=70
+|upgrade=1
+|sellprice=145
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=1
+|levelreq=3
+|expgiven=5
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=25
+|resource2=Copper Bar|quantity2=10
+}}
+{{usedin/head}}
+{{usedin/row|[[Sleek Shank]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Copper Bar|10}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Copper Bar|10}}
+|}
+{{InfoItem
+|class=Warrior
+|level=11
+|type=Spear
+|speed=5
+|weaponpower=14
+|str=7
+|wis=3
+|reach=62
+|upgrade=2
+|sellprice=4625
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=24
+|levelreq=12
+|expgiven=270
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Slime Sludge|quantity1=150
+|resource2=Boring Brick|quantity2=125
+}}
+{{usedin/head}}
+{{usedin/row|[[Hide Shirt]]|1|Crafting}}
+{{usedin/row|[[Royal Bayonet]]|3|Crafting}}
+{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|150}}
+{{detrecipe|3|Boring Brick|125}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Boring Brick|125}}
+|}
+{{InfoItem
+|class=Warrior
+|level=30
+|type=Spear
+|speed=4
+|weaponpower=20
+|str=10
+|wis=2
+|reach=95
+|upgrade=3
+|sellprice=26775
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=5
+|levelreq=17
+|expgiven=1900
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Forest Fibres|quantity1=1250
+|resource2=Steel Axe|quantity2=3
+|resource3=Distilled Water|quantity3=8
+}}
+{{usedin/head}}
+{{usedin/row|[[Enforced Slasher]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Forest Fibres|1250}}
+{{detrecipe|3|Steel Axe|3}}
+{{detrecipe|40|Slime Sludge|450}}
+{{detrecipe|40|Boring Brick|375}}
+{{detrecipe|3|Distilled Water|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Forest Fibres|1250}}
+{{detrecipe/totals|Slime Sludge|450}}
+{{detrecipe/totals|Boring Brick|375}}
+{{detrecipe/totals|Distilled Water|8}}
+|}
+{{InfoItem
+|class=Warrior
+|level=50
+|type=Spear
+|speed=5
+|weaponpower=26
+|str=12
+|wis=4
+|reach=80
+|upgrade=3
+|sellprice=594190
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=25
+|levelreq=23
+|expgiven=10000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Nuget Cake|quantity1=8
+|resource2=Leather Hide|quantity2=9000
+|resource3=Royal Bayonet|quantity3=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Nuget Cake|8}}
+{{detrecipe|3|Leather Hide|9000}}
+{{detrecipe|3|Royal Bayonet|2}}
+{{detrecipe|40|Forest Fibres|2500}}
+{{detrecipe|40|Steel Axe|6}}
+{{detrecipe|80|Slime Sludge|900}}
+{{detrecipe|80|Boring Brick|750}}
+{{detrecipe|40|Distilled Water|16}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Nuget Cake|8}}
+{{detrecipe/totals|Leather Hide|9000}}
+{{detrecipe/totals|Forest Fibres|2500}}
+{{detrecipe/totals|Slime Sludge|900}}
+{{detrecipe/totals|Boring Brick|750}}
+{{detrecipe/totals|Distilled Water|16}}
+|}
+{{InfoItem
+|class=Warrior
+|level=75
+|type=Spear
+|speed=5
+|weaponpower=33
+|str=20
+|misc=5% Crit Damage
+|reach=76
+|upgrade=4
+|sellprice=26000
+}}
+{{InfoItem
+|class=Warrior
+|level=45
+|type=Spear
+|speed=3
+|weaponpower=66
+|str=4
+|agi=2
+|wis=9
+|luck=2
+|reach=100
+|upgrade=2
+|sellprice=120
+}}
+{{InfoItem
+|class=Warrior
+|level=55
+|type=Spear
+|speed=4
+|weaponpower=87
+|str=5
+|agi=15
+|wis=5
+|luck=5
+|reach=84
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=85
+|type=Sword
+|speed=7
+|weaponpower=36
+|wis=6
+|luck=8
+|reach=74
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=95
+|type=Sword
+|speed=7
+|weaponpower=45
+|wis=3
+|luck=2
+|reach=76
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=155
+|type=Sword
+|speed=8
+|weaponpower=55
+|str=10
+|agi=5
+|wis=6
+|reach=78
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=1
+|type=Spear
+|speed=9
+|weaponpower=25
+|str=3
+|luck=1
+|reach=78
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=25
+|type=Spear
+|speed=2
+|weaponpower=40
+|str=2
+|wis=3
+|luck=1
+|reach=90
+|upgrade=2
+|sellprice=223400
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Bow
+|speed=5
+|weaponpower=7
+|str=2
+|agi=3
+|reach=150
+|upgrade=1
+|sellprice=165
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=2
+|levelreq=3
+|expgiven=8
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=25
+|resource2=Thread|quantity2=30
+}}
+{{usedin/head}}
+{{usedin/row|[[Sleek Shank]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Thread|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Thread|30}}
+|}
+{{InfoItem
+|class=Archer
+|level=12
+|type=Bow
+|speed=6
+|weaponpower=12
+|str=4
+|agi=5
+|reach=170
+|upgrade=2
+|sellprice=2250
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=25
+|levelreq=12
+|expgiven=270
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Slime Sludge|quantity1=150
+|resource2=Bleach Logs|quantity2=250
+}}
+{{usedin/head}}
+{{usedin/row|[[Spiked Menace]]|3|Crafting}}
+{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|150}}
+{{detrecipe|3|Bleach Logs|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Bleach Logs|250}}
+|}
+{{InfoItem
+|class=Archer
+|level=18
+|type=Bow
+|speed=2
+|weaponpower=22
+|agi=8
+|reach=225
+|upgrade=2
+|sellprice=5000
+|source=[[Carrotman]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Carrotman]]|0.00004|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills Misc Completion Token]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{InfoItem
+|class=Archer
+|level=30
+|type=Bow
+|speed=6
+|weaponpower=17
+|str=5
+|agi=8
+|luck=3
+|reach=175
+|upgrade=3
+|sellprice=35900
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=6
+|levelreq=17
+|expgiven=1900
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Gold Bar|quantity1=250
+|resource2=Birch Longbow|quantity2=3
+|resource3=Distilled Water|quantity3=8
+}}
+{{usedin/head}}
+{{usedin/row|[[Pharoah Bow]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Bar|250}}
+{{detrecipe|3|Birch Longbow|3}}
+{{detrecipe|40|Slime Sludge|450}}
+{{detrecipe|40|Bleach Logs|750}}
+{{detrecipe|3|Distilled Water|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Slime Sludge|450}}
+{{detrecipe/totals|Bleach Logs|750}}
+{{detrecipe/totals|Distilled Water|8}}
+|}
+{{InfoItem
+|class=Archer
+|level=50
+|type=Bow
+|speed=6
+|weaponpower=23
+|str=1
+|agi=13
+|reach=200
+|upgrade=3
+|sellprice=166120
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=26
+|levelreq=23
+|expgiven=10000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Woodular Circle|quantity1=8
+|resource2=Bloach|quantity2=5200
+|resource3=Spiked Menace|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Woodular Circle|8}}
+{{detrecipe|3|Bloach|5200}}
+{{detrecipe|3|Spiked Menace|2}}
+{{detrecipe|40|Gold Bar|500}}
+{{detrecipe|40|Birch Longbow|6}}
+{{detrecipe|80|Slime Sludge|900}}
+{{detrecipe|80|Bleach Logs|1500}}
+{{detrecipe|40|Distilled Water|16}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Woodular Circle|8}}
+{{detrecipe/totals|Bloach|5200}}
+{{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Slime Sludge|900}}
+{{detrecipe/totals|Bleach Logs|1500}}
+{{detrecipe/totals|Distilled Water|16}}
+|}
+{{InfoItem
+|class=Archer
+|level=75
+|type=Bow
+|speed=6
+|weaponpower=30
+|str=5
+|agi=13
+|reach=200
+|upgrade=4
+|sellprice=15000
+}}
+{{InfoItem
+|class=Archer
+|level=25
+|type=Bow
+|speed=7
+|weaponpower=25
+|str=18
+|agi=15
+|luck=1
+|reach=200
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=4
+|type=Wand
+|speed=5
+|weaponpower=7
+|wis=4
+|reach=115
+|upgrade=1
+|sellprice=135
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=3
+|levelreq=3
+|expgiven=12
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=25
+|resource2=Oak Logs|quantity2=30
+}}
+{{usedin/head}}
+{{usedin/row|[[Sleek Shank]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Oak Logs|30}}
+|}
+{{InfoItem
+|class=Mage
+|level=12
+|type=Wand
+|speed=4
+|weaponpower=16
+|wis=9
+|reach=120
+|upgrade=2
+|sellprice=2200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=26
+|levelreq=12
+|expgiven=270
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Slime Sludge|quantity1=150
+|resource2=Copper Bar|quantity2=100
+}}
+{{usedin/head}}
+{{usedin/row|[[Starlight]]|3|Crafting}}
+{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Slime Sludge|150}}
+{{detrecipe|3|Copper Bar|100}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Copper Bar|100}}
+|}
+{{InfoItem
+|class=Mage
+|level=30
+|type=Wand
+|speed=3
+|weaponpower=23
+|agi=1
+|wis=11
+|reach=160
+|upgrade=3
+|sellprice=47000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=7
+|levelreq=17
+|expgiven=1900
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Chain Link|quantity1=1000
+|resource2=Quarterstaff|quantity2=3
+|resource3=Distilled Water|quantity3=8
+}}
+{{usedin/head}}
+{{usedin/row|[[Crows Nest]]|2|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Chain Link|1000}}
+{{detrecipe|3|Quarterstaff|3}}
+{{detrecipe|40|Slime Sludge|450}}
+{{detrecipe|40|Copper Bar|300}}
+{{detrecipe|3|Distilled Water|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Chain Link|1000}}
+{{detrecipe/totals|Slime Sludge|450}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Distilled Water|8}}
+|}
+{{InfoItem
+|class=Mage
+|level=50
+|type=Wand
+|speed=3
+|weaponpower=30
+|agi=5
+|wis=9
+|misc=5% Movement Speed
+|reach=160
+|upgrade=3
+|sellprice=268000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=27
+|levelreq=23
+|expgiven=10000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Golden Plop|quantity1=8
+|resource2=Fruitfly|quantity2=8500
+|resource3=Starlight|quantity3=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Plop|8}}
+{{detrecipe|3|Fruitfly|8500}}
+{{detrecipe|3|Starlight|2}}
+{{detrecipe|40|Chain Link|2000}}
+{{detrecipe|40|Quarterstaff|6}}
+{{detrecipe|80|Slime Sludge|900}}
+{{detrecipe|80|Copper Bar|600}}
+{{detrecipe|40|Distilled Water|16}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Golden Plop|8}}
+{{detrecipe/totals|Fruitfly|8500}}
+{{detrecipe/totals|Chain Link|2000}}
+{{detrecipe/totals|Slime Sludge|900}}
+{{detrecipe/totals|Copper Bar|600}}
+{{detrecipe/totals|Distilled Water|16}}
+|}
+{{InfoItem
+|class=Mage
+|level=1
+|type=Wand
+|speed=5
+|weaponpower=25
+|wis=15
+|luck=1
+|reach=160
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Mage
+|level=1
+|type=Wand
+|speed=8
+|weaponpower=13
+|agi=5
+|wis=9
+|misc=5% Movement Speed
+|reach=160
+|upgrade=3
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=1
+|type=Spear
+|speed=5
+|weaponpower=690
+|agi=80
+|luck=420
+|reach=70
+|sellprice=40
+}}

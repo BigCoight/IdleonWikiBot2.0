@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Platinum Ore
+|order=0
+|category=Medium Resources
+|effect=+{%_Mining_Away_Gains
+|bonus=2
+|reqtier=10
+|source=[[Mining#Drops|Mining Plat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.00008|1}}
+|}

@@ -1,9 +1,0 @@
-{{InfoItem
-|class=All
-|level=1
-|type=Trophy
-|weaponpower=1
-|misc=100% Player Height
-|sellprice=777
-|notes=Will the real LavaFlame2 please stand up, please stand up, please stand up! 
-}}

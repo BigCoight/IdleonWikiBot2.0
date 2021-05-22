@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Moonmoon
+|order=8
+|category=Yum Yum Desert
+|effect=+{%_Monster_EXP_While_Active
+|bonus=8
+|reqtier=10
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.0001|1}}
+|}

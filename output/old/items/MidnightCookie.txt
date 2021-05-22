@@ -1,0 +1,39 @@
+{{InfoItem
+|type=Boost Food
+|description=Increases Weapon Power by 5. 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|sellprice=300
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[King Doot]], [[DropTable8]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Efaunt]]|0.07|1}}
+{{detdrops|[[Chaotic Efaunt]]|0.07|1}}
+{{detdrops|[[Nightmare Amarok]]|0.07|1}}
+{{detdrops|[[King Doot]]|.2|2}}
+{{detdrops|[[Crystal Crabal]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Tyson]]|0.000009600000000000001|1.0}}
+{{detdrops|[[Moonmoon]]|0.000010500000000000001|1.0}}
+{{detdrops|[[Sand Giant]]|0.0000111|1.0}}
+{{detdrops|[[Snelbie]]|0.0000117|1.0}}
+{{detdrops|[[Sheepie]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Frost Flake]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Sir Stache]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Bloque]]|0.0012000000000000001|1.0}}
+{{detdrops|[[mamooth]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Snowman]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Penguin]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Thermister]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Quenchie]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Cryosnake]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Bop Box]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Neyeptune]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Xylobone]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Bloodbone]]|0.0012000000000000001|1.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.003|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.003|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]]|2|Quests}}
+|}

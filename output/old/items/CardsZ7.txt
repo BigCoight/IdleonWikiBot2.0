@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Chaotic Efaunt
+|order=8
+|category=Bosses
+|effect=+{%_Skill_EXP
+|bonus=3.75
+|reqtier=1.5
+|source=[[Chaotic Efaunt]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Efaunt]]|0.045|1}}
+|}

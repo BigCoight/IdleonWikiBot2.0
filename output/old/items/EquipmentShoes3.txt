@@ -1,0 +1,47 @@
+{{InfoItem
+|class=All
+|level=30
+|type=Shoes
+|str=3
+|agi=3
+|wis=3
+|luck=3
+|upgrade=3
+|defence=8
+|sellprice=95000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=3
+|levelreq=20
+|expgiven=4200
+|recipefrom=Start
+|resource1=Gold Bar|quantity1=600
+|resource2=Iron Boots|quantity2=2
+|resource3=Distilled Water|quantity3=8
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Boots]]|3|Crafting}}
+{{usedin/row|[[Cavern Trekkers]]|1|Crafting}}
+{{usedin/row|[[Angler Boots]]|1|Crafting}}
+{{usedin/row|[[Logger Heels]]|1|Crafting}}
+{{usedin/row|[[Bandito Boots]]|1|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Gold Bar|600}}
+{{detrecipe|3|Iron Boots|2}}
+{{detrecipe|40|Trusty Nails|1000}}
+{{detrecipe|40|Iron Bar|250}}
+{{detrecipe|40|Copper Boots|4}}
+{{detrecipe|80|Copper Bar|800}}
+{{detrecipe|3|Distilled Water|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|800}}
+{{detrecipe/totals|Distilled Water|8}}
+|}

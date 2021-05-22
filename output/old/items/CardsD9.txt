@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Fruitfly
+|order=10
+|category=Medium Resources
+|effect=+{%_Catching_Away_Gains
+|bonus=2
+|reqtier=10
+|source=[[Catching#Drops|Catching Fruitflies]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
+|}

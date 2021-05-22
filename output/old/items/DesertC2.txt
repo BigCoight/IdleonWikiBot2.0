@@ -1,0 +1,14 @@
+{{InfoItem
+|type=Monster Drop
+|description=Weoweoweoweowdingding!
+|sellprice=160
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.165|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+|}

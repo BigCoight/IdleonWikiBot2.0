@@ -1,0 +1,1166 @@
+{{InfoItem
+|type=Teleport
+|description=Hold down on this item to be teleported back to Town.
+|sellprice=50
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Scripticus#What Lies at the Heart of the Forest|What Lies at the Heart of the Forest]], [[Promotheus#I'm Ready, Promotion!|I'm Ready, Promotion!]], [[DropTable2]], [[DropTable3]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=22|vendor=Blunder Hills|stock=15|buyprice=200}}
+{{Vendoritem/tablerow|number=16|vendor=YumYum Grotto|stock=15|buyprice=200}}
+|}
+{{InfoItem
+|type=Fragment
+|description=Hold down on this item to turn 10 Fragments into 1 Talent Point Reset Potion. You'll need 1 open inventory space for this to work.
+|sellprice=200
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Promotheus#Three Right Answers|Three Right Answers]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[SuperDropTable1]], [[SuperDropTable2]], [[Guild Giftbox]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=23|vendor=Blunder Hills|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=12|vendor=Encroaching Forest Villas|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=17|vendor=YumYum Grotto|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=11|vendor=Faraway Piers|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=11|vendor=Tundra Camp|stock=1|buyprice=800}}
+|}
+{{InfoItem
+|type=Reset Potion
+|description=Hold down on this item to respec all your Talent Points! Well, except for the Star tab points, there's a different potion for that.
+|sellprice=1
+|source=[[Hamish#Should We Tell Him?|Should We Tell Him?]], [[Promotheus#Three Right Answers|Three Right Answers]], [[Promotheus#Slovakian Scare|Slovakian Scare]], [[Funguy#Mushroom Munchies|Mushroom Munchies]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[Gem Shop]]
+}}
+{{InfoItem
+|type=Reset Potion
+|description=Hold down on this item to refund all your Star Talent Points! Well, except for the Star tab points, there's a different potion for... no wait, this IS the potion for that!
+|sellprice=1
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|type=Usable
+|description=Hold down on this item to change sub class within your class. It won't let you change classes, you'll need to reach world 3 to do that.
+|sellprice=1
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|type=Usable
+|description=Hold down to reset all post office upgrades made on this character! You'll get all the Box Points refunded of course, no problemo!
+|sellprice=1
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|type=Usable
+|description=Drag this onto any normal hat to turn it into a premium hat! Doing so will wipe all it's stats, and give it {1 all stat and 5 Premium Upgrade Slots, just like any other premium hat.
+|sellprice=1
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|type=Usable
+|description=Drag this onto any Premium Hat to refund all Premium Stones used on it. You must have at least 4 open inventory spaces to use this btw
+|sellprice=1
+|source=[[Gem Shop]]
+}}
+{{InfoItem
+|type=Exp Balloon
+|description=Hold down to gain EXP in the skill that's displayed in the corner of your screen. If you're in a town, you will gain EXP in the town skill. The amount of EXP you get is based on your skill's Lv.
+|sellprice=1
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#Roll of Anger|Roll of Anger]], [[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]], [[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]], [[Sprout#Justice Wears No Clothes|Justice Wears No Clothes]], [[Scripticus#What Lies at the Heart of the Forest|What Lies at the Heart of the Forest]], [[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Picnic_Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Promotheus#The Witcher, but not Really|The Witcher, but not Really]], [[Stiltzcho#No Stone Unturned|No Stone Unturned]], [[Builder_Bird#Restoring Power to the Portal|Restoring Power to the Portal]], [[Papua_Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Papua_Piggea#Stamp Collecting|Stamp Collecting]], [[Bandit_Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]], [[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Cowbo_Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Cowbo_Jones#The Notorious B.O.B|The Notorious B.O.B]], [[Cowbo_Jones#The Worst Trade Deal in History|The Worst Trade Deal in History]], [[DropTable13]], [[Guild Giftbox]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Biggie Hours]]|0.2|1.0}}
+{{detdrops|[[King Doot]]|0.25|1.0}}
+|}
+{{InfoItem
+|type=Exp Balloon
+|description=Hold down to gain EXP in the skill that's displayed in the corner of your screen. If you're in a town, you will gain EXP in the town skill. The amount of EXP you get is based on your skill's Lv.
+|sellprice=1
+|source=[[Tiki_Chief#Blame it on the Goblins|Blame it on the Goblins]], [[Constructor_Crow#Restoring Power to another Portal|Restoring Power to another Portal]], [[Snake_Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Wellington#You Can't Run, but you Can Hide|You Can't Run, but you Can Hide]], [[Dazey#Literally Physics|Literally Physics]], [[Cowbo_Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]], [[Guild Giftbox]]
+}}
+{{InfoItem
+|type=Exp Balloon
+|description=Hold down to gain EXP in the skill that's displayed in the corner of your screen. If you're in a town, you will gain EXP in the town skill. The amount of EXP you get is based on your skill's Lv.
+|sellprice=1
+|source=[[Guild Giftbox]]
+}}
+{{InfoItem
+|type=Quest Item
+|quest=[[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
+|description=It's a registration form for the job of Sanitation Comissioner. One of the requirements is being able to pick up dog poop without immediately throwing the bag on the ground afterward.
+|sellprice=200
+|source=[[Dr Defecaus]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Dr Defecaus]]|1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]
+|description=You gotta embrace the marble! You gotta sniff the marble! You gotta lick the marble! You gotta wash the marble! You gotta BE THE MARBLE!
+|sellprice=800
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=14|vendor=Blunder Hills|stock=4|buyprice=3200}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Town_Marble#Visualizing the Sculpture Within...|Visualizing the Sculpture Within...]]|1|Quests}}
+{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Obol_Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]]
+|description=He was one of the good ones... Alas he is now just a pickle. Good for scaring a cat though!
+|sellprice=20000
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=4|vendor=YumYum Grotto|stock=1|buyprice=80000}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Obol_Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]]|1|Quests}}
+{{usedin/row|[[Vials#Pickle Jar|Pickle Jar]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Certified Swinger, of Pickaxes of course!|Certified Swinger, of Pickaxes of course!]]
+|description=It's proof that you can mine, and it's even signed by Glumlee himself! It says; 'You passed. Good for you. Ugh'
+|sellprice=1
+|source=[[Glumlee#Literally Burning your Money|Literally Burning your Money]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#Certified Swinger, of Pickaxes of course!|Certified Swinger, of Pickaxes of course!]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Builder_Bird#Restoring Power to the Portal|Restoring Power to the Portal]]
+|description=Restores power to the Desert Portal in the Grasslands Town.
+|sellprice=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Builder_Bird#Restoring Power to the Portal|Restoring Power to the Portal]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Constructor_Crow#Restoring Power to another Portal|Restoring Power to another Portal]]
+|description=Restores power to the Glacial Portal in the desert town, allowing travel to World 3!
+|sellprice=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Constructor_Crow#Restoring Power to another Portal|Restoring Power to another Portal]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Restores power to the Galaxy Portal in the glacier town, allowing travel to World 4!
+|sellprice=1
+}}
+{{InfoItem
+|type=Quest Item
+|sellprice=1
+}}
+{{InfoItem
+|type=Quest Item
+|description=It's like a regular peanut, except it's made of stone instead of pea. I bet a Rocklyte would enjoy it!
+|sellprice=5000
+|source=[[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]]
+}}
+{{InfoItem
+|type=Quest Item
+|quest=[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|description=A tiny ketchup bottle, small enough for a Frog to use. Would go great with some Mustard!
+|sellprice=1
+|source=[[Frog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.15|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]|3|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|description=A tiny mustard bottle, small enough for a Frog to never use because mustard is gross. Would go great with some Ketchup!
+|sellprice=1
+|source=[[Frog]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frog]]|0.15|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]|3|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
+|description=It's a fake jar filled with springs! The best way to crack a joke with your friends at their expense!
+|sellprice=1
+|source=[[Picnic_Stowaway#Live-Action Entertainment|Live-Action Entertainment]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
+|description=It says a Giant Wolf-like Golem was seen walking with the gem even deeper into the Jungle. Stiltzcho has purposefully smudged his signature so that it's not readable.
+|sellprice=1
+|source=[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Stiltzcho#No Stone Unturned|No Stone Unturned]]
+|description=Looks like the piece of a golem. It even has 'Made In Golemtopia' engraved on the side of it.
+|sellprice=1
+|source=[[Baby Boa]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.2|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Stiltzcho#No Stone Unturned|No Stone Unturned]]|5|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Filler.
+|sellprice=1
+}}
+{{InfoItem
+|type=Quest Item
+|description=You're playing a game right now with a sub-plot that involves a jar of sand falling in love with a cup of tea. Just thought I'd point that out.
+|sellprice=1000
+}}
+{{InfoItem
+|type=Quest Item
+|description=Solid evidence that it's possible to have a negative crafting level.
+|sellprice=1
+}}
+{{InfoItem
+|type=Quest Item
+|quest=[[Dog_Bone#Why he Die???|Why he Die???]]
+|description=Dog Bone must have died from a blunt strike to the head, surely that's where he got his Ghost-Name from! Pretty proud of myself for solving this, even if Item Descriptions like me aren't capable of feeling pride!
+|sellprice=7
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|.1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dog_Bone#Why he Die???|Why he Die???]]|10|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]]
+|description=An empty box, the perfect place to put all your Hermit Cans, Megalodon teeth, and pure water... that you don't have anymore haha!
+|sellprice=30950
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=40
+|levelreq=18
+|expgiven=1500
+|recipefrom=Start
+|resource1=Hermit Can|quantity1=250
+|resource2=Megalodon Tooth|quantity2=400
+|resource3=Distilled Water|quantity3=4
+}}
+{{usedin/head}}
+{{usedin/row|[[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]]|5|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Hermit Can|250}}
+{{detrecipe|3|Megalodon Tooth|400}}
+{{detrecipe|3|Distilled Water|4}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Hermit Can|250}}
+{{detrecipe/totals|Megalodon Tooth|400}}
+{{detrecipe/totals|Distilled Water|4}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]]
+|description=Wait a minute, these stats have misleading Y-axes and invalid sampling methods! Even then, they show no clear evidence for rats stealing jobs! How could anyone possibly believe this data?
+|sellprice=50
+|source=[[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|.1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]]|50|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
+|description=Sprout's red frisbee! I hope you didn't get shrunken down by a magic apple on your way up, or your stetchy dog brother might laugh at you!
+|sellprice=1
+|source=[[Wood Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wood Mushroom]]|0.00001|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Glumlee#He's Havin' a Bad Day|He's Havin' a Bad Day]]
+|description=The guy who carelessly dropped this microphone is a moron, and that's a fact. Boom, mic drop... ah crap.
+|sellprice=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Glumlee#The Impossible Task|The Impossible Task]]|1|Quests}}
+{{usedin/row|[[Glumlee#He's Havin' a Bad Day|He's Havin' a Bad Day]]|1|Quests}}
+|}
+{{InfoItem
+|type=Monster Drop
+|quest=[[Dog_Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]
+|description=A piece of rock from the big bad wolf himself. Careful, it's overflowing with green plasma energy! No wait, that's just some moss.
+|sellprice=250
+|source=[[Amarok]], [[Chaotic Amarok]], [[Nightmare Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Amarok]]|0.3|1}}
+{{detdrops|[[Chaotic Amarok]]|0.4|3}}
+{{detdrops|[[Nightmare Amarok]]|0.3|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Amarok Helmet]]|20|Crafting}}
+{{usedin/row|[[Amarok Bodyplate]]|10|Crafting}}
+{{usedin/row|[[Amarok Hinds]]|6|Crafting}}
+{{usedin/row|[[Amarok Paws]]|5|Crafting}}
+{{usedin/row|[[Chaotic Amarok Pendant]]|10|Crafting}}
+{{usedin/row|[[Dog_Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]|25|Quests}}
+{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Loominadi#Rhyming is Key!|Rhyming is Key!]]
+|description=A key to a door, but there are still more! Why so many? They were on sale for a penny!
+|sellprice=1
+|source=[[Moonmoon]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Moonmoon]]|0.0001|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Loominadi#Rhyming is Key!|Rhyming is Key!]]|10|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]
+|description=Avast, land lubber! This coin be property of the YumYum Sea Pirates! Ye best be returning it, lest ye want an underwater funeral, arg!
+|sellprice=3500
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Bandit Bob]], [[Bandit Bob]], [[Bandit Bob]], [[Bandit Bob]], [[Bandit Bob]], [[Bandit Bob]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=3|vendor=YumYum Grotto|stock=10000|buyprice=14000}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Golden Axe]]|5|Crafting}}
+{{usedin/row|[[Gilded Net]]|5|Crafting}}
+{{usedin/row|[[Cowbo_Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]]|1|Quests}}
+{{usedin/row|[[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
+|description=That's weird, Bandit Bob's signature looks an awful lot like yours...
+|sellprice=1
+|source=[[Bandit_Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Funguy#Partycrastination|Partycrastination]]
+|description=Yea yea I know, this quest doesn't really make sense. Although, if you reeeaaally think about it, you'll realize that it still makes no sense... so it's best not to think about it!
+|sellprice=1
+|source=[[DropTable2]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.15|1.0}}
+{{detdrops|[[Slime]]|0.0012|1.0}}
+{{detdrops|[[Baby Boa]]|0.0015|1.0}}
+{{detdrops|[[Carrotman]]|0.0018|1.0}}
+{{detdrops|[[Amarok]]|0.3|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.3|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.3|2.0}}
+{{detdrops|[[Baba Yaga]]|0.3|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.3|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Funguy#Partycrastination|Partycrastination]]|250|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single subscriber on the Corporatube Video Platform. It You'sed to be called something else, but no one around here remembers.
+|sellprice=1
+|source=[[Poop]], [[Poop]], [[Poop]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Poop]]|0.23|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Clout Chasin'|Clout Chasin']]|300|Quests}}
+{{usedin/row|[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]|5000|Quests}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|200000|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single follower on Instablab, who probably sound like this: 'Oh mah gawd Becky, you would not Buh Leeeeve how lame this game I'm playing is. They have a joke about Insta that tooootally isn't funnay, like seriouslayy!
+|sellprice=1
+|source=[[Rat]], [[Rat]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Rat]]|0.16|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]|1000|Quests}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|300000|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|description=Represents a single follower on Cloudsound. This isn't a website, it's literally a giant cloud that emits sound that people enjoy following around. Why, what were YOU thinking this was?
+|sellprice=1
+|source=[[DropTable1]], [[DropTable2]], [[DropTable3]], [[DropTable3b]], [[DropTable3c]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.3|3.0}}
+{{detdrops|[[Green Mushroom]]|0.0015|3.0}}
+{{detdrops|[[Frog]]|0.0019|3.0}}
+{{detdrops|[[Bored Bean]]|0.00225|3.0}}
+{{detdrops|[[Red Mushroom]]|0.0026|3.0}}
+{{detdrops|[[Amarok]]|0.5|6.0}}
+{{detdrops|[[Chaotic Amarok]]|0.5|12.0}}
+{{detdrops|[[Nightmare Amarok]]|0.5|6.0}}
+{{detdrops|[[Baba Yaga]]|0.5|6.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.5|3.0}}
+{{detdrops|[[Slime]]|0.002|4.0}}
+{{detdrops|[[Baby Boa]]|0.0025|4.0}}
+{{detdrops|[[Carrotman]]|0.003|4.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.5|4.0}}
+{{detdrops|[[Glublin]]|0.002|6.0}}
+{{detdrops|[[Wode Board]]|0.00225|6.0}}
+{{detdrops|[[Gigafrog]]|0.0025|6.0}}
+{{detdrops|[[Dr Defecaus]]|0.5|12.0}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.5|6.0}}
+{{detdrops|[[Poop]]|0.003|3.0}}
+{{detdrops|[[Rat]]|0.003|3.0}}
+{{detdrops|[[Walking Stick]]|0.00285|3.0}}
+{{detdrops|[[Nutto]]|0.00325|3.0}}
+{{detdrops|[[Wood Mushroom]]|0.0035|3.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|500000|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=It'll mean more to you when you're older... or may when this game is older and I add a use for this item, can't remember which.
+|sellprice=100
+|source=[[Alchemy#Level up Gift|Level up Gift]]
+}}
+{{InfoItem
+|type=Quest Item
+|description=The traditional gift given to those about to be victimized. A favorite amongst criminals!
+|sellprice=100
+}}
+{{InfoItem
+|type=Quest Item
+|description=Mmmmm, these nuts are so yuuuummy!
+|sellprice=100
+|source=[[Goldric#Dress to Impress|Dress to Impress]]
+}}
+{{InfoItem
+|type=Quest Item
+|description=The boss doesn't drop any blue crystals yet, but it will once World 3 is ready!
+|sellprice=100
+}}
+{{InfoItem
+|type=Monster Drop
+|description=A piece of rock from the bigger badder wolf himself. Careful, it's overflowing with poisonous ooze! No wait, that's just plasma energy...
+|sellprice=100
+|source=[[Chaotic Amarok]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Chaotic Amarok]]|0.2|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Chaotic Amarok Pendant]]|4|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]
+|description=It's a painting of a strangely out of place gold bar fellow. They look nervous underneath their outward bravado.
+|sellprice=100
+|source=[[Mimic]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mimic]]|0.1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]|200|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]
+|description=It's a rendition of the Battle of Sassasge, wherein Goldrichius Von Gallbladder waged war on the municipal kingdom of Sterling S. Elvar
+|sellprice=100
+|source=[[Mafioso]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mafioso]]|0.075|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]|200|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]
+|description=The victory portrait of King Goldrichius Sr. after successfully dethroning S.S. Elvar from the East Yum-Yum dunedaries.
+|sellprice=100
+|source=[[Sand Castle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sand Castle]]|0.05|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]|200|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Hold down to open! There's a santa hat in one of these, as well as various holiday exclusive goodies, even cards!
+|sellprice=100
+|source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Giftmas Blobulyte]]|0.05|1}}
+{{detdrops|[[Meaning of Giftmas]]|0.05|1}}
+{{detdrops|[[Ghost]]|0.15|1}}
+|}
+{{InfoItem
+|type=Lava Letter
+|description=Did you like those 20 gems you just picked up? Well you'll LOVE the 500 gems I just added to your account. This paper is worthless btw lol it's just a picture of a gem.
+|sellprice=100
+}}
+{{InfoItem
+|type=Quest Item
+|description=The engraving reads 'Strong enough to cut through 2 pixels of solid metal!'     How strange... theres no joke or pun in that description! It must be a serious hint or something!
+|sellprice=5000
+|source=[[Green Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Green Mushroom]]|0.00001|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills Misc Completion Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+|description='I literally just die over and over, I can't even fight back other than just running into them. Honestly I wish I was dead, but even then I just keep respawning, literally the worst experience ever, 1 star!!'
+|sellprice=100
+|source=[[DropTable6]], [[DropTable7]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.36|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.36|1.0}}
+{{detdrops|[[Sandy Pot]]|0.0018|1.0}}
+{{detdrops|[[Mimic]]|0.00192|1.0}}
+{{detdrops|[[Crabcake]]|0.00216|1.0}}
+{{detdrops|[[Efaunt]]|0.6|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.6|2.0}}
+{{detdrops|[[Biggie Hours]]|0.3|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.6|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.6|1.0}}
+{{detdrops|[[Mafioso]]|0.00288|1.0}}
+{{detdrops|[[Sand Castle]]|0.00315|1.0}}
+{{detdrops|[[Pincermin]]|0.00333|1.0}}
+{{detdrops|[[Mashed Potato]]|0.00351|1.0}}
+{{detdrops|[[Dig Doug]]|0.00288|1.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.9|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.9|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.9|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1000|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+|description='WTF y do my items CONSTANTLY DISAPPEAR I HATE IT!! Complete RUBBISH! 1 STAR UNTIL YOU FIX MY SPECIFIC PROBLEM and even then I'll probably just raise it to 2 stars lol'
+|sellprice=100
+}}
+{{usedin/head}}
+{{usedin/row|[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+|description='This is NOT an Idle game! I actually have to play it sometimes! And why are there actual pictures on the screen, instead of just words and text boxes?? I can't believe I paid 0 dollars for this trash!'
+|sellprice=100
+}}
+{{usedin/head}}
+{{usedin/row|[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1|Quests}}
+|}
+{{InfoItem
+|type=Summon Item
+|description=I remember when I was a kid, I spent an HOUR making a GLASS container look like it was a little friend using googley eyes just like these! If only there was a CONTAINER in this game, so you could do it to!
+|sellprice=430
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=41
+|levelreq=17
+|expgiven=900
+|recipefrom=Start
+|resource1=Woodular Circle|quantity1=2
+|resource2=Distilled Water|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Woodular Circle|2}}
+{{detrecipe|3|Distilled Water|5}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Woodular Circle|2}}
+{{detrecipe/totals|Distilled Water|5}}
+|}
+{{InfoItem
+|type=Summon Item
+|description=Blinks repeatedly when close to the Black Market, where you buy the Ankh used in the ice zone to get the Hedjet... wait, wrong game, sorry!
+|sellprice=29360
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=58
+|levelreq=21
+|expgiven=2500
+|recipefrom=Start
+|resource1=Silver Antique|quantity1=1
+|resource2=Gold Bar|quantity2=80
+|resource3=Ghost|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Efaunt Helmet]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Silver Antique|1}}
+{{detrecipe|3|Gold Bar|80}}
+{{detrecipe|3|Ghost|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Silver Antique|1}}
+{{detrecipe/totals|Gold Bar|80}}
+{{detrecipe/totals|Ghost|1}}
+|}
+{{InfoItem
+|type=Hunk Of Junk
+|description=An old lady pawned it off to the bazaar claiming it was some 'ancient artifact of the pharoah King Doot'. It's probably just scrap metal, doubt it's even real silver. Would make for a decent Necklace!
+|sellprice=20000
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=8|vendor=Encroaching Forest Villas|stock=1|buyprice=80000}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dootjat Eye]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Hunk Of Junk
+|description=Hold down to open! Contains a random cool-kid item, like gems, exp balloons, or even time candy! Also, 1 in every 500 gifts contains the 'Ultra Unboxer' Trophy!
+|sellprice=1
+}}
+{{InfoItem
+|type=Event Item
+|quest=[[Loveulyte#Heart Hogger|Heart Hogger]]
+|description=Hold down on 5 letters to spawn a Valentslime, or turn these in each day to the Loveulyte for a reward!
+|sellprice=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Loveulyte#Heart Hogger|Heart Hogger]]|25|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Hold down to open this box of meatballs... err chestnuts... err chocolate! There's a Giant Bow Hat in one of these, as well as various holiday exclusive goodies, even cards!
+|sellprice=100
+|source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Loveulyte#Heartbreaker|Heartbreaker]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Loveulyte]]|0.05|1}}
+{{detdrops|[[Chocco Box]]|0.05|1}}
+{{detdrops|[[Valentslime]]|0.20|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Dazey#Literally Physics|Literally Physics]]
+|description=Curse you flowey! I trusted you, I accepted your pellets of friendship, and then you had to go and throw it all away! And now here you are, trying to take over yet another video game... well I NOT GONNA LE-- oh wait, these are just normal flowers
+|sellprice=100
+|source=[[Baba Yaga]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Baba Yaga]]|1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|5|Quests}}
+{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|5|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Hold down to open for a random reward! Or, hold down for a LONG time to open them faster... yea, dreams do come true #
+|sellprice=100
+|source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]], [[Shell Snake]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Egggulyte]]|0.05|1}}
+{{detdrops|[[Egg Capsule]]|0.05|1}}
+{{detdrops|[[Floofie]]|0.1|1}}
+{{detdrops|[[Shell Snake]]|0.1|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Hold down to summon a friendly easter monster. But be careful, unlike real life where all friends are genuine, these monsters are just pretending to be your friend for personal gain!
+|sellprice=100
+}}
+{{InfoItem
+|type=Quest Item
+|description=Hold down to summon a mini boss or a green mushroom. Mostly the second thing.
+|sellprice=100
+|source=[[Egg Capsule]], [[Floofie]], [[Shell Snake]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Egg Capsule]]|0.13|1}}
+{{detdrops|[[Floofie]]|0.02|1}}
+{{detdrops|[[Shell Snake]]|0.02|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Picnic_Stowaway#King of Food|King of Food]]
+|description=Proof that you were able to feed a blobulyte all day. If you bring 30 of these to the Picnic Stowaway, you'll get a Trophy!
+|sellprice=1
+|source=[[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Hard Blunderhills NPC Token]]|1|Crafting}}
+{{usedin/row|[[Picnic_Stowaway#King of Food|King of Food]]|30|Quests}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
+|description=Made up of all the tokens that you collected after completing an NPC's entire questline.
+|sellprice=23301
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=56
+|levelreq=1
+|expgiven=2
+|recipefrom=Start
+|resource1=Easy Blunderhills NPC Token|quantity1=1
+|resource2=Med Blunderhills NPC Token|quantity2=1
+|resource3=Hard Blunderhills NPC Token|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Easy Blunderhills NPC Token|1}}
+{{detrecipe|40|Woodsman Token|1}}
+{{detrecipe|40|Glumlee Token|1}}
+{{detrecipe|40|Stiltzcho Token|1}}
+{{detrecipe|40|Funguy Token|1}}
+{{detrecipe|3|Med Blunderhills NPC Token|1}}
+{{detrecipe|40|Krunk Token|1}}
+{{detrecipe|40|Tiki Chief Token|1}}
+{{detrecipe|40|Dog Bone Token|1}}
+{{detrecipe|40|Papua Piggea Token|1}}
+{{detrecipe|3|Hard Blunderhills NPC Token|1}}
+{{detrecipe|40|Picnic Token|1}}
+{{detrecipe|40|TP Pete Token|1}}
+{{detrecipe|40|Sproutinald Token|1}}
+{{detrecipe|40|Dazey Token|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Woodsman Token|1}}
+{{detrecipe/totals|Glumlee Token|1}}
+{{detrecipe/totals|Stiltzcho Token|1}}
+{{detrecipe/totals|Funguy Token|1}}
+{{detrecipe/totals|Krunk Token|1}}
+{{detrecipe/totals|Tiki Chief Token|1}}
+{{detrecipe/totals|Dog Bone Token|1}}
+{{detrecipe/totals|Papua Piggea Token|1}}
+{{detrecipe/totals|Picnic Token|1}}
+{{detrecipe/totals|TP Pete Token|1}}
+{{detrecipe/totals|Sproutinald Token|1}}
+{{detrecipe/totals|Dazey Token|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
+|description=Proof that you mastered the art of the Mining, Smithing, and  Choppin skills.
+|sellprice=545720
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=57
+|levelreq=40
+|expgiven=250000
+|recipefrom=Start
+|resource1=Platinum Bar|quantity1=1000
+|resource2=Veiny Logs|quantity2=2000
+|resource3=Amarok Helmet|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Platinum Bar|1000}}
+{{detrecipe|3|Veiny Logs|2000}}
+{{detrecipe|3|Amarok Helmet|1}}
+{{detrecipe|40|Amarok Slab|20}}
+{{detrecipe|40|Forest Fibres|3000}}
+{{detrecipe|40|Woodular Circle|8}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Platinum Bar|1000}}
+{{detrecipe/totals|Veiny Logs|2000}}
+{{detrecipe/totals|Amarok Slab|20}}
+{{detrecipe/totals|Forest Fibres|3000}}
+{{detrecipe/totals|Woodular Circle|8}}
+|}
+{{InfoItem
+|type=Quest Item
+|quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
+|description=Proof that you collected all the cards and completed all the tasks associated with Blunder Hills.
+|sellprice=81000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=58
+|levelreq=1
+|expgiven=2
+|recipefrom=Start
+|resource1=Golden Peanut|quantity1=30
+|resource2=Golden Plop|quantity2=12
+|resource3=Bolt Cutters|quantity3=1
+|resource4=Carrot Launcher|quantity4=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Golden Peanut|30}}
+{{detrecipe|40|Peanut|3000}}
+{{detrecipe|80|Hot Dog|6000}}
+{{detrecipe|80|Copper Ore|3000}}
+{{detrecipe|80|Bleach Logs|3000}}
+{{detrecipe|40|Gold Bar|1500}}
+{{detrecipe|3|Golden Plop|12}}
+{{detrecipe|3|Bolt Cutters|1}}
+{{detrecipe|3|Carrot Launcher|2}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Hot Dog|6000}}
+{{detrecipe/totals|Copper Ore|3000}}
+{{detrecipe/totals|Bleach Logs|3000}}
+{{detrecipe/totals|Golden Plop|12}}
+{{detrecipe/totals|Bolt Cutters|1}}
+{{detrecipe/totals|Carrot Launcher|2}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Blunder NPCs whose quests are easiest to complete.
+|sellprice=3600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=60
+|levelreq=1
+|expgiven=2
+|recipefrom=Start
+|resource1=Woodsman Token|quantity1=1
+|resource2=Glumlee Token|quantity2=1
+|resource3=Stiltzcho Token|quantity3=1
+|resource4=Funguy Token|quantity4=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Woodsman Token|1}}
+{{detrecipe|3|Glumlee Token|1}}
+{{detrecipe|3|Stiltzcho Token|1}}
+{{detrecipe|3|Funguy Token|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Woodsman Token|1}}
+{{detrecipe/totals|Glumlee Token|1}}
+{{detrecipe/totals|Stiltzcho Token|1}}
+{{detrecipe/totals|Funguy Token|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Blunder NPCs whose quests are tough to complete.
+|sellprice=7700
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=61
+|levelreq=1
+|expgiven=5
+|recipefrom=Start
+|resource1=Krunk Token|quantity1=1
+|resource2=Tiki Chief Token|quantity2=1
+|resource3=Dog Bone Token|quantity3=1
+|resource4=Papua Piggea Token|quantity4=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Krunk Token|1}}
+{{detrecipe|3|Tiki Chief Token|1}}
+{{detrecipe|3|Dog Bone Token|1}}
+{{detrecipe|3|Papua Piggea Token|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Krunk Token|1}}
+{{detrecipe/totals|Tiki Chief Token|1}}
+{{detrecipe/totals|Dog Bone Token|1}}
+{{detrecipe/totals|Papua Piggea Token|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Made up of the tokens from all of the Blunder NPCs whose quests are hardest to complete.
+|sellprice=12001
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=62
+|levelreq=1
+|expgiven=2
+|recipefrom=Start
+|resource1=Picnic Token|quantity1=1
+|resource2=TP Pete Token|quantity2=1
+|resource3=Sproutinald Token|quantity3=1
+|resource4=Dazey Token|quantity4=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Picnic Token|1}}
+{{detrecipe|3|TP Pete Token|1}}
+{{detrecipe|3|Sproutinald Token|1}}
+{{detrecipe|3|Dazey Token|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Picnic Token|1}}
+{{detrecipe/totals|TP Pete Token|1}}
+{{detrecipe/totals|Sproutinald Token|1}}
+{{detrecipe/totals|Dazey Token|1}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Stiltzcho's main quests!
+|sellprice=700
+|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of the Woodsman's quests!
+|sellprice=700
+|source=[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Glumlee's quests!
+|sellprice=700
+|source=[[Glumlee#He's Havin' a Bad Day|He's Havin' a Bad Day]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Papua Piggea's quests!
+|sellprice=700
+|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Funguy's quests!
+|sellprice=1500
+|source=[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Krunk's quests!
+|sellprice=1500
+}}
+{{usedin/head}}
+{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Tiki Chief's quests!
+|sellprice=1500
+|source=[[Tiki_Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Sproutinald's quests!
+|sellprice=4000
+|source=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Hard Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Dog Bone's quests!
+|sellprice=4000
+|source=[[Dog_Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Med Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Dazey's quests!
+|sellprice=4000
+|source=[[Dazey#Literally Physics|Literally Physics]]
+}}
+{{usedin/head}}
+{{usedin/row|[[Hard Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of TP Pete's quests!
+|sellprice=4000
+}}
+{{usedin/head}}
+{{usedin/row|[[Hard Blunderhills NPC Token]]|1|Crafting}}
+|}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 2nd tab of craftable items for all anvils!
+|sellprice=35500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=35
+|levelreq=15
+|expgiven=1500
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=500
+|resource2=Chain Link|quantity2=200
+|resource3=Forest Fibres|quantity3=400
+|resource4=Bullfrog Horn|quantity4=250
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|500}}
+{{detrecipe|3|Chain Link|200}}
+{{detrecipe|3|Forest Fibres|400}}
+{{detrecipe|3|Bullfrog Horn|250}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Chain Link|200}}
+{{detrecipe/totals|Forest Fibres|400}}
+{{detrecipe/totals|Bullfrog Horn|250}}
+|}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 3rd tab of craftable items for all anvils!
+|sellprice=1185500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=39
+|levelreq=35
+|expgiven=135000
+|recipefrom=Start
+|resource1=Platinum Bar|quantity1=2000
+|resource2=Not Yet|quantity2=2000
+|resource3=Fruitfly|quantity3=2000
+|resource4=High Steaks|quantity4=1500
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Platinum Bar|2000}}
+{{detrecipe|3|Not Yet|2000}}
+{{detrecipe|3|Fruitfly|2000}}
+{{detrecipe|3|High Steaks|1500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Platinum Bar|2000}}
+{{detrecipe/totals|Not Yet|2000}}
+{{detrecipe/totals|Fruitfly|2000}}
+{{detrecipe/totals|High Steaks|1500}}
+|}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 4th tab of craftable items for all anvils!
+|sellprice=1
+}}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 5th tab of craftable items for all anvils!
+|sellprice=1
+}}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 6th tab of craftable items for all anvils!
+|sellprice=1
+}}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 7th tab of craftable items for all anvils!
+|sellprice=1
+}}
+{{InfoItem
+|type=Anvil Expansion
+|description=Unlocks the 8th tab of craftable items for all anvils!
+|sellprice=1
+}}
+{{InfoItem
+|type=Quest Item
+|quest=[[Secretkeeper#The Few, the Proud|The Few, the Proud]]
+|description=It's almost as if the very essence of wonder and mystery has been infused into this little stone. Keep this secret to yourself, don't tell the noobs about it!
+|sellprice=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Secretkeeper#The Few, the Proud|The Few, the Proud]]|1|Quests}}
+|}

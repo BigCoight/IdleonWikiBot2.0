@@ -1,0 +1,717 @@
+{{InfoItem
+|class=All
+|level=2
+|type=Shirt
+|str=2
+|agi=1
+|upgrade=1
+|defence=3
+|sellprice=60
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=5
+|levelreq=1
+|expgiven=5
+|recipefrom=Start
+|resource1=Spore Cap|quantity1=10
+|resource2=Oak Logs|quantity2=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Blue Tee]]|2|Crafting}}
+{{usedin/row|[[Purple Tee]]|3|Crafting}}
+{{usedin/row|[[Green Tee]]|3|Crafting}}
+{{usedin/row|[[Black Tee]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|10}}
+{{detrecipe|3|Oak Logs|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|10}}
+{{detrecipe/totals|Oak Logs|15}}
+|}
+{{InfoItem
+|class=All
+|level=4
+|type=Shirt
+|agi=1
+|wis=2
+|upgrade=2
+|defence=3
+|sellprice=295
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=36
+|levelreq=3
+|expgiven=15
+|recipefrom=Scripticus
+|resource1=Spore Cap|quantity1=25
+|resource2=Oak Logs|quantity2=50
+|resource3=Orange Tee|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Black Tee]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|50}}
+{{detrecipe|3|Orange Tee|2}}
+{{detrecipe|40|Spore Cap|20}}
+{{detrecipe|40|Oak Logs|30}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|45}}
+{{detrecipe/totals|Oak Logs|80}}
+|}
+{{InfoItem
+|class=All
+|level=1
+|type=Shirt
+|agi=3
+|upgrade=1
+|defence=3
+|sellprice=125
+|source=[[Green Mushroom]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Green Mushroom]]|0.00035|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunderbag]]|2|Crafting}}
+{{usedin/row|[[Green Tee]]|2|Crafting}}
+|}
+{{InfoItem
+|class=All
+|level=1
+|type=Shirt
+|upgrade=5
+|defence=5
+|sellprice=6105
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=55
+|levelreq=9
+|expgiven=120
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Orange Tee|quantity1=5
+|resource2=Blue Tee|quantity2=3
+|resource3=Purple Tee|quantity3=3
+|resource4=Green Tee|quantity4=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Orange Tee|5}}
+{{detrecipe|40|Spore Cap|50}}
+{{detrecipe|40|Oak Logs|75}}
+{{detrecipe|3|Blue Tee|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Oak Logs|150}}
+{{detrecipe|40|Orange Tee|6}}
+{{detrecipe|80|Spore Cap|60}}
+{{detrecipe|80|Oak Logs|90}}
+{{detrecipe|3|Purple Tee|3}}
+{{detrecipe|40|Red Spore Cap|120}}
+{{detrecipe|40|Bleach Logs|300}}
+{{detrecipe|40|Orange Tee|9}}
+{{detrecipe|80|Spore Cap|90}}
+{{detrecipe|80|Oak Logs|135}}
+{{detrecipe|3|Green Tee|3}}
+{{detrecipe|40|Thread|450}}
+{{detrecipe|40|Spore Tee|6}}
+{{detrecipe|40|Orange Tee|9}}
+{{detrecipe|80|Spore Cap|90}}
+{{detrecipe|80|Oak Logs|135}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Spore Cap|365}}
+{{detrecipe/totals|Oak Logs|585}}
+{{detrecipe/totals|Red Spore Cap|120}}
+{{detrecipe/totals|Bleach Logs|300}}
+{{detrecipe/totals|Thread|450}}
+{{detrecipe/totals|Spore Tee|6}}
+|}
+{{InfoItem
+|class=Archer
+|level=15
+|type=Shirt
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Shirt
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Shirt
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Beginner
+|level=15
+|type=Shirt
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=15
+|type=Shirt
+|weaponpower=5
+|str=3
+|agi=3
+|luck=3
+|upgrade=2
+|sellprice=200
+}}
+{{InfoItem
+|class=Mage
+|level=15
+|type=Shirt
+|wis=8
+|luck=3
+|upgrade=2
+|sellprice=200
+|source=[[DropTable2]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.005|1.0}}
+{{detdrops|[[Slime]]|0.00004|1.0}}
+{{detdrops|[[Baby Boa]]|0.00005|1.0}}
+{{detdrops|[[Carrotman]]|0.00006|1.0}}
+{{detdrops|[[Amarok]]|0.01|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.01|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.01|2.0}}
+{{detdrops|[[Baba Yaga]]|0.01|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.01|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Furled Robes]]|4|Crafting}}
+|}
+{{InfoItem
+|class=Archer
+|level=18
+|type=Shirt
+|str=5
+|agi=9
+|upgrade=3
+|defence=13
+|sellprice=26000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=44
+|levelreq=14
+|expgiven=800
+|recipefrom=Funguy
+|resource1=Goblin Ear|quantity1=500
+|resource2=Iron Bar|quantity2=500
+}}
+{{usedin/head}}
+{{usedin/row|[[Feral Leathering]]|4|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Goblin Ear|500}}
+{{detrecipe|3|Iron Bar|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goblin Ear|500}}
+{{detrecipe/totals|Iron Bar|500}}
+|}
+{{InfoItem
+|class=All
+|level=8
+|type=Shirt
+|str=2
+|agi=2
+|wis=2
+|upgrade=2
+|defence=7
+|sellprice=2255
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=17
+|levelreq=7
+|expgiven=55
+|recipefrom=Start
+|resource1=Copper Bar|quantity1=65
+|resource2=Trusty Nails|quantity2=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Hide Shirt]]|2|Crafting}}
+{{usedin/row|[[Gold Platebody]]|5|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Copper Bar|65}}
+{{detrecipe|3|Trusty Nails|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Copper Bar|65}}
+{{detrecipe/totals|Trusty Nails|150}}
+|}
+{{InfoItem
+|class=All
+|level=15
+|type=Shirt
+|str=3
+|agi=3
+|wis=3
+|misc=50
+|upgrade=2
+|defence=12
+|sellprice=11200
+|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=33
+|levelreq=13
+|expgiven=600
+|recipefrom=Start
+|resource1=Iron Bar|quantity1=200
+|resource2=Jungle Logs|quantity2=800
+}}
+{{usedin/head}}
+{{usedin/row|[[Platinum Platbody]]|5|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Iron Bar|200}}
+{{detrecipe|3|Jungle Logs|800}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Iron Bar|200}}
+{{detrecipe/totals|Jungle Logs|800}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|type=Shirt
+|str=5
+|agi=5
+|wis=5
+|upgrade=3
+|defence=18
+|sellprice=141525
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=1
+|levelreq=16
+|expgiven=1400
+|recipefrom=Start
+|resource1=Pocket Sand|quantity1=1500
+|resource2=Copper Platebody|quantity2=5
+|resource3=Gold Bar|quantity3=350
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Pocket Sand|1500}}
+{{detrecipe|3|Copper Platebody|5}}
+{{detrecipe|40|Copper Bar|325}}
+{{detrecipe|40|Trusty Nails|750}}
+{{detrecipe|3|Gold Bar|350}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Pocket Sand|1500}}
+{{detrecipe/totals|Copper Bar|325}}
+{{detrecipe/totals|Trusty Nails|750}}
+{{detrecipe/totals|Gold Bar|350}}
+|}
+{{InfoItem
+|class=All
+|level=35
+|type=Shirt
+|str=3
+|agi=3
+|wis=3
+|upgrade=5
+|defence=22
+|sellprice=54500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=65
+|levelreq=21
+|expgiven=3000
+|recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
+|resource1=Amarok Slab|quantity1=10
+|resource2=Iron Bar|quantity2=500
+|resource3=Corn Kernels|quantity3=1200
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Amarok Slab|10}}
+{{detrecipe|3|Iron Bar|500}}
+{{detrecipe|3|Corn Kernels|1200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Amarok Slab|10}}
+{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Corn Kernels|1200}}
+|}
+{{InfoItem
+|class=All
+|level=50
+|type=Shirt
+|str=8
+|agi=8
+|wis=8
+|upgrade=3
+|defence=25
+|sellprice=1181000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=21
+|levelreq=30
+|expgiven=36000
+|recipefrom=Start
+|resource1=Potato Remains|quantity1=5000
+|resource2=Iron Platebody|quantity2=5
+|resource3=Platinum Bar|quantity3=1000
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Potato Remains|5000}}
+{{detrecipe|3|Iron Platebody|5}}
+{{detrecipe|40|Iron Bar|1000}}
+{{detrecipe|40|Jungle Logs|4000}}
+{{detrecipe|3|Platinum Bar|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Potato Remains|5000}}
+{{detrecipe/totals|Iron Bar|1000}}
+{{detrecipe/totals|Jungle Logs|4000}}
+{{detrecipe/totals|Platinum Bar|1000}}
+|}
+{{InfoItem
+|class=All
+|level=70
+|type=Shirt
+|str=10
+|agi=10
+|wis=10
+|upgrade=4
+|defence=35
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=80
+|type=Shirt
+|str=5
+|agi=5
+|wis=5
+|misc=4% Mastery
+|upgrade=6
+|defence=30
+|sellprice=4260
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=61
+|levelreq=39
+|expgiven=50000
+|recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
+|resource1=Ripped Tunic|quantity1=10
+|resource2=Midnight Cookie|quantity2=10
+|resource3=Distilled Water|quantity3=25
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Ripped Tunic|10}}
+{{detrecipe|3|Midnight Cookie|10}}
+{{detrecipe|3|Distilled Water|25}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Ripped Tunic|10}}
+{{detrecipe/totals|Midnight Cookie|10}}
+{{detrecipe/totals|Distilled Water|25}}
+|}
+{{InfoItem
+|class=All
+|level=90
+|type=Shirt
+|str=10
+|agi=10
+|wis=10
+|upgrade=4
+|defence=35
+|sellprice=200
+}}
+{{InfoItem
+|class=All
+|level=25
+|type=Shirt
+|weaponpower=2
+|agi=8
+|upgrade=4
+|defence=1
+|sellprice=200
+|source=[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]
+}}
+{{InfoItem
+|class=All
+|level=10
+|type=Shirt
+|str=6
+|upgrade=3
+|defence=4
+|sellprice=200
+|source=[[Wode Board]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Wode Board]]|0.00001|1}}
+|}
+{{InfoItem
+|class=Warrior
+|level=15
+|type=Shirt
+|str=6
+|upgrade=3
+|defence=4
+|sellprice=10110
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=45
+|levelreq=14
+|expgiven=600
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Bleach Logs|quantity1=325
+|resource2=Copper Platebody|quantity2=2
+|resource3=Steel Axe|quantity3=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Studded Hide]]|4|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Bleach Logs|325}}
+{{detrecipe|3|Copper Platebody|2}}
+{{detrecipe|40|Copper Bar|130}}
+{{detrecipe|40|Trusty Nails|300}}
+{{detrecipe|3|Steel Axe|1}}
+{{detrecipe|40|Slime Sludge|150}}
+{{detrecipe|40|Boring Brick|125}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bleach Logs|325}}
+{{detrecipe/totals|Copper Bar|130}}
+{{detrecipe/totals|Trusty Nails|300}}
+{{detrecipe/totals|Slime Sludge|150}}
+{{detrecipe/totals|Boring Brick|125}}
+|}
+{{InfoItem
+|class=All
+|level=2
+|type=Shirt
+|luck=3
+|upgrade=1
+|defence=4
+|sellprice=880
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=54
+|levelreq=7
+|expgiven=60
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Thread|quantity1=150
+|resource2=Spore Tee|quantity2=2
+|resource3=Orange Tee|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Black Tee]]|3|Crafting}}
+{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Thread|150}}
+{{detrecipe|3|Spore Tee|2}}
+{{detrecipe|3|Orange Tee|3}}
+{{detrecipe|40|Spore Cap|30}}
+{{detrecipe|40|Oak Logs|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Spore Tee|2}}
+{{detrecipe/totals|Spore Cap|30}}
+{{detrecipe/totals|Oak Logs|45}}
+|}
+{{InfoItem
+|class=All
+|level=2
+|type=Shirt
+|wis=3
+|upgrade=1
+|defence=3
+|sellprice=760
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=53
+|levelreq=5
+|expgiven=30
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Red Spore Cap|quantity1=40
+|resource2=Bleach Logs|quantity2=100
+|resource3=Orange Tee|quantity3=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Black Tee]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Red Spore Cap|40}}
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Orange Tee|3}}
+{{detrecipe|40|Spore Cap|30}}
+{{detrecipe|40|Oak Logs|45}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Red Spore Cap|40}}
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Spore Cap|30}}
+{{detrecipe/totals|Oak Logs|45}}
+|}
+{{InfoItem
+|class=Warrior
+|level=40
+|type=Shirt
+|str=10
+|wis=4
+|upgrade=3
+|defence=22
+|sellprice=40520
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=49
+|levelreq=26
+|expgiven=14700
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Hide Shirt|quantity1=4
+|resource2=Megalodon Tooth|quantity2=4000
+|resource3=Nuget Cake|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Hide Shirt|4}}
+{{detrecipe|40|Bleach Logs|1300}}
+{{detrecipe|40|Copper Platebody|8}}
+{{detrecipe|80|Copper Bar|520}}
+{{detrecipe|80|Trusty Nails|1200}}
+{{detrecipe|40|Steel Axe|4}}
+{{detrecipe|80|Slime Sludge|600}}
+{{detrecipe|80|Boring Brick|500}}
+{{detrecipe|3|Megalodon Tooth|4000}}
+{{detrecipe|3|Nuget Cake|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bleach Logs|1300}}
+{{detrecipe/totals|Copper Bar|520}}
+{{detrecipe/totals|Trusty Nails|1200}}
+{{detrecipe/totals|Slime Sludge|600}}
+{{detrecipe/totals|Boring Brick|500}}
+{{detrecipe/totals|Nuget Cake|1}}
+|}
+{{InfoItem
+|class=Mage
+|level=40
+|type=Shirt
+|agi=1
+|wis=13
+|upgrade=3
+|defence=14
+|sellprice=90880
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=51
+|levelreq=26
+|expgiven=14700
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Tattered Cloth|quantity1=4
+|resource2=Leather Hide|quantity2=1500
+|resource3=Nuget Cake|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Tattered Cloth|4}}
+{{detrecipe|3|Leather Hide|1500}}
+{{detrecipe|3|Nuget Cake|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tattered Cloth|4}}
+{{detrecipe/totals|Leather Hide|1500}}
+{{detrecipe/totals|Nuget Cake|1}}
+|}
+{{InfoItem
+|class=Archer
+|level=40
+|type=Shirt
+|str=2
+|agi=12
+|upgrade=3
+|defence=18
+|sellprice=104080
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=50
+|levelreq=26
+|expgiven=19000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Fur Shirt|quantity1=4
+|resource2=Stick|quantity2=3000
+|resource3=Nuget Cake|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Fur Shirt|4}}
+{{detrecipe|40|Goblin Ear|2000}}
+{{detrecipe|40|Iron Bar|2000}}
+{{detrecipe|3|Stick|3000}}
+{{detrecipe|3|Nuget Cake|1}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Goblin Ear|2000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Nuget Cake|1}}
+|}

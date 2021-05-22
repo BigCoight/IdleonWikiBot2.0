@@ -1,0 +1,152 @@
+{{InfoItem
+|type=Log
+|sellprice=2
+|source=Choppin, [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|40}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Gnarled Wand]]|30|Crafting}}
+{{usedin/row|[[Orange Tee]]|15|Crafting}}
+{{usedin/row|[[Copper Chopper]]|30|Crafting}}
+{{usedin/row|[[Cramped Choppin Pouch]]|150|Crafting}}
+{{usedin/row|[[Leather Cap]]|45|Crafting}}
+{{usedin/row|[[The Stingers]]|75|Crafting}}
+{{usedin/row|[[Cramped Food Pouch]]|60|Crafting}}
+{{usedin/row|[[Top Hat]]|200|Crafting}}
+{{usedin/row|[[Blue Tee]]|50|Crafting}}
+{{usedin/row|[[Woodsman#A noob's first swing|A noob's first swing]]|10|Quests}}
+{{usedin/row|[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]|100|Quests}}
+{{usedin/row|[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]|1000|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Roid Ragin|Roid Ragin]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Sippy Splinters|Sippy Splinters]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=3
+|source=Choppin, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Copper Platelegs]]|200|Crafting}}
+{{usedin/row|[[Birch Longbow]]|250|Crafting}}
+{{usedin/row|[[Small Choppin Pouch]]|850|Crafting}}
+{{usedin/row|[[Purple Tupacband]]|100|Crafting}}
+{{usedin/row|[[Hide Shirt]]|325|Crafting}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|900|Crafting}}
+{{usedin/row|[[Peanut]]|1|Crafting}}
+{{usedin/row|[[Purple Tee]]|100|Crafting}}
+{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}
+{{usedin/row|[[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|1500|Quests}}
+{{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|3|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Big Meaty Claws|Big Meaty Claws]]|Lots|Alchemy}}
+{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=6
+|source=Choppin, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Iron Hatchet]]|370|Crafting}}
+{{usedin/row|[[Iron Platebody]]|800|Crafting}}
+{{usedin/row|[[Saucy Logfries]]|6|Crafting}}
+{{usedin/row|[[Goo Galoshes]]|1000|Crafting}}
+{{usedin/row|[[Copper Netted Net]]|500|Crafting}}
+{{usedin/row|[[Logger Heels]]|1600|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Power Cauldron#Hearty Diggy|Hearty Diggy]]|Lots|Alchemy}}
+{{usedin/row|[[Power Cauldron#Bappity Boopity|Bappity Boopity]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Jungle Juice|Jungle Juice]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=10
+|source=Choppin
+}}
+{{usedin/head}}
+{{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
+{{usedin/row|[[Amarok Helmet]]|3000|Crafting}}
+{{usedin/row|[[Reinforced Net]]|800|Crafting}}
+{{usedin/row|[[Royal Bayonet]]|1250|Crafting}}
+{{usedin/row|[[Average Choppin Pouch]]|1800|Crafting}}
+{{usedin/row|[[Bullet]]|10|Crafting}}
+{{usedin/row|[[Logger Heels]]|1000|Crafting}}
+{{usedin/row|[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]|1|Quests}}
+{{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|1000|Quests}}
+{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1000|Quests}}
+{{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=15
+|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Bandage Wraps]]|2000|Crafting}}
+{{usedin/row|[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]|10000|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#Cookin Roadkill|Cookin Roadkill]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Tea With Pea|Tea With Pea]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=20
+|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.5|100}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Platinum Boots]]|8000|Crafting}}
+{{usedin/row|[[Plat Hatchet]]|8000|Crafting}}
+{{usedin/row|[[Sizable Choppin Pouch]]|6750|Crafting}}
+{{usedin/row|[[Sleek Coif]]|2000|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=25
+|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Blunder Skills Completion Token]]|2000|Crafting}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+|}
+{{InfoItem
+|type=Log
+|sellprice=200
+|source=Choppin
+}}
+{{InfoItem
+|type=Log
+|sellprice=5000
+|source=Choppin
+}}
+{{InfoItem
+|type=Log
+|sellprice=50
+|source=Choppin
+}}

@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Red Mushroom_Walking.gif
+|attack=30
+|health=1000
+|defence=25
+|speed=4
+|world=Blunder Hills
+|area=Birch Enclave
+|exp=47
+|respawn=45
+|defence0=21.54
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Green Mushroom|Frog}}
+{{DropTable/head}}
+{{DropTable/coin|6|0.5}}
+{{DropTable/row|Red Spore Cap|0.20|1}}
+{{DropTable/card|0.0001}}
+{{DropTable1|chance=.0052}}
+|}

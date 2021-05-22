@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Glacier Quartz
+|order=15
+|category=Frostfire Tyundra
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=10
+|source=[[Crystal Cattle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.008|1}}
+|}

@@ -1,0 +1,21 @@
+{{InfoItem
+|type=Ore
+|description=Smelt down 2 Ores into 1 Bar at the Forge. Smelting will take 100 per Bar using Forge Slot 1.
+|sellprice=3
+|source=Mining, [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|30}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Farmer Brim]]|15|Crafting}}
+{{usedin/row|[[Cramped Mining Pouch]]|120|Crafting}}
+{{usedin/row|[[Militia Helm]]|150|Crafting}}
+{{usedin/row|[[Peanut]]|1|Crafting}}
+{{usedin/row|[[Cavern Trekkers]]|1500|Crafting}}
+{{usedin/row|[[Glumlee#Learning to Swing|Learning to Swing]]|5|Quests}}
+{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
+{{usedin/row|[[Quicc Cauldron#Swift Steppin|Swift Steppin]]|Lots|Alchemy}}
+{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Copper Corona|Copper Corona]]|Lots|Alchemy}}
+|}

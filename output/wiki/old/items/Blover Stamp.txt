@@ -1,5 +1,0 @@
-{{InfoItem
-|type=Stamp
-|sellprice=12500
-}}
-{{stampdata|stype=BaseLUK|ftype=add|x1=1|x2=0|i4=3|material=Fish3|i6=100|i7=8|i8=1250|i9=1.42|i10=0|i11={} Base LUK|i12=0}}
