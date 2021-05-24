@@ -30,11 +30,11 @@ def camelCaseSplitter(string):
     return re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', string)).split()
 
 
-def nameDic():
+def nameDic(name):
     with open(fr'./output/modified/json/Items.json', mode='r') as jsonFile:
         items = json.load(jsonFile)
         nameDic = {name: item["displayName"] for name, item in items.items()}
-        return nameDic
+        return nameDic.get(name, name)
 
 
 def nameDicR(val):

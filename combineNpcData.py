@@ -29,11 +29,39 @@ def openCSV(fn):
 
 
 def formatDio(line, quest):
-    pass
+    temp = {}
+    if dtext := line.get("DialogueText"):
+        temp["text"] = dtext
+    if quest:
+        if name := line.get("Name"):
+            temp["associated"] = name
+    return temp
 
 
 def formatQuest(line):
-    pass
+    symbols = {
+        "GreaterEqual": ">=",
+        "": "",
+        "": "",
+    }
+    temp = {}
+    temp["rewards"] = []
+    for i in range(len(line["Rewards"]), 0, 2):
+        temp["rewards"].append((line["Rewards"][i], line["Rewards"][i+1]))
+
+    if line["Type"] == "Custom":
+        current = line["CustomArray"]
+        tempReq = ''
+        tempReq += f"{current[0]} {symbols[current[2]]} {current[1]}. Starting at {current[3]}. "
+        if len(current) > 4:
+            tempReq += f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}. "
+
+    elif line["Type"] == "ItemsAndSpaceRequired":
+        tempReq = []
+        for n, v in zip(line["ItemNumReq"], line["ItemTypeReq"]):
+            tempReq.append([nameDic(v), n])
+    temp["requirements"] = tempReq
+    return temp
 
 
 def main():
@@ -41,15 +69,19 @@ def main():
     npcData = openJSON("Npcs")
 
     for name, npc in npcData.items():
+        if name == "Mecha_Pete":
+            continue
         newNpcs[name] = {"Quests": [], "Dialogue": []}
 
         for line in npc:
-            if line["Type"] == 'None':
+            if line["Type"] in ['None', "LevelReq", "SpaceRequired"]:
                 newNpcs[name]["Dialogue"].append(formatDio(line, False))
 
             else:
                 newNpcs[name]["Quests"].append(formatQuest(line))
                 newNpcs[name]["Dialogue"].append(formatDio(line, True))
+
+    writeJSON("Npcs", newNpcs)
 
 
 if __name__ == '__main__':
