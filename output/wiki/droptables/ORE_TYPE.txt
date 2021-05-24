@@ -1,0 +1,35 @@
+{{DropTable/head|Droptable for Drops for Copper|collapsed=Yes}}
+{{DropTable/card|0.0002}}
+{{DropTable4|chance=0.0065}}
+|}
+{{DropTable/head|Droptable for Drops for Iron|collapsed=Yes}}
+{{DropTable/card|0.00013}}
+{{DropTable4|chance=0.0070}}
+|}
+{{DropTable/head|Droptable for Drops for Gold|collapsed=Yes}}
+{{DropTable/card|0.00011}}
+{{DropTable4|chance=0.0075}}
+|}
+{{DropTable/head|Droptable for Drops for Plat|collapsed=Yes}}
+{{DropTable/card|0.00008}}
+{{DropTable4|chance=0.0077}}
+|}
+{{DropTable/head|Droptable for Drops for Dementia|collapsed=Yes}}
+{{DropTable/card|0.00006}}
+{{DropTable4|chance=0.0082}}
+|}
+{{DropTable/head|Droptable for Drops for Void|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.4|2}}
+|}
+{{DropTable/head|Droptable for Drops for Lustre|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.4|2}}
+|}
+{{DropTable/head|Droptable for Drops for Starfire|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.4|2}}
+|}
+{{DropTable/head|Droptable for Drops for Dreadlo|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.4|2}}
+|}
+{{DropTable/head|Droptable for Drops for Godshard|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.4|2}}
+|}

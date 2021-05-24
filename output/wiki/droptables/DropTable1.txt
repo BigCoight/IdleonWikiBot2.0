@@ -1,0 +1,11 @@
+{{DropTable/head}}
+{{DropTable/recipe0|Copper Band|{{#expr: {{{chance}}}*0.008}}}}
+{{DropTable/row|Nomwich|{{#expr: {{{chance}}}*.25}}|10}}
+{{DropTable/row|Small Mana Potion|{{#expr: {{{chance}}}*0.1}}|5}}
+{{DropTable/row|White Headband|{{#expr: {{{chance}}}*0.01}}|1}}
+{{DropTable/row|Give Up On Life Pants|{{#expr: {{{chance}}}*0.02}}|1}}
+{{DropTable/row|Anvil Zoomer Stamp|{{#expr: {{{chance}}}*0.0012}}|1}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|3|([[Mutton]])}}
+{{DropTable/row|Bronze STR Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.0040}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0040}}
+|}

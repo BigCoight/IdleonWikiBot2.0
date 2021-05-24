@@ -1,0 +1,15 @@
+{{DropTable/head|Droptable for Drops for Small Fish|collapsed=Yes}}
+{{DropTable9|chance=0.012}}
+|}
+{{DropTable/head|Droptable for Drops for Goldfish|collapsed=Yes}}
+{{DropTable9|chance=0.012}}
+|}
+{{DropTable/head|Droptable for Drops for Hermit Can|collapsed=Yes}}
+{{DropTable9|chance=0.012}}
+|}
+{{DropTable/head|Droptable for Drops for Jellyfish|collapsed=Yes}}
+{{DropTable9|chance=0.012}}
+|}
+{{DropTable/head|Droptable for Drops for Bloach|collapsed=Yes}}
+{{DropTable9|chance=0.012}}
+|}

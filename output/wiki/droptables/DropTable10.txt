@@ -1,0 +1,7 @@
+{{DropTable/head}}
+{{DropTable/row|Armor Upgrade Stone II|{{#expr: {{{chance}}}*.002}}|1}}
+{{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
+{{DropTable/row|Small Speed Potion|{{#expr: {{{chance}}}*0.2}}|5}}
+{{DropTable/row|Book Stamp|{{#expr: {{{chance}}}*0.0004}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
+|}

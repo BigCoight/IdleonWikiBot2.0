@@ -1,0 +1,16 @@
+{{DropTable/head|Droptable for Drops for Flies|collapsed=Yes}}
+{{DropTable/card|0.00022}}
+{{DropTable12|chance=0.015}}
+|}
+{{DropTable/head|Droptable for Drops for Butterflies|collapsed=Yes}}
+{{DropTable/card|0.00018}}
+{{DropTable12|chance=0.015}}
+|}
+{{DropTable/head|Droptable for Drops for Sentient Cereal|collapsed=Yes}}
+{{DropTable/card|0.00016}}
+{{DropTable12|chance=0.015}}
+|}
+{{DropTable/head|Droptable for Drops for Fruitflies|collapsed=Yes}}
+{{DropTable/card|0.00014}}
+{{DropTable12|chance=0.015}}
+|}

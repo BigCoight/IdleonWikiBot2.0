@@ -1,0 +1,35 @@
+{{DropTable/head|Droptable for Drops for Oak Tree|collapsed=Yes}}
+{{DropTable/card|0.0004}}
+{{DropTable5|chance=0.008}}
+|}
+{{DropTable/head|Droptable for Drops for Birch Tree|collapsed=Yes}}
+{{DropTable/card|0.00029}}
+{{DropTable5|chance=0.0085}}
+|}
+{{DropTable/head|Droptable for Drops for Jungle Tree|collapsed=Yes}}
+{{DropTable/card|0.00021}}
+{{DropTable5|chance=0.009}}
+|}
+{{DropTable/head|Droptable for Drops for Forest Tree|collapsed=Yes}}
+{{DropTable/card|0.00017}}
+{{DropTable5|chance=0.0095}}
+|}
+{{DropTable/head|Droptable for Drops for Toilet Tree|collapsed=Yes}}
+{{DropTable/card|0.00012}}
+{{DropTable5|chance=0.0106}}
+|}
+{{DropTable/head|Droptable for Drops for Palm Tree|collapsed=Yes}}
+{{DropTable/card|0.00011}}
+{{DropTable11|chance=0.015}}
+|}
+{{DropTable/head|Droptable for Drops for Stump Tree|collapsed=Yes}}
+{{DropTable/card|0.00013}}
+{{DropTable5|chance=0.0102}}
+|}
+{{DropTable/head|Droptable for Drops for Saharan Foal|collapsed=Yes}}
+{{DropTable/row|DONTFILL|0.0001|1}}
+{{DropTable5|chance=0.0089}}
+|}
+{{DropTable/head|Droptable for Drops for Alien Tree|collapsed=Yes}}
+{{DropTable/row|Frog Leg|0.015|2}}
+|}

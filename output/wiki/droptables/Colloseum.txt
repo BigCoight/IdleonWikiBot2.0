@@ -1,0 +1,115 @@
+{{DropTable/head|Droptable for Drops for Dewdrop Bronze Chest|collapsed=Yes}}
+{{DropTable/coin|100|1}}
+{{DropTable/row|Gem|0.05|1}}
+{{DropTable/row|Weapon Upgrade Stone I|0.025|1}}
+{{DropTable/row|Armor Upgrade Stone I|0.09|1}}
+{{DropTable/row|Oak Logs|0.6|40}}
+{{DropTable/row|Copper Ore|0.6|30}}
+{{DropTable/row|Copper Bar|0.2|20}}
+{{DropTable1|chance=1}}
+{{DropTable/row|Forest Villa Key|0.04|1}}
+|}
+{{DropTable/head|Droptable for Drops for Dewdrop Silver Chest|collapsed=Yes}}
+{{DropTable/coin|400|1}}
+{{DropTable/row|Gem|0.12|1}}
+{{DropTable/row|Copper Helmet|0.02|1}}
+{{DropTable/row|Weapon Upgrade Stone II|0.04|1}}
+{{DropTable/row|Armor Upgrade Stone II|0.1|1}}
+{{DropTable/row|Golden Nomwich|0.5|1}}
+{{DropTable/row|Iron Ore|0.6|50}}
+{{DropTable/row|Copper Bar|0.35|50}}
+{{DropTable/row|Forest Villa Key|0.1|1}}
+{{DropTable/row|Jungle Logs|0.4|15}}
+{{DropTable/row|Bleach Logs|0.1|25}}
+{{DropTable2|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Dewdrop Golden Chest|collapsed=Yes}}
+{{DropTable/coin|1250|1}}
+{{DropTable/row|Gem|0.3|1}}
+{{DropTable/row|Gem|0.8|1}}
+{{DropTable/row|Golden Jam|0.5|1}}
+{{DropTable/row|Iron Bar|0.1|15}}
+{{DropTable/row|Gold Ore|0.1|20}}
+{{DropTable/row|Potty Rolls|0.5|50}}
+{{DropTable/row|Forest Villa Key|0.18|1}}
+{{DropTable/row|Veiny Logs|0.5|50}}
+{{DropTable/row|Iron Platebody|0.04|1}}
+{{DropTable3|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Sandstone Bronze Chest|collapsed=Yes}}
+{{DropTable/coin|1000|1}}
+{{DropTable/row|Gem|0.1|1}}
+{{DropTable/row|Weapon Upgrade Stone II|0.025|1}}
+{{DropTable/row|Armor Upgrade Stone II|0.09|1}}
+{{DropTable/row|Goldfish|0.6|50}}
+{{DropTable/row|Hermit Can|0.4|50}}
+{{DropTable/row|Fly|0.6|65}}
+{{DropTable/row|Gold Ore|0.6|75}}
+{{DropTable/row|Efaunt's Tomb Key|0.04|1}}
+{{DropTable/row|Gold Bar|0.2|20}}
+{{DropTable6|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Sandstone Silver Chest|collapsed=Yes}}
+{{DropTable/coin|4000|1}}
+{{DropTable/row|Gem|0.2|1}}
+{{DropTable/row|Iron Helmet|0.02|1}}
+{{DropTable/row|Weapon Upgrade Stone III|0.04|1}}
+{{DropTable/row|Armor Upgrade Stone III|0.09|1}}
+{{DropTable/row|Jellyfish|0.4|100}}
+{{DropTable/row|Sentient Cereal|0.4|125}}
+{{DropTable/row|Efaunt's Tomb Key|0.1|1}}
+{{DropTable/row|Golden Kebabs|0.5|1}}
+{{DropTable/row|Platinum Ore|0.6|50}}
+{{DropTable/row|Gold Bar|0.35|60}}
+{{DropTable/row|Tropilogs|0.5|100}}
+{{DropTable7|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Sandstone Golden Chest|collapsed=Yes}}
+{{DropTable/coin|10000|1}}
+{{DropTable/row|Gem|0.4|1}}
+{{DropTable/row|Golden Meat Pie|0.5|1}}
+{{DropTable/row|Platinum Bar|0.2|20}}
+{{DropTable/row|Dementia Ore|0.1|80}}
+{{DropTable/row|Bloach|0.2|150}}
+{{DropTable/row|Gold Platelegs|0.04|1}}
+{{DropTable/row|Efaunt's Tomb Key|0.18|1}}
+{{DropTable8|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Frostbite Bronze Chest|collapsed=Yes}}
+{{DropTable/coin|1000|1}}
+{{DropTable/row|Gem|0.1|1}}
+{{DropTable/row|Weapon Upgrade Stone II|0.025|1}}
+{{DropTable/row|Armor Upgrade Stone II|0.09|1}}
+{{DropTable/row|Goldfish|0.6|50}}
+{{DropTable/row|Fly|0.6|65}}
+{{DropTable/row|Gold Ore|0.6|75}}
+{{DropTable/row|Efaunt's Tomb Key|0.04|1}}
+{{DropTable/row|Gold Bar|0.2|20}}
+{{DropTable6|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Frostbite Silver Chest|collapsed=Yes}}
+{{DropTable/coin|4000|1}}
+{{DropTable/row|Gem|0.2|1}}
+{{DropTable/row|Iron Helmet|0.02|1}}
+{{DropTable/row|Weapon Upgrade Stone III|0.04|1}}
+{{DropTable/row|Armor Upgrade Stone III|0.09|1}}
+{{DropTable/row|Jellyfish|0.4|100}}
+{{DropTable/row|Sentient Cereal|0.4|125}}
+{{DropTable/row|Efaunt's Tomb Key|0.1|1}}
+{{DropTable/row|Golden Kebabs|0.5|1}}
+{{DropTable/row|Platinum Ore|0.6|50}}
+{{DropTable/row|Gold Bar|0.35|60}}
+{{DropTable/row|Tropilogs|0.5|100}}
+{{DropTable7|chance=1}}
+|}
+{{DropTable/head|Droptable for Drops for Frostbite Golden Chest|collapsed=Yes}}
+{{DropTable/coin|10000|1}}
+{{DropTable/row|Gem|0.4|1}}
+{{DropTable/row|Golden Meat Pie|0.5|1}}
+{{DropTable/row|Platinum Bar|0.2|20}}
+{{DropTable/row|Dementia Ore|0.1|80}}
+{{DropTable/row|Bloach|0.2|150}}
+{{DropTable/row|Gold Platelegs|0.04|1}}
+{{DropTable/row|Efaunt's Tomb Key|0.18|1}}
+{{DropTable8|chance=1}}
+|}

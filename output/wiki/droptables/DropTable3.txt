@@ -1,0 +1,11 @@
+{{DropTable/head}}
+{{DropTable/row|Cheezy Pizza|{{#expr: {{{chance}}}*.42}}|15}}
+{{DropTable/row|Health Statue|{{#expr: {{{chance}}}*.12}}|1}}
+{{DropTable/recipe0|Steel Band|{{#expr: {{{chance}}}*0.00005}}}}
+{{DropTable/row|Average Mana Potion|{{#expr: {{{chance}}}*.25}}|10}}
+{{DropTable/row|Tool Upgrade Stone II|{{#expr: {{{chance}}}*.03}}|1}}
+{{DropTable/row|Bottled Town Teleport|{{#expr: {{{chance}}}*0.05}}|1}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|6|([[Mutton]])}}
+{{DropTable/row|Bronze WIS Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.0050}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0050}}
+|}

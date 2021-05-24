@@ -42,13 +42,26 @@ def writeDrops(drops, subtable, caption, collapsible):
             else:
                 res += "{{DropTable/row" + "|"+'|'.join(drop)
             res += '}}\n'
-    res += "|}"
+    res += "|}\n"
     return res
 
 
 def writeEnemyOut(enemy, data):
     with open(rf"./output/wiki/enemies/{enemy}.txt", mode='w') as outfile:
         outfile.write(data)
+
+
+def writeDTOut(dt, data):
+    with open(rf"./output/wiki/droptables/{dt}.txt", mode='w') as outfile:
+        outfile.write(data)
+
+
+def writeDTS(dts):
+    res = ''
+    for name, dt in dts.items():
+        if dt:
+            res += writeDrops(dt, False, f"Drops for {name}", True)
+    return res
 
 
 def writeEnemy(enemy):
@@ -88,7 +101,21 @@ def writeSubData(enemy):
     return res
 
 
-def main():
+def writeOLD(cat, fn, out):
+    with open(rf'./output/old/{cat}/{fn}.txt', mode='w') as outfile:
+        outfile.write(out)
+
+
+def checkOld(cat, fn, check):
+    '''
+    Returns true if they are the same.
+    '''
+    with open(rf'./output/old/{cat}/{fn}.txt', mode='r') as infile:
+        if (check != infile.read()):
+            print(infile.read())
+        return check == infile.read()
+
+def main(OLD, UPLOAD):
     with open(fr'./output/modified/json/SkillingDT.json', mode='r') as jsonFile:
         skillingDTS = json.load(jsonFile)
 
@@ -99,12 +126,33 @@ def main():
         dropTables = json.load(jsonFile)
 
     allEnemies = {}
+    allDroptables = {}
+
     for name, enemy in enemies.items():
         allEnemies[name] = writeEnemy(enemy)
+        writeEnemyOut(name, allEnemies[name])
+        if OLD:
+            writeOLD("enemies", name, allEnemies[name])
 
-    for name, data in allEnemies.items():
-        writeEnemyOut(name, data)
+    for name, dt in skillingDTS.items():
+        writeDTOut(name, writeDTS(dt))
+
+    for name, dt in dropTables.items():
+        allDroptables[name] = writeDrops(dt, True, '', False)
+        writeDTOut(name, allDroptables[name])
+        if OLD:
+            writeOLD("droptables", name, allDroptables[name])
+        
+    if UPLOAD:
+        for name, data in allEnemies.items():
+            if checkOld("enemies",name, data) == False:
+                pass
+
+        for name, data in allDroptables.items():
+            if checkOld("droptables",name, data) == False:
+                pass
+        
 
 
 if __name__ == "__main__":
-    main()
+    main(True, True)

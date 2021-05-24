@@ -1,0 +1,10 @@
+{{DropTable/head}}
+{{DropTable/row|Inventory Bag G|{{#expr: {{{chance}}}*.0012}}|1}}
+{{DropTable/row|Kebab Sticks|{{#expr: {{{chance}}}*.42}}|15}}
+{{DropTable/row|Average Speed Potion|{{#expr: {{{chance}}}*.4}}|25}}
+{{Drippy Drop Stamp|chance={{#expr: {{{chance}}}*0.0006}}}}
+{{DropTable/row|Anvil Statue|{{#expr: {{{chance}}}*.07}}|1}}
+{{DropTable/row|Monster Rating|{{#expr: {{{chance}}}*.6}}|1|([[XxX_Cattleprod_XxX]])}}
+{{DropTable/row|Silver STR Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
+|}
