@@ -78,6 +78,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "I can't believe this!!! These so called 'statisticians' which doesn't even sound like a real job told me my stats were 'utterly invalid in every sence of the word' and that I shouldn't be angry at others for my own problems! ",
             "NextIndex": "9"
         },
         {
@@ -112,6 +113,7 @@
         },
         {
             "Type": "LevelReq",
+            "DialogueText": "Ahh life is finally as it should be and the good guy me prevailed! You should come back later though I'm sure there are some rotten apples out there who will try to ruin things! @ Return at Class Lv. 60",
             "NextIndex": "14",
             "LevelReq": "60",
             "LevelType": "0"
@@ -123,6 +125,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Well catch you later when you're higher level! @ What? Oh did I say level 60 before? I meant 160... thousand. Yea come back at Lv. 160000 and I'll probably have a new quest by then. @ Return at Class Lv. 160000",
             "NextIndex": "15"
         }
     ],
@@ -134,6 +137,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "I haven't much to say personally... instead I will let the Game's Creator Lavaflame2 speak to you through me: @ 'Yoo wuddup gamer happy to see you here most people are too dumbo maximus to find this little easter egg!'",
             "NextIndex": "2"
         },
         {
@@ -152,10 +156,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "'Yo wtf? You figured it out?? Nice! Here take your reward of absolutely nothing! @ Although I don't want to leave you empty handed... how about this I'll mark this quest as completed in your Codex after the tutorial as proof that you're a true gamer!'",
             "NextIndex": "4"
         },
         {
             "Type": "None",
+            "DialogueText": "'Oh and um one more thing yea? I figure you'll wanna write this down 3-6-3-9-0-blue. Hahaha aight Imma head out see ya.' @ ... ouch that gave me a headache I still don't get why the game developer can't just talk to his own gamers directly?",
             "NextIndex": "5"
         },
         {
@@ -231,6 +237,7 @@
     "Sprout": [
         {
             "Type": "None",
+            "DialogueText": "Omg hi hi hi! My name is Sproutinald but everyone calls me Sprout! You should too!! I can tell by the way you tapped on me that were gonna be best friends for real! But first you gotta do something for me or I'll kick you haha!",
             "NextIndex": "1"
         },
         {
@@ -307,6 +314,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well daddy once told me that sometimes bodies grow because of what's around them. Maybe if I put shoes on my body would grow legs and feet to fill them? @ QUEST:Get a bunch of shoes for Sprout to try on.",
             "NextIndex": "11",
             "ItemTypeReq": ["EquipmentShoes15", "EquipmentShoes7", "EquipmentShoes9"],
             "ItemNumReq": ["2", "2", "2"],
@@ -325,6 +333,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "This is not working!! But at least I look super awesome I think I'll keep wearing these shoes! Here you can have my Merry Cherry Remedy Tshirt they broke up when I was a sapling and they'll never ever come back ever.",
             "NextIndex": "12"
         },
         {
@@ -510,6 +519,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Hahahaha you should've seen your face! You can't chop down trees in this game it was just a prank my boy! @ This stump here? It's just a prop! Here take my spare prop as a gift for being such a good sport!",
             "NextIndex": "11"
         },
         {
@@ -519,6 +529,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Actually before you take off can ya get me some exotic logs? If you get a MASSIVE highscore in the minigame rare logs will come out! Go on try getting one! @ QUEST: Get a Forest Log by earning a choppin' highscore of 150!",
             "NextIndex": "14",
             "ItemTypeReq": ["ForestTree"],
             "ItemNumReq": ["1"],
@@ -571,6 +582,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Hahaha I had to do it to ya! @ There's no shortcut back to the top. You're gonna have to level up craft armor master Skills fight bosses and complete hundreds of quests before you become a legend again!",
             "NextIndex": "6"
         },
         {
@@ -675,6 +687,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "You get 3 talent points every time you level up your Class Level. You also get 1 talent point every time you level up a skill that you specialize in. There are also special STAR talents to collect which use separate talent points!",
             "NextIndex": "17"
         },
         {
@@ -703,6 +716,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go check out that portal on the left. There's a cheerful goblin who will show you some new gameplay! I haven't actually seen him in a while but I bet he is as happy as I remember!  @ MAIN QUEST:Get Glumlee's Certification",
             "NextIndex": "22",
             "ItemTypeReq": ["Quest1"],
             "ItemNumReq": ["1"],
@@ -733,6 +747,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Now then use what you learned to get the materials needed to craft some new Equipment at the Anvil! Go do that while I go get this certificate framed... or maybe I should get it laminated...  @ MAIN QUEST:Craft Farmer Brim and Orange Tee",
             "NextIndex": "51",
             "CustomType": "Scripticus7",
             "CustomArray": [
@@ -767,6 +782,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I went for a Picnic the other day out in the Frog Fields and I forgot to bring home the basket! There wasn't much in there other than a jar of Golden Jam that I need back!  @ MAIN QUEST:Retrieve the Golden Jam",
             "NextIndex": "27",
             "ItemTypeReq": ["Quest5"],
             "ItemNumReq": ["1"],
@@ -797,6 +813,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "I guess you could say that jam...                           @ ...was a scam! Hahahaha! A bad pun is what you get for pullin' that prank. Alright lets just quickly move on and forget that just happened...",
             "NextIndex": "29"
         },
         {
@@ -811,6 +828,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "I'm not sure who or what stole it but they sure aren't around here anymore. But I know someone who can help. There's an ex-town member who went to live out in the jungle his name is Silico... no wait was it Skullco?",
             "NextIndex": "32"
         },
         {
@@ -892,6 +910,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Forest villagers have the gem thief locked up and are using it as a tourist attraction? That's uh... oddly convenient. I guess that's what happens when a developer tries to put context behind a QoL feature haha.",
             "NextIndex": "42"
         },
         {
@@ -931,6 +950,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Lets goooo!!! Just tap on our Builder Bird to restore power to the portal. Finally I can start sending letters to all myrelatives in the other worlds! I can't wait to tell them how epic I was at teaching you everything you know!",
             "NextIndex": "45"
         },
         {
@@ -945,6 +965,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go make me the 3 Blunderhill Tokens of Completion and you can have my Blunder Hero Trophy! Here's the token recipes. You'll find all their ingredients just from doing everything that this World has to offer!",
             "NextIndex": "49",
             "ItemTypeReq": ["BadgeG1", "BadgeG2", "BadgeG3"],
             "ItemNumReq": ["1", "1", "1"],
@@ -958,10 +979,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Wow you seriously did all of that? Here's my tro... wait you don't have any inventory space! I guess that means you have to do EVERYTHING AGAIN HAHAHA!!! @ Nah just kidding clear a space and talk to me again.",
             "NextIndex": "47"
         },
         {
             "Type": "None",
+            "DialogueText": "Wow I never thought someone would care enough about the first world to do everything! It feels like just yesterday I signed you up into the Game's Database... to think I'm now giving you the highest honor in all of Blunder Hills! You're one heckin' sick gamer wear this trophy with pride!",
             "NextIndex": "49"
         },
         {
@@ -976,6 +999,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "No real gamer does everything for themself! Go create a 2nd character to gather items for you! QUEST:Reach Lv 7 then create a 2nd character at the main menu! You can treat them as a laborer to gather materials for you!",
             "NextIndex": "54",
             "CustomType": "Scripticus13",
             "CustomArray": [
@@ -1015,6 +1039,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Wow I never thought someone would care enough about the first world to do everything! It feels like just yesterday I found you unconscious at 1 hp and took some of your money... to think I'm now giving you the highest honor in the land! You're one heckin' sick gamer wear this trophy with pride!",
             "NextIndex": "49"
         }
     ],
@@ -1057,6 +1082,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "If I am to achieve total substantiative infusion I'll have to use more sophisticated words so I seem smart enough to bend reality to do my bidding! Fetcheth unto me thine most precious of materials! @ QUEST:He want's shiny things.",
             "NextIndex": "6",
             "ItemTypeReq": ["Gold", "IronBar", "EquipmentStatues1"],
             "ItemNumReq": ["200", "100", "20"],
@@ -1092,6 +1118,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well Bobby today sure is a fine day for some construction work I tell you hwat! Nothing beats the satisfaction of creating something with your own two hands 'specially something that also serves a useful purpose! @ QUEST:Gather some construction materials for Hank... I mean Krunk.",
             "NextIndex": "9",
             "ItemTypeReq": ["BirchTree", "CraftMat5", "CraftMat1"],
             "ItemNumReq": ["1200", "300", "600"],
@@ -1105,10 +1132,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "There we have it now that's a sturdy bridge if ever I've seen one! ...well I wasn't expecting roleplaying as a hard-working propane salesman to help with my scientific pursuits! And it didnt! I guess I should just give up I have no other ideas.",
             "NextIndex": "10"
         },
         {
             "Type": "LevelReq",
+            "DialogueText": "Aha I've got an idea! Quick go buy 500000 gems from the Gem Store I can use them to alter the... @ what's that? You'd uninstall if that was the actual quest? Alright give me a moment to think of an alternate plan... @ Return at Mining Level 33",
             "NextIndex": "11",
             "LevelReq": "33",
             "LevelType": "1"
@@ -1120,16 +1149,19 @@
         },
         {
             "Type": "None",
+            "DialogueText": "I need you to... @ Hang on I'm getting a call from the game developer LavaFlame2... Hey how are you? ... Oh is that so? You haven't coded my final quest yet and you need me to stall them? I see sure I'll let them know.",
             "NextIndex": "13"
         },
         {
             "Type": "LevelReq",
+            "DialogueText": "Sorry human but I actually need you to give me a moment to finalize my strategy. You know crunch the numbers one last time make sure I didn't forget to carry the two and all that. @ Return at Mining Lv.20",
             "NextIndex": "14",
             "LevelReq": "20",
             "LevelType": "1"
         },
         {
             "Type": "None",
+            "DialogueText": "Hold up human you're acting a bit over eager for my final quest! Look perfect science like this is no trifling thing... a 5 month wait since 'The Kablamo' happened back in November of last year isn't all that long considering the sophisticaion at hand!",
             "NextIndex": "15"
         },
         {
@@ -1156,6 +1188,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go mine some ores and read this while you do. Mining Efficiency is your main stat here. It is boosted by your STR stat as well as your Mining Power which comes from pickaxes and other equipment! @ QUEST:Mine 5 Copper Ore",
             "NextIndex": "5",
             "ItemTypeReq": ["Copper"],
             "ItemNumReq": ["5"],
@@ -1203,6 +1236,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Final task now. Go to the forge click the Yellow Arrow tab in the top right and buy some Upgrades. These are Permanent and are shared between all your characters.  @ QUEST: Upgrade the forge 3 times",
             "NextIndex": "11",
             "CustomType": "Glumlee3",
             "CustomArray": ["Upgrades_Bought:", "3", "GreaterEqual", "0"],
@@ -1228,6 +1262,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Well that's it. Now you know how to get all the resources mining has to offer. I'm actually pretty pleased with how you did I'm glad you paid attention and didn't skip through my dialogue instantly like everyone else does!",
             "NextIndex": "12"
         },
         {
@@ -1283,6 +1318,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Basically you can now choose a skill to also give you Class EXP. This way you can focus on skilling while still leveling up so you won't miss out on all the Talent Points you get from leveling up your Class.",
             "NextIndex": "21"
         },
         {
@@ -1353,6 +1389,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well come on now I aint gonna give you part of my stash here for nothin'. This is a picnic basket not a charity house! Bring me something and maybe we can fix up a deal... @ QUEST:Buy and bring 50 Nomwiches from the Town Shop.",
             "NextIndex": "7",
             "ItemTypeReq": ["FoodHealth1"],
             "ItemNumReq": ["50"],
@@ -1436,6 +1473,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Thats why I've prepared a fake jam jar filled with springs! Give that one back instead and they'll be so embarassed by the prank that they'll try to move on from it rather than ask for the real jar!",
             "NextIndex": "16"
         },
         {
@@ -1455,6 +1493,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Every day I will have a series of quests to complete each one harder than the last! You can complete as many as you want but after 24 hours you will start back at the first quest! Think of this as a repeatable Daily Questline.",
             "NextIndex": "20"
         },
         {
@@ -1594,6 +1633,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I'm feelin' hungry again why dont you go get some desert Kebabs? And get me a bowl too I can't eat them off the stick. @ QUEST:Get baby here a little baby bowl because he can't eat kebabs like a big boy.",
             "NextIndex": "35",
             "ItemTypeReq": ["EquipmentHats18", "FoodHealth6"],
             "ItemNumReq": ["1", "500"],
@@ -1660,6 +1700,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "It's getting kinda late eh? Gotta have me some dessert before I lose my appetite! I've heard of a fabled chocolate cake that for some reason drops from crabs holding vanilla cakes! @ QUEST: Mmmmm nuget caaaaaakee....",
             "NextIndex": "42",
             "ItemTypeReq": ["DesertA3b"],
             "ItemNumReq": ["2"],
@@ -1690,10 +1731,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Aahhh well that's been a full day of eating for me gonna head to sleep. I know they say the way to a blobs heart is through his stomach so I should be tellin' ya that I'm flattered but not interested.",
             "NextIndex": "44"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Actually I might need a snack if I wake during the night. I've seen some monsters in the Twilight Desert snackin' on some cookies so a few of those would be batchin'. @ QUEST: Get rare cookie drops from Twilight Desert mobs.",
             "NextIndex": "46",
             "ItemTypeReq": ["MidnightCookie"],
             "ItemNumReq": ["2"],
@@ -1743,6 +1786,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "King of food! King of food! And coming from a blobulyte like myself that means something! But hey that shouldn't stop you from doin' stuff for me eh? Hahaha I'll be here tomorrow if you wanna help out again.",
             "NextIndex": "49"
         }
     ],
@@ -1788,6 +1832,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I heard WIS increases choppin efficiency. I have this recipe for a WIS hat but I don't specialize in smithing so I can't make it! Make it for me and I'll give you another stamp! @ QUEST:Use the recipe and craft the helmet.",
             "NextIndex": "8",
             "ItemTypeReq": ["EquipmentHats8"],
             "ItemNumReq": ["1"],
@@ -1939,6 +1984,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "These stamps aren't just pieces of paper they actually give their owners Special Bonuses! I'm not really the adventuring type so how about we sell Ownership of the stamps to others! And by 'we' I mean Me and by 'Others' I mean You!",
             "NextIndex": "9"
         },
         {
@@ -1989,14 +2035,17 @@
         },
         {
             "Type": "None",
+            "DialogueText": "First the WARRIOR class. They are close ranged single target fighters who won't get knocked down easy. They are the slowest moving class but their brawn makes them great at Physical Skills like Mining.",
             "NextIndex": "5"
         },
         {
             "Type": "None",
+            "DialogueText": "Next the ARCHER class. Quick on their feet they'll rapidly pick off weaker enemies from a distance. They do struggle to take down big targets but their agility makes them great at Crafting Skills like Smithing.",
             "NextIndex": "6"
         },
         {
             "Type": "None",
+            "DialogueText": "Lastly the MAGE class. They'll zap freeze burn or even poison their enemies to death. They will get downed by even the slightest of hits but their high IQ makes them great at Collection Skills like Choppin.",
             "NextIndex": "7"
         },
         {
@@ -2011,6 +2060,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "You will create dozens of characters so you'll eventually get to play as ALL the different classes! So just pick the class you think you will enjoy first and know that you'll get to play the other ones later!",
             "NextIndex": "10"
         },
         {
@@ -2036,6 +2086,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "That's a great choice! You should go talk to Grasslands Gary in town now get yourself some Class Recipes to match your choice! @ And don't forget to come back here on new characters to pick the other classes!",
             "NextIndex": "12"
         },
         {
@@ -2065,6 +2116,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "It was a giant house with... legs or something. I think it only shows up at the top of each hour but I know it exists! Please go prove I'm not crazy. @ QUEST:Find the house monster in the Birch Grove.",
             "NextIndex": "19",
             "CustomType": "Promotheus3",
             "CustomArray": ["House_Monster_Found:", "1", "GreaterEqual", "0"],
@@ -2095,6 +2147,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "What did you say it was again a Baby Yogurt? ... a Baboon Yolo? @ Ohhh a Baba Yaga of course! Yea I've never heard of that in my life. I wonder what it drops? @ QUEST:Me too go kill it and see what loot you get!",
             "NextIndex": "22",
             "CustomType": "Promotheus4",
             "CustomArray": ["Baba_Yaga_Defeated:", "1", "GreaterEqual", "0"],
@@ -2340,6 +2393,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSE--- @ Yea well tough luck! Lava here that class aint done yet! I'll hopefully have it out same time I get world 3 out though maybe late february?",
             "NextIndex": "3"
         }
     ],
@@ -2351,6 +2405,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Scripticas needs help huh? Hehe he is very funni... I used to talk in my nativ language around him when I lived in town. He could nevar understand me and would awkwardly say 'uh yea!' to evarything I said! Best practical joke ever!",
             "NextIndex": "2"
         },
         {
@@ -2461,10 +2516,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Before I left I kept putting carrots everywhere he went. I put one on his desk at his front door I even put carrots in his dinner! Tha last one didn't work though because he was eating carrot cake that night.",
             "NextIndex": "16"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go get me some carrots and logs so I can make a little carrot mannequin for you to prank him with and I'll have the report ready when you return! @ QUEST:Gather carrots from the Vegetable Grove as well as some logs.",
             "NextIndex": "18",
             "ItemTypeReq": ["Jungle3", "BirchTree"],
             "ItemNumReq": ["2", "3"],
@@ -2517,6 +2574,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "I remember being a baby leaf and felt time just flew by as I would be spending of days watch the Spores... maybe they are stealing it? @ QUEST:Investigate Green Spores near town to see which one is stealing Stiltzcho's time.",
             "NextIndex": "25",
             "CustomType": "Stiltzcho4",
             "CustomArray": ["AFK_at_Spores:", "14400", "GreaterEqual", "0"],
@@ -2540,6 +2598,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Well no matter because the thief followed me after I moved out to the Froggy Fields! Go look there and be careful you do not get your time taken from you! @ QUEST:Investigate Frogs to see which one is has been hoppin' away with Stiltzcho's time!",
             "NextIndex": "28",
             "CustomType": "Stiltzcho5",
             "CustomArray": ["AFK_at_Frogs:", "28800", "GreaterEqual", "0"],
@@ -2626,6 +2685,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "But uh you gooootta hook us up with some food bro it's common mushroom manners! Bring it here and we'll carry it to the party with this novelty food bag I bought online when I was... hehehe well never mind! @ QUEST:Be the food hookup",
             "NextIndex": "4",
             "ItemTypeReq": ["Peanut", "FoodHealth2", "FoodPotOr2"],
             "ItemNumReq": ["100", "25", "100"],
@@ -2661,6 +2721,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST:Get a score of 42 in the Choppin Minigame.",
             "NextIndex": "8",
             "CustomType": "Funguy2",
             "CustomArray": ["Choppin_Score:", "42", "GreaterEqual", "0"],
@@ -2750,6 +2811,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "What you thought you were killing them? Hahaha bro chill. They're monsters they'll just respawn back home no biiiiggie! Yo but could you help clean up before headin' out? @ QUEST:Get toilet paper to help clean.",
             "NextIndex": "16",
             "ItemTypeReq": ["ToiletTree"],
             "ItemNumReq": ["10000"],
@@ -2790,6 +2852,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Some of our accomodations are still under construction but you're welcome to check out our latest installment! We had a visitor earlier some big golem who agreed to being a tourist attraction in return for a place to stay.",
             "NextIndex": "4"
         },
         {
@@ -2823,6 +2886,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Invite someone rich to help with business someone whose totally chillin' to serve as a party starter and someone tough as a rock to sit at the front desk and not get triggered by entitled moms! @ QUEST:Hand out flyers by dropping them on the right NPCs",
             "NextIndex": "10",
             "CustomType": "Tiki Chief2",
             "CustomArray": [
@@ -2859,6 +2923,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! @ QUEST:Clear out some Goblins and totally invite everyone again!",
             "NextIndex": "13",
             "CustomType": "Tiki Chief3",
             "CustomArray": [
@@ -2953,6 +3018,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Figure oOOoout hoOOow I died and I'll give yoOOOoou a key sOooo yoOooo can visit oooOOOur main installment behind that doooOOOor! QUEST:Defeat Board Monsters below until you find out how ghostie here died",
             "NextIndex": "5",
             "ItemTypeReq": ["Quest12"],
             "ItemNumReq": ["10"],
@@ -2981,6 +3047,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Also for every character you make that makes it this far I'll give you an additional key per day! You don't have to talk to me on every character either I'll give you all the keys the first time you tap me!",
             "NextIndex": "8"
         },
         {
@@ -2995,6 +3062,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Also for every character you make that makes it this far I'll give you an additional key per day! You don't have to talk to me on every character either I'll give you all the keys the first time you tap me!",
             "NextIndex": "11"
         },
         {
@@ -3014,6 +3082,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? @ QUEST:Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.",
             "NextIndex": "16",
             "ItemTypeReq": ["Quest17"],
             "ItemNumReq": ["25"],
@@ -3130,6 +3199,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Bluugu oinkii uugu reee tri! 'The pig motions dismissively at you because you got him the wrong item and he's an unappreciative little jerk. The pig then looks angrily at this chat beacuse he can read.'",
             "NextIndex": "6"
         },
         {
@@ -3165,10 +3235,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Yippie!! Unagi wuppo tai bwo wannai osrs! Thurgo mietpie tazharr! 'The pig is happy you found his stolen stamp although he expresses no gratification toward you specifically. I refer you to my earlier comment...'",
             "NextIndex": "10"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Awioe yeita faulli slam bam winea cinnacan! 'The pig wants more stamps he is not happy being a lower class stampholder' @ QUEST:Bring more stamps but not so many that the pig would have to pay Stampcome Tax",
             "NextIndex": "12",
             "ItemTypeReq": ["StampA7", "StampA3", "StampB9"],
             "ItemNumReq": ["3", "5", "2"],
@@ -3225,6 +3297,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Snagglu wingo bada chango reagg eEECHH-- thank you noble adventurer. I eagerly await the next time that our paths mi-- ouggo blarf wulanu! 'The pig points to his throat showing embarassment for reusing his opening joke and for choking.",
             "NextIndex": "15"
         }
     ],
@@ -3293,6 +3366,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Budda bum tshh bbbubbubub shh bobobobo blushutuuu BLAM! That was a sick beatboxing riff I just did heh! Oh I'm sorry was that out of character for me? Well then we best hope the developer changes this dialogue line before release!",
             "NextIndex": "2"
         },
         {
@@ -3302,6 +3376,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Yo but catch this I ain't gon' be changin' the game lookin' like a fool ... if I'm not totally decked out in swag ain't no-one gonna take lil' Mutt seriously! @ QUEST:Find the right clothes for an aspiring fool who doesn't realize his beatboxing sucks.",
             "NextIndex": "5",
             "ItemTypeReq": ["EquipmentHats5", "EquipmentPants10", "EquipmentShoes9"],
             "ItemNumReq": ["1", "1", "1"],
@@ -3334,6 +3409,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Maaaan you aren't even gonna believe this. I was totally in the zone rhyming like a genius without a loan and I didn't go viral! Gimme some exposure yea? @ QUEST:Beat up the trashiest monsters until Mutt becomes famous",
             "NextIndex": "8",
             "ItemTypeReq": ["Quest22"],
             "ItemNumReq": ["300"],
@@ -3450,10 +3526,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "...mmm... huh? Oh hey uh whats up I was just on my break with my eyes closed alert as ever! @ Say that's a lot of food you got there you havin' a party or something? Count me out cake and kebabs are a terrible food combo!",
             "NextIndex": "4"
         },
         {
             "Type": "None",
+            "DialogueText": "Anyway... now that I'm up you want a Class Advancement? You definitely look like you could use one! @ ...err that came out wrong sorry! What I meant to say is that you're a noob who needs a better class! Let me tell you how it works.",
             "NextIndex": "5"
         },
         {
@@ -3463,10 +3541,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "So yea you'll get a brand new set of 15 talents! These talents are separate from your old ones so every time you level up you'll get Talent Points to spend on these new talents while also getting Talent Points for the old talents.",
             "NextIndex": "7"
         },
         {
             "Type": "None",
+            "DialogueText": "Quick recap: @ Class Advancements give you another tab of Talents to upgrade which uses a different set of Talent Points than your current Tabs. @ Go ahead and talk to me again and I'll let you choose your class advancement!",
             "NextIndex": "8"
         },
         {
@@ -3578,6 +3658,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Yo haven't you seen? Or not seen I guess? There's heckin CREEPS chillin' just below that ocean surface crazy scary monsters that'll bite your face off! Why else they make the surface so hard to see through?",
             "NextIndex": "2"
         },
         {
@@ -3646,6 +3727,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Say... you're awfully insistant on convincing me that the ocean isn't full of monsters. @ I KNEW IT! You're in cahoots with BlueAnon who's trying to resurrect the one who shall not be named in a coup to take power from Lavaflame!",
             "NextIndex": "9"
         },
         {
@@ -3762,10 +3844,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Here's the rundown of the job. Several shipping companies use my postal service to deliver orders to their customers. Since I'm stuck in here it's your job to bring me the items to complete these orders.",
             "NextIndex": "5"
         },
         {
             "Type": "None",
+            "DialogueText": "Completing orders will give you Delivery Box tokens which can be spent in the Upgrade Tab. Each of your characters gets a token so spending them on one character won't remove them from other characters!",
             "NextIndex": "6"
         },
         {
@@ -3848,6 +3932,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "But you gotta do more than just that to earn my signature. Hrmmm... what do I need... how 'bout a new bandana? Maybe I'd look better in yellow. @ QUEST:Get Bob a yellow bandana even though it would ruin his style.",
             "NextIndex": "12",
             "ItemTypeReq": ["EquipmentHats9"],
             "ItemNumReq": ["1"],
@@ -3895,6 +3980,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "My packages arrived! You did real great partner. Lemme take a gander at them there completed forms of yours the ones with your signature on them just to make sure everythin's here... @ Alrighty then! Here's that signed fan letter of yours!",
             "NextIndex": "16"
         }
     ],
@@ -3921,6 +4007,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Fer cryin' out loud I heard they've got them vidya games playin' themselves now 'stead of playin' the game themself! And even worse some of 'em arr makin' games for a livin I mean talk about not doin' any real work!",
             "NextIndex": "5"
         },
         {
@@ -3951,6 +4038,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Hrmph I suppose that will do. Although back in my day monsters didn't respawn so quickly. We used to have to keep a few monsters alive then wait 9 months for more monsters to appear it was su... @ 'Carpetiem continues talking for a few minutes'",
             "NextIndex": "8"
         },
         {
@@ -3960,6 +4048,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
             "NextIndex": "11",
             "CustomType": "Carpetiem2",
             "CustomArray": [
@@ -3994,6 +4083,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Well clean my fibers ya did it! Although back in my day we didn't have extra inventory slots n' there wasn't no gem either! We didn't even have carry capacity bags above 100 either which made things extra diffi... @ 'Carpetiem continues talking for a few hours'",
             "NextIndex": "12"
         },
         {
@@ -4003,6 +4093,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Kids admire the worst people! Ninjas Streams and even the letter Q for some dang reason! Hows about you show em what a real role model is? @ QUEST:Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.",
             "NextIndex": "15",
             "CustomType": "Carpetiem3",
             "CustomArray": ["Epic_KO:", "1", "GreaterEqual", "0"],
@@ -4021,6 +4112,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matchers weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a to... @ 'Carpentiem continues talking for 110 rounds'",
             "NextIndex": "16"
         },
         {
@@ -4094,10 +4186,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "You only hav two measly blue items? This won't work at all it is hopeless!! Boy am I feeling blue... @ AHA! I WISH FOR BIG DONUT!!! @ Haha I am of joking! I never lost my power I only wanted to make a funny lololol!",
             "NextIndex": "8"
         },
         {
             "Type": "None",
+            "DialogueText": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!",
             "NextIndex": "9"
         },
         {
@@ -4158,6 +4252,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Go on then see if you can beat my hiscore! Eieioaioioeeehehehe!! I never get to play game with people what a hoot! @ QUEST:Pass through 15 hoops in a row. @ OR @ Pass a total of 90 hoops across all attempts",
             "NextIndex": "10",
             "CustomType": "Goldric2",
             "CustomArray": [
@@ -4221,6 +4316,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "... ah right! The crime and all that... @ Well? Don't be daft! You can't just commit a crime without first giving me a gift! We live in a society!! @ QUEST:Find the perfect gift for an animated gold bar monarch. You may have to sift through a lot of crap to find it!",
             "NextIndex": "16",
             "ItemTypeReq": ["Sewers1b"],
             "ItemNumReq": ["1"],
@@ -4239,10 +4335,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Oh goodie! It's nearly as beautiful as yours truely! You sure are taking the initiative here really pulling yourself up by the bootstraps! Quite the funny sight too considering that it's impossible. I only say it to give you poor folk the false pretense that your terrible economic situa...",
             "NextIndex": "17"
         },
         {
             "Type": "Custom",
+            "DialogueText": "... pardon me we have more important matters to attend to. It's Crime Time!! @ Say you're not really going to commit a crime looking like that are you? @ QUEST: Equip a golden helmet platebody platelegs and any golden tool.",
             "NextIndex": "19",
             "CustomType": "Goldric5",
             "CustomArray": ["Wear_All_Gold", "1", "GreaterEqual", "0"],
@@ -4273,6 +4371,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "... HALF EATEN BAG OF PEANUTS!!! MY PRIZED POSESSION! YOU'LL NEVER GET AWAY WITH THIS YOU CRIMINAL MASTERMIND!! @ 'Goldric hands you the bag of peanuts after quickly taking a few more out to eat later'",
             "NextIndex": "21"
         },
         {
@@ -4335,6 +4434,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Remember those Boops take 24 hours to respawn. Pop shove it boo yah!!! While you're grinding for their card why not gather me some bones? @ QUEST:Collect Bonemeal for Meel! This will take a while...",
             "NextIndex": "8",
             "ItemTypeReq": ["Sewers3"],
             "ItemNumReq": ["777"],
@@ -4411,6 +4511,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Ssssso heres the thing... I can't actually bite you because your blood would violate this game's E-10 rating. Get me sssome red liquid so we can pretend I'm eating you! @ QUEST: BLOOD FOR THE BLOOD GODS!!! Err... I mean get HP pots!",
             "NextIndex": "8",
             "ItemTypeReq": ["FoodPotRe1"],
             "ItemNumReq": ["8500"],
@@ -4434,6 +4535,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Now come over here or no one will believe that I was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
             "NextIndex": "11",
             "CustomType": "Snake Jar3",
             "CustomArray": [
@@ -4598,6 +4700,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
             "NextIndex": "5",
             "CustomType": "Wellington1",
             "CustomArray": [
@@ -4634,6 +4737,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "You see I seek the whereabouts of the Maestro Blobulyte... it's a Journeyman thing. Anywho I am about ready to Job Advance and I am certain Lavaflame2 put in a secret subclass NPC somewhere! @ QUEST:Collect materials maybe the blobulyte left some fingerprints on one?",
             "NextIndex": "8",
             "ItemTypeReq": ["DesertC1", "DesertC2", "DesertC3"],
             "ItemNumReq": ["2500", "2500", "2500"],
@@ -4659,6 +4763,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Good finds old sport! Now then lets see... @ Well quite frankly there isn't so much as a trace of Blob on any of these! Wherever that Blobulyte is they haven't been around these three monsters in a long time...",
             "NextIndex": "9"
         },
         {
@@ -4670,6 +4775,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "A quick search on the Wiki revealed that the Blobulyte is hiding behind the only flowering cactus in the game. Beyond that I'm stumped... @ QUEST:Give up on your search for the Maestro Blobulyte by saying 'Darn you Blobulyte! Why must you hide like a coward'",
             "NextIndex": "12",
             "CustomType": "Wellington3",
             "CustomArray": ["Up's_Given:", "1", "GreaterEqual", "0"],
@@ -4688,6 +4794,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Hahaha! I concur old sport! However we mustn't get too down. As a matter of fact I take my hat off to the darn thing it's hiding skills are exquisite! I so suppose I'll be staying a lowly Journeyman for now.",
             "NextIndex": "13"
         },
         {
@@ -4704,14 +4811,17 @@
         },
         {
             "Type": "None",
+            "DialogueText": "And why do people like you always keep bugging me on my days off? If I wanted company I wouldn't be all the way up here would I! But no whenever I want some time to myself another one of you humans shows up looking for something to do!",
             "NextIndex": "2"
         },
         {
             "Type": "None",
+            "DialogueText": "You know what? Here's something to do... go make me a costume so that I look like that little twerp Sprout that way when people DO make it here I'll pretend to be them and since they've done their quests already they won't bother me!!",
             "NextIndex": "3"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
             "NextIndex": "5",
             "ItemTypeReq": ["ForestTree", "Quest41"],
             "ItemNumReq": ["1000", "5"],
@@ -4725,6 +4835,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Clear up 2 inventory spaces... like cmon seriously how do you keep forgetting this? I'm like the 12th NPC youve run into probably I swear you gamers never lear... @ 'Dazey continues to blow your tiny mistake out of proportion for a while longer'",
             "NextIndex": "3"
         },
         {
@@ -4744,10 +4855,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Ok new plan. Get two balls... no not THOSE balls you doorknob like actual circular balls. I remember this from class the other week. @ If you hold one ball right above the other and drop them both the top ball bounces BIG TIME!",
             "NextIndex": "9"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "So if you put the other materials on top of the two balls and drop everything the materials will bounce up to me!!! @ QUEST:Get some woodular circles from branches and do something with them? I don't go to Dazey's school either I'm as confused as you are.",
             "NextIndex": "11",
             "ItemTypeReq": ["ForestTree", "Quest41", "TreeInterior1b"],
             "ItemNumReq": ["1000", "5", "1"],
@@ -4761,10 +4874,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Ok new plan. Get two balls... no not THOSE balls you doorknob like actual circular balls. I remember this from class the other week. @ If you hold one ball right above the other and drop them both the top ball bounces BIG TIME!",
             "NextIndex": "9"
         },
         {
             "Type": "None",
+            "DialogueText": "NICE! FINALLY!!! Now I can make my costume and pretend to be Sprout! No one will ever bother me again!! Just gotta take this off and... @ Hey can I get some privacy you creep? Please leave the map and come back...",
             "NextIndex": "11"
         }
     ],
@@ -4865,6 +4980,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "... so ya can't talk but don't yall worry yerself cause I sure know one thing that talks round 'ere:cold hard cash! Bring me round sum' that and we can git into some real business. @ QUEST:Buy a Gold Dubloon to prove your worth.",
             "NextIndex": "14",
             "ItemTypeReq": ["Quest19"],
             "ItemNumReq": ["1"],
@@ -4955,6 +5071,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "You can unlock vials by dropping specific resources at the cauldron in person. Not all resources have their own vial so ya gotta try 'em all! @ QUEST:Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory",
             "NextIndex": "23",
             "CustomType": "Cowbo Jones6",
             "CustomArray": ["Vials_Unlocked:", "2", "GreaterEqual", "0"],
@@ -4968,10 +5085,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Kiss that tutorial goodbye yeeeeHAW! @ Lets get to some real cowboy bid'ness! There's a list of Wanted Criminals wanderin' all about Yum Yum Desert and each of 'ems got a big ol' EXP bounty on their head.",
             "NextIndex": "24"
         },
         {
             "Type": "Custom",
+            "DialogueText": "Me bein' an immobile cactus I'm still stuck tryna catch the first criminal. He goes by Notorious B.O.B but ya best believe that aint his real name. He should be 'round here somewhere... @ QUEST:Find the criminal!",
             "NextIndex": "26",
             "CustomType": "Cowbo Jones7",
             "CustomArray": ["Criminal_Found:", "1", "GreaterEqual", "0"],
@@ -5041,6 +5160,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Before we get startin' our crime spree we gotta look the part. Go get some materials from the Anvil so I can make ya a hat like mine. @ QUEST:Yes Bandit Bob set you up. Guess you're taking orders from a cactus now!",
             "NextIndex": "35",
             "ItemTypeReq": ["CraftMat9", "CraftMat5"],
             "ItemNumReq": ["100", "750"],
@@ -5137,6 +5257,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "I feel like we best do somethin' good for someone who won't make fun of us. Also remind me to steal that money back once we 'ventually go back to bein' evil. @ QUEST:Donate to the Starving Orphan Monsters foundation in the Cauldron.",
             "NextIndex": "49",
             "CustomType": "Cowbo Jones12",
             "CustomArray": ["Donations_Made:", "4", "GreaterEqual", "0"],
@@ -5155,6 +5276,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "That was a bit better tell you hwat... but you know what they say: @ Give an orphan monster some water and they'll drink for a day. Teach an orphan monster how to extract the liquid from the players they kill and they'll drink for a lifetime.",
             "NextIndex": "50"
         },
         {
@@ -5185,6 +5307,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "BAM! Element of surprise! Any fighter worthy of the colosseum has to be ready for monsters appearing out of nowhere! Defeat these frogs and I'll let you in! @ QUEST:Kill froggies. Forfeit the quest by clicking the Codex if you fail!",
             "NextIndex": "4",
             "CustomType": "Typhoon1",
             "CustomArray": ["Frogs_Defeated:", "7", "GreaterEqual", "0"],
@@ -5258,10 +5381,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "As a Tiro you are entitled to daily colosseum tickets so long as you report to me for duties. @ And don't go trying any trickery on me with multiple characters! You're only getting 1 ticket per day!",
             "NextIndex": "6"
         },
         {
             "Type": "LevelReq",
+            "DialogueText": "Greetings Tiro I'm sure youve heard that one of my soldiers has not returned from his mission to spawncamp the Mafiosos. If you're ready to join as a proper solider now is the time. @ Return at Class Lv. 45",
             "NextIndex": "7",
             "LevelReq": "45",
             "LevelType": "0"
@@ -5337,6 +5462,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Alright Dodecahedron... er Decurio if you can slay my colosseum boss and bring in a colosseum hiscore I'll let you become my new Tesserarius. QUEST:Complete all 15 waves with a final score of 350K+",
             "NextIndex": "17",
             "CustomType": "Centurion4",
             "CustomArray": [
@@ -5383,6 +5509,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. @ QUEST:Complete the three colosseums with lots of Time Remaining after beating all waves.",
             "NextIndex": "21",
             "CustomType": "Centurion5",
             "CustomArray": [
@@ -5455,6 +5582,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Smh... look I'll PROVE it to you!! Go kill all the other mobs and I bet one will spawn right here! But you gotta do it quick or they'll just keep respawning up there! @ QUEST:Kill all the Mafioso's before they respawn.",
             "NextIndex": "5",
             "CustomType": "XxX Cattleprod XxX1",
             "CustomArray": [
@@ -5487,6 +5615,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Wait no I remember!! You need to also kill all the sand castles cuz like the maps have connected spawn timers...? My friend told me and he's way smarter than you so go do it! @ QUEST:Defeat Mafiosos and Sand Castles super fast",
             "NextIndex": "8",
             "CustomType": "XxX Cattleprod XxX2",
             "CustomArray": [
@@ -5525,14 +5654,17 @@
         },
         {
             "Type": "None",
+            "DialogueText": "DUDE I got BANNED from Lava's Discord! WTF I didn't even do anything!! I was just trying to help report the bug and I guess calling them all 'Smelly Buttfaces' when they told me it wasn't a bug triggered them or something!",
             "NextIndex": "10"
         },
         {
             "Type": "None",
+            "DialogueText": "I don't even care anymore. This game sucks anyway. I mean yea it was super fun and I played it for a few months to get this far but this one tiny bug which apparently isn't actually a bug TOTALLY ruins everything forever!",
             "NextIndex": "11"
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well guess Ima go leave a 1 star rating and dip out... YO WAIT!! Go get me a BUNCH of 1 star Ratings mwahaha!! @ QUEST:Collect ratings from mobs and ask other players whose names start with P or S to say '1 star game sucks!' to collect more ratings.",
             "NextIndex": "13",
             "ItemTypeReq": ["Quest32", "Quest33", "Quest34"],
             "ItemNumReq": ["1000", "1", "1"],
@@ -5626,6 +5758,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Well Merry Giftmas ya big gamer! And ye Giftmas is one day after your Christmas so technically that slowpoke lava dev wasn't actually late with the event! Of course I'm only saying that because he coded me to we both know he was late hehe!",
             "NextIndex": "3"
         },
         {
@@ -5635,6 +5768,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Bring me the gift of Immortality! I bet if u noscope those spooky Ghosts my body will never die for fear of having to fight you so I'll live forever! @ QUEST:Defeat Giftmas Ghosts which have a rare chance to spawn from defeating normal monsters.",
             "NextIndex": "6",
             "CustomType": "Giftmas Blobulyte1",
             "CustomArray": ["Ghosts_Defeated:", "6", "GreaterEqual", "0"],
@@ -5665,6 +5799,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Bring me the gift of tacky thoughtlessness! I want things that are expensive rare and of absolutely no use to me! @ QUEST:Ah they mean cash and jewelry! Go get a dubloon and some shiny glass from Sandy Pots both from the Desert!",
             "NextIndex": "9",
             "ItemTypeReq": ["DesertA1b", "Quest19"],
             "ItemNumReq": ["1", "1"],
@@ -5683,6 +5818,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Cheerio for the giftio player! It's about darn time us NPC's got an event! And of course by us NPC's I mean just me hehe! @ COME BACK TOMORROW AND I-- sorry Caps! Come back tomorrow I'll let you give me gifts again!",
             "NextIndex": "9"
         }
     ],
@@ -5709,6 +5845,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "'Go complete Constellation A-2. It's right there on the bottom right branch then the telescope will be usable!' @ QUEST:Follow the engraving's advice and press the little constellation on the bottom right branch.",
             "NextIndex": "6",
             "CustomType": "Telescope1",
             "CustomArray": ["Constellation_A-2:", "1", "GreaterEqual", "0"],
@@ -5734,6 +5871,7 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Oh no there's still more engravi- @ 'Anyway as I was saying before I got interrupted there are constellations all over the game so always look out for them wherever you go! There's also a trophy if you can light up them all!' @ The engraving pops out of the telescope and falls down the tree.",
             "NextIndex": "9999"
         }
     ],
@@ -5800,10 +5938,12 @@
         },
         {
             "Type": "None",
+            "DialogueText": "Alas I must admit. The loneliness I feel up here has broken my spirit. Neither cards from lovers nor destruction of others can bring to me what we all hold dearest. Please return tomorrow so we may try one more to ease my sorrow.",
             "NextIndex": "8"
         },
         {
             "Type": "None",
+            "DialogueText": "Alas I must admit. The loneliness I feel up here has broken my spirit. Neither cards from lovers nor destruction of others can bring to me what we all hold dearest. Please return tomorrow so we may try one more to ease my sorrow.",
             "NextIndex": "8"
         }
     ],
@@ -5825,6 +5965,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST:Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!",
             "NextIndex": "5",
             "CustomType": "Egggulyte1",
             "CustomArray": ["Find_Egg_Capsule:", "5", "GreaterEqual", "0"],
@@ -5853,6 +5994,7 @@
         },
         {
             "Type": "Custom",
+            "DialogueText": "There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST:Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!",
             "NextIndex": "9",
             "CustomType": "Egggulyte2",
             "CustomArray": ["Find_New_Gold_Egg:", "1", "GreaterEqual", "0"],
@@ -5878,6 +6020,7 @@
     "Iceland_Irwin": [
         {
             "Type": "None",
+            "DialogueText": "Oi mate! I reckon it's a bit cold out 'ere for a half naked fella like yourself! It's a darn shame you humans aren't born with a snowman heater on ya noggin like I am would do you wonders in the frozen outback!",
             "NextIndex": "1"
         },
         {

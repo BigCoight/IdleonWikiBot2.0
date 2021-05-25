@@ -214,7 +214,7 @@ def writeQuestJSON():
     reQuest = r'\.addLine_([a-zA-Z]*)\({'
     reQData = r' ?,?([a-zA-Z]*): '
     npcs = {}
-    questText = reader.getSection("Quests")
+    questText = fix(reader.getSection("Quests"), ["\n"])
     questData = re.split(reNpcs, questText)
 
     for i in range(1, len(questData), 2):

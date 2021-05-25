@@ -39,15 +39,23 @@ def formatDio(line, quest):
 
 
 def formatQuest(line):
+    lvlType = ["Class", "Mining", "Smithing",
+               "Chopping", "Fishing", "Alchemy", "Catching"]
     symbols = {
         "GreaterEqual": ">=",
         "": "",
         "": "",
     }
-    temp = {}
-    temp["rewards"] = []
-    for i in range(len(line["Rewards"]), 0, 2):
-        temp["rewards"].append((line["Rewards"][i], line["Rewards"][i+1]))
+    newQuest = {}
+    currentRew = []
+    lineRew = line["Rewards"]
+    for i in range(0, len(lineRew), 2):
+        currentRewName = nameDic(lineRew[i])
+        if lineRew[i][:10] == 'Experience':
+            currentRewName = lvlType[int(lineRew[i][-1])] + " Experience"
+        currentRew.append((currentRewName, lineRew[i+1]))
+
+    newQuest["rewards"] = currentRew
 
     if line["Type"] == "Custom":
         current = line["CustomArray"]
@@ -55,13 +63,19 @@ def formatQuest(line):
         tempReq += f"{current[0]} {symbols[current[2]]} {current[1]}. Starting at {current[3]}. "
         if len(current) > 4:
             tempReq += f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}. "
-
+        tempReq = repU(tempReq, True)
     elif line["Type"] == "ItemsAndSpaceRequired":
         tempReq = []
         for n, v in zip(line["ItemNumReq"], line["ItemTypeReq"]):
             tempReq.append([nameDic(v), n])
-    temp["requirements"] = tempReq
-    return temp
+    newQuest["requirements"] = tempReq
+
+    newQuest["consumed"] = "Yes" if line["ConsumeItems"] == "!0" else "No"
+    newQuest["dialogueText"] = line["DialogueText"]
+    if len(line["DialogueText"].split(":")) > 1:
+        newQuest["questText"] = line["DialogueText"].split(":")[1]
+
+    return newQuest
 
 
 def main():
