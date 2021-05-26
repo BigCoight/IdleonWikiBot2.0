@@ -278,7 +278,7 @@
                 ["Liquid1", "3"]
             ]
         },
-        "Name I Guess2": {
+        "Name I Guess": {
             "x1": "1",
             "x2": "0.02",
             "func": "add",
@@ -729,16 +729,6 @@
             "requirements": [
                 ["Liquid1", "20"],
                 ["Liquid2", "3"]
-            ]
-        },
-        "Talent Point": {
-            "x1": "1",
-            "x2": "1",
-            "func": "1",
-            "description": "Gives_a_redeemable_talent_point_for_the_2nd_Talent_Tab._Applies_to_all_characters._Also,_this_item's_cost_will_never_reset,_never_ever_ever!",
-            "requirements": [
-                ["Liquid1", "3"],
-                ["Liquid2", "1"]
             ]
         }
     },

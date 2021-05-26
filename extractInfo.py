@@ -30,8 +30,8 @@ def writeCSV(fn, lst):
                 outfile.write(str(i) + '\n')
 
 
-def readSections():
-    reader = CodeReader(r'./input/codefile/idleon114b.txt')
+def readSections(codefile):
+    reader = CodeReader(codefile)
     reader.addSection('__name__ = "scripts.ItemDefinitions";',
                       'addNewItem = function', "Items")
     reader.addSection('dialogueDefs = new', 'finishDialogue', "Quests")
@@ -73,21 +73,21 @@ def changeChestNames(intName, name):
         return name
 
 
-def writeMapNamesCSV():
+def writeMapNamesCSV(reader):
     mapNames = re.findall(r'"([ a-zA-Z0-_\'\n]*)"\.',
                           reader.getSection("MapNames"))[0].split(' ')
     writeCSV("MapNames", mapNames)
     return mapNames
 
 
-def writeEnemiesNamesCSV():
+def writeEnemiesNamesCSV(reader):
     mapEnemies = re.findall(
         r'"([ a-zA-Z0-_\'\n]*)"\.', reader.getSection("MapEnemies"))[0].split(' ')
     writeCSV("MapEnemies", mapEnemies)
     return mapEnemies
 
 
-def writeShopsJSON():
+def writeShopsJSON(reader, MAPNAMES):
     reElemets = r'"([a-zA-Z0-_ ]*)"\.'
     shopItemData = reader.getSection("ShopItems")
     shopsItems = [x.split(' ') for x in re.findall(reElemets, shopItemData)]
@@ -105,8 +105,11 @@ def writeShopsJSON():
     shopData = {}
     for i in range(len(shopsItems)):
         currentLocation = repU(shopsLocations[i], True)
+        print(f"len qty {len(fixedShopQTY[i])}, {fixedShopQTY[i]}")
+        print(f"len ite {len(shopsItems[i])}, {shopsItems[i]}")
         for j in range(len(shopsItems[i])):
             if currentLocation in shopData.keys():
+                print(fixedShopQTY[i][j], shopsItems[i][j])
                 shopData[currentLocation].append(
                     {"quantity": fixedShopQTY[i][j], "item": shopsItems[i][j], "no": j})
             else:
@@ -115,7 +118,7 @@ def writeShopsJSON():
     writeJSON("ShopData", shopData)
 
 
-def writeRecipesJSON():
+def writeRecipesJSON(reader):
     reItems = r'"([a-zA-Z0-_ ]*)"\.'
     anvItemNameData = reader.getSection("AnvilItems")
     anvItemNames = [x.split(' ') for x in re.findall(reItems, anvItemNameData)]
@@ -164,14 +167,14 @@ def writeRecipesJSON():
     writeJSON("Recipes", recipes)
 
 
-def addQuestNames():
+def addQuestNames(reader):
     reNames = r'\["([^ ]*)", "([^ ]*)", "([^ ]*)", "([^ ]*)"\],'
     questNameData = reader.getSection("QuestNames")
     questNames = re.findall(reNames, questNameData)
     return questNames
 
 
-def addDroptables():
+def addDroptables(reader):
     reEnemies = r'.\.setReserved\("([a-zA-Z0-9_]*)", [a-zA-Z0-9_$]*\)'
     reDrops = r'\["([^ ]*)", "([^ ]*)", "([^ ]*)", "([^ ]*)"\],'
     droptableData = reader.getSection("EnemyDropTables")
@@ -182,13 +185,13 @@ def addDroptables():
     return tables
 
 
-def writeProductionCSV():
+def writeProductionCSV(reader):
     reProd = r'\["([^ ]*)", "([^ ]*)", "([^ ]*)", "([^ ]*)"\],'
     prodData = reader.getSection("Production")
     writeCSV("Production", re.findall(reProd, prodData))
 
 
-def writeItemJSON():
+def writeItemJSON(reader):
     reNames = r'.\.addNew[a-zA-Z0-9_]*\("([a-zA-Z0-9_]*)", ..?\);'
     reData = r'..\.setReserved\("([a-zA-Z0-9_]*)", ?"?([^\s"]*)"?\)'
     items = {}
@@ -209,7 +212,7 @@ def writeItemJSON():
     writeJSON("Items", items)
 
 
-def writeQuestJSON():
+def writeQuestJSON(reader):
     reNpcs = r'..\.addDialogueFor\("([a-zA-Z0-9_]*)", [^\s"]*\)'
     reQuest = r'\.addLine_([a-zA-Z]*)\({'
     reQData = r' ?,?([a-zA-Z]*): '
@@ -231,7 +234,7 @@ def writeQuestJSON():
                         temp[atr] = repU(val, True)
                     npcs[questData[i]].append(temp.copy())
 
-    for questName, npc, diff, index in addQuestNames():
+    for questName, npc, diff, index in addQuestNames(reader):
         if index == 'f':
             continue
         index = int(index)
@@ -240,13 +243,13 @@ def writeQuestJSON():
     writeJSON("Npcs", npcs)
 
 
-def writeEnemiesJSON():
+def writeEnemiesJSON(reader):
     reName = r'..\.addNewMonster\("([a-zA-Z0-9_]*)", {'
     reData = r'([a-zA-Z0-9_]*): "?([a-zA-Z0-9_.\]\[, ]*)"?,'
     enemies = {}
     enemiesText = reader.getSection("Enemies")
     enemiesData = re.split(reName, enemiesText)
-    droptables = addDroptables()
+    droptables = addDroptables(reader)
     for i in range(1, len(enemiesData), 2):
         intName = enemiesData[i]
         enemies[intName] = {}
@@ -265,7 +268,7 @@ def writeEnemiesJSON():
     writeJSON("Enemies", enemies)
 
 
-def writeDroptablesJSON():
+def writeDroptablesJSON(reader):
     reEnemies = r'.\.setReserved\("([a-zA-Z0-9_]*)", [a-zA-Z0-9_$]*\)'
     reDrops = r'\["([^ ]*)", "([^ ]*)", "([^ ]*)", "([^ ]*)"\],'
     droptableData = reader.getSection("DropTables")
@@ -300,7 +303,7 @@ def writeDroptablesJSON():
     writeJSON("Droptables", tables)
 
 
-def writePostOfficeJSON():
+def writePostOfficeJSON(reader):
     postNames = ["Simple Shippin", "Plan-it Express", "Dudes Next Door"]
     # DO LATER SIMILAR TO addRecipes()
     postData = fix(reader.getSection("PostOffice"), ['\n', '  '])
@@ -327,7 +330,7 @@ def writePostOfficeJSON():
     writeJSON("PostOffice", postOfficeData)
 
 
-def writeFishingTKJSON():
+def writeFishingTKJSON(reader):
     dataNames = ["Name", "Depth1", "Depth2", "Depth3",
                  "Depth4", "FishingExp", "FishingSpeed", "FishingPower"]
     fishingTK = {}
@@ -341,7 +344,7 @@ def writeFishingTKJSON():
     writeJSON("FishingTK", fishingTK)
 
 
-def writeBubbleJSON():
+def writeBubbleJSON(reader):
     bubbleNames = ["Power Cauldron", "Quicc Cauldron",
                    "High-IQ Cauldron", "Kazam Cauldron", "Vials", "Liquid Shop", "??"]
     cauldrens = {}
@@ -375,7 +378,7 @@ def writeBubbleJSON():
     writeJSON("Cauldrens", cauldrens)
 
 
-def writeTalentJSON():
+def writeTalentJSON(reader):
     talents = {}
     talentDescNames = ["Description", "X1", "X2", "FuncX",
                        "Y1", "Y2", "FuncY", "Level Up Text", "Active Skill"]
@@ -452,7 +455,7 @@ def writeCustomSourcesJSON():
     writeJSON("CustomSources", custSources)
 
 
-def writeCardJSON():
+def writeCardJSON(reader):
     cardNames = ["Blunder Hills", "Yum Yum Desert", "Easy Resources",
                  "Medium Resources", "Frostfire Tyundra", "Bosses", "Event", "NYI", "NYI"]
     cardDict = {}
@@ -465,7 +468,7 @@ def writeCardJSON():
     writeJSON("CardData", cardDict)
 
 
-def writeStatueCSV():
+def writeStatueCSV(reader):
     res = []
     statueData = reader.getSection("StatueInfo").split('\n')[1:-1]
     for data in statueData:
@@ -474,7 +477,7 @@ def writeStatueCSV():
     writeCSV("StatueData", res)
 
 
-def writeTaskUnlocks():
+def writeTaskUnlocks(reader):
     TaskUnlocks = []
     unlockData = fix(reader.getSection("TaskUnlocks"), ['\n', '  '])
     taskUnlocks = [
@@ -489,27 +492,31 @@ def writeTaskUnlocks():
             items = ['[' + x + ']' for x in re.split(r',?],\[', category)]
             for ite in items:
                 ite = strToArray(ite)
-                print(ite)
                 temp.append(ite[0])
         TaskUnlocks.append(temp[:])
     writeJSON("TaskUnlocks", TaskUnlocks)
 
 
-reader = readSections()
-MAPNAMES = writeMapNamesCSV()
-MAPENEMIES = writeEnemiesNamesCSV()
-writeProductionCSV()
-writeShopsJSON()
-writeItemJSON()
-writeQuestJSON()
-writeEnemiesJSON()
-writeDroptablesJSON()
-writeRecipesJSON()
-writePostOfficeJSON()
-writeFishingTKJSON()
-writeBubbleJSON()
-writeTalentJSON()
-writeCustomSourcesJSON()
-writeCardJSON()
-writeStatueCSV()
-writeTaskUnlocks()
+def main(codefile):
+    reader = readSections(codefile)
+    MAPNAMES = writeMapNamesCSV(reader)
+    MAPENEMIES = writeEnemiesNamesCSV(reader)
+    writeProductionCSV(reader)
+    writeShopsJSON(reader, MAPNAMES)
+    writeItemJSON(reader)
+    writeQuestJSON(reader)
+    writeEnemiesJSON(reader)
+    writeDroptablesJSON(reader)
+    writeRecipesJSON(reader)
+    writePostOfficeJSON(reader)
+    writeFishingTKJSON(reader)
+    writeBubbleJSON(reader)
+    writeTalentJSON(reader)
+    writeCustomSourcesJSON()
+    writeCardJSON(reader)
+    writeStatueCSV(reader)
+    writeTaskUnlocks(reader)
+
+
+if __name__ == "__main__":
+    main(r'./input/codefile/idleon114b.txt')

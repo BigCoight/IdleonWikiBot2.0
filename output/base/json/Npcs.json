@@ -3354,7 +3354,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Huh these are definitely the coolest items. You sure are one cool gamer ",
+            "DialogueText": "Huh these are definitely the coolest items. You sure are one cool gamer \\",
             "NextIndex": "9999"
         }
     ],
@@ -5945,76 +5945,6 @@
             "Type": "None",
             "DialogueText": "Alas I must admit. The loneliness I feel up here has broken my spirit. Neither cards from lovers nor destruction of others can bring to me what we all hold dearest. Please return tomorrow so we may try one more to ease my sorrow.",
             "NextIndex": "8"
-        }
-    ],
-    "Egggulyte": [
-        {
-            "Type": "None",
-            "DialogueText": "'Hi!' @ . @ 'Hey!' @ . @ 'Huh?'",
-            "NextIndex": "1"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "'Im Eg @ . @ I'm Egg @ . @ I'm... wait which one am I again? The orange one? @ . @ And we are the @ . @ Easter Egggies! @ . @ ...Easter Eggies! Oh you're the orange one whoops!",
-            "NextIndex": "2"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "To celebrate Spring we hid @ . @ lots of Egg Capsules! Would @ . @ ... wait wood? We didn't hide any wood we only hid Egg Capsules and Candy!",
-            "NextIndex": "3"
-        },
-        {
-            "Type": "Custom",
-            "DialogueText": "Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST:Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!",
-            "NextIndex": "5",
-            "CustomType": "Egggulyte1",
-            "CustomArray": ["Find_Egg_Capsule:", "5", "GreaterEqual", "0"],
-            "ConsumeItems": "!1",
-            "InventorySpacesNeeded": "2",
-            "NoSpaceIndex": "4",
-            "Rewards": ["Quest42", "5", "PremiumGem", "5"],
-            "QuestName": "Egggulyte1",
-            "Name": "Egg Shaped Lootboxes!",
-            "Difficulty": "2"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...",
-            "NextIndex": "3"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "Thanks for giving us @ . @ back our egg capsules! We @ . @ are just kidding and wanted to scare you by pretending we took them back!",
-            "NextIndex": "6"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "'Sigh' Dang it Eggy @ . @ these jokes doesn't work @ . @ unless I say my lines properly...! I did it!",
-            "NextIndex": "7"
-        },
-        {
-            "Type": "Custom",
-            "DialogueText": "There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST:Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!",
-            "NextIndex": "9",
-            "CustomType": "Egggulyte2",
-            "CustomArray": ["Find_New_Gold_Egg:", "1", "GreaterEqual", "0"],
-            "ConsumeItems": "!1",
-            "InventorySpacesNeeded": "2",
-            "NoSpaceIndex": "8",
-            "Rewards": ["Quest42", "7", "PremiumGem", "5"],
-            "QuestName": "Egggulyte2",
-            "Name": "I've Got a Golden Tickegg!",
-            "Difficulty": "4"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...",
-            "NextIndex": "7"
-        },
-        {
-            "Type": "None",
-            "DialogueText": "You found one! Thats @ . @ very impressive! Come @ . @ back tomorrow to find more capsules! @ . @ Good job Eggy! @ . @ Yea nice! @ . @ Haha thx guys #",
-            "NextIndex": "9"
         }
     ],
     "Iceland_Irwin": [

@@ -101,10 +101,6 @@
         "slimeR": ["Y3", "2", "+{%_Defence_from_Equipment", "3", "3"],
         "loveEvent": ["Y4", "1.5", "+{%_Total_HP", "5", "4"],
         "loveEvent2": ["Y5", "1.5", "+{%_Boost_Food_Effect", "4", "5"],
-        "sheepB": ["Y6", "3", "+{%_MP_regen_rate", "3", "6"],
-        "snakeY": ["Y7", "3", "+{_Base_LUK", "3", "7"],
-        "EasterEvent1": ["Y8", "1.5", "+{%_Card_Drop_Chance", "1", "8"],
-        "EasterEvent2": ["Y9", "1.5", "+{%_Critical_Damage", "1", "9"],
-        "Blank": ["A0", "10", "+{%_Base_HP", "3", "15"]
+        "Blank": ["A0", "10", "+{%_Base_HP", "3", "7"]
     }
 }

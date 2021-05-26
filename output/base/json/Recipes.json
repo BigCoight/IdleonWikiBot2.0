@@ -84,8 +84,8 @@
         },
         "EquipmentTools2": {
             "recipe": [
-                ["CopperBar", "13"],
-                ["Grasslands2", "30"]
+                ["CopperBar", "20"],
+                ["Grasslands2", "50"]
             ],
             "levelReqToCraft": "3",
             "expGiven": "10",
@@ -103,9 +103,9 @@
         },
         "EquipmentToolsHatchet3": {
             "recipe": [
-                ["CopperBar", "13"],
+                ["CopperBar", "20"],
                 ["OakTree", "30"],
-                ["CraftMat1", "15"]
+                ["CraftMat1", "30"]
             ],
             "levelReqToCraft": "4",
             "expGiven": "10",
@@ -125,8 +125,8 @@
         "EquipmentHats15": {
             "recipe": [
                 ["Grasslands2", "25"],
-                ["OakTree", "45"],
-                ["CraftMat1", "13"]
+                ["OakTree", "75"],
+                ["CraftMat1", "25"]
             ],
             "levelReqToCraft": "4",
             "expGiven": "12",
@@ -135,9 +135,9 @@
         },
         "EquipmentPunching2": {
             "recipe": [
-                ["CopperBar", "20"],
-                ["OakTree", "75"],
-                ["CraftMat5", "20"]
+                ["CopperBar", "30"],
+                ["OakTree", "100"],
+                ["CraftMat5", "50"]
             ],
             "levelReqToCraft": "6",
             "expGiven": "15",
@@ -148,8 +148,8 @@
             "recipe": [
                 ["FoodHealth1", "75"],
                 ["FoodHealth3", "25"],
-                ["OakTree", "60"],
-                ["CopperBar", "15"]
+                ["OakTree", "75"],
+                ["CopperBar", "20"]
             ],
             "levelReqToCraft": "7",
             "expGiven": "20",
@@ -158,9 +158,9 @@
         },
         "MaxCapBagM2": {
             "recipe": [
-                ["CraftMat5", "80"],
-                ["Grasslands2", "40"],
-                ["Grasslands3", "30"]
+                ["CraftMat5", "125"],
+                ["Grasslands2", "50"],
+                ["Grasslands3", "50"]
             ],
             "levelReqToCraft": "8",
             "expGiven": "25",
@@ -169,7 +169,7 @@
         },
         "EquipmentHats17": {
             "recipe": [
-                ["CopperBar", "50"],
+                ["CopperBar", "75"],
                 ["Grasslands3", "75"]
             ],
             "levelReqToCraft": "6",
@@ -179,7 +179,7 @@
         },
         "EquipmentShirts11": {
             "recipe": [
-                ["CopperBar", "65"],
+                ["CopperBar", "90"],
                 ["CraftMat5", "150"]
             ],
             "levelReqToCraft": "7",
@@ -189,7 +189,7 @@
         },
         "EquipmentPants2": {
             "recipe": [
-                ["CopperBar", "80"],
+                ["CopperBar", "110"],
                 ["BirchTree", "200"]
             ],
             "levelReqToCraft": "8",
@@ -208,8 +208,8 @@
         },
         "EquipmentHats20": {
             "recipe": [
-                ["IronBar", "25"],
-                ["Copper", "150"],
+                ["IronBar", "35"],
+                ["Copper", "300"],
                 ["EquipmentHats17", "2"]
             ],
             "levelReqToCraft": "10",
@@ -219,8 +219,8 @@
         },
         "EquipmentHats3": {
             "recipe": [
-                ["IronBar", "25"],
-                ["CraftMat1", "150"],
+                ["IronBar", "35"],
+                ["CraftMat1", "300"],
                 ["EquipmentHats17", "2"]
             ],
             "levelReqToCraft": "10",
@@ -230,8 +230,8 @@
         },
         "EquipmentHats16": {
             "recipe": [
-                ["IronBar", "25"],
-                ["OakTree", "200"],
+                ["IronBar", "35"],
+                ["OakTree", "550"],
                 ["EquipmentHats17", "2"]
             ],
             "levelReqToCraft": "10",
@@ -251,8 +251,8 @@
         },
         "TestObj7": {
             "recipe": [
-                ["Jungle1", "150"],
-                ["CraftMat6", "125"]
+                ["Jungle1", "300"],
+                ["CraftMat6", "200"]
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
@@ -261,8 +261,8 @@
         },
         "EquipmentBows3": {
             "recipe": [
-                ["Jungle1", "150"],
-                ["BirchTree", "250"]
+                ["Jungle1", "300"],
+                ["BirchTree", "400"]
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
@@ -271,8 +271,8 @@
         },
         "EquipmentWands2": {
             "recipe": [
-                ["Jungle1", "150"],
-                ["CopperBar", "100"]
+                ["Jungle1", "300"],
+                ["CopperBar", "175"]
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
@@ -290,8 +290,8 @@
         },
         "EquipmentTools3": {
             "recipe": [
-                ["IronBar", "140"],
-                ["Jungle3", "250"]
+                ["IronBar", "175"],
+                ["Jungle3", "300"]
             ],
             "levelReqToCraft": "13",
             "expGiven": "500",
@@ -309,8 +309,8 @@
         },
         "EquipmentToolsHatchet1": {
             "recipe": [
-                ["JungleTree", "370"],
-                ["CraftMat6", "200"]
+                ["JungleTree", "450"],
+                ["CraftMat6", "250"]
             ],
             "levelReqToCraft": "14",
             "expGiven": "680",
@@ -328,7 +328,7 @@
         },
         "EquipmentHats18": {
             "recipe": [
-                ["IronBar", "180"],
+                ["IronBar", "225"],
                 ["Forest1", "400"]
             ],
             "levelReqToCraft": "12",
@@ -338,7 +338,7 @@
         },
         "EquipmentShirts12": {
             "recipe": [
-                ["IronBar", "200"],
+                ["IronBar", "275"],
                 ["JungleTree", "800"]
             ],
             "levelReqToCraft": "13",
@@ -348,7 +348,7 @@
         },
         "EquipmentPants3": {
             "recipe": [
-                ["IronBar", "225"],
+                ["IronBar", "300"],
                 ["CraftMat6", "300"]
             ],
             "levelReqToCraft": "14",
@@ -413,9 +413,9 @@
         },
         "EquipmentHats8": {
             "recipe": [
-                ["BirchTree", "100"],
-                ["Iron", "50"],
-                ["OilBarrel1", "60"]
+                ["BirchTree", "150"],
+                ["Iron", "75"],
+                ["OilBarrel1", "100"]
             ],
             "levelReqToCraft": "5",
             "expGiven": "20",
@@ -1141,8 +1141,8 @@
         },
         "FishingRod5": {
             "recipe": [
-                ["Fish4", "7000"],
-                ["PlatBar", "1000"],
+                ["Fish4", "12000"],
+                ["PlatBar", "2000"],
                 ["FishingRod4", "3"]
             ],
             "levelReqToCraft": "29",
