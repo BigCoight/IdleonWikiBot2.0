@@ -1,0 +1,79 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Pisces
+|mmm=Davidson
+|birthweight=5.63
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Rhyming is Key!
+|text=Kill moonmen until they drop all the keys you need.
+|difficulty=4f
+|requirements=10x {{CraftReq|Loomi's Room Key}}
+|consumed=Yes
+|rewards=3x {{CraftReq|Mystery Upgrade Stone I}}, 8x {{CraftReq|Gem}}, 5x {{CraftReq|Small Experience Balloon}}
+}}
+{{Quest
+|name=Uh, Something About Vials?
+|text=Upgrade 30 Vials up to light-blue rarity or higher
+|difficulty=5
+|requirements=Blue Alch Vials: >= 30. Starting at 0. 
+|consumed=No
+|rewards=3x {{CraftReq|Mystery Upgrade Stone I}}, 10x {{CraftReq|Gem}}, 15x {{CraftReq|Distilled Water}}
+}}
+{{Quest
+|name=Journey to the Center of the Blundermines
+|text=Reach the Slip Slidy Ledge mining area
+|difficulty=5
+|requirements=Slip Slidy Ledge: >= 1. Starting at 0. 
+|consumed=No
+|rewards=5x {{CraftReq|Mystery Upgrade Stone I}}, 15x {{CraftReq|Gem}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Ooowee such a spooky place this be!
+}}
+{{dialogue/row
+|text=Rope go up but where it go? Then rope over there but how? No one know!
+}}
+{{dialogue/row
+|text=I like mystery this place for me! But in need of help this pyramid be!
+}}
+{{dialogue/row
+|text=Moonmen steal key they're meant for me! Get them back rare as they may be! @ QUEST:Kill moonmen until they drop all the keys you need.
+|quest=Rhyming is Key!
+}}
+{{dialogue/row
+|text=You have full inventory is this end of story?
+}}
+{{dialogue/row
+|text=I like keys they open doors! Many many doors some below floors!
+}}
+{{dialogue/row
+|text=But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 30 Vials up to light-blue rarity or higher
+|quest=Uh, Something About Vials?
+}}
+{{dialogue/row
+|text=You have full inventory is this end of your story?
+}}
+{{dialogue/row
+|text=The deed done hope you had fun! But you run free and leave me be where sun I cant see!
+}}
+{{dialogue/row
+|text=My head keep spinning around and around. It won't stop until you go underground never to be found!
+}}
+{{dialogue/row
+|text=So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Slip Slidy Ledge mining area
+|quest=Journey to the Center of the Blundermines
+}}
+{{dialogue/row
+|text=You have full inventory is this end of story?
+}}
+{{dialogue/row
+|text=Oowee I've got more to say just not today!
+}}
+|}

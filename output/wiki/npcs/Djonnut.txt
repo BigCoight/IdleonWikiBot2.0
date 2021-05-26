@@ -1,0 +1,61 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Pisces
+|mmm=Illingsworth
+|birthweight=7.67
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Genie Dieting
+|text=Collect some very blue thingies for this very blue dude
+|difficulty=4
+|requirements=2000x {{CraftReq|Average Mana Potion}}, 4000x {{CraftReq|Icing Ironbite}}, 1000x {{CraftReq|Jellyfish}}
+|consumed=Yes
+|rewards=8x {{CraftReq|1 HR Time Candy}}
+}}
+{{Quest
+|name=I'm Blue Dabadedada
+|text=Defeat Moonmen and retrieve some ghosts
+|difficulty=4
+|requirements=Moonmen Touched: >= 30000. Starting at 0. Ghosts Collected: >= 2. Starting at 0. 
+|consumed=No
+|rewards=2x {{CraftReq|Efaunt's Tomb Key}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Hallo you want me grant wish to open pyramid? Weeeell you are not of luck today. I wish for big donut and got small donut instead so my powers work are not work.
+}}
+{{dialogue/row
+|text=But hay! Your mana bar so full maybe you get me mana items so I can make wishes again? Then I wish for pyramid to open why not.
+}}
+{{dialogue/row
+|text=Get for me all the most very blue items! I will use to regain my wishing powers! @ QUEST:Collect some very blue thingies for this very blue dude
+|quest=Genie Dieting
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Oooo very naiiice! I feel like I hav the wishyness to open up that pyra-- @ I WISH FOR A BUNCH OF CANDY! @ ...ehe whooopses! It kinda just slipped out. Here u can hav some of my candy!
+}}
+{{dialogue/row
+|text=Ok pls why yu hef to be mad is only videogame! I make it up to you just get me mor blue stuffs and I wish for door open for you! @ QUEST:Defeat Moonmen and retrieve some ghosts
+|quest=I'm Blue Dabadedada
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=You only hav two measly blue items? This won't work at all it is hopeless!! Boy am I feeling blue... @ AHA! I WISH FOR BIG DONUT!!! @ Haha I am of joking! I never lost my power I only wanted to make a funny lololol!
+}}
+{{dialogue/row
+|text=Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!
+}}
+{{dialogue/row
+|text=Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!
+}}
+|}

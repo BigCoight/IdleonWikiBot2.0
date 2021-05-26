@@ -1,0 +1,30 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Aquarius
+|mmm=Anderson
+|birthweight=6.09
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Restoring Power to the Portal
+|difficulty=4
+|requirements=1x {{CraftReq|Desert Topaz}}
+|consumed=Yes
+|rewards=2x {{CraftReq|Small Experience Balloon}}, 2500x {{CraftReq|COIN}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Kacaw!!
+}}
+{{dialogue/row
+|text=Kacaw! @ 'The bird awaits the return of the town gem. They're ready to restore the gem to the portal allowing travel to World 2. They look very stylish in their matching orange hat and scarf.'
+|quest=Restoring Power to the Portal
+}}
+{{dialogue/row
+|text=Kacaw! Kacaw! @ 'The bird looks very happy with itself after successfully restoring the portal.'
+}}
+|}

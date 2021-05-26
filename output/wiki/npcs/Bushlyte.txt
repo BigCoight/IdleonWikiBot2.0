@@ -1,0 +1,82 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Capricorn
+|mmm=Boyd
+|birthweight=3.03
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=A Peanut for your Thoughts
+|difficulty=1
+|requirements=100x {{CraftReq|Peanut}}
+|consumed=Yes
+|rewards=1x {{CraftReq|Mystery Upgrade Stone I}}, 777x {{CraftReq|COIN}}
+}}
+{{Quest
+|name=Honk if you Love Peanuts!
+|difficulty=2
+|requirements=250x {{CraftReq|Peanut}}
+|consumed=Yes
+|rewards=2x {{CraftReq|Mystery Upgrade Stone I}}, 1500x {{CraftReq|COIN}}
+}}
+{{Quest
+|name=A Peanut Saved is a Peanut not Eaten!
+|difficulty=3
+|requirements=700x {{CraftReq|Peanut}}
+|consumed=Yes
+|rewards=3x {{CraftReq|Mystery Upgrade Stone I}}, 1x {{CraftReq|Stone Peanut}}, 2500x {{CraftReq|COIN}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=MMMM... PEEAAANUT
+}}
+{{dialogue/row
+|text=PLEZ I WANT MOAR PEANUT!
+|quest=A Peanut for your Thoughts
+}}
+{{dialogue/row
+|text=ME GIV U NON PEANUT GIFT BUT U NEED SPACE
+}}
+{{dialogue/row
+|text=NOMNOMNOM...
+}}
+{{dialogue/row
+|text=MOAR PEANUT MOAR PEANUT!!
+|quest=Honk if you Love Peanuts!
+}}
+{{dialogue/row
+|text=ME GIV U NON PEANUT GIFT BUT U NEED SPACE
+}}
+{{dialogue/row
+|text=NOMNOMNOMNOMNOM...
+}}
+{{dialogue/row
+|text=MOOOOOAAAAAARRRRR!!!
+|quest=A Peanut Saved is a Peanut not Eaten!
+}}
+{{dialogue/row
+|text=ME GIV U NON PEANUT GIFT BUT U NEED SPACE
+}}
+{{dialogue/row
+|text=NOMNOMNOMNOMNOMNOMNOMNOM!
+}}
+{{dialogue/row
+|text=THANX FRIEND! I DONUT USUALLY SAY THIS BUT I AM IN SECRET GROUP VERY FUN!
+}}
+{{dialogue/row
+|text=WE ARE EXCLUSIVE BUT UR NICE GUY SO HERE IS HINT RETURN TO ME WITH A SIMPLER MIND AND PLACE IN GROUP YOU SHALL FIND! I SAY NO MORE NO NO!
+}}
+{{dialogue/row
+|text=PEEAAANUTT!
+}}
+{{dialogue/row
+|text=WOOAH...U ARE STILL BEGINNER! BEGINNER IS BEST CLASS I AM BEGINNER TOO!!! BUT U CAN BE BETTER BEGINNER I KNOW HOW!
+}}
+{{dialogue/row
+|text=DROP STONE PEANUT AT MARKED ROCK IN GRASSY LANDS.... YUMMY OFFERING FOR ROCKLYTE FRIEND! HE WILL LET U JOIN SECRET GROUP AND BECOME BEST BEGINNER!
+}}
+|}

@@ -28,6 +28,22 @@ def openCSV(fn):
     return res
 
 
+def getTalentName(qty):
+    talentName = openCSV("TalentNames")
+    no = int(qty[0])
+    index = int(qty[1:no+1])
+    return repU(talentName[index])
+
+
+def getSmithingRecipe(name, qty):
+    recipes = openJSON("Recipes")
+    tab = int(name[-1]) - 1
+    index = int(qty)
+    for name, item in recipes[tab].items():
+        if int(item["no"]) == index:
+            return nameDic(name), tab
+
+
 def formatDio(line, quest):
     temp = {}
     if dtext := line.get("DialogueText"):
@@ -52,7 +68,15 @@ def formatQuest(line):
     for i in range(0, len(lineRew), 2):
         currentRewName = nameDic(lineRew[i])
         if lineRew[i][:10] == 'Experience':
-            currentRewName = lvlType[int(lineRew[i][-1])] + " Experience"
+            currentRewName = lvlType[int(lineRew[i][-1])] + ";Experience"
+        elif lineRew[i][:-1] == "TalentBook":
+            currentRewName = getTalentName(lineRew[i+1]) + ";Talent Book"
+            lineRew[i+1] = "1"
+        elif lineRew[i][:-1] == "SmithingRecipes":
+            recipData = getSmithingRecipe(lineRew[i], lineRew[i+1])
+            lineRew[i+1] = "1"
+            currentRewName = f"{recipData[0]};Recipe;{recipData[1]}"
+
         currentRew.append((currentRewName, lineRew[i+1]))
 
     newQuest["rewards"] = currentRew
@@ -72,6 +96,8 @@ def formatQuest(line):
 
     newQuest["consumed"] = "Yes" if line["ConsumeItems"] == "!0" else "No"
     newQuest["dialogueText"] = line["DialogueText"]
+    newQuest["difficulty"] = line["Difficulty"]
+    newQuest["name"] = line["Name"]
     if len(line["DialogueText"].split(":")) > 1:
         newQuest["questText"] = line["DialogueText"].split(":")[1]
 
@@ -81,10 +107,15 @@ def formatQuest(line):
 def main():
     newNpcs = {}
     npcData = openJSON("Npcs")
+    nameConflicts = {
+        "Ghost": "Ghost_(Event)",
+        "Dog_Bone": "Dog_Bone_(NPC)"
+    }
 
     for name, npc in npcData.items():
         if name == "Mecha_Pete":
             continue
+        name = nameConflicts.get(name, name)
         newNpcs[name] = {"Quests": [], "Dialogue": []}
 
         for line in npc:

@@ -507,7 +507,6 @@ def main():
 
     allItemsEnd(items)
     writeJSON("Items", items)
-    # getNotes.main()
 
 
 if __name__ == '__main__':

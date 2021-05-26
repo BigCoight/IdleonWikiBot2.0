@@ -1,0 +1,90 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Scorpio
+|mmm=Duffman
+|birthweight=9.68
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Darn Lazy Gamers!
+|text=Kill 750 Potatos. Idle kills don't count.
+|difficulty=3
+|requirements=Potato Kills: >= 750. Starting at 0. 
+|consumed=No
+|rewards=1x {{CraftReq|Silver STR Obol}}, 3x {{CraftReq|Gem}}, 80000 Class Experience
+}}
+{{Quest
+|name=Old Timey Craftin'
+|difficulty=4
+|requirements=Bullets Crafted: >= 225. Starting at 0. Unopened Chest: >= 1. Starting at 1. 
+|consumed=No
+|rewards=15x {{CraftReq|Distilled Water}}, 2x {{CraftReq|Small Experience Balloon}}, 6000 Smithing Experience
+}}
+{{Quest
+|name=Be like Buster!
+|text=Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.
+|difficulty=3
+|requirements=Epic KO: >= 1. Starting at 0. 
+|consumed=No
+|rewards=4x {{CraftReq|Gem}}, 120000 Class Experience
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Eeehhh I'm gettin' too old for this vidya schmidya game nonsense!
+}}
+{{dialogue/row
+|text=Oh blunderin' bildrats! It's another one of you playermagiggers. You looking for a quest eh? I've got one for ya!!! @ QUEST:Get off my gosh darn lawn!
+}}
+{{dialogue/row
+|text=Ehhh... nah that ain't no real quest I'm just fluent in Orange Text. Suppose if you youngsters gon' keep botherin' me I best make the most of it.
+}}
+{{dialogue/row
+|text=I ain't lookin' for no posessions no sir-eee. I'm just fixin' for them young'ns to stop bein' so gosh darn lazy!
+}}
+{{dialogue/row
+|text=Fer cryin' out loud I heard they've got them vidya games playin' themselves now 'stead of playin' the game themself! And even worse some of 'em arr makin' games for a livin I mean talk about not doin' any real work!
+}}
+{{dialogue/row
+|text=Hows about you set a good example? You gotta show 'em how to earn things the RIGHT way! Just like I done did myslf when I was a lad. @ QUEST:Kill 750 Potatos. Idle kills don't count.
+|quest=Darn Lazy Gamers!
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Hrmph I suppose that will do. Although back in my day monsters didn't respawn so quickly. We used to have to keep a few monsters alive then wait 9 months for more monsters to appear it was su... @ 'Carpetiem continues talking for a few minutes'
+}}
+{{dialogue/row
+|text=... and that's why I constantly blink my eyes all the time! Anyway them youngin's are still as lazy as ever so lets keep workin' on that!
+}}
+{{dialogue/row
+|text=It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.
+|quest=Old Timey Craftin'
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Well clean my fibers ya did it! Although back in my day we didn't have extra inventory slots n' there wasn't no gem either! We didn't even have carry capacity bags above 100 either which made things extra diffi... @ 'Carpetiem continues talking for a few hours'
+}}
+{{dialogue/row
+|text=... and that's how I appeared in Idle Skilling without anyone ever noticing me! Anyway them youngin's still keep idling their lives away so ya best do a better job settin' a good example!
+}}
+{{dialogue/row
+|text=Kids admire the worst people! Ninjas Streams and even the letter Q for some dang reason! Hows about you show em what a real role model is? @ QUEST:Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.
+|quest=Be like Buster!
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matchers weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a to... @ 'Carpentiem continues talking for 110 rounds'
+}}
+{{dialogue/row
+|text=... and that's how LavaFlame2 changed my dialogue because he didn't have enough time before release day to finish the Desert's Main Questline!
+}}
+|}

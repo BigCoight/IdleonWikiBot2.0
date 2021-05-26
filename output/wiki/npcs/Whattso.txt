@@ -1,0 +1,52 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Taurus
+|mmm=Casal
+|birthweight=1.11
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Mopey Dick
+|text=What are they looking at?
+|difficulty=1
+|requirements=20x {{CraftReq|Goldfish}}
+|consumed=Yes
+|rewards=1x {{CraftReq|Wormie Weight}}, 200 Fishing Experience, 2000x {{CraftReq|COIN}}
+}}
+{{Quest
+|name=The Whaley Hard Minigame
+|text=They look even sadder now try doing something else...
+|difficulty=3
+|requirements=Fish Minigame Score: >= 10. Starting at 0. 
+|consumed=No
+|rewards=1x {{CraftReq|Spoons Lol}}, 3x {{CraftReq|Gem}}, 2000 Fishing Experience
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=O.O
+}}
+{{dialogue/row
+|text=O.O @ QUEST:What are they looking at?
+|quest=Mopey Dick
+}}
+{{dialogue/row
+|text=O.O @ I think they want to give you something but you're out of inventory space.
+}}
+{{dialogue/row
+|text=`-`
+}}
+{{dialogue/row
+|text=`-` @ QUEST:They look even sadder now try doing something else...
+|quest=The Whaley Hard Minigame
+}}
+{{dialogue/row
+|text=`-` @  I think they want to give you something but you're out of inventory space.
+}}
+{{dialogue/row
+|text=T.T
+}}
+|}

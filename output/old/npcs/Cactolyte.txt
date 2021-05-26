@@ -1,0 +1,25 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Virgo
+|mmm=Bongard
+|birthweight=8.76
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=PEANUT!!! YEEE!
+}}
+{{dialogue/row
+|text=VERY HYPE TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDINING ME!
+}}
+{{dialogue/row
+|text=I AM MAESTRO MEMBER CACTOLYTE! I AM NEXT STEP TO YOU BECOMING THE BESTEST BEGINNER TO EVER BEGIN EVER!!!
+}}
+{{dialogue/row
+|text=AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSE--- @ Yea well tough luck! Lava here that class aint done yet! I'll hopefully have it out same time I get world 3 out though maybe late february?
+}}
+|}

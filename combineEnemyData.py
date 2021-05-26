@@ -29,12 +29,11 @@ def openCSV(fn):
 
 
 def getSmithingRecipe(recipes, name, qty):
-    nameDict = nameDic()
     tab = int(name[-1]) - 1
     index = int(qty)
     for name, item in recipes[tab].items():
         if int(item["no"]) == index:
-            return nameDict.get(name, name), tab
+            return nameDic(name), tab
 
 
 def getTalentName(talentName, qty):
@@ -43,12 +42,12 @@ def getTalentName(talentName, qty):
     return repU(talentName[index])
 
 
-def updateDrops(drops, nameDict, recipes, talentNames):
+def updateDrops(drops, recipes, talentNames):
     newDrops = []
     for drop in drops:
         if drop[2] == '0' or drop[1] == '0':
             continue
-        drop[0] = nameDict.get(drop[0], drop[0])
+        drop[0] = nameDic(drop[0])
         if drop[0][:-1] == "SmithingRecipes":
             recipData = getSmithingRecipe(
                 recipes, drop[0], drop[2])
@@ -91,7 +90,6 @@ def main():
         "Yum Yum Desert": "Crystal1",
         "Frostfire Tyundra": "Crystal2"
     }
-    nameDict = nameDic()
     enemies = openJSON("Enemies")
     recipes = openJSON("Recipes")
     subTables = openJSON("Droptables")
@@ -130,13 +128,13 @@ def main():
         # update drops esp recipe drops and talent books
         if drops := enemy.get("Drops"):
             enemies[name]["Drops"] = updateDrops(
-                drops, nameDict, recipes, talentNames)
+                drops, recipes, talentNames)
         if mType := enemy.get("Type"):
             enemy["Type"] = mType.split('.')[1]
 
         enemy["defFor0"] = defFor0Dmg(enemy["Damages"])
     for name, table in subTables.items():
-        subTables[name] = updateDrops(table, nameDict, recipes, talentNames)
+        subTables[name] = updateDrops(table, recipes, talentNames)
     skillDTS = {
         "ORE_TYPE": {},
         "TREE_TYPE": {},

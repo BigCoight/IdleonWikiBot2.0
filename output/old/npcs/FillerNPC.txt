@@ -1,0 +1,16 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Libra
+|mmm=Reamer
+|birthweight=2.45
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+}}
+|}

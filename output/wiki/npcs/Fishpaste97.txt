@@ -1,0 +1,40 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Taurus
+|mmm=Tiernan
+|birthweight=9.6
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name='Accidental' Exploit
+|text=Catch some Butterflies.
+|difficulty=3
+|requirements=1500x {{CraftReq|Butterfly}}
+|consumed=Yes
+|rewards=1x {{CraftReq|Fishing Rod Stamp}}, 1x {{CraftReq|1 HR Time Candy}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Hey there what's your fishing level?
+}}
+{{dialogue/row
+|text=That's cool... mines 22 haha! Pretty good I know. I'm a Barbarian class so it's kinda my specialty.
+}}
+{{dialogue/row
+|text=So whatcha doin' out here? You know any cool fishing places for a pro like me?
+}}
+{{dialogue/row
+|text=You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.
+|quest='Accidental' Exploit
+}}
+{{dialogue/row
+|text=Full inventory gamer buddy! Please clear 2 inventory spaces and come talk to me again!
+}}
+{{dialogue/row
+|text=Cool thanks a million! I'd add you as a friend but my friendslist is full sorry! @ Return Next Update!
+}}
+|}

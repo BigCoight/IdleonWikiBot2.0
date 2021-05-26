@@ -1,0 +1,19 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Capricorn
+|mmm=Pak
+|birthweight=6.18
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+}}
+{{dialogue/row
+|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+}}
+|}

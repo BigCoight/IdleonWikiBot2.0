@@ -1,0 +1,61 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Aries
+|mmm=Lewis
+|birthweight=1.61
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Egg Shaped Lootboxes!
+|text=Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!
+|difficulty=2
+|requirements=Find Egg Capsule: >= 5. Starting at 0. 
+|consumed=No
+|rewards=5x {{CraftReq|Egg Capsule}}, 5x {{CraftReq|Gem}}
+}}
+{{Quest
+|name=I've Got a Golden Tickegg!
+|text=Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!
+|difficulty=4
+|requirements=Find New Gold Egg: >= 1. Starting at 0. 
+|consumed=No
+|rewards=7x {{CraftReq|Egg Capsule}}, 5x {{CraftReq|Gem}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text='Hi!' @ . @ 'Hey!' @ . @ 'Huh?'
+}}
+{{dialogue/row
+|text='Im Eg @ . @ I'm Egg @ . @ I'm... wait which one am I again? The orange one? @ . @ And we are the @ . @ Easter Egggies! @ . @ ...Easter Eggies! Oh you're the orange one whoops!
+}}
+{{dialogue/row
+|text=To celebrate Spring we hid @ . @ lots of Egg Capsules! Would @ . @ ... wait wood? We didn't hide any wood we only hid Egg Capsules and Candy!
+}}
+{{dialogue/row
+|text=Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST:Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!
+|quest=Egg Shaped Lootboxes!
+}}
+{{dialogue/row
+|text=You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...
+}}
+{{dialogue/row
+|text=Thanks for giving us @ . @ back our egg capsules! We @ . @ are just kidding and wanted to scare you by pretending we took them back!
+}}
+{{dialogue/row
+|text='Sigh' Dang it Eggy @ . @ these jokes doesn't work @ . @ unless I say my lines properly...! I did it!
+}}
+{{dialogue/row
+|text=There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST:Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!
+|quest=I've Got a Golden Tickegg!
+}}
+{{dialogue/row
+|text=You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...
+}}
+{{dialogue/row
+|text=You found one! Thats @ . @ very impressive! Come @ . @ back tomorrow to find more capsules! @ . @ Good job Eggy! @ . @ Yea nice! @ . @ Haha thx guys #
+}}
+|}

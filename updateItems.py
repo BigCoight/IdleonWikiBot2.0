@@ -1,6 +1,6 @@
 # import pywikibot
 import json
-from libs.funcLib import camelCaseSplitter, doBonus, nameDic
+from libs.funcLib import camelCaseSplitter, nameDic
 from libs.jsonEncoder import CompactJSONEncoder
 #from pywikibot import Page, Site
 import re

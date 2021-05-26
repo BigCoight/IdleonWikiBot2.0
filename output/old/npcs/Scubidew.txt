@@ -1,0 +1,61 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Aquarius
+|mmm=Nuttle
+|birthweight=5.88
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Don't Step to Me, Bro!
+|text=Show him there are no water monters.
+|difficulty=2
+|requirements=400x {{CraftReq|Goldfish}}, 100x {{CraftReq|Hermit Can}}, 25x {{CraftReq|Jellyfish}}
+|consumed=Yes
+|rewards=1x {{CraftReq|Iron Hook}}, 3x {{CraftReq|Gem}}, 1000 Fishing Experience
+}}
+{{Quest
+|name=Uncovering the Deep Sea State!!!
+|text=Catch 7 fish in 2 minutes right here right now.
+|difficulty=3
+|requirements=Fish Caught: >= 7. Starting at 0. Time Left: >= 1. Starting at 121. 
+|consumed=No
+|rewards=1x {{CraftReq|Basic Bobber}}, 2x {{CraftReq|Tool Upgrade Stone II}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=No way bro I'm not gettin' in there bro there's no way BACK OFF!!
+}}
+{{dialogue/row
+|text=Yo haven't you seen? Or not seen I guess? There's heckin CREEPS chillin' just below that ocean surface crazy scary monsters that'll bite your face off! Why else they make the surface so hard to see through?
+}}
+{{dialogue/row
+|text=Look you wanna help?? Show me there ain't no monsters down there. This mask helps me breath sure but it ain't no binoculars! @ QUEST:Show him there are no water monters.
+|quest=Don't Step to Me, Bro!
+}}
+{{dialogue/row
+|text=Clear up some inventory fool I ain't boutta have no debts here I got rewards to give ya!
+}}
+{{dialogue/row
+|text=Hey hey come on now bro that's heckin' fishy of you to just show up with these. You obviously just bought them at a fish market.
+}}
+{{dialogue/row
+|text=If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 7 fish in 2 minutes right here right now.
+|quest=Uncovering the Deep Sea State!!!
+}}
+{{dialogue/row
+|text=Clear up some inventory fool I ain't boutta have no debts here I got rewards to give ya!
+}}
+{{dialogue/row
+|text=Pfft yea right I'm not falling for that! I totally saw you dump 10 regular fish in right before you started catching! Absolutely pathetic you didn't even try to hide your trickery either.
+}}
+{{dialogue/row
+|text=Say... you're awfully insistant on convincing me that the ocean isn't full of monsters. @ I KNEW IT! You're in cahoots with BlueAnon who's trying to resurrect the one who shall not be named in a coup to take power from Lavaflame!
+}}
+{{dialogue/row
+|text=Well I ain't lettin' you do it! I.. WAIT NO DON'T CUT OFF MY QUESTLINE I WAS JUST GETTING STAR-- @ Return Next Update!
+}}
+|}

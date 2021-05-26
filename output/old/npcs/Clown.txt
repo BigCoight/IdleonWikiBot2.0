@@ -1,0 +1,19 @@
+{{InfoNpc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Scorpio
+|mmm=Deitz
+|birthweight=8.63
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Games! Fun! Prizes! Come play why dont ya!
+}}
+{{dialogue/row
+|text=Well not yet actually. I'll be coded up before launch though!
+}}
+|}
