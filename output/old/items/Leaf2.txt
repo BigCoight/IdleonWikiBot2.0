@@ -3,3 +3,6 @@
 |sellprice=50
 |source=Choppin
 }}
+{{usedin/head}}
+{{usedin/row|[[Lonely_Hunter#Leaf Him Alone!|Leaf Him Alone!]]|50|Quests}}
+|}

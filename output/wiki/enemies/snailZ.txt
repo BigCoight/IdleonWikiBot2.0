@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Snelbie_Walking.gif
-|attack=300
+|attack=225
 |health=35000
-|defence=650
+|defence=400
 |speed=4
 |world=Yum Yum Desert
 |area=Djonnuttown
 |exp=460
 |respawn=40
-|defence0=338.94
+|defence0=244.76
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

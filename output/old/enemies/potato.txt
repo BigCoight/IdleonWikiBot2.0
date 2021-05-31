@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Mashed Potato_Walking.gif
+|attack=125
+|health=18500
+|defence=260
+|speed=6
+|world=Yum Yum Desert
+|area=Slamabam Straightaway
+|exp=310
+|respawn=40
+|defence0=123.37
+|crystal=Yes
+|crystalname=Crystal Crabal
+|hascard=Yes
+}}
+{{EnemyNavigation|Pincermin|Tyson}}
+{{DropTable/head}}
+{{DropTable/coin|100|0.37}}
+{{DropTable/row|Potato Remains|0.17|1}}
+{{DropTable/card|0.0001}}
+{{DropTable7|chance=0.0039}}
+|}

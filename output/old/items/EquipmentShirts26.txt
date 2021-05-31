@@ -21,13 +21,13 @@
 |resource3=Distilled Water|quantity3=25
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Ripped Tunic|10}}
-{{detrecipe|3|Midnight Cookie|10}}
-{{detrecipe|3|Distilled Water|25}}
+{{detrecipe|3|EfauntDrop1|10}}
+{{detrecipe|3|MidnightCookie|10}}
+{{detrecipe|3|PureWater|25}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Ripped Tunic|10}}
-{{detrecipe/totals|Midnight Cookie|10}}
-{{detrecipe/totals|Distilled Water|25}}
+{{detrecipe/totals|EfauntDrop1|10}}
+{{detrecipe/totals|MidnightCookie|10}}
+{{detrecipe/totals|PureWater|25}}
 |}

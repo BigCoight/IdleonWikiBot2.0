@@ -10,7 +10,7 @@
 {{usedin/row|[[Small Fish Pouch]]|2|Crafting}}
 {{usedin/row|[[Reinforced Net]]|3|Crafting}}
 {{usedin/row|[[Small Bug Pouch]]|2|Crafting}}
-{{usedin/row|[[Gold Boots]]|8|Crafting}}
+{{usedin/row|[[Gold Boots]]|4|Crafting}}
 {{usedin/row|[[Royal Bayonet]]|8|Crafting}}
 {{usedin/row|[[Spiked Menace]]|8|Crafting}}
 {{usedin/row|[[Starlight]]|8|Crafting}}
@@ -24,4 +24,6 @@
 {{usedin/row|[[Bandito Boots]]|9|Crafting}}
 {{usedin/row|[[Efaunt Ribcage]]|25|Crafting}}
 {{usedin/row|[[Efaunt Hipilium]]|25|Crafting}}
+{{usedin/row|[[Critter Numnums]]|1|Crafting}}
+{{usedin/row|[[Soulble Gum]]|1|Crafting}}
 |}

@@ -1,0 +1,47 @@
+{{InfoItem
+|class=Beginner
+|level=80
+|type=Helmet
+|luck=20
+|misc=15% Xp From Monsters
+|upgrade=5
+|defence=50
+|sellprice=1415500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=48
+|levelreq=49
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Grandma Disguise|quantity1=1
+|resource2=Void Imperium Helmet|quantity2=1
+|resource3=Dioxide Synthesis|quantity3=500
+}}
+{{detrecipe/head}}
+{{detrecipe|3|EquipmentHats39|1}}
+{{detrecipe|3|EquipmentHats54|1}}
+{{detrecipe|40|Refinery3|500}}
+{{detrecipe|40|EquipmentHats53|2}}
+{{detrecipe|80|Critter1|10000}}
+{{detrecipe|80|EquipmentHats19|4}}
+{{detrecipe|120|Fish3|16000}}
+{{detrecipe|120|EquipmentHats18|16}}
+{{detrecipe|160|IronBar|2000}}
+{{detrecipe|160|Forest1|4800}}
+{{detrecipe|120|PlatBar|3000}}
+{{detrecipe|80|DementiaBar|600}}
+{{detrecipe|40|VoidBar|1000}}
+{{detrecipe|3|Refinery4|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|EquipmentHats39|1}}
+{{detrecipe/totals|Refinery3|500}}
+{{detrecipe/totals|Critter1|10000}}
+{{detrecipe/totals|Fish3|16000}}
+{{detrecipe/totals|IronBar|2000}}
+{{detrecipe/totals|Forest1|4800}}
+{{detrecipe/totals|DementiaBar|600}}
+{{detrecipe/totals|Refinery4|500}}
+|}

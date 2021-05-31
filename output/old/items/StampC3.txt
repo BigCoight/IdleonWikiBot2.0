@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=3
-|type=Misc
+|type=Misc Stamp
 |bonus=% Spawn Chance
 |material=Boring Brick
 |sellprice=2000

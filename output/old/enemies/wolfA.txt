@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Amarok_Walking.gif
+|attack=1000
+|health=25000
+|defence=105
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Boop|Chaotic Amarok}}
+{{DropTable/head}}
+{{DropTable/coin|500|1}}
+{{DropTable/row|Magic Meatloaf|0.05|1}}
+{{DropTable/card|0.04}}
+{{DropTable/row|Grandma Disguise|0.001|1}}
+{{DropTable/row|Granite Obol of Amarok's Stare|0.0007|1}}
+{{DropTable/row|Amarok Slab|0.3|1}}
+{{DropTable1|chance=1}}
+{{DropTable2|chance=1}}
+{{DropTable3|chance=1}}
+|}

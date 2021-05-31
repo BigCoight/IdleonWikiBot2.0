@@ -1,3 +1,4 @@
+Cardboard Traps
 {{InfoItem
 |class=All
 |level=1
@@ -5,40 +6,152 @@
 |weaponpower=4
 |agi=2
 |upgrade=1
+|sellprice=5000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=3|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|1|Quests}}
+|}
+Silkskin Traps
 {{InfoItem
 |class=All
-|level=5
+|level=10
 |type=Trap Box Set
-|weaponpower=4
-|agi=2
+|weaponpower=8
+|agi=4
 |upgrade=1
-|sellprice=1
+|sellprice=600
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=80
+|levelreq=16
+|expgiven=750
+|recipefrom=Start
+|resource1=Poison Froge|quantity1=1
+|resource2=Redox Salts|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Critter1A|1}}
+{{detrecipe|3|Refinery1|5}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter1A|1}}
+{{detrecipe/totals|Refinery1|5}}
+|}
+Wooden Traps
 {{InfoItem
 |class=All
-|level=15
+|level=20
 |type=Trap Box Set
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=2
+|weaponpower=13
+|agi=7
+|upgrade=2
+|sellprice=6000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=68
+|levelreq=29
+|expgiven=4000
+|recipefrom=Start
+|resource1=Mutant Crabbo|quantity1=2
+|resource2=Redox Salts|quantity2=20
+}}
+{{usedin/head}}
+{{usedin/row|[[Natural Traps]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Critter2A|2}}
+{{detrecipe|3|Refinery1|20}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter2A|2}}
+{{detrecipe/totals|Refinery1|20}}
+|}
+Natural Traps
 {{InfoItem
 |class=All
-|level=25
+|level=30
 |type=Trap Box Set
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=3
+|weaponpower=20
+|agi=10
+|upgrade=2
+|sellprice=17015
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=16
+|levelreq=40
+|expgiven=225000
+|recipefrom=Start
+|resource1=Nakeo Moleo|quantity1=5
+|resource2=Redox Salts|quantity2=50
+|resource3=Wooden Traps|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Steel Traps]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Critter4A|5}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|TrapBoxSet3|2}}
+{{detrecipe|40|Critter2A|4}}
+{{detrecipe|40|Refinery1|40}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter4A|5}}
+{{detrecipe/totals|Refinery1|90}}
+{{detrecipe/totals|Critter2A|4}}
+|}
+Steel Traps
 {{InfoItem
 |class=All
-|level=35
+|level=40
 |type=Trap Box Set
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=4
+|weaponpower=26
+|agi=12
+|upgrade=3
+|sellprice=17033
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=40
+|levelreq=46
+|expgiven=500000
+|recipefrom=Start
+|resource1=Eternal Lord of  The Undying Ember|quantity1=6
+|resource2=Natural Traps|quantity2=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Critter6A|6}}
+{{detrecipe|3|TrapBoxSet4|1}}
+{{detrecipe|40|Critter4A|5}}
+{{detrecipe|40|Refinery1|50}}
+{{detrecipe|40|TrapBoxSet3|2}}
+{{detrecipe|80|Critter2A|4}}
+{{detrecipe|80|Refinery1|40}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter6A|6}}
+{{detrecipe/totals|Critter4A|5}}
+{{detrecipe/totals|Refinery1|90}}
+{{detrecipe/totals|Critter2A|4}}
+|}
+Royal Traps
+{{InfoItem
+|class=All
+|level=50
+|type=Trap Box Set
+|weaponpower=34
+|agi=15
+|upgrade=4
+|sellprice=5
 }}

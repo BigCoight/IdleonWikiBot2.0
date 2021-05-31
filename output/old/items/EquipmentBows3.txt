@@ -8,7 +8,7 @@
 |agi=5
 |reach=170
 |upgrade=2
-|sellprice=2250
+|sellprice=2000
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -16,7 +16,7 @@
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Slime Sludge|quantity1=150
+|resource1=Slime Sludge|quantity1=125
 |resource2=Bleach Logs|quantity2=250
 }}
 {{usedin/head}}
@@ -25,11 +25,11 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|150}}
-{{detrecipe|3|Bleach Logs|250}}
+{{detrecipe|3|Jungle1|125}}
+{{detrecipe|3|BirchTree|250}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Bleach Logs|250}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|BirchTree|250}}
 |}

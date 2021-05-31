@@ -18,15 +18,15 @@
 {{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Picnic Token|1}}
-{{detrecipe|3|TP Pete Token|1}}
-{{detrecipe|3|Sproutinald Token|1}}
-{{detrecipe|3|Dazey Token|1}}
+{{detrecipe|3|Quest9|1}}
+{{detrecipe|3|NPCtoken15|1}}
+{{detrecipe|3|NPCtoken12|1}}
+{{detrecipe|3|NPCtoken14|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Picnic Token|1}}
-{{detrecipe/totals|TP Pete Token|1}}
-{{detrecipe/totals|Sproutinald Token|1}}
-{{detrecipe/totals|Dazey Token|1}}
+{{detrecipe/totals|Quest9|1}}
+{{detrecipe/totals|NPCtoken15|1}}
+{{detrecipe/totals|NPCtoken12|1}}
+{{detrecipe/totals|NPCtoken14|1}}
 |}

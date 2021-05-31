@@ -1,11 +1,10 @@
 {{Fishingaccessory
 |depth2=15
 |fishingexp=5
-|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Whattso#Mopey Dick|Mopey Dick]]
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Whattso#Mopey Dick|Mopey Dick]]
 |type=Fishing Accessory
 |sellprice=5000
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Faraway Piers|stock=1|buyprice=20000}}
-{{Vendoritem/tablerow|number=1|vendor=Tundra Camp|stock=1|buyprice=20000}}
 |}

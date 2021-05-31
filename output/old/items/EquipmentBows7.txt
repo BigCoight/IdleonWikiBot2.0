@@ -4,9 +4,45 @@
 |type=Bow
 |speed=6
 |weaponpower=30
-|str=5
-|agi=13
-|reach=200
+|agi=15
+|misc=5% Crit Damage
+|reach=205
 |upgrade=4
-|sellprice=15000
+|sellprice=290740
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=6
+|levelreq=39
+|expgiven=200000
+|recipefrom=Start
+|resource1=Forest Soul|quantity1=7000
+|resource2=Pharoah Bow|quantity2=2
+|resource3=Redox Salts|quantity3=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Blackhole Bow]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul1|7000}}
+{{detrecipe|3|EquipmentBows6|2}}
+{{detrecipe|40|TreeInterior1b|6}}
+{{detrecipe|40|Fish4|6400}}
+{{detrecipe|40|EquipmentBows5|4}}
+{{detrecipe|80|GoldBar|1000}}
+{{detrecipe|80|EquipmentBows3|12}}
+{{detrecipe|120|Jungle1|1500}}
+{{detrecipe|120|BirchTree|3000}}
+{{detrecipe|80|PureWater|32}}
+{{detrecipe|3|Refinery1|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul1|7000}}
+{{detrecipe/totals|TreeInterior1b|6}}
+{{detrecipe/totals|Fish4|6400}}
+{{detrecipe/totals|GoldBar|1000}}
+{{detrecipe/totals|Jungle1|1500}}
+{{detrecipe/totals|BirchTree|3000}}
+{{detrecipe/totals|Refinery1|150}}
+|}

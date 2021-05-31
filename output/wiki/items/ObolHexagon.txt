@@ -1,3 +1,4 @@
+Platinum Obol of Blinding Speed
 {{InfoItem
 |class=All
 |level=1
@@ -7,6 +8,7 @@
 |sellprice=20
 |rarity=Platinum
 }}
+Platinum Obol of Dwarven Delving
 {{InfoItem
 |class=All
 |level=1
@@ -17,6 +19,7 @@
 |sellprice=20
 |rarity=Platinum
 }}
+Platinum Obol of Lumby Loggo
 {{InfoItem
 |class=All
 |level=1
@@ -27,6 +30,7 @@
 |sellprice=20
 |rarity=Platinum
 }}
+Platinum Obol of Tremendous Trout
 {{InfoItem
 |class=All
 |level=1
@@ -37,6 +41,7 @@
 |sellprice=20
 |rarity=Platinum
 }}
+Platinum Obol of Idk Yet
 {{InfoItem
 |class=All
 |level=1
@@ -47,6 +52,7 @@
 |sellprice=20
 |rarity=Platinum
 }}
+Skeletal Obol of Efaunt's Gaze
 {{InfoItem
 |class=All
 |level=1
@@ -59,13 +65,17 @@
 |misc=5% Boss Damage
 |sellprice=20
 |rarity=Skeletal
-|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]]
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.001|1}}
 {{detdrops|[[Chaotic Efaunt]]|0.001|1}}
 {{detdrops|[[Nightmare Amarok]]|0.001|1}}
+{{detdrops|[[Chizoar]]|0.001|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.001|1}}
+{{detdrops|[[Nightmare Chizoar]]|0.001|1}}
 |}
+Granite Obol of Amarok's Stare
 {{InfoItem
 |class=All
 |level=1

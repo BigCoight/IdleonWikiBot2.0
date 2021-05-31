@@ -5,7 +5,7 @@
 }}
 {{usedin/head}}
 {{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
-{{usedin/row|[[Amarok Helmet]]|3000|Crafting}}
+{{usedin/row|[[Amarok Helmet]]|2500|Crafting}}
 {{usedin/row|[[Reinforced Net]]|800|Crafting}}
 {{usedin/row|[[Royal Bayonet]]|1250|Crafting}}
 {{usedin/row|[[Average Choppin Pouch]]|1800|Crafting}}

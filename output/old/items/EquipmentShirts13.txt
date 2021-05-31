@@ -7,7 +7,7 @@
 |wis=5
 |upgrade=3
 |defence=18
-|sellprice=141525
+|sellprice=139025
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -20,16 +20,16 @@
 |resource3=Gold Bar|quantity3=350
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Pocket Sand|1500}}
-{{detrecipe|3|Copper Platebody|5}}
-{{detrecipe|40|Copper Bar|325}}
-{{detrecipe|40|Trusty Nails|750}}
-{{detrecipe|3|Gold Bar|350}}
+{{detrecipe|3|DesertA1|1500}}
+{{detrecipe|3|EquipmentShirts11|5}}
+{{detrecipe|40|CopperBar|225}}
+{{detrecipe|40|CraftMat5|600}}
+{{detrecipe|3|GoldBar|350}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Pocket Sand|1500}}
-{{detrecipe/totals|Copper Bar|325}}
-{{detrecipe/totals|Trusty Nails|750}}
-{{detrecipe/totals|Gold Bar|350}}
+{{detrecipe/totals|DesertA1|1500}}
+{{detrecipe/totals|CopperBar|225}}
+{{detrecipe/totals|CraftMat5|600}}
+{{detrecipe/totals|GoldBar|350}}
 |}

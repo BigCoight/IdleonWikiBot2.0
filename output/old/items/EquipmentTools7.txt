@@ -8,5 +8,42 @@
 |agi=5
 |misc=2% Mining Efficincy
 |upgrade=3
-|sellprice=200
+|sellprice=7994900
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=8
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Dementia Bar|quantity1=275
+|resource2=Moustache Comb|quantity2=15000
+|resource3=Platinum Pickaxe|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Pik]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|DementiaBar|275}}
+{{detrecipe|3|SnowA3|15000}}
+{{detrecipe|3|EquipmentTools6|2}}
+{{detrecipe|40|PlatBar|2000}}
+{{detrecipe|40|DesertB3|21000}}
+{{detrecipe|40|EquipmentTools5|4}}
+{{detrecipe|80|DesertA2|10000}}
+{{detrecipe|80|GoldBar|3200}}
+{{detrecipe|80|EquipmentTools3|12}}
+{{detrecipe|120|IronBar|1200}}
+{{detrecipe|120|Jungle3|2400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|DementiaBar|275}}
+{{detrecipe/totals|SnowA3|15000}}
+{{detrecipe/totals|PlatBar|2000}}
+{{detrecipe/totals|DesertB3|21000}}
+{{detrecipe/totals|DesertA2|10000}}
+{{detrecipe/totals|GoldBar|3200}}
+{{detrecipe/totals|IronBar|1200}}
+{{detrecipe/totals|Jungle3|2400}}
+|}

@@ -22,11 +22,11 @@
 {{usedin/row|[[Sleek Shank]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Cap|25}}
-{{detrecipe|3|Oak Logs|30}}
+{{detrecipe|3|Grasslands1|25}}
+{{detrecipe|3|OakTree|30}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Cap|25}}
-{{detrecipe/totals|Oak Logs|30}}
+{{detrecipe/totals|Grasslands1|25}}
+{{detrecipe/totals|OakTree|30}}
 |}

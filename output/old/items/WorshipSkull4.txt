@@ -1,9 +1,35 @@
 {{InfoItem
 |class=All
-|level=1
+|level=35
 |type=Worship Skull
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=100
+|weaponpower=20
+|wis=10
+|upgrade=2
+|sellprice=281600
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=18
+|levelreq=40
+|expgiven=225000
+|recipefrom=Start
+|resource1=Rooted Soul|quantity1=12500
+|resource2=Redox Salts|quantity2=50
+|resource3=Horned Skull|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Manifested Skull]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul3|12500}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|WorshipSkull3|2}}
+{{detrecipe|40|Soul2|2400}}
+{{detrecipe|40|Refinery1|50}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul3|12500}}
+{{detrecipe/totals|Refinery1|100}}
+{{detrecipe/totals|Soul2|2400}}
+|}

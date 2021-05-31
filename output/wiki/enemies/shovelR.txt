@@ -15,6 +15,6 @@
 {{EnemyNavigation|Snelbie|Crystal Crabal}}
 {{DropTable/head}}
 {{DropTable/coin|60|0.43}}
-{{DropTable/card|0.0001}}
+{{DropTable/card|0.10}}
 {{DropTable7|chance=0.0032}}
 |}

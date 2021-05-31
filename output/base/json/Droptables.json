@@ -175,5 +175,48 @@
         ["ObolGold3", "0.022050000000000004", "1", "N/A"],
         ["ObolSilverLuck", "0.022050000000000004", "1", "N/A"],
         ["StoneZ1", "0.7", "3", "N/A"]
+    ],
+    "DropTable14": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampB30", ".001", "1", "N/A"],
+        ["StampB36", ".0006", "1", "N/A"],
+        ["EquipmentStatues18", ".05", "15", "N/A"],
+        ["FoodPotOr3", ".15", "25", "N/A"],
+        ["SuperDropTable3", "0.006", "1", "N/A"]
+    ],
+    "DropTable15": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampC19", ".0003", "1", "N/A"],
+        ["StampA20", ".00015", "1", "N/A"],
+        ["FoodHealth10", ".5", "15", "N/A"],
+        ["EquipmentStatues18", ".04", "14", "N/A"],
+        ["SuperDropTable3", "0.006", "1", "N/A"]
+    ],
+    "DropTable16": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampB34", ".0001", "1", "N/A"],
+        ["StampA27", ".00008", "15", "N/A"],
+        ["FoodPotYe2", ".1", "25", "N/A"],
+        ["EquipmentStatues4", "0.03", "1", "N/A"],
+        ["SuperDropTable3", "0.006", "1", "N/A"]
+    ],
+    "DropTable17": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampB25", ".0012", "1", "N/A"],
+        ["SuperDropTable3", "0.006", "1", "N/A"]
+    ],
+    "DropTable18": [
+        ["COIN", "0", "1", "N/A"],
+        ["StampB27", ".0012", "1", "N/A"],
+        ["SuperDropTable3", "0.006", "1", "N/A"]
+    ],
+    "SuperDropTable3": [
+        ["COIN", "0", "1", "N/A"],
+        ["SilverPen", ".09", "1", "N/A"],
+        ["StampB31", ".015", "1", "N/A"],
+        ["Trophy2", ".0003", "1", "N/A"],
+        ["ResetFrag", ".15", "1", "N/A"],
+        ["FoodG5", "0.5", "1", "N/A"],
+        ["StoneZ2", "0.7", "3", "N/A"]
     ]
 }

@@ -1,0 +1,25 @@
+{{InfoItem
+|class=All
+|level=65
+|type=Inventory 
+|description=Hold down to permanently add +3 Slots to your Inventory. Can only be used once.
+|sellprice=5066
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=58
+|levelreq=35
+|expgiven=5000
+|recipefrom=Start
+|resource1=Mamooth Hide Bag|quantity1=1
+|resource2=Copper Ore|quantity2=22
+}}
+{{detrecipe/head}}
+{{detrecipe|3|InvBag110|1}}
+{{detrecipe|3|Copper|22}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|InvBag110|1}}
+{{detrecipe/totals|Copper|22}}
+|}

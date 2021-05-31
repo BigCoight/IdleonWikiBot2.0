@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=22
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multifish Chance
 |material=Platinum Ore
 |sellprice=3000

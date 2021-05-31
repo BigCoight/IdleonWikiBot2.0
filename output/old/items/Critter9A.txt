@@ -1,6 +1,10 @@
 {{InfoItem
 |type=Critter
-|description=One of the only beings strong enough to take on the Eternal Lord of the Undying Ember realm... their battle would be legendary.
+|description=One of the only beings strong enough to take on the Eternal Lord of the Undying Ember realm. Their battle would be legendary.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Untitled Quest|Untitled Quest]]|1|Quests}}
+{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|100|Quests}}
+|}

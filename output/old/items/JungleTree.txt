@@ -7,8 +7,8 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Iron Hatchet]]|370|Crafting}}
-{{usedin/row|[[Iron Platebody]]|800|Crafting}}
+{{usedin/row|[[Iron Hatchet]]|250|Crafting}}
+{{usedin/row|[[Iron Platebody]]|600|Crafting}}
 {{usedin/row|[[Saucy Logfries]]|6|Crafting}}
 {{usedin/row|[[Goo Galoshes]]|1000|Crafting}}
 {{usedin/row|[[Copper Netted Net]]|500|Crafting}}

@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=1
+|type=Trophy
+|agi=10
+|misc=3% Agi
+|sellprice=69
+|source=[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]
+}}

@@ -1,5 +1,38 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Logs, Leaves.
-|sellprice=10500
+|sellprice=1041000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=11
+|levelreq=35
+|expgiven=65000
+|recipefrom=Start
+|resource1=Tundra Logs|quantity1=20000
+|resource2=Sizable Choppin Pouch|quantity2=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Large Choppin Pouch]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SaharanFoal|20000}}
+{{detrecipe|3|MaxCapBagT4|2}}
+{{detrecipe|40|PalmTree|13500}}
+{{detrecipe|40|MaxCapBagT3|6}}
+{{detrecipe|80|MaxCapBag7|30}}
+{{detrecipe|120|OakTree|4500}}
+{{detrecipe|120|CraftMat5|900}}
+{{detrecipe|80|MaxCapBag9|18}}
+{{detrecipe|120|BirchTree|14400}}
+{{detrecipe|80|ForestTree|10800}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SaharanFoal|20000}}
+{{detrecipe/totals|PalmTree|13500}}
+{{detrecipe/totals|OakTree|4500}}
+{{detrecipe/totals|CraftMat5|900}}
+{{detrecipe/totals|BirchTree|14400}}
+{{detrecipe/totals|ForestTree|10800}}
+|}

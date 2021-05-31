@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Wood Mushroom_Walking.gif
+|attack=75
+|health=10000
+|defence=500
+|speed=4
+|world=Blunder Hills
+|area=Where the Branches End
+|exp=300
+|respawn=50
+|defence0=66.8
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Crystal Carrot|Sandy Pot}}
+{{DropTable/head}}
+{{DropTable/coin|40|0.5}}
+{{DropTable/row|Red Frisbee|0.00001|1}}
+{{DropTable/row|Woodular Circle|0.000075|1}}
+{{DropTable/card|0.0001}}
+{{DropTable3c|chance=.007}}
+{{DropTable5b|chance=.002}}
+|}

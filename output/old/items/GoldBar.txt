@@ -1,14 +1,12 @@
 {{InfoItem
 |type=Bar
 |sellprice=115
-|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.2|20}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.35|60}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Golden Peanut]]|50|Crafting}}

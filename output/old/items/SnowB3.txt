@@ -7,3 +7,6 @@
 {{detdrops/head}}
 {{detdrops|[[Penguin]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Vials#Visible Ink|Visible Ink]]|Lots|Alchemy}}
+|}

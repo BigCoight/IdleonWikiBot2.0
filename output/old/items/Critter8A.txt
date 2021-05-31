@@ -4,3 +4,6 @@
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
+|}

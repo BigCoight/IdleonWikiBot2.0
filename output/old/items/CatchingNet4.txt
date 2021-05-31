@@ -7,7 +7,7 @@
 |str=2
 |agi=6
 |upgrade=2
-|sellprice=119000
+|sellprice=87400
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,24 +17,24 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Dubloon|quantity1=5
 |resource2=Butterfly|quantity2=2500
-|resource3=Reinforced Net|quantity3=5
+|resource3=Reinforced Net|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Platinet]]|3|Crafting}}
+{{usedin/row|[[Platinet]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Dubloon|5}}
-{{detrecipe|3|Butterfly|2500}}
-{{detrecipe|3|Reinforced Net|5}}
-{{detrecipe|40|Forest Fibres|4000}}
-{{detrecipe|40|Butterfly|4250}}
-{{detrecipe|40|Distilled Water|15}}
+{{detrecipe|3|Quest19|5}}
+{{detrecipe|3|Bug2|2500}}
+{{detrecipe|3|CatchingNet3|3}}
+{{detrecipe|40|ForestTree|2400}}
+{{detrecipe|40|Bug2|2550}}
+{{detrecipe|40|PureWater|9}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Dubloon|5}}
-{{detrecipe/totals|Butterfly|6750}}
-{{detrecipe/totals|Forest Fibres|4000}}
-{{detrecipe/totals|Distilled Water|15}}
+{{detrecipe/totals|Quest19|5}}
+{{detrecipe/totals|Bug2|5050}}
+{{detrecipe/totals|ForestTree|2400}}
+{{detrecipe/totals|PureWater|9}}
 |}

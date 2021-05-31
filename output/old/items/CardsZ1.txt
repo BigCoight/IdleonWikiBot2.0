@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Dr Defecaus
 |order=1
-|category=Bosses
+|category=Event
 |effect=+{%_Total_Damage
 |bonus=5
 |reqtier=1.5

@@ -1,6 +1,6 @@
 {{InfoCard
 |title=Bloach
-|order=8
+|order=7
 |category=Medium Resources
 |effect=+{%_Fishing_Away_Gains
 |bonus=2

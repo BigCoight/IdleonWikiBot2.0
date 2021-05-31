@@ -1,22 +1,23 @@
 {{InfoEnemy
 |image=Quenchie_Walking.gif
-|attack=0
-|health=215000
-|defence=1
+|attack=1150
+|health=225000
+|defence=2600
 |speed=4
 |world=Frostfire Tyundra
 |area=Waterlogged Entrance
 |exp=1570
 |respawn=40
-|defence0=0.22
+|defence0=1408.37
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Thermister|Cryosnake}}
 {{DropTable/head}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/coin|370|0.34}}
 {{DropTable/row|Sippy Straw|0.16|1}}
 {{DropTable/card|0.0001}}
-{{DropTable8|chance=0.4}}
+{{DropTable/row|Twosoul Statue|0.0003|1}}
+{{DropTable16|chance=0.0025}}
 |}

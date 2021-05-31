@@ -1,0 +1,19 @@
+{{InfoEnemy
+|image=Rooted Soul_Walking.gif
+|attack=1000
+|health=420
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Wispy Tree|Frigid Soul}}
+{{DropTable/head}}
+{{DropTable/card|0.00016}}
+{{DropTable/row|Rooted Soul|1|1}}
+{{DropTable/row|Rooted Soul|1|1}}
+{{DropTable/row|Rooted Soul|1|1}}
+{{DropTable/row|Rooted Soul|1|1}}
+|}

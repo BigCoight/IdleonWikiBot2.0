@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=7
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multi Log Chance
 |material=Militia Helm
 |sellprice=1000
+|source=[[Frost Flake]]
 }}

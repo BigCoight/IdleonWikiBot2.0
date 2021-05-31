@@ -1,9 +1,30 @@
 {{InfoItem
 |class=All
-|level=1
+|level=25
 |type=Worship Skull
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=100
+|weaponpower=13
+|wis=7
+|upgrade=2
+|sellprice=13300
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=70
+|levelreq=29
+|expgiven=4000
+|recipefrom=Start
+|resource1=Dune Soul|quantity1=1200
+|resource2=Redox Salts|quantity2=25
+}}
+{{usedin/head}}
+{{usedin/row|[[Prickle Skull]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul2|1200}}
+{{detrecipe|3|Refinery1|25}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul2|1200}}
+{{detrecipe/totals|Refinery1|25}}
+|}

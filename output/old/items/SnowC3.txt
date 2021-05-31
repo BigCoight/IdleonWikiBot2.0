@@ -7,3 +7,7 @@
 {{detdrops/head}}
 {{detdrops|[[Bop Box]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Platebody]]|75000|Crafting}}
+{{usedin/row|[[Large Materials Pouch]]|70000|Crafting}}
+|}

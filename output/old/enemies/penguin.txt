@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Penguin_Walking.gif
+|attack=800
+|health=160000
+|defence=2000
+|speed=4
+|world=Frostfire Tyundra
+|area=Signature Slopes
+|exp=1250
+|respawn=40
+|defence0=973.57
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Snowman|Thermister}}
+{{DropTable/head}}
+{{DropTable/coin|310|0.36}}
+{{DropTable/row|Pen|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/row|Box Statue|0.0003|1}}
+{{DropTable15|chance=0.0031}}
+|}

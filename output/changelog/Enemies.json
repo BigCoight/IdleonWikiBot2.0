@@ -1,0 +1,731 @@
+{
+    "Changes": {
+        "beanG": {
+            "Damages": ["14", "11"],
+            "defFor0": [8.14, 5.97]
+        },
+        "slimeG": {
+            "Damages": ["17", "15"],
+            "defFor0": [10.43, 8.9]
+        },
+        "snakeG": {
+            "Damages": ["22", "18"],
+            "defFor0": [14.57, 11.22]
+        },
+        "carrotO": {
+            "Damages": ["26", "22"],
+            "defFor0": [17.99, 14.57]
+        },
+        "goblinG": {
+            "Damages": ["35", "30"],
+            "defFor0": [26.12, 21.54]
+        },
+        "plank": {
+            "Damages": ["40", "35"],
+            "defFor0": [30.84, 26.12]
+        },
+        "frogBIG": {
+            "Defence": ["120", "110"],
+            "Damages": ["60", "45"],
+            "defFor0": [50.87, 35.69]
+        },
+        "jarSand": {
+            "Defence": ["125", "115"],
+            "Damages": ["70", "55"],
+            "defFor0": [61.42, 45.72]
+        },
+        "mimicA": {
+            "Defence": ["145", "132"],
+            "Damages": ["85", "62"],
+            "defFor0": [77.74, 52.96]
+        },
+        "crabcake": {
+            "Defence": ["180", "150"],
+            "Damages": ["92", "70"],
+            "defFor0": [85.52, 61.42]
+        },
+        "coconut": {
+            "Defence": ["240", "180"],
+            "Damages": ["115", "90"],
+            "defFor0": [111.73, 83.29]
+        },
+        "sandcastle": {
+            "Defence": ["270", "205"],
+            "Damages": ["125", "99"],
+            "defFor0": [123.37, 93.41]
+        },
+        "pincermin": {
+            "Defence": ["300", "240"],
+            "Damages": ["140", "112"],
+            "defFor0": [141.06, 108.27]
+        },
+        "potato": {
+            "Defence": ["330", "260"],
+            "Damages": ["160", "125"],
+            "defFor0": [165, 123.37]
+        },
+        "steak": {
+            "Defence": ["450", "300"],
+            "Damages": ["220", "150"],
+            "defFor0": [238.55, 152.99]
+        },
+        "moonman": {
+            "Defence": ["500", "330"],
+            "MoveSPEED": ["5", "4"],
+            "Damages": ["240", "170"],
+            "defFor0": [263.46, 177.1]
+        },
+        "sandgiant": {
+            "Defence": ["550", "365"],
+            "Damages": ["260", "195"],
+            "defFor0": [288.51, 207.65]
+        },
+        "snailZ": {
+            "Defence": ["650", "400"],
+            "Damages": ["300", "225"],
+            "defFor0": [338.94, 244.76]
+        },
+        "sheep": {
+            "Defence": ["1", "550"],
+            "Damages": ["0", "300"],
+            "defFor0": [0.22, 338.94],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Box Statue", "0.0002", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.5", "180", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Twin Ores Stamp", "0.00008", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable14", "0.0025", "1", "N/A"]
+                ]
+            }
+        },
+        "flake": {
+            "Defence": ["1", "700"],
+            "Damages": ["0", "360"],
+            "defFor0": [0.22, 415.1],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Duplogs Stamp", "0.00006", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.46", "190", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Yellow Snowflake", "0.00005", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable14", "0.0028", "1", "N/A"]
+                ]
+            }
+        },
+        "stache": {
+            "Defence": ["1", "900"],
+            "Damages": ["0", "420"],
+            "defFor0": [0.22, 491.48],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Decent Speed Potion", ".002", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.43", "205", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Twosoul Statue", "0.0002", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable14", "0.0031", "1", "N/A"]
+                ]
+            }
+        },
+        "ram": {
+            "RespawnTime": ["40", "35"],
+            "MonsterHPTotal": ["250000", "1250000"],
+            "ExpGiven": ["1900", "3500"],
+            "Defence": ["1", "1500"],
+            "Damages": ["100", "3000"],
+            "defFor0": [94.54, 3563.92],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["DropTable16", "0.00004", "1", "N/A"]
+                ]
+            }
+        },
+        "bloque": {
+            "Defence": ["1", "1150"],
+            "Damages": ["0", "500"],
+            "defFor0": [0.22, 593.5],
+            "Drops": {
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.41", "240", "N/A"]
+                ],
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Seesaw Statue", "0.0002", "1", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Decent Mana Potion", ".0025", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable15", "0.0025", "1", "N/A"]
+                ]
+            }
+        },
+        "mamoth": {
+            "Defence": ["1", "1400"],
+            "Damages": ["0", "580"],
+            "defFor0": [0.22, 695.37],
+            "Drops": {
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.39", "260", "N/A"]
+                ],
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Ice Age 3", "0.00005", "1", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Mamooth Hide Bag", "0.000002", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable15", "0.0027", "1", "N/A"]
+                ]
+            }
+        },
+        "snowball": {
+            "MonsterHPTotal": ["130000", "135000"],
+            "Defence": ["1", "1700"],
+            "Damages": ["0", "690"],
+            "defFor0": [0.22, 834.89],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Cool Diggy Tool Stamp", "0.000025", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.37", "285", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["Mountain Bread", ".009", "1", "N/A"]
+                ],
+                "5": [
+                    " ",
+                    ["DropTable15", "0.0029", "1", "N/A"]
+                ]
+            }
+        },
+        "penguin": {
+            "MonsterHPTotal": ["150000", "160000"],
+            "Defence": ["1", "2000"],
+            "Damages": ["0", "800"],
+            "defFor0": [0.22, 973.57],
+            "Drops": {
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.36", "310", "N/A"]
+                ],
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Box Statue", "0.0003", "1", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable15", "0.0031", "1", "N/A"]
+                ]
+            }
+        },
+        "thermostat": {
+            "MonsterHPTotal": ["175000", "185000"],
+            "Defence": ["1", "2250"],
+            "Damages": ["0", "950"],
+            "defFor0": [0.22, 1161.15],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Swag Swingy Tool Stamp", "0.00001", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.35", "340", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable15", "0.0033", "1", "N/A"]
+                ]
+            }
+        },
+        "glass": {
+            "MonsterHPTotal": ["215000", "225000"],
+            "Defence": ["1", "2600"],
+            "Damages": ["0", "1150"],
+            "defFor0": [0.22, 1408.37],
+            "Drops": {
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.34", "370", "N/A"]
+                ],
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Twosoul Statue", "0.0003", "1", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable16", "0.0025", "1", "N/A"]
+                ]
+            }
+        },
+        "snakeB": {
+            "MonsterHPTotal": ["240000", "260000"],
+            "Defence": ["1", "2900"],
+            "Damages": ["0", "1425"],
+            "defFor0": [0.22, 1743.06],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Seesaw Statue", "0.0003", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.32", "400", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable16", "0.0028", "1", "N/A"]
+                ]
+            }
+        },
+        "speaker": {
+            "MonsterHPTotal": ["270000", "310000"],
+            "Defence": ["1", "3200"],
+            "Damages": ["0", "1700"],
+            "defFor0": [0.22, 2072.08],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Yeti Ham", ".007", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.3", "440", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable16", "0.0030", "1", "N/A"]
+                ]
+            }
+        },
+        "eye": {
+            "MonsterHPTotal": ["300000", "350000"],
+            "Defence": ["1", "3400"],
+            "Damages": ["0", "2000"],
+            "defFor0": [0.22, 2424.95],
+            "Drops": {
+                "3": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["Black Lense", "0.00005", "1", "N/A"]
+                ],
+                "0": [
+                    ["COIN", "0.5", "10", "N/A"],
+                    ["COIN", "0.28", "490", "N/A"]
+                ],
+                "4": [
+                    " ",
+                    ["DropTable16", "0.0032", "1", "N/A"]
+                ]
+            }
+        },
+        "skele": {
+            "MonsterHPTotal": ["14000", "200000"],
+            "ExpGiven": ["420", "2000"],
+            "Defence": ["228", "100"],
+            "Damages": ["2", "200"],
+            "defFor0": [0.5, 213.8],
+            "Drops": {
+                "1": [
+                    ["Xylobone Card", "0.0001", "1", "N/A"],
+                    ["Xylobone Card", "0.05", "1", "N/A"]
+                ],
+                "2": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["DropTable14", "0.01", "1", "N/A"]
+                ]
+            }
+        },
+        "skele2": {
+            "MonsterHPTotal": ["14000", "10000000"],
+            "ExpGiven": ["420", "6000"],
+            "Defence": ["228", "100"],
+            "Damages": ["2", "3000"],
+            "defFor0": [0.5, 3563.92],
+            "Drops": {
+                "2": [
+                    ["DropTable8", "0.4", "1", "N/A"],
+                    ["DropTable16", "0.00004", "1", "N/A"]
+                ]
+            }
+        },
+        "shovelR": {
+            "Drops": {
+                "1": [
+                    ["Dig Doug Card", "0.0001", "1", "N/A"],
+                    ["Dig Doug Card", "0.10", "1", "N/A"]
+                ]
+            }
+        }
+    },
+    "New": {
+        "SoulCard1": {
+            "Name": "Forest Soul",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fly Card", "0.00022", "1", "N/A"],
+                ["Forest Soul", "1", "1", "N/A"],
+                ["Forest Soul", "1", "1", "N/A"],
+                ["Forest Soul", "1", "1", "N/A"],
+                ["Forest Soul", "1", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "SoulCard2": {
+            "Name": "Dune Soul",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Butterfly Card", "0.00018", "1", "N/A"],
+                ["Dune Soul", "1", "1", "N/A"],
+                ["Dune Soul", "1", "1", "N/A"],
+                ["Dune Soul", "1", "1", "N/A"],
+                ["Dune Soul", "1", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "SoulCard3": {
+            "Name": "Rooted Soul",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+                ["Rooted Soul", "1", "1", "N/A"],
+                ["Rooted Soul", "1", "1", "N/A"],
+                ["Rooted Soul", "1", "1", "N/A"],
+                ["Rooted Soul", "1", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "SoulCard4": {
+            "Name": "Frigid Soul",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["DropTable12", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "SoulCard5": {
+            "Name": "Squiddy Soul",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["DropTable12", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "SoulCard6": {
+            "Name": "Bandit Bob",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["DropTable12", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard1": {
+            "Name": "Froge",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fly Card", "0.00022", "1", "N/A"],
+                ["Froge", "1", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard2": {
+            "Name": "Crabbo",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Butterfly Card", "0.00018", "1", "N/A"],
+                ["Crabbo", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard3": {
+            "Name": "Scorpie",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+                ["Scorpie", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard4": {
+            "Name": "Mousey",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Mousey", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard5": {
+            "Name": "Owlio",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Owlio", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard6": {
+            "Name": "Pingy",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Pingy", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard7": {
+            "Name": "Bunny",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Bunny", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard8": {
+            "Name": "Dung Beat",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Dung Beat", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "CritterCard9": {
+            "Name": "Honker",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "420",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["Fruitfly Card", "0.00014", "1", "N/A"],
+                ["Honker", "0.015", "1", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "Boss3A": {
+            "Name": "Chizoar",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "20000000",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "775",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["COIN", "1", "4000", "N/A"],
+                ["Efaunt Card", "0.035", "1", "N/A"],
+                ["Midnight Cookie", "0.07", "1", "N/A"],
+                ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+                ["Royal Turban", "0.000667", "1", "N/A"],
+                ["Ripped Tunic", "0.3", "1", "N/A"],
+                ["DropTable6", "1", "2", "N/A"],
+                ["DropTable7", "1", "2", "N/A"],
+                ["DropTable8", "1", "2", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "Boss3B": {
+            "Name": "Chaotic Chizoar",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "750000000",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "4000",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["COIN", "1", "4000", "N/A"],
+                ["Chaotic Efaunt Card", "0.045", "1", "N/A"],
+                ["Midnight Cookie", "0.07", "1", "N/A"],
+                ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+                ["Royal Turban", "0.000667", "1", "N/A"],
+                ["Ripped Tunic", "0.4", "3", "N/A"],
+                ["Ribbed Tunic", "0.2", "1", "N/A"],
+                ["DropTable7", "1", "2", "N/A"],
+                ["DropTable8", "1", "2", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "Boss3C": {
+            "Name": "Nightmare Chizoar",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "750000",
+            "ExpGiven": "12000",
+            "ExpType": "0",
+            "Defence": "600",
+            "MoveSPEED": "3",
+            "Damages": "1000",
+            "Drops": [
+                ["COIN", "1", "4000", "N/A"],
+                ["Efaunt Card", "0.01", "1", "N/A"],
+                ["Midnight Cookie", "0.07", "1", "N/A"],
+                ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+                ["Royal Turban", "0.000667", "1", "N/A"],
+                ["Mystery Upgrade Stone I", "0.03", "1", "N/A"],
+                ["DropTable6", "1", "2", "N/A"],
+                ["DropTable7", "1", "2", "N/A"],
+                ["DropTable8", "1", "2", "N/A"]
+            ],
+            "defFor0": 1223.26
+        },
+        "BugNest5": {
+            "Name": "Snowden",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "999999999",
+            "ExpGiven": "2",
+            "ExpType": "6",
+            "Defence": "1",
+            "MoveSPEED": "0",
+            "Damages": "6",
+            "Drops": [
+                ["Frog Leg", "0.0", "2", "N/A"]
+            ],
+            "defFor0": 2.67
+        },
+        "BugNest6": {
+            "Name": "Icicle Nest",
+            "RespawnTime": "86400",
+            "MonsterHPTotal": "999999999",
+            "ExpGiven": "2",
+            "ExpType": "6",
+            "Defence": "1",
+            "MoveSPEED": "0",
+            "Damages": "6",
+            "Drops": [
+                ["Frog Leg", "0.0", "2", "N/A"]
+            ],
+            "defFor0": 2.67
+        }
+    },
+    "Removed": {}
+}

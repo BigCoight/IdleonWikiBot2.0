@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=14
-|type=Skills
+|type=Skills Stamp
 |bonus=% Alch Exp
 |material=Gold Ore
 |sellprice=2500

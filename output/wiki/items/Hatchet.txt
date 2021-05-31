@@ -1,3 +1,4 @@
+Old Hatchet
 {{InfoItem
 |class=All
 |level=4
@@ -9,6 +10,7 @@
 |sellprice=50
 |source=[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]
 }}
+Copper Chopper
 {{InfoItem
 |class=All
 |level=8
@@ -34,16 +36,17 @@
 {{usedin/row|[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|13}}
-{{detrecipe|3|Oak Logs|30}}
-{{detrecipe|3|Thread|15}}
+{{detrecipe|3|CopperBar|13}}
+{{detrecipe|3|OakTree|30}}
+{{detrecipe|3|CraftMat1|15}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|13}}
-{{detrecipe/totals|Oak Logs|30}}
-{{detrecipe/totals|Thread|15}}
+{{detrecipe/totals|CopperBar|13}}
+{{detrecipe/totals|OakTree|30}}
+{{detrecipe/totals|CraftMat1|15}}
 |}
+Iron Hatchet
 {{InfoItem
 |class=All
 |level=18
@@ -53,7 +56,7 @@
 |str=2
 |wis=5
 |upgrade=2
-|sellprice=7220
+|sellprice=4625
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -61,22 +64,23 @@
 |levelreq=14
 |expgiven=680
 |recipefrom=Start
-|resource1=Jungle Logs|quantity1=370
-|resource2=Boring Brick|quantity2=200
+|resource1=Jungle Logs|quantity1=250
+|resource2=Boring Brick|quantity2=125
 }}
 {{usedin/head}}
-{{usedin/row|[[Golden Axe]]|5|Crafting}}
+{{usedin/row|[[Golden Axe]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Jungle Logs|370}}
-{{detrecipe|3|Boring Brick|200}}
+{{detrecipe|3|JungleTree|250}}
+{{detrecipe|3|CraftMat6|125}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Jungle Logs|370}}
-{{detrecipe/totals|Boring Brick|200}}
+{{detrecipe/totals|JungleTree|250}}
+{{detrecipe/totals|CraftMat6|125}}
 |}
+Stinky Axe
 {{InfoItem
 |class=All
 |level=20
@@ -92,6 +96,7 @@
 {{detdrops/head}}
 {{detdrops|[[Dr Defecaus]]|0.02|1}}
 |}
+Golden Axe
 {{InfoItem
 |class=All
 |level=25
@@ -101,7 +106,7 @@
 |wis=8
 |luck=4
 |upgrade=2
-|sellprice=213600
+|sellprice=191375
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -111,25 +116,26 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Dubloon|quantity1=5
 |resource2=Crabby Cakey|quantity2=2000
-|resource3=Iron Hatchet|quantity3=5
+|resource3=Iron Hatchet|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Plat Hatchet]]|3|Crafting}}
+{{usedin/row|[[Plat Hatchet]]|2|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Dubloon|5}}
-{{detrecipe|3|Crabby Cakey|2000}}
-{{detrecipe|3|Iron Hatchet|5}}
-{{detrecipe|40|Jungle Logs|1850}}
-{{detrecipe|40|Boring Brick|1000}}
+{{detrecipe|3|Quest19|5}}
+{{detrecipe|3|DesertA3|2000}}
+{{detrecipe|3|EquipmentToolsHatchet1|3}}
+{{detrecipe|40|JungleTree|750}}
+{{detrecipe|40|CraftMat6|375}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Dubloon|5}}
-{{detrecipe/totals|Crabby Cakey|2000}}
-{{detrecipe/totals|Jungle Logs|1850}}
-{{detrecipe/totals|Boring Brick|1000}}
+{{detrecipe/totals|Quest19|5}}
+{{detrecipe/totals|DesertA3|2000}}
+{{detrecipe/totals|JungleTree|750}}
+{{detrecipe/totals|CraftMat6|375}}
 |}
+Plat Hatchet
 {{InfoItem
 |class=All
 |level=35
@@ -139,7 +145,7 @@
 |agi=5
 |wis=14
 |upgrade=3
-|sellprice=1040800
+|sellprice=782750
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -149,30 +155,32 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Tropilogs|quantity1=8000
 |resource2=Chain Link|quantity2=6000
-|resource3=Golden Axe|quantity3=3
+|resource3=Golden Axe|quantity3=2
 }}
 {{usedin/head}}
+{{usedin/row|[[Dementia Dicer]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Tropilogs|8000}}
-{{detrecipe|3|Chain Link|6000}}
-{{detrecipe|3|Golden Axe|3}}
-{{detrecipe|40|Golden Dubloon|15}}
-{{detrecipe|40|Crabby Cakey|6000}}
-{{detrecipe|40|Iron Hatchet|15}}
-{{detrecipe|80|Jungle Logs|5550}}
-{{detrecipe|80|Boring Brick|3000}}
+{{detrecipe|3|PalmTree|8000}}
+{{detrecipe|3|CraftMat7|6000}}
+{{detrecipe|3|EquipmentToolsHatchet2|2}}
+{{detrecipe|40|Quest19|10}}
+{{detrecipe|40|DesertA3|4000}}
+{{detrecipe|40|EquipmentToolsHatchet1|6}}
+{{detrecipe|80|JungleTree|1500}}
+{{detrecipe|80|CraftMat6|750}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Tropilogs|8000}}
-{{detrecipe/totals|Chain Link|6000}}
-{{detrecipe/totals|Golden Dubloon|15}}
-{{detrecipe/totals|Crabby Cakey|6000}}
-{{detrecipe/totals|Jungle Logs|5550}}
-{{detrecipe/totals|Boring Brick|3000}}
+{{detrecipe/totals|PalmTree|8000}}
+{{detrecipe/totals|CraftMat7|6000}}
+{{detrecipe/totals|Quest19|10}}
+{{detrecipe/totals|DesertA3|4000}}
+{{detrecipe/totals|JungleTree|1500}}
+{{detrecipe/totals|CraftMat6|750}}
 |}
+Dementia Dicer
 {{InfoItem
 |class=All
 |level=45
@@ -181,9 +189,47 @@
 |skillpower=23
 |agi=6
 |wis=17
-|upgrade=2
-|sellprice=200
+|upgrade=3
+|sellprice=2020500
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=10
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Tundra Logs|quantity1=15000
+|resource2=Redox Salts|quantity2=50
+|resource3=Plat Hatchet|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Axe]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SaharanFoal|15000}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|EquipmentToolsHatchet4|2}}
+{{detrecipe|40|PalmTree|16000}}
+{{detrecipe|40|CraftMat7|12000}}
+{{detrecipe|40|EquipmentToolsHatchet2|4}}
+{{detrecipe|80|Quest19|20}}
+{{detrecipe|80|DesertA3|8000}}
+{{detrecipe|80|EquipmentToolsHatchet1|12}}
+{{detrecipe|120|JungleTree|3000}}
+{{detrecipe|120|CraftMat6|1500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SaharanFoal|15000}}
+{{detrecipe/totals|Refinery1|50}}
+{{detrecipe/totals|PalmTree|16000}}
+{{detrecipe/totals|CraftMat7|12000}}
+{{detrecipe/totals|Quest19|20}}
+{{detrecipe/totals|DesertA3|8000}}
+{{detrecipe/totals|JungleTree|3000}}
+{{detrecipe/totals|CraftMat6|1500}}
+|}
+Void Imperium Axe
 {{InfoItem
 |class=All
 |level=55
@@ -192,9 +238,46 @@
 |skillpower=26
 |str=7
 |wis=20
-|upgrade=2
-|sellprice=200
+|upgrade=4
+|sellprice=6041000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=34
+|levelreq=45
+|expgiven=400000
+|recipefrom=Start
+|resource1=Wispy Lumber|quantity1=50000
+|resource2=Dementia Dicer|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Tree7|50000}}
+{{detrecipe|3|EquipmentToolsHatchet5|2}}
+{{detrecipe|40|SaharanFoal|30000}}
+{{detrecipe|40|Refinery1|100}}
+{{detrecipe|40|EquipmentToolsHatchet4|4}}
+{{detrecipe|80|PalmTree|32000}}
+{{detrecipe|80|CraftMat7|24000}}
+{{detrecipe|80|EquipmentToolsHatchet2|8}}
+{{detrecipe|120|Quest19|40}}
+{{detrecipe|120|DesertA3|16000}}
+{{detrecipe|120|EquipmentToolsHatchet1|24}}
+{{detrecipe|160|JungleTree|6000}}
+{{detrecipe|160|CraftMat6|3000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Tree7|50000}}
+{{detrecipe/totals|SaharanFoal|30000}}
+{{detrecipe/totals|Refinery1|100}}
+{{detrecipe/totals|PalmTree|32000}}
+{{detrecipe/totals|CraftMat7|24000}}
+{{detrecipe/totals|Quest19|40}}
+{{detrecipe/totals|DesertA3|16000}}
+{{detrecipe/totals|JungleTree|6000}}
+{{detrecipe/totals|CraftMat6|3000}}
+|}
+Lustre Logger
 {{InfoItem
 |class=All
 |level=65
@@ -203,9 +286,10 @@
 |skillpower=29
 |wis=24
 |luck=8
-|upgrade=2
+|upgrade=4
 |sellprice=200
 }}
+Starfire Hatchet
 {{InfoItem
 |class=All
 |level=80
@@ -215,9 +299,10 @@
 |agi=9
 |wis=28
 |luck=3
-|upgrade=2
+|upgrade=5
 |sellprice=200
 }}
+Dreadlo Eviscerator
 {{InfoItem
 |class=All
 |level=90
@@ -228,9 +313,10 @@
 |agi=4
 |wis=32
 |luck=4
-|upgrade=2
+|upgrade=5
 |sellprice=200
 }}
+Annihilator of the Yggdrasil
 {{InfoItem
 |class=All
 |level=100
@@ -241,6 +327,6 @@
 |agi=5
 |wis=40
 |luck=5
-|upgrade=2
+|upgrade=6
 |sellprice=200
 }}

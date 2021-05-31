@@ -1,0 +1,9 @@
+{{InfoItem
+|type=Soul
+|description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
+|sellprice=70
+|source=Worshiping?
+}}
+{{usedin/head}}
+{{usedin/row|[[Vials#Spook Pint|Spook Pint]]|Lots|Alchemy}}
+|}

@@ -12,12 +12,12 @@
 |resource1=Copper Ore|quantity1=120
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Mining Pouch]]|10|Crafting}}
+{{usedin/row|[[Average Mining Pouch]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Ore|120}}
+{{detrecipe|3|Copper|120}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Ore|120}}
+{{detrecipe/totals|Copper|120}}
 |}

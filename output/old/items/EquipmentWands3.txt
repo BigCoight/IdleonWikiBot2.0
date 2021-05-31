@@ -1,12 +1,48 @@
 {{InfoItem
 |class=Mage
-|level=1
+|level=75
 |type=Wand
 |speed=5
-|weaponpower=25
+|weaponpower=36
 |wis=15
 |luck=1
-|reach=160
-|upgrade=2
-|sellprice=200
+|reach=155
+|upgrade=4
+|sellprice=661400
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=7
+|levelreq=39
+|expgiven=200000
+|recipefrom=Start
+|resource1=Tundra Logs|quantity1=10000
+|resource2=Crows Nest|quantity2=2
+|resource3=Redox Salts|quantity3=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Grey Gatsby]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SaharanFoal|10000}}
+{{detrecipe|3|EquipmentWands6|2}}
+{{detrecipe|40|Sewers1b|6}}
+{{detrecipe|40|Bug4|8000}}
+{{detrecipe|40|EquipmentWands5|4}}
+{{detrecipe|80|CraftMat7|4000}}
+{{detrecipe|80|EquipmentWands2|12}}
+{{detrecipe|120|Jungle1|1500}}
+{{detrecipe|120|CopperBar|1200}}
+{{detrecipe|80|PureWater|32}}
+{{detrecipe|3|Refinery1|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SaharanFoal|10000}}
+{{detrecipe/totals|Sewers1b|6}}
+{{detrecipe/totals|Bug4|8000}}
+{{detrecipe/totals|CraftMat7|4000}}
+{{detrecipe/totals|Jungle1|1500}}
+{{detrecipe/totals|CopperBar|1200}}
+{{detrecipe/totals|Refinery1|150}}
+|}

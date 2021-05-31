@@ -1,3 +1,4 @@
+Easter Weapon Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Weapon to apply. +1 Weapon Power +2 Defence Success Chance; 25% Uses up 1 slots only if Successful
@@ -11,6 +12,7 @@
 {{detdrops|[[Floofie]]|0.01|2}}
 {{detdrops|[[Shell Snake]]|0.01|2}}
 |}
+Weapon Upgrade Stone I
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Weapon to apply. +1 Weapon Power Success Chance; 100% Uses up 1 slots only if Successful
@@ -21,27 +23,29 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=9|vendor=Blunder Hills|stock=3|buyprice=500}}
 |}
+Weapon Upgrade Stone II
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Weapon to apply. +1 Weapon Power +1 Random Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=1500
 |tier=II
-|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Green Mushroom]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable11]], [[Guild Giftbox]]
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Green Mushroom]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable11]], [[Guild Giftbox]]
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=YumYum Grotto|stock=3|buyprice=6000}}
 |}
+Weapon Upgrade Stone III
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Weapon to apply. +2 Weapon Power +1 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=25000
 |tier=III
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
 }}
-{{detdrops/head}}
-{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.04|1}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.04|1}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=5|vendor=Frostbite Towndra|stock=4|buyprice=100000}}
 |}
+Warped Weapon Upgrade Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Weapon to apply. +3 Weapon Power +4 Random Stat Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
@@ -49,6 +53,7 @@
 |tier=Warped
 |source=[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]], [[Bandit_Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]], [[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]], [[Guild Giftbox]]
 }}
+Easter Armor Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +1 Defence +3 Random Stat Success Chance; 30% Uses up 1 slots only if Successful
@@ -62,6 +67,7 @@
 {{detdrops|[[Floofie]]|0.03|3}}
 {{detdrops|[[Shell Snake]]|0.03|3}}
 |}
+Armor Upgrade Stone I
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +2 Defence +1 Random Stat Success Chance; 100% Uses up 1 slots only if Successful
@@ -72,6 +78,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=10|vendor=Blunder Hills|stock=6|buyprice=400}}
 |}
+Armor Upgrade Stone G
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +4 Random Stat Success Chance; 42% Uses up 1 slots only if Successful
@@ -79,17 +86,19 @@
 |tier=G
 |source=[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]], [[Alchemy#Liquid Shop|Weak UPG Stone]]
 }}
+Armor Upgrade Stone II
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +2 Defence +2 Random Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=850
 |tier=II
-|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Bored Bean]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable10]], [[Guild Giftbox]]
+|source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Bored Bean]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Cowbo_Jones#Alchemial Apprentice|Alchemial Apprentice]], [[DropTable10]], [[Guild Giftbox]]
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Encroaching Forest Villas|stock=6|buyprice=3400}}
 {{Vendoritem/tablerow|number=6|vendor=YumYum Grotto|stock=6|buyprice=3400}}
 |}
+Armor Upgrade Stone B
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +5 Defence Success Chance; 45% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
@@ -108,20 +117,23 @@
 {{detdrops|[[Efaunt]]|0.005|2.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.005|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.005|2.0}}
+{{detdrops|[[Chizoar]]|0.005|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.005|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.005|2.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.005|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.005|1.0}}
 |}
+Armor Upgrade Stone III
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +3 Defence +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=15000
 |tier=III
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
 }}
-{{detdrops/head}}
-{{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.09|1}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.09|1}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=6|vendor=Frostbite Towndra|stock=10|buyprice=60000}}
 |}
+Armor Upgrade Stone C
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Armor to apply. +1 Weapon Power +3 Random Stat Success Chance; 60% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
@@ -136,6 +148,7 @@
 {{usedin/head}}
 {{usedin/row|[[Efaunt Helmet]]|2|Crafting}}
 |}
+Easter Tool Upgrade Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Tool to apply. +3 Random Stat Success Chance; 30% Uses up 1 slots only if Successful
@@ -149,43 +162,49 @@
 {{detdrops|[[Floofie]]|0.02|3}}
 {{detdrops|[[Shell Snake]]|0.02|3}}
 |}
+Tool Upgrade Stone I
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Tool to apply. +1 Weapon Power +1 Random Stat Success Chance; 100% Uses up 1 slots only if Successful
 |sellprice=110
 |tier=I
-|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Post Office#Simple Shippin|Simple Shippin]], [[DropTable4]], [[DropTable5]], [[DropTable10]], [[DropTable11]], [[DropTable12]], [[Alchemy#Liquid Shop|Weak UPG Stone]]
+|source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Post Office#Simple Shippin|Simple Shippin]], [[DropTable4]], [[DropTable5]], [[DropTable10]], [[DropTable11]], [[DropTable12]], [[Alchemy#Liquid Shop|Weak UPG Stone]]
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=11|vendor=Blunder Hills|stock=4|buyprice=440}}
 {{Vendoritem/tablerow|number=7|vendor=Faraway Piers|stock=2|buyprice=440}}
-{{Vendoritem/tablerow|number=7|vendor=Tundra Camp|stock=2|buyprice=440}}
 |}
+Giftmas Tool Upgrade Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Tool to apply. +4 Random Stat Success Chance; 60% Uses up 1 slots only if Successful
 |sellprice=110
 |tier=Giftmas
 }}
+Tool Upgrade Stone II
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Tool to apply. +2 Weapon Power +2 Random Stat Success Chance; 80% Uses up 1 slots only if Successful
 |sellprice=1250
 |tier=II
-|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]], [[Scubidew#Uncovering the Deep Sea State!!!|Uncovering the Deep Sea State!!!]], [[DropTable3]], [[DropTable12]]
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]], [[Scubidew#Uncovering the Deep Sea State!!!|Uncovering the Deep Sea State!!!]], [[DropTable3]], [[DropTable12]]
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=7|vendor=YumYum Grotto|stock=4|buyprice=5000}}
 {{Vendoritem/tablerow|number=8|vendor=Faraway Piers|stock=1|buyprice=5000}}
-{{Vendoritem/tablerow|number=8|vendor=Tundra Camp|stock=1|buyprice=5000}}
 |}
+Tool Upgrade Stone III
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Tool to apply. +3 Weapon Power +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=20000
 |tier=III
-|source=[[Goldric#Hoopsies|Hoopsies]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Goldric#Hoopsies|Hoopsies]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=7|vendor=Frostbite Towndra|stock=7|buyprice=80000}}
+|}
+Helmet Upgrade Stone I
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Helmet to apply. +3 Random Stat Success Chance; 70% Uses up 1 slots only if Successful
@@ -196,6 +215,7 @@
 {{detdrops/head}}
 {{detdrops|[[Glublin]]|0.00015|1}}
 |}
+Warped Helmet Upgrade Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Helmet to apply. +5 Random Stat Success Chance; 50% Uses up 1 item slots. WARNING:Slots are used up even if the Upgrade fails!
@@ -203,21 +223,24 @@
 |tier=Warped
 |source=[[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]], [[Cowbo_Jones#A Hat in Crime|A Hat in Crime]], [[Guild Giftbox]]
 }}
+Giftmas Helmet Upgrade Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Helmet to apply. +4 Random Stat Success Chance; 60% Uses up 1 item slots.
 |sellprice=5000
 |tier=Giftmas
 }}
+Mystery Upgrade Stone I
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Equip to apply. +3 Mystery Stat Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
 |tier=I
-|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki_Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Nightmare Chizoar]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki_Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Nightmare Amarok]]|0.03|1}}
+{{detdrops|[[Nightmare Chizoar]]|0.03|1}}
 {{detdrops|[[Biggie Hours]]|0.4|2}}
 {{detdrops|[[King Doot]]|1|1}}
 {{detdrops|[[Crystal Carrot]]|0.0020399999999999997|2.0}}
@@ -248,61 +271,82 @@
 {{detdrops|[[Mining#Drops|Mining Gold]]|0.000038249999999999995|2.0}}
 {{detdrops|[[Mining#Drops|Mining Plat]]|0.00003927|2.0}}
 {{detdrops|[[Mining#Drops|Mining Dementia]]|0.00004182|2.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.0000459|4.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.00004845|4.0}}
 {{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0000408|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00004335|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000459|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00004845|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00005406|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.00005202000000000001|2.0}}
-{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.000045390000000000004|2.0}}
 {{detdrops|[[Crystal Crabal]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Sandy Pot]]|0.0000126|3.0}}
 {{detdrops|[[Mimic]]|0.00001344|3.0}}
 {{detdrops|[[Crabcake]]|0.00001512|3.0}}
 {{detdrops|[[Efaunt]]|0.0042|6.0}}
+{{detdrops|[[Chizoar]]|0.0042|6.0}}
 {{detdrops|[[Sandstone Bronze Chest]]|0.0042|3.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.0042|3.0}}
 {{detdrops|[[Mafioso]]|0.00001344|3.0}}
 {{detdrops|[[Sand Castle]]|0.0000147|3.0}}
 {{detdrops|[[Pincermin]]|0.00001554|3.0}}
 {{detdrops|[[Mashed Potato]]|0.00001638|3.0}}
 {{detdrops|[[Dig Doug]]|0.00001344|3.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.0042|6.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.0042|6.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.0042|3.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.0042|3.0}}
 {{detdrops|[[Tyson]]|0.00001344|3.0}}
 {{detdrops|[[Moonmoon]]|0.0000147|3.0}}
 {{detdrops|[[Sand Giant]]|0.00001554|3.0}}
 {{detdrops|[[Snelbie]]|0.00001638|3.0}}
-{{detdrops|[[Sheepie]]|0.00168|3.0}}
-{{detdrops|[[Frost Flake]]|0.00168|3.0}}
-{{detdrops|[[Sir Stache]]|0.00168|3.0}}
-{{detdrops|[[Dedotated Ram]]|0.00168|3.0}}
-{{detdrops|[[Bloque]]|0.00168|3.0}}
-{{detdrops|[[mamooth]]|0.00168|3.0}}
-{{detdrops|[[Snowman]]|0.00168|3.0}}
-{{detdrops|[[Penguin]]|0.00168|3.0}}
-{{detdrops|[[Thermister]]|0.00168|3.0}}
-{{detdrops|[[Quenchie]]|0.00168|3.0}}
-{{detdrops|[[Cryosnake]]|0.00168|3.0}}
-{{detdrops|[[Bop Box]]|0.00168|3.0}}
-{{detdrops|[[Neyeptune]]|0.00168|3.0}}
-{{detdrops|[[Xylobone]]|0.00168|3.0}}
-{{detdrops|[[Bloodbone]]|0.00168|3.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.0042|3.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.0042|3.0}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.0000504|3.0}}
 {{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.0000504|3.0}}
 {{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.0000504|3.0}}
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000504|3.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000504|3.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.00006299999999999999|6.0}}
+{{detdrops|[[Frigid Soul]]|0.00006299999999999999|3.0}}
+{{detdrops|[[Squiddy Soul]]|0.00006299999999999999|3.0}}
+{{detdrops|[[Bandit Bob]]|0.00006299999999999999|3.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.00006299999999999999|3.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00006299999999999999|3.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00006299999999999999|3.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00006299999999999999|3.0}}
 |}
+Mystery Upgrade Stone II
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Equip to apply. +4 Mystery Stat Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
+|sellprice=777
+|tier=II
+|source=[[SuperDropTable3]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.0000105|3.0}}
+{{detdrops|[[Frost Flake]]|0.000011760000000000001|3.0}}
+{{detdrops|[[Sir Stache]]|0.000013019999999999997|3.0}}
+{{detdrops|[[Xylobone]]|0.000042|3.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.0042|3.0}}
+{{detdrops|[[Bloque]]|0.0000105|3.0}}
+{{detdrops|[[mamooth]]|0.00001134|3.0}}
+{{detdrops|[[Snowman]]|0.000012179999999999999|3.0}}
+{{detdrops|[[Penguin]]|0.000013019999999999997|3.0}}
+{{detdrops|[[Thermister]]|0.00001386|3.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.0042|3.0}}
+{{detdrops|[[Dedotated Ram]]|0.00000016800000000000002|3.0}}
+{{detdrops|[[Quenchie]]|0.0000105|3.0}}
+{{detdrops|[[Cryosnake]]|0.000011760000000000001|3.0}}
+{{detdrops|[[Bop Box]]|0.0000126|3.0}}
+{{detdrops|[[Neyeptune]]|0.00001344|3.0}}
+{{detdrops|[[Bloodbone]]|0.00000016800000000000002|3.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.0042|3.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00003738|3.0}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00003738|3.0}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00006299999999999999|3.0}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.00006299999999999999|3.0}}
+|}
+Premium STR Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Equip to apply. +5 Str Success Chance; 101% Can only be used on Premium Equips!
@@ -310,6 +354,7 @@
 |tier=Premium
 |source=[[Gem Shop]]
 }}
+Premium AGI Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Equip to apply. +5 Agi Success Chance; 101% Can only be used on Premium Equips!
@@ -317,6 +362,7 @@
 |tier=Premium
 |source=[[Gem Shop]]
 }}
+Premium WIS Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Equip to apply. +5 Wis Success Chance; 101% Can only be used on Premium Equips!
@@ -324,6 +370,7 @@
 |tier=Premium
 |source=[[Gem Shop]]
 }}
+Premium LUK Stone
 {{InfoItem
 |type=Upgrade
 |description=Drag onto any Equip to apply. +5 Luk Success Chance; 101% Can only be used on Premium Equips!

@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Fish.
-|sellprice=359375
+|sellprice=224775
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -10,22 +10,25 @@
 |expgiven=17000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Bloach|quantity1=6750
-|resource2=Average Fish Pouch|quantity2=5
+|resource2=Average Fish Pouch|quantity2=3
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Fish Pouch]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Bloach|6750}}
-{{detrecipe|3|Average Fish Pouch|5}}
-{{detrecipe|40|Cramped Fish Pouch|50}}
-{{detrecipe|80|Goldfish|9000}}
-{{detrecipe|40|Small Fish Pouch|25}}
-{{detrecipe|80|Hermit Can|10625}}
-{{detrecipe|80|Distilled Water|50}}
-{{detrecipe|40|Hermit Can|7500}}
+{{detrecipe|3|Fish4|6750}}
+{{detrecipe|3|MaxCapBagFi3|3}}
+{{detrecipe|40|MaxCapBagFi1|15}}
+{{detrecipe|80|Fish1|2700}}
+{{detrecipe|40|MaxCapBagFi2|9}}
+{{detrecipe|80|Fish2|3825}}
+{{detrecipe|80|PureWater|18}}
+{{detrecipe|40|Fish2|4500}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bloach|6750}}
-{{detrecipe/totals|Goldfish|9000}}
-{{detrecipe/totals|Hermit Can|18125}}
-{{detrecipe/totals|Distilled Water|50}}
+{{detrecipe/totals|Fish4|6750}}
+{{detrecipe/totals|Fish1|2700}}
+{{detrecipe/totals|Fish2|8325}}
+{{detrecipe/totals|PureWater|18}}
 |}

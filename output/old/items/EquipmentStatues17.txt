@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Statue
+|description=A statue of the soul.
+|sellprice=10
+|source=[[Sir Stache]], [[Quenchie]]
+}}
+{{Statuedata|0.3|+ @ Worship Power}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.0002|1}}
+{{detdrops|[[Quenchie]]|0.0003|1}}
+|}

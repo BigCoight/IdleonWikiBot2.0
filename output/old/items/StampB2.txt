@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=2
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Efficiency
 |material=Thread
 |sellprice=1200

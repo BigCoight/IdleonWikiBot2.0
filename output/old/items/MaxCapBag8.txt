@@ -15,18 +15,18 @@
 |resource4=Copper Bar|quantity4=15
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|10|Crafting}}
+{{usedin/row|[[Average Food Pouch]]|7|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Nomwich|75}}
-{{detrecipe|3|Hot Dog|25}}
-{{detrecipe|3|Oak Logs|60}}
-{{detrecipe|3|Copper Bar|15}}
+{{detrecipe|3|FoodHealth1|75}}
+{{detrecipe|3|FoodHealth3|25}}
+{{detrecipe|3|OakTree|60}}
+{{detrecipe|3|CopperBar|15}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Nomwich|75}}
-{{detrecipe/totals|Hot Dog|25}}
-{{detrecipe/totals|Oak Logs|60}}
-{{detrecipe/totals|Copper Bar|15}}
+{{detrecipe/totals|FoodHealth1|75}}
+{{detrecipe/totals|FoodHealth3|25}}
+{{detrecipe/totals|OakTree|60}}
+{{detrecipe/totals|CopperBar|15}}
 |}

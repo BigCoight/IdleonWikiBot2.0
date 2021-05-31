@@ -9,7 +9,7 @@
 {{usedin/row|[[Cramped Choppin Pouch]]|30|Crafting}}
 {{usedin/row|[[The Stingers]]|20|Crafting}}
 {{usedin/row|[[Cramped Material Pouch]]|80|Crafting}}
-{{usedin/row|[[Copper Platebody]]|150|Crafting}}
+{{usedin/row|[[Copper Platebody]]|120|Crafting}}
 {{usedin/row|[[Iron Boots]]|500|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|300|Quests}}
 {{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|1000|Quests}}

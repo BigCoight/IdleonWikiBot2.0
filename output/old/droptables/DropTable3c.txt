@@ -1,0 +1,8 @@
+{{DropTable/head}}
+{{DropTable/row|Small Life Potion|{{#expr: {{{chance}}}*.4}}|25}}
+{{DropTable/row|Small Mana Potion|{{#expr: {{{chance}}}*.4}}|25}}
+{{DropTable/row|Health Statue|{{#expr: {{{chance}}}*.09}}|1}}
+{{DropTable/row|Bullseye Statue|{{#expr: {{{chance}}}*.05}}|1}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|3|([[Mutton]])}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.0055}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0055}}
+|}

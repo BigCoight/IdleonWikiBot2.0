@@ -1,6 +1,6 @@
 {{InfoItem
 |type=Boost Food
-|description=Increases Catching Spd by 10% 10% chance to be consumed every time you swing your net. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Catching Spd by 20% 10% chance to be consumed every time you swing your net. Must be equipped in a Food Slot to give its bonus.
 |sellprice=93
 }}
 {{ForgeSlot
@@ -12,12 +12,15 @@
 |resource1=Butterfly|quantity1=5
 |resource2=Kebab Sticks|quantity2=1
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Butterfly|5}}
-{{detrecipe|3|Kebab Sticks|1}}
+{{detrecipe|3|Bug2|5}}
+{{detrecipe|3|FoodHealth6|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Butterfly|5}}
-{{detrecipe/totals|Kebab Sticks|1}}
+{{detrecipe/totals|Bug2|5}}
+{{detrecipe/totals|FoodHealth6|1}}
 |}

@@ -2,9 +2,9 @@
 |title=Cryosnake
 |order=9
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_MP_regen_rate
+|bonus=5
+|reqtier=17
 |source=[[Cryosnake]]
 }}
 {{detdrops/head}}

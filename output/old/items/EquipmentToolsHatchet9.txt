@@ -8,6 +8,6 @@
 |agi=4
 |wis=32
 |luck=4
-|upgrade=2
+|upgrade=5
 |sellprice=200
 }}

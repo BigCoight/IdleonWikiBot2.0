@@ -7,7 +7,7 @@
 |wis=8
 |luck=4
 |upgrade=2
-|sellprice=213600
+|sellprice=191375
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,22 +17,22 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Dubloon|quantity1=5
 |resource2=Crabby Cakey|quantity2=2000
-|resource3=Iron Hatchet|quantity3=5
+|resource3=Iron Hatchet|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Plat Hatchet]]|3|Crafting}}
+{{usedin/row|[[Plat Hatchet]]|2|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Dubloon|5}}
-{{detrecipe|3|Crabby Cakey|2000}}
-{{detrecipe|3|Iron Hatchet|5}}
-{{detrecipe|40|Jungle Logs|1850}}
-{{detrecipe|40|Boring Brick|1000}}
+{{detrecipe|3|Quest19|5}}
+{{detrecipe|3|DesertA3|2000}}
+{{detrecipe|3|EquipmentToolsHatchet1|3}}
+{{detrecipe|40|JungleTree|750}}
+{{detrecipe|40|CraftMat6|375}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Dubloon|5}}
-{{detrecipe/totals|Crabby Cakey|2000}}
-{{detrecipe/totals|Jungle Logs|1850}}
-{{detrecipe/totals|Boring Brick|1000}}
+{{detrecipe/totals|Quest19|5}}
+{{detrecipe/totals|DesertA3|2000}}
+{{detrecipe/totals|JungleTree|750}}
+{{detrecipe/totals|CraftMat6|375}}
 |}

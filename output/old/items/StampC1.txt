@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=1
-|type=Misc
+|type=Misc Stamp
 |bonus=% Quest EXP
 |material=Slime Sludge
 |sellprice=1000

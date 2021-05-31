@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=18
+|type=Misc Stamp
+|bonus=% Faster Books
+|material=Tundra Logs
+|sellprice=1
+|source=[[Snouts#Big Ol Chonker|Big Ol Chonker]]
+}}

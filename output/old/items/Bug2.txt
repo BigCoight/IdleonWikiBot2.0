@@ -1,6 +1,6 @@
 {{InfoItem
 |type=Bug
-|description=Hahahahaha! Soryy... I promise I wont make this kind of joke again
+|description=Butter Fly? Get it??? Soryy... I promise I wont make this kind of joke again
 |sellprice=9
 |source=Catching
 }}

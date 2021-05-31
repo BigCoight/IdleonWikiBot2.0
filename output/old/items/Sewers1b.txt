@@ -11,7 +11,7 @@
 {{usedin/head}}
 {{usedin/row|[[Blunderhills Misc Completion Token]]|12|Crafting}}
 {{usedin/row|[[Defenders Dignity]]|17|Crafting}}
-{{usedin/row|[[Crows Nest]]|8|Crafting}}
+{{usedin/row|[[Crows Nest]]|3|Crafting}}
 {{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
 {{usedin/row|[[Sandy Satchel]]|1|Crafting}}
 {{usedin/row|[[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]]|1|Quests}}

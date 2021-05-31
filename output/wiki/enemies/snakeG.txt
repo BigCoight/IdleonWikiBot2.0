@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Baby Boa_Walking.gif
-|attack=22
+|attack=18
 |health=450
 |defence=18
 |speed=8
@@ -8,7 +8,7 @@
 |area=Winding Willows
 |exp=34
 |respawn=45
-|defence0=14.57
+|defence0=11.22
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

@@ -1,11 +1,11 @@
 {{InfoItem
 |class=All
-|level=55
+|level=65
 |skill=choppin
 |type=Hatchet
-|skillpower=26
-|str=7
-|wis=20
-|upgrade=2
+|skillpower=29
+|wis=24
+|luck=8
+|upgrade=4
 |sellprice=200
 }}

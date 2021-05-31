@@ -7,3 +7,6 @@
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Vials#40-40 Purity|40-40 Purity]]|Lots|Alchemy}}
+|}

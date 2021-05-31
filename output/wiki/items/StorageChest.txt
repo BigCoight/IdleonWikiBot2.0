@@ -1,3 +1,4 @@
+Storage Chest 1
 {{InfoItem
 |class=All
 |level=1
@@ -6,6 +7,7 @@
 |sellprice=200
 |source=[[Hamish#Slime for Storage|Slime for Storage]]
 }}
+Storage Chest 2
 {{InfoItem
 |class=All
 |level=1
@@ -17,6 +19,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=19|vendor=Blunder Hills|stock=1|buyprice=4000}}
 |}
+Storage Chest 3
 {{InfoItem
 |class=All
 |level=1
@@ -25,6 +28,7 @@
 |sellprice=800
 |source=[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]
 }}
+Storage Chest 4
 {{InfoItem
 |class=All
 |level=1
@@ -33,14 +37,16 @@
 |sellprice=1500
 |source=[[Cowbo_Jones#The Hatless Howerhouse!|The Hatless Howerhouse!]]
 }}
+Storage Chest 5
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
 |description=Hold down to permanently add +3 Slots to your Storage Chest. Can only be used once.
-|sellprice=2200
+|sellprice=1
 |source=[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]
 }}
+Storage Chest 6
 {{InfoItem
 |class=All
 |level=1
@@ -52,6 +58,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=20|vendor=Blunder Hills|stock=1|buyprice=10000}}
 |}
+Storage Chest 7
 {{InfoItem
 |class=All
 |level=1
@@ -63,6 +70,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=21|vendor=Blunder Hills|stock=1|buyprice=22000}}
 |}
+Storage Chest 8
 {{InfoItem
 |class=All
 |level=1
@@ -74,6 +82,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=10|vendor=Encroaching Forest Villas|stock=1|buyprice=22000}}
 |}
+Storage Chest 9
 {{InfoItem
 |class=All
 |level=1
@@ -85,6 +94,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=12|vendor=YumYum Grotto|stock=1|buyprice=35600}}
 |}
+Storage Chest 10
 {{InfoItem
 |class=All
 |level=1
@@ -96,6 +106,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=13|vendor=YumYum Grotto|stock=1|buyprice=100000}}
 |}
+Storage Chest 11
 {{InfoItem
 |class=All
 |level=1
@@ -104,6 +115,7 @@
 |sellprice=50000
 |source=[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]]
 }}
+Storage Chest 12
 {{InfoItem
 |class=All
 |level=1
@@ -115,6 +127,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=11|vendor=Encroaching Forest Villas|stock=1|buyprice=28000}}
 |}
+Storage Chest 13
 {{InfoItem
 |class=All
 |level=1
@@ -126,6 +139,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=14|vendor=YumYum Grotto|stock=1|buyprice=240000}}
 |}
+Storage Chest 14
 {{InfoItem
 |class=All
 |level=1
@@ -133,6 +147,7 @@
 |description=Hold down to permanently add +5 Slots to your Storage Chest. Can only be used once.
 |sellprice=1
 }}
+Storage Chest 15
 {{InfoItem
 |class=All
 |level=1
@@ -144,85 +159,79 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=15|vendor=YumYum Grotto|stock=1|buyprice=400000}}
 |}
+Storage Chest 16
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
 |description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=100
+|sellprice=150000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=12|vendor=Frostbite Towndra|stock=1|buyprice=600000}}
+|}
+Storage Chest 17
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
 |description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
+|sellprice=200000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=13|vendor=Frostbite Towndra|stock=1|buyprice=800000}}
+|}
+Storage Chest 18
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
 |description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
+|sellprice=350000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=14|vendor=Frostbite Towndra|stock=1|buyprice=1400000}}
+|}
+Storage Chest 19
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
 |description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
+|sellprice=500000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=15|vendor=Frostbite Towndra|stock=1|buyprice=2000000}}
+|}
+Storage Chest 20
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
+|description=Hold down to permanently add +7 Slots to your Storage Chest. Can only be used once.
+|sellprice=800000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=16|vendor=Frostbite Towndra|stock=1|buyprice=3200000}}
+|}
+Storage Chest 21
 {{InfoItem
 |class=All
 |level=1
 |type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
+|description=Hold down to permanently add +7 Slots to your Storage Chest. Can only be used once.
+|sellprice=1250000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
-}}
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
-}}
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
-}}
-{{InfoItem
-|class=All
-|level=1
-|type=Storage 
-|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
-|sellprice=200
-|source=[[Gem Shop]]
-}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=17|vendor=Frostbite Towndra|stock=1|buyprice=5000000}}
+|}
+Storage Chest 90
 {{InfoItem
 |class=All
 |level=1
@@ -231,6 +240,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Storage Chest 91
 {{InfoItem
 |class=All
 |level=1
@@ -239,6 +249,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Storage Chest 92
 {{InfoItem
 |class=All
 |level=1
@@ -247,6 +258,88 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Storage Chest 93
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 94
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 95
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 96
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 97
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 98
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 99
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 99B
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Storage Chest 99C
+{{InfoItem
+|class=All
+|level=1
+|type=Storage 
+|description=Hold down to permanently add +6 Slots to your Storage Chest. Can only be used once.
+|sellprice=200
+|source=[[Gem Shop]]
+}}
+Dank Paypay Chest
 {{InfoItem
 |class=All
 |level=1

@@ -77,39 +77,40 @@
 |}
 {{DropTable/head|Droptable for Drops for Frostbite Bronze Chest|collapsed=Yes}}
 {{DropTable/coin|1000|1}}
-{{DropTable/row|Gem|0.1|1}}
-{{DropTable/row|Weapon Upgrade Stone II|0.025|1}}
-{{DropTable/row|Armor Upgrade Stone II|0.09|1}}
-{{DropTable/row|Goldfish|0.6|50}}
-{{DropTable/row|Fly|0.6|65}}
-{{DropTable/row|Gold Ore|0.6|75}}
-{{DropTable/row|Efaunt's Tomb Key|0.04|1}}
-{{DropTable/row|Gold Bar|0.2|20}}
-{{DropTable6|chance=1}}
+{{DropTable/row|Gem|0.12|1}}
+{{DropTable/row|Weapon Upgrade Stone III|0.025|1}}
+{{DropTable/row|Yellow Snowflake|0.01|1}}
+{{DropTable/row|Armor Upgrade Stone III|0.09|1}}
+{{DropTable/row|Forest Soul|0.6|50}}
+{{DropTable/row|Froge|0.6|65}}
+{{DropTable/row|Platinum Bar|0.35|60}}
+{{DropTable/row|Chizoar's Cavern Key|0.04|1}}
+{{DropTable/row|Platinum Bar|0.2|20}}
+{{DropTable14|chance=1}}
 |}
 {{DropTable/head|Droptable for Drops for Frostbite Silver Chest|collapsed=Yes}}
 {{DropTable/coin|4000|1}}
-{{DropTable/row|Gem|0.2|1}}
-{{DropTable/row|Iron Helmet|0.02|1}}
-{{DropTable/row|Weapon Upgrade Stone III|0.04|1}}
-{{DropTable/row|Armor Upgrade Stone III|0.09|1}}
-{{DropTable/row|Jellyfish|0.4|100}}
-{{DropTable/row|Sentient Cereal|0.4|125}}
-{{DropTable/row|Efaunt's Tomb Key|0.1|1}}
-{{DropTable/row|Golden Kebabs|0.5|1}}
-{{DropTable/row|Platinum Ore|0.6|50}}
-{{DropTable/row|Gold Bar|0.35|60}}
-{{DropTable/row|Tropilogs|0.5|100}}
-{{DropTable7|chance=1}}
+{{DropTable/row|Gem|0.23|1}}
+{{DropTable/row|Gold Helmet|0.02|1}}
+{{DropTable/row|StoneW4|0.04|1}}
+{{DropTable/row|StoneA4|0.09|1}}
+{{DropTable/row|Crabbo|0.4|350}}
+{{DropTable/row|Mosquisnow|0.4|150}}
+{{DropTable/row|Chizoar's Cavern Key|0.1|1}}
+{{DropTable/row|Golden Ham|0.5|1}}
+{{DropTable/row|Dementia Ore|0.6|100}}
+{{DropTable/row|Tundra Logs|0.5|100}}
+{{DropTable15|chance=1}}
 |}
 {{DropTable/head|Droptable for Drops for Frostbite Golden Chest|collapsed=Yes}}
 {{DropTable/coin|10000|1}}
-{{DropTable/row|Gem|0.4|1}}
-{{DropTable/row|Golden Meat Pie|0.5|1}}
-{{DropTable/row|Platinum Bar|0.2|20}}
-{{DropTable/row|Dementia Ore|0.1|80}}
-{{DropTable/row|Bloach|0.2|150}}
-{{DropTable/row|Gold Platelegs|0.04|1}}
-{{DropTable/row|Efaunt's Tomb Key|0.18|1}}
-{{DropTable8|chance=1}}
+{{DropTable/row|Gem|0.45|1}}
+{{DropTable/row|Dementia Bar|0.2|80}}
+{{DropTable/row|Dune Soul|0.4|400}}
+{{DropTable/row|Void Ore|0.1|120}}
+{{DropTable/row|Flycicle|0.2|150}}
+{{DropTable/row|Platinum Shins|0.04|1}}
+{{DropTable/row|Chizoar's Cavern Key|0.18|1}}
+{{DropTable/row|Golden Bread|0.3|1}}
+{{DropTable16|chance=1}}
 |}

@@ -2,13 +2,13 @@
 |class=Mage
 |level=30
 |type=Wand
-|speed=3
+|speed=4
 |weaponpower=23
 |agi=1
 |wis=11
-|reach=160
+|reach=145
 |upgrade=3
-|sellprice=47000
+|sellprice=46250
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -25,16 +25,16 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Chain Link|1000}}
-{{detrecipe|3|Quarterstaff|3}}
-{{detrecipe|40|Slime Sludge|450}}
-{{detrecipe|40|Copper Bar|300}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|CraftMat7|1000}}
+{{detrecipe|3|EquipmentWands2|3}}
+{{detrecipe|40|Jungle1|375}}
+{{detrecipe|40|CopperBar|300}}
+{{detrecipe|3|PureWater|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Chain Link|1000}}
-{{detrecipe/totals|Slime Sludge|450}}
-{{detrecipe/totals|Copper Bar|300}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|CraftMat7|1000}}
+{{detrecipe/totals|Jungle1|375}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|PureWater|8}}
 |}

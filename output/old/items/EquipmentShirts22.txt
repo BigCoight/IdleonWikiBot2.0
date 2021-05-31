@@ -19,13 +19,13 @@
 |resource3=Nuget Cake|quantity3=1
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Tattered Cloth|4}}
-{{detrecipe|3|Leather Hide|1500}}
-{{detrecipe|3|Nuget Cake|1}}
+{{detrecipe|3|EquipmentShirts21|4}}
+{{detrecipe|3|CraftMat9|1500}}
+{{detrecipe|3|DesertA3b|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Tattered Cloth|4}}
-{{detrecipe/totals|Leather Hide|1500}}
-{{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|EquipmentShirts21|4}}
+{{detrecipe/totals|CraftMat9|1500}}
+{{detrecipe/totals|DesertA3b|1}}
 |}

@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Sandy Pot_Walking.gif
+|attack=55
+|health=4000
+|defence=115
+|speed=5
+|world=Yum Yum Desert
+|area=Jar Bridge
+|exp=150
+|respawn=50
+|defence0=45.72
+|crystal=Yes
+|crystalname=Crystal Crabal
+|hascard=Yes
+}}
+{{EnemyNavigation|Wood Mushroom|Mimic}}
+{{DropTable/head}}
+{{DropTable/coin|40|0.5}}
+{{DropTable/row|Pocket Sand|0.22|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/row|Yellow Headband|.0001|1}}
+{{DropTable/row|Glass Shard|0.00005|1}}
+{{DropTable6|chance=0.003}}
+|}

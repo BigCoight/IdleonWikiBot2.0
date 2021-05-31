@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Slime_Walking.gif
-|attack=17
+|attack=15
 |health=250
 |defence=9
 |speed=4
@@ -8,7 +8,7 @@
 |area=Jungle Perimeter
 |exp=23
 |respawn=42
-|defence0=10.43
+|defence0=8.9
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

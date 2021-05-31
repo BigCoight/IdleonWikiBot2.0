@@ -7,3 +7,7 @@
 {{detdrops/head}}
 {{detdrops|[[Sheepie]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Dementia Shins]]|8000|Crafting}}
+{{usedin/row|[[Vials#Fur Refresher|Fur Refresher]]|Lots|Alchemy}}
+|}

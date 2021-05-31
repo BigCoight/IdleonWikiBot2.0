@@ -16,10 +16,10 @@
 {{usedin/row|[[Copper Chopper]]|13|Crafting}}
 {{usedin/row|[[The Stingers]]|20|Crafting}}
 {{usedin/row|[[Cramped Food Pouch]]|15|Crafting}}
-{{usedin/row|[[Copper Helmet]]|50|Crafting}}
-{{usedin/row|[[Copper Platebody]]|65|Crafting}}
-{{usedin/row|[[Copper Platelegs]]|80|Crafting}}
-{{usedin/row|[[Copper Boots]]|200|Crafting}}
+{{usedin/row|[[Copper Helmet]]|30|Crafting}}
+{{usedin/row|[[Copper Platebody]]|45|Crafting}}
+{{usedin/row|[[Copper Platelegs]]|60|Crafting}}
+{{usedin/row|[[Copper Boots]]|125|Crafting}}
 {{usedin/row|[[Quarterstaff]]|100|Crafting}}
 {{usedin/row|[[Copper Band]]|300|Crafting}}
 {{usedin/row|[[Copper Fish Rod]]|200|Crafting}}

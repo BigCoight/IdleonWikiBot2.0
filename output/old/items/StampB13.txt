@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=13
-|type=Skills
+|type=Skills Stamp
 |bonus=% Alch Speed
 |material=Forest Fibres
 |sellprice=2000

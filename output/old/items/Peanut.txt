@@ -24,13 +24,13 @@
 {{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|100|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Hot Dog|2}}
-{{detrecipe|3|Copper Ore|1}}
-{{detrecipe|3|Bleach Logs|1}}
+{{detrecipe|3|FoodHealth3|2}}
+{{detrecipe|3|Copper|1}}
+{{detrecipe|3|BirchTree|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hot Dog|2}}
-{{detrecipe/totals|Copper Ore|1}}
-{{detrecipe/totals|Bleach Logs|1}}
+{{detrecipe/totals|FoodHealth3|2}}
+{{detrecipe/totals|Copper|1}}
+{{detrecipe/totals|BirchTree|1}}
 |}

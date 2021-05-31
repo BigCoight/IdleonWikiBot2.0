@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Chaotic Amarok_Walking.gif
+|attack=1200
+|health=15000000
+|defence=1750
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1469.66
+|hascard=Yes
+}}
+{{EnemyNavigation|Amarok|Biggie Hours}}
+{{DropTable/head}}
+{{DropTable/coin|500|1}}
+{{DropTable/row|Magic Meatloaf|0.10|3}}
+{{DropTable/card|0.02}}
+{{DropTable/row|Grandma Disguise|0.004|1}}
+{{DropTable/row|Granite Obol of Amarok's Stare|0.0033|1}}
+{{DropTable/row|Amarok Slab|0.4|3}}
+{{DropTable/row|Chaotic Amarok Slab|0.2|1}}
+{{DropTable1|chance=1}}
+{{DropTable2|chance=1}}
+{{DropTable3|chance=1}}
+|}

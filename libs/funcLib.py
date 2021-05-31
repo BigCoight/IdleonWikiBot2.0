@@ -31,10 +31,20 @@ def camelCaseSplitter(string):
 
 
 def nameDic(name):
+    res = ''
     with open(fr'./output/modified/json/Items.json', mode='r') as jsonFile:
         items = json.load(jsonFile)
         nameDic = {name: item["displayName"] for name, item in items.items()}
-        return nameDic.get(name, name)
+        res = nameDic.get(name)
+    if res:
+        return res
+    with open(fr'./output/modified/json/Enemies.json', mode='r') as jsonFile:
+        enemies = json.load(jsonFile)
+        nameDic = {name: enemy["Name"] for name, enemy in enemies.items()}
+        res = nameDic.get(name)
+    if res:
+        return res
+    return name
 
 
 def nameDicR(val):

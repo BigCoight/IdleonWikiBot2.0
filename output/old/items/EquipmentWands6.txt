@@ -2,14 +2,14 @@
 |class=Mage
 |level=50
 |type=Wand
-|speed=3
+|speed=5
 |weaponpower=30
 |agi=5
 |wis=9
 |misc=5% Movement Speed
 |reach=160
 |upgrade=3
-|sellprice=268000
+|sellprice=174000
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,26 +17,29 @@
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Golden Plop|quantity1=8
-|resource2=Fruitfly|quantity2=8500
+|resource1=Golden Plop|quantity1=3
+|resource2=Fruitfly|quantity2=4000
 |resource3=Starlight|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Spriggly Storm]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Plop|8}}
-{{detrecipe|3|Fruitfly|8500}}
-{{detrecipe|3|Starlight|2}}
-{{detrecipe|40|Chain Link|2000}}
-{{detrecipe|40|Quarterstaff|6}}
-{{detrecipe|80|Slime Sludge|900}}
-{{detrecipe|80|Copper Bar|600}}
-{{detrecipe|40|Distilled Water|16}}
+{{detrecipe|3|Sewers1b|3}}
+{{detrecipe|3|Bug4|4000}}
+{{detrecipe|3|EquipmentWands5|2}}
+{{detrecipe|40|CraftMat7|2000}}
+{{detrecipe|40|EquipmentWands2|6}}
+{{detrecipe|80|Jungle1|750}}
+{{detrecipe|80|CopperBar|600}}
+{{detrecipe|40|PureWater|16}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Plop|8}}
-{{detrecipe/totals|Fruitfly|8500}}
-{{detrecipe/totals|Chain Link|2000}}
-{{detrecipe/totals|Slime Sludge|900}}
-{{detrecipe/totals|Copper Bar|600}}
-{{detrecipe/totals|Distilled Water|16}}
+{{detrecipe/totals|Sewers1b|3}}
+{{detrecipe/totals|Bug4|4000}}
+{{detrecipe/totals|CraftMat7|2000}}
+{{detrecipe/totals|Jungle1|750}}
+{{detrecipe/totals|CopperBar|600}}
+{{detrecipe/totals|PureWater|16}}
 |}

@@ -1,0 +1,402 @@
+  NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
+==Changed Npcs==
+{{patchnote/head|changed=Djonnut}}
+|-
+|'''I'm Blue Dabadedada'''
+|-
+|''Requirements''
+{{patchnote|Req 1|Moonmen Touched: > 30000. Starting at 0.|Moonmen Defeated: > 10000. Starting at 0.}}
+{{patchnote|Req 2|Ghosts Collected: > 2. Starting at 0.|Ghosts Collected: > 1. Starting at 0.}}
+
+|-
+|'''Genie Dieting'''
+|-
+|''Requirements''
+{{patchnote|Req 2|4000x {{CraftReq|Icing Ironbite}}|1000x {{CraftReq|Icing Ironbite}}}}
+{{patchnote|Req 1|2000x {{CraftReq|Average Mana Potion}}|500x {{CraftReq|Average Mana Potion}}}}
+{{patchnote|Req 3|1000x {{CraftReq|Jellyfish}}|400x {{CraftReq|Jellyfish}}}}
+
+|}
+
+</div><div style = "flex:50%;"> 
+==New Npcs==
+{{patchnote/head|changed=Snouts}}
+|-
+|'''A Salty Fall'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Buckler Stamp}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |50x {{CraftReq|Redox Salts}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? @ QUEST:Get some Refinery Salts to make into a pile for Snouts to fall onto.}}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |A Salty Fall}}
+{{patchnote|questText| |Get some Refinery Salts to make into a pile for Snouts to fall onto.}}
+{{patchnote|DialogueText| |Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? @ QUEST}}
+|-
+|'''Gravity VS Salt'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Feather Stamp}}}}
+{{patchnote|Reward 2| |1x {{CraftReq|Purp Froge Stamp}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |75x {{CraftReq|Explosive Salts}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Do you have anything else I could land on? @ QUEST:Get some Orange Refinery Salts hopefully they wont react with the snow.}}
+{{patchnote|difficulty| |5}}
+{{patchnote|name| |Gravity VS Salt}}
+{{patchnote|questText| |Get some Orange Refinery Salts hopefully they wont react with the snow.}}
+{{patchnote|DialogueText| |Do you have anything else I could land on? @ QUEST}}
+|-
+|'''Big Ol Chonker'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Talent III Stamp}}}}
+{{patchnote|Reward 2| |1x {{CraftReq|Biblio Stamp}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Defeat Giant Stache Mob: > 1. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! @ QUEST:Defeat a giant monster. You need a Prayer for giants to spawn at all remember.}}
+{{patchnote|difficulty| |5}}
+{{patchnote|name| |Big Ol Chonker}}
+{{patchnote|questText| |Defeat a giant monster. You need a Prayer for giants to spawn at all remember.}}
+{{patchnote|DialogueText| |Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! @ QUEST}}
+|}
+
+{{patchnote/head|changed=Hoggindaz}}
+|-
+|'''Turn ON for what???'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |3x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Refinery Turned On: > 1. Starting at 0.}}
+{{patchnote|Req 2| |Hours of Redox Fuel: > 24. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST:Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.}}
+{{patchnote|difficulty| |1}}
+{{patchnote|name| |Turn ON for what???}}
+{{patchnote|questText| |Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.}}
+{{patchnote|DialogueText| |First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST}}
+|-
+|'''Trapping with the Lord'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|1 HR Time Candy}}}}
+{{patchnote|Reward 2| |4x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Get TrapBox from Hunter: > 1. Starting at 0.}}
+{{patchnote|Req 2| |Place a Trap in Jungle: > 1. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST:Go to the map to the left and learn about the Trapping Skill.}}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |Trapping with the Lord}}
+{{patchnote|questText| |Go to the map to the left and learn about the Trapping Skill.}}
+{{patchnote|DialogueText| |Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST}}
+|-
+|'''Constructing a Tower'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x Printer Sampling;Talent Book}}
+{{patchnote|Reward 2| |2x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |3D Printer Built: > 1. Starting at 0.}}
+{{patchnote|Req 2| |Wizard Defender Built: > 1. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST:Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.}}
+{{patchnote|difficulty| |3}}
+{{patchnote|name| |Constructing a Tower}}
+{{patchnote|questText| |Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.}}
+{{patchnote|DialogueText| |See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST}}
+|-
+|'''Monke Tower Time!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|1 HR Time Candy}}}}
+{{patchnote|Reward 2| |2x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Summon Goblin Gorefest: > 1. Starting at 0.}}
+{{patchnote|Req 2| |Place Wizard Towers: > 4. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST:Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!}}
+{{patchnote|difficulty| |2}}
+{{patchnote|name| |Monke Tower Time!}}
+{{patchnote|questText| |Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!}}
+{{patchnote|DialogueText| |Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST}}
+|-
+|'''Taking Samples'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x Shrine Architect;Talent Book}}
+{{patchnote|Reward 2| |2x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Take Samples: > 2. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST:Use the Star Book then add the talent to your attack bar and take samples!}}
+{{patchnote|difficulty| |1}}
+{{patchnote|name| |Taking Samples}}
+{{patchnote|questText| |Use the Star Book then add the talent to your attack bar and take samples!}}
+{{patchnote|DialogueText| |Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST}}
+|}
+
+{{patchnote/head|changed=Lonely Hunter}}
+|-
+|'''Leaf Him Alone!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |5x {{CraftReq|Gem}}}}
+{{patchnote|Reward 2| |1x {{CraftReq|1 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |200x {{CraftReq|Grass Leaf}}}}
+{{patchnote|Req 2| |50x {{CraftReq|Twisty Leaf}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Go on leave me alone. @ QUEST:Well you heard him!}}
+{{patchnote|difficulty| |3}}
+{{patchnote|name| |Leaf Him Alone!}}
+{{patchnote|questText| |Well you heard him!}}
+{{patchnote|DialogueText| |Go on leave me alone. @ QUEST}}
+|-
+|'''Skeleton? Skelegone!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|1 HR Time Candy}}}}
+{{patchnote|Reward 2| |1x {{CraftReq|Colosseum Ticket}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Xylobones Defeated: > 5. Starting at 0.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST:Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!}}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |Skeleton? Skelegone!}}
+{{patchnote|questText| |Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!}}
+{{patchnote|DialogueText| |I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST}}
+|}
+
+{{patchnote/head|changed=Lord of the Hunt}}
+|-
+|'''Pelt for the Pelt God'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Cardboard Traps}}}}
+{{patchnote|Reward 2| |2x {{CraftReq|12 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |10x {{CraftReq|Shrapshell}}}}
+{{patchnote|Req 2| |12x {{CraftReq|Snake Skin}}}}
+{{patchnote|Req 3| |1x {{CraftReq|Cardboard Traps}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Go get me the materials I need to make a trap @ QUEST:Collect material from Snelbie Snails and Snakes. Also buy a trap from the Town Shop.}}
+{{patchnote|difficulty| |2}}
+{{patchnote|name| |Pelt for the Pelt God}}
+{{patchnote|questText| |Collect material from Snelbie Snails and Snakes. Also buy a trap from the Town Shop.}}
+{{patchnote|DialogueText| |Go get me the materials I need to make a trap @ QUEST}}
+|-
+|'''Frogecoin to the MOON!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |5x {{CraftReq|Medium Experience Balloon}}}}
+{{patchnote|Reward 2| |2x {{CraftReq|4 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |100x {{CraftReq|Froge}}}}
+{{patchnote|Req 2| |1x {{CraftReq|Poison Froge}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. @ QUEST:Go trap Froge Critters found in the SLIME map in Blunder Hills.}}
+{{patchnote|difficulty| |2}}
+{{patchnote|name| |Frogecoin to the MOON!}}
+{{patchnote|questText| |Go trap Froge Critters found in the SLIME map in Blunder Hills.}}
+{{patchnote|DialogueText| |I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. @ QUEST}}
+|-
+|'''Yet another Cartoon Reference'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |2x {{CraftReq|4 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |250x {{CraftReq|Crabbo}}}}
+{{patchnote|Req 2| |1x {{CraftReq|Mutant Crabbo}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. @ QUEST:Go trap Crabbo Critters found by the sea.}}
+{{patchnote|difficulty| |3}}
+{{patchnote|name| |Yet another Cartoon Reference}}
+{{patchnote|questText| |Go trap Crabbo Critters found by the sea.}}
+{{patchnote|DialogueText| |I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. @ QUEST}}
+|-
+|'''Small Stingers, Big Owie'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |2x {{CraftReq|Large Experience Balloon}}}}
+{{patchnote|Reward 2| |2x {{CraftReq|4 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |500x {{CraftReq|Scorpie}}}}
+{{patchnote|Req 2| |2x {{CraftReq|Crescent Scropie}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Alright the Scorpie Hunting Season is on you know what to do. QUEST:Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!}}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |Small Stingers, Big Owie}}
+{{patchnote|questText| |Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!}}
+{{patchnote|DialogueText| |Alright the Scorpie Hunting Season is on you know what to do. QUEST}}
+|-
+|'''The Mouse n the Molerat'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |10x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |1000x {{CraftReq|Mousey}}}}
+{{patchnote|Req 2| |2x {{CraftReq|Nakeo Moleo}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST:Go trap some Mousey Critters.}}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |The Mouse n the Molerat}}
+{{patchnote|questText| |Go trap some Mousey Critters.}}
+{{patchnote|DialogueText| |Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST}}
+|-
+|'''Happy Tree Friend'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|12 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |1500x {{CraftReq|Owlio}}}}
+{{patchnote|Req 2| |3x {{CraftReq|Minervowl}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Well I'll count it anyway... I'll activate the Owlio Hunting Season. @ QUEST:Go trap Owlio Critters.}}
+{{patchnote|difficulty| |5}}
+{{patchnote|name| |Happy Tree Friend}}
+{{patchnote|questText| |Go trap Owlio Critters.}}
+{{patchnote|DialogueText| |Well I'll count it anyway... I'll activate the Owlio Hunting Season. @ QUEST}}
+|-
+|'''Noot Noot!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|12 HR Time Candy}}}}
+{{patchnote|Reward 2| |10x {{CraftReq|Gem}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |2500x {{CraftReq|Pingy}}}}
+{{patchnote|Req 2| |4x {{CraftReq|Eternal Lord of  The Undying Ember}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... @ QUEST:Go trap some Pingy Critters.}}
+{{patchnote|difficulty| |6}}
+{{patchnote|name| |Noot Noot!}}
+{{patchnote|questText| |Go trap some Pingy Critters.}}
+{{patchnote|DialogueText| |I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... @ QUEST}}
+|-
+|'''Bunny you Should Say That!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Star Talent Reset Potion}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |4000x {{CraftReq|Bunny}}}}
+{{patchnote|Req 2| |6x {{CraftReq|Purbunni}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. @ QUEST:Go trap Bunny Critters.}}
+{{patchnote|difficulty| |7}}
+{{patchnote|name| |Bunny you Should Say That!}}
+{{patchnote|questText| |Go trap Bunny Critters.}}
+{{patchnote|DialogueText| |Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. @ QUEST}}
+|-
+|'''Rollin' Thunder!'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |4x {{CraftReq|Talent Point Reset Potion}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |8000x {{CraftReq|Dung Beat}}}}
+{{patchnote|Req 2| |10x {{CraftReq|Jade Scarab}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. @ QUEST:Go trap Dung Beat Critters.}}
+{{patchnote|difficulty| |7}}
+{{patchnote|name| |Rollin' Thunder!}}
+{{patchnote|questText| |Go trap Dung Beat Critters.}}
+{{patchnote|DialogueText| |The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. @ QUEST}}
+|-
+|'''Untitled Quest'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Post Office Box Reseto Magnifico}}}}
+{{patchnote|Reward 2| |1x {{CraftReq|24 HR Time Candy}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |65000x {{CraftReq|Honker}}}}
+{{patchnote|Req 2| |1x {{CraftReq|Diamond Duck}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. @ QUEST:Go trap Honker Critters.}}
+{{patchnote|difficulty| |7}}
+{{patchnote|name| |Untitled Quest}}
+{{patchnote|questText| |Go trap Honker Critters.}}
+{{patchnote|DialogueText| |Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. @ QUEST}}
+|-
+|'''To Trap or not to Trap'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Critter Baron}}}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |500x {{CraftReq|Crescent Scropie}}}}
+{{patchnote|Req 2| |250x {{CraftReq|Eternal Lord of  The Undying Ember}}}}
+{{patchnote|Req 3| |100x {{CraftReq|Diamond Duck}}}}
+
+{{patchnote|consumed| |Yes}}
+{{patchnote|dialogueText| |If you can catch more Shinies than I have I'll give you a Trophy! @ QUEST:Catch a TON of Shinies... like a TOOOOOON.}}
+{{patchnote|difficulty| |7}}
+{{patchnote|name| |To Trap or not to Trap}}
+{{patchnote|questText| |Catch a TON of Shinies... like a TOOOOOON.}}
+{{patchnote|DialogueText| |If you can catch more Shinies than I have I'll give you a Trophy! @ QUEST}}
+|}
+
+</div></div>

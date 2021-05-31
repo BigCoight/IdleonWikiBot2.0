@@ -8,7 +8,7 @@
 |luck=2
 |upgrade=2
 |defence=2
-|sellprice=1400
+|sellprice=875
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -16,7 +16,7 @@
 |levelreq=10
 |expgiven=110
 |recipefrom=Start
-|resource1=Copper Bar|quantity1=200
+|resource1=Copper Bar|quantity1=125
 }}
 {{usedin/head}}
 {{usedin/row|[[Iron Boots]]|2|Crafting}}
@@ -24,9 +24,9 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|200}}
+{{detrecipe|3|CopperBar|125}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|CopperBar|125}}
 |}

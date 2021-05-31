@@ -1,0 +1,9 @@
+{{DropTable/head}}
+{{DropTable/row|Silver Pen|{{#expr: {{{chance}}}*.09}}|1}}
+{{DropTable/row|Lucky Lad|{{#expr: {{{chance}}}*.0003}}|1}}
+{{DropTable/row|Talent Point Reset Fragment|{{#expr: {{{chance}}}*.15}}|1}}
+{{DropTable/row|Golden Meat Pie|{{#expr: {{{chance}}}*0.5}}|1}}
+{{DropTable/row|Gold LUK Obol|{{#expr: {{{chance}}}*0.022050000000000004}}|1}}
+{{DropTable/row|Silver Obol of Double Sixes|{{#expr: {{{chance}}}*0.022050000000000004}}|1}}
+{{DropTable/row|Mystery Upgrade Stone I|{{#expr: {{{chance}}}*0.7}}|3}}
+|}

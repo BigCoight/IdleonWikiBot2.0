@@ -16,44 +16,32 @@
 {{detdrops|[[Crabcake]]|0.0000004762800000000001|1.0}}
 {{detdrops|[[Efaunt]]|0.00013230000000000002|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.00013230000000000002|2.0}}
+{{detdrops|[[Chizoar]]|0.00013230000000000002|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.00013230000000000002|2.0}}
 {{detdrops|[[Biggie Hours]]|0.00006615000000000001|1.0}}
 {{detdrops|[[Sandstone Bronze Chest]]|0.00013230000000000002|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.00013230000000000002|1.0}}
 {{detdrops|[[Mafioso]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Sand Castle]]|0.0000004630500000000001|1.0}}
 {{detdrops|[[Pincermin]]|0.0000004895100000000001|1.0}}
 {{detdrops|[[Mashed Potato]]|0.00000051597|1.0}}
 {{detdrops|[[Dig Doug]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.00013230000000000002|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.00013230000000000002|2.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.00013230000000000002|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.00013230000000000002|1.0}}
 {{detdrops|[[Tyson]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Moonmoon]]|0.0000004630500000000001|1.0}}
 {{detdrops|[[Sand Giant]]|0.0000004895100000000001|1.0}}
 {{detdrops|[[Snelbie]]|0.00000051597|1.0}}
-{{detdrops|[[Sheepie]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Frost Flake]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Sir Stache]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Bloque]]|0.000052920000000000015|1.0}}
-{{detdrops|[[mamooth]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Snowman]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Penguin]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Thermister]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Quenchie]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Cryosnake]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Bop Box]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Neyeptune]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Xylobone]]|0.000052920000000000015|1.0}}
-{{detdrops|[[Bloodbone]]|0.000052920000000000015|1.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.00013230000000000002|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.00013230000000000002|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0000019845000000000002|2.0}}
+{{detdrops|[[Frigid Soul]]|0.0000019845000000000002|1.0}}
+{{detdrops|[[Squiddy Soul]]|0.0000019845000000000002|1.0}}
+{{detdrops|[[Bandit Bob]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}

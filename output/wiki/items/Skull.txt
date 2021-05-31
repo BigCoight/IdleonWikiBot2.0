@@ -1,45 +1,154 @@
+Wax Skull
 {{InfoItem
 |class=All
 |level=1
 |type=Worship Skull
 |weaponpower=4
-|agi=2
+|wis=2
 |upgrade=1
-|sellprice=100
+|sellprice=5000
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=4|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
+|}
+Ceramic Skull
 {{InfoItem
 |class=All
-|level=1
+|level=10
 |type=Worship Skull
-|weaponpower=4
-|agi=2
+|weaponpower=8
+|wis=4
 |upgrade=1
-|sellprice=100
+|sellprice=1250
 }}
-{{InfoItem
-|class=All
-|level=1
-|type=Worship Skull
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=100
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=82
+|levelreq=16
+|expgiven=750
+|recipefrom=Start
+|resource1=Forest Soul|quantity1=250
+|resource2=Redox Salts|quantity2=5
 }}
+{{detrecipe/head}}
+{{detrecipe|3|Soul1|250}}
+{{detrecipe|3|Refinery1|5}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul1|250}}
+{{detrecipe/totals|Refinery1|5}}
+|}
+Horned Skull
 {{InfoItem
 |class=All
-|level=1
+|level=25
 |type=Worship Skull
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=100
+|weaponpower=13
+|wis=7
+|upgrade=2
+|sellprice=13300
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=70
+|levelreq=29
+|expgiven=4000
+|recipefrom=Start
+|resource1=Dune Soul|quantity1=1200
+|resource2=Redox Salts|quantity2=25
+}}
+{{usedin/head}}
+{{usedin/row|[[Prickle Skull]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul2|1200}}
+{{detrecipe|3|Refinery1|25}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul2|1200}}
+{{detrecipe/totals|Refinery1|25}}
+|}
+Prickle Skull
 {{InfoItem
 |class=All
-|level=1
+|level=35
 |type=Worship Skull
-|weaponpower=4
-|agi=2
-|upgrade=1
+|weaponpower=20
+|wis=10
+|upgrade=2
+|sellprice=281600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=18
+|levelreq=40
+|expgiven=225000
+|recipefrom=Start
+|resource1=Rooted Soul|quantity1=12500
+|resource2=Redox Salts|quantity2=50
+|resource3=Horned Skull|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Manifested Skull]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul3|12500}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|WorshipSkull3|2}}
+{{detrecipe|40|Soul2|2400}}
+{{detrecipe|40|Refinery1|50}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul3|12500}}
+{{detrecipe/totals|Refinery1|100}}
+{{detrecipe/totals|Soul2|2400}}
+|}
+Manifested Skull
+{{InfoItem
+|class=All
+|level=55
+|type=Worship Skull
+|weaponpower=26
+|wis=12
+|upgrade=3
+|sellprice=2313200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=42
+|levelreq=46
+|expgiven=500000
+|recipefrom=Start
+|resource1=Frigid Soul|quantity1=50000
+|resource2=Prickle Skull|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Soul4|50000}}
+{{detrecipe|3|WorshipSkull4|2}}
+{{detrecipe|40|Soul3|25000}}
+{{detrecipe|40|Refinery1|100}}
+{{detrecipe|40|WorshipSkull3|4}}
+{{detrecipe|80|Soul2|4800}}
+{{detrecipe|80|Refinery1|100}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul4|50000}}
+{{detrecipe/totals|Soul3|25000}}
+{{detrecipe/totals|Refinery1|200}}
+{{detrecipe/totals|Soul2|4800}}
+|}
+Wax Skull
+{{InfoItem
+|class=All
+|level=70
+|type=Worship Skull
+|weaponpower=34
+|wis=15
+|upgrade=4
 |sellprice=100
 }}

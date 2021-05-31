@@ -1,0 +1,12 @@
+{{InfoCard
+|title=Mosquisnow
+|order=10
+|category=Bosses
+|effect=+{%_Total_Catching_Efficiency
+|bonus=7
+|reqtier=10
+|source=[[Catching#Drops|Catching Mosquisnow]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00014|1}}
+|}

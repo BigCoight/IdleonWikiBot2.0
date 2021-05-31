@@ -19,15 +19,15 @@
 |resource3=Steel Band|quantity3=1
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|1000}}
-{{detrecipe|3|Copper Band|1}}
-{{detrecipe|40|Copper Bar|300}}
-{{detrecipe|3|Steel Band|1}}
-{{detrecipe|40|Iron Bar|600}}
+{{detrecipe|3|Jungle1|1000}}
+{{detrecipe|3|EquipmentRings2|1}}
+{{detrecipe|40|CopperBar|300}}
+{{detrecipe|3|EquipmentRings3|1}}
+{{detrecipe|40|IronBar|600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|1000}}
-{{detrecipe/totals|Copper Bar|300}}
-{{detrecipe/totals|Iron Bar|600}}
+{{detrecipe/totals|Jungle1|1000}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|IronBar|600}}
 |}

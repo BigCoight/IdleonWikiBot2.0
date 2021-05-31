@@ -7,8 +7,8 @@
 |wis=5
 |upgrade=2
 |defence=9
-|sellprice=13760
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|sellprice=10000
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -16,8 +16,8 @@
 |levelreq=12
 |expgiven=520
 |recipefrom=Start
-|resource1=Iron Bar|quantity1=180
-|resource2=Goblin Ear|quantity2=400
+|resource1=Iron Bar|quantity1=125
+|resource2=Goblin Ear|quantity2=300
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Helmet]]|4|Crafting}}
@@ -25,11 +25,11 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|180}}
-{{detrecipe|3|Goblin Ear|400}}
+{{detrecipe|3|IronBar|125}}
+{{detrecipe|3|Forest1|300}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|180}}
-{{detrecipe/totals|Goblin Ear|400}}
+{{detrecipe/totals|IronBar|125}}
+{{detrecipe/totals|Forest1|300}}
 |}

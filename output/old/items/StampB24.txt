@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=24
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multibug Chance
 |material=Potty Rolls
 |sellprice=4000

@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Giftmas Blobulyte
 |order=1
-|category=Event
+|category=NYI
 |effect=+{%_Total_Drop_Rate
 |bonus=3
 |reqtier=1.5

@@ -2,11 +2,10 @@
 |type=Bug
 |description=I don't know whyyyy she swallowed a flyyy, perhaps she'll cry from being perpetually made fun of in the form of a nursey rhyme just because she made one bad decision... er, die!
 |sellprice=3
-|source=Catching, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=Catching, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|65}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|65}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Copper Netted Net]]|400|Crafting}}

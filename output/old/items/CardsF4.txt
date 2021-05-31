@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Mousey
+|order=4
+|category=Bosses
+|effect=+{%_Shiny_Critter_Chance
+|bonus=2.5
+|reqtier=4
+}}

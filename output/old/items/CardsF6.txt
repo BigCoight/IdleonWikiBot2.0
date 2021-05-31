@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Pingy
+|order=6
+|category=Bosses
+|effect=+{%_Shiny_Critter_Chance
+|bonus=6
+|reqtier=5
+}}

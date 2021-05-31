@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=16
-|type=Skills
+|type=Skills Stamp
 |bonus= Liquid Cap
 |material=Bloach
 |sellprice=5000

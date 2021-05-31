@@ -1,0 +1,171 @@
+{
+    "Changes": {},
+    "New": {
+        "Frostbite Towndra": [
+            {
+                "quantity": "25000",
+                "item": "FoodHealth10",
+                "no": 0
+            },
+            {
+                "quantity": "25000",
+                "item": "FoodHealth9",
+                "no": 1
+            },
+            {
+                "quantity": "25000",
+                "item": "FoodHealth11",
+                "no": 2
+            },
+            {
+                "quantity": "99",
+                "item": "TrapBoxSet1",
+                "no": 3
+            },
+            {
+                "quantity": "99",
+                "item": "WorshipSkull1",
+                "no": 4
+            },
+            {
+                "quantity": "4",
+                "item": "StoneW3",
+                "no": 5
+            },
+            {
+                "quantity": "10",
+                "item": "StoneA3",
+                "no": 6
+            },
+            {
+                "quantity": "7",
+                "item": "StoneT3",
+                "no": 7
+            },
+            {
+                "quantity": "20000",
+                "item": "FoodPotOr3",
+                "no": 8
+            },
+            {
+                "quantity": "20000",
+                "item": "FoodPotGr3",
+                "no": 9
+            },
+            {
+                "quantity": "20000",
+                "item": "FoodPotRe3",
+                "no": 10
+            },
+            {
+                "quantity": "1",
+                "item": "InvBag107",
+                "no": 11
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage16",
+                "no": 12
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage17",
+                "no": 13
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage18",
+                "no": 14
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage19",
+                "no": 15
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage20",
+                "no": 16
+            },
+            {
+                "quantity": "1",
+                "item": "InvStorage21",
+                "no": 17
+            },
+            {
+                "quantity": "20",
+                "item": "rtt0",
+                "no": 18
+            },
+            {
+                "quantity": "2",
+                "item": "ResetFrag",
+                "no": 19
+            }
+        ]
+    },
+    "Removed": {
+        "Tundra Camp": [
+            {
+                "quantity": "1",
+                "item": "Line1",
+                "no": 0
+            },
+            {
+                "quantity": "1",
+                "item": "Weight1",
+                "no": 1
+            },
+            {
+                "quantity": "1",
+                "item": "Line5",
+                "no": 2
+            },
+            {
+                "quantity": "1",
+                "item": "Weight5",
+                "no": 3
+            },
+            {
+                "quantity": "1",
+                "item": "Weight10",
+                "no": 4
+            },
+            {
+                "quantity": "1",
+                "item": "Line10",
+                "no": 5
+            },
+            {
+                "quantity": "1",
+                "item": "Weight11",
+                "no": 6
+            },
+            {
+                "quantity": "2",
+                "item": "StoneT1",
+                "no": 7
+            },
+            {
+                "quantity": "1",
+                "item": "StoneT2",
+                "no": 8
+            },
+            {
+                "quantity": "1",
+                "item": "StampB8",
+                "no": 9
+            },
+            {
+                "quantity": "1",
+                "item": "StampA15",
+                "no": 10
+            },
+            {
+                "quantity": "1",
+                "item": "ResetFrag",
+                "no": 11
+            }
+        ]
+    }
+}

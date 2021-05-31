@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Mafioso_Walking.gif
-|attack=115
+|attack=90
 |health=11000
-|defence=240
+|defence=180
 |speed=4
 |world=Yum Yum Desert
 |area=The Grandioso Canyon
 |exp=240
 |respawn=40
-|defence0=111.73
+|defence0=83.29
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes
@@ -16,8 +16,8 @@
 {{EnemyNavigation|Crabcake|Sand Castle}}
 {{DropTable/head}}
 {{DropTable/coin|67|0.43}}
-{{DropTable/row|Triumphant Treason|0.075|1|([[Goldric]])}}
 {{DropTable/row|Coconotnotto|0.2|1}}
+{{DropTable/row|Triumphant Treason|0.075|1|([[Goldric]])}}
 {{DropTable/card|0.0001}}
 {{DropTable/recipe1|Strung Bludgeon|0.000002}}
 {{DropTable7|chance=0.0032}}

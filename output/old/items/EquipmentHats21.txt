@@ -6,7 +6,7 @@
 |misc=5% Xp From Monsters
 |upgrade=5
 |defence=10
-|sellprice=9900
+|sellprice=8640
 |source=[[Alchemy#Level up Gift|Level up Gift]]
 }}
 {{ForgeSlot
@@ -19,14 +19,14 @@
 |resource2=Copper Helmet|quantity2=4
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|200}}
-{{detrecipe|3|Copper Helmet|4}}
-{{detrecipe|40|Copper Bar|200}}
-{{detrecipe|40|Bean Slices|300}}
+{{detrecipe|3|IronBar|200}}
+{{detrecipe|3|EquipmentHats17|4}}
+{{detrecipe|40|CopperBar|120}}
+{{detrecipe|40|Grasslands3|200}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|200}}
-{{detrecipe/totals|Copper Bar|200}}
-{{detrecipe/totals|Bean Slices|300}}
+{{detrecipe/totals|IronBar|200}}
+{{detrecipe/totals|CopperBar|120}}
+{{detrecipe/totals|Grasslands3|200}}
 |}

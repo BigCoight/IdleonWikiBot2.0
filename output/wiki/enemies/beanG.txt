@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Bored Bean_Walking.gif
-|attack=14
+|attack=11
 |health=150
 |defence=4
 |speed=4
@@ -8,7 +8,7 @@
 |area=Valley Of The Beans
 |exp=15
 |respawn=50
-|defence0=8.14
+|defence0=5.97
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=19
-|type=Skills
+|type=Skills Stamp
 |bonus= Catching Efficiency
 |material=Goldfish
 |sellprice=2000

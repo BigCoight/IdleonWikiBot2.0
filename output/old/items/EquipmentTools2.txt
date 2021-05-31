@@ -18,11 +18,11 @@
 |resource2=Frog Leg|quantity2=30
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|13}}
-{{detrecipe|3|Frog Leg|30}}
+{{detrecipe|3|CopperBar|13}}
+{{detrecipe|3|Grasslands2|30}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|13}}
-{{detrecipe/totals|Frog Leg|30}}
+{{detrecipe/totals|CopperBar|13}}
+{{detrecipe/totals|Grasslands2|30}}
 |}

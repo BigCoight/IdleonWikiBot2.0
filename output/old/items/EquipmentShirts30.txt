@@ -1,0 +1,45 @@
+{{InfoItem
+|class=Mage
+|level=95
+|type=Shirt
+|agi=1
+|wis=23
+|upgrade=5
+|defence=47
+|sellprice=22034000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=55
+|levelreq=49
+|expgiven=1000000
+|recipefrom=Start
+|resource1=Dioxide Synthesis|quantity1=500
+|resource2=Void Imperium Platebody|quantity2=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Refinery4|500}}
+{{detrecipe|3|EquipmentShirts27|1}}
+{{detrecipe|40|SnowC3|75000}}
+{{detrecipe|40|EquipmentShirts15|2}}
+{{detrecipe|80|Soul1|2000}}
+{{detrecipe|80|EquipmentShirts14|4}}
+{{detrecipe|120|DesertB4|20000}}
+{{detrecipe|120|EquipmentShirts12|20}}
+{{detrecipe|160|IronBar|3000}}
+{{detrecipe|160|JungleTree|12000}}
+{{detrecipe|120|PlatBar|4000}}
+{{detrecipe|80|DementiaBar|700}}
+{{detrecipe|40|VoidBar|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Refinery4|500}}
+{{detrecipe/totals|SnowC3|75000}}
+{{detrecipe/totals|Soul1|2000}}
+{{detrecipe/totals|DesertB4|20000}}
+{{detrecipe/totals|IronBar|3000}}
+{{detrecipe/totals|JungleTree|12000}}
+{{detrecipe/totals|DementiaBar|700}}
+{{detrecipe/totals|VoidBar|500}}
+|}

@@ -1,0 +1,12 @@
+{{InfoEnemy
+|image= _Walking.gif
+|attack=0
+|health=42
+|defence=1
+|speed=0
+|area=Blunder Hills
+|exp=69
+|respawn=1
+|defence0=0.22
+}}
+{{EnemyNavigation||}}

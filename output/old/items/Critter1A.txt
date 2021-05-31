@@ -1,6 +1,12 @@
 {{InfoItem
 |type=Critter
-|description=The living embodiment of the classic cryptocurrency Frogecoin
-|sellprice=3
+|description=Ew, it's the living embodiment of that scam alt-coin crypto ripoff, 'Frogecoin Cash'
+|sellprice=100
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Silkskin Traps]]|1|Crafting}}
+{{usedin/row|[[Dementia Boots]]|3|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|1|Quests}}
+{{usedin/row|[[Vials#Poison Tincture|Poison Tincture]]|Lots|Alchemy}}
+|}

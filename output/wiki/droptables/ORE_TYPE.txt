@@ -19,10 +19,10 @@
 {{DropTable4|chance=0.0082}}
 |}
 {{DropTable/head|Droptable for Drops for Void|collapsed=Yes}}
-{{DropTable/row|Frog Leg|0.4|2}}
+{{DropTable4|chance=0.0090}}
 |}
 {{DropTable/head|Droptable for Drops for Lustre|collapsed=Yes}}
-{{DropTable/row|Frog Leg|0.4|2}}
+{{DropTable4|chance=0.0095}}
 |}
 {{DropTable/head|Droptable for Drops for Starfire|collapsed=Yes}}
 {{DropTable/row|Frog Leg|0.4|2}}

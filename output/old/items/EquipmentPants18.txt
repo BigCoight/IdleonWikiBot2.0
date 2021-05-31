@@ -6,7 +6,7 @@
 |misc=5% Mining Efficincy
 |upgrade=3
 |defence=12
-|sellprice=3358
+|sellprice=3008
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -15,19 +15,19 @@
 |expgiven=400
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Torn Jeans|quantity1=8
-|resource2=Iron Ore|quantity2=250
+|resource2=Iron Ore|quantity2=200
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Torn Jeans|8}}
-{{detrecipe|40|Frog Leg|160}}
-{{detrecipe|40|Copper Bar|64}}
-{{detrecipe|40|Thread|120}}
-{{detrecipe|3|Iron Ore|250}}
+{{detrecipe|3|EquipmentPants1|8}}
+{{detrecipe|40|Grasslands2|160}}
+{{detrecipe|40|CopperBar|64}}
+{{detrecipe|40|CraftMat1|120}}
+{{detrecipe|3|Iron|200}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Frog Leg|160}}
-{{detrecipe/totals|Copper Bar|64}}
-{{detrecipe/totals|Thread|120}}
-{{detrecipe/totals|Iron Ore|250}}
+{{detrecipe/totals|Grasslands2|160}}
+{{detrecipe/totals|CopperBar|64}}
+{{detrecipe/totals|CraftMat1|120}}
+{{detrecipe/totals|Iron|200}}
 |}

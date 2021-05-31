@@ -14,3 +14,11 @@
 {{DropTable/card|0.00014}}
 {{DropTable12|chance=0.015}}
 |}
+{{DropTable/head|Droptable for Drops for Mosquisnow|collapsed=Yes}}
+{{DropTable/card|0.00014}}
+{{DropTable18|chance=0.015}}
+|}
+{{DropTable/head|Droptable for Drops for Flycicle|collapsed=Yes}}
+{{DropTable/card|0.00014}}
+{{DropTable18|chance=0.015}}
+|}

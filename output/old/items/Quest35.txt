@@ -13,11 +13,11 @@
 |resource2=Distilled Water|quantity2=5
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Woodular Circle|2}}
-{{detrecipe|3|Distilled Water|5}}
+{{detrecipe|3|TreeInterior1b|2}}
+{{detrecipe|3|PureWater|5}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Woodular Circle|2}}
-{{detrecipe/totals|Distilled Water|5}}
+{{detrecipe/totals|TreeInterior1b|2}}
+{{detrecipe/totals|PureWater|5}}
 |}

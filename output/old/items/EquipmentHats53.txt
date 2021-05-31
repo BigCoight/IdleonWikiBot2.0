@@ -9,5 +9,36 @@
 |misc=6% Defence
 |upgrade=4
 |defence=34
-|sellprice=1
+|sellprice=657000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=0
+|levelreq=36
+|expgiven=100000
+|recipefrom=Start
+|resource1=Froge|quantity1=5000
+|resource2=Platinum Helmet|quantity2=2
+|resource3=Dementia Bar|quantity3=300
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Helmet]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Critter1|5000}}
+{{detrecipe|3|EquipmentHats19|2}}
+{{detrecipe|40|Fish3|8000}}
+{{detrecipe|40|EquipmentHats18|8}}
+{{detrecipe|80|IronBar|1000}}
+{{detrecipe|80|Forest1|2400}}
+{{detrecipe|40|PlatBar|1500}}
+{{detrecipe|3|DementiaBar|300}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter1|5000}}
+{{detrecipe/totals|Fish3|8000}}
+{{detrecipe/totals|IronBar|1000}}
+{{detrecipe/totals|Forest1|2400}}
+{{detrecipe/totals|DementiaBar|300}}
+|}

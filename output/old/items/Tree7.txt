@@ -1,0 +1,11 @@
+{{InfoItem
+|type=Log
+|sellprice=40
+|source=Choppin
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Shardshins]]|75000|Crafting}}
+{{usedin/row|[[Void Imperium Axe]]|50000|Crafting}}
+{{usedin/row|[[Large Choppin Pouch]]|30000|Crafting}}
+{{usedin/row|[[Kazam Cauldron#Ignore Overdues|Ignore Overdues]]|Lots|Alchemy}}
+|}

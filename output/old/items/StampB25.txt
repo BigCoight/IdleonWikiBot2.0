@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Trapping Efficiency
+|material=Crabbo
+|sellprice=4000
+|source=[[DropTable17]]
+}}

@@ -1,22 +1,24 @@
 {{InfoEnemy
 |image=Frost Flake_Walking.gif
-|attack=0
+|attack=360
 |health=67000
-|defence=1
+|defence=700
 |speed=4
 |world=Frostfire Tyundra
 |area=Snowfield Outskirts
 |exp=700
 |respawn=40
-|defence0=0.22
+|defence0=415.1
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Sheepie|Sir Stache}}
 {{DropTable/head}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/coin|190|0.46}}
 {{DropTable/row|Melty Cube|0.16|1}}
 {{DropTable/card|0.0001}}
-{{DropTable8|chance=0.4}}
+{{DropTable/row|Duplogs Stamp|0.00006|1}}
+{{DropTable/row|Yellow Snowflake|0.00005|1}}
+{{DropTable14|chance=0.0028}}
 |}

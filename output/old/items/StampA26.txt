@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=26
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Fruitfly
 |sellprice=50000

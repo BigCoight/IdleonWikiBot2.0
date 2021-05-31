@@ -13,5 +13,4 @@
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00304|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.003392|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0032640000000000004|1.0}}
-{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.002848|1.0}}
 |}

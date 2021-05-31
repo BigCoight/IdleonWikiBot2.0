@@ -6,6 +6,43 @@
 |skillpower=23
 |agi=6
 |wis=17
-|upgrade=2
-|sellprice=200
+|upgrade=3
+|sellprice=2020500
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=10
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Tundra Logs|quantity1=15000
+|resource2=Redox Salts|quantity2=50
+|resource3=Plat Hatchet|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Axe]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SaharanFoal|15000}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|EquipmentToolsHatchet4|2}}
+{{detrecipe|40|PalmTree|16000}}
+{{detrecipe|40|CraftMat7|12000}}
+{{detrecipe|40|EquipmentToolsHatchet2|4}}
+{{detrecipe|80|Quest19|20}}
+{{detrecipe|80|DesertA3|8000}}
+{{detrecipe|80|EquipmentToolsHatchet1|12}}
+{{detrecipe|120|JungleTree|3000}}
+{{detrecipe|120|CraftMat6|1500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SaharanFoal|15000}}
+{{detrecipe/totals|Refinery1|50}}
+{{detrecipe/totals|PalmTree|16000}}
+{{detrecipe/totals|CraftMat7|12000}}
+{{detrecipe/totals|Quest19|20}}
+{{detrecipe/totals|DesertA3|8000}}
+{{detrecipe/totals|JungleTree|3000}}
+{{detrecipe/totals|CraftMat6|1500}}
+|}

@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=14
-|type=Combat
+|type=Combat Stamp
 |bonus= Base MP
 |material=Goblin Ear
 |sellprice=8000

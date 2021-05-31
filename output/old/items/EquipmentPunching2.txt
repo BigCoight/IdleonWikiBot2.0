@@ -21,16 +21,16 @@
 |resource3=Trusty Nails|quantity3=20
 }}
 {{usedin/head}}
-{{usedin/row|[[Bandage Wraps]]|10|Crafting}}
+{{usedin/row|[[Bandage Wraps]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|20}}
-{{detrecipe|3|Oak Logs|75}}
-{{detrecipe|3|Trusty Nails|20}}
+{{detrecipe|3|CopperBar|20}}
+{{detrecipe|3|OakTree|75}}
+{{detrecipe|3|CraftMat5|20}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|20}}
-{{detrecipe/totals|Oak Logs|75}}
-{{detrecipe/totals|Trusty Nails|20}}
+{{detrecipe/totals|CopperBar|20}}
+{{detrecipe/totals|OakTree|75}}
+{{detrecipe/totals|CraftMat5|20}}
 |}

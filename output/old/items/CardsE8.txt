@@ -2,9 +2,9 @@
 |title=Quenchie
 |order=8
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{_Base_LUK
+|bonus=7
+|reqtier=17
 |source=[[Quenchie]]
 }}
 {{detdrops/head}}

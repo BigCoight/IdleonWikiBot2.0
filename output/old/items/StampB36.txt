@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Starting TD Pts
+|material=Dune Soul
+|sellprice=4000
+|source=[[DropTable14]]
+}}

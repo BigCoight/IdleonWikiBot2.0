@@ -7,10 +7,13 @@
 |upgrade=6
 |defence=7
 |sellprice=200
-|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]]
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.000667|1}}
 {{detdrops|[[Chaotic Efaunt]]|0.000667|1}}
 {{detdrops|[[Nightmare Amarok]]|0.000667|1}}
+{{detdrops|[[Chizoar]]|0.000667|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.000667|1}}
+{{detdrops|[[Nightmare Chizoar]]|0.000667|1}}
 |}

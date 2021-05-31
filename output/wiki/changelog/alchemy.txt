@@ -1,0 +1,498 @@
+  NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
+==Changed Alchemy==
+{{patchnote/head|changed=Power Cauldron}}
+|-
+|'''Warriors Rule'''
+{{patchnote|description|All Orange Passive Bubbles give a {x higher bonus, but only for your warrior-based classes.|All Orange Passive Bubbles, which are the smaller sized ones, give a {x higher bonus to your warrior-based classes.}}
+|}
+
+{{patchnote/head|changed=Quicc Cauldron}}
+|-
+|'''Archer Or Bust'''
+{{patchnote|description|Green Passive Bonuses, which are the smaller sized ones, give {x more bonuses to your archer-based characters.|All Green Passive Bonuses, which are the smaller sized ones, give {x more bonuses to your archer-based characters.}}
+|}
+
+{{patchnote/head|changed=High-IQ Cauldron}}
+|-
+|'''Mage Is Best'''
+{{patchnote|description|Purple Passive Bonuses, which are the smaller sized ones, give {x more bonuses to your mage-based characters.|All Purple Passive Bonuses, which are the smaller sized ones, give {x more bonuses to your mage-based characters.}}
+|}
+
+{{patchnote/head|changed=Vials}}
+|-
+|'''Pickle Jar'''
+|-
+|''Requirements''
+{{patchnote|Req 2|Lx {{Liquid|1}}|Lx {{Liquid|2}}}}
+
+|}
+
+</div><div style = "flex:50%;"> 
+==New Alchemy==
+{{patchnote/head|changed=Power Cauldron}}
+|-
+|'''Brittley Spears'''
+{{patchnote|x1| |40}}
+{{patchnote|x2| |50}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |10x {{CraftReq|Froge}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Call Me Bob'''
+{{patchnote|x1| |25}}
+{{patchnote|x2| |2.5}}
+{{patchnote|func| |bigBase}}
+{{patchnote|description| |+{% Construction EXP Gain. Also gives +50% Bug-Fixing speed if your username is LavaFlame2. Actually, better make that +500%...}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |120x {{CraftReq|Moustache Comb}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Carpenter'''
+{{patchnote|x1| |2}}
+{{patchnote|x2| |50}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Build Speed per Construction Level.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |3x {{CraftReq|Explosive Salts}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Buff Boi Talent'''
+{{patchnote|x1| |5}}
+{{patchnote|x2| |1}}
+{{patchnote|func| |bigBase}}
+{{patchnote|description| |+{ Talent Points for EACH tab! Yea, it's amazing right? But it's just for warriors, don't tell the other classes!!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |50x {{CraftReq|Mousey}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Orange Bargain'''
+{{patchnote|x1| |99}}
+{{patchnote|x2| |40}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |The material costs of ALL orange bubbles are {% lower}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |30x {{CraftReq|Frigid Soul}}}}
+{{patchnote|Req 2| |5x {{Liquid|2}}}}
+
+|}
+
+{{patchnote/head|changed=Quicc Cauldron}}
+|-
+|'''Bow Jack'''
+{{patchnote|x1| |40}}
+{{patchnote|x2| |50}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |5x {{CraftReq|Forest Soul}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Call Me Ash'''
+{{patchnote|x1| |25}}
+{{patchnote|x2| |2}}
+{{patchnote|func| |bigBase}}
+{{patchnote|description| |+1 Placeable Trap, and +{% Trapping Efficiency.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |100x {{CraftReq|Tundra Logs}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Cuz I Catch Em All'''
+{{patchnote|x1| |3}}
+{{patchnote|x2| |100}}
+{{patchnote|func| |decayMulti}}
+{{patchnote|description| |{x more likely to catch shiny critters when opening a trap.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |25x {{CraftReq|Rooted Soul}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Fast Boi Talent'''
+{{patchnote|x1| |5}}
+{{patchnote|x2| |1}}
+{{patchnote|func| |bigBase}}
+{{patchnote|description| |+{ Talent Points for EACH tab, but just for Archers! Well, and 'that' class, you know who you are!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |120x {{CraftReq|Flycicle}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Green Bargain'''
+{{patchnote|x1| |99}}
+{{patchnote|x2| |40}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |The material costs of ALL green bubbles are {% lower}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |200x {{CraftReq|Owlio}}}}
+{{patchnote|Req 2| |5x {{Liquid|2}}}}
+
+|}
+
+{{patchnote/head|changed=High-IQ Cauldron}}
+|-
+|'''Matty Stafford'''
+{{patchnote|x1| |40}}
+{{patchnote|x2| |50}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Total damage. This multiplies with other damage bonuses, but adds with the other '+% Total Damage' bubbles.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |3x {{CraftReq|Redox Salts}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Call Me Pope'''
+{{patchnote|x1| |2.4}}
+{{patchnote|x2| |70}}
+{{patchnote|func| |decayMulti}}
+{{patchnote|description| |{x Worship Charge rate per hour. Also, {x Max Worship Charge! You bouta go super with all that charge... just sayin'}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |25x {{CraftReq|Crabbo}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Gospel Leader'''
+{{patchnote|x1| |80}}
+{{patchnote|x2| |60}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Max Charge per 10 Worship levels. I guess you could say this upgrade doesn't come Free of Charge!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |150x {{CraftReq|Mosquisnow}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Smart Boi Talent'''
+{{patchnote|x1| |5}}
+{{patchnote|x2| |1}}
+{{patchnote|func| |bigBase}}
+{{patchnote|description| |Sorry, mages don't get anything because you're lame.... Ok fine, you can have +{ Talent Points for each tab, but I'm not happy about it.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |150x {{CraftReq|Sippy Straw}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Purple Bargain'''
+{{patchnote|x1| |99}}
+{{patchnote|x2| |40}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |The material costs of ALL purple bubbles are {% lower}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |800x {{CraftReq|Forest Soul}}}}
+{{patchnote|Req 2| |5x {{Liquid|2}}}}
+
+|}
+
+{{patchnote/head|changed=Kazam Cauldron}}
+|-
+|'''Cogs For Hands'''
+{{patchnote|x1| |4}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Cog Production speed. Cogs are great. I really really like cogs. I guess you could say I think they're pretty Coggers...}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |50x {{CraftReq|Melty Cube}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Sample It'''
+{{patchnote|x1| |12}}
+{{patchnote|x2| |40}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Sample Size when taking samples for the 3d printer. Finally, your statisitcal analysis will be accurate!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |15x {{CraftReq|Dune Soul}}}}
+{{patchnote|Req 2| |3x {{Liquid|2}}}}
+
+|-
+|'''Big Game Hunter'''
+{{patchnote|x1| |70}}
+{{patchnote|x2| |50}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |Each time a Giant Monster spawns, the chance for another Giant Monster in that same week goes down by {% less than normal.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |40x {{CraftReq|Scorpie}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Ignore Overdues'''
+{{patchnote|x1| |100}}
+{{patchnote|x2| |60}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |+{% Book Checkout speed, thanks to this one little bubble that librarians do NOT want you to know about!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |120x {{CraftReq|Wispy Lumber}}}}
+{{patchnote|Req 2| |4x {{Liquid|2}}}}
+
+|-
+|'''Yellow Bargain'''
+{{patchnote|x1| |99}}
+{{patchnote|x2| |40}}
+{{patchnote|func| |decay}}
+{{patchnote|description| |The material costs of ALL yellow bubbles are {% lower.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |250x {{CraftReq|Pingy}}}}
+{{patchnote|Req 2| |5x {{Liquid|2}}}}
+
+|}
+
+{{patchnote/head|changed=Vials}}
+|-
+|'''Dieter Drink'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |Monsters drop +{% more money.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Bean Slices}}}}
+{{patchnote|Req 2| |Lx {{Liquid|1}}}}
+
+|-
+|'''Fur Refresher'''
+{{patchnote|x1| |2}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% higher Shiny Critter chance. This is a multiplier, so +1% from this vial means 1.01x, so 5% shiny chance would go to 5.05%.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Floof Ploof}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Sippy Soul'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{ Talent Points for Tab 2.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Forest Soul}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Crab Juice'''
+{{patchnote|x1| |4}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{ Starting points in Worship Tower Defence. Of course, a true balloon monkey wouldn't accept handouts like this.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Crabbo}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Stache Stew'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Mining Efficiency.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Void Ore}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Red Malt'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Refinery Cycle Speed. I just want to see you squirm a bit more as you decide where to spend your precious salts hahahaha!!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Redox Salts}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Ew Gross Gross'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Catching Efficiency.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Mosquisnow}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''The Spanish Sahara'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Choppin Efficiency.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Tundra Logs}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Poison Tincture'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |Eagle Eye Trap-O-Vision gives +{% more critters. It will always give less than if you manually collected the traps though.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Poison Froge}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Etruscan Lager'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Fishing Efficiency.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Mamooth Tusk}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Chonker Chug'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Talent Book Library checkout speed. }}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Dune Soul}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Bubonic Burp'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{ Cog Inventory spaces. DONT PANIC!!! I KNOW HOW ALARMING IT IS THAT A VIAL FINALLY GIVES A USEFUL BONUS FOR ONCE, BUT STAY CALM!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Mousey}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Visible Ink'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Construction Exp gain.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Pen}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Orange Malt'''
+{{patchnote|x1| |5}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% higher Shiny Critter chance. This stacks with the shiny chance from the Fur Refresher vial. You see, they have the same shaped vial.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Explosive Salts}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Snow Slurry'''
+{{patchnote|x1| |0.5}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Printer sample size. My my there are a lot of these 'sample size' bonuses in the game... too many...}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Snow Ball}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Slowergy Drink'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Base Multikill per Multikill Tier for all worlds. Stack them skulls!}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Frigid Soul}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Sippy Cup'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% Cog production speed.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Sippy Straw}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Bunny Brew'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{ Talent Points for Tab 3.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Bunny}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''40-40 Purity'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{ Liquid Mercury max capacity. Thats the 3rd liquid type in Alchemy, btw.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Contact Lense}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Spook Pint'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |+{% base Giant Monster spawn rate.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Cryo Soul}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|-
+|'''Goosey Glug'''
+{{patchnote|x1| |1}}
+{{patchnote|x2| |0}}
+{{patchnote|func| |add}}
+{{patchnote|description| |You know, I was talking to the goose in that vial, and they just aren't ready to give you a bonus.}}
+|-
+|''Requirements''
+{{patchnote|Req 1| |Lx {{CraftReq|Honker}}}}
+{{patchnote|Req 2| |Lx {{Liquid|2}}}}
+
+|}
+
+</div></div>

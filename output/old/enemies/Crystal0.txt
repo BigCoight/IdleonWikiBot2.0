@@ -1,0 +1,27 @@
+{{InfoEnemy
+|image=Crystal Carrot_Walking.gif
+|attack=0
+|health=1
+|defence=150
+|speed=4
+|world=Blunder Hills
+|exp=2
+|respawn=35
+|defence0=0.22
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Nutto|Wood Mushroom}}
+{{DropTable/head}}
+{{DropTable/coin|1|0.5}}
+{{DropTable/card|0.01}}
+{{DropTable/row|Crystallin|.1|1|([[Papua_Piggea]])}}
+{{DropTable/talentQuest Chungus|.005}}}}
+{{DropTable1|chance=.6}}
+{{DropTable2|chance=.5}}
+{{DropTable3|chance=.4}}
+{{DropTable4|chance=.6}}
+{{DropTable5|chance=.5}}
+{{DropTable5b|chance=1}}
+|}

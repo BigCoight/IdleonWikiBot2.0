@@ -7,8 +7,8 @@
 |wis=4
 |upgrade=3
 |defence=16
-|sellprice=63585
-|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|sellprice=61845
+|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -21,16 +21,16 @@
 |resource3=Gold Bar|quantity3=475
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Goldfish|500}}
-{{detrecipe|3|Copper Platelegs|6}}
-{{detrecipe|40|Copper Bar|480}}
-{{detrecipe|40|Bleach Logs|1200}}
-{{detrecipe|3|Gold Bar|475}}
+{{detrecipe|3|Fish1|500}}
+{{detrecipe|3|EquipmentPants2|6}}
+{{detrecipe|40|CopperBar|360}}
+{{detrecipe|40|BirchTree|900}}
+{{detrecipe|3|GoldBar|475}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Goldfish|500}}
-{{detrecipe/totals|Copper Bar|480}}
-{{detrecipe/totals|Bleach Logs|1200}}
-{{detrecipe/totals|Gold Bar|475}}
+{{detrecipe/totals|Fish1|500}}
+{{detrecipe/totals|CopperBar|360}}
+{{detrecipe/totals|BirchTree|900}}
+{{detrecipe/totals|GoldBar|475}}
 |}

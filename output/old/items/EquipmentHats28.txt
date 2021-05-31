@@ -8,7 +8,8 @@
 |misc=3% Defence
 |upgrade=3
 |defence=15
-|sellprice=38250
+|sellprice=36990
+|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -24,16 +25,16 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Fly|2000}}
-{{detrecipe|3|Copper Helmet|4}}
-{{detrecipe|40|Copper Bar|200}}
-{{detrecipe|40|Bean Slices|300}}
-{{detrecipe|3|Gold Bar|250}}
+{{detrecipe|3|Bug1|2000}}
+{{detrecipe|3|EquipmentHats17|4}}
+{{detrecipe|40|CopperBar|120}}
+{{detrecipe|40|Grasslands3|200}}
+{{detrecipe|3|GoldBar|250}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Fly|2000}}
-{{detrecipe/totals|Copper Bar|200}}
-{{detrecipe/totals|Bean Slices|300}}
-{{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Bug1|2000}}
+{{detrecipe/totals|CopperBar|120}}
+{{detrecipe/totals|Grasslands3|200}}
+{{detrecipe/totals|GoldBar|250}}
 |}

@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=5
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Accuracy
 |material=Thread
 |sellprice=250

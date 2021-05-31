@@ -18,15 +18,15 @@
 {{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Woodsman Token|1}}
-{{detrecipe|3|Glumlee Token|1}}
-{{detrecipe|3|Stiltzcho Token|1}}
-{{detrecipe|3|Funguy Token|1}}
+{{detrecipe|3|NPCtoken5|1}}
+{{detrecipe|3|NPCtoken6|1}}
+{{detrecipe|3|NPCtoken4|1}}
+{{detrecipe|3|NPCtoken9|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Woodsman Token|1}}
-{{detrecipe/totals|Glumlee Token|1}}
-{{detrecipe/totals|Stiltzcho Token|1}}
-{{detrecipe/totals|Funguy Token|1}}
+{{detrecipe/totals|NPCtoken5|1}}
+{{detrecipe/totals|NPCtoken6|1}}
+{{detrecipe/totals|NPCtoken4|1}}
+{{detrecipe/totals|NPCtoken9|1}}
 |}

@@ -1,0 +1,37 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Bugs.
+|sellprice=2926500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=39
+|levelreq=43
+|expgiven=200000
+|recipefrom=Start
+|resource1=Flycicle|quantity1=35000
+|resource2=Big Bug Pouch|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Bug6|35000}}
+{{detrecipe|3|MaxCapBagB5|2}}
+{{detrecipe|40|Bug5|20000}}
+{{detrecipe|40|MaxCapBagB4|4}}
+{{detrecipe|80|Bug4|27000}}
+{{detrecipe|80|MaxCapBagB3|12}}
+{{detrecipe|120|MaxCapBagB1|60}}
+{{detrecipe|160|Bug1|10800}}
+{{detrecipe|120|MaxCapBagB2|36}}
+{{detrecipe|160|Bug2|15300}}
+{{detrecipe|160|PureWater|72}}
+{{detrecipe|120|Bug2|19200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bug6|35000}}
+{{detrecipe/totals|Bug5|20000}}
+{{detrecipe/totals|Bug4|27000}}
+{{detrecipe/totals|Bug1|10800}}
+{{detrecipe/totals|Bug2|34500}}
+{{detrecipe/totals|PureWater|72}}
+|}

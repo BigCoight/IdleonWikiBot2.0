@@ -10,7 +10,7 @@
 |}
 {{usedin/head}}
 {{usedin/row|[[Amarok Helmet]]|8|Crafting}}
-{{usedin/row|[[Pharoah Bow]]|8|Crafting}}
+{{usedin/row|[[Pharoah Bow]]|3|Crafting}}
 {{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
 {{usedin/row|[[Googley Eyes]]|2|Crafting}}
 {{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1|Quests}}

@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Sandy Pot_Walking.gif
-|attack=70
+|attack=55
 |health=4000
-|defence=125
+|defence=115
 |speed=5
 |world=Yum Yum Desert
 |area=Jar Bridge
 |exp=150
 |respawn=50
-|defence0=61.42
+|defence0=45.72
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

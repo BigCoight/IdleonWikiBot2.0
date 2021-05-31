@@ -5,6 +5,7 @@
 |str=4
 |agi=4
 |wis=4
+|misc=5% Defence
 |upgrade=6
 |defence=32
 |sellprice=1260
@@ -20,13 +21,13 @@
 |resource3=Distilled Water|quantity3=25
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Ripped Tunic|7}}
-{{detrecipe|3|Minuteglass|3}}
-{{detrecipe|3|Distilled Water|25}}
+{{detrecipe|3|EfauntDrop1|7}}
+{{detrecipe|3|Hgg|3}}
+{{detrecipe|3|PureWater|25}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Ripped Tunic|7}}
-{{detrecipe/totals|Minuteglass|3}}
-{{detrecipe/totals|Distilled Water|25}}
+{{detrecipe/totals|EfauntDrop1|7}}
+{{detrecipe/totals|Hgg|3}}
+{{detrecipe/totals|PureWater|25}}
 |}

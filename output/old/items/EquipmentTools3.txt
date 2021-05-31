@@ -7,7 +7,7 @@
 |str=5
 |agi=2
 |upgrade=2
-|sellprice=8230
+|sellprice=6200
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -15,19 +15,19 @@
 |levelreq=13
 |expgiven=500
 |recipefrom=Start
-|resource1=Iron Bar|quantity1=140
-|resource2=Carrot Cube|quantity2=250
+|resource1=Iron Bar|quantity1=100
+|resource2=Carrot Cube|quantity2=200
 }}
 {{usedin/head}}
-{{usedin/row|[[Gold Pickaxe]]|5|Crafting}}
+{{usedin/row|[[Gold Pickaxe]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|140}}
-{{detrecipe|3|Carrot Cube|250}}
+{{detrecipe|3|IronBar|100}}
+{{detrecipe|3|Jungle3|200}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|140}}
-{{detrecipe/totals|Carrot Cube|250}}
+{{detrecipe/totals|IronBar|100}}
+{{detrecipe/totals|Jungle3|200}}
 |}

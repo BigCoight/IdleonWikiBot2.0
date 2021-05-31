@@ -6,6 +6,9 @@
 }}
 {{Statuedata|0.3|+ @ Fishing Power}}
 {{detdrops/head}}
+{{detdrops|[[Frigid Soul]]|0.001275|1.0}}
+{{detdrops|[[Squiddy Soul]]|0.001275|1.0}}
+{{detdrops|[[Bandit Bob]]|0.001275|1.0}}
 {{detdrops|[[Crystal Crabal]]|0.0425|1.0}}
 {{detdrops|[[Crystal Cattle]]|0.0425|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.001275|1.0}}

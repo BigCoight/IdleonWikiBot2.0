@@ -1,0 +1,8 @@
+{{DropTable/head}}
+{{DropTable/row|Silver Pen|{{#expr: {{{chance}}}*.09}}|1}}
+{{DropTable/row|Saw Stamp|{{#expr: {{{chance}}}*.015}}|1}}
+{{DropTable/row|Lucky Lad|{{#expr: {{{chance}}}*.0003}}|1}}
+{{DropTable/row|Talent Point Reset Fragment|{{#expr: {{{chance}}}*.15}}|1}}
+{{DropTable/row|Golden Ham|{{#expr: {{{chance}}}*0.5}}|1}}
+{{DropTable/row|Mystery Upgrade Stone II|{{#expr: {{{chance}}}*0.7}}|3}}
+|}

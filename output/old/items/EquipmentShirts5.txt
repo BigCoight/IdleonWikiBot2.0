@@ -6,7 +6,7 @@
 |wis=4
 |upgrade=3
 |defence=22
-|sellprice=40520
+|sellprice=35520
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -19,23 +19,23 @@
 |resource3=Nuget Cake|quantity3=1
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Hide Shirt|4}}
-{{detrecipe|40|Bleach Logs|1300}}
-{{detrecipe|40|Copper Platebody|8}}
-{{detrecipe|80|Copper Bar|520}}
-{{detrecipe|80|Trusty Nails|1200}}
-{{detrecipe|40|Steel Axe|4}}
-{{detrecipe|80|Slime Sludge|600}}
-{{detrecipe|80|Boring Brick|500}}
-{{detrecipe|3|Megalodon Tooth|4000}}
-{{detrecipe|3|Nuget Cake|1}}
+{{detrecipe|3|EquipmentShirts20|4}}
+{{detrecipe|40|BirchTree|1300}}
+{{detrecipe|40|EquipmentShirts11|8}}
+{{detrecipe|80|CopperBar|360}}
+{{detrecipe|80|CraftMat5|960}}
+{{detrecipe|40|TestObj7|4}}
+{{detrecipe|80|Jungle1|500}}
+{{detrecipe|80|CraftMat6|500}}
+{{detrecipe|3|DesertA2|4000}}
+{{detrecipe|3|DesertA3b|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bleach Logs|1300}}
-{{detrecipe/totals|Copper Bar|520}}
-{{detrecipe/totals|Trusty Nails|1200}}
-{{detrecipe/totals|Slime Sludge|600}}
-{{detrecipe/totals|Boring Brick|500}}
-{{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|BirchTree|1300}}
+{{detrecipe/totals|CopperBar|360}}
+{{detrecipe/totals|CraftMat5|960}}
+{{detrecipe/totals|Jungle1|500}}
+{{detrecipe/totals|CraftMat6|500}}
+{{detrecipe/totals|DesertA3b|1}}
 |}

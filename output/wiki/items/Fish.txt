@@ -1,3 +1,4 @@
+Not Yet
 {{InfoItem
 |type=Fish
 |description=Sorry gamer, but this material isn't in the game yet! You'll have to wait for the next update to get it.
@@ -5,17 +6,17 @@
 |source=Fishing
 }}
 {{usedin/head}}
-{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+{{usedin/row|[[Anvil Tab 4]]|6|Crafting}}
 |}
+Goldfish
 {{InfoItem
 |type=Fish
 |description=It's not a snack, and it certainly doesn't smile back... for copyright reasons!
 |sellprice=4
-|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|50}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Copper Fish Rod]]|400|Crafting}}
@@ -30,6 +31,7 @@
 {{usedin/row|[[Kazam Cauldron#Droppin Loads|Droppin Loads]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Seawater|Seawater]]|Lots|Alchemy}}
 |}
+Hermit Can
 {{InfoItem
 |type=Fish
 |description=The branding on the soda can must have gotten washed off by some kind of liquidy, wavey substance. Oh, right.
@@ -53,38 +55,40 @@
 {{usedin/row|[[High-IQ Cauldron#Noodubble|Noodubble]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Slug Slurp|Slug Slurp]]|Lots|Alchemy}}
 |}
+Jellyfish
 {{InfoItem
 |type=Fish
 |description=Don't let it sting you, unless you're into getting tinkled on by random beach-goers.
 |sellprice=14
-|source=Fishing, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Fishing, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|100}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|100}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Platinum Helmet]]|4000|Crafting}}
 {{usedin/row|[[Platinum Boots]]|8000|Crafting}}
 {{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|25|Quests}}
-{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|1000|Quests}}
+{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|400|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[Kazam Cauldron#Undeveloped Costs|Undeveloped Costs]]|Lots|Alchemy}}
 |}
+Bloach
 {{InfoItem
 |type=Fish
 |description=The result of putting Blood and Leech into a bad pokemon generator.
 |sellprice=18
-|source=Fishing, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=Fishing, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|150}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|150}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Pharoah Bow]]|5200|Crafting}}
+{{usedin/row|[[Pharoah Bow]]|3200|Crafting}}
 {{usedin/row|[[Plat Fishing Rod]]|7000|Crafting}}
 {{usedin/row|[[Sizable Fish Pouch]]|6750|Crafting}}
+{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+{{usedin/row|[[Large Fish Pouch]]|50000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
 {{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}

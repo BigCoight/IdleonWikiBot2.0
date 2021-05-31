@@ -117,15 +117,15 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{%_Dmg_&_+}_Mobs",
             "Active Data": {
-                "K": "1.1",
+                "K": "1",
                 "D": "1.3",
-                "s": "1",
-                "cooldown": "5",
-                "castTime": "0.45",
+                "s": "1.2",
+                "cooldown": "12",
+                "castTime": "1.4",
                 "manaCost": "5",
                 "inputReq": "0",
-                "AFKrange": "125",
-                "AFKtype": "projectile",
+                "AFKrange": "90",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -137,14 +137,14 @@
             "Level Up Text": "+{x_Multi",
             "Active Data": {
                 "K": "1",
-                "D": "1.3",
-                "s": "1.2",
-                "cooldown": "12",
-                "castTime": "1.4",
+                "D": "1",
+                "s": "1",
+                "cooldown": "2000",
+                "castTime": "0.45",
                 "manaCost": "5",
                 "inputReq": "0",
-                "AFKrange": "90",
-                "AFKtype": "line",
+                "AFKrange": "125",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
@@ -178,7 +178,7 @@
                 "K": "1",
                 "D": "1",
                 "s": "1",
-                "cooldown": "2000",
+                "cooldown": "120",
                 "castTime": "0.45",
                 "manaCost": "5",
                 "inputReq": "0",
@@ -235,7 +235,7 @@
                 "K": "1",
                 "D": "1",
                 "s": "1",
-                "cooldown": "120",
+                "cooldown": "86000",
                 "castTime": "0.45",
                 "manaCost": "5",
                 "inputReq": "0",
@@ -245,7 +245,7 @@
             }
         },
         "CMON_OUT_CRYSTALS": {
-            "Description": "+{%_Crystal_Mob_spawn_chance_when_Automove_is_Off.",
+            "Description": "+{%_Crystal_Mob_spawn_chance",
             "X1": "300",
             "X2": "100",
             "FuncX": "decay",
@@ -282,14 +282,14 @@
             "Level Up Text": "+{%_Dmg",
             "Active Data": {
                 "K": "1",
-                "D": "1",
-                "s": "1",
-                "cooldown": "86000",
+                "D": "1.3",
+                "s": "1.2",
+                "cooldown": "20",
                 "castTime": "0.45",
                 "manaCost": "5",
-                "inputReq": "0",
+                "inputReq": "1",
                 "AFKrange": "125",
-                "AFKtype": "buff",
+                "AFKtype": "projectile",
                 "AFKactivity": "0"
             }
         },
@@ -414,15 +414,15 @@
             "FuncX": "bigBase",
             "Level Up Text": "+{%_Damage",
             "Active Data": {
-                "K": "1",
-                "D": "1.3",
-                "s": "1.2",
-                "cooldown": "20",
+                "K": "1.1",
+                "D": "1.17",
+                "s": "1.1",
+                "cooldown": "4",
                 "castTime": "0.45",
                 "manaCost": "5",
-                "inputReq": "1",
-                "AFKrange": "125",
-                "AFKtype": "projectile",
+                "inputReq": "0",
+                "AFKrange": "80",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -437,13 +437,13 @@
             "Level Up Text": "+{%_Damage_&_+}_Mobs_Hit",
             "Active Data": {
                 "K": "1.1",
-                "D": "1.17",
-                "s": "1.1",
-                "cooldown": "4",
+                "D": "1.18",
+                "s": "1.2",
+                "cooldown": "6",
                 "castTime": "0.45",
-                "manaCost": "5",
+                "manaCost": "9",
                 "inputReq": "0",
-                "AFKrange": "80",
+                "AFKrange": "45",
                 "AFKtype": "line",
                 "AFKactivity": "0"
             }
@@ -472,16 +472,16 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{_STR_&_+}_Mins",
             "Active Data": {
-                "K": "1.1",
-                "D": "1.18",
-                "s": "1.2",
-                "cooldown": "6",
-                "castTime": "0.45",
-                "manaCost": "9",
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "1.5",
+                "manaCost": "5",
                 "inputReq": "0",
-                "AFKrange": "45",
-                "AFKtype": "line",
-                "AFKactivity": "0"
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-1"
             }
         },
         "STRENGTH_IN_NUMBERS": {
@@ -526,16 +526,16 @@
             "FuncX": "bigBase",
             "Level Up Text": "+{%_Efficiency",
             "Active Data": {
-                "K": "1",
-                "D": "1",
+                "K": "1.05",
+                "D": "1.4",
                 "s": "1",
-                "cooldown": "30",
+                "cooldown": "12",
                 "castTime": "1.5",
-                "manaCost": "5",
+                "manaCost": "10",
                 "inputReq": "0",
-                "AFKrange": "1",
+                "AFKrange": "0",
                 "AFKtype": "buff",
-                "AFKactivity": "-1"
+                "AFKactivity": "1"
             }
         },
         "COPPER_COLLECTOR": {
@@ -578,28 +578,6 @@
             "FuncY": "bigBase",
             "Level Up Text": "+{_mobs_&_+}%_dmg",
             "Active Data": {
-                "K": "1.05",
-                "D": "1.4",
-                "s": "1",
-                "cooldown": "12",
-                "castTime": "1.5",
-                "manaCost": "10",
-                "inputReq": "0",
-                "AFKrange": "0",
-                "AFKtype": "buff",
-                "AFKactivity": "1"
-            }
-        },
-        "AXE_HURL": {
-            "Description": "Throws_axe_in_a_downward_arc,_which_deals_{%_dmg_to_up_to_}_monsters.",
-            "X1": "200",
-            "X2": "3",
-            "FuncX": "bigBase",
-            "Y1": "2",
-            "Y2": "50",
-            "FuncY": "intervalAdd",
-            "Level Up Text": "+{%_dmg_&_+}_mobs",
-            "Active Data": {
                 "K": "1.1",
                 "D": "1.25",
                 "s": "1.2",
@@ -612,15 +590,15 @@
                 "AFKactivity": "0"
             }
         },
-        "MOCKING_SHOUT": {
-            "Description": "Every_0.5_sec,_monsters_move_toward_you_and_heal_for_{%_HP._You_get_+}%_EXP_gain.",
-            "X1": "1",
-            "X2": "0",
-            "FuncX": "add",
-            "Y1": "1",
-            "Y2": "0",
-            "FuncY": "add",
-            "Level Up Text": "+1%_Monster_heal,_+1%_EXP",
+        "AXE_HURL": {
+            "Description": "Throws_axe_in_a_downward_arc,_which_deals_{%_dmg_to_up_to_}_monsters.",
+            "X1": "200",
+            "X2": "3",
+            "FuncX": "bigBase",
+            "Y1": "2",
+            "Y2": "50",
+            "FuncY": "intervalAdd",
+            "Level Up Text": "+{%_dmg_&_+}_mobs",
             "Active Data": {
                 "K": "1",
                 "D": "1.25",
@@ -631,6 +609,28 @@
                 "inputReq": "0",
                 "AFKrange": "200",
                 "AFKtype": "line",
+                "AFKactivity": "0"
+            }
+        },
+        "MOCKING_SHOUT": {
+            "Description": "Every_0.5_sec,_monsters_move_toward_you_and_heal_for_{%_HP.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "1",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+1%_Monster_heal,_+1%_EXP",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1.1",
+                "cooldown": "600",
+                "castTime": "1.5",
+                "manaCost": "15",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
@@ -646,10 +646,10 @@
             "Active Data": {
                 "K": "1",
                 "D": "1",
-                "s": "1.1",
-                "cooldown": "600",
+                "s": "1",
+                "cooldown": "30",
                 "castTime": "1.5",
-                "manaCost": "15",
+                "manaCost": "20",
                 "inputReq": "0",
                 "AFKrange": "1",
                 "AFKtype": "buff",
@@ -702,23 +702,22 @@
             "Level Up Text": "+{_Max_LV_for_Critikill_Talent"
         },
         "WORMING_UNDERCOVER": {
-            "Description": "{%_chance",
-            "X1": "to",
-            "X2": "wake_the_sleeper_agent_worm_within_the_fish,_letting_you_instantly_catch",
-            "FuncX": "9.3",
-            "Y1": ".7",
-            "Y2": "bigBase",
+            "Description": "{%_chance_to_wake_the_sleeper_agent_worm_within_the_fish,_letting_you_instantly_catch",
+            "X1": "9.3",
+            "X2": ".7",
+            "FuncX": "bigBase",
+            "Level Up Text": "+1%_Chance",
             "Active Data": {
                 "K": "1",
-                "D": "1",
+                "D": "1.4",
                 "s": "1",
-                "cooldown": "30",
+                "cooldown": "15",
                 "castTime": "1.5",
-                "manaCost": "20",
+                "manaCost": "15",
                 "inputReq": "0",
                 "AFKrange": "1",
                 "AFKtype": "buff",
-                "AFKactivity": "0"
+                "AFKactivity": "4"
             }
         },
         "BOBBIN'_BOBBERS": {
@@ -767,13 +766,13 @@
                 "K": "1",
                 "D": "1.4",
                 "s": "1",
-                "cooldown": "15",
-                "castTime": "1.5",
+                "cooldown": "14",
+                "castTime": "1.8",
                 "manaCost": "15",
                 "inputReq": "0",
-                "AFKrange": "1",
-                "AFKtype": "buff",
-                "AFKactivity": "4"
+                "AFKrange": "150",
+                "AFKtype": "line",
+                "AFKactivity": "0"
             }
         },
         "DAGGERANG": {
@@ -789,8 +788,8 @@
                 "K": "1",
                 "D": "1.4",
                 "s": "1",
-                "cooldown": "14",
-                "castTime": "1.8",
+                "cooldown": "16",
+                "castTime": "0.8",
                 "manaCost": "15",
                 "inputReq": "0",
                 "AFKrange": "150",
@@ -809,14 +808,14 @@
             "Level Up Text": "+{%_Block,_+}_Base_DEF",
             "Active Data": {
                 "K": "1",
-                "D": "1.4",
+                "D": "1",
                 "s": "1",
-                "cooldown": "16",
-                "castTime": "0.8",
-                "manaCost": "15",
+                "cooldown": "30",
+                "castTime": "1",
+                "manaCost": "20",
                 "inputReq": "0",
                 "AFKrange": "150",
-                "AFKtype": "line",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
@@ -842,7 +841,7 @@
                 "s": "1",
                 "cooldown": "30",
                 "castTime": "1",
-                "manaCost": "20",
+                "manaCost": "15",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -851,7 +850,7 @@
         },
         "PRECISION_POWER": {
             "Description": "+{%_Damage_if_your_accuracy_is_1.5x_higher_than_needed_for_100%_hit_chance",
-            "X1": "55",
+            "X1": "100",
             "X2": "80",
             "FuncX": "decay",
             "Level Up Text": "+{%_Dmg_if_ACC_big"
@@ -884,8 +883,45 @@
             "FuncX": "add",
             "Level Up Text": "+{_Max_LV_for_Meat_Shank"
         },
-        "WAIT_FOR_WORLD_3": {
-            "Description": "This_talent_will_boost_the_World_3_skill_called_'Construction'._For_now_it_does_nothing."
+        "REFINERY_THROTTLE": {
+            "Description": "Automatically_trigger_{_Refinery_Cycles._Still_costs_materials,_though.",
+            "X1": "3",
+            "X2": "8",
+            "FuncX": "intervalAdd",
+            "Level Up Text": "+1_Cycle_Every_8_Lvs",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "72000",
+                "castTime": "0.95",
+                "manaCost": "10",
+                "inputReq": "0",
+                "AFKrange": "50",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
+        },
+        "REDOX_RATES": {
+            "Description": "+{%_Build_Speed_per_power_of_10_Redox_Salts_in_your_Storage_Chest",
+            "X1": "40",
+            "X2": "70",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Build_Spd"
+        },
+        "SHARPER_SAWS": {
+            "Description": "+{%_Construction_EXP_gain._More_like_Cogstruction_am_I_right_fellas?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Construction_EXP"
+        },
+        "SUPER_SAMPLES": {
+            "Description": "+{%_Sample_Size_when_talking_Samples_for_the_3d_printer.",
+            "X1": "9",
+            "X2": "75",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Sample_Size"
         },
         "BACK_TO_BASICS": {
             "Description": "+{_Talent_Points_for_the_'Warrior'_talent_tab,_and_+10_dmg_to_these_Talents'_feelings!",
@@ -1018,15 +1054,15 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{%_Damage_&_+}_Mobs_Hit",
             "Active Data": {
-                "K": "1",
-                "D": "1",
-                "s": "1",
-                "cooldown": "30",
-                "castTime": "1",
-                "manaCost": "15",
+                "K": "1.15",
+                "D": "1.19",
+                "s": "1.15",
+                "cooldown": "15",
+                "castTime": "0.45",
+                "manaCost": "8",
                 "inputReq": "0",
-                "AFKrange": "150",
-                "AFKtype": "buff",
+                "AFKrange": "300",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -1040,14 +1076,14 @@
             "FuncY": "bigBase",
             "Level Up Text": "+{_pixels_&_+}%_DMG",
             "Active Data": {
-                "K": "1.15",
-                "D": "1.19",
-                "s": "1.15",
-                "cooldown": "15",
+                "K": "1",
+                "D": "1.15",
+                "s": "1",
+                "cooldown": "7",
                 "castTime": "0.45",
-                "manaCost": "8",
+                "manaCost": "4",
                 "inputReq": "0",
-                "AFKrange": "300",
+                "AFKrange": "80",
                 "AFKtype": "line",
                 "AFKactivity": "0"
             }
@@ -1070,15 +1106,15 @@
             "Level Up Text": "+{%_Speed_%_+}_Mins",
             "Active Data": {
                 "K": "1",
-                "D": "1.15",
-                "s": "1",
-                "cooldown": "7",
+                "D": "1",
+                "s": "1.2",
+                "cooldown": "30",
                 "castTime": "0.45",
-                "manaCost": "4",
+                "manaCost": "5",
                 "inputReq": "0",
-                "AFKrange": "80",
-                "AFKtype": "line",
-                "AFKactivity": "0"
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-1"
             }
         },
         "HAVE_ANOTHER!": {
@@ -1090,7 +1126,7 @@
         },
         "VEINS_OF_THE_INFERNAL": {
             "Description": "Increases_Damage_Dealt_by_{%_every_10_Smithing_Levels",
-            "X1": "24",
+            "X1": "50",
             "X2": "60",
             "FuncX": "decay",
             "Level Up Text": "+{%_Damage"
@@ -1177,15 +1213,15 @@
             "Level Up Text": "+{_arrow_&_+}%_damage",
             "Active Data": {
                 "K": "1",
-                "D": "1",
-                "s": "1.2",
-                "cooldown": "30",
+                "D": "1.25",
+                "s": "1.1",
+                "cooldown": "20",
                 "castTime": "0.45",
-                "manaCost": "5",
+                "manaCost": "38",
                 "inputReq": "0",
-                "AFKrange": "1",
-                "AFKtype": "buff",
-                "AFKactivity": "-1"
+                "AFKrange": "300",
+                "AFKtype": "circle",
+                "AFKactivity": "0"
             }
         },
         "MAGIC_SHORTBOW": {
@@ -1198,15 +1234,15 @@
             "FuncY": "bigBase",
             "Level Up Text": "+{_monsters_&_+}%_dmg",
             "Active Data": {
-                "K": "1",
-                "D": "1.25",
-                "s": "1.1",
-                "cooldown": "20",
+                "K": "1.1",
+                "D": "1.2",
+                "s": "1.05",
+                "cooldown": "7",
                 "castTime": "0.45",
-                "manaCost": "38",
+                "manaCost": "20",
                 "inputReq": "0",
-                "AFKrange": "300",
-                "AFKtype": "circle",
+                "AFKrange": "100",
+                "AFKtype": "target",
                 "AFKactivity": "0"
             }
         },
@@ -1227,15 +1263,15 @@
             "FuncY": "decay",
             "Level Up Text": "+{px_Range_&_+}_mins",
             "Active Data": {
-                "K": "1.1",
-                "D": "1.2",
-                "s": "1.05",
-                "cooldown": "7",
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "30",
                 "castTime": "0.45",
-                "manaCost": "20",
+                "manaCost": "10",
                 "inputReq": "0",
-                "AFKrange": "100",
-                "AFKtype": "target",
+                "AFKrange": "1",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
@@ -1320,20 +1356,20 @@
     "HUNTER": {
         "360_NOSCOPE": {
             "Description": "Deal_{%_DMG_split_between_all_hit_monsters._The_more_mobs_hit,_the_less_dmg_done",
-            "X1": "200",
-            "X2": "2",
+            "X1": "225",
+            "X2": "3",
             "FuncX": "bigBase",
             "Level Up Text": "+{%_damage",
             "Active Data": {
-                "K": "1",
-                "D": "1.4",
+                "K": "1.2",
+                "D": "1",
                 "s": "1",
-                "cooldown": "45",
-                "castTime": "0.45",
-                "manaCost": "500",
-                "inputReq": "1",
-                "AFKrange": "1",
-                "AFKtype": "target",
+                "cooldown": "30",
+                "castTime": "1.1",
+                "manaCost": "30",
+                "inputReq": "2",
+                "AFKrange": "200",
+                "AFKtype": "auto",
                 "AFKactivity": "0"
             }
         },
@@ -1350,28 +1386,28 @@
                 "K": "1.2",
                 "D": "1",
                 "s": "1",
-                "cooldown": "30",
-                "castTime": "1.1",
-                "manaCost": "30",
-                "inputReq": "2",
-                "AFKrange": "200",
-                "AFKtype": "auto",
+                "cooldown": "9",
+                "castTime": "1.5",
+                "manaCost": "40",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
         "UWU_RAWRRR": {
             "Description": "When_mobs_die,_their_respawn_time_is_{_seconds_faster!",
-            "X1": "65",
+            "X1": "55",
             "X2": "60",
             "FuncX": "decay",
             "Level Up Text": "+{_seconds_faster",
             "Active Data": {
-                "K": "1.2",
+                "K": "1",
                 "D": "1",
-                "s": "1",
-                "cooldown": "9",
+                "s": "1.1",
+                "cooldown": "120",
                 "castTime": "1.5",
-                "manaCost": "40",
+                "manaCost": "50",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -1391,12 +1427,12 @@
                 "K": "1",
                 "D": "1",
                 "s": "1.1",
-                "cooldown": "120",
+                "cooldown": "60",
                 "castTime": "1.5",
                 "manaCost": "50",
                 "inputReq": "0",
                 "AFKrange": "150",
-                "AFKtype": "buff",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -1409,7 +1445,7 @@
         },
         "LOOTY_MC_SHOOTY": {
             "Description": "+{%_Damage_for_every_50_items_you've_ever_found_on_any_of_your_players.",
-            "X1": "30",
+            "X1": "36",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{%_damage"
@@ -1442,8 +1478,48 @@
             "FuncX": "add",
             "Level Up Text": "+{_Max_LV_for_ICU"
         },
-        "WAIT_FOR_WORLD_3": {
-            "Description": "This_talent_will_boost_the_World_3_skill_called_'Trapping'._For_now_it_does_nothing."
+        "EAGLE_EYE": {
+            "Description": "Collect_&_set_all_traps,_but_only_get_{%_critters._}%_Exp_is_given_to_each_player.",
+            "X1": "100",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "80",
+            "Y2": "100",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_Critters_&_+}%_XP",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "6",
+                "castTime": "0.95",
+                "manaCost": "10",
+                "inputReq": "0",
+                "AFKrange": "50",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
+        },
+        "INVASIVE_SPECIES": {
+            "Description": "+{%_Trapping_Efficiency_per_power_of_10_Froge_Critters_in_Storage",
+            "X1": "30",
+            "X2": "80",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Trap_Efficiency"
+        },
+        "SHROOM_BAIT": {
+            "Description": "+{%_Trapping_Exp_Gain._Doesn't_affect_EXP_given_to_other_players_when_in_Eagle_Eye.",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Trapping_EXP"
+        },
+        "REFLECTIVE_EYESIGHT": {
+            "Description": "{x_Shiny_Critter_chance._Triggers_again_every_10_Trapping_LVs",
+            "X1": "2",
+            "X2": "100",
+            "FuncX": "decayMulti",
+            "Level Up Text": "+{x_Shiny_Chance"
         },
         "PREVIOUS_POINTS": {
             "Description": "+{_Talent_Points_for_the_'Archer'_talent_tab._But,what's_wrong_with_these_talents?",
@@ -1461,14 +1537,14 @@
             "FuncX": "bigBase",
             "Active Data": {
                 "K": "1",
-                "D": "1",
+                "D": "1.4",
                 "s": "1",
-                "cooldown": "30",
+                "cooldown": "45",
                 "castTime": "0.45",
-                "manaCost": "10",
-                "inputReq": "0",
+                "manaCost": "500",
+                "inputReq": "1",
                 "AFKrange": "1",
-                "AFKtype": "buff",
+                "AFKtype": "target",
                 "AFKactivity": "0"
             }
         }
@@ -1595,14 +1671,14 @@
             "Level Up Text": "+{%_Damage",
             "Active Data": {
                 "K": "1",
-                "D": "1",
-                "s": "1.1",
-                "cooldown": "60",
-                "castTime": "1.5",
-                "manaCost": "50",
-                "inputReq": "0",
-                "AFKrange": "150",
-                "AFKtype": "line",
+                "D": "1.21",
+                "s": "1",
+                "cooldown": "8",
+                "castTime": "1.1",
+                "manaCost": "9",
+                "inputReq": "2",
+                "AFKrange": "1",
+                "AFKtype": "auto",
                 "AFKactivity": "0"
             }
         },
@@ -1613,15 +1689,15 @@
             "FuncX": "bigBase",
             "Level Up Text": "+{%_Damage",
             "Active Data": {
-                "K": "1",
-                "D": "1.21",
-                "s": "1",
-                "cooldown": "8",
-                "castTime": "1.1",
-                "manaCost": "9",
-                "inputReq": "2",
-                "AFKrange": "1",
-                "AFKtype": "auto",
+                "K": "1.05",
+                "D": "1.2",
+                "s": "1.1",
+                "cooldown": "10",
+                "castTime": "0.85",
+                "manaCost": "12",
+                "inputReq": "0",
+                "AFKrange": "270",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -1634,21 +1710,21 @@
         },
         "TELEPORT": {
             "Description": "Move_forward_instantly_by_a_distance_of_{_Pixels",
-            "X1": "10",
+            "X1": "25",
             "X2": "1",
             "FuncX": "bigBase",
             "Level Up Text": "+1_Pixel_Moved",
             "Active Data": {
-                "K": "1.05",
-                "D": "1.2",
-                "s": "1.1",
-                "cooldown": "10",
-                "castTime": "0.85",
-                "manaCost": "12",
+                "K": "1",
+                "D": "1",
+                "s": "1.15",
+                "cooldown": "1",
+                "castTime": "0.5",
+                "manaCost": "5",
                 "inputReq": "0",
-                "AFKrange": "270",
-                "AFKtype": "line",
-                "AFKactivity": "0"
+                "AFKrange": "1",
+                "AFKtype": "auto",
+                "AFKactivity": "-1"
             }
         },
         "YOU'RE_NEXT": {
@@ -1708,14 +1784,14 @@
             "Active Data": {
                 "K": "1",
                 "D": "1",
-                "s": "1.15",
-                "cooldown": "1",
-                "castTime": "0.5",
+                "s": "1",
+                "cooldown": "30",
+                "castTime": "0.95",
                 "manaCost": "5",
                 "inputReq": "0",
                 "AFKrange": "1",
-                "AFKtype": "auto",
-                "AFKactivity": "-1"
+                "AFKtype": "buff",
+                "AFKactivity": "3"
             }
         },
         "LEAF_THIEF": {
@@ -1758,16 +1834,16 @@
             "FuncX": "bigBase",
             "Level Up Text": "+{%_Damage",
             "Active Data": {
-                "K": "1",
-                "D": "1",
+                "K": "1.1",
+                "D": "1.3",
                 "s": "1",
-                "cooldown": "30",
-                "castTime": "0.95",
-                "manaCost": "5",
-                "inputReq": "0",
-                "AFKrange": "1",
-                "AFKtype": "buff",
-                "AFKactivity": "3"
+                "cooldown": "10",
+                "castTime": "1.2",
+                "manaCost": "30",
+                "inputReq": "2",
+                "AFKrange": "200",
+                "AFKtype": "auto",
+                "AFKactivity": "0"
             }
         },
         "FLOOR_IS_LAVA": {
@@ -1782,13 +1858,13 @@
             "Active Data": {
                 "K": "1.1",
                 "D": "1.3",
-                "s": "1",
-                "cooldown": "10",
-                "castTime": "1.2",
+                "s": "1.02",
+                "cooldown": "13",
+                "castTime": "0.95",
                 "manaCost": "30",
-                "inputReq": "2",
-                "AFKrange": "200",
-                "AFKtype": "auto",
+                "inputReq": "0",
+                "AFKrange": "150",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -1805,7 +1881,7 @@
                 "K": "1.1",
                 "D": "1.3",
                 "s": "1.02",
-                "cooldown": "13",
+                "cooldown": "25",
                 "castTime": "0.95",
                 "manaCost": "30",
                 "inputReq": "0",
@@ -1824,14 +1900,14 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{%_rate_&_}_sec",
             "Active Data": {
-                "K": "1.1",
-                "D": "1.3",
+                "K": "1",
+                "D": "1",
                 "s": "1.02",
-                "cooldown": "25",
+                "cooldown": "2",
                 "castTime": "0.95",
                 "manaCost": "30",
                 "inputReq": "0",
-                "AFKrange": "150",
+                "AFKrange": "0",
                 "AFKtype": "line",
                 "AFKactivity": "0"
             }
@@ -1846,21 +1922,21 @@
             "FuncY": "bigBase",
             "Level Up Text": "+{%_dmg_&_}%_MP_regen",
             "Active Data": {
-                "K": "1",
-                "D": "1",
+                "K": "1.1",
+                "D": "1.3",
                 "s": "1.02",
-                "cooldown": "2",
+                "cooldown": "60",
                 "castTime": "0.95",
                 "manaCost": "30",
                 "inputReq": "0",
-                "AFKrange": "0",
-                "AFKtype": "line",
+                "AFKrange": "50",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
         "PAPERWORK,_GREAT...": {
             "Description": "+{%_Damage_for_every_10_Stamps_in_your_collection._Oink_Oink!",
-            "X1": "30",
+            "X1": "60",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{%_damage"
@@ -1893,8 +1969,48 @@
             "FuncX": "add",
             "Level Up Text": "+{_Max_LV_cap"
         },
-        "WAIT_FOR_WORLD_3": {
-            "Description": "This_talent_will_boost_the_World_3_skill_called_Worship._For_now_it_does_nothing."
+        "CHARGE_SYPHON": {
+            "Description": "Steal_charge_from_all_your_players,_giving_you_{%_of_it._+}%_Max_Charge_for_1_Min",
+            "X1": "35",
+            "X2": ".3",
+            "FuncX": "bigBase",
+            "Y1": "100",
+            "Y2": "10",
+            "FuncY": "bigBase",
+            "Level Up Text": "+{%_Steal,_+}%_Temp_Max",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "3600",
+                "castTime": "0.95",
+                "manaCost": "10",
+                "inputReq": "0",
+                "AFKrange": "50",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
+        },
+        "SOOOULS": {
+            "Description": "+{%_Worship_Efficiency_per_power_of_10_Forest_Souls_in_your_Storage_Chest",
+            "X1": "25",
+            "X2": "70",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Worship_Eff."
+        },
+        "BLESS_UP": {
+            "Description": "+{%_Worship_EXP_gain._Access_the_other_totems_faster!",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Worship_EXP"
+        },
+        "NEARBY_OUTLET": {
+            "Description": "{x_Charge_rate._You_know,_for_Worship..._No,_not_for_your_phone.",
+            "X1": "1",
+            "X2": "100",
+            "FuncX": "decayMulti",
+            "Level Up Text": "+{x_Charge_Rate"
         },
         "EARLIER_EDUCATION": {
             "Description": "+{_Talent_Points_for_the_'Mage'_talent_tab._What,_these_talent's_aint_good_'nuff_for_ya?",
@@ -1915,12 +2031,12 @@
                 "K": "1.1",
                 "D": "1.3",
                 "s": "1.02",
-                "cooldown": "60",
+                "cooldown": "23",
                 "castTime": "0.95",
                 "manaCost": "30",
-                "inputReq": "0",
+                "inputReq": "1",
                 "AFKrange": "50",
-                "AFKtype": "buff",
+                "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
@@ -1934,14 +2050,14 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{%_Strength_&_+}_Auras",
             "Active Data": {
-                "K": "1.1",
-                "D": "1.3",
-                "s": "1.02",
-                "cooldown": "23",
+                "K": "1.05",
+                "D": "1.21",
+                "s": "1.1",
+                "cooldown": "40",
                 "castTime": "0.95",
-                "manaCost": "30",
-                "inputReq": "1",
-                "AFKrange": "50",
+                "manaCost": "60",
+                "inputReq": "0",
+                "AFKrange": "80",
                 "AFKtype": "line",
                 "AFKactivity": "0"
             }
@@ -1959,18 +2075,18 @@
                 "K": "1.05",
                 "D": "1.21",
                 "s": "1.1",
-                "cooldown": "40",
+                "cooldown": "18",
                 "castTime": "0.95",
                 "manaCost": "60",
                 "inputReq": "0",
-                "AFKrange": "80",
+                "AFKrange": "130",
                 "AFKtype": "line",
                 "AFKactivity": "0"
             }
         },
         "TENTEYECLE": {
             "Description": "Killing_a_monster_has_a_{%_chance_to_reduce_attack_cooldowns_by_}_seconds",
-            "X1": "150",
+            "X1": "100",
             "X2": "100",
             "FuncX": "decay",
             "Y1": "2",
@@ -1987,7 +2103,7 @@
         },
         "VIRILE_VIALS": {
             "Description": "+{%_damage_dealt_for_every_alchemy_vial_upgraded_to_at_least_Green_LV",
-            "X1": "20",
+            "X1": "15",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{%_Damage"
@@ -2030,15 +2146,15 @@
             "FuncY": "intervalAdd",
             "Level Up Text": "+{_progress_&_+}_time",
             "Active Data": {
-                "K": "1.05",
-                "D": "1.21",
-                "s": "1.1",
-                "cooldown": "18",
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "80000",
                 "castTime": "0.95",
-                "manaCost": "60",
+                "manaCost": "100",
                 "inputReq": "0",
-                "AFKrange": "130",
-                "AFKtype": "line",
+                "AFKrange": "50",
+                "AFKtype": "buff",
                 "AFKactivity": "0"
             }
         },
@@ -2145,13 +2261,13 @@
                 "K": "1",
                 "D": "1",
                 "s": "1",
-                "cooldown": "80000",
-                "castTime": "0.95",
-                "manaCost": "100",
+                "cooldown": "200",
+                "castTime": "0.5",
+                "manaCost": "1",
                 "inputReq": "0",
-                "AFKrange": "50",
+                "AFKrange": "1",
                 "AFKtype": "buff",
-                "AFKactivity": "0"
+                "AFKactivity": "-1"
             }
         },
         "ATTACKS_ON_SIMMER": {
@@ -2178,13 +2294,13 @@
                 "K": "1",
                 "D": "1",
                 "s": "1",
-                "cooldown": "200",
-                "castTime": "0.5",
+                "cooldown": "3",
+                "castTime": "0.1",
                 "manaCost": "1",
                 "inputReq": "0",
                 "AFKrange": "1",
                 "AFKtype": "buff",
-                "AFKactivity": "-1"
+                "AFKactivity": "-2"
             }
         },
         "GOBLET_OF_HEMOGLOBIN": {
@@ -2196,13 +2312,78 @@
         }
     },
     "Special Talent 2": {
-        "Special14": {},
+        "JUST_EXP": {
+            "Description": "+{%_Class_EXP",
+            "X1": "10",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Class_Exp"
+        },
+        "FROTHY_MALK": {
+            "Description": "Boost_foods,_like_potions,_give_+{%_higher_bonuses_than_normal.",
+            "X1": "50",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Boost_Food_Effect"
+        },
         "CONVERT_BETTER,_DARNIT!": {
             "Description": "EXP_Converter_Talent_gives_{x_more_Class_EXP_every_5_LV_of_chosen_skill",
-            "X1": "1.5",
+            "X1": "1.7",
             "X2": "100",
             "FuncX": "decayMulti",
             "Level Up Text": "+{x_more_Class_Exp"
+        },
+        "PULSATION": {
+            "Description": "The_rate_at_which_you_gain_mana_used_to_cast_Attacks_is_boosted_by_+{%",
+            "X1": "75",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Mana_Regen_rate"
+        },
+        "CARDIOVASCULAR!": {
+            "Description": "+{%_additional_card_drop_chance._It's_multiplicative,_so_it_always_helps!",
+            "X1": "60",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_card_drop_chance"
+        },
+        "PRINTER_SAMPLING": {
+            "Description": "Cast_to_sample_{%_of_your_current_AFK_gains,_which_is_used_by_the_3d_Printer.",
+            "X1": "10",
+            "X2": ".075",
+            "FuncX": "bigBase",
+            "Level Up Text": "+{%_AFK_gains_sampled",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "6",
+                "castTime": "0.1",
+                "manaCost": "1",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
+        },
+        "SHRINE_ARCHITECT": {
+            "Description": "Cast_this_talent_to_place_shrines._You_also_charge_them_+{%_faster",
+            "X1": "50",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Charge_Rate",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "6",
+                "castTime": "0.1",
+                "manaCost": "1",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
         }
     },
     "Special Talent 3": {

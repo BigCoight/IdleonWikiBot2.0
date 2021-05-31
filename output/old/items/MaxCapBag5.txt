@@ -1,5 +1,36 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Ores, Bars, Barrels.
-|sellprice=200
+|sellprice=1090700
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=9
+|levelreq=35
+|expgiven=65000
+|recipefrom=Start
+|resource1=Dementia Ore|quantity1=17500
+|resource2=Sizable Mining Pouch|quantity2=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Large Mining Pouch]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Dementia|17500}}
+{{detrecipe|3|MaxCapBag4|2}}
+{{detrecipe|40|Plat|13500}}
+{{detrecipe|40|MaxCapBag3|6}}
+{{detrecipe|80|MaxCapBag1|30}}
+{{detrecipe|120|Copper|3600}}
+{{detrecipe|80|MaxCapBag2|18}}
+{{detrecipe|120|Iron|12600}}
+{{detrecipe|80|Gold|8400}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Dementia|17500}}
+{{detrecipe/totals|Plat|13500}}
+{{detrecipe/totals|Copper|3600}}
+{{detrecipe/totals|Iron|12600}}
+{{detrecipe/totals|Gold|8400}}
+|}

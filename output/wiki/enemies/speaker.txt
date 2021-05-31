@@ -1,22 +1,23 @@
 {{InfoEnemy
 |image=Bop Box_Walking.gif
-|attack=0
-|health=270000
-|defence=1
+|attack=1700
+|health=310000
+|defence=3200
 |speed=4
 |world=Frostfire Tyundra
 |area=Overpass of Sound
 |exp=1780
 |respawn=40
-|defence0=0.22
+|defence0=2072.08
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Cryosnake|Neyeptune}}
 {{DropTable/head}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/coin|440|0.3}}
 {{DropTable/row|Audio Cord|0.16|1}}
 {{DropTable/card|0.0001}}
-{{DropTable8|chance=0.4}}
+{{DropTable/row|Yeti Ham|.007|1}}
+{{DropTable16|chance=0.0030}}
 |}

@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Loveulyte
 |order=4
-|category=Event
+|category=NYI
 |effect=+{%_Total_HP
 |bonus=5
 |reqtier=1.5

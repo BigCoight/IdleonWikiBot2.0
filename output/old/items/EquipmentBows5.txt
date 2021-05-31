@@ -9,7 +9,7 @@
 |luck=3
 |reach=175
 |upgrade=3
-|sellprice=35900
+|sellprice=35150
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -26,16 +26,16 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Gold Bar|250}}
-{{detrecipe|3|Birch Longbow|3}}
-{{detrecipe|40|Slime Sludge|450}}
-{{detrecipe|40|Bleach Logs|750}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|GoldBar|250}}
+{{detrecipe|3|EquipmentBows3|3}}
+{{detrecipe|40|Jungle1|375}}
+{{detrecipe|40|BirchTree|750}}
+{{detrecipe|3|PureWater|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Gold Bar|250}}
-{{detrecipe/totals|Slime Sludge|450}}
-{{detrecipe/totals|Bleach Logs|750}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|GoldBar|250}}
+{{detrecipe/totals|Jungle1|375}}
+{{detrecipe/totals|BirchTree|750}}
+{{detrecipe/totals|PureWater|8}}
 |}

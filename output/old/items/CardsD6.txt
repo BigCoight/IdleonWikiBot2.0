@@ -1,6 +1,6 @@
 {{InfoCard
 |title=Veiny Logs
-|order=7
+|order=6
 |category=Medium Resources
 |effect=+{%_Total_Accuracy
 |bonus=3

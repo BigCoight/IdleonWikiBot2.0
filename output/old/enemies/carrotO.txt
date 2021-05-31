@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Carrotman_Walking.gif
+|attack=22
+|health=800
+|defence=30
+|speed=6
+|world=Blunder Hills
+|area=Vegetable Patch
+|exp=45
+|respawn=50
+|defence0=14.57
+|crystal=Yes
+|crystalname=Crystal Carrot
+|hascard=Yes
+}}
+{{EnemyNavigation|Baby Boa|Glublin}}
+{{DropTable/head}}
+{{DropTable/coin|15|0.41}}
+{{DropTable/row|Carrot Cube|0.17|1}}
+{{DropTable/card|0.000090}}
+{{DropTable/row|Cheezy Pizza|0.006|4}}
+{{DropTable/row|Carrot Launcher|0.00004|1}}
+{{DropTable2|chance=0.006}}
+|}

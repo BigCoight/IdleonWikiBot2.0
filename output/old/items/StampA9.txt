@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=9
-|type=Combat
+|type=Combat Stamp
 |bonus= STR
 |material=Bleach Logs
 |sellprice=2500

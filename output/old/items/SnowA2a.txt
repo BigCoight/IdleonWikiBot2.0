@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Monster Drop
+|description=Mmm yellow, my favorite flavor of snow!
+|sellprice=200
+|source=[[Frost Flake]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Frost Flake]]|0.00005|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.01|1}}
+|}

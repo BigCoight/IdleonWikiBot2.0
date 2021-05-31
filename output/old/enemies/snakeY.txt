@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Shell Snake_Walking.gif
+|attack=22
+|health=450
+|defence=18
+|speed=8
+|exp=34
+|respawn=45
+|defence0=14.57
+|hascard=Yes
+}}
+{{EnemyNavigation|Floofie|Egggulyte}}
+{{DropTable/head}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Gem|0.05|1}}
+{{DropTable/row|Egg Capsule|0.1|1}}
+{{DropTable/row|Goldegg Capsule|0.02|1}}
+{{DropTable/row|Easter Tool Upgrade Stone|0.02|3}}
+{{DropTable/row|Easter Armor Stone|0.03|3}}
+{{DropTable/row|Easter Weapon Stone|0.01|2}}
+|}

@@ -1,0 +1,60 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Health Food, Boost Food, Golden Food.
+|sellprice=334900
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=44
+|levelreq=44
+|expgiven=250000
+|recipefrom=Start
+|resource1=Golden Ham|quantity1=10
+|resource2=Critter Numnums|quantity2=30
+|resource3=Soulble Gum|quantity3=30
+|resource4=Big Food Pouch|quantity4=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|FoodG5|10}}
+{{detrecipe|3|FoodTrapping1|30}}
+{{detrecipe|40|Critter2|3000}}
+{{detrecipe|40|PureWater|30}}
+{{detrecipe|3|FoodWorship1|30}}
+{{detrecipe|40|Soul2|2100}}
+{{detrecipe|40|PureWater|30}}
+{{detrecipe|3|MaxCapBagF5|1}}
+{{detrecipe|40|FoodFish1|1500}}
+{{detrecipe|80|Fish2|7500}}
+{{detrecipe|80|FoodPotOr2|3000}}
+{{detrecipe|40|FoodCatch1|1500}}
+{{detrecipe|80|Bug2|7500}}
+{{detrecipe|80|FoodHealth6|1500}}
+{{detrecipe|40|FoodHealth9|10000}}
+{{detrecipe|40|MaxCapBagF4|2}}
+{{detrecipe|80|FoodG3|18}}
+{{detrecipe|80|DesertA3b|12}}
+{{detrecipe|80|MaxCapBagF3|4}}
+{{detrecipe|120|MaxCapBag8|28}}
+{{detrecipe|160|FoodHealth1|2100}}
+{{detrecipe|160|FoodHealth3|700}}
+{{detrecipe|160|OakTree|1680}}
+{{detrecipe|160|CopperBar|420}}
+{{detrecipe|120|FoodHealth7|1000}}
+{{detrecipe|120|FoodMining1|2400}}
+{{detrecipe|160|Iron|12000}}
+{{detrecipe|160|FoodPotMana1|4800}}
+{{detrecipe|120|FoodChoppin1|2400}}
+{{detrecipe|160|JungleTree|14400}}
+{{detrecipe|160|FoodPotRe1|7200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|FoodG5|10}}
+{{detrecipe/totals|Critter2|3000}}
+{{detrecipe/totals|PureWater|60}}
+{{detrecipe/totals|Soul2|2100}}
+{{detrecipe/totals|Fish2|7500}}
+{{detrecipe/totals|FoodPotOr2|3000}}
+{{detrecipe/totals|Bug2|7500}}
+{{detrecipe/totals|FoodHealth6|1500}}
+|}

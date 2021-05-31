@@ -14,4 +14,6 @@
 {{detdrops|[[Mining#Drops|Mining Gold]]|0.000004724999999999999|1.0}}
 {{detdrops|[[Mining#Drops|Mining Plat]]|0.000004851|1.0}}
 {{detdrops|[[Mining#Drops|Mining Dementia]]|0.000005166|1.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.000005669999999999999|2.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.0000059849999999999994|2.0}}
 |}

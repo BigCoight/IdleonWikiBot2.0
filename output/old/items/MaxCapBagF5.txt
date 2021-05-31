@@ -1,5 +1,59 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Health Food, Boost Food, Golden Food.
-|sellprice=5800
+|sellprice=427660
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=22
+|levelreq=39
+|expgiven=100000
+|recipefrom=Start
+|resource1=Slurpin Herm|quantity1=1500
+|resource2=Buttered Toasted Butter|quantity2=1500
+|resource3=Yeti Ham|quantity3=10000
+|resource4=Sizable Food Pouch|quantity4=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Large Food Pouch]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|FoodFish1|1500}}
+{{detrecipe|40|Fish2|7500}}
+{{detrecipe|40|FoodPotOr2|3000}}
+{{detrecipe|3|FoodCatch1|1500}}
+{{detrecipe|40|Bug2|7500}}
+{{detrecipe|40|FoodHealth6|1500}}
+{{detrecipe|3|FoodHealth9|10000}}
+{{detrecipe|3|MaxCapBagF4|2}}
+{{detrecipe|40|FoodG3|18}}
+{{detrecipe|40|DesertA3b|12}}
+{{detrecipe|40|MaxCapBagF3|4}}
+{{detrecipe|80|MaxCapBag8|28}}
+{{detrecipe|120|FoodHealth1|2100}}
+{{detrecipe|120|FoodHealth3|700}}
+{{detrecipe|120|OakTree|1680}}
+{{detrecipe|120|CopperBar|420}}
+{{detrecipe|80|FoodHealth7|1000}}
+{{detrecipe|80|FoodMining1|2400}}
+{{detrecipe|120|Iron|12000}}
+{{detrecipe|120|FoodPotMana1|4800}}
+{{detrecipe|80|FoodChoppin1|2400}}
+{{detrecipe|120|JungleTree|14400}}
+{{detrecipe|120|FoodPotRe1|7200}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fish2|7500}}
+{{detrecipe/totals|FoodPotOr2|3000}}
+{{detrecipe/totals|Bug2|7500}}
+{{detrecipe/totals|FoodHealth6|1500}}
+{{detrecipe/totals|FoodG3|18}}
+{{detrecipe/totals|DesertA3b|12}}
+{{detrecipe/totals|FoodHealth1|2100}}
+{{detrecipe/totals|FoodHealth3|700}}
+{{detrecipe/totals|OakTree|1680}}
+{{detrecipe/totals|CopperBar|420}}
+{{detrecipe/totals|Iron|12000}}
+{{detrecipe/totals|FoodPotMana1|4800}}
+|}

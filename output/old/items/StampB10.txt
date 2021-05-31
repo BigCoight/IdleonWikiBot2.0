@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=10
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Efficiency
 |material=Iron Hatchet
 |sellprice=1000
+|source=[[Snowman]]
 }}

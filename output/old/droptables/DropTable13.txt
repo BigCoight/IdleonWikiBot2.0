@@ -1,0 +1,10 @@
+{{DropTable/head}}
+{{DropTable/row|Small Experience Balloon|{{#expr: {{{chance}}}*0.5}}|1}}
+{{DropTable/row|Gem|{{#expr: {{{chance}}}*1}}|5}}
+{{DropTable/row|1 HR Time Candy|{{#expr: {{{chance}}}*0.5}}|1}}
+{{DropTable/row|2 HR Time Candy|{{#expr: {{{chance}}}*0.334}}|1}}
+{{DropTable/row|4 HR Time Candy|{{#expr: {{{chance}}}*0.12}}|1}}
+{{DropTable/row|12 HR Time Candy|{{#expr: {{{chance}}}*0.04}}|1}}
+{{DropTable/row|24 HR Time Candy|{{#expr: {{{chance}}}*0.012}}|1}}
+{{DropTable/row|72 HR Time Candy|{{#expr: {{{chance}}}*0.001}}|1}}
+|}

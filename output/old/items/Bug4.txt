@@ -1,11 +1,11 @@
 {{InfoItem
 |type=Bug
-|description=LOL I had my fingers crossed!
+|description=Hahaha I had my fingers crossed!
 |sellprice=20
 |source=Catching
 }}
 {{usedin/head}}
-{{usedin/row|[[Crows Nest]]|8500|Crafting}}
+{{usedin/row|[[Crows Nest]]|4000|Crafting}}
 {{usedin/row|[[Platinet]]|8000|Crafting}}
 {{usedin/row|[[Sizable Bug Pouch]]|6750|Crafting}}
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}

@@ -7,12 +7,12 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Copper Platelegs]]|200|Crafting}}
+{{usedin/row|[[Copper Platelegs]]|150|Crafting}}
 {{usedin/row|[[Birch Longbow]]|250|Crafting}}
-{{usedin/row|[[Small Choppin Pouch]]|850|Crafting}}
+{{usedin/row|[[Small Choppin Pouch]]|800|Crafting}}
 {{usedin/row|[[Purple Tupacband]]|100|Crafting}}
 {{usedin/row|[[Hide Shirt]]|325|Crafting}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|900|Crafting}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|700|Crafting}}
 {{usedin/row|[[Peanut]]|1|Crafting}}
 {{usedin/row|[[Purple Tee]]|100|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}

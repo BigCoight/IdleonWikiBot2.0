@@ -6,7 +6,7 @@
 |skillpower=25
 |str=9
 |upgrade=3
-|sellprice=1135000
+|sellprice=875600
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -16,28 +16,29 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Bloach|quantity1=7000
 |resource2=Platinum Bar|quantity2=1000
-|resource3=Gold Fishing Rod|quantity3=3
+|resource3=Gold Fishing Rod|quantity3=2
 }}
 {{usedin/head}}
+{{usedin/row|[[Dementia Rod for Fishing]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Bloach|7000}}
-{{detrecipe|3|Platinum Bar|1000}}
-{{detrecipe|3|Gold Fishing Rod|3}}
-{{detrecipe|40|Hermit Can|7500}}
-{{detrecipe|40|Leather Hide|3000}}
-{{detrecipe|40|Iron Fishing Rod|15}}
-{{detrecipe|80|Iron Bar|4500}}
-{{detrecipe|80|Hermit Can|12750}}
-{{detrecipe|80|Distilled Water|45}}
+{{detrecipe|3|Fish4|7000}}
+{{detrecipe|3|PlatBar|1000}}
+{{detrecipe|3|FishingRod4|2}}
+{{detrecipe|40|Fish2|5000}}
+{{detrecipe|40|CraftMat9|2000}}
+{{detrecipe|40|FishingRod3|6}}
+{{detrecipe|80|IronBar|1800}}
+{{detrecipe|80|Fish2|5100}}
+{{detrecipe|80|PureWater|18}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bloach|7000}}
-{{detrecipe/totals|Platinum Bar|1000}}
-{{detrecipe/totals|Hermit Can|20250}}
-{{detrecipe/totals|Leather Hide|3000}}
-{{detrecipe/totals|Iron Bar|4500}}
-{{detrecipe/totals|Distilled Water|45}}
+{{detrecipe/totals|Fish4|7000}}
+{{detrecipe/totals|PlatBar|1000}}
+{{detrecipe/totals|Fish2|10100}}
+{{detrecipe/totals|CraftMat9|2000}}
+{{detrecipe/totals|IronBar|1800}}
+{{detrecipe/totals|PureWater|18}}
 |}

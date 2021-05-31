@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Wode Board_Walking.gif
-|attack=40
+|attack=35
 |health=1800
 |defence=70
 |speed=3
@@ -8,7 +8,7 @@
 |area=Encroaching Forest Villas
 |exp=75
 |respawn=45
-|defence0=30.84
+|defence0=26.12
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

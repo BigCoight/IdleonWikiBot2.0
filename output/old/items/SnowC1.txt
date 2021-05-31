@@ -7,3 +7,7 @@
 {{detdrops/head}}
 {{detdrops|[[Quenchie]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[High-IQ Cauldron#Smart Boi Talent|Smart Boi Talent]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Sippy Cup|Sippy Cup]]|Lots|Alchemy}}
+|}

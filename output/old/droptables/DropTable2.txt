@@ -1,0 +1,12 @@
+{{DropTable/head}}
+{{DropTable/row|Hot Dog|{{#expr: {{{chance}}}*.35}}|15}}
+{{DropTable/row|Power Statue|{{#expr: {{{chance}}}*.12}}|1}}
+{{DropTable/row|Small Speed Potion|{{#expr: {{{chance}}}*0.1}}|5}}
+{{DropTable/row|Average Strength Potion|{{#expr: {{{chance}}}*0.2}}|10}}
+{{DropTable/row|Bottled Town Teleport|{{#expr: {{{chance}}}*0.02}}|1}}
+{{DropTable/row|Tattered Cloth|{{#expr: {{{chance}}}*0.01}}|1}}
+{{DropTable/row|Time Thingy|{{#expr: {{{chance}}}*0.3}}|1|([[Funguy]])}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|4|([[Mutton]])}}
+{{DropTable/row|Bronze AGI Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.0045}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0045}}
+|}

@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=28
-|type=Combat
+|type=Combat Stamp
 |bonus= All Stats
 |material=Mystery Upgrade Stone I
 |sellprice=10000

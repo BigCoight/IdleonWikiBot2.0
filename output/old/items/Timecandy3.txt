@@ -2,7 +2,7 @@
 |type=Time Candy
 |description=Hold down to instantly get 4 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua_Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert_Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua_Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert_Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]], [[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]], [[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.048|1.0}}

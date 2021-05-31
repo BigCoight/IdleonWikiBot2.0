@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=6
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Carry Cap
 |material=Carrot Cube
 |sellprice=1000

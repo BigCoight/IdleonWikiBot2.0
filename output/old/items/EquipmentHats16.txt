@@ -6,7 +6,7 @@
 |luck=1
 |upgrade=2
 |defence=7
-|sellprice=2950
+|sellprice=2320
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -23,16 +23,16 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|25}}
-{{detrecipe|3|Oak Logs|200}}
-{{detrecipe|3|Copper Helmet|2}}
-{{detrecipe|40|Copper Bar|100}}
-{{detrecipe|40|Bean Slices|150}}
+{{detrecipe|3|IronBar|25}}
+{{detrecipe|3|OakTree|200}}
+{{detrecipe|3|EquipmentHats17|2}}
+{{detrecipe|40|CopperBar|60}}
+{{detrecipe|40|Grasslands3|100}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|25}}
-{{detrecipe/totals|Oak Logs|200}}
-{{detrecipe/totals|Copper Bar|100}}
-{{detrecipe/totals|Bean Slices|150}}
+{{detrecipe/totals|IronBar|25}}
+{{detrecipe/totals|OakTree|200}}
+{{detrecipe/totals|CopperBar|60}}
+{{detrecipe/totals|Grasslands3|100}}
 |}

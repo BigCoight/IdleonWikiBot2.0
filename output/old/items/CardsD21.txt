@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Scorpie
+|order=14
+|category=Medium Resources
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=4
+}}

@@ -1,10 +1,10 @@
 {{InfoItem
 |class=All
-|level=65
+|level=75
 |skill=mining
 |type=Pickaxe
-|skillpower=29
-|str=25
+|skillpower=35
+|str=26
 |agi=9
 |misc=8% Mining Efficincy
 |upgrade=4

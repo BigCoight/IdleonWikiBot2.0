@@ -1,6 +1,6 @@
 {{InfoCard
 |title=Potty Rolls
-|order=6
+|order=5
 |category=Medium Resources
 |effect=+{%_Choppin_Speed
 |bonus=4

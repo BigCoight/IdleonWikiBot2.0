@@ -1,0 +1,148 @@
+{
+    "Changes": {
+        "Barbarian": {
+            "Mocking Shout": {
+                "Description": [
+                    "Every 0.5 sec, monsters move toward you and heal for {% HP. You get +}% EXP gain.",
+                    "Every 0.5 sec, monsters move toward you and heal for {% HP."
+                ]
+            }
+        },
+        "Shaman": {
+            "Tenteyecle": {
+                "X1": ["150", "100"]
+            }
+        }
+    },
+    "New": {
+        "Squire": {
+            "Refinery Throttle": {
+                "Description": "Automatically trigger { Refinery Cycles. Still costs materials, though.",
+                "X1": "3",
+                "X2": "8",
+                "FuncX": "intervalAdd",
+                "Level Up Text": "+1 Cycle Every 8 Lvs"
+            },
+            "Redox Rates": {
+                "Description": "+{% Build Speed per power of 10 Redox Salts in your Storage Chest",
+                "X1": "40",
+                "X2": "70",
+                "FuncX": "decay",
+                "Level Up Text": "+{% Build Spd"
+            },
+            "Sharper Saws": {
+                "Description": "+{% Construction EXP gain. More like Cogstruction am I right fellas?",
+                "X1": "1",
+                "X2": "0",
+                "FuncX": "add",
+                "Level Up Text": "+{% Construction EXP"
+            },
+            "Super Samples": {
+                "Description": "+{% Sample Size when talking Samples for the 3d printer.",
+                "X1": "9",
+                "X2": "75",
+                "FuncX": "decay",
+                "Level Up Text": "+{% Sample Size"
+            }
+        },
+        "Hunter": {
+            "Eagle Eye": {
+                "Description": "Collect & set all traps, but only get {% critters. }% Exp is given to each player.",
+                "X1": "100",
+                "X2": "100",
+                "FuncX": "decay",
+                "Y1": "80",
+                "Y2": "100",
+                "FuncY": "decay",
+                "Level Up Text": "+{% Critters & +}% XP"
+            },
+            "Invasive Species": {
+                "Description": "+{% Trapping Efficiency per power of 10 Froge Critters in Storage",
+                "X1": "30",
+                "X2": "80",
+                "FuncX": "decay",
+                "Level Up Text": "+{% Trap Efficiency"
+            },
+            "Shroom Bait": {
+                "Description": "+{% Trapping Exp Gain. Doesn't affect EXP given to other players when in Eagle Eye.",
+                "X1": "1",
+                "X2": "0",
+                "FuncX": "add",
+                "Level Up Text": "+{% Trapping EXP"
+            },
+            "Reflective Eyesight": {
+                "Description": "{x Shiny Critter chance. Triggers again every 10 Trapping LVs",
+                "X1": "2",
+                "X2": "100",
+                "FuncX": "decayMulti",
+                "Level Up Text": "+{x Shiny Chance"
+            }
+        },
+        "Wizard": {
+            "Charge Syphon": {
+                "Description": "Steal charge from all your players, giving you {% of it. +}% Max Charge for 1 Min",
+                "X1": "35",
+                "X2": ".3",
+                "FuncX": "bigBase",
+                "Y1": "100",
+                "Y2": "10",
+                "FuncY": "bigBase",
+                "Level Up Text": "+{% Steal, +}% Temp Max"
+            },
+            "Sooouls": {
+                "Description": "+{% Worship Efficiency per power of 10 Forest Souls in your Storage Chest",
+                "X1": "25",
+                "X2": "70",
+                "FuncX": "decay",
+                "Level Up Text": "+{% Worship Eff."
+            },
+            "Bless Up": {
+                "Description": "+{% Worship EXP gain. Access the other totems faster!",
+                "X1": "1",
+                "X2": "0",
+                "FuncX": "add",
+                "Level Up Text": "+{% Worship EXP"
+            },
+            "Nearby Outlet": {
+                "Description": "{x Charge rate. You know, for Worship... No, not for your phone.",
+                "X1": "1",
+                "X2": "100",
+                "FuncX": "decayMulti",
+                "Level Up Text": "+{x Charge Rate"
+            }
+        },
+        "Special Talent 2": {
+            "Printer Sampling": {
+                "Description": "Cast to sample {% of your current AFK gains, which is used by the 3d Printer.",
+                "X1": "10",
+                "X2": ".075",
+                "FuncX": "bigBase",
+                "Level Up Text": "+{% AFK gains sampled"
+            },
+            "Shrine Architect": {
+                "Description": "Cast this talent to place shrines. You also charge them +{% faster",
+                "X1": "50",
+                "X2": "50",
+                "FuncX": "decay",
+                "Level Up Text": "+{% Charge Rate"
+            }
+        }
+    },
+    "Removed": {
+        "Squire": {
+            "Wait For World 3": {
+                "Description": "This talent will boost the World 3 skill called 'Construction'. For now it does nothing."
+            }
+        },
+        "Hunter": {
+            "Wait For World 3": {
+                "Description": "This talent will boost the World 3 skill called 'Trapping'. For now it does nothing."
+            }
+        },
+        "Wizard": {
+            "Wait For World 3": {
+                "Description": "This talent will boost the World 3 skill called Worship. For now it does nothing."
+            }
+        }
+    }
+}

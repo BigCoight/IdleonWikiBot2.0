@@ -8,7 +8,7 @@
 |luck=3
 |upgrade=3
 |defence=8
-|sellprice=95000
+|sellprice=92700
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -18,7 +18,7 @@
 |recipefrom=Start
 |resource1=Gold Bar|quantity1=600
 |resource2=Iron Boots|quantity2=2
-|resource3=Distilled Water|quantity3=8
+|resource3=Distilled Water|quantity3=4
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Boots]]|3|Crafting}}
@@ -29,19 +29,19 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Gold Bar|600}}
-{{detrecipe|3|Iron Boots|2}}
-{{detrecipe|40|Trusty Nails|1000}}
-{{detrecipe|40|Iron Bar|250}}
-{{detrecipe|40|Copper Boots|4}}
-{{detrecipe|80|Copper Bar|800}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|GoldBar|600}}
+{{detrecipe|3|EquipmentShoes15|2}}
+{{detrecipe|40|CraftMat5|1000}}
+{{detrecipe|40|IronBar|250}}
+{{detrecipe|40|EquipmentShoes1|4}}
+{{detrecipe|80|CopperBar|500}}
+{{detrecipe|3|PureWater|4}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Gold Bar|600}}
-{{detrecipe/totals|Trusty Nails|1000}}
-{{detrecipe/totals|Iron Bar|250}}
-{{detrecipe/totals|Copper Bar|800}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|GoldBar|600}}
+{{detrecipe/totals|CraftMat5|1000}}
+{{detrecipe/totals|IronBar|250}}
+{{detrecipe/totals|CopperBar|500}}
+{{detrecipe/totals|PureWater|4}}
 |}

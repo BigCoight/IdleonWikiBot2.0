@@ -41,11 +41,12 @@
 {{detdrops|[[Mining#Drops|Mining Gold]]|0.0000012757499999999998|1.0}}
 {{detdrops|[[Mining#Drops|Mining Plat]]|0.0000013097700000000002|1.0}}
 {{detdrops|[[Mining#Drops|Mining Dementia]]|0.00000139482|1.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.0000015309|2.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.0000016159500000000002|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0000013608|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00000144585|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000015309|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.0000016159500000000002|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.0000018030600000000001|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0000017350200000000002|1.0}}
-{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.0000015138900000000002|1.0}}
 |}

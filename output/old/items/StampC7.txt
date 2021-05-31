@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=7
-|type=Misc
+|type=Misc Stamp
 |bonus=% Gold Food Effect
 |material=Golden Nomwich
 |sellprice=10000

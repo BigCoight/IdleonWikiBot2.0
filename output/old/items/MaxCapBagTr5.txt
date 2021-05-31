@@ -1,0 +1,29 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Critters.
+|sellprice=1376000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=41
+|levelreq=44
+|expgiven=250000
+|recipefrom=Start
+|resource1=Pingy|quantity1=30000
+|resource2=Big Critter Pouch|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Critter6|30000}}
+{{detrecipe|3|MaxCapBagTr4|2}}
+{{detrecipe|40|Critter4|20000}}
+{{detrecipe|40|MaxCapBagTr3|4}}
+{{detrecipe|80|Critter2|4000}}
+{{detrecipe|80|Refinery1|60}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter6|30000}}
+{{detrecipe/totals|Critter4|20000}}
+{{detrecipe/totals|Critter2|4000}}
+{{detrecipe/totals|Refinery1|60}}
+|}

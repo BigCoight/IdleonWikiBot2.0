@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Nightmare Amarok_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+}}
+{{EnemyNavigation||}}
+{{DropTable/head}}
+{{DropTable/coin|500|1}}
+{{DropTable/row|Magic Meatloaf|0.05|1}}
+{{DropTable/card|0.02}}
+{{DropTable/row|Grandma Disguise|0.001|1}}
+{{DropTable/row|Mystery Upgrade Stone I|0.03|1}}
+{{DropTable/row|Amarok Slab|0.3|1}}
+{{DropTable1|chance=1}}
+{{DropTable2|chance=1}}
+{{DropTable3|chance=1}}
+|}

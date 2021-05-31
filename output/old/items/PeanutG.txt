@@ -19,15 +19,15 @@
 |}
 {{detrecipe/head}}
 {{detrecipe|3|Peanut|100}}
-{{detrecipe|40|Hot Dog|200}}
-{{detrecipe|40|Copper Ore|100}}
-{{detrecipe|40|Bleach Logs|100}}
-{{detrecipe|3|Gold Bar|50}}
+{{detrecipe|40|FoodHealth3|200}}
+{{detrecipe|40|Copper|100}}
+{{detrecipe|40|BirchTree|100}}
+{{detrecipe|3|GoldBar|50}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hot Dog|200}}
-{{detrecipe/totals|Copper Ore|100}}
-{{detrecipe/totals|Bleach Logs|100}}
-{{detrecipe/totals|Gold Bar|50}}
+{{detrecipe/totals|FoodHealth3|200}}
+{{detrecipe/totals|Copper|100}}
+{{detrecipe/totals|BirchTree|100}}
+{{detrecipe/totals|GoldBar|50}}
 |}

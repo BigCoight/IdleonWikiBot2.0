@@ -1,11 +1,10 @@
 {{InfoItem
 |type=Log
 |sellprice=20
-|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.5|100}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Platinum Boots]]|8000|Crafting}}

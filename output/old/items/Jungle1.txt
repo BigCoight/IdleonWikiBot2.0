@@ -8,9 +8,9 @@
 {{detdrops|[[Slime]]|0.19|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Steel Axe]]|150|Crafting}}
-{{usedin/row|[[Birch Longbow]]|150|Crafting}}
-{{usedin/row|[[Quarterstaff]]|150|Crafting}}
+{{usedin/row|[[Steel Axe]]|125|Crafting}}
+{{usedin/row|[[Birch Longbow]]|125|Crafting}}
+{{usedin/row|[[Quarterstaff]]|125|Crafting}}
 {{usedin/row|[[Goo Galoshes]]|600|Crafting}}
 {{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
 {{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}

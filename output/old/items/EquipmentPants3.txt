@@ -7,7 +7,7 @@
 |wis=3
 |upgrade=2
 |defence=11
-|sellprice=14700
+|sellprice=11065
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -15,18 +15,18 @@
 |levelreq=14
 |expgiven=750
 |recipefrom=Start
-|resource1=Iron Bar|quantity1=225
-|resource2=Boring Brick|quantity2=300
+|resource1=Iron Bar|quantity1=170
+|resource2=Boring Brick|quantity2=225
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Shins]]|6|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|225}}
-{{detrecipe|3|Boring Brick|300}}
+{{detrecipe|3|IronBar|170}}
+{{detrecipe|3|CraftMat6|225}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|225}}
-{{detrecipe/totals|Boring Brick|300}}
+{{detrecipe/totals|IronBar|170}}
+{{detrecipe/totals|CraftMat6|225}}
 |}

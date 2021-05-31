@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Mashed Potato_Walking.gif
-|attack=160
+|attack=125
 |health=18500
-|defence=330
+|defence=260
 |speed=6
 |world=Yum Yum Desert
 |area=Slamabam Straightaway
 |exp=310
 |respawn=40
-|defence0=165
+|defence0=123.37
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

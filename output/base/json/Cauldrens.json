@@ -14,7 +14,7 @@
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
-            "description": "All_Orange_Passive_Bubbles_give_a_{x_higher_bonus,_but_only_for_your_warrior-based_classes.",
+            "description": "All_Orange_Passive_Bubbles,_which_are_the_smaller_sized_ones,_give_a_{x_higher_bonus_to_your_warrior-based_classes.",
             "requirements": [
                 ["Grasslands1", "20"],
                 ["CraftMat1", "3"],
@@ -109,6 +109,56 @@
                 ["Liquid1", "5"],
                 ["Liquid2", "2"]
             ]
+        },
+        "Brittley Spears": {
+            "x1": "40",
+            "x2": "50",
+            "func": "decay",
+            "description": "+{%_Total_damage._This_multiplies_with_other_damage_bonuses,_but_adds_with_the_other_'+%_Total_Damage'_bubbles.",
+            "requirements": [
+                ["Critter1", "10"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Call Me Bob": {
+            "x1": "25",
+            "x2": "2.5",
+            "func": "bigBase",
+            "description": "+{%_Construction_EXP_Gain._Also_gives_+50%_Bug-Fixing_speed_if_your_username_is_LavaFlame2._Actually,_better_make_that_+500%...",
+            "requirements": [
+                ["SnowA3", "120"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Carpenter": {
+            "x1": "2",
+            "x2": "50",
+            "func": "decay",
+            "description": "+{%_Build_Speed_per_Construction_Level.",
+            "requirements": [
+                ["Refinery2", "3"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Buff Boi Talent": {
+            "x1": "5",
+            "x2": "1",
+            "func": "bigBase",
+            "description": "+{_Talent_Points_for_EACH_tab!_Yea,_it's_amazing_right?_But_it's_just_for_warriors,_don't_tell_the_other_classes!!",
+            "requirements": [
+                ["Critter4", "50"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Orange Bargain": {
+            "x1": "99",
+            "x2": "40",
+            "func": "decay",
+            "description": "The_material_costs_of_ALL_orange_bubbles_are_{%_lower",
+            "requirements": [
+                ["Soul4", "30"],
+                ["Liquid2", "5"]
+            ]
         }
     },
     "Quicc Cauldron": {
@@ -126,7 +176,7 @@
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
-            "description": "Green_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_archer-based_characters.",
+            "description": "All_Green_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_archer-based_characters.",
             "requirements": [
                 ["Grasslands1", "20"],
                 ["BirchTree", "30"],
@@ -221,6 +271,56 @@
                 ["Liquid1", "5"],
                 ["Liquid2", "2"]
             ]
+        },
+        "Bow Jack": {
+            "x1": "40",
+            "x2": "50",
+            "func": "decay",
+            "description": "+{%_Total_damage._This_multiplies_with_other_damage_bonuses,_but_adds_with_the_other_'+%_Total_Damage'_bubbles.",
+            "requirements": [
+                ["Soul1", "5"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Call Me Ash": {
+            "x1": "25",
+            "x2": "2",
+            "func": "bigBase",
+            "description": "+1_Placeable_Trap,_and_+{%_Trapping_Efficiency.",
+            "requirements": [
+                ["SaharanFoal", "100"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Cuz I Catch Em All": {
+            "x1": "3",
+            "x2": "100",
+            "func": "decayMulti",
+            "description": "{x_more_likely_to_catch_shiny_critters_when_opening_a_trap.",
+            "requirements": [
+                ["Soul3", "25"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Fast Boi Talent": {
+            "x1": "5",
+            "x2": "1",
+            "func": "bigBase",
+            "description": "+{_Talent_Points_for_EACH_tab,_but_just_for_Archers!_Well,_and_'that'_class,_you_know_who_you_are!",
+            "requirements": [
+                ["Bug6", "120"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Green Bargain": {
+            "x1": "99",
+            "x2": "40",
+            "func": "decay",
+            "description": "The_material_costs_of_ALL_green_bubbles_are_{%_lower",
+            "requirements": [
+                ["Critter5", "200"],
+                ["Liquid2", "5"]
+            ]
         }
     },
     "High-IQ Cauldron": {
@@ -238,7 +338,7 @@
             "x1": "2",
             "x2": "50",
             "func": "decayMulti",
-            "description": "Purple_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_mage-based_characters.",
+            "description": "All_Purple_Passive_Bonuses,_which_are_the_smaller_sized_ones,_give_{x_more_bonuses_to_your_mage-based_characters.",
             "requirements": [
                 ["Grasslands1", "25"],
                 ["CopperBar", "13"],
@@ -332,6 +432,56 @@
                 ["PlatBar", "5"],
                 ["Liquid1", "5"],
                 ["Liquid2", "2"]
+            ]
+        },
+        "Matty Stafford": {
+            "x1": "40",
+            "x2": "50",
+            "func": "decay",
+            "description": "+{%_Total_damage._This_multiplies_with_other_damage_bonuses,_but_adds_with_the_other_'+%_Total_Damage'_bubbles.",
+            "requirements": [
+                ["Refinery1", "3"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Call Me Pope": {
+            "x1": "2.4",
+            "x2": "70",
+            "func": "decayMulti",
+            "description": "{x_Worship_Charge_rate_per_hour._Also,_{x_Max_Worship_Charge!_You_bouta_go_super_with_all_that_charge..._just_sayin'",
+            "requirements": [
+                ["Critter2", "25"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Gospel Leader": {
+            "x1": "80",
+            "x2": "60",
+            "func": "decay",
+            "description": "+{%_Max_Charge_per_10_Worship_levels._I_guess_you_could_say_this_upgrade_doesn't_come_Free_of_Charge!",
+            "requirements": [
+                ["Bug5", "150"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Smart Boi Talent": {
+            "x1": "5",
+            "x2": "1",
+            "func": "bigBase",
+            "description": "Sorry,_mages_don't_get_anything_because_you're_lame...._Ok_fine,_you_can_have_+{_Talent_Points_for_each_tab,_but_I'm_not_happy_about_it.",
+            "requirements": [
+                ["SnowC1", "150"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Purple Bargain": {
+            "x1": "99",
+            "x2": "40",
+            "func": "decay",
+            "description": "The_material_costs_of_ALL_purple_bubbles_are_{%_lower",
+            "requirements": [
+                ["Soul1", "800"],
+                ["Liquid2", "5"]
             ]
         }
     },
@@ -443,6 +593,56 @@
                 ["DesertC4", "130"],
                 ["Liquid2", "4"]
             ]
+        },
+        "Cogs For Hands": {
+            "x1": "4",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Cog_Production_speed._Cogs_are_great._I_really_really_like_cogs._I_guess_you_could_say_I_think_they're_pretty_Coggers...",
+            "requirements": [
+                ["SnowA2", "50"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Sample It": {
+            "x1": "12",
+            "x2": "40",
+            "func": "decay",
+            "description": "+{%_Sample_Size_when_taking_samples_for_the_3d_printer._Finally,_your_statisitcal_analysis_will_be_accurate!",
+            "requirements": [
+                ["Soul2", "15"],
+                ["Liquid2", "3"]
+            ]
+        },
+        "Big Game Hunter": {
+            "x1": "70",
+            "x2": "50",
+            "func": "decay",
+            "description": "Each_time_a_Giant_Monster_spawns,_the_chance_for_another_Giant_Monster_in_that_same_week_goes_down_by_{%_less_than_normal.",
+            "requirements": [
+                ["Critter3", "40"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Ignore Overdues": {
+            "x1": "100",
+            "x2": "60",
+            "func": "decay",
+            "description": "+{%_Book_Checkout_speed,_thanks_to_this_one_little_bubble_that_librarians_do_NOT_want_you_to_know_about!",
+            "requirements": [
+                ["Tree7", "120"],
+                ["Liquid2", "4"]
+            ]
+        },
+        "Yellow Bargain": {
+            "x1": "99",
+            "x2": "40",
+            "func": "decay",
+            "description": "The_material_costs_of_ALL_yellow_bubbles_are_{%_lower.",
+            "requirements": [
+                ["Critter6", "250"],
+                ["Liquid2", "5"]
+            ]
         }
     },
     "Vials": {
@@ -496,7 +696,7 @@
                 ["Liquid1", "L"]
             ]
         },
-        "Dieter Drenk": {
+        "Dieter Drink": {
             "x1": "1",
             "x2": "0",
             "func": "add",
@@ -653,7 +853,207 @@
             "description": "+{%_Nothing._Absolutely_nothing,_now_and_forever._It's_a_darn_pickle,_what_were_you_expecting?",
             "requirements": [
                 ["BobJoePickle", "L"],
-                ["Liquid1", "L"]
+                ["Liquid2", "L"]
+            ]
+        },
+        "Fur Refresher": {
+            "x1": "2",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_higher_Shiny_Critter_chance._This_is_a_multiplier,_so_+1%_from_this_vial_means_1.01x,_so_5%_shiny_chance_would_go_to_5.05%.",
+            "requirements": [
+                ["SnowA1", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Sippy Soul": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Talent_Points_for_Tab_2.",
+            "requirements": [
+                ["Soul1", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Crab Juice": {
+            "x1": "4",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Starting_points_in_Worship_Tower_Defence._Of_course,_a_true_balloon_monkey_wouldn't_accept_handouts_like_this.",
+            "requirements": [
+                ["Critter2", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Stache Stew": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Mining_Efficiency.",
+            "requirements": [
+                ["Void", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Red Malt": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Refinery_Cycle_Speed._I_just_want_to_see_you_squirm_a_bit_more_as_you_decide_where_to_spend_your_precious_salts_hahahaha!!",
+            "requirements": [
+                ["Refinery1", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Ew Gross Gross": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Catching_Efficiency.",
+            "requirements": [
+                ["Bug5", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "The Spanish Sahara": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Choppin_Efficiency.",
+            "requirements": [
+                ["SaharanFoal", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Poison Tincture": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "Eagle_Eye_Trap-O-Vision_gives_+{%_more_critters._It_will_always_give_less_than_if_you_manually_collected_the_traps_though.",
+            "requirements": [
+                ["Critter1A", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Etruscan Lager": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Fishing_Efficiency.",
+            "requirements": [
+                ["SnowB2", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Chonker Chug": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Talent_Book_Library_checkout_speed._",
+            "requirements": [
+                ["Soul2", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Bubonic Burp": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Cog_Inventory_spaces._DONT_PANIC!!!_I_KNOW_HOW_ALARMING_IT_IS_THAT_A_VIAL_FINALLY_GIVES_A_USEFUL_BONUS_FOR_ONCE,_BUT_STAY_CALM!",
+            "requirements": [
+                ["Critter4", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Visible Ink": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Construction_Exp_gain.",
+            "requirements": [
+                ["SnowB3", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Orange Malt": {
+            "x1": "5",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_higher_Shiny_Critter_chance._This_stacks_with_the_shiny_chance_from_the_Fur_Refresher_vial._You_see,_they_have_the_same_shaped_vial.",
+            "requirements": [
+                ["Refinery2", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Snow Slurry": {
+            "x1": "0.5",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Printer_sample_size._My_my_there_are_a_lot_of_these_'sample_size'_bonuses_in_the_game..._too_many...",
+            "requirements": [
+                ["SnowB5", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Slowergy Drink": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Base_Multikill_per_Multikill_Tier_for_all_worlds._Stack_them_skulls!",
+            "requirements": [
+                ["Soul4", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Sippy Cup": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_Cog_production_speed.",
+            "requirements": [
+                ["SnowC1", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Bunny Brew": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Talent_Points_for_Tab_3.",
+            "requirements": [
+                ["Critter7", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "40-40 Purity": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{_Liquid_Mercury_max_capacity._Thats_the_3rd_liquid_type_in_Alchemy,_btw.",
+            "requirements": [
+                ["SnowC4", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Spook Pint": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "+{%_base_Giant_Monster_spawn_rate.",
+            "requirements": [
+                ["Soul6", "L"],
+                ["Liquid2", "L"]
+            ]
+        },
+        "Goosey Glug": {
+            "x1": "1",
+            "x2": "0",
+            "func": "add",
+            "description": "You_know,_I_was_talking_to_the_goose_in_that_vial,_and_they_just_aren't_ready_to_give_you_a_bonus.",
+            "requirements": [
+                ["Critter9", "L"],
+                ["Liquid2", "L"]
             ]
         }
     },

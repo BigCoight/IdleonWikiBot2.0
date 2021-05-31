@@ -7,3 +7,6 @@
 {{detdrops/head}}
 {{detdrops|[[Bloque]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Big Materials Pouch]]|15000|Crafting}}
+|}

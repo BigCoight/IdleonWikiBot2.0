@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=13
-|type=Combat
+|type=Combat Stamp
 |bonus= WIS
 |material=Iron Bar
 |sellprice=8000

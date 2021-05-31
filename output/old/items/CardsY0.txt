@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Ghost
 |order=0
-|category=Event
+|category=NYI
 |effect=+{%_Monster_EXP_While_Active
 |bonus=3
 |reqtier=2

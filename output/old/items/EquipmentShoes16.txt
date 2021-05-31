@@ -1,5 +1,5 @@
 {{InfoItem
-|class=Warrior
+|class=All
 |level=30
 |type=Shoes
 |str=5
@@ -7,7 +7,7 @@
 |misc=20% Mining Efficincy
 |upgrade=3
 |defence=10
-|sellprice=107950
+|sellprice=105850
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -21,25 +21,25 @@
 |resource4=Iron Ore|quantity4=1200
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Gold Boots|1}}
-{{detrecipe|40|Gold Bar|600}}
-{{detrecipe|40|Iron Boots|2}}
-{{detrecipe|80|Trusty Nails|1000}}
-{{detrecipe|80|Iron Bar|250}}
-{{detrecipe|80|Copper Boots|4}}
-{{detrecipe|120|Copper Bar|800}}
-{{detrecipe|40|Distilled Water|8}}
-{{detrecipe|3|Distilled Water|9}}
-{{detrecipe|3|Copper Ore|1500}}
-{{detrecipe|3|Iron Ore|1200}}
+{{detrecipe|3|EquipmentShoes3|1}}
+{{detrecipe|40|GoldBar|600}}
+{{detrecipe|40|EquipmentShoes15|2}}
+{{detrecipe|80|CraftMat5|1000}}
+{{detrecipe|80|IronBar|250}}
+{{detrecipe|80|EquipmentShoes1|4}}
+{{detrecipe|120|CopperBar|500}}
+{{detrecipe|40|PureWater|4}}
+{{detrecipe|3|PureWater|9}}
+{{detrecipe|3|Copper|1500}}
+{{detrecipe|3|Iron|1200}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Gold Bar|600}}
-{{detrecipe/totals|Trusty Nails|1000}}
-{{detrecipe/totals|Iron Bar|250}}
-{{detrecipe/totals|Copper Bar|800}}
-{{detrecipe/totals|Distilled Water|9}}
-{{detrecipe/totals|Copper Ore|1500}}
-{{detrecipe/totals|Iron Ore|1200}}
+{{detrecipe/totals|GoldBar|600}}
+{{detrecipe/totals|CraftMat5|1000}}
+{{detrecipe/totals|IronBar|250}}
+{{detrecipe/totals|CopperBar|500}}
+{{detrecipe/totals|PureWater|9}}
+{{detrecipe/totals|Copper|1500}}
+{{detrecipe/totals|Iron|1200}}
 |}

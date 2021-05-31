@@ -2,10 +2,49 @@
 |class=All
 |level=90
 |type=Shirt
-|str=10
-|agi=10
-|wis=10
+|str=13
+|agi=13
+|wis=13
 |upgrade=4
-|defence=35
-|sellprice=200
+|defence=45
+|sellprice=21984000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=25
+|levelreq=44
+|expgiven=300000
+|recipefrom=Start
+|resource1=Audio Cord|quantity1=75000
+|resource2=Dementia Body|quantity2=2
+|resource3=Void Bar|quantity3=500
+}}
+{{usedin/head}}
+{{usedin/row|[[Member Hoodie]]|1|Crafting}}
+{{usedin/row|[[Damascus Plates]]|1|Crafting}}
+{{usedin/row|[[Evergreen Wraps]]|1|Crafting}}
+{{usedin/row|[[Elegantine Robes]]|1|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC3|75000}}
+{{detrecipe|3|EquipmentShirts15|2}}
+{{detrecipe|40|Soul1|2000}}
+{{detrecipe|40|EquipmentShirts14|4}}
+{{detrecipe|80|DesertB4|20000}}
+{{detrecipe|80|EquipmentShirts12|20}}
+{{detrecipe|120|IronBar|3000}}
+{{detrecipe|120|JungleTree|12000}}
+{{detrecipe|80|PlatBar|4000}}
+{{detrecipe|40|DementiaBar|700}}
+{{detrecipe|3|VoidBar|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC3|75000}}
+{{detrecipe/totals|Soul1|2000}}
+{{detrecipe/totals|DesertB4|20000}}
+{{detrecipe/totals|IronBar|3000}}
+{{detrecipe/totals|JungleTree|12000}}
+{{detrecipe/totals|DementiaBar|700}}
+{{detrecipe/totals|VoidBar|500}}
+|}

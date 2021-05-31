@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=6
-|type=Misc
+|type=Misc Stamp
 |bonus=% Boost Food Effect
 |material=Icing Ironbite
 |sellprice=3000

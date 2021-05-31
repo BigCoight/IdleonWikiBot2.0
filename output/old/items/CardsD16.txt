@@ -1,6 +1,6 @@
 {{InfoCard
 |title=Cinder Forge
-|order=4
+|order=3
 |category=Medium Resources
 |effect=+{%_Smithing_EXP
 |bonus=7

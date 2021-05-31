@@ -1,0 +1,7 @@
+{{DropTable/head}}
+{{DropTable/row|Sample Stamp|{{#expr: {{{chance}}}*.001}}|1}}
+{{DropTable/row|Banked Pts Stamp|{{#expr: {{{chance}}}*.0006}}|1}}
+{{DropTable/row|EhExPee Statue|{{#expr: {{{chance}}}*.05}}|15}}
+{{DropTable/row|Decent Strength Potion|{{#expr: {{{chance}}}*.15}}|25}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}
+|}

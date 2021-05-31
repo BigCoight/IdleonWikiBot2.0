@@ -1,5 +1,12 @@
 {{InfoItem
 |type=Monster Drop
-|description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has 50,000 1 star ratings claiming it to be false advertising.
+|description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has thousands of 1 Star Ratings online claiming it's false advertising.
 |sellprice=200
+|source=[[mamooth]]
 }}
+{{detdrops/head}}
+{{detdrops|[[mamooth]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Big Materials Pouch]]|3|Crafting}}
+|}

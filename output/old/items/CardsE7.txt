@@ -2,9 +2,9 @@
 |title=Thermister
 |order=7
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_Critical_Damage
+|bonus=4
+|reqtier=15
 |source=[[Thermister]]
 }}
 {{detdrops/head}}

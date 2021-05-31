@@ -1,0 +1,14 @@
+{{InfoEnemy
+|image=Icicle Nest_Walking.gif
+|attack=6
+|health=999999999
+|defence=1
+|speed=0
+|exp=2
+|respawn=86400
+|defence0=2.67
+}}
+{{EnemyNavigation||}}
+{{DropTable/head}}
+{{DropTable/row|Frog Leg|0.0|2}}
+|}

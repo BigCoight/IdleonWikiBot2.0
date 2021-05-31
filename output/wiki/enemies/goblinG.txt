@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Glublin_Walking.gif
-|attack=35
+|attack=30
 |health=1250
 |defence=52
 |speed=4
@@ -8,7 +8,7 @@
 |area=Forest Outskirts
 |exp=60
 |respawn=52
-|defence0=26.12
+|defence0=21.54
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

@@ -9,7 +9,7 @@
 |defence0=2
 |hascard=Yes
 }}
-{{EnemyNavigation|Chaotic Efaunt|Giftmas Blobulyte}}
+{{EnemyNavigation|Chaotic Chizoar|Giftmas Blobulyte}}
 {{DropTable/head}}
 {{DropTable/coin|10|0.5}}
 {{DropTable/card|0.05}}

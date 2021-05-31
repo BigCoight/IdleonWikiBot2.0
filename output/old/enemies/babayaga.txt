@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Baba Yaga_Walking.gif
+|attack=400
+|health=150000
+|defence=300
+|speed=4
+|exp=1750
+|respawn=86400
+|defence0=466.07
+|hascard=Yes
+}}
+{{EnemyNavigation|Flycicle|Dr Defecaus}}
+{{DropTable/head}}
+{{DropTable/coin|800|1}}
+{{DropTable/card|0.03}}
+{{DropTable/row|Baba Yaga Baby Eggs|0.006|1}}
+{{DropTable/row|Flowies|1|1}}
+{{DropTable1|chance=1}}
+{{DropTable2|chance=1}}
+{{DropTable3|chance=1}}
+|}

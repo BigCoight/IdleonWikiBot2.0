@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Forest Soul
+|order=10
+|category=Medium Resources
+|effect=+{%_Defence_from_Equipment
+|bonus=3
+|reqtier=3
+}}

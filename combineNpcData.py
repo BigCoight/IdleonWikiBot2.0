@@ -5,18 +5,18 @@ from libs.jsonEncoder import CompactJSONEncoder
 
 
 def writeJSON(fn, dicti):
-    with open(fr'./output/modified/json/{fn}.json', mode='w') as outfile:
+    with open(fr"./output/modified/json/{fn}.json", mode="w") as outfile:
         outfile.write(CompactJSONEncoder(indent=4).encode(dicti))
 
 
 def openJSON(fn):
-    with open(fr'./output/base/json/{fn}.json', mode='r') as jsonFile:
+    with open(fr"./output/base/json/{fn}.json", mode="r") as jsonFile:
         return json.load(jsonFile)
 
 
 def openCSV(fn):
     res = []
-    with open(fr'./output/base/csv/{fn}.csv', mode='r') as csvFile:
+    with open(fr"./output/base/csv/{fn}.csv", mode="r") as csvFile:
         lines = csvFile.readlines()
         single = len(lines[0].split(";")) == 1
         if single:
@@ -31,7 +31,7 @@ def openCSV(fn):
 def getTalentName(qty):
     talentName = openCSV("TalentNames")
     no = int(qty[0])
-    index = int(qty[1:no+1])
+    index = int(qty[1 : no + 1])
     return repU(talentName[index])
 
 
@@ -55,8 +55,7 @@ def formatDio(line, quest):
 
 
 def formatQuest(line):
-    lvlType = ["Class", "Mining", "Smithing",
-               "Chopping", "Fishing", "Alchemy", "Catching"]
+    lvlType = ["Class", "Mining", "Smithing", "Chopping", "Fishing", "Alchemy", "Catching"]
     symbols = {
         "GreaterEqual": ">=",
         "": "",
@@ -67,26 +66,26 @@ def formatQuest(line):
     lineRew = line["Rewards"]
     for i in range(0, len(lineRew), 2):
         currentRewName = nameDic(lineRew[i])
-        if lineRew[i][:10] == 'Experience':
+        if lineRew[i][:10] == "Experience":
             currentRewName = lvlType[int(lineRew[i][-1])] + ";Experience"
         elif lineRew[i][:-1] == "TalentBook":
-            currentRewName = getTalentName(lineRew[i+1]) + ";Talent Book"
-            lineRew[i+1] = "1"
+            currentRewName = getTalentName(lineRew[i + 1]) + ";Talent Book"
+            lineRew[i + 1] = "1"
         elif lineRew[i][:-1] == "SmithingRecipes":
-            recipData = getSmithingRecipe(lineRew[i], lineRew[i+1])
-            lineRew[i+1] = "1"
+            recipData = getSmithingRecipe(lineRew[i], lineRew[i + 1])
+            lineRew[i + 1] = "1"
             currentRewName = f"{recipData[0]};Recipe;{recipData[1]}"
 
-        currentRew.append((currentRewName, lineRew[i+1]))
+        currentRew.append((currentRewName, lineRew[i + 1]))
 
     newQuest["rewards"] = currentRew
 
     if line["Type"] == "Custom":
         current = line["CustomArray"]
-        tempReq = ''
-        tempReq += f"{current[0]} {symbols[current[2]]} {current[1]}. Starting at {current[3]}. "
+        tempReq = []
+        tempReq.append(f"{current[0]} {symbols[current[2]]} {current[1]}. Starting at {current[3]}.")
         if len(current) > 4:
-            tempReq += f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}. "
+            tempReq.append(f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}.")
         tempReq = repU(tempReq, True)
     elif line["Type"] == "ItemsAndSpaceRequired":
         tempReq = []
@@ -98,36 +97,37 @@ def formatQuest(line):
     newQuest["dialogueText"] = line["DialogueText"]
     newQuest["difficulty"] = line["Difficulty"]
     newQuest["name"] = line["Name"]
-    if len(line["DialogueText"].split(":")) > 1:
-        newQuest["questText"] = line["DialogueText"].split(":")[1]
+    dTextSplit = line["DialogueText"].split(":")
+    if len(dTextSplit) > 1:
+        newQuest["questText"] = dTextSplit[1]
+        newQuest["DialogueText"] = dTextSplit[0]
 
-    return newQuest
+    questName = newQuest["name"]
+    return questName, newQuest
 
 
 def main():
     newNpcs = {}
     npcData = openJSON("Npcs")
-    nameConflicts = {
-        "Ghost": "Ghost_(Event)",
-        "Dog_Bone": "Dog_Bone_(NPC)"
-    }
+    nameConflicts = {"Ghost": "Ghost_(Event)", "Dog_Bone": "Dog_Bone_(NPC)"}
 
     for name, npc in npcData.items():
         if name == "Mecha_Pete":
             continue
         name = nameConflicts.get(name, name)
-        newNpcs[name] = {"Quests": [], "Dialogue": []}
+        newNpcs[name] = {"Quests": {}, "Dialogue": []}
 
         for line in npc:
-            if line["Type"] in ['None', "LevelReq", "SpaceRequired"]:
+            if line["Type"] in ["None", "LevelReq", "SpaceRequired"]:
                 newNpcs[name]["Dialogue"].append(formatDio(line, False))
 
             else:
-                newNpcs[name]["Quests"].append(formatQuest(line))
+                questName, questData = formatQuest(line)
+                newNpcs[name]["Quests"][questName] = questData
                 newNpcs[name]["Dialogue"].append(formatDio(line, True))
 
     writeJSON("Npcs", newNpcs)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

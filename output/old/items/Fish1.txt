@@ -2,11 +2,10 @@
 |type=Fish
 |description=It's not a snack, and it certainly doesn't smile back... for copyright reasons!
 |sellprice=4
-|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=Fishing, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|50}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Copper Fish Rod]]|400|Crafting}}

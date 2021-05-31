@@ -1,0 +1,42 @@
+{{InfoItem
+|class=Beginner
+|level=50
+|type=Fisticuff
+|speed=8
+|weaponpower=27
+|luck=13
+|reach=65
+|upgrade=4
+|sellprice=14142950
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=4
+|levelreq=40
+|expgiven=3
+|recipefrom=Start
+|resource1=Melty Cube|quantity1=70000
+|resource2=Bandage Wraps|quantity2=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Member Hoodie]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SnowA2|70000}}
+{{detrecipe|3|EquipmentPunching3|3}}
+{{detrecipe|40|CraftMat3|15000}}
+{{detrecipe|40|EquipmentPunching2|15}}
+{{detrecipe|80|CopperBar|300}}
+{{detrecipe|80|OakTree|1125}}
+{{detrecipe|80|CraftMat5|300}}
+{{detrecipe|40|ToiletTree|6000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowA2|70000}}
+{{detrecipe/totals|CraftMat3|15000}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|OakTree|1125}}
+{{detrecipe/totals|CraftMat5|300}}
+{{detrecipe/totals|ToiletTree|6000}}
+|}

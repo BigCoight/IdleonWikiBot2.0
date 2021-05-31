@@ -1,0 +1,52 @@
+{{InfoItem
+|class=Mage
+|level=90
+|type=Wand
+|speed=6
+|weaponpower=43
+|agi=10
+|wis=13
+|luck=1
+|misc=5% Crit Damage
+|reach=170
+|upgrade=4
+|sellprice=3735000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=31
+|levelreq=45
+|expgiven=450000
+|recipefrom=Start
+|resource1=Black Lense|quantity1=4
+|resource2=Frigid Soul|quantity2=50000
+|resource3=Spriggly Storm|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC4a|4}}
+{{detrecipe|3|Soul4|50000}}
+{{detrecipe|3|EquipmentWands3|3}}
+{{detrecipe|40|SaharanFoal|30000}}
+{{detrecipe|40|EquipmentWands6|6}}
+{{detrecipe|80|Sewers1b|18}}
+{{detrecipe|80|Bug4|24000}}
+{{detrecipe|80|EquipmentWands5|12}}
+{{detrecipe|120|CraftMat7|12000}}
+{{detrecipe|120|EquipmentWands2|36}}
+{{detrecipe|160|Jungle1|4500}}
+{{detrecipe|160|CopperBar|3600}}
+{{detrecipe|120|PureWater|96}}
+{{detrecipe|40|Refinery1|450}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC4a|4}}
+{{detrecipe/totals|Soul4|50000}}
+{{detrecipe/totals|SaharanFoal|30000}}
+{{detrecipe/totals|Sewers1b|18}}
+{{detrecipe/totals|Bug4|24000}}
+{{detrecipe/totals|CraftMat7|12000}}
+{{detrecipe/totals|Jungle1|4500}}
+{{detrecipe/totals|CopperBar|3600}}
+{{detrecipe/totals|Refinery1|450}}
+|}

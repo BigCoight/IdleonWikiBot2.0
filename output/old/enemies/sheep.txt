@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Sheepie_Walking.gif
+|attack=300
+|health=55000
+|defence=550
+|speed=4
+|world=Frostfire Tyundra
+|area=Steep Sheep Ledge
+|exp=620
+|respawn=40
+|defence0=338.94
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Crystal Crabal|Frost Flake}}
+{{DropTable/head}}
+{{DropTable/coin|180|0.5}}
+{{DropTable/row|Floof Ploof|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/row|Box Statue|0.0002|1}}
+{{DropTable/row|Twin Ores Stamp|0.00008|1}}
+{{DropTable14|chance=0.0025}}
+|}

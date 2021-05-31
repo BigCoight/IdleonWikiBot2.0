@@ -1,0 +1,48 @@
+{{InfoItem
+|class=All
+|level=55
+|skill=mining
+|type=Pickaxe
+|skillpower=24
+|str=18
+|agi=6
+|misc=8% Mining Efficincy
+|upgrade=4
+|sellprice=18469800
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=32
+|levelreq=45
+|expgiven=400000
+|recipefrom=Start
+|resource1=Void Bar|quantity1=400
+|resource2=Dementia Pickaxe|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|VoidBar|400}}
+{{detrecipe|3|EquipmentTools7|2}}
+{{detrecipe|40|DementiaBar|550}}
+{{detrecipe|40|SnowA3|30000}}
+{{detrecipe|40|EquipmentTools6|4}}
+{{detrecipe|80|PlatBar|4000}}
+{{detrecipe|80|DesertB3|42000}}
+{{detrecipe|80|EquipmentTools5|8}}
+{{detrecipe|120|DesertA2|20000}}
+{{detrecipe|120|GoldBar|6400}}
+{{detrecipe|120|EquipmentTools3|24}}
+{{detrecipe|160|IronBar|2400}}
+{{detrecipe|160|Jungle3|4800}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|VoidBar|400}}
+{{detrecipe/totals|DementiaBar|550}}
+{{detrecipe/totals|SnowA3|30000}}
+{{detrecipe/totals|PlatBar|4000}}
+{{detrecipe/totals|DesertB3|42000}}
+{{detrecipe/totals|DesertA2|20000}}
+{{detrecipe/totals|GoldBar|6400}}
+{{detrecipe/totals|IronBar|2400}}
+{{detrecipe/totals|Jungle3|4800}}
+|}

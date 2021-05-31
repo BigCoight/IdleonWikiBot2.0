@@ -5,7 +5,7 @@
 |str=6
 |upgrade=3
 |defence=4
-|sellprice=10110
+|sellprice=8860
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -21,19 +21,19 @@
 {{usedin/row|[[Studded Hide]]|4|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Bleach Logs|325}}
-{{detrecipe|3|Copper Platebody|2}}
-{{detrecipe|40|Copper Bar|130}}
-{{detrecipe|40|Trusty Nails|300}}
-{{detrecipe|3|Steel Axe|1}}
-{{detrecipe|40|Slime Sludge|150}}
-{{detrecipe|40|Boring Brick|125}}
+{{detrecipe|3|BirchTree|325}}
+{{detrecipe|3|EquipmentShirts11|2}}
+{{detrecipe|40|CopperBar|90}}
+{{detrecipe|40|CraftMat5|240}}
+{{detrecipe|3|TestObj7|1}}
+{{detrecipe|40|Jungle1|125}}
+{{detrecipe|40|CraftMat6|125}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bleach Logs|325}}
-{{detrecipe/totals|Copper Bar|130}}
-{{detrecipe/totals|Trusty Nails|300}}
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Boring Brick|125}}
+{{detrecipe/totals|BirchTree|325}}
+{{detrecipe/totals|CopperBar|90}}
+{{detrecipe/totals|CraftMat5|240}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|CraftMat6|125}}
 |}

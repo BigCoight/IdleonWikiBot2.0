@@ -7,7 +7,7 @@
 |str=8
 |agi=3
 |upgrade=2
-|sellprice=308150
+|sellprice=285600
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,22 +17,22 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Megalodon Tooth|quantity1=2500
 |resource2=Gold Bar|quantity2=800
-|resource3=Iron Pickaxe|quantity3=5
+|resource3=Iron Pickaxe|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Platinum Pickaxe]]|3|Crafting}}
+{{usedin/row|[[Platinum Pickaxe]]|2|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Megalodon Tooth|2500}}
-{{detrecipe|3|Gold Bar|800}}
-{{detrecipe|3|Iron Pickaxe|5}}
-{{detrecipe|40|Iron Bar|700}}
-{{detrecipe|40|Carrot Cube|1250}}
+{{detrecipe|3|DesertA2|2500}}
+{{detrecipe|3|GoldBar|800}}
+{{detrecipe|3|EquipmentTools3|3}}
+{{detrecipe|40|IronBar|300}}
+{{detrecipe|40|Jungle3|600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Megalodon Tooth|2500}}
-{{detrecipe/totals|Gold Bar|800}}
-{{detrecipe/totals|Iron Bar|700}}
-{{detrecipe/totals|Carrot Cube|1250}}
+{{detrecipe/totals|DesertA2|2500}}
+{{detrecipe/totals|GoldBar|800}}
+{{detrecipe/totals|IronBar|300}}
+{{detrecipe/totals|Jungle3|600}}
 |}

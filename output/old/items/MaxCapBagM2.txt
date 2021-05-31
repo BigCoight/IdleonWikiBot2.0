@@ -14,16 +14,16 @@
 |resource3=Bean Slices|quantity3=30
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Material Pouch]]|10|Crafting}}
+{{usedin/row|[[Average Material Pouch]]|7|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Trusty Nails|80}}
-{{detrecipe|3|Frog Leg|40}}
-{{detrecipe|3|Bean Slices|30}}
+{{detrecipe|3|CraftMat5|80}}
+{{detrecipe|3|Grasslands2|40}}
+{{detrecipe|3|Grasslands3|30}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Trusty Nails|80}}
-{{detrecipe/totals|Frog Leg|40}}
-{{detrecipe/totals|Bean Slices|30}}
+{{detrecipe/totals|CraftMat5|80}}
+{{detrecipe/totals|Grasslands2|40}}
+{{detrecipe/totals|Grasslands3|30}}
 |}

@@ -5,5 +5,5 @@
 |source=Fishing
 }}
 {{usedin/head}}
-{{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
+{{usedin/row|[[Anvil Tab 4]]|6|Crafting}}
 |}

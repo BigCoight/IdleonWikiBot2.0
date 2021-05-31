@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Floofie_Walking.gif
+|attack=0
+|health=500
+|defence=1
+|speed=5
+|exp=1
+|respawn=40
+|defence0=0.22
+|hascard=Yes
+}}
+{{EnemyNavigation|Chocco Box|Shell Snake}}
+{{DropTable/head}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Egg Capsule|0.1|1}}
+{{DropTable/row|Goldegg Capsule|0.02|1}}
+{{DropTable/row|Easter Tool Upgrade Stone|0.02|3}}
+{{DropTable/row|Easter Armor Stone|0.03|3}}
+{{DropTable/row|Easter Weapon Stone|0.01|2}}
+|}

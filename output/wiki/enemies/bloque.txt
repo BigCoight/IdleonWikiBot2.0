@@ -1,22 +1,24 @@
 {{InfoEnemy
 |image=Bloque_Walking.gif
-|attack=0
+|attack=500
 |health=100000
-|defence=1
+|defence=1150
 |speed=4
 |world=Frostfire Tyundra
 |area=Refrigeration Station
 |exp=940
 |respawn=40
-|defence0=0.22
+|defence0=593.5
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Sir Stache|mamooth}}
 {{DropTable/head}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/coin|240|0.41}}
 {{DropTable/row|Sticky Stick|0.16|1}}
 {{DropTable/card|0.0001}}
-{{DropTable8|chance=0.4}}
+{{DropTable/row|Seesaw Statue|0.0002|1}}
+{{DropTable/row|Decent Mana Potion|.0025|1}}
+{{DropTable15|chance=0.0025}}
 |}

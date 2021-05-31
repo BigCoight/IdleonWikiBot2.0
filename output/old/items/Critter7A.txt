@@ -4,3 +4,6 @@
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
+|}

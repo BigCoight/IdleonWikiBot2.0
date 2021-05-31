@@ -2,9 +2,9 @@
 |title=Dedotated Ram
 |order=12
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{_Weapon_Power
+|bonus=2
+|reqtier=20
 |source=[[Dedotated Ram]]
 }}
 {{detdrops/head}}

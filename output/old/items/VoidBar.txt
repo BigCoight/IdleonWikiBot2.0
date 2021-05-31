@@ -1,8 +1,15 @@
 {{InfoItem
 |type=Bar
-|sellprice=6800
+|sellprice=6200
 |source=Forging, [[Cinder Forge]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Cinder Forge]]|0.5|69}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Helmet]]|1000|Crafting}}
+{{usedin/row|[[Void Imperium Platebody]]|500|Crafting}}
+{{usedin/row|[[Void Imperium Shardshins]]|650|Crafting}}
+{{usedin/row|[[Void Imperium Kicks]]|725|Crafting}}
+{{usedin/row|[[Void Imperium Pik]]|400|Crafting}}
 |}

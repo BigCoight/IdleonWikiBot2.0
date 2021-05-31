@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=8
-|type=Combat
+|type=Combat Stamp
 |bonus=% Critical Damage
 |material=Trusty Nails
 |sellprice=2500

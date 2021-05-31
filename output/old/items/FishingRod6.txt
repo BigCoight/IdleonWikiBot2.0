@@ -1,0 +1,48 @@
+{{InfoItem
+|class=All
+|level=45
+|skill=fishing
+|type=Fishing Rod
+|skillpower=30
+|str=12
+|upgrade=3
+|sellprice=2206200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=12
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Dementia Bar|quantity1=300
+|resource2=Redox Salts|quantity2=50
+|resource3=Plat Fishing Rod|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Rod]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|DementiaBar|300}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|FishingRod5|2}}
+{{detrecipe|40|Fish4|14000}}
+{{detrecipe|40|PlatBar|2000}}
+{{detrecipe|40|FishingRod4|4}}
+{{detrecipe|80|Fish2|10000}}
+{{detrecipe|80|CraftMat9|4000}}
+{{detrecipe|80|FishingRod3|12}}
+{{detrecipe|120|IronBar|3600}}
+{{detrecipe|120|Fish2|10200}}
+{{detrecipe|120|PureWater|36}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|DementiaBar|300}}
+{{detrecipe/totals|Refinery1|50}}
+{{detrecipe/totals|Fish4|14000}}
+{{detrecipe/totals|PlatBar|2000}}
+{{detrecipe/totals|Fish2|20200}}
+{{detrecipe/totals|CraftMat9|4000}}
+{{detrecipe/totals|IronBar|3600}}
+{{detrecipe/totals|PureWater|36}}
+|}

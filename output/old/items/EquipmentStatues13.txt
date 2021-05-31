@@ -12,24 +12,11 @@
 {{detdrops|[[Moonmoon]]|0.00024500000000000005|1.0}}
 {{detdrops|[[Sand Giant]]|0.00025900000000000006|1.0}}
 {{detdrops|[[Snelbie]]|0.000273|1.0}}
-{{detdrops|[[Sheepie]]|0.028000000000000004|1.0}}
-{{detdrops|[[Frost Flake]]|0.028000000000000004|1.0}}
-{{detdrops|[[Sir Stache]]|0.028000000000000004|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bloque]]|0.028000000000000004|1.0}}
-{{detdrops|[[mamooth]]|0.028000000000000004|1.0}}
-{{detdrops|[[Snowman]]|0.028000000000000004|1.0}}
-{{detdrops|[[Penguin]]|0.028000000000000004|1.0}}
-{{detdrops|[[Thermister]]|0.028000000000000004|1.0}}
-{{detdrops|[[Quenchie]]|0.028000000000000004|1.0}}
-{{detdrops|[[Cryosnake]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bop Box]]|0.028000000000000004|1.0}}
-{{detdrops|[[Neyeptune]]|0.028000000000000004|1.0}}
-{{detdrops|[[Xylobone]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bloodbone]]|0.028000000000000004|1.0}}
 {{detdrops|[[Efaunt]]|0.07|2.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.07|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.07|2.0}}
+{{detdrops|[[Chizoar]]|0.07|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.07|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.07|2.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.07|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.07|1.0}}
 |}

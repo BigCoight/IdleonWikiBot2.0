@@ -7,7 +7,7 @@
 {{ProductionSlot|lvlreq=18|num=4|expcraft=25|time=1000}}
 {{usedin/head}}
 {{usedin/row|[[Anvil Tab 2]]|200|Crafting}}
-{{usedin/row|[[Amarok Hinds]]|500|Crafting}}
+{{usedin/row|[[Amarok Hinds]]|400|Crafting}}
 {{usedin/row|[[Starlight]]|1000|Crafting}}
 {{usedin/row|[[Average Material Pouch]]|1250|Crafting}}
 {{usedin/row|[[Plat Hatchet]]|6000|Crafting}}

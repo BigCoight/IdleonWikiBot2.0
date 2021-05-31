@@ -1,8 +1,9 @@
+Boxing Gloves
 {{InfoItem
 |class=All
 |level=2
 |type=Fisticuff
-|speed=6
+|speed=5
 |weaponpower=4
 |str=2
 |luck=2
@@ -19,14 +20,15 @@
 |resource2=Cue Tape|quantity2=5
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Crimson String|1}}
-{{detrecipe|3|Cue Tape|5}}
+{{detrecipe|3|CraftMat2|1}}
+{{detrecipe|3|CraftMat3|5}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Crimson String|1}}
-{{detrecipe/totals|Cue Tape|5}}
+{{detrecipe/totals|CraftMat2|1}}
+{{detrecipe/totals|CraftMat3|5}}
 |}
+The Stingers
 {{InfoItem
 |class=All
 |level=6
@@ -50,19 +52,20 @@
 |resource3=Trusty Nails|quantity3=20
 }}
 {{usedin/head}}
-{{usedin/row|[[Bandage Wraps]]|10|Crafting}}
+{{usedin/row|[[Bandage Wraps]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|20}}
-{{detrecipe|3|Oak Logs|75}}
-{{detrecipe|3|Trusty Nails|20}}
+{{detrecipe|3|CopperBar|20}}
+{{detrecipe|3|OakTree|75}}
+{{detrecipe|3|CraftMat5|20}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|20}}
-{{detrecipe/totals|Oak Logs|75}}
-{{detrecipe/totals|Trusty Nails|20}}
+{{detrecipe/totals|CopperBar|20}}
+{{detrecipe/totals|OakTree|75}}
+{{detrecipe/totals|CraftMat5|20}}
 |}
+Bandage Wraps
 {{InfoItem
 |class=Beginner
 |level=25
@@ -73,7 +76,7 @@
 |luck=10
 |reach=65
 |upgrade=3
-|sellprice=50300
+|sellprice=47650
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -82,29 +85,74 @@
 |expgiven=3300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Cue Tape|quantity1=5000
-|resource2=The Stingers|quantity2=10
+|resource2=The Stingers|quantity2=5
 |resource3=Potty Rolls|quantity3=2000
 }}
 {{usedin/head}}
 {{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
+{{usedin/row|[[Uninflated Glove]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Cue Tape|5000}}
-{{detrecipe|3|The Stingers|10}}
-{{detrecipe|40|Copper Bar|200}}
-{{detrecipe|40|Oak Logs|750}}
-{{detrecipe|40|Trusty Nails|200}}
-{{detrecipe|3|Potty Rolls|2000}}
+{{detrecipe|3|CraftMat3|5000}}
+{{detrecipe|3|EquipmentPunching2|5}}
+{{detrecipe|40|CopperBar|100}}
+{{detrecipe|40|OakTree|375}}
+{{detrecipe|40|CraftMat5|100}}
+{{detrecipe|3|ToiletTree|2000}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Cue Tape|5000}}
-{{detrecipe/totals|Copper Bar|200}}
-{{detrecipe/totals|Oak Logs|750}}
-{{detrecipe/totals|Trusty Nails|200}}
-{{detrecipe/totals|Potty Rolls|2000}}
+{{detrecipe/totals|CraftMat3|5000}}
+{{detrecipe/totals|CopperBar|100}}
+{{detrecipe/totals|OakTree|375}}
+{{detrecipe/totals|CraftMat5|100}}
+{{detrecipe/totals|ToiletTree|2000}}
 |}
+Uninflated Glove
+{{InfoItem
+|class=Beginner
+|level=50
+|type=Fisticuff
+|speed=8
+|weaponpower=27
+|luck=13
+|reach=65
+|upgrade=4
+|sellprice=14142950
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=4
+|levelreq=40
+|expgiven=3
+|recipefrom=Start
+|resource1=Melty Cube|quantity1=70000
+|resource2=Bandage Wraps|quantity2=3
+}}
+{{usedin/head}}
+{{usedin/row|[[Member Hoodie]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SnowA2|70000}}
+{{detrecipe|3|EquipmentPunching3|3}}
+{{detrecipe|40|CraftMat3|15000}}
+{{detrecipe|40|EquipmentPunching2|15}}
+{{detrecipe|80|CopperBar|300}}
+{{detrecipe|80|OakTree|1125}}
+{{detrecipe|80|CraftMat5|300}}
+{{detrecipe|40|ToiletTree|6000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowA2|70000}}
+{{detrecipe/totals|CraftMat3|15000}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|OakTree|1125}}
+{{detrecipe/totals|CraftMat5|300}}
+{{detrecipe/totals|ToiletTree|6000}}
+|}
+Wooden Spear
 {{InfoItem
 |class=All
 |level=4
@@ -131,14 +179,15 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Cap|25}}
-{{detrecipe|3|Copper Bar|10}}
+{{detrecipe|3|Grasslands1|25}}
+{{detrecipe|3|CopperBar|10}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Cap|25}}
-{{detrecipe/totals|Copper Bar|10}}
+{{detrecipe/totals|Grasslands1|25}}
+{{detrecipe/totals|CopperBar|10}}
 |}
+Steel Axe
 {{InfoItem
 |class=Warrior
 |level=11
@@ -149,7 +198,7 @@
 |wis=3
 |reach=62
 |upgrade=2
-|sellprice=4625
+|sellprice=4375
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -157,7 +206,7 @@
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Slime Sludge|quantity1=150
+|resource1=Slime Sludge|quantity1=125
 |resource2=Boring Brick|quantity2=125
 }}
 {{usedin/head}}
@@ -166,25 +215,26 @@
 {{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|150}}
-{{detrecipe|3|Boring Brick|125}}
+{{detrecipe|3|Jungle1|125}}
+{{detrecipe|3|CraftMat6|125}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Boring Brick|125}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|CraftMat6|125}}
 |}
+Royal Bayonet
 {{InfoItem
 |class=Warrior
 |level=30
 |type=Spear
-|speed=4
+|speed=5
 |weaponpower=20
 |str=10
 |wis=2
 |reach=95
 |upgrade=3
-|sellprice=26775
+|sellprice=26025
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -201,30 +251,31 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Forest Fibres|1250}}
-{{detrecipe|3|Steel Axe|3}}
-{{detrecipe|40|Slime Sludge|450}}
-{{detrecipe|40|Boring Brick|375}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|ForestTree|1250}}
+{{detrecipe|3|TestObj7|3}}
+{{detrecipe|40|Jungle1|375}}
+{{detrecipe|40|CraftMat6|375}}
+{{detrecipe|3|PureWater|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Forest Fibres|1250}}
-{{detrecipe/totals|Slime Sludge|450}}
-{{detrecipe/totals|Boring Brick|375}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|ForestTree|1250}}
+{{detrecipe/totals|Jungle1|375}}
+{{detrecipe/totals|CraftMat6|375}}
+{{detrecipe/totals|PureWater|8}}
 |}
+Enforced Slasher
 {{InfoItem
 |class=Warrior
 |level=50
 |type=Spear
 |speed=5
 |weaponpower=26
-|str=12
+|str=11
 |wis=4
 |reach=80
 |upgrade=3
-|sellprice=594190
+|sellprice=412290
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -232,41 +283,134 @@
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Nuget Cake|quantity1=8
-|resource2=Leather Hide|quantity2=9000
+|resource1=Nuget Cake|quantity1=3
+|resource2=Leather Hide|quantity2=6000
 |resource3=Royal Bayonet|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[The Ice Breaker]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Nuget Cake|8}}
-{{detrecipe|3|Leather Hide|9000}}
-{{detrecipe|3|Royal Bayonet|2}}
-{{detrecipe|40|Forest Fibres|2500}}
-{{detrecipe|40|Steel Axe|6}}
-{{detrecipe|80|Slime Sludge|900}}
-{{detrecipe|80|Boring Brick|750}}
-{{detrecipe|40|Distilled Water|16}}
+{{detrecipe|3|DesertA3b|3}}
+{{detrecipe|3|CraftMat9|6000}}
+{{detrecipe|3|TestObj3|2}}
+{{detrecipe|40|ForestTree|2500}}
+{{detrecipe|40|TestObj7|6}}
+{{detrecipe|80|Jungle1|750}}
+{{detrecipe|80|CraftMat6|750}}
+{{detrecipe|40|PureWater|16}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Nuget Cake|8}}
-{{detrecipe/totals|Leather Hide|9000}}
-{{detrecipe/totals|Forest Fibres|2500}}
-{{detrecipe/totals|Slime Sludge|900}}
-{{detrecipe/totals|Boring Brick|750}}
-{{detrecipe/totals|Distilled Water|16}}
+{{detrecipe/totals|DesertA3b|3}}
+{{detrecipe/totals|CraftMat9|6000}}
+{{detrecipe/totals|ForestTree|2500}}
+{{detrecipe/totals|Jungle1|750}}
+{{detrecipe/totals|CraftMat6|750}}
+{{detrecipe/totals|PureWater|16}}
 |}
+The Ice Breaker
 {{InfoItem
 |class=Warrior
 |level=75
 |type=Spear
 |speed=5
 |weaponpower=33
-|str=20
+|str=13
+|wis=6
 |misc=5% Crit Damage
 |reach=76
 |upgrade=4
-|sellprice=26000
+|sellprice=5837980
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=5
+|levelreq=39
+|expgiven=200000
+|recipefrom=Start
+|resource1=Melty Cube|quantity1=25000
+|resource2=Enforced Slasher|quantity2=2
+|resource3=Redox Salts|quantity3=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Deuscythe]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SnowA2|25000}}
+{{detrecipe|3|EquipmentSword1|2}}
+{{detrecipe|40|DesertA3b|6}}
+{{detrecipe|40|CraftMat9|12000}}
+{{detrecipe|40|TestObj3|4}}
+{{detrecipe|80|ForestTree|5000}}
+{{detrecipe|80|TestObj7|12}}
+{{detrecipe|120|Jungle1|1500}}
+{{detrecipe|120|CraftMat6|1500}}
+{{detrecipe|80|PureWater|32}}
+{{detrecipe|3|Refinery1|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowA2|25000}}
+{{detrecipe/totals|DesertA3b|6}}
+{{detrecipe/totals|CraftMat9|12000}}
+{{detrecipe/totals|ForestTree|5000}}
+{{detrecipe/totals|Jungle1|1500}}
+{{detrecipe/totals|CraftMat6|1500}}
+{{detrecipe/totals|Refinery1|150}}
+|}
+Deuscythe
+{{InfoItem
+|class=Warrior
+|level=90
+|type=Spear
+|speed=6
+|weaponpower=40
+|str=20
+|misc=5% Crit Damage
+|reach=88
+|upgrade=4
+|sellprice=17514755
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=29
+|levelreq=45
+|expgiven=450000
+|recipefrom=Start
+|resource1=Black Lense|quantity1=4
+|resource2=Eternal Lord of  The Undying Ember|quantity2=5
+|resource3=The Ice Breaker|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC4a|4}}
+{{detrecipe|3|Critter6A|5}}
+{{detrecipe|3|EquipmentSword2|3}}
+{{detrecipe|40|SnowA2|75000}}
+{{detrecipe|40|EquipmentSword1|6}}
+{{detrecipe|80|DesertA3b|18}}
+{{detrecipe|80|CraftMat9|36000}}
+{{detrecipe|80|TestObj3|12}}
+{{detrecipe|120|ForestTree|15000}}
+{{detrecipe|120|TestObj7|36}}
+{{detrecipe|160|Jungle1|4500}}
+{{detrecipe|160|CraftMat6|4500}}
+{{detrecipe|120|PureWater|96}}
+{{detrecipe|40|Refinery1|450}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC4a|4}}
+{{detrecipe/totals|Critter6A|5}}
+{{detrecipe/totals|SnowA2|75000}}
+{{detrecipe/totals|DesertA3b|18}}
+{{detrecipe/totals|CraftMat9|36000}}
+{{detrecipe/totals|ForestTree|15000}}
+{{detrecipe/totals|Jungle1|4500}}
+{{detrecipe/totals|CraftMat6|4500}}
+{{detrecipe/totals|Refinery1|450}}
+|}
+Frozen Impaler
 {{InfoItem
 |class=Warrior
 |level=45
@@ -281,6 +425,7 @@
 |upgrade=2
 |sellprice=120
 }}
+Blood Screamer
 {{InfoItem
 |class=Warrior
 |level=55
@@ -295,6 +440,7 @@
 |upgrade=2
 |sellprice=200
 }}
+Flaming Katana
 {{InfoItem
 |class=Warrior
 |level=85
@@ -307,6 +453,7 @@
 |upgrade=2
 |sellprice=200
 }}
+Emerald Eizon
 {{InfoItem
 |class=Warrior
 |level=95
@@ -319,6 +466,7 @@
 |upgrade=2
 |sellprice=200
 }}
+Stalagmite
 {{InfoItem
 |class=Warrior
 |level=155
@@ -332,6 +480,7 @@
 |upgrade=2
 |sellprice=200
 }}
+Iron Sword
 {{InfoItem
 |class=Warrior
 |level=1
@@ -344,6 +493,7 @@
 |upgrade=2
 |sellprice=200
 }}
+Steel Spear
 {{InfoItem
 |class=Warrior
 |level=25
@@ -357,6 +507,7 @@
 |upgrade=2
 |sellprice=223400
 }}
+Wooden Bow
 {{InfoItem
 |class=All
 |level=1
@@ -382,14 +533,15 @@
 {{usedin/row|[[Sleek Shank]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Cap|25}}
-{{detrecipe|3|Thread|30}}
+{{detrecipe|3|Grasslands1|25}}
+{{detrecipe|3|CraftMat1|30}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Cap|25}}
-{{detrecipe/totals|Thread|30}}
+{{detrecipe/totals|Grasslands1|25}}
+{{detrecipe/totals|CraftMat1|30}}
 |}
+Birch Longbow
 {{InfoItem
 |class=Archer
 |level=12
@@ -400,7 +552,7 @@
 |agi=5
 |reach=170
 |upgrade=2
-|sellprice=2250
+|sellprice=2000
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -408,7 +560,7 @@
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Slime Sludge|quantity1=150
+|resource1=Slime Sludge|quantity1=125
 |resource2=Bleach Logs|quantity2=250
 }}
 {{usedin/head}}
@@ -417,14 +569,15 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|150}}
-{{detrecipe|3|Bleach Logs|250}}
+{{detrecipe|3|Jungle1|125}}
+{{detrecipe|3|BirchTree|250}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Bleach Logs|250}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|BirchTree|250}}
 |}
+Carrot Launcher
 {{InfoItem
 |class=Archer
 |level=18
@@ -444,6 +597,7 @@
 {{usedin/row|[[Blunderhills Misc Completion Token]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
+Spiked Menace
 {{InfoItem
 |class=Archer
 |level=30
@@ -455,7 +609,7 @@
 |luck=3
 |reach=175
 |upgrade=3
-|sellprice=35900
+|sellprice=35150
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -472,19 +626,20 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Gold Bar|250}}
-{{detrecipe|3|Birch Longbow|3}}
-{{detrecipe|40|Slime Sludge|450}}
-{{detrecipe|40|Bleach Logs|750}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|GoldBar|250}}
+{{detrecipe|3|EquipmentBows3|3}}
+{{detrecipe|40|Jungle1|375}}
+{{detrecipe|40|BirchTree|750}}
+{{detrecipe|3|PureWater|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Gold Bar|250}}
-{{detrecipe/totals|Slime Sludge|450}}
-{{detrecipe/totals|Bleach Logs|750}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|GoldBar|250}}
+{{detrecipe/totals|Jungle1|375}}
+{{detrecipe/totals|BirchTree|750}}
+{{detrecipe/totals|PureWater|8}}
 |}
+Pharoah Bow
 {{InfoItem
 |class=Archer
 |level=50
@@ -495,7 +650,7 @@
 |agi=13
 |reach=200
 |upgrade=3
-|sellprice=166120
+|sellprice=128170
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -503,58 +658,136 @@
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Woodular Circle|quantity1=8
-|resource2=Bloach|quantity2=5200
+|resource1=Woodular Circle|quantity1=3
+|resource2=Bloach|quantity2=3200
 |resource3=Spiked Menace|quantity3=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
+{{usedin/row|[[Blizzard Bow]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Woodular Circle|8}}
-{{detrecipe|3|Bloach|5200}}
-{{detrecipe|3|Spiked Menace|2}}
-{{detrecipe|40|Gold Bar|500}}
-{{detrecipe|40|Birch Longbow|6}}
-{{detrecipe|80|Slime Sludge|900}}
-{{detrecipe|80|Bleach Logs|1500}}
-{{detrecipe|40|Distilled Water|16}}
+{{detrecipe|3|TreeInterior1b|3}}
+{{detrecipe|3|Fish4|3200}}
+{{detrecipe|3|EquipmentBows5|2}}
+{{detrecipe|40|GoldBar|500}}
+{{detrecipe|40|EquipmentBows3|6}}
+{{detrecipe|80|Jungle1|750}}
+{{detrecipe|80|BirchTree|1500}}
+{{detrecipe|40|PureWater|16}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Woodular Circle|8}}
-{{detrecipe/totals|Bloach|5200}}
-{{detrecipe/totals|Gold Bar|500}}
-{{detrecipe/totals|Slime Sludge|900}}
-{{detrecipe/totals|Bleach Logs|1500}}
-{{detrecipe/totals|Distilled Water|16}}
+{{detrecipe/totals|TreeInterior1b|3}}
+{{detrecipe/totals|Fish4|3200}}
+{{detrecipe/totals|GoldBar|500}}
+{{detrecipe/totals|Jungle1|750}}
+{{detrecipe/totals|BirchTree|1500}}
+{{detrecipe/totals|PureWater|16}}
 |}
+Blizzard Bow
 {{InfoItem
 |class=Archer
 |level=75
 |type=Bow
 |speed=6
 |weaponpower=30
-|str=5
-|agi=13
-|reach=200
+|agi=15
+|misc=5% Crit Damage
+|reach=205
 |upgrade=4
-|sellprice=15000
+|sellprice=290740
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=6
+|levelreq=39
+|expgiven=200000
+|recipefrom=Start
+|resource1=Forest Soul|quantity1=7000
+|resource2=Pharoah Bow|quantity2=2
+|resource3=Redox Salts|quantity3=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Blackhole Bow]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Soul1|7000}}
+{{detrecipe|3|EquipmentBows6|2}}
+{{detrecipe|40|TreeInterior1b|6}}
+{{detrecipe|40|Fish4|6400}}
+{{detrecipe|40|EquipmentBows5|4}}
+{{detrecipe|80|GoldBar|1000}}
+{{detrecipe|80|EquipmentBows3|12}}
+{{detrecipe|120|Jungle1|1500}}
+{{detrecipe|120|BirchTree|3000}}
+{{detrecipe|80|PureWater|32}}
+{{detrecipe|3|Refinery1|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul1|7000}}
+{{detrecipe/totals|TreeInterior1b|6}}
+{{detrecipe/totals|Fish4|6400}}
+{{detrecipe/totals|GoldBar|1000}}
+{{detrecipe/totals|Jungle1|1500}}
+{{detrecipe/totals|BirchTree|3000}}
+{{detrecipe/totals|Refinery1|150}}
+|}
+Blackhole Bow
 {{InfoItem
 |class=Archer
-|level=25
+|level=90
 |type=Bow
 |speed=7
-|weaponpower=25
-|str=18
-|agi=15
-|luck=1
-|reach=200
-|upgrade=2
-|sellprice=200
+|weaponpower=36
+|str=10
+|agi=13
+|misc=5% Crit Damage
+|reach=230
+|upgrade=4
+|sellprice=898020
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=30
+|levelreq=45
+|expgiven=450000
+|recipefrom=Start
+|resource1=Black Lense|quantity1=4
+|resource2=Spontaneity Salts|quantity2=250
+|resource3=Blizzard Bow|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC4a|4}}
+{{detrecipe|3|Refinery3|250}}
+{{detrecipe|3|EquipmentBows7|3}}
+{{detrecipe|40|Soul1|21000}}
+{{detrecipe|40|EquipmentBows6|6}}
+{{detrecipe|80|TreeInterior1b|18}}
+{{detrecipe|80|Fish4|19200}}
+{{detrecipe|80|EquipmentBows5|12}}
+{{detrecipe|120|GoldBar|3000}}
+{{detrecipe|120|EquipmentBows3|36}}
+{{detrecipe|160|Jungle1|4500}}
+{{detrecipe|160|BirchTree|9000}}
+{{detrecipe|120|PureWater|96}}
+{{detrecipe|40|Refinery1|450}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC4a|4}}
+{{detrecipe/totals|Refinery3|250}}
+{{detrecipe/totals|Soul1|21000}}
+{{detrecipe/totals|TreeInterior1b|18}}
+{{detrecipe/totals|Fish4|19200}}
+{{detrecipe/totals|GoldBar|3000}}
+{{detrecipe/totals|Jungle1|4500}}
+{{detrecipe/totals|BirchTree|9000}}
+{{detrecipe/totals|Refinery1|450}}
+|}
+Gnarled Wand
 {{InfoItem
 |class=All
 |level=4
@@ -579,14 +812,15 @@
 {{usedin/row|[[Sleek Shank]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Cap|25}}
-{{detrecipe|3|Oak Logs|30}}
+{{detrecipe|3|Grasslands1|25}}
+{{detrecipe|3|OakTree|30}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Cap|25}}
-{{detrecipe/totals|Oak Logs|30}}
+{{detrecipe/totals|Grasslands1|25}}
+{{detrecipe/totals|OakTree|30}}
 |}
+Quarterstaff
 {{InfoItem
 |class=Mage
 |level=12
@@ -596,7 +830,7 @@
 |wis=9
 |reach=120
 |upgrade=2
-|sellprice=2200
+|sellprice=1950
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -604,7 +838,7 @@
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Slime Sludge|quantity1=150
+|resource1=Slime Sludge|quantity1=125
 |resource2=Copper Bar|quantity2=100
 }}
 {{usedin/head}}
@@ -612,25 +846,26 @@
 {{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|150}}
-{{detrecipe|3|Copper Bar|100}}
+{{detrecipe|3|Jungle1|125}}
+{{detrecipe|3|CopperBar|100}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Copper Bar|100}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|CopperBar|100}}
 |}
+Starlight
 {{InfoItem
 |class=Mage
 |level=30
 |type=Wand
-|speed=3
+|speed=4
 |weaponpower=23
 |agi=1
 |wis=11
-|reach=160
+|reach=145
 |upgrade=3
-|sellprice=47000
+|sellprice=46250
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -647,31 +882,32 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Chain Link|1000}}
-{{detrecipe|3|Quarterstaff|3}}
-{{detrecipe|40|Slime Sludge|450}}
-{{detrecipe|40|Copper Bar|300}}
-{{detrecipe|3|Distilled Water|8}}
+{{detrecipe|3|CraftMat7|1000}}
+{{detrecipe|3|EquipmentWands2|3}}
+{{detrecipe|40|Jungle1|375}}
+{{detrecipe|40|CopperBar|300}}
+{{detrecipe|3|PureWater|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Chain Link|1000}}
-{{detrecipe/totals|Slime Sludge|450}}
-{{detrecipe/totals|Copper Bar|300}}
-{{detrecipe/totals|Distilled Water|8}}
+{{detrecipe/totals|CraftMat7|1000}}
+{{detrecipe/totals|Jungle1|375}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|PureWater|8}}
 |}
+Crows Nest
 {{InfoItem
 |class=Mage
 |level=50
 |type=Wand
-|speed=3
+|speed=5
 |weaponpower=30
 |agi=5
 |wis=9
 |misc=5% Movement Speed
 |reach=160
 |upgrade=3
-|sellprice=268000
+|sellprice=174000
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -679,41 +915,135 @@
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Golden Plop|quantity1=8
-|resource2=Fruitfly|quantity2=8500
+|resource1=Golden Plop|quantity1=3
+|resource2=Fruitfly|quantity2=4000
 |resource3=Starlight|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Spriggly Storm]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Plop|8}}
-{{detrecipe|3|Fruitfly|8500}}
-{{detrecipe|3|Starlight|2}}
-{{detrecipe|40|Chain Link|2000}}
-{{detrecipe|40|Quarterstaff|6}}
-{{detrecipe|80|Slime Sludge|900}}
-{{detrecipe|80|Copper Bar|600}}
-{{detrecipe|40|Distilled Water|16}}
+{{detrecipe|3|Sewers1b|3}}
+{{detrecipe|3|Bug4|4000}}
+{{detrecipe|3|EquipmentWands5|2}}
+{{detrecipe|40|CraftMat7|2000}}
+{{detrecipe|40|EquipmentWands2|6}}
+{{detrecipe|80|Jungle1|750}}
+{{detrecipe|80|CopperBar|600}}
+{{detrecipe|40|PureWater|16}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Plop|8}}
-{{detrecipe/totals|Fruitfly|8500}}
-{{detrecipe/totals|Chain Link|2000}}
-{{detrecipe/totals|Slime Sludge|900}}
-{{detrecipe/totals|Copper Bar|600}}
-{{detrecipe/totals|Distilled Water|16}}
+{{detrecipe/totals|Sewers1b|3}}
+{{detrecipe/totals|Bug4|4000}}
+{{detrecipe/totals|CraftMat7|2000}}
+{{detrecipe/totals|Jungle1|750}}
+{{detrecipe/totals|CopperBar|600}}
+{{detrecipe/totals|PureWater|16}}
 |}
+Spriggly Storm
 {{InfoItem
 |class=Mage
-|level=1
+|level=75
 |type=Wand
 |speed=5
-|weaponpower=25
+|weaponpower=36
 |wis=15
 |luck=1
-|reach=160
-|upgrade=2
-|sellprice=200
+|reach=155
+|upgrade=4
+|sellprice=661400
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=7
+|levelreq=39
+|expgiven=200000
+|recipefrom=Start
+|resource1=Tundra Logs|quantity1=10000
+|resource2=Crows Nest|quantity2=2
+|resource3=Redox Salts|quantity3=150
+}}
+{{usedin/head}}
+{{usedin/row|[[Grey Gatsby]]|3|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SaharanFoal|10000}}
+{{detrecipe|3|EquipmentWands6|2}}
+{{detrecipe|40|Sewers1b|6}}
+{{detrecipe|40|Bug4|8000}}
+{{detrecipe|40|EquipmentWands5|4}}
+{{detrecipe|80|CraftMat7|4000}}
+{{detrecipe|80|EquipmentWands2|12}}
+{{detrecipe|120|Jungle1|1500}}
+{{detrecipe|120|CopperBar|1200}}
+{{detrecipe|80|PureWater|32}}
+{{detrecipe|3|Refinery1|150}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SaharanFoal|10000}}
+{{detrecipe/totals|Sewers1b|6}}
+{{detrecipe/totals|Bug4|8000}}
+{{detrecipe/totals|CraftMat7|4000}}
+{{detrecipe/totals|Jungle1|1500}}
+{{detrecipe/totals|CopperBar|1200}}
+{{detrecipe/totals|Refinery1|150}}
+|}
+Grey Gatsby
+{{InfoItem
+|class=Mage
+|level=90
+|type=Wand
+|speed=6
+|weaponpower=43
+|agi=10
+|wis=13
+|luck=1
+|misc=5% Crit Damage
+|reach=170
+|upgrade=4
+|sellprice=3735000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=31
+|levelreq=45
+|expgiven=450000
+|recipefrom=Start
+|resource1=Black Lense|quantity1=4
+|resource2=Frigid Soul|quantity2=50000
+|resource3=Spriggly Storm|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC4a|4}}
+{{detrecipe|3|Soul4|50000}}
+{{detrecipe|3|EquipmentWands3|3}}
+{{detrecipe|40|SaharanFoal|30000}}
+{{detrecipe|40|EquipmentWands6|6}}
+{{detrecipe|80|Sewers1b|18}}
+{{detrecipe|80|Bug4|24000}}
+{{detrecipe|80|EquipmentWands5|12}}
+{{detrecipe|120|CraftMat7|12000}}
+{{detrecipe|120|EquipmentWands2|36}}
+{{detrecipe|160|Jungle1|4500}}
+{{detrecipe|160|CopperBar|3600}}
+{{detrecipe|120|PureWater|96}}
+{{detrecipe|40|Refinery1|450}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC4a|4}}
+{{detrecipe/totals|Soul4|50000}}
+{{detrecipe/totals|SaharanFoal|30000}}
+{{detrecipe/totals|Sewers1b|18}}
+{{detrecipe/totals|Bug4|24000}}
+{{detrecipe/totals|CraftMat7|12000}}
+{{detrecipe/totals|Jungle1|4500}}
+{{detrecipe/totals|CopperBar|3600}}
+{{detrecipe/totals|Refinery1|450}}
+|}
+Microphone
 {{InfoItem
 |class=Mage
 |level=1
@@ -727,6 +1057,7 @@
 |upgrade=3
 |sellprice=200
 }}
+Flesh Reaper
 {{InfoItem
 |class=All
 |level=1

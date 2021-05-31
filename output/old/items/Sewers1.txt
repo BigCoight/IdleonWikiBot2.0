@@ -9,7 +9,7 @@
 {{detdrops|[[Dr Defecaus]]|1|150}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Amarok Bodyplate]]|1200|Crafting}}
+{{usedin/row|[[Amarok Bodyplate]]|900|Crafting}}
 {{usedin/row|[[Witch Hat]]|4000|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 |}

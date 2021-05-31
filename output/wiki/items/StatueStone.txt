@@ -1,3 +1,4 @@
+Power Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue sculpted in the likeness of an absolute unit. Give this to the Statue Man in return for some bonus stats.
@@ -11,6 +12,7 @@
 {{usedin/head}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|20|Quests}}
 |}
+Speed Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue that isnt actually fast because its made of stone and stone can't move. Give this to the Statue Man in return for some bonus stats
@@ -24,6 +26,7 @@
 {{detdrops|[[Crystal Cattle]]|0.07|3.0}}
 {{detdrops|[[Wood Mushroom]]|0.00014000000000000001|1.0}}
 |}
+Mining Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue that resembles some sort of double edged scythe. Give this to the Statue Man in return for some bonus stats
@@ -39,13 +42,13 @@
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00304|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.003392|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0032640000000000004|1.0}}
-{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.002848|1.0}}
 |}
+Feasty Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue that looks good enough to eat to anyone who doesn't notice that it's inedible. Give this to the Statue Man in return for some bonus stats
 |sellprice=10
-|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]]
 }}
 {{Statuedata|1|+ %@ Food Effect}}
 {{detdrops/head}}
@@ -55,7 +58,15 @@
 {{detdrops|[[Crystal Crabal]]|0.05|3.0}}
 {{detdrops|[[Crystal Cattle]]|0.05|3.0}}
 {{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000012000000000000002|1.0}}
+{{detdrops|[[Quenchie]]|0.000075|1.0}}
+{{detdrops|[[Cryosnake]]|0.000084|1.0}}
+{{detdrops|[[Bop Box]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Neyeptune]]|0.000096|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000012000000000000002|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.03|1.0}}
 |}
+Health Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue made by someone for a romantic propsal. I don't think it ended well. Give this to the Statue Man in return for some bonus stats
@@ -80,6 +91,7 @@
 {{detdrops|[[Nutto]]|0.0005849999999999999|1.0}}
 {{detdrops|[[Wood Mushroom]]|0.00063|1.0}}
 |}
+Kachow Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue named after the catch phrase of a very fast and very not real red car. Give this to the Statue Man in return for some bonus stats
@@ -87,6 +99,7 @@
 |source=[[Post Office#Plan-it Express|Plan-it Express]], [[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Tiki_Chief#Brochure Building|Brochure Building]], [[Alchemy#Level up Gift|Level up Gift]]
 }}
 {{Statuedata|0.4|+ %@ Crit Damage}}
+Lumberbob Statue
 {{InfoItem
 |type=Statue
 |description=A stone statue named in a world where the name Jack doesn't exist. Give this to the Statue Man in return for some bonus stats
@@ -101,7 +114,10 @@
 {{detdrops|[[Mining#Drops|Mining Gold]]|0.002025|1.0}}
 {{detdrops|[[Mining#Drops|Mining Plat]]|0.002079|1.0}}
 {{detdrops|[[Mining#Drops|Mining Dementia]]|0.0022140000000000003|1.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.00243|2.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.002565|2.0}}
 |}
+Thicc Skin Statue
 {{InfoItem
 |type=Statue
 |description=I don't think the sculptor who named this statue back in 3000 BC would be happy with how his typo would be interpreted.
@@ -112,6 +128,7 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.00075|2.0}}
 |}
+Oceanman Statue
 {{InfoItem
 |type=Statue
 |description=What's that, statue? You want to... take me by the hand and lead me to the land? With that land pecifically being the one that you understand?
@@ -120,6 +137,9 @@
 }}
 {{Statuedata|0.3|+ @ Fishing Power}}
 {{detdrops/head}}
+{{detdrops|[[Frigid Soul]]|0.001275|1.0}}
+{{detdrops|[[Squiddy Soul]]|0.001275|1.0}}
+{{detdrops|[[Bandit Bob]]|0.001275|1.0}}
 {{detdrops|[[Crystal Crabal]]|0.0425|1.0}}
 {{detdrops|[[Crystal Cattle]]|0.0425|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.001275|1.0}}
@@ -127,6 +147,7 @@
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.001275|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.001275|1.0}}
 |}
+Ol Reliable Statue
 {{InfoItem
 |type=Statue
 |description=It takes a true artist to make a realistic statue like this one. He captured the flying aspect of those stone flies perfectly!
@@ -143,6 +164,7 @@
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.001224|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.001224|1.0}}
 |}
+Exp Book Statue
 {{InfoItem
 |type=Statue
 |description=I haven't read a book since middle school, so I'm just assuming this is what they look like.
@@ -161,9 +183,12 @@
 {{detdrops|[[Efaunt]]|0.04|2.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.04|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.04|2.0}}
+{{detdrops|[[Chizoar]]|0.04|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.04|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.04|2.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.04|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.04|1.0}}
 |}
+Anvil Statue
 {{InfoItem
 |type=Statue
 |description=A little monument to the efforts of a most devious coyote, whose dreams were always just out of reach, and whose head often felt the crushing blow of defeat.
@@ -179,10 +204,12 @@
 {{detdrops|[[Crabcake]]|0.000252|1.0}}
 {{detdrops|[[Efaunt]]|0.07|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.07|2.0}}
+{{detdrops|[[Chizoar]]|0.07|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.07|2.0}}
 {{detdrops|[[Biggie Hours]]|0.035|1.0}}
 {{detdrops|[[Sandstone Bronze Chest]]|0.07|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.07|1.0}}
 |}
+Cauldron Statue
 {{InfoItem
 |type=Statue
 |description=They used to tie women to these things and throw them into the ocean to see if they were a witch. If they were, they'd use all the water in the ocean to upgrade the cauldron and thus not drown! Not sure what happened if they werent.
@@ -197,27 +224,15 @@
 {{detdrops|[[Moonmoon]]|0.00024500000000000005|1.0}}
 {{detdrops|[[Sand Giant]]|0.00025900000000000006|1.0}}
 {{detdrops|[[Snelbie]]|0.000273|1.0}}
-{{detdrops|[[Sheepie]]|0.028000000000000004|1.0}}
-{{detdrops|[[Frost Flake]]|0.028000000000000004|1.0}}
-{{detdrops|[[Sir Stache]]|0.028000000000000004|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bloque]]|0.028000000000000004|1.0}}
-{{detdrops|[[mamooth]]|0.028000000000000004|1.0}}
-{{detdrops|[[Snowman]]|0.028000000000000004|1.0}}
-{{detdrops|[[Penguin]]|0.028000000000000004|1.0}}
-{{detdrops|[[Thermister]]|0.028000000000000004|1.0}}
-{{detdrops|[[Quenchie]]|0.028000000000000004|1.0}}
-{{detdrops|[[Cryosnake]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bop Box]]|0.028000000000000004|1.0}}
-{{detdrops|[[Neyeptune]]|0.028000000000000004|1.0}}
-{{detdrops|[[Xylobone]]|0.028000000000000004|1.0}}
-{{detdrops|[[Bloodbone]]|0.028000000000000004|1.0}}
 {{detdrops|[[Efaunt]]|0.07|2.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.07|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.07|2.0}}
+{{detdrops|[[Chizoar]]|0.07|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.07|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.07|2.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.07|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.07|1.0}}
 |}
+Beholder Statue
 {{InfoItem
 |type=Statue
 |description=This statue is beautiful! Well, at least to me.
@@ -231,6 +246,7 @@
 {{detdrops|[[Crystal Cattle]]|0.05|3.0}}
 {{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
 |}
+Bullseye Statue
 {{InfoItem
 |type=Statue
 |description=This statue was created by shooting a target statue into a stationary arrow statue.
@@ -242,4 +258,61 @@
 {{detdrops|[[Walking Stick]]|0.00028500000000000004|1.0}}
 {{detdrops|[[Nutto]]|0.000325|1.0}}
 {{detdrops|[[Wood Mushroom]]|0.00035000000000000005|1.0}}
+|}
+Box Statue
+{{InfoItem
+|type=Statue
+|description=It's more of an open container than a box, really.
+|sellprice=10
+|source=[[Sheepie]], [[Penguin]]
+}}
+{{Statuedata|0.3|+ @ Trappin Power}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.0002|1}}
+{{detdrops|[[Penguin]]|0.0003|1}}
+|}
+Twosoul Statue
+{{InfoItem
+|type=Statue
+|description=A statue of the soul.
+|sellprice=10
+|source=[[Sir Stache]], [[Quenchie]]
+}}
+{{Statuedata|0.3|+ @ Worship Power}}
+{{detdrops/head}}
+{{detdrops|[[Sir Stache]]|0.0002|1}}
+{{detdrops|[[Quenchie]]|0.0003|1}}
+|}
+EhExPee Statue
+{{InfoItem
+|type=Statue
+|description=The sculptor got so fed up with people misinterpreting his previous statues, he felt the need to spell this one out.
+|sellprice=10
+|source=[[DropTable14]], [[DropTable15]]
+}}
+{{Statuedata|0.1|+ %@ Skill Exp}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.000125|15.0}}
+{{detdrops|[[Frost Flake]]|0.00014000000000000001|15.0}}
+{{detdrops|[[Sir Stache]]|0.000155|15.0}}
+{{detdrops|[[Xylobone]]|0.0005|15.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.05|15.0}}
+{{detdrops|[[Bloque]]|0.0001|14.0}}
+{{detdrops|[[mamooth]]|0.00010800000000000001|14.0}}
+{{detdrops|[[Snowman]]|0.000116|14.0}}
+{{detdrops|[[Penguin]]|0.000124|14.0}}
+{{detdrops|[[Thermister]]|0.000132|14.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.04|14.0}}
+|}
+Seesaw Statue
+{{InfoItem
+|type=Statue
+|description=The end result of someone trying to cut a slab in half with a ceramic saw, and then leaving early after they saw me watching them in the bushes, writing down what they were doing in this description.
+|sellprice=10
+|source=[[Bloque]], [[Cryosnake]]
+}}
+{{Statuedata|0.5|+ %@ Cons Exp}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.0002|1}}
+{{detdrops|[[Cryosnake]]|0.0003|1}}
 |}

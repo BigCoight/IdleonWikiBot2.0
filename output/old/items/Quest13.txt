@@ -18,13 +18,13 @@
 {{usedin/row|[[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]]|5|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Hermit Can|250}}
-{{detrecipe|3|Megalodon Tooth|400}}
-{{detrecipe|3|Distilled Water|4}}
+{{detrecipe|3|Fish2|250}}
+{{detrecipe|3|DesertA2|400}}
+{{detrecipe|3|PureWater|4}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hermit Can|250}}
-{{detrecipe/totals|Megalodon Tooth|400}}
-{{detrecipe/totals|Distilled Water|4}}
+{{detrecipe/totals|Fish2|250}}
+{{detrecipe/totals|DesertA2|400}}
+{{detrecipe/totals|PureWater|4}}
 |}

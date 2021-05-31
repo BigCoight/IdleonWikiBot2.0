@@ -1,12 +1,12 @@
 {{InfoItem
 |type=Bar
 |sellprice=460
-|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|20}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.35|60}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Blunder Skills Completion Token]]|1000|Crafting}}

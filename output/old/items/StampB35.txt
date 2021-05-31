@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Max Charge
+|material=Cracked Glass
+|sellprice=4000
+}}

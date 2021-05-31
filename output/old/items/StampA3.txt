@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=3
-|type=Combat
+|type=Combat Stamp
 |bonus= Base MP
 |material=Copper Ore
 |sellprice=2500

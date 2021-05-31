@@ -1,3 +1,4 @@
+Copper Bar
 {{InfoItem
 |type=Bar
 |sellprice=7
@@ -16,10 +17,10 @@
 {{usedin/row|[[Copper Chopper]]|13|Crafting}}
 {{usedin/row|[[The Stingers]]|20|Crafting}}
 {{usedin/row|[[Cramped Food Pouch]]|15|Crafting}}
-{{usedin/row|[[Copper Helmet]]|50|Crafting}}
-{{usedin/row|[[Copper Platebody]]|65|Crafting}}
-{{usedin/row|[[Copper Platelegs]]|80|Crafting}}
-{{usedin/row|[[Copper Boots]]|200|Crafting}}
+{{usedin/row|[[Copper Helmet]]|30|Crafting}}
+{{usedin/row|[[Copper Platebody]]|45|Crafting}}
+{{usedin/row|[[Copper Platelegs]]|60|Crafting}}
+{{usedin/row|[[Copper Boots]]|125|Crafting}}
 {{usedin/row|[[Quarterstaff]]|100|Crafting}}
 {{usedin/row|[[Copper Band]]|300|Crafting}}
 {{usedin/row|[[Copper Fish Rod]]|200|Crafting}}
@@ -29,6 +30,7 @@
 {{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Barium Mixture|Barium Mixture]]|Lots|Alchemy}}
 |}
+Iron Bar
 {{InfoItem
 |type=Bar
 |sellprice=32
@@ -43,15 +45,15 @@
 {{usedin/row|[[Thief Hood]]|25|Crafting}}
 {{usedin/row|[[Top Hat]]|25|Crafting}}
 {{usedin/row|[[Party Hat]]|200|Crafting}}
-{{usedin/row|[[Iron Pickaxe]]|140|Crafting}}
-{{usedin/row|[[Iron Helmet]]|180|Crafting}}
-{{usedin/row|[[Iron Platebody]]|200|Crafting}}
-{{usedin/row|[[Iron Platelegs]]|225|Crafting}}
-{{usedin/row|[[Anvil Tab 2]]|500|Crafting}}
+{{usedin/row|[[Iron Pickaxe]]|100|Crafting}}
+{{usedin/row|[[Iron Helmet]]|125|Crafting}}
+{{usedin/row|[[Iron Platebody]]|150|Crafting}}
+{{usedin/row|[[Iron Platelegs]]|170|Crafting}}
+{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
 {{usedin/row|[[Iron Boots]]|125|Crafting}}
 {{usedin/row|[[Steel Band]]|600|Crafting}}
 {{usedin/row|[[Fur Shirt]]|500|Crafting}}
-{{usedin/row|[[Amarok Bodyplate]]|500|Crafting}}
+{{usedin/row|[[Amarok Bodyplate]]|400|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
 {{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
@@ -59,17 +61,16 @@
 {{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Barley Brew|Barley Brew]]|Lots|Alchemy}}
 |}
+Gold Bar
 {{InfoItem
 |type=Bar
 |sellprice=115
-|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.2|20}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.35|60}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Golden Peanut]]|50|Crafting}}
@@ -85,15 +86,16 @@
 {{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
 {{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
 |}
+Platinum Bar
 {{InfoItem
 |type=Bar
 |sellprice=460
-|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|20}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|20}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.35|60}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Blunder Skills Completion Token]]|1000|Crafting}}
@@ -105,37 +107,59 @@
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
 {{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
 |}
+Dementia Bar
 {{InfoItem
 |type=Bar
-|sellprice=1900
+|sellprice=1500
+|source=Forging, [[Cinder Forge]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Cinder Forge]]|0.5|69}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|80}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dementia Helmet]]|300|Crafting}}
+{{usedin/row|[[Dementia Body]]|350|Crafting}}
+{{usedin/row|[[Dementia Shins]]|400|Crafting}}
+{{usedin/row|[[Dementia Boots]]|500|Crafting}}
+{{usedin/row|[[Dementia Pickaxe]]|275|Crafting}}
+{{usedin/row|[[Dementia Rod for Fishing]]|300|Crafting}}
+|}
+Void Bar
+{{InfoItem
+|type=Bar
+|sellprice=6200
 |source=Forging, [[Cinder Forge]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Cinder Forge]]|0.5|69}}
 |}
-{{InfoItem
-|type=Bar
-|sellprice=6800
-|source=Forging, [[Cinder Forge]]
-}}
-{{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Helmet]]|1000|Crafting}}
+{{usedin/row|[[Void Imperium Platebody]]|500|Crafting}}
+{{usedin/row|[[Void Imperium Shardshins]]|650|Crafting}}
+{{usedin/row|[[Void Imperium Kicks]]|725|Crafting}}
+{{usedin/row|[[Void Imperium Pik]]|400|Crafting}}
 |}
+Lustre Bar
+{{InfoItem
+|type=Bar
+|sellprice=12500
+|source=Forging
+}}
+Starfire Bar
 {{InfoItem
 |type=Bar
 |sellprice=1
 |source=Forging
 }}
+Dreadlo Bar
 {{InfoItem
 |type=Bar
 |sellprice=1
 |source=Forging
 }}
-{{InfoItem
-|type=Bar
-|sellprice=1
-|source=Forging
-}}
+Godshard Bar
 {{InfoItem
 |type=Bar
 |sellprice=1

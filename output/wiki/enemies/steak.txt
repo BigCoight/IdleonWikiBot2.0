@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Tyson_Walking.gif
-|attack=220
+|attack=150
 |health=23000
-|defence=450
+|defence=300
 |speed=5
 |world=Yum Yum Desert
 |area=The Ring
 |exp=350
 |respawn=40
-|defence0=238.55
+|defence0=152.99
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

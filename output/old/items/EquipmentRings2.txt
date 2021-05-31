@@ -22,9 +22,9 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|300}}
+{{detrecipe|3|CopperBar|300}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|CopperBar|300}}
 |}

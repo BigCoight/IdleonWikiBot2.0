@@ -6,7 +6,7 @@
 |wis=3
 |upgrade=3
 |defence=21
-|sellprice=15120
+|sellprice=11970
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -19,20 +19,20 @@
 |resource3=Glass Shard|quantity3=2
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Militia Helm|5}}
-{{detrecipe|40|Iron Bar|125}}
-{{detrecipe|40|Copper Ore|750}}
-{{detrecipe|40|Copper Helmet|10}}
-{{detrecipe|80|Copper Bar|500}}
-{{detrecipe|80|Bean Slices|750}}
-{{detrecipe|3|Gold Bar|400}}
-{{detrecipe|3|Glass Shard|2}}
+{{detrecipe|3|EquipmentHats20|5}}
+{{detrecipe|40|IronBar|125}}
+{{detrecipe|40|Copper|750}}
+{{detrecipe|40|EquipmentHats17|10}}
+{{detrecipe|80|CopperBar|300}}
+{{detrecipe|80|Grasslands3|500}}
+{{detrecipe|3|GoldBar|400}}
+{{detrecipe|3|DesertA1b|2}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|125}}
-{{detrecipe/totals|Copper Ore|750}}
-{{detrecipe/totals|Copper Bar|500}}
-{{detrecipe/totals|Bean Slices|750}}
-{{detrecipe/totals|Glass Shard|2}}
+{{detrecipe/totals|IronBar|125}}
+{{detrecipe/totals|Copper|750}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|Grasslands3|500}}
+{{detrecipe/totals|DesertA1b|2}}
 |}

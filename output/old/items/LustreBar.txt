@@ -1,5 +1,5 @@
 {{InfoItem
 |type=Bar
-|sellprice=1
+|sellprice=12500
 |source=Forging
 }}

@@ -1,0 +1,16 @@
+{{InfoItem
+|type=Bug
+|description=I'm so tired of all these blood sucking vermin in IdleOn... and these mosquisnow bugs are annoying too!
+|sellprice=32
+|source=Catching, [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|150}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Dementia Net]]|15000|Crafting}}
+{{usedin/row|[[Big Bug Pouch]]|10000|Crafting}}
+{{usedin/row|[[Quicc Cauldron#Cheap Shot|Cheap Shot]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Gospel Leader|Gospel Leader]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Ew Gross Gross|Ew Gross Gross]]|Lots|Alchemy}}
+|}

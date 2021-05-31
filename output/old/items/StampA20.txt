@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=20
-|type=Combat
+|type=Combat Stamp
 |bonus=% STR from Talents
 |material=Dementia Ore
 |sellprice=25000
+|source=[[DropTable15]]
 }}

@@ -1,5 +1,5 @@
 {{InfoItem
 |type=Quest Item
-|description=The boss doesn't drop any blue crystals yet, but it will once World 3 is ready!
+|description=Hold down on this IOU, and a Blue Crystal will drop at your feet!
 |sellprice=100
 }}

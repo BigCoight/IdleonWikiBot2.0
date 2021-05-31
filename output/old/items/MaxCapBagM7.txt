@@ -1,0 +1,45 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Monster Parts, Smithing Production Items.
+|sellprice=20490320
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=45
+|levelreq=44
+|expgiven=250000
+|recipefrom=Start
+|resource1=Audio Cord|quantity1=70000
+|resource2=Black Lense|quantity2=3
+|resource3=Big Materials Pouch|quantity3=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC3|70000}}
+{{detrecipe|3|SnowC4a|3}}
+{{detrecipe|3|MaxCapBagM6|2}}
+{{detrecipe|40|SnowB1|30000}}
+{{detrecipe|40|SnowB2a|6}}
+{{detrecipe|40|MaxCapBagM5|4}}
+{{detrecipe|80|Sewers1b|20}}
+{{detrecipe|80|TreeInterior1b|20}}
+{{detrecipe|80|MaxCapBagM4|8}}
+{{detrecipe|120|MaxCapBagM2|56}}
+{{detrecipe|160|CraftMat5|4480}}
+{{detrecipe|160|Grasslands2|2240}}
+{{detrecipe|160|Grasslands3|1680}}
+{{detrecipe|120|DesertA1b|8}}
+{{detrecipe|120|CraftMat7|10000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC3|70000}}
+{{detrecipe/totals|SnowC4a|3}}
+{{detrecipe/totals|SnowB1|30000}}
+{{detrecipe/totals|SnowB2a|6}}
+{{detrecipe/totals|Sewers1b|20}}
+{{detrecipe/totals|TreeInterior1b|20}}
+{{detrecipe/totals|CraftMat5|4480}}
+{{detrecipe/totals|Grasslands2|2240}}
+{{detrecipe/totals|Grasslands3|1680}}
+{{detrecipe/totals|CraftMat7|10000}}
+|}

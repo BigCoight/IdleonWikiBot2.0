@@ -9,7 +9,7 @@
 |misc=5% Defence
 |upgrade=3
 |defence=15
-|sellprice=557000
+|sellprice=550100
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -23,27 +23,28 @@
 }}
 {{usedin/head}}
 {{usedin/row|[[Efaunts Broken Ankles]]|1|Crafting}}
+{{usedin/row|[[Dementia Boots]]|1|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Tropilogs|8000}}
-{{detrecipe|3|Jellyfish|8000}}
-{{detrecipe|3|Gold Boots|3}}
-{{detrecipe|40|Gold Bar|1800}}
-{{detrecipe|40|Iron Boots|6}}
-{{detrecipe|80|Trusty Nails|3000}}
-{{detrecipe|80|Iron Bar|750}}
-{{detrecipe|80|Copper Boots|12}}
-{{detrecipe|120|Copper Bar|2400}}
-{{detrecipe|40|Distilled Water|24}}
+{{detrecipe|3|PalmTree|8000}}
+{{detrecipe|3|Fish3|8000}}
+{{detrecipe|3|EquipmentShoes3|3}}
+{{detrecipe|40|GoldBar|1800}}
+{{detrecipe|40|EquipmentShoes15|6}}
+{{detrecipe|80|CraftMat5|3000}}
+{{detrecipe|80|IronBar|750}}
+{{detrecipe|80|EquipmentShoes1|12}}
+{{detrecipe|120|CopperBar|1500}}
+{{detrecipe|40|PureWater|12}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Tropilogs|8000}}
-{{detrecipe/totals|Jellyfish|8000}}
-{{detrecipe/totals|Gold Bar|1800}}
-{{detrecipe/totals|Trusty Nails|3000}}
-{{detrecipe/totals|Iron Bar|750}}
-{{detrecipe/totals|Copper Bar|2400}}
-{{detrecipe/totals|Distilled Water|24}}
+{{detrecipe/totals|PalmTree|8000}}
+{{detrecipe/totals|Fish3|8000}}
+{{detrecipe/totals|GoldBar|1800}}
+{{detrecipe/totals|CraftMat5|3000}}
+{{detrecipe/totals|IronBar|750}}
+{{detrecipe/totals|CopperBar|1500}}
+{{detrecipe/totals|PureWater|12}}
 |}

@@ -1,0 +1,7 @@
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Worship Efficiency
+|material=Forest Soul
+|sellprice=4000
+}}

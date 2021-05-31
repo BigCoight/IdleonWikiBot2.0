@@ -1,6 +1,10 @@
 {{InfoItem
 |type=Critter
-|description=This mole ain't got no fur! Ew, gross!!! Disgusting even!!!!! Imagine an animal with no fur... eugh just the thought...
+|description=This mole ain't got no fur! Ew, gross!! Disgusting even!!! What kind of wretched abomination has skin but no thick layer of fur??
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Natural Traps]]|5|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|2|Quests}}
+|}

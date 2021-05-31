@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=9
-|type=Skills
+|type=Skills Stamp
 |bonus=% Mining Exp
 |material=Plank
 |sellprice=1500

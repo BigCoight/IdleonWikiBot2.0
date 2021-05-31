@@ -22,9 +22,9 @@
 {{usedin/row|[[Dooble Goopi]]|1|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|600}}
+{{detrecipe|3|IronBar|600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|600}}
+{{detrecipe/totals|IronBar|600}}
 |}

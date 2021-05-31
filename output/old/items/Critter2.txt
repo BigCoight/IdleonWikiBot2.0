@@ -1,6 +1,17 @@
 {{InfoItem
 |type=Critter
 |description=Argg, yer spendin' all me money!
-|sellprice=3
-|source=Trapping
+|sellprice=5
+|source=Trapping, [[Crabbo]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Crabbo]]|0.015|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|350}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Sizable Critter Pouch]]|1000|Crafting}}
+{{usedin/row|[[Critter Numnums]]|100|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|250|Quests}}
+{{usedin/row|[[High-IQ Cauldron#Call Me Pope|Call Me Pope]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Crab Juice|Crab Juice]]|Lots|Alchemy}}
+|}

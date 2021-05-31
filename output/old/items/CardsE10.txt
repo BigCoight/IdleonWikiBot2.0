@@ -2,9 +2,9 @@
 |title=Bop Box
 |order=10
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
+|effect=+{%_Total_Drop_Rate
 |bonus=3
-|reqtier=10
+|reqtier=17
 |source=[[Bop Box]]
 }}
 {{detdrops/head}}

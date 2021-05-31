@@ -1,8 +1,8 @@
 {{InfoStamp
 |number=15
-|type=Combat
+|type=Combat Stamp
 |bonus= LUK
 |material=Iron Platebody
 |sellprice=12000
-|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 }}

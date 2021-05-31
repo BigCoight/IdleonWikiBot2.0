@@ -21,11 +21,11 @@
 {{usedin/row|[[Feral Leathering]]|4|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Goblin Ear|500}}
-{{detrecipe|3|Iron Bar|500}}
+{{detrecipe|3|Forest1|500}}
+{{detrecipe|3|IronBar|500}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Goblin Ear|500}}
-{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Forest1|500}}
+{{detrecipe/totals|IronBar|500}}
 |}

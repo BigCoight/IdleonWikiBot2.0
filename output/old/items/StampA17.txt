@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=17
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Accuracy
 |material=Sentient Cereal
 |sellprice=12500

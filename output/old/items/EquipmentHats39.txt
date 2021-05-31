@@ -14,3 +14,6 @@
 {{detdrops|[[Chaotic Amarok]]|0.004|1}}
 {{detdrops|[[Nightmare Amarok]]|0.001|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Mark of Member]]|1|Crafting}}
+|}

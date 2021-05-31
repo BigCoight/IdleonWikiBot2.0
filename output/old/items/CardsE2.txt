@@ -2,9 +2,9 @@
 |title=Sir Stache
 |order=2
 |category=Frostfire Tyundra
-|effect=+{%_Skill_AFK_gain_rate
-|bonus=2.5
-|reqtier=1.5
+|effect=+{%_Card_Drop_Chance
+|bonus=8
+|reqtier=13
 |source=[[Sir Stache]]
 }}
 {{detdrops/head}}

@@ -18,13 +18,13 @@
 |resource3=Distilled Water|quantity3=25
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Chaotic Amarok Slab|4}}
-{{detrecipe|3|Amarok Slab|10}}
-{{detrecipe|3|Distilled Water|25}}
+{{detrecipe|3|Quest29|4}}
+{{detrecipe|3|Quest17|10}}
+{{detrecipe|3|PureWater|25}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Chaotic Amarok Slab|4}}
-{{detrecipe/totals|Amarok Slab|10}}
-{{detrecipe/totals|Distilled Water|25}}
+{{detrecipe/totals|Quest29|4}}
+{{detrecipe/totals|Quest17|10}}
+{{detrecipe/totals|PureWater|25}}
 |}

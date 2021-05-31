@@ -1,12 +1,13 @@
 {{InfoCard
 |title=Chaotic Efaunt
 |order=8
-|category=Bosses
+|category=Event
 |effect=+{%_Skill_EXP
 |bonus=3.75
 |reqtier=1.5
-|source=[[Chaotic Efaunt]]
+|source=[[Chaotic Efaunt]], [[Chaotic Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Chaotic Efaunt]]|0.045|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.045|1}}
 |}

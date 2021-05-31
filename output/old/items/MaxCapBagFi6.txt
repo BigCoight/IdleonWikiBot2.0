@@ -1,0 +1,38 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Fish.
+|sellprice=1809180
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=37
+|levelreq=43
+|expgiven=200000
+|recipefrom=Start
+|resource1=Bloach|quantity1=50000
+|resource2=Big Fish Pouch|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Fish4|50000}}
+{{detrecipe|3|MaxCapBagFi5|2}}
+{{detrecipe|40|Critter3A|8}}
+{{detrecipe|40|Refinery1|100}}
+{{detrecipe|40|MaxCapBagFi4|4}}
+{{detrecipe|80|Fish4|27000}}
+{{detrecipe|80|MaxCapBagFi3|12}}
+{{detrecipe|120|MaxCapBagFi1|60}}
+{{detrecipe|160|Fish1|10800}}
+{{detrecipe|120|MaxCapBagFi2|36}}
+{{detrecipe|160|Fish2|15300}}
+{{detrecipe|160|PureWater|72}}
+{{detrecipe|120|Fish2|18000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Fish4|77000}}
+{{detrecipe/totals|Critter3A|8}}
+{{detrecipe/totals|Refinery1|100}}
+{{detrecipe/totals|Fish1|10800}}
+{{detrecipe/totals|Fish2|33300}}
+{{detrecipe/totals|PureWater|72}}
+|}

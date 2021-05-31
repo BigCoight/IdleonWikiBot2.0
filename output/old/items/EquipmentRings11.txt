@@ -18,13 +18,13 @@
 |resource3=Distilled Water|quantity3=15
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Goldfish|16000}}
-{{detrecipe|3|Golden Plop|17}}
-{{detrecipe|3|Distilled Water|15}}
+{{detrecipe|3|Fish1|16000}}
+{{detrecipe|3|Sewers1b|17}}
+{{detrecipe|3|PureWater|15}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Goldfish|16000}}
-{{detrecipe/totals|Golden Plop|17}}
-{{detrecipe/totals|Distilled Water|15}}
+{{detrecipe/totals|Fish1|16000}}
+{{detrecipe/totals|Sewers1b|17}}
+{{detrecipe/totals|PureWater|15}}
 |}

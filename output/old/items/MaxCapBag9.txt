@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Logs, Leaves.
-|sellprice=2550
+|sellprice=2400
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -9,15 +9,15 @@
 |levelreq=15
 |expgiven=680
 |recipefrom=Start
-|resource1=Bleach Logs|quantity1=850
+|resource1=Bleach Logs|quantity1=800
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Choppin Pouch]]|5|Crafting}}
+{{usedin/row|[[Average Choppin Pouch]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Bleach Logs|850}}
+{{detrecipe|3|BirchTree|800}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bleach Logs|850}}
+{{detrecipe/totals|BirchTree|800}}
 |}

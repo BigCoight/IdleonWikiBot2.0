@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=19
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Steel Axe
 |sellprice=7500

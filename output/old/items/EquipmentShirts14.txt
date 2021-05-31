@@ -7,7 +7,7 @@
 |wis=8
 |upgrade=3
 |defence=25
-|sellprice=1181000
+|sellprice=1167000
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -19,17 +19,20 @@
 |resource2=Iron Platebody|quantity2=5
 |resource3=Platinum Bar|quantity3=1000
 }}
+{{usedin/head}}
+{{usedin/row|[[Dementia Body]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Potato Remains|5000}}
-{{detrecipe|3|Iron Platebody|5}}
-{{detrecipe|40|Iron Bar|1000}}
-{{detrecipe|40|Jungle Logs|4000}}
-{{detrecipe|3|Platinum Bar|1000}}
+{{detrecipe|3|DesertB4|5000}}
+{{detrecipe|3|EquipmentShirts12|5}}
+{{detrecipe|40|IronBar|750}}
+{{detrecipe|40|JungleTree|3000}}
+{{detrecipe|3|PlatBar|1000}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Potato Remains|5000}}
-{{detrecipe/totals|Iron Bar|1000}}
-{{detrecipe/totals|Jungle Logs|4000}}
-{{detrecipe/totals|Platinum Bar|1000}}
+{{detrecipe/totals|DesertB4|5000}}
+{{detrecipe/totals|IronBar|750}}
+{{detrecipe/totals|JungleTree|3000}}
+{{detrecipe/totals|PlatBar|1000}}
 |}

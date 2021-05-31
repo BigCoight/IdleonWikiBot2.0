@@ -7,7 +7,7 @@
 |wis=3
 |upgrade=2
 |defence=5
-|sellprice=875
+|sellprice=560
 |source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
 }}
 {{ForgeSlot
@@ -16,8 +16,8 @@
 |levelreq=6
 |expgiven=35
 |recipefrom=Start
-|resource1=Copper Bar|quantity1=50
-|resource2=Bean Slices|quantity2=75
+|resource1=Copper Bar|quantity1=30
+|resource2=Bean Slices|quantity2=50
 }}
 {{usedin/head}}
 {{usedin/row|[[Militia Helm]]|2|Crafting}}
@@ -27,11 +27,11 @@
 {{usedin/row|[[Gold Helmet]]|4|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|50}}
-{{detrecipe|3|Bean Slices|75}}
+{{detrecipe|3|CopperBar|30}}
+{{detrecipe|3|Grasslands3|50}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|50}}
-{{detrecipe/totals|Bean Slices|75}}
+{{detrecipe/totals|CopperBar|30}}
+{{detrecipe/totals|Grasslands3|50}}
 |}

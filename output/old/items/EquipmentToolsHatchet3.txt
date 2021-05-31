@@ -23,13 +23,13 @@
 {{usedin/row|[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|13}}
-{{detrecipe|3|Oak Logs|30}}
-{{detrecipe|3|Thread|15}}
+{{detrecipe|3|CopperBar|13}}
+{{detrecipe|3|OakTree|30}}
+{{detrecipe|3|CraftMat1|15}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|13}}
-{{detrecipe/totals|Oak Logs|30}}
-{{detrecipe/totals|Thread|15}}
+{{detrecipe/totals|CopperBar|13}}
+{{detrecipe/totals|OakTree|30}}
+{{detrecipe/totals|CraftMat1|15}}
 |}

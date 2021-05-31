@@ -90,6 +90,426 @@
         "Image": "Bandit Bob_Walking.gif",
         "defFor0": 1223.26
     },
+    "SoulCard1": {
+        "Name": "Forest Soul",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fly Card", "0.00022", "1", "N/A"],
+            ["Forest Soul", "1", "1", "N/A"],
+            ["Forest Soul", "1", "1", "N/A"],
+            ["Forest Soul", "1", "1", "N/A"],
+            ["Forest Soul", "1", "1", "N/A"]
+        ],
+        "Image": "Forest Soul_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "SoulCard2": {
+        "Name": "Dune Soul",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Butterfly Card", "0.00018", "1", "N/A"],
+            ["Dune Soul", "1", "1", "N/A"],
+            ["Dune Soul", "1", "1", "N/A"],
+            ["Dune Soul", "1", "1", "N/A"],
+            ["Dune Soul", "1", "1", "N/A"]
+        ],
+        "Image": "Dune Soul_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "SoulCard3": {
+        "Name": "Rooted Soul",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+            ["Rooted Soul", "1", "1", "N/A"],
+            ["Rooted Soul", "1", "1", "N/A"],
+            ["Rooted Soul", "1", "1", "N/A"],
+            ["Rooted Soul", "1", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Wispy Tree",
+        "Next": "Frigid Soul",
+        "Image": "Rooted Soul_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "SoulCard4": {
+        "Name": "Frigid Soul",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Rooted Soul",
+        "Next": "Squiddy Soul",
+        "Image": "Frigid Soul_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "SoulCard5": {
+        "Name": "Squiddy Soul",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Frigid Soul",
+        "Next": "Mousey",
+        "Image": "Squiddy Soul_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "SoulCard6": {
+        "Name": "Bandit Bob",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["DropTable12", "0.015", "1", "N/A"]
+        ],
+        "Image": "Bandit Bob_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard1": {
+        "Name": "Froge",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fly Card", "0.00022", "1", "N/A"],
+            ["Froge", "1", "1", "N/A"]
+        ],
+        "Image": "Froge_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard2": {
+        "Name": "Crabbo",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Butterfly Card", "0.00018", "1", "N/A"],
+            ["Crabbo", "0.015", "1", "N/A"]
+        ],
+        "Image": "Crabbo_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard3": {
+        "Name": "Scorpie",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+            ["Scorpie", "0.015", "1", "N/A"]
+        ],
+        "Image": "Scorpie_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard4": {
+        "Name": "Mousey",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Mousey", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Squiddy Soul",
+        "Next": "Owlio",
+        "Image": "Mousey_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard5": {
+        "Name": "Owlio",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Owlio", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Mousey",
+        "Next": "Pingy",
+        "Image": "Owlio_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard6": {
+        "Name": "Pingy",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Pingy", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Owlio",
+        "Next": "Bunny",
+        "Image": "Pingy_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard7": {
+        "Name": "Bunny",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Bunny", "0.015", "1", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Pingy",
+        "Next": "Lustre",
+        "Image": "Bunny_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard8": {
+        "Name": "Dung Beat",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Dung Beat", "0.015", "1", "N/A"]
+        ],
+        "Image": "Dung Beat_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "CritterCard9": {
+        "Name": "Honker",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "420",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Honker", "0.015", "1", "N/A"]
+        ],
+        "Image": "Honker_Walking.gif",
+        "defFor0": 1223.26
+    },
     "Crystal0": {
         "Name": "Crystal Carrot",
         "AFKtype": "FIGHTING",
@@ -206,7 +626,7 @@
         "Crystal": "Crystal Cattle",
         "hasCrystal": "Yes",
         "Prev": "Bloodbone",
-        "Next": "Baba Yaga",
+        "Next": "Wispy Tree",
         "Image": "Crystal Cattle_Walking.gif",
         "defFor0": 0
     },
@@ -306,7 +726,7 @@
         "ExpType": "0",
         "Defence": "4",
         "MoveSPEED": "4",
-        "Damages": "14",
+        "Damages": "11",
         "Drops": [
             ["COIN", "0.46", "5", "N/A"],
             ["Bean Slices", "0.20", "1", "N/A"],
@@ -323,7 +743,7 @@
         "Next": "Slime",
         "Image": "Bored Bean_Walking.gif",
         "Area": "Valley Of The Beans",
-        "defFor0": 8.14
+        "defFor0": 5.97
     },
     "slimeG": {
         "Name": "Slime",
@@ -343,7 +763,7 @@
         "ExpType": "0",
         "Defence": "9",
         "MoveSPEED": "4",
-        "Damages": "17",
+        "Damages": "15",
         "Drops": [
             ["COIN", "0.44", "8", "N/A"],
             ["Slime Sludge", "0.19", "1", "N/A"],
@@ -361,7 +781,7 @@
         "Next": "Baby Boa",
         "Image": "Slime_Walking.gif",
         "Area": "Jungle Perimeter",
-        "defFor0": 10.43
+        "defFor0": 8.9
     },
     "snakeG": {
         "Name": "Baby Boa",
@@ -381,7 +801,7 @@
         "ExpType": "0",
         "Defence": "18",
         "MoveSPEED": "8",
-        "Damages": "22",
+        "Damages": "18",
         "Drops": [
             ["COIN", "0.43", "11", "N/A"],
             ["Snake Skin", "0.18", "1", "N/A"],
@@ -400,7 +820,7 @@
         "Next": "Carrotman",
         "Image": "Baby Boa_Walking.gif",
         "Area": "Winding Willows",
-        "defFor0": 14.57
+        "defFor0": 11.22
     },
     "carrotO": {
         "Name": "Carrotman",
@@ -420,7 +840,7 @@
         "ExpType": "0",
         "Defence": "30",
         "MoveSPEED": "6",
-        "Damages": "26",
+        "Damages": "22",
         "Drops": [
             ["COIN", "0.41", "15", "N/A"],
             ["Carrot Cube", "0.17", "1", "N/A"],
@@ -437,7 +857,7 @@
         "Next": "Glublin",
         "Image": "Carrotman_Walking.gif",
         "Area": "Vegetable Patch",
-        "defFor0": 17.99
+        "defFor0": 14.57
     },
     "goblinG": {
         "Name": "Glublin",
@@ -457,7 +877,7 @@
         "ExpType": "0",
         "Defence": "52",
         "MoveSPEED": "4",
-        "Damages": "35",
+        "Damages": "30",
         "Drops": [
             ["COIN", "0.39", "19", "N/A"],
             ["Goblin Ear", "0.16", "1", "N/A"],
@@ -474,7 +894,7 @@
         "Next": "Wode Board",
         "Image": "Glublin_Walking.gif",
         "Area": "Forest Outskirts",
-        "defFor0": 26.12
+        "defFor0": 21.54
     },
     "plank": {
         "Name": "Wode Board",
@@ -494,7 +914,7 @@
         "ExpType": "0",
         "Defence": "70",
         "MoveSPEED": "3",
-        "Damages": "40",
+        "Damages": "35",
         "Drops": [
             ["COIN", "0.37", "23", "N/A"],
             ["Plank", "0.15", "1", "N/A"],
@@ -512,7 +932,7 @@
         "Next": "Gigafrog",
         "Image": "Wode Board_Walking.gif",
         "Area": "Encroaching Forest Villas",
-        "defFor0": 30.84
+        "defFor0": 26.12
     },
     "frogBIG": {
         "Name": "Gigafrog",
@@ -530,9 +950,9 @@
         "SpecialType": "_",
         "ExpGiven": "95",
         "ExpType": "0",
-        "Defence": "120",
+        "Defence": "110",
         "MoveSPEED": "3",
-        "Damages": "60",
+        "Damages": "45",
         "Drops": [
             ["COIN", "0.35", "28", "N/A"],
             ["Bullfrog Horn", "0.14", "1", "N/A"],
@@ -551,7 +971,7 @@
         "Next": "Poop",
         "Image": "Gigafrog_Walking.gif",
         "Area": "Tucked Away",
-        "defFor0": 50.87
+        "defFor0": 35.69
     },
     "branch": {
         "Name": "Walking Stick",
@@ -789,6 +1209,7 @@
         "MoveSPEED": "0",
         "Damages": "50",
         "Image": "Healing Rune_Walking.gif",
+        "Drops": [],
         "defFor0": 40.66
     },
     "rockB": {
@@ -811,6 +1232,7 @@
         "MoveSPEED": "0",
         "Damages": "50",
         "Image": "Shielding Rune_Walking.gif",
+        "Drops": [],
         "defFor0": 40.66
     },
     "rockS": {
@@ -833,6 +1255,7 @@
         "MoveSPEED": "0",
         "Damages": "50",
         "Image": "Skeleton Rune_Walking.gif",
+        "Drops": [],
         "defFor0": 40.66
     },
     "jarSand": {
@@ -851,9 +1274,9 @@
         "SpecialType": "_",
         "ExpGiven": "150",
         "ExpType": "0",
-        "Defence": "125",
+        "Defence": "115",
         "MoveSPEED": "5",
-        "Damages": "70",
+        "Damages": "55",
         "Drops": [
             ["COIN", "0.5", "40", "N/A"],
             ["Pocket Sand", "0.22", "1", "N/A"],
@@ -870,7 +1293,7 @@
         "Next": "Mimic",
         "Image": "Sandy Pot_Walking.gif",
         "Area": "Jar Bridge",
-        "defFor0": 61.42
+        "defFor0": 45.72
     },
     "mimicA": {
         "Name": "Mimic",
@@ -888,13 +1311,13 @@
         "SpecialType": "_",
         "ExpGiven": "180",
         "ExpType": "0",
-        "Defence": "145",
+        "Defence": "132",
         "MoveSPEED": "4",
-        "Damages": "85",
+        "Damages": "62",
         "Drops": [
             ["COIN", "0.47", "47", "N/A"],
-            ["Casual Confidante", "0.1", "1", "Goldric3"],
             ["Megalodon Tooth", "0.212", "1", "N/A"],
+            ["Casual Confidante", "0.1", "1", "Goldric3"],
             ["Mimic Card", "0.0001", "1", "N/A"],
             ["Totally Normal and not fake Bag", "0.000025", "1", "N/A"],
             ["Defenders Dignity;Recipe;1", "0.000005", "1", "N/A"],
@@ -908,7 +1331,7 @@
         "Next": "Crabcake",
         "Image": "Mimic_Walking.gif",
         "Area": "The Mimic Hole",
-        "defFor0": 77.74
+        "defFor0": 52.96
     },
     "crabcake": {
         "Name": "Crabcake",
@@ -926,9 +1349,9 @@
         "SpecialType": "_",
         "ExpGiven": "210",
         "ExpType": "0",
-        "Defence": "180",
+        "Defence": "150",
         "MoveSPEED": "4",
-        "Damages": "92",
+        "Damages": "70",
         "Drops": [
             ["COIN", "0.45", "55", "N/A"],
             ["Crabby Cakey", "0.205", "1", "N/A"],
@@ -945,7 +1368,7 @@
         "Next": "Mafioso",
         "Image": "Crabcake_Walking.gif",
         "Area": "Dessert Dunes",
-        "defFor0": 85.52
+        "defFor0": 61.42
     },
     "coconut": {
         "Name": "Mafioso",
@@ -963,13 +1386,13 @@
         "SpecialType": "_",
         "ExpGiven": "240",
         "ExpType": "0",
-        "Defence": "240",
+        "Defence": "180",
         "MoveSPEED": "4",
-        "Damages": "115",
+        "Damages": "90",
         "Drops": [
             ["COIN", "0.43", "67", "N/A"],
-            ["Triumphant Treason", "0.075", "1", "Goldric3"],
             ["Coconotnotto", "0.2", "1", "N/A"],
+            ["Triumphant Treason", "0.075", "1", "Goldric3"],
             ["Mafioso Card", "0.0001", "1", "N/A"],
             ["Strung Bludgeon;Recipe;1", "0.000002", "1", "N/A"],
             ["DropTable7", "0.0032", "1", "N/A"]
@@ -982,7 +1405,7 @@
         "Next": "Sand Castle",
         "Image": "Mafioso_Walking.gif",
         "Area": "The Grandioso Canyon",
-        "defFor0": 111.73
+        "defFor0": 83.29
     },
     "sandcastle": {
         "Name": "Sand Castle",
@@ -1000,13 +1423,13 @@
         "SpecialType": "_",
         "ExpGiven": "265",
         "ExpType": "0",
-        "Defence": "270",
+        "Defence": "205",
         "MoveSPEED": "3",
-        "Damages": "125",
+        "Damages": "99",
         "Drops": [
             ["COIN", "0.4", "80", "N/A"],
-            ["Claiming Cashe", "0.05", "1", "Goldric3"],
             ["Furled Flag", "0.19", "1", "N/A"],
+            ["Claiming Cashe", "0.05", "1", "Goldric3"],
             ["Sand Castle Card", "0.0001", "1", "N/A"],
             ["DropTable7", "0.0035", "1", "N/A"]
         ],
@@ -1018,7 +1441,7 @@
         "Next": "Pincermin",
         "Image": "Sand Castle_Walking.gif",
         "Area": "Shifty Sandbox",
-        "defFor0": 123.37
+        "defFor0": 93.41
     },
     "pincermin": {
         "Name": "Pincermin",
@@ -1036,9 +1459,9 @@
         "SpecialType": "_",
         "ExpGiven": "290",
         "ExpType": "0",
-        "Defence": "300",
+        "Defence": "240",
         "MoveSPEED": "5",
-        "Damages": "140",
+        "Damages": "112",
         "Drops": [
             ["COIN", "0.38", "90", "N/A"],
             ["Pincer Arm", "0.18", "1", "N/A"],
@@ -1053,7 +1476,7 @@
         "Next": "Mashed Potato",
         "Image": "Pincermin_Walking.gif",
         "Area": "Pincer Plateau",
-        "defFor0": 141.06
+        "defFor0": 108.27
     },
     "potato": {
         "Name": "Mashed Potato",
@@ -1071,9 +1494,9 @@
         "SpecialType": "_",
         "ExpGiven": "310",
         "ExpType": "0",
-        "Defence": "330",
+        "Defence": "260",
         "MoveSPEED": "6",
-        "Damages": "160",
+        "Damages": "125",
         "Drops": [
             ["COIN", "0.37", "100", "N/A"],
             ["Potato Remains", "0.17", "1", "N/A"],
@@ -1088,7 +1511,7 @@
         "Next": "Tyson",
         "Image": "Mashed Potato_Walking.gif",
         "Area": "Slamabam Straightaway",
-        "defFor0": 165
+        "defFor0": 123.37
     },
     "steak": {
         "Name": "Tyson",
@@ -1106,9 +1529,9 @@
         "SpecialType": "_",
         "ExpGiven": "350",
         "ExpType": "0",
-        "Defence": "450",
+        "Defence": "300",
         "MoveSPEED": "5",
-        "Damages": "220",
+        "Damages": "150",
         "Drops": [
             ["COIN", "0.36", "112", "N/A"],
             ["High Steaks", "0.18", "1", "N/A"],
@@ -1123,7 +1546,7 @@
         "Next": "Moonmoon",
         "Image": "Tyson_Walking.gif",
         "Area": "The Ring",
-        "defFor0": 238.55
+        "defFor0": 152.99
     },
     "moonman": {
         "Name": "Moonmoon",
@@ -1141,9 +1564,9 @@
         "SpecialType": "_",
         "ExpGiven": "380",
         "ExpType": "0",
-        "Defence": "500",
-        "MoveSPEED": "5",
-        "Damages": "240",
+        "Defence": "330",
+        "MoveSPEED": "4",
+        "Damages": "170",
         "Drops": [
             ["COIN", "0.35", "125", "N/A"],
             ["Wakka Cherry", "0.165", "1", "N/A"],
@@ -1160,7 +1583,7 @@
         "Next": "Sand Giant",
         "Image": "Moonmoon_Walking.gif",
         "Area": "Up Up Down Down",
-        "defFor0": 263.46
+        "defFor0": 177.1
     },
     "sandgiant": {
         "Name": "Sand Giant",
@@ -1178,9 +1601,9 @@
         "SpecialType": "_",
         "ExpGiven": "410",
         "ExpType": "0",
-        "Defence": "550",
+        "Defence": "365",
         "MoveSPEED": "3",
-        "Damages": "260",
+        "Damages": "195",
         "Drops": [
             ["COIN", "0.34", "140", "N/A"],
             ["Singlecle", "0.152", "1", "N/A"],
@@ -1196,7 +1619,7 @@
         "Next": "Snelbie",
         "Image": "Sand Giant_Walking.gif",
         "Area": "Sands of Time",
-        "defFor0": 288.51
+        "defFor0": 207.65
     },
     "snailZ": {
         "Name": "Snelbie",
@@ -1214,9 +1637,9 @@
         "SpecialType": "_",
         "ExpGiven": "460",
         "ExpType": "0",
-        "Defence": "650",
+        "Defence": "400",
         "MoveSPEED": "4",
-        "Damages": "300",
+        "Damages": "225",
         "Drops": [
             ["COIN", "0.35", "160", "N/A"],
             ["Shrapshell", "0.14", "1", "N/A"],
@@ -1232,7 +1655,7 @@
         "Next": "Dig Doug",
         "Image": "Snelbie_Walking.gif",
         "Area": "Djonnuttown",
-        "defFor0": 338.94
+        "defFor0": 244.76
     },
     "sheep": {
         "Name": "Sheepie",
@@ -1250,14 +1673,16 @@
         "SpecialType": "_",
         "ExpGiven": "620",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "550",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "300",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.5", "180", "N/A"],
             ["Floof Ploof", "0.16", "1", "N/A"],
             ["Sheepie Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Box Statue", "0.0002", "1", "N/A"],
+            ["Twin Ores Stamp", "0.00008", "1", "N/A"],
+            ["DropTable14", "0.0025", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1267,7 +1692,7 @@
         "Next": "Frost Flake",
         "Image": "Sheepie_Walking.gif",
         "Area": "Steep Sheep Ledge",
-        "defFor0": 0.22
+        "defFor0": 338.94
     },
     "flake": {
         "Name": "Frost Flake",
@@ -1285,14 +1710,16 @@
         "SpecialType": "_",
         "ExpGiven": "700",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "700",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "360",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.46", "190", "N/A"],
             ["Melty Cube", "0.16", "1", "N/A"],
             ["Frost Flake Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Duplogs Stamp", "0.00006", "1", "N/A"],
+            ["Yellow Snowflake", "0.00005", "1", "N/A"],
+            ["DropTable14", "0.0028", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1302,7 +1729,7 @@
         "Next": "Sir Stache",
         "Image": "Frost Flake_Walking.gif",
         "Area": "Snowfield Outskirts",
-        "defFor0": 0.22
+        "defFor0": 415.1
     },
     "stache": {
         "Name": "Sir Stache",
@@ -1320,14 +1747,16 @@
         "SpecialType": "_",
         "ExpGiven": "800",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "900",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "420",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.43", "205", "N/A"],
             ["Moustache Comb", "0.16", "1", "N/A"],
             ["Sir Stache Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Decent Speed Potion", ".002", "1", "N/A"],
+            ["Twosoul Statue", "0.0002", "1", "N/A"],
+            ["DropTable14", "0.0031", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1337,7 +1766,7 @@
         "Next": "Bloque",
         "Image": "Sir Stache_Walking.gif",
         "Area": "The Stache Split",
-        "defFor0": 0.22
+        "defFor0": 491.48
     },
     "ram": {
         "Name": "Dedotated Ram",
@@ -1349,20 +1778,20 @@
         "MonsterMoving": "1",
         "MovingFrame": "6",
         "DeathFrame": "13",
-        "RespawnTime": "40",
-        "MonsterHPTotal": "250000",
+        "RespawnTime": "35",
+        "MonsterHPTotal": "1250000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
-        "ExpGiven": "1900",
+        "ExpGiven": "3500",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "1500",
         "MoveSPEED": "6",
-        "Damages": "100",
+        "Damages": "3000",
         "Drops": [
             ["COIN", "0.5", "10", "N/A"],
             ["Ram Wool", "0.16", "1", "N/A"],
             ["Dedotated Ram Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["DropTable16", "0.00004", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1372,7 +1801,7 @@
         "Next": "Xylobone",
         "Image": "Dedotated Ram_Walking.gif",
         "Area": "Wam Wonderland",
-        "defFor0": 94.54
+        "defFor0": 3563.92
     },
     "bloque": {
         "Name": "Bloque",
@@ -1390,14 +1819,16 @@
         "SpecialType": "_",
         "ExpGiven": "940",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "1150",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "500",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.41", "240", "N/A"],
             ["Sticky Stick", "0.16", "1", "N/A"],
             ["Bloque Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Seesaw Statue", "0.0002", "1", "N/A"],
+            ["Decent Mana Potion", ".0025", "1", "N/A"],
+            ["DropTable15", "0.0025", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1407,7 +1838,7 @@
         "Next": "mamooth",
         "Image": "Bloque_Walking.gif",
         "Area": "Refrigeration Station",
-        "defFor0": 0.22
+        "defFor0": 593.5
     },
     "mamoth": {
         "Name": "mamooth",
@@ -1425,14 +1856,16 @@
         "SpecialType": "_",
         "ExpGiven": "1030",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "1400",
         "MoveSPEED": "3",
-        "Damages": "0",
+        "Damages": "580",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.39", "260", "N/A"],
             ["Mamooth Tusk", "0.16", "1", "N/A"],
             ["mamooth Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Ice Age 3", "0.00005", "1", "N/A"],
+            ["Mamooth Hide Bag", "0.000002", "1", "N/A"],
+            ["DropTable15", "0.0027", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1442,7 +1875,7 @@
         "Next": "Snowman",
         "Image": "mamooth_Walking.gif",
         "Area": "Mamooooth Mountain",
-        "defFor0": 0.22
+        "defFor0": 695.37
     },
     "snowball": {
         "Name": "Snowman",
@@ -1455,19 +1888,21 @@
         "MovingFrame": "6",
         "DeathFrame": "15",
         "RespawnTime": "40",
-        "MonsterHPTotal": "130000",
+        "MonsterHPTotal": "135000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1130",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "1700",
         "MoveSPEED": "6",
-        "Damages": "0",
+        "Damages": "690",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.37", "285", "N/A"],
             ["Snow Ball", "0.16", "1", "N/A"],
             ["Snowman Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Cool Diggy Tool Stamp", "0.000025", "1", "N/A"],
+            ["Mountain Bread", ".009", "1", "N/A"],
+            ["DropTable15", "0.0029", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1477,7 +1912,7 @@
         "Next": "Penguin",
         "Image": "Snowman_Walking.gif",
         "Area": "Rollin' Tundra",
-        "defFor0": 0.22
+        "defFor0": 834.89
     },
     "penguin": {
         "Name": "Penguin",
@@ -1490,19 +1925,20 @@
         "MovingFrame": "14",
         "DeathFrame": "25",
         "RespawnTime": "40",
-        "MonsterHPTotal": "150000",
+        "MonsterHPTotal": "160000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1250",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "2000",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "800",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.36", "310", "N/A"],
             ["Pen", "0.16", "1", "N/A"],
             ["Penguin Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Box Statue", "0.0003", "1", "N/A"],
+            ["DropTable15", "0.0031", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1512,7 +1948,7 @@
         "Next": "Thermister",
         "Image": "Penguin_Walking.gif",
         "Area": "Signature Slopes",
-        "defFor0": 0.22
+        "defFor0": 973.57
     },
     "thermostat": {
         "Name": "Thermister",
@@ -1525,19 +1961,20 @@
         "MovingFrame": "6",
         "DeathFrame": "20",
         "RespawnTime": "40",
-        "MonsterHPTotal": "175000",
+        "MonsterHPTotal": "185000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1370",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "2250",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "950",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.35", "340", "N/A"],
             ["Cracked Glass", "0.16", "1", "N/A"],
             ["Thermister Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Swag Swingy Tool Stamp", "0.00001", "1", "N/A"],
+            ["DropTable15", "0.0033", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1547,7 +1984,7 @@
         "Next": "Quenchie",
         "Image": "Thermister_Walking.gif",
         "Area": "Thermonuclear Climb",
-        "defFor0": 0.22
+        "defFor0": 1161.15
     },
     "glass": {
         "Name": "Quenchie",
@@ -1560,19 +1997,20 @@
         "MovingFrame": "10",
         "DeathFrame": "23",
         "RespawnTime": "40",
-        "MonsterHPTotal": "215000",
+        "MonsterHPTotal": "225000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1570",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "2600",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "1150",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.34", "370", "N/A"],
             ["Sippy Straw", "0.16", "1", "N/A"],
             ["Quenchie Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Twosoul Statue", "0.0003", "1", "N/A"],
+            ["DropTable16", "0.0025", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1582,7 +2020,7 @@
         "Next": "Cryosnake",
         "Image": "Quenchie_Walking.gif",
         "Area": "Waterlogged Entrance",
-        "defFor0": 0.22
+        "defFor0": 1408.37
     },
     "snakeB": {
         "Name": "Cryosnake",
@@ -1595,19 +2033,20 @@
         "MovingFrame": "6",
         "DeathFrame": "13",
         "RespawnTime": "40",
-        "MonsterHPTotal": "240000",
+        "MonsterHPTotal": "260000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1690",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "2900",
         "MoveSPEED": "6",
-        "Damages": "0",
+        "Damages": "1425",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.32", "400", "N/A"],
             ["Cryosnake Skin", "0.16", "1", "N/A"],
             ["Cryosnake Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Seesaw Statue", "0.0003", "1", "N/A"],
+            ["DropTable16", "0.0028", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1617,7 +2056,7 @@
         "Next": "Bop Box",
         "Image": "Cryosnake_Walking.gif",
         "Area": "Cryo Catacombs",
-        "defFor0": 0.22
+        "defFor0": 1743.06
     },
     "speaker": {
         "Name": "Bop Box",
@@ -1630,19 +2069,20 @@
         "MovingFrame": "12",
         "DeathFrame": "23",
         "RespawnTime": "40",
-        "MonsterHPTotal": "270000",
+        "MonsterHPTotal": "310000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1780",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "3200",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "1700",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.3", "440", "N/A"],
             ["Audio Cord", "0.16", "1", "N/A"],
             ["Bop Box Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Yeti Ham", ".007", "1", "N/A"],
+            ["DropTable16", "0.0030", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1652,7 +2092,7 @@
         "Next": "Neyeptune",
         "Image": "Bop Box_Walking.gif",
         "Area": "Overpass of Sound",
-        "defFor0": 0.22
+        "defFor0": 2072.08
     },
     "eye": {
         "Name": "Neyeptune",
@@ -1660,24 +2100,25 @@
         "MonsterFace": "45",
         "MonsterOffsetX": "38",
         "MonsterOffsetY": "32",
-        "HeightOfMonster": "44",
+        "HeightOfMonster": "63",
         "MonsterMoving": "1",
         "MovingFrame": "0",
         "DeathFrame": "12",
         "RespawnTime": "40",
-        "MonsterHPTotal": "300000",
+        "MonsterHPTotal": "350000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
         "ExpGiven": "1900",
         "ExpType": "0",
-        "Defence": "1",
+        "Defence": "3400",
         "MoveSPEED": "4",
-        "Damages": "0",
+        "Damages": "2000",
         "Drops": [
-            ["COIN", "0.5", "10", "N/A"],
+            ["COIN", "0.28", "490", "N/A"],
             ["Contact Lense", "0.16", "1", "N/A"],
             ["Neyeptune Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Black Lense", "0.00005", "1", "N/A"],
+            ["DropTable16", "0.0032", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1687,7 +2128,7 @@
         "Next": "Dedotated Ram",
         "Image": "Neyeptune_Walking.gif",
         "Area": "Crystal Basecamp",
-        "defFor0": 0.22
+        "defFor0": 2424.95
     },
     "mushR": {
         "Name": "Red Mushroom",
@@ -1745,7 +2186,7 @@
         "Damages": "2",
         "Drops": [
             ["COIN", "0.43", "60", "N/A"],
-            ["Dig Doug Card", "0.0001", "1", "N/A"],
+            ["Dig Doug Card", "0.10", "1", "N/A"],
             ["DropTable7", "0.0032", "1", "N/A"]
         ],
         "hasCard": "Yes",
@@ -1768,18 +2209,18 @@
         "MovingFrame": "8",
         "DeathFrame": "20",
         "RespawnTime": "40",
-        "MonsterHPTotal": "14000",
+        "MonsterHPTotal": "200000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
-        "ExpGiven": "420",
+        "ExpGiven": "2000",
         "ExpType": "0",
-        "Defence": "228",
+        "Defence": "100",
         "MoveSPEED": "4",
-        "Damages": "2",
+        "Damages": "200",
         "Drops": [
             ["COIN", "0.5", "10", "N/A"],
-            ["Xylobone Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["Xylobone Card", "0.05", "1", "N/A"],
+            ["DropTable14", "0.01", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1788,12 +2229,12 @@
         "Prev": "Dedotated Ram",
         "Next": "Bloodbone",
         "Image": "Xylobone_Walking.gif",
-        "defFor0": 0.5
+        "defFor0": 213.8
     },
     "skele2": {
         "Name": "Bloodbone",
         "AFKtype": "FIGHTING",
-        "MonsterFace": "23",
+        "MonsterFace": "48",
         "MonsterOffsetX": "38",
         "MonsterOffsetY": "47",
         "HeightOfMonster": "56",
@@ -1801,18 +2242,18 @@
         "MovingFrame": "8",
         "DeathFrame": "20",
         "RespawnTime": "40",
-        "MonsterHPTotal": "14000",
+        "MonsterHPTotal": "10000000",
         "Type": "MONSTER_TYPE",
         "SpecialType": "_",
-        "ExpGiven": "420",
+        "ExpGiven": "6000",
         "ExpType": "0",
-        "Defence": "228",
+        "Defence": "100",
         "MoveSPEED": "4",
-        "Damages": "2",
+        "Damages": "3000",
         "Drops": [
             ["COIN", "0.5", "10", "N/A"],
             ["Bloodbone Card", "0.0001", "1", "N/A"],
-            ["DropTable8", "0.4", "1", "N/A"]
+            ["DropTable16", "0.00004", "1", "N/A"]
         ],
         "hasCard": "Yes",
         "World": "Frostfire Tyundra",
@@ -1821,7 +2262,8 @@
         "Prev": "Xylobone",
         "Next": "Crystal Cattle",
         "Image": "Bloodbone_Walking.gif",
-        "defFor0": 0.5
+        "Area": "Hell Hath Frozen Over",
+        "defFor0": 3563.92
     },
     "wolfA": {
         "Name": "Amarok",
@@ -1997,7 +2439,7 @@
         ],
         "hasCard": "Yes",
         "Prev": "Efaunt",
-        "Next": "Ghost",
+        "Next": "Chizoar",
         "Image": "Chaotic Efaunt_Walking.gif",
         "defFor0": 1223.26
     },
@@ -2032,6 +2474,111 @@
             ["DropTable8", "1", "2", "N/A"]
         ],
         "Image": "Nightmare Amarok_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "Boss3A": {
+        "Name": "Chizoar",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "20000000",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "775",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["COIN", "1", "4000", "N/A"],
+            ["Efaunt Card", "0.035", "1", "N/A"],
+            ["Midnight Cookie", "0.07", "1", "N/A"],
+            ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+            ["Royal Turban", "0.000667", "1", "N/A"],
+            ["Ripped Tunic", "0.3", "1", "N/A"],
+            ["DropTable6", "1", "2", "N/A"],
+            ["DropTable7", "1", "2", "N/A"],
+            ["DropTable8", "1", "2", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Chaotic Efaunt",
+        "Next": "Chaotic Chizoar",
+        "Image": "Chizoar_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "Boss3B": {
+        "Name": "Chaotic Chizoar",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "750000000",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "4000",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["COIN", "1", "4000", "N/A"],
+            ["Chaotic Efaunt Card", "0.045", "1", "N/A"],
+            ["Midnight Cookie", "0.07", "1", "N/A"],
+            ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+            ["Royal Turban", "0.000667", "1", "N/A"],
+            ["Ripped Tunic", "0.4", "3", "N/A"],
+            ["Ribbed Tunic", "0.2", "1", "N/A"],
+            ["DropTable7", "1", "2", "N/A"],
+            ["DropTable8", "1", "2", "N/A"]
+        ],
+        "hasCard": "Yes",
+        "Prev": "Chizoar",
+        "Next": "Ghost",
+        "Image": "Chaotic Chizoar_Walking.gif",
+        "defFor0": 1223.26
+    },
+    "Boss3C": {
+        "Name": "Nightmare Chizoar",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "4",
+        "MonsterOffsetX": "42",
+        "MonsterOffsetY": "28",
+        "HeightOfMonster": "85",
+        "MonsterMoving": "1",
+        "MovingFrame": "4",
+        "DeathFrame": "13",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "750000",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "a",
+        "ExpGiven": "12000",
+        "ExpType": "0",
+        "Defence": "600",
+        "MoveSPEED": "3",
+        "Damages": "1000",
+        "Drops": [
+            ["COIN", "1", "4000", "N/A"],
+            ["Efaunt Card", "0.01", "1", "N/A"],
+            ["Midnight Cookie", "0.07", "1", "N/A"],
+            ["Skeletal Obol of Efaunt's Gaze", "0.001", "1", "N/A"],
+            ["Royal Turban", "0.000667", "1", "N/A"],
+            ["Mystery Upgrade Stone I", "0.03", "1", "N/A"],
+            ["DropTable6", "1", "2", "N/A"],
+            ["DropTable7", "1", "2", "N/A"],
+            ["DropTable8", "1", "2", "N/A"]
+        ],
+        "Image": "Nightmare Chizoar_Walking.gif",
         "defFor0": 1223.26
     },
     "poopBig": {
@@ -2097,7 +2644,7 @@
             ["DropTable3", "1", ".5", "N/A"]
         ],
         "hasCard": "Yes",
-        "Prev": "Crystal Cattle",
+        "Prev": "Flycicle",
         "Next": "Dr Defecaus",
         "Image": "Baba Yaga_Walking.gif",
         "defFor0": 466.07
@@ -2396,6 +2943,7 @@
         "MoveSPEED": "3",
         "Damages": "1000",
         "Image": "Nightmare Amarok_Walking.gif",
+        "Drops": [],
         "defFor0": 1223.26
     },
     "ghost": {
@@ -2427,7 +2975,7 @@
             ["Mistleberries", "0.3", "2", "N/A"]
         ],
         "hasCard": "Yes",
-        "Prev": "Chaotic Efaunt",
+        "Prev": "Chaotic Chizoar",
         "Next": "Giftmas Blobulyte",
         "Image": "Ghost_Walking.gif",
         "defFor0": 2
@@ -2635,6 +3183,56 @@
         "Image": "Grocery Bag_Walking.gif",
         "defFor0": 2.67
     },
+    "BugNest5": {
+        "Name": "Snowden",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "0",
+        "MonsterOffsetX": "32",
+        "MonsterOffsetY": "30",
+        "HeightOfMonster": "100",
+        "MonsterMoving": "0",
+        "MovingFrame": "63",
+        "DeathFrame": "4",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "999999999",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "_",
+        "ExpGiven": "2",
+        "ExpType": "6",
+        "Defence": "1",
+        "MoveSPEED": "0",
+        "Damages": "6",
+        "Drops": [
+            ["Frog Leg", "0.0", "2", "N/A"]
+        ],
+        "Image": "Snowden_Walking.gif",
+        "defFor0": 2.67
+    },
+    "BugNest6": {
+        "Name": "Icicle Nest",
+        "AFKtype": "FIGHTING",
+        "MonsterFace": "0",
+        "MonsterOffsetX": "32",
+        "MonsterOffsetY": "30",
+        "HeightOfMonster": "100",
+        "MonsterMoving": "0",
+        "MovingFrame": "63",
+        "DeathFrame": "5",
+        "RespawnTime": "86400",
+        "MonsterHPTotal": "999999999",
+        "Type": "MONSTER_TYPE",
+        "SpecialType": "_",
+        "ExpGiven": "2",
+        "ExpType": "6",
+        "Defence": "1",
+        "MoveSPEED": "0",
+        "Damages": "6",
+        "Drops": [
+            ["Frog Leg", "0.0", "2", "N/A"]
+        ],
+        "Image": "Icicle Nest_Walking.gif",
+        "defFor0": 2.67
+    },
     "BossPart": {
         "Name": "Error",
         "AFKtype": "FIGHTING",
@@ -2654,6 +3252,7 @@
         "MoveSPEED": "4",
         "Damages": "20",
         "Image": "Error_Walking.gif",
+        "Drops": [],
         "defFor0": 12.82
     },
     "EfauntArm": {
@@ -2701,6 +3300,7 @@
         "MoveSPEED": "4",
         "Damages": "5",
         "Image": "Error_Walking.gif",
+        "Drops": [],
         "defFor0": 2
     },
     "demonPtutorial": {
@@ -2723,6 +3323,7 @@
         "MoveSPEED": "3",
         "Damages": "150",
         "Image": "Error_Walking.gif",
+        "Drops": [],
         "defFor0": 152.99
     },
     "behemoth": {
@@ -2745,6 +3346,7 @@
         "MoveSPEED": "0",
         "Damages": "0",
         "Image": "Error_Walking.gif",
+        "Drops": [],
         "defFor0": 0.22
     },
     "Nothing": {
@@ -2768,6 +3370,7 @@
         "Damages": "0",
         "Image": " _Walking.gif",
         "Area": "Blunder Hills",
+        "Drops": [],
         "defFor0": 0.22
     }
 }

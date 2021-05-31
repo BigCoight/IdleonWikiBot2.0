@@ -18,11 +18,11 @@
 |resource2=Goldfish|quantity2=400
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Copper Bar|200}}
-{{detrecipe|3|Goldfish|400}}
+{{detrecipe|3|CopperBar|200}}
+{{detrecipe|3|Fish1|400}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Copper Bar|200}}
-{{detrecipe/totals|Goldfish|400}}
+{{detrecipe/totals|CopperBar|200}}
+{{detrecipe/totals|Fish1|400}}
 |}

@@ -1,0 +1,7 @@
+{{DropTable/head}}
+{{DropTable/row|Overkill Stamp|{{#expr: {{{chance}}}*.0003}}|1}}
+{{DropTable/row|Violence Stamp|{{#expr: {{{chance}}}*.00015}}|1}}
+{{DropTable/row|Mountain Bread|{{#expr: {{{chance}}}*.5}}|15}}
+{{DropTable/row|EhExPee Statue|{{#expr: {{{chance}}}*.04}}|14}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}
+|}

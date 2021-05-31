@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Lustre Ore
-|order=3
-|category=Medium Resources
+|order=8
+|category=Bosses
 |effect=+{_Base_LUK
 |bonus=4
 |reqtier=10

@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=17
-|type=Skills
+|type=Skills Stamp
 |bonus= Fishing Efficiency
 |material=Fly
 |sellprice=2000

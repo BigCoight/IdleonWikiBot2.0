@@ -23,13 +23,13 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Bean Slices|30}}
-{{detrecipe|3|Copper Bar|20}}
-{{detrecipe|3|Grass Leaf|20}}
+{{detrecipe|3|Grasslands3|30}}
+{{detrecipe|3|CopperBar|20}}
+{{detrecipe|3|Leaf1|20}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bean Slices|30}}
-{{detrecipe/totals|Copper Bar|20}}
-{{detrecipe/totals|Grass Leaf|20}}
+{{detrecipe/totals|Grasslands3|30}}
+{{detrecipe/totals|CopperBar|20}}
+{{detrecipe/totals|Leaf1|20}}
 |}

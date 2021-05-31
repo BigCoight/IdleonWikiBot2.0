@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=2
-|type=Misc
+|type=Misc Stamp
 |bonus=% All Carry Cap
 |material=Glass Shard
 |sellprice=10000

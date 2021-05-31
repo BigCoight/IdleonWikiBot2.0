@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=4
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Carry Cap
 |material=Jungle Logs
 |sellprice=1000

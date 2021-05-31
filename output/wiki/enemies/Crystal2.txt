@@ -11,7 +11,7 @@
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
-{{EnemyNavigation|Bloodbone|Baba Yaga}}
+{{EnemyNavigation|Bloodbone|Wispy Tree}}
 {{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.008}}

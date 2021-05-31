@@ -2,7 +2,7 @@
 |type=Statue
 |description=A stone statue that looks good enough to eat to anyone who doesn't notice that it's inedible. Give this to the Statue Man in return for some bonus stats
 |sellprice=10
-|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[DropTable3b]], [[DropTable5b]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]]
 }}
 {{Statuedata|1|+ %@ Food Effect}}
 {{detdrops/head}}
@@ -12,4 +12,11 @@
 {{detdrops|[[Crystal Crabal]]|0.05|3.0}}
 {{detdrops|[[Crystal Cattle]]|0.05|3.0}}
 {{detdrops|[[Wood Mushroom]]|0.0001|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000012000000000000002|1.0}}
+{{detdrops|[[Quenchie]]|0.000075|1.0}}
+{{detdrops|[[Cryosnake]]|0.000084|1.0}}
+{{detdrops|[[Bop Box]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Neyeptune]]|0.000096|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000012000000000000002|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.03|1.0}}
 |}

@@ -10,9 +10,9 @@
 {{usedin/head}}
 {{usedin/row|[[Flip Flops]]|30|Crafting}}
 {{usedin/row|[[Cramped Material Pouch]]|30|Crafting}}
-{{usedin/row|[[Copper Helmet]]|75|Crafting}}
+{{usedin/row|[[Copper Helmet]]|50|Crafting}}
 {{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 {{usedin/row|[[Quicc Cauldron#Hammer Hammer|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Dieter Drenk|Dieter Drenk]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Dieter Drink|Dieter Drink]]|Lots|Alchemy}}
 |}

@@ -1,108 +1,238 @@
+Froge
 {{InfoItem
 |type=Critter
-|description=The living embodiment of the classic cryptocurrency Frogecoin
+|description=The living embodiment of the classic cryptocurrency 'Frogecoin'. Very ribbit, much green, wow!!
 |sellprice=3
-|source=Trapping
+|source=Trapping, [[Froge]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Froge]]|1|1}}
+{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|65}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Small Critter Pouch]]|200|Crafting}}
+{{usedin/row|[[Dementia Helmet]]|5000|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|100|Quests}}
+{{usedin/row|[[Power Cauldron#Brittley Spears|Brittley Spears]]|Lots|Alchemy}}
+|}
+Poison Froge
 {{InfoItem
 |type=Critter
-|description=The living embodiment of the classic cryptocurrency Frogecoin
-|sellprice=3
+|description=Ew, it's the living embodiment of that scam alt-coin crypto ripoff, 'Frogecoin Cash'
+|sellprice=100
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Silkskin Traps]]|1|Crafting}}
+{{usedin/row|[[Dementia Boots]]|3|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|1|Quests}}
+{{usedin/row|[[Vials#Poison Tincture|Poison Tincture]]|Lots|Alchemy}}
+|}
+Crabbo
 {{InfoItem
 |type=Critter
 |description=Argg, yer spendin' all me money!
-|sellprice=3
-|source=Trapping
+|sellprice=5
+|source=Trapping, [[Crabbo]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Crabbo]]|0.015|1}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|350}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Sizable Critter Pouch]]|1000|Crafting}}
+{{usedin/row|[[Critter Numnums]]|100|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|250|Quests}}
+{{usedin/row|[[High-IQ Cauldron#Call Me Pope|Call Me Pope]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Crab Juice|Crab Juice]]|Lots|Alchemy}}
+|}
+Mutant Crabbo
 {{InfoItem
 |type=Critter
-|description=Argghgg, yershpend annual memo knee!!... Yea mutants can't speak very well, probably on account of the radiation poisioning and all that. 
-|sellprice=3
+|description=Argghgg, yershpend inall memuh knee!!... Yea, mutants can't speak very well, probably on account of the radiation poisioning and all that.
+|sellprice=2000
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Wooden Traps]]|2|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|1|Quests}}
+|}
+Scorpie
 {{InfoItem
 |type=Critter
-|description=This cutie will stab its way into your heart if you aren't careful! No seriosuly please be careful the bugger pricked my foot the other day and it hurt bad.
-|sellprice=3
-|source=Trapping
+|description=This cutie will stab its way into your heart if you aren't careful! No seriosuly, be careful, the bugger pricked my foot the other day and it hurt bad.
+|sellprice=10
+|source=Trapping, [[Scorpie]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Scorpie]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|500|Quests}}
+{{usedin/row|[[Kazam Cauldron#Big Game Hunter|Big Game Hunter]]|Lots|Alchemy}}
+|}
+Crescent Scropie
 {{InfoItem
 |type=Critter
-|description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!!
-|sellprice=3
+|description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!! SOMEONE DIRECT ME TO THE CAN OPENERRRR!!!!
+|sellprice=10
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Fish Pouch]]|4|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|2|Quests}}
+{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|500|Quests}}
+|}
+Mousey
 {{InfoItem
 |type=Critter
 |description=Adorable!!! Look how cute it's tail is, and that itty bitty nose, and the fact that it's a mouse and not a rat so I don't want to hit it with a broom!
-|sellprice=3
-|source=Trapping
+|sellprice=15
+|source=Trapping, [[Mousey]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Mousey]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Big Critter Pouch]]|10000|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|1000|Quests}}
+{{usedin/row|[[Power Cauldron#Buff Boi Talent|Buff Boi Talent]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#Bubonic Burp|Bubonic Burp]]|Lots|Alchemy}}
+|}
+Nakeo Moleo
 {{InfoItem
 |type=Critter
-|description=This mole ain't got no fur! Ew, gross!!! Disgusting even!!!!! Imagine an animal with no fur... eugh just the thought...
+|description=This mole ain't got no fur! Ew, gross!! Disgusting even!!! What kind of wretched abomination has skin but no thick layer of fur??
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Natural Traps]]|5|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|2|Quests}}
+|}
+Owlio
 {{InfoItem
 |type=Critter
 |description=Hoot hoot! Yea thats all I got for this one.
-|sellprice=3
-|source=Trapping
+|sellprice=23
+|source=Trapping, [[Owlio]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Owlio]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Happy Tree Friend|Happy Tree Friend]]|1500|Quests}}
+{{usedin/row|[[Quicc Cauldron#Green Bargain|Green Bargain]]|Lots|Alchemy}}
+|}
+Minervowl
 {{InfoItem
 |type=Critter
-|description=It's a more expensive hoot, I guess. Sorry I ain't got no jokes for owls.
+|description=It's a more expensive hoot, I guess. I ain't got no jokes for owls, they're too cool.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Rod]]|3|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Happy Tree Friend|Happy Tree Friend]]|3|Quests}}
+|}
+Pingy
 {{InfoItem
 |type=Critter
 |description=It's basically just Gunter but with RTX off.
-|sellprice=3
-|source=Trapping
+|sellprice=35
+|source=Trapping, [[Pingy]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Pingy]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Large Critter Pouch]]|30000|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Noot Noot!|Noot Noot!]]|2500|Quests}}
+{{usedin/row|[[Kazam Cauldron#Yellow Bargain|Yellow Bargain]]|Lots|Alchemy}}
+|}
+Eternal Lord of  The Undying Ember
 {{InfoItem
 |type=Critter
-|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind and darkness to umm... people who can't remember what to say. Ah crap.
+|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind, and darkness to those who recite his title in full. ...ah crap.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Deuscythe]]|5|Crafting}}
+{{usedin/row|[[Steel Traps]]|6|Crafting}}
+{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Noot Noot!|Noot Noot!]]|4|Quests}}
+{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|250|Quests}}
+|}
+Bunny
 {{InfoItem
 |type=Critter
 |description=It could use a carrot, the lil' guy needs some food!
-|sellprice=3
-|source=Trapping
+|sellprice=47
+|source=Trapping, [[Bunny]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Bunny]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|4000|Quests}}
+{{usedin/row|[[Vials#Bunny Brew|Bunny Brew]]|Lots|Alchemy}}
+|}
+Purbunni
 {{InfoItem
 |type=Critter
 |description=The other bunny is brilliant... But I like this one more.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
+|}
+Dung Beat
 {{InfoItem
 |type=Critter
-|description=Dodo tshh do dodo tss dodo tss badabada dodoooo
-|sellprice=3
-|source=Trapping
+|description=You lean closer to the critter, and hear it say 'Dodo tshh do dodo tss dodo tss badabada dodoooo'. So no, that name isn't a typo.
+|sellprice=55
+|source=Trapping, [[Dung Beat]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Dung Beat]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Rollin' Thunder!|Rollin' Thunder!]]|8000|Quests}}
+|}
+Jade Scarab
 {{InfoItem
 |type=Critter
 |description=Oh I guess this one is a scarab, not a beetle. You can tell because of the way it is.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
+|}
+Honker
 {{InfoItem
 |type=Critter
 |description=HONK! HONK!
-|sellprice=3
-|source=Trapping
+|sellprice=80
+|source=Trapping, [[Honker]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Honker]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Untitled Quest|Untitled Quest]]|65000|Quests}}
+{{usedin/row|[[Vials#Goosey Glug|Goosey Glug]]|Lots|Alchemy}}
+|}
+Diamond Duck
 {{InfoItem
 |type=Critter
-|description=One of the only beings strong enough to take on the Eternal Lord of the Undying Ember realm... their battle would be legendary.
+|description=One of the only beings strong enough to take on the Eternal Lord of the Undying Ember realm. Their battle would be legendary.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Untitled Quest|Untitled Quest]]|1|Quests}}
+{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|100|Quests}}
+|}

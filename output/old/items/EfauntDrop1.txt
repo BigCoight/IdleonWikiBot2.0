@@ -2,11 +2,13 @@
 |type=Monster Drop
 |description=A piece of Efaunt's tunic. I guess it must have gotten torn off while you were absolutely obliterating them with big time Damage.
 |sellprice=1
-|source=[[Efaunt]], [[Chaotic Efaunt]]
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Chizoar]], [[Chaotic Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.3|1}}
 {{detdrops|[[Chaotic Efaunt]]|0.4|3}}
+{{detdrops|[[Chizoar]]|0.3|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.4|3}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Efaunt Helmet]]|20|Crafting}}

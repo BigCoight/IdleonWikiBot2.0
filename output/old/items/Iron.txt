@@ -8,10 +8,10 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.6|50}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Small Mining Pouch]]|850|Crafting}}
+{{usedin/row|[[Small Mining Pouch]]|700|Crafting}}
 {{usedin/row|[[Purple Tupacband]]|50|Crafting}}
 {{usedin/row|[[Icing Ironbite]]|5|Crafting}}
-{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|250|Crafting}}
+{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|200|Crafting}}
 {{usedin/row|[[Cavern Trekkers]]|1200|Crafting}}
 {{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|1500|Quests}}
 {{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|200|Quests}}

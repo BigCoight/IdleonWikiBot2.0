@@ -13,14 +13,14 @@
 |resource2=Distilled Water|quantity2=2
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Fish Pouch]]|5|Crafting}}
+{{usedin/row|[[Average Fish Pouch]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Hermit Can|425}}
-{{detrecipe|3|Distilled Water|2}}
+{{detrecipe|3|Fish2|425}}
+{{detrecipe|3|PureWater|2}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hermit Can|425}}
-{{detrecipe/totals|Distilled Water|2}}
+{{detrecipe/totals|Fish2|425}}
+{{detrecipe/totals|PureWater|2}}
 |}

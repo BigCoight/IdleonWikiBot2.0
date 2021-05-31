@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Ghost_Walking.gif
+|attack=5
+|health=1000
+|defence=1
+|speed=5
+|exp=1
+|respawn=100
+|defence0=2
+|hascard=Yes
+}}
+{{EnemyNavigation|Chaotic Chizoar|Giftmas Blobulyte}}
+{{DropTable/head}}
+{{DropTable/coin|10|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Giftmas Box|0.15|1}}
+{{DropTable/row|Giftybread Man|0.3|2}}
+{{DropTable/row|Chogg Nog|0.3|2}}
+{{DropTable/row|Candy Canes|0.3|2}}
+{{DropTable/row|Mistleberries|0.3|2}}
+|}

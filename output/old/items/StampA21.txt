@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=21
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Defence
 |material=Platinum Bar
 |sellprice=12000
+|source=[[Snouts#A Salty Fall|A Salty Fall]]
 }}

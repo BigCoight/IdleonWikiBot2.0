@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Logs, Leaves.
-|sellprice=321750
+|sellprice=220500
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -10,23 +10,26 @@
 |expgiven=9000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Tropilogs|quantity1=6750
-|resource2=Average Choppin Pouch|quantity2=5
+|resource2=Average Choppin Pouch|quantity2=3
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Choppin Pouch]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Tropilogs|6750}}
-{{detrecipe|3|Average Choppin Pouch|5}}
-{{detrecipe|40|Cramped Choppin Pouch|50}}
-{{detrecipe|80|Oak Logs|7500}}
-{{detrecipe|80|Trusty Nails|1500}}
-{{detrecipe|40|Small Choppin Pouch|25}}
-{{detrecipe|80|Bleach Logs|21250}}
-{{detrecipe|40|Forest Fibres|9000}}
+{{detrecipe|3|PalmTree|6750}}
+{{detrecipe|3|MaxCapBagT3|3}}
+{{detrecipe|40|MaxCapBag7|15}}
+{{detrecipe|80|OakTree|2250}}
+{{detrecipe|80|CraftMat5|450}}
+{{detrecipe|40|MaxCapBag9|9}}
+{{detrecipe|80|BirchTree|7200}}
+{{detrecipe|40|ForestTree|5400}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Tropilogs|6750}}
-{{detrecipe/totals|Oak Logs|7500}}
-{{detrecipe/totals|Trusty Nails|1500}}
-{{detrecipe/totals|Bleach Logs|21250}}
-{{detrecipe/totals|Forest Fibres|9000}}
+{{detrecipe/totals|PalmTree|6750}}
+{{detrecipe/totals|OakTree|2250}}
+{{detrecipe/totals|CraftMat5|450}}
+{{detrecipe/totals|BirchTree|7200}}
+{{detrecipe/totals|ForestTree|5400}}
 |}

@@ -1,0 +1,10 @@
+{{InfoItem
+|type=Golden Food
+|description=Claiming AFK gains levels up shrines [% faster. Golden foods are never consumed.
+|sellprice=100
+|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+}}
+{{gfoodbonus|20|Claiming AFK gains levels up shrines [% faster.}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.3|1}}
+|}

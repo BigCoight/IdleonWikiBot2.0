@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Anvil Expansion
 |description=Unlocks the 3rd tab of craftable items for all anvils!
-|sellprice=1185500
+|sellprice=1213500
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -10,20 +10,20 @@
 |expgiven=135000
 |recipefrom=Start
 |resource1=Platinum Bar|quantity1=2000
-|resource2=Not Yet|quantity2=2000
+|resource2=Bloach|quantity2=2000
 |resource3=Fruitfly|quantity3=2000
 |resource4=High Steaks|quantity4=1500
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Platinum Bar|2000}}
-{{detrecipe|3|Not Yet|2000}}
-{{detrecipe|3|Fruitfly|2000}}
-{{detrecipe|3|High Steaks|1500}}
+{{detrecipe|3|PlatBar|2000}}
+{{detrecipe|3|Fish4|2000}}
+{{detrecipe|3|Bug4|2000}}
+{{detrecipe|3|DesertC1|1500}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Platinum Bar|2000}}
-{{detrecipe/totals|Not Yet|2000}}
-{{detrecipe/totals|Fruitfly|2000}}
-{{detrecipe/totals|High Steaks|1500}}
+{{detrecipe/totals|PlatBar|2000}}
+{{detrecipe/totals|Fish4|2000}}
+{{detrecipe/totals|Bug4|2000}}
+{{detrecipe/totals|DesertC1|1500}}
 |}

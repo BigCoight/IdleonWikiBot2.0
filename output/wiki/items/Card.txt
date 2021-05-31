@@ -1,3 +1,4 @@
+Green Mushroom Card
 {{InfoCard
 |title=Green Mushroom
 |order=0
@@ -10,6 +11,7 @@
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.0001|1}}
 |}
+Red Mushroom Card
 {{InfoCard
 |title=Red Mushroom
 |order=1
@@ -22,6 +24,7 @@
 {{detdrops/head}}
 {{detdrops|[[Red Mushroom]]|0.0001|1}}
 |}
+Frog Card
 {{InfoCard
 |title=Frog
 |order=2
@@ -34,6 +37,7 @@
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.0001|1}}
 |}
+Bored Bean Card
 {{InfoCard
 |title=Bored Bean
 |order=3
@@ -46,6 +50,7 @@
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.000097|1}}
 |}
+Slime Card
 {{InfoCard
 |title=Slime
 |order=4
@@ -58,6 +63,7 @@
 {{detdrops/head}}
 {{detdrops|[[Slime]]|0.000095|1}}
 |}
+Baby Boa Card
 {{InfoCard
 |title=Baby Boa
 |order=5
@@ -70,6 +76,7 @@
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.000094|1}}
 |}
+Carrotman Card
 {{InfoCard
 |title=Carrotman
 |order=6
@@ -82,6 +89,7 @@
 {{detdrops/head}}
 {{detdrops|[[Carrotman]]|0.000090|1}}
 |}
+Glublin Card
 {{InfoCard
 |title=Glublin
 |order=7
@@ -94,6 +102,7 @@
 {{detdrops/head}}
 {{detdrops|[[Glublin]]|0.000086|1}}
 |}
+Wode Board Card
 {{InfoCard
 |title=Wode Board
 |order=8
@@ -106,6 +115,7 @@
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.000080|1}}
 |}
+Gigafrog Card
 {{InfoCard
 |title=Gigafrog
 |order=9
@@ -118,6 +128,7 @@
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.000070|1}}
 |}
+Poop Card
 {{InfoCard
 |title=Poop
 |order=10
@@ -130,6 +141,7 @@
 {{detdrops/head}}
 {{detdrops|[[Poop]]|0.000060|1}}
 |}
+Rat Card
 {{InfoCard
 |title=Rat
 |order=11
@@ -142,6 +154,7 @@
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.000050|1}}
 |}
+Walking Stick Card
 {{InfoCard
 |title=Walking Stick
 |order=12
@@ -154,6 +167,7 @@
 {{detdrops/head}}
 {{detdrops|[[Walking Stick]]|0.000060|1}}
 |}
+Nutto Card
 {{InfoCard
 |title=Nutto
 |order=13
@@ -166,6 +180,7 @@
 {{detdrops/head}}
 {{detdrops|[[Nutto]]|0.000050|1}}
 |}
+Crystal Carrot Card
 {{InfoCard
 |title=Crystal Carrot
 |order=14
@@ -178,10 +193,11 @@
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.01|1}}
 |}
+Boop Card
 {{InfoCard
 |title=Boop
 |order=2
-|category=Bosses
+|category=Event
 |effect=+{%_Fighting_AFK_gain_rate
 |bonus=1
 |reqtier=1
@@ -190,6 +206,7 @@
 {{detdrops/head}}
 {{detdrops|[[Boop]]|0.0015|1}}
 |}
+Wood Mushroom Card
 {{InfoCard
 |title=Wood Mushroom
 |order=15
@@ -202,6 +219,7 @@
 {{detdrops/head}}
 {{detdrops|[[Wood Mushroom]]|0.0001|1}}
 |}
+Sandy Pot Card
 {{InfoCard
 |title=Sandy Pot
 |order=0
@@ -214,6 +232,7 @@
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.0001|1}}
 |}
+Mimic Card
 {{InfoCard
 |title=Mimic
 |order=1
@@ -226,18 +245,20 @@
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.0001|1}}
 |}
+Crabcake Card
 {{InfoCard
 |title=Crabcake
 |order=2
 |category=Yum Yum Desert
 |effect=+{%_To_not_consume_Food
-|bonus=6
+|bonus=5
 |reqtier=10
 |source=[[Crabcake]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.0001|1}}
 |}
+Mafioso Card
 {{InfoCard
 |title=Mafioso
 |order=3
@@ -250,6 +271,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mafioso]]|0.0001|1}}
 |}
+Sand Castle Card
 {{InfoCard
 |title=Sand Castle
 |order=4
@@ -262,6 +284,7 @@
 {{detdrops/head}}
 {{detdrops|[[Sand Castle]]|0.0001|1}}
 |}
+Pincermin Card
 {{InfoCard
 |title=Pincermin
 |order=5
@@ -274,6 +297,7 @@
 {{detdrops/head}}
 {{detdrops|[[Pincermin]]|0.0001|1}}
 |}
+Mashed Potato Card
 {{InfoCard
 |title=Mashed Potato
 |order=6
@@ -286,6 +310,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mashed Potato]]|0.0001|1}}
 |}
+Tyson Card
 {{InfoCard
 |title=Tyson
 |order=7
@@ -298,6 +323,7 @@
 {{detdrops/head}}
 {{detdrops|[[Tyson]]|0.0001|1}}
 |}
+Moonmoon Card
 {{InfoCard
 |title=Moonmoon
 |order=8
@@ -310,6 +336,7 @@
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.0001|1}}
 |}
+Sand Giant Card
 {{InfoCard
 |title=Sand Giant
 |order=9
@@ -322,6 +349,7 @@
 {{detdrops/head}}
 {{detdrops|[[Sand Giant]]|0.0001|1}}
 |}
+Snelbie Card
 {{InfoCard
 |title=Snelbie
 |order=10
@@ -334,6 +362,7 @@
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.0001|1}}
 |}
+Dig Doug Card
 {{InfoCard
 |title=Dig Doug
 |order=11
@@ -344,8 +373,9 @@
 |source=[[Dig Doug]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Dig Doug]]|0.0001|1}}
+{{detdrops|[[Dig Doug]]|0.10|1}}
 |}
+Crystal Crabal Card
 {{InfoCard
 |title=Desert Topaz
 |order=12
@@ -358,6 +388,7 @@
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.008|1}}
 |}
+Bandit Bob Card
 {{InfoCard
 |title=Bandit Bob
 |order=13
@@ -366,6 +397,7 @@
 |bonus=1
 |reqtier=1
 }}
+Copper Ore Card
 {{InfoCard
 |title=Copper Ore
 |order=0
@@ -378,6 +410,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mining#Drops|Mining Copper]]|0.0002|1}}
 |}
+Iron Ore Card
 {{InfoCard
 |title=Iron Ore
 |order=1
@@ -390,6 +423,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mining#Drops|Mining Iron]]|0.00013|1}}
 |}
+Gold Ore Card
 {{InfoCard
 |title=Gold Ore
 |order=2
@@ -402,6 +436,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mining#Drops|Mining Gold]]|0.00011|1}}
 |}
+Oak Logs Card
 {{InfoCard
 |title=Oak Logs
 |order=4
@@ -414,6 +449,7 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0004|1}}
 |}
+Bleach Logs Card
 {{InfoCard
 |title=Bleach Logs
 |order=5
@@ -426,6 +462,7 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.00029|1}}
 |}
+Jungle Logs Card
 {{InfoCard
 |title=Jungle Logs
 |order=6
@@ -438,6 +475,7 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.00021|1}}
 |}
+Forest Fibres Card
 {{InfoCard
 |title=Forest Fibres
 |order=7
@@ -450,6 +488,7 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00017|1}}
 |}
+Goldfish Card
 {{InfoCard
 |title=Goldfish
 |order=8
@@ -458,6 +497,7 @@
 |bonus=3
 |reqtier=10
 }}
+Hermit Can Card
 {{InfoCard
 |title=Hermit Can
 |order=9
@@ -466,6 +506,7 @@
 |bonus=5
 |reqtier=10
 }}
+Jellyfish Card
 {{InfoCard
 |title=Jellyfish
 |order=10
@@ -474,6 +515,7 @@
 |bonus=5
 |reqtier=10
 }}
+Fly Card
 {{InfoCard
 |title=Fly
 |order=11
@@ -481,11 +523,14 @@
 |effect=+{%_Monster_EXP_While_Active
 |bonus=4
 |reqtier=10
-|source=[[Catching#Drops|Catching Flies]]
+|source=[[Forest Soul]], [[Froge]], [[Catching#Drops|Catching Flies]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Forest Soul]]|0.00022|1}}
+{{detdrops|[[Froge]]|0.00022|1}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
 |}
+Butterfly Card
 {{InfoCard
 |title=Butterfly
 |order=12
@@ -493,11 +538,14 @@
 |effect=+{%_Total_Catching_Efficiency
 |bonus=5
 |reqtier=10
-|source=[[Catching#Drops|Catching Butterflies]]
+|source=[[Dune Soul]], [[Crabbo]], [[Catching#Drops|Catching Butterflies]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Dune Soul]]|0.00018|1}}
+{{detdrops|[[Crabbo]]|0.00018|1}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
 |}
+Fire Forge Card
 {{InfoCard
 |title=Fire Forge
 |order=3
@@ -506,6 +554,7 @@
 |bonus=4
 |reqtier=10
 }}
+Dementia Ore Card
 {{InfoCard
 |title=Dementia Ore
 |order=1
@@ -518,6 +567,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mining#Drops|Mining Dementia]]|0.00006|1}}
 |}
+Platinum Ore Card
 {{InfoCard
 |title=Platinum Ore
 |order=0
@@ -530,6 +580,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mining#Drops|Mining Plat]]|0.00008|1}}
 |}
+Void Ore Card
 {{InfoCard
 |title=Void Ore
 |order=2
@@ -538,17 +589,19 @@
 |bonus=6
 |reqtier=10
 }}
+Lustre Ore Card
 {{InfoCard
 |title=Lustre Ore
-|order=3
-|category=Medium Resources
+|order=8
+|category=Bosses
 |effect=+{_Base_LUK
 |bonus=4
 |reqtier=10
 }}
+Potty Rolls Card
 {{InfoCard
 |title=Potty Rolls
-|order=6
+|order=5
 |category=Medium Resources
 |effect=+{%_Choppin_Speed
 |bonus=4
@@ -558,9 +611,10 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00012|1}}
 |}
+Veiny Logs Card
 {{InfoCard
 |title=Veiny Logs
-|order=7
+|order=6
 |category=Medium Resources
 |effect=+{%_Total_Accuracy
 |bonus=3
@@ -570,9 +624,10 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.00013|1}}
 |}
+Tropilogs Card
 {{InfoCard
 |title=Tropilogs
-|order=5
+|order=4
 |category=Medium Resources
 |effect=+{%_Choppin_Away_Gains
 |bonus=2
@@ -582,231 +637,320 @@
 {{detdrops/head}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.00011|1}}
 |}
+Tundra Logs Card
+{{InfoCard
+|title=Tundra Logs
+|order=9
+|category=Bosses
+|effect=+{%_Choppin_Away_Gains
+|bonus=2.5
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Saharan Foal]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.0001|1}}
+|}
+Fruitfly Card
 {{InfoCard
 |title=Fruitfly
-|order=10
+|order=9
 |category=Medium Resources
 |effect=+{%_Catching_Away_Gains
 |bonus=2
 |reqtier=10
-|source=[[Catching#Drops|Catching Fruitflies]]
+|source=[[Frigid Soul]], [[Squiddy Soul]], [[Bandit Bob]], [[Mousey]], [[Owlio]], [[Pingy]], [[Bunny]], [[Dung Beat]], [[Honker]], [[Catching#Drops|Catching Fruitflies]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Frigid Soul]]|0.00014|1}}
+{{detdrops|[[Squiddy Soul]]|0.00014|1}}
+{{detdrops|[[Bandit Bob]]|0.00014|1}}
+{{detdrops|[[Mousey]]|0.00014|1}}
+{{detdrops|[[Owlio]]|0.00014|1}}
+{{detdrops|[[Pingy]]|0.00014|1}}
+{{detdrops|[[Bunny]]|0.00014|1}}
+{{detdrops|[[Dung Beat]]|0.00014|1}}
+{{detdrops|[[Honker]]|0.00014|1}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
 |}
+Sentient Cereal Card
 {{InfoCard
 |title=Sentient Cereal
-|order=9
+|order=8
 |category=Medium Resources
 |effect=+{%_Catching_EXP
 |bonus=5
 |reqtier=10
-|source=[[Catching#Drops|Catching Sentient Cereal]]
+|source=[[Rooted Soul]], [[Scorpie]], [[Catching#Drops|Catching Sentient Cereal]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Rooted Soul]]|0.00016|1}}
+{{detdrops|[[Scorpie]]|0.00016|1}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00016|1}}
 |}
+Bloach Card
 {{InfoCard
 |title=Bloach
-|order=8
+|order=7
 |category=Medium Resources
 |effect=+{%_Fishing_Away_Gains
 |bonus=2
 |reqtier=10
 }}
+Cinder Forge Card
 {{InfoCard
 |title=Cinder Forge
-|order=4
+|order=3
 |category=Medium Resources
 |effect=+{%_Smithing_EXP
 |bonus=7
 |reqtier=10
 }}
+Forest Soul Card
+{{InfoCard
+|title=Forest Soul
+|order=10
+|category=Medium Resources
+|effect=+{%_Defence_from_Equipment
+|bonus=3
+|reqtier=3
+}}
+Dune Soul Card
+{{InfoCard
+|title=Dune Soul
+|order=11
+|category=Medium Resources
+|effect=+{%_Max_Charge
+|bonus=3
+|reqtier=3
+}}
+Froge Card
+{{InfoCard
+|title=Froge
+|order=12
+|category=Medium Resources
+|effect=+{%_Shiny_Critter_Chance
+|bonus=3
+|reqtier=4
+}}
+Crabbo Card
+{{InfoCard
+|title=Crabbo
+|order=13
+|category=Medium Resources
+|effect=+{%_Base_HP
+|bonus=5
+|reqtier=4
+}}
+Scorpie Card
+{{InfoCard
+|title=Scorpie
+|order=14
+|category=Medium Resources
+|effect=+{%_Base_HP
+|bonus=3
+|reqtier=4
+}}
+Sheepie Card
 {{InfoCard
 |title=Sheepie
 |order=0
 |category=Frostfire Tyundra
-|effect=+{%_Money_from_Monsters
-|bonus=10
-|reqtier=1.5
+|effect=+{%_Defence_from_Equipment
+|bonus=3
+|reqtier=11
 |source=[[Sheepie]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Sheepie]]|0.0001|1}}
 |}
+Frost Flake Card
 {{InfoCard
 |title=Frost Flake
 |order=1
 |category=Frostfire Tyundra
-|effect=+{%_Total_Damage
-|bonus=5
-|reqtier=1.5
+|effect=+{_Base_STR
+|bonus=7
+|reqtier=12
 |source=[[Frost Flake]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.0001|1}}
 |}
+Sir Stache Card
 {{InfoCard
 |title=Sir Stache
 |order=2
 |category=Frostfire Tyundra
-|effect=+{%_Skill_AFK_gain_rate
-|bonus=2.5
-|reqtier=1.5
+|effect=+{%_Card_Drop_Chance
+|bonus=8
+|reqtier=13
 |source=[[Sir Stache]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Sir Stache]]|0.0001|1}}
 |}
+Bloque Card
 {{InfoCard
 |title=Bloque
 |order=3
 |category=Frostfire Tyundra
-|effect=+{%_Fighting_AFK_gain_rate
-|bonus=2.5
-|reqtier=1.5
+|effect=+{_Base_AGI
+|bonus=7
+|reqtier=14
 |source=[[Bloque]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Bloque]]|0.0001|1}}
 |}
+mamooth Card
 {{InfoCard
 |title=mamooth
 |order=4
 |category=Frostfire Tyundra
-|effect=+{%_Double_AFK_claim_chance
-|bonus=3
-|reqtier=1.5
+|effect=+{%_Base_HP
+|bonus=3.5
+|reqtier=15
 |source=[[mamooth]]
 }}
 {{detdrops/head}}
 {{detdrops|[[mamooth]]|0.0001|1}}
 |}
+Snowman Card
 {{InfoCard
 |title=Snowman
 |order=5
 |category=Frostfire Tyundra
-|effect=+{%_Total_Drop_Rate
-|bonus=6
-|reqtier=1.5
+|effect=+{%_Total_Damage
+|bonus=3
+|reqtier=15
 |source=[[Snowman]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Snowman]]|0.0001|1}}
 |}
+Penguin Card
 {{InfoCard
 |title=Penguin
 |order=6
 |category=Frostfire Tyundra
-|effect=+{%_EXP_from_monsters
-|bonus=5
-|reqtier=1.5
+|effect=+{_Base_WIS
+|bonus=7
+|reqtier=15
 |source=[[Penguin]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Penguin]]|0.0001|1}}
 |}
+Thermister Card
 {{InfoCard
 |title=Thermister
 |order=7
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_Critical_Damage
+|bonus=4
+|reqtier=15
 |source=[[Thermister]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Thermister]]|0.0001|1}}
 |}
+Quenchie Card
 {{InfoCard
 |title=Quenchie
 |order=8
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{_Base_LUK
+|bonus=7
+|reqtier=17
 |source=[[Quenchie]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Quenchie]]|0.0001|1}}
 |}
+Cryosnake Card
 {{InfoCard
 |title=Cryosnake
 |order=9
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_MP_regen_rate
+|bonus=5
+|reqtier=17
 |source=[[Cryosnake]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Cryosnake]]|0.0001|1}}
 |}
+Bop Box Card
 {{InfoCard
 |title=Bop Box
 |order=10
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
+|effect=+{%_Total_Drop_Rate
 |bonus=3
-|reqtier=10
+|reqtier=17
 |source=[[Bop Box]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Bop Box]]|0.0001|1}}
 |}
+Neyeptune Card
 {{InfoCard
 |title=Neyeptune
 |order=11
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_Total_Accuracy
+|bonus=5
+|reqtier=17
 |source=[[Neyeptune]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.0001|1}}
 |}
+Xylobone Card
 {{InfoCard
 |title=Xylobone
 |order=13
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_Critical_Chance
+|bonus=1
+|reqtier=15
 |source=[[Xylobone]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Xylobone]]|0.0001|1}}
+{{detdrops|[[Xylobone]]|0.05|1}}
 |}
+Bloodbone Card
 {{InfoCard
 |title=Bloodbone
 |order=14
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
+|effect=+{%_Total_Damage
 |bonus=3
-|reqtier=10
+|reqtier=15
 |source=[[Bloodbone]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Bloodbone]]|0.0001|1}}
 |}
+Dedotated Ram Card
 {{InfoCard
 |title=Dedotated Ram
 |order=12
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{_Weapon_Power
+|bonus=2
+|reqtier=20
 |source=[[Dedotated Ram]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Dedotated Ram]]|0.0001|1}}
 |}
+Glacier Quartz Card
 {{InfoCard
 |title=Glacier Quartz
 |order=15
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
+|effect=+{%_EXP_from_monsters
 |bonus=3
 |reqtier=10
 |source=[[Crystal Cattle]]
@@ -814,10 +958,113 @@
 {{detdrops/head}}
 {{detdrops|[[Crystal Cattle]]|0.008|1}}
 |}
+Wispy Lumber Card
+{{InfoCard
+|title=Wispy Lumber
+|order=0
+|category=Bosses
+|effect=+{%_Choppin_Speed
+|bonus=6
+|reqtier=10
+|source=[[Choppin#Drops|Choppin Wispy Tree]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.0001|1}}
+|}
+Rooted Soul Card
+{{InfoCard
+|title=Rooted Soul
+|order=1
+|category=Bosses
+|effect=+{_Starting_Pts_in_Worship
+|bonus=6
+|reqtier=3
+}}
+Mousey Card
+{{InfoCard
+|title=Mousey
+|order=4
+|category=Bosses
+|effect=+{%_Shiny_Critter_Chance
+|bonus=2.5
+|reqtier=4
+}}
+Owlio Card
+{{InfoCard
+|title=Owlio
+|order=5
+|category=Bosses
+|effect=+{%_EXP_from_monsters
+|bonus=1.25
+|reqtier=4
+}}
+Pingy Card
+{{InfoCard
+|title=Pingy
+|order=6
+|category=Bosses
+|effect=+{%_Shiny_Critter_Chance
+|bonus=6
+|reqtier=5
+}}
+Bunny Card
+{{InfoCard
+|title=Bunny
+|order=7
+|category=Bosses
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=1
+|reqtier=6
+}}
+Mosquisnow Card
+{{InfoCard
+|title=Mosquisnow
+|order=10
+|category=Bosses
+|effect=+{%_Total_Catching_Efficiency
+|bonus=7
+|reqtier=10
+|source=[[Catching#Drops|Catching Mosquisnow]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00014|1}}
+|}
+Flycicle Card
+{{InfoCard
+|title=Flycicle
+|order=11
+|category=Bosses
+|effect=+{%_Catching_Away_Gains
+|bonus=2.5
+|reqtier=10
+|source=[[Catching#Drops|Catching Flycicle]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.00014|1}}
+|}
+Frigid Soul Card
+{{InfoCard
+|title=Frigid Soul
+|order=2
+|category=Bosses
+|effect=+{%_Max_Charge
+|bonus=2.5
+|reqtier=4
+}}
+Squiddy Soul Card
+{{InfoCard
+|title=Squiddy Soul
+|order=3
+|category=Bosses
+|effect=+{%_Charge_Rate
+|bonus=2.5
+|reqtier=5
+}}
+Ghost Card
 {{InfoCard
 |title=Ghost
 |order=0
-|category=Event
+|category=NYI
 |effect=+{%_Monster_EXP_While_Active
 |bonus=3
 |reqtier=2
@@ -828,26 +1075,29 @@
 {{detdrops|[[Meaning of Giftmas]]|0.05|1}}
 {{detdrops|[[Ghost]]|0.05|1}}
 |}
+Giftmas Blobulyte Card
 {{InfoCard
 |title=Giftmas Blobulyte
 |order=1
-|category=Event
+|category=NYI
 |effect=+{%_Total_Drop_Rate
 |bonus=3
 |reqtier=1.5
 }}
+Meaning of Giftmas Card
 {{InfoCard
 |title=Meaning of Giftmas
 |order=2
-|category=Event
+|category=NYI
 |effect=+{%_Money_from_Monsters
 |bonus=3
 |reqtier=1.5
 }}
+Valentslime Card
 {{InfoCard
 |title=Valentslime
 |order=3
-|category=Event
+|category=NYI
 |effect=+{%_Defence_from_Equipment
 |bonus=3
 |reqtier=2
@@ -858,26 +1108,29 @@
 {{detdrops|[[Chocco Box]]|0.05|1}}
 {{detdrops|[[Valentslime]]|0.085|1}}
 |}
+Loveulyte Card
 {{InfoCard
 |title=Loveulyte
 |order=4
-|category=Event
+|category=NYI
 |effect=+{%_Total_HP
 |bonus=5
 |reqtier=1.5
 }}
+Chocco Box Card
 {{InfoCard
 |title=Chocco Box
 |order=5
-|category=Event
+|category=NYI
 |effect=+{%_Boost_Food_Effect
 |bonus=4
 |reqtier=1.5
 }}
+Floofie Card
 {{InfoCard
 |title=Floofie
 |order=6
-|category=Event
+|category=NYI
 |effect=+{%_MP_regen_rate
 |bonus=3
 |reqtier=3
@@ -888,10 +1141,11 @@
 {{detdrops|[[Egg Capsule]]|0.05|1}}
 {{detdrops|[[Floofie]]|0.05|1}}
 |}
+Shell Snake Card
 {{InfoCard
 |title=Shell Snake
 |order=7
-|category=Event
+|category=NYI
 |effect=+{_Base_LUK
 |bonus=3
 |reqtier=3
@@ -900,26 +1154,29 @@
 {{detdrops/head}}
 {{detdrops|[[Shell Snake]]|0.05|1}}
 |}
+Egggulyte Card
 {{InfoCard
 |title=Egggulyte
 |order=8
-|category=Event
+|category=NYI
 |effect=+{%_Card_Drop_Chance
 |bonus=1
 |reqtier=1.5
 }}
+Egg Capsule Card
 {{InfoCard
 |title=Egg Capsule
 |order=9
-|category=Event
+|category=NYI
 |effect=+{%_Critical_Damage
 |bonus=1
 |reqtier=1.5
 }}
+Baba Yaga Card
 {{InfoCard
 |title=Baba Yaga
 |order=0
-|category=Bosses
+|category=Event
 |effect=+{%_Money_from_Monsters
 |bonus=10
 |reqtier=1.5
@@ -928,10 +1185,11 @@
 {{detdrops/head}}
 {{detdrops|[[Baba Yaga]]|0.03|1}}
 |}
+Dr Defecaus Card
 {{InfoCard
 |title=Dr Defecaus
 |order=1
-|category=Bosses
+|category=Event
 |effect=+{%_Total_Damage
 |bonus=5
 |reqtier=1.5
@@ -940,10 +1198,11 @@
 {{detdrops/head}}
 {{detdrops|[[Dr Defecaus]]|0.03|1}}
 |}
+Amarok Card
 {{InfoCard
 |title=Amarok
 |order=3
-|category=Bosses
+|category=Event
 |effect=+{%_Skill_AFK_gain_rate
 |bonus=2.5
 |reqtier=1.5
@@ -953,24 +1212,28 @@
 {{detdrops|[[Amarok]]|0.04|1}}
 {{detdrops|[[Nightmare Amarok]]|0.02|1}}
 |}
+Efaunt Card
 {{InfoCard
 |title=Efaunt
 |order=7
-|category=Bosses
+|category=Event
 |effect=+{%_EXP_from_monsters
 |bonus=5
 |reqtier=1.5
-|source=[[Efaunt]], [[Nightmare Amarok]], [[Error]]
+|source=[[Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Nightmare Chizoar]], [[Error]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.035|1}}
 {{detdrops|[[Nightmare Amarok]]|0.01|1}}
+{{detdrops|[[Chizoar]]|0.035|1}}
+{{detdrops|[[Nightmare Chizoar]]|0.01|1}}
 {{detdrops|[[Error]]|0.0000005|1}}
 |}
+Chaotic Amarok Card
 {{InfoCard
 |title=Chaotic Amarok
 |order=4
-|category=Bosses
+|category=Event
 |effect=+{%_Fighting_AFK_gain_rate
 |bonus=2.5
 |reqtier=1.5
@@ -979,10 +1242,11 @@
 {{detdrops/head}}
 {{detdrops|[[Chaotic Amarok]]|0.02|1}}
 |}
+Biggie Hours Card
 {{InfoCard
 |title=Biggie Hours
 |order=5
-|category=Bosses
+|category=Event
 |effect=+{%_Double_AFK_claim_chance
 |bonus=3
 |reqtier=1.5
@@ -991,10 +1255,11 @@
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.024|1}}
 |}
+King Doot Card
 {{InfoCard
 |title=King Doot
 |order=6
-|category=Bosses
+|category=Event
 |effect=+{%_Total_Drop_Rate
 |bonus=6
 |reqtier=1.5
@@ -1003,15 +1268,35 @@
 {{detdrops/head}}
 {{detdrops|[[King Doot]]|0.04|1}}
 |}
+Chaotic Efaunt Card
 {{InfoCard
 |title=Chaotic Efaunt
 |order=8
-|category=Bosses
+|category=Event
 |effect=+{%_Skill_EXP
 |bonus=3.75
 |reqtier=1.5
-|source=[[Chaotic Efaunt]]
+|source=[[Chaotic Efaunt]], [[Chaotic Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Chaotic Efaunt]]|0.045|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.045|1}}
 |}
+Chizoar Card
+{{InfoCard
+|title=Chizoar
+|order=9
+|category=Event
+|effect=+{%_Cog_Build_Spd_(Passive)
+|bonus=10
+|reqtier=1.5
+}}
+Chaotic Chizoar Card
+{{InfoCard
+|title=Chaotic Chizoar
+|order=10
+|category=Event
+|effect=+{%_Shrine_Effects
+|bonus=5
+|reqtier=1.5
+}}

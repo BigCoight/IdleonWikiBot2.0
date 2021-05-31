@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Froge
+|order=12
+|category=Medium Resources
+|effect=+{%_Shiny_Critter_Chance
+|bonus=3
+|reqtier=4
+}}

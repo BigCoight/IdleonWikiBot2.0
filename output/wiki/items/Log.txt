@@ -1,3 +1,4 @@
+Oak Logs
 {{InfoItem
 |type=Log
 |sellprice=2
@@ -24,6 +25,7 @@
 {{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Sippy Splinters|Sippy Splinters]]|Lots|Alchemy}}
 |}
+Bleach Logs
 {{InfoItem
 |type=Log
 |sellprice=3
@@ -33,12 +35,12 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Copper Platelegs]]|200|Crafting}}
+{{usedin/row|[[Copper Platelegs]]|150|Crafting}}
 {{usedin/row|[[Birch Longbow]]|250|Crafting}}
-{{usedin/row|[[Small Choppin Pouch]]|850|Crafting}}
+{{usedin/row|[[Small Choppin Pouch]]|800|Crafting}}
 {{usedin/row|[[Purple Tupacband]]|100|Crafting}}
 {{usedin/row|[[Hide Shirt]]|325|Crafting}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|900|Crafting}}
+{{usedin/row|[[Bleached Designer Wode Patch Pants]]|700|Crafting}}
 {{usedin/row|[[Peanut]]|1|Crafting}}
 {{usedin/row|[[Purple Tee]]|100|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}
@@ -49,6 +51,7 @@
 {{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
 {{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
 |}
+Jungle Logs
 {{InfoItem
 |type=Log
 |sellprice=6
@@ -58,8 +61,8 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Iron Hatchet]]|370|Crafting}}
-{{usedin/row|[[Iron Platebody]]|800|Crafting}}
+{{usedin/row|[[Iron Hatchet]]|250|Crafting}}
+{{usedin/row|[[Iron Platebody]]|600|Crafting}}
 {{usedin/row|[[Saucy Logfries]]|6|Crafting}}
 {{usedin/row|[[Goo Galoshes]]|1000|Crafting}}
 {{usedin/row|[[Copper Netted Net]]|500|Crafting}}
@@ -70,6 +73,7 @@
 {{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Jungle Juice|Jungle Juice]]|Lots|Alchemy}}
 |}
+Forest Fibres
 {{InfoItem
 |type=Log
 |sellprice=10
@@ -77,7 +81,7 @@
 }}
 {{usedin/head}}
 {{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
-{{usedin/row|[[Amarok Helmet]]|3000|Crafting}}
+{{usedin/row|[[Amarok Helmet]]|2500|Crafting}}
 {{usedin/row|[[Reinforced Net]]|800|Crafting}}
 {{usedin/row|[[Royal Bayonet]]|1250|Crafting}}
 {{usedin/row|[[Average Choppin Pouch]]|1800|Crafting}}
@@ -89,6 +93,7 @@
 {{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
 {{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
 |}
+Potty Rolls
 {{InfoItem
 |type=Log
 |sellprice=15
@@ -105,14 +110,14 @@
 {{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Tea With Pea|Tea With Pea]]|Lots|Alchemy}}
 |}
+Tropilogs
 {{InfoItem
 |type=Log
 |sellprice=20
-|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.5|100}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Platinum Boots]]|8000|Crafting}}
@@ -122,6 +127,7 @@
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
 |}
+Veiny Logs
 {{InfoItem
 |type=Log
 |sellprice=25
@@ -135,16 +141,41 @@
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
 |}
+Tundra Logs
 {{InfoItem
 |type=Log
-|sellprice=200
+|sellprice=30
+|source=Choppin, [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Spriggly Storm]]|10000|Crafting}}
+{{usedin/row|[[Dementia Dicer]]|15000|Crafting}}
+{{usedin/row|[[Big Choppin Pouch]]|20000|Crafting}}
+{{usedin/row|[[Quicc Cauldron#Call Me Ash|Call Me Ash]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#The Spanish Sahara|The Spanish Sahara]]|Lots|Alchemy}}
+|}
+Wispy Lumber
+{{InfoItem
+|type=Log
+|sellprice=40
 |source=Choppin
 }}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Shardshins]]|75000|Crafting}}
+{{usedin/row|[[Void Imperium Axe]]|50000|Crafting}}
+{{usedin/row|[[Large Choppin Pouch]]|30000|Crafting}}
+{{usedin/row|[[Kazam Cauldron#Ignore Overdues|Ignore Overdues]]|Lots|Alchemy}}
+|}
+Alien Hive Chunk
 {{InfoItem
 |type=Log
 |sellprice=5000
 |source=Choppin
 }}
+Alien Logs
 {{InfoItem
 |type=Log
 |sellprice=50

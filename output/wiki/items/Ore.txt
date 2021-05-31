@@ -1,3 +1,4 @@
+Copper Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 2 Ores into 1 Bar at the Forge. Smelting will take 100 per Bar using Forge Slot 1.
@@ -13,12 +14,16 @@
 {{usedin/row|[[Militia Helm]]|150|Crafting}}
 {{usedin/row|[[Peanut]]|1|Crafting}}
 {{usedin/row|[[Cavern Trekkers]]|1500|Crafting}}
+{{usedin/row|[[Bullet]]|6|Crafting}}
+{{usedin/row|[[Bullet]]|22|Crafting}}
+{{usedin/row|[[Shivering Sack]]|22|Crafting}}
 {{usedin/row|[[Glumlee#Learning to Swing|Learning to Swing]]|5|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[Quicc Cauldron#Swift Steppin|Swift Steppin]]|Lots|Alchemy}}
 {{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Copper Corona|Copper Corona]]|Lots|Alchemy}}
 |}
+Iron Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 4 Ores into 1 Bar at the Forge. Smelting will take 400 per Bar using Forge Slot 1.
@@ -29,10 +34,10 @@
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.6|50}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Small Mining Pouch]]|850|Crafting}}
+{{usedin/row|[[Small Mining Pouch]]|700|Crafting}}
 {{usedin/row|[[Purple Tupacband]]|50|Crafting}}
 {{usedin/row|[[Icing Ironbite]]|5|Crafting}}
-{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|250|Crafting}}
+{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|200|Crafting}}
 {{usedin/row|[[Cavern Trekkers]]|1200|Crafting}}
 {{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|1500|Quests}}
 {{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|200|Quests}}
@@ -40,16 +45,16 @@
 {{usedin/row|[[Quicc Cauldron#Hammer Hammer|Hammer Hammer]]|Lots|Alchemy}}
 {{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
 |}
+Gold Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 8 Ores into 1 Bar at the Forge. Smelting will take 1000 per Bar using Forge Slot 1.
 |sellprice=13
-|source=Mining, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=Mining, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|20}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|75}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|75}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Average Mining Pouch]]|1400|Crafting}}
@@ -57,18 +62,18 @@
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|200|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
 {{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Name I Guess2|Name I Guess2]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Name I Guess|Name I Guess]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Gold Guzzle|Gold Guzzle]]|Lots|Alchemy}}
 |}
+Platinum Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 20 Ores into 1 Bar at the Forge. Smelting will take 2200 per Bar using Forge Slot 1.
 |sellprice=20
-|source=Mining, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=Mining, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.6|50}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.6|50}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Sizable Mining Pouch]]|6750|Crafting}}
@@ -76,49 +81,64 @@
 {{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Blue Flav|Blue Flav]]|Lots|Alchemy}}
 |}
+Dementia Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 50 Ores into 1 Bar at the Forge. Smelting will take 3500 per Bar using Forge Slot 1.
 |sellprice=35
-|source=Mining, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=Mining, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.1|80}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.1|80}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.6|100}}
 |}
 {{usedin/head}}
+{{usedin/row|[[Big Mining Pouch]]|17500|Crafting}}
 {{usedin/row|[[Kazam Cauldron#Laaarrrryyyy|Laaarrrryyyy]]|Lots|Alchemy}}
 |}
+Void Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 125 Ores into 1 Bar at the Forge. Smelting will take 6000 per Bar using Forge Slot 1.
-|sellprice=60
-|source=Mining
+|sellprice=48
+|source=Mining, [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.1|120}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Large Mining Pouch]]|25000|Crafting}}
+{{usedin/row|[[Vials#Stache Stew|Stache Stew]]|Lots|Alchemy}}
+|}
+Lustre Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 250 Ores into 1 Bar at the Forge. Smelting will take 12500 per Bar using Forge Slot 1.
-|sellprice=90
+|sellprice=60
 |source=Mining
 }}
+Starfire Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 500 Ores into 1 Bar at the Forge. Smelting will take 25000 per Bar using Forge Slot 1.
-|sellprice=140
+|sellprice=100
 |source=Mining
 }}
+Dreadlo Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 1000 Ores into 1 Bar at the Forge. Smelting will take 100 per Bar using Forge Slot 1.
-|sellprice=190
+|sellprice=130
 |source=Mining
 }}
+Godshard Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 5000 Ores into 1 Bar at the Forge. Smelting will take 100 per Bar using Forge Slot 1.
 |sellprice=250
 |source=Mining
 }}
+Starlight Ore
 {{InfoItem
 |type=Ore
 |description=These ores cannot be smelted into into bars due to the 'Keep Tutorials Simple' Act passed in 2008.

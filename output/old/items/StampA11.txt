@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=11
-|type=Combat
+|type=Combat Stamp
 |bonus= AGI
 |material=Copper Chopper
 |sellprice=2500

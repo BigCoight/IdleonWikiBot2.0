@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Chocco Box_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Loveulyte|Floofie}}
+{{DropTable/head}}
+{{DropTable/coin|69|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Choco Box|0.05|1}}
+{{DropTable/row|Cherry Choco|0.25|3}}
+{{DropTable/row|Lemony Choco|0.25|3}}
+{{DropTable/row|Minto Choco|0.25|2}}
+{{DropTable/row|Milk Choco|0.25|2}}
+|}

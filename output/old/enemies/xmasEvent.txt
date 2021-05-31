@@ -1,0 +1,21 @@
+{{InfoEnemy
+|image=Giftmas Blobulyte_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+|hascard=Yes
+}}
+{{EnemyNavigation|Ghost|Meaning of Giftmas}}
+{{DropTable/head}}
+{{DropTable/coin|10|0.5}}
+{{DropTable/card|0.05}}
+{{DropTable/row|Giftmas Box|0.05|1}}
+{{DropTable/row|Giftybread Man|0.25|3}}
+{{DropTable/row|Chogg Nog|0.25|3}}
+{{DropTable/row|Candy Canes|0.25|2}}
+{{DropTable/row|Mistleberries|0.25|2}}
+|}

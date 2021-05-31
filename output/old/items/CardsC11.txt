@@ -5,8 +5,10 @@
 |effect=+{%_Monster_EXP_While_Active
 |bonus=4
 |reqtier=10
-|source=[[Catching#Drops|Catching Flies]]
+|source=[[Forest Soul]], [[Froge]], [[Catching#Drops|Catching Flies]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Forest Soul]]|0.00022|1}}
+{{detdrops|[[Froge]]|0.00022|1}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
 |}

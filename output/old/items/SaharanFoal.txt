@@ -1,5 +1,15 @@
 {{InfoItem
 |type=Log
-|sellprice=200
-|source=Choppin
+|sellprice=30
+|source=Choppin, [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Spriggly Storm]]|10000|Crafting}}
+{{usedin/row|[[Dementia Dicer]]|15000|Crafting}}
+{{usedin/row|[[Big Choppin Pouch]]|20000|Crafting}}
+{{usedin/row|[[Quicc Cauldron#Call Me Ash|Call Me Ash]]|Lots|Alchemy}}
+{{usedin/row|[[Vials#The Spanish Sahara|The Spanish Sahara]]|Lots|Alchemy}}
+|}

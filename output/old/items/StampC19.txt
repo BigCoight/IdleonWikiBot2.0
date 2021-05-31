@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=18
+|type=Misc Stamp
+|bonus=% Base Overkill
+|material=Spore Cap
+|sellprice=1
+|source=[[DropTable15]]
+}}

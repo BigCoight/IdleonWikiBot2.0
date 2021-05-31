@@ -1,3 +1,4 @@
+Inventory Bag A
 {{InfoItem
 |class=All
 |level=1
@@ -6,6 +7,7 @@
 |sellprice=200
 |source=[[Scripticus#Mr. Worldwide|Mr. Worldwide]]
 }}
+Inventory Bag B
 {{InfoItem
 |class=All
 |level=3
@@ -14,6 +16,7 @@
 |sellprice=200
 |source=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
 }}
+Inventory Bag C
 {{InfoItem
 |class=All
 |level=5
@@ -22,6 +25,7 @@
 |sellprice=200
 |source=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
 }}
+Inventory Bag D
 {{InfoItem
 |class=All
 |level=10
@@ -30,6 +34,7 @@
 |sellprice=200
 |source=[[Promotheus#The Witcher, but not Really|The Witcher, but not Really]]
 }}
+Inventory Bag E
 {{InfoItem
 |class=All
 |level=15
@@ -38,6 +43,7 @@
 |sellprice=200
 |source=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
 }}
+Inventory Bag F
 {{InfoItem
 |class=All
 |level=20
@@ -46,6 +52,7 @@
 |sellprice=200
 |source=[[Cowbo_Jones#Commence Criminal Crimes!|Commence Criminal Crimes!]]
 }}
+Inventory Bag G
 {{InfoItem
 |class=All
 |level=20
@@ -62,10 +69,12 @@
 {{detdrops|[[Crabcake]]|0.000004319999999999999|1.0}}
 {{detdrops|[[Efaunt]]|0.0012|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.0012|2.0}}
+{{detdrops|[[Chizoar]]|0.0012|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.0012|2.0}}
 {{detdrops|[[Biggie Hours]]|0.0006|1.0}}
 {{detdrops|[[Sandstone Bronze Chest]]|0.0012|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.0012|1.0}}
 |}
+Inventory Bag H
 {{InfoItem
 |class=All
 |level=20
@@ -74,6 +83,7 @@
 |sellprice=200
 |source=[[Cowbo_Jones#Oh No, not the Elderly!|Oh No, not the Elderly!]]
 }}
+Inventory Bag I
 {{InfoItem
 |class=All
 |level=20
@@ -81,6 +91,7 @@
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
 }}
+Inventory Bag U
 {{InfoItem
 |class=All
 |level=1
@@ -89,6 +100,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Inventory Bag V
 {{InfoItem
 |class=All
 |level=1
@@ -97,6 +109,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Inventory Bag W
 {{InfoItem
 |class=All
 |level=1
@@ -105,6 +118,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Inventory Bag X
 {{InfoItem
 |class=All
 |level=1
@@ -113,6 +127,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Inventory Bag Y
 {{InfoItem
 |class=All
 |level=1
@@ -121,6 +136,7 @@
 |sellprice=200
 |source=[[Gem Shop]]
 }}
+Inventory Bag Z
 {{InfoItem
 |class=All
 |level=1
@@ -128,6 +144,7 @@
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 }}
+Snakeskinventory Bag
 {{InfoItem
 |class=All
 |level=1
@@ -142,6 +159,7 @@
 {{usedin/head}}
 {{usedin/row|[[Sandy Satchel]]|1|Crafting}}
 |}
+Totally Normal and not fake Bag
 {{InfoItem
 |class=All
 |level=1
@@ -153,6 +171,7 @@
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.000025|1}}
 |}
+Blunderbag
 {{InfoItem
 |class=All
 |level=5
@@ -171,16 +190,17 @@
 |resource3=Spore Cap|quantity3=169
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Tee|2}}
-{{detrecipe|3|Dank Paypay Chest|1}}
-{{detrecipe|3|Spore Cap|169}}
+{{detrecipe|3|EquipmentShirts16|2}}
+{{detrecipe|3|InvStorageF|1}}
+{{detrecipe|3|Grasslands1|169}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Tee|2}}
-{{detrecipe/totals|Dank Paypay Chest|1}}
-{{detrecipe/totals|Spore Cap|169}}
+{{detrecipe/totals|EquipmentShirts16|2}}
+{{detrecipe/totals|InvStorageF|1}}
+{{detrecipe/totals|Grasslands1|169}}
 |}
+Sandy Satchel
 {{InfoItem
 |class=All
 |level=20
@@ -199,16 +219,17 @@
 |resource3=Pocket Sand|quantity3=777
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Plop|1}}
-{{detrecipe|3|Snakeskinventory Bag|1}}
-{{detrecipe|3|Pocket Sand|777}}
+{{detrecipe|3|Sewers1b|1}}
+{{detrecipe|3|InvBag100|1}}
+{{detrecipe|3|DesertA1|777}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Plop|1}}
-{{detrecipe/totals|Snakeskinventory Bag|1}}
-{{detrecipe/totals|Pocket Sand|777}}
+{{detrecipe/totals|Sewers1b|1}}
+{{detrecipe/totals|InvBag100|1}}
+{{detrecipe/totals|DesertA1|777}}
 |}
+Bummo Bag
 {{InfoItem
 |class=All
 |level=1
@@ -220,6 +241,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=18|vendor=Blunder Hills|stock=1|buyprice=96}}
 |}
+Capitalist Case
 {{InfoItem
 |class=All
 |level=15
@@ -231,6 +253,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=1|buyprice=9996}}
 |}
+Wealthy Wallet
 {{InfoItem
 |class=All
 |level=35
@@ -242,13 +265,19 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=11|vendor=YumYum Grotto|stock=1|buyprice=999996}}
 |}
+Prosperous Pouch
 {{InfoItem
 |class=All
 |level=70
 |type=Inventory 
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=24999999
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
 }}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=11|vendor=Frostbite Towndra|stock=1|buyprice=99999996}}
+|}
+Sack of Success
 {{InfoItem
 |class=All
 |level=120
@@ -256,3 +285,44 @@
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=2499999999
 }}
+Shivering Sack
+{{InfoItem
+|class=All
+|level=65
+|type=Inventory 
+|description=Hold down to permanently add +3 Slots to your Inventory. Can only be used once.
+|sellprice=5066
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=58
+|levelreq=35
+|expgiven=5000
+|recipefrom=Start
+|resource1=Mamooth Hide Bag|quantity1=1
+|resource2=Copper Ore|quantity2=22
+}}
+{{detrecipe/head}}
+{{detrecipe|3|InvBag110|1}}
+{{detrecipe|3|Copper|22}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|InvBag110|1}}
+{{detrecipe/totals|Copper|22}}
+|}
+Mamooth Hide Bag
+{{InfoItem
+|class=All
+|level=55
+|type=Inventory 
+|description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
+|sellprice=5000
+|source=[[mamooth]]
+}}
+{{detdrops/head}}
+{{detdrops|[[mamooth]]|0.000002|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Shivering Sack]]|1|Crafting}}
+|}

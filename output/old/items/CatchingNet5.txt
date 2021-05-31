@@ -7,7 +7,7 @@
 |str=3
 |agi=7
 |upgrade=3
-|sellprice=637000
+|sellprice=454800
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,25 +17,28 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Fruitfly|quantity1=8000
 |resource2=Platinum Ore|quantity2=6000
-|resource3=Gilded Net|quantity3=3
+|resource3=Gilded Net|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Dementia Net]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Fruitfly|8000}}
-{{detrecipe|3|Platinum Ore|6000}}
-{{detrecipe|3|Gilded Net|3}}
-{{detrecipe|40|Golden Dubloon|15}}
-{{detrecipe|40|Butterfly|7500}}
-{{detrecipe|40|Reinforced Net|15}}
-{{detrecipe|80|Forest Fibres|12000}}
-{{detrecipe|80|Butterfly|12750}}
-{{detrecipe|80|Distilled Water|45}}
+{{detrecipe|3|Bug4|8000}}
+{{detrecipe|3|Plat|6000}}
+{{detrecipe|3|CatchingNet4|2}}
+{{detrecipe|40|Quest19|10}}
+{{detrecipe|40|Bug2|5000}}
+{{detrecipe|40|CatchingNet3|6}}
+{{detrecipe|80|ForestTree|4800}}
+{{detrecipe|80|Bug2|5100}}
+{{detrecipe|80|PureWater|18}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Fruitfly|8000}}
-{{detrecipe/totals|Platinum Ore|6000}}
-{{detrecipe/totals|Golden Dubloon|15}}
-{{detrecipe/totals|Butterfly|20250}}
-{{detrecipe/totals|Forest Fibres|12000}}
-{{detrecipe/totals|Distilled Water|45}}
+{{detrecipe/totals|Bug4|8000}}
+{{detrecipe/totals|Plat|6000}}
+{{detrecipe/totals|Quest19|10}}
+{{detrecipe/totals|Bug2|10100}}
+{{detrecipe/totals|ForestTree|4800}}
+{{detrecipe/totals|PureWater|18}}
 |}

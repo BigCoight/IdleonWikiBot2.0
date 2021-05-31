@@ -51,7 +51,7 @@ def updateDrops(drops, recipes, talentNames):
         if drop[0][:-1] == "SmithingRecipes":
             recipData = getSmithingRecipe(
                 recipes, drop[0], drop[2])
-            dname = f"{recipData[0]};Recipe;{recipData[1]}" 
+            dname = f"{recipData[0]};Recipe;{recipData[1]}"
             newDrops.append([dname, drop[1], '1', drop[3]])
         elif drop[0][:-1] == "TalentBook":
             dname = getTalentName(
@@ -112,7 +112,8 @@ def main():
             enemies[name]["hasCard"] = "Yes"
             if crystal := worldToCrystal.get(world):
                 enemies[name]["World"] = world
-                enemies[name]["Crystal"] = enemies[crystal]["Name"]
+                if crystal in enemies.keys():
+                    enemies[name]["Crystal"] = enemies[crystal]["Name"]
                 enemies[name]["hasCrystal"] = "Yes"
             if name != "Bandit_Bob":
                 order.append(name)
@@ -129,6 +130,8 @@ def main():
         if drops := enemy.get("Drops"):
             enemies[name]["Drops"] = updateDrops(
                 drops, recipes, talentNames)
+        else:
+            enemies[name]["Drops"] = []
         if mType := enemy.get("Type"):
             enemy["Type"] = mType.split('.')[1]
 

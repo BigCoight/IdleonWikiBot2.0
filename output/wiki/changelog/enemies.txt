@@ -1,0 +1,678 @@
+  NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
+==Changed Enemies==
+{{patchnote/head|changed=Bored Bean}}
+{{patchnote|Damages|14|11}}
+{{patchnote|defFor0|8.14|5.97}}
+|}
+
+{{patchnote/head|changed=Slime}}
+{{patchnote|Damages|17|15}}
+{{patchnote|defFor0|10.43|8.9}}
+|}
+
+{{patchnote/head|changed=Baby Boa}}
+{{patchnote|Damages|22|18}}
+{{patchnote|defFor0|14.57|11.22}}
+|}
+
+{{patchnote/head|changed=Carrotman}}
+{{patchnote|Damages|26|22}}
+{{patchnote|defFor0|17.99|14.57}}
+|}
+
+{{patchnote/head|changed=Glublin}}
+{{patchnote|Damages|35|30}}
+{{patchnote|defFor0|26.12|21.54}}
+|}
+
+{{patchnote/head|changed=Wode Board}}
+{{patchnote|Damages|40|35}}
+{{patchnote|defFor0|30.84|26.12}}
+|}
+
+{{patchnote/head|changed=Gigafrog}}
+{{patchnote|Defence|120|110}}
+{{patchnote|Damages|60|45}}
+{{patchnote|defFor0|50.87|35.69}}
+|}
+
+{{patchnote/head|changed=Sandy Pot}}
+{{patchnote|Defence|125|115}}
+{{patchnote|Damages|70|55}}
+{{patchnote|defFor0|61.42|45.72}}
+|}
+
+{{patchnote/head|changed=Mimic}}
+{{patchnote|Defence|145|132}}
+{{patchnote|Damages|85|62}}
+{{patchnote|defFor0|77.74|52.96}}
+|}
+
+{{patchnote/head|changed=Crabcake}}
+{{patchnote|Defence|180|150}}
+{{patchnote|Damages|92|70}}
+{{patchnote|defFor0|85.52|61.42}}
+|}
+
+{{patchnote/head|changed=Mafioso}}
+{{patchnote|Defence|240|180}}
+{{patchnote|Damages|115|90}}
+{{patchnote|defFor0|111.73|83.29}}
+|}
+
+{{patchnote/head|changed=Sand Castle}}
+{{patchnote|Defence|270|205}}
+{{patchnote|Damages|125|99}}
+{{patchnote|defFor0|123.37|93.41}}
+|}
+
+{{patchnote/head|changed=Pincermin}}
+{{patchnote|Defence|300|240}}
+{{patchnote|Damages|140|112}}
+{{patchnote|defFor0|141.06|108.27}}
+|}
+
+{{patchnote/head|changed=Mashed Potato}}
+{{patchnote|Defence|330|260}}
+{{patchnote|Damages|160|125}}
+{{patchnote|defFor0|165|123.37}}
+|}
+
+{{patchnote/head|changed=Tyson}}
+{{patchnote|Defence|450|300}}
+{{patchnote|Damages|220|150}}
+{{patchnote|defFor0|238.55|152.99}}
+|}
+
+{{patchnote/head|changed=Moonmoon}}
+{{patchnote|Defence|500|330}}
+{{patchnote|MoveSPEED|5|4}}
+{{patchnote|Damages|240|170}}
+{{patchnote|defFor0|263.46|177.1}}
+|}
+
+{{patchnote/head|changed=Sand Giant}}
+{{patchnote|Defence|550|365}}
+{{patchnote|Damages|260|195}}
+{{patchnote|defFor0|288.51|207.65}}
+|}
+
+{{patchnote/head|changed=Snelbie}}
+{{patchnote|Defence|650|400}}
+{{patchnote|Damages|300|225}}
+{{patchnote|defFor0|338.94|244.76}}
+|}
+
+{{patchnote/head|changed=Sheepie}}
+{{patchnote|Defence|1|550}}
+{{patchnote|Damages|0|300}}
+{{patchnote|defFor0|0.22|338.94}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Box Statue}}: qty:1, chance:0.0002}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:180, chance:0.5}}
+{{patchnote|Item 5| |{{CraftReq|Twin Ores Stamp}}: qty:1, chance:0.00008}}
+{{patchnote|Item 6| |DropTable14: qty:1, chance:0.0025}}
+
+|}
+
+{{patchnote/head|changed=Frost Flake}}
+{{patchnote|Defence|1|700}}
+{{patchnote|Damages|0|360}}
+{{patchnote|defFor0|0.22|415.1}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Duplogs Stamp}}: qty:1, chance:0.00006}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:190, chance:0.46}}
+{{patchnote|Item 5| |{{CraftReq|Yellow Snowflake}}: qty:1, chance:0.00005}}
+{{patchnote|Item 6| |DropTable14: qty:1, chance:0.0028}}
+
+|}
+
+{{patchnote/head|changed=Sir Stache}}
+{{patchnote|Defence|1|900}}
+{{patchnote|Damages|0|420}}
+{{patchnote|defFor0|0.22|491.48}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Decent Speed Potion}}: qty:1, chance:.002}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:205, chance:0.43}}
+{{patchnote|Item 5| |{{CraftReq|Twosoul Statue}}: qty:1, chance:0.0002}}
+{{patchnote|Item 6| |DropTable14: qty:1, chance:0.0031}}
+
+|}
+
+{{patchnote/head|changed=Dedotated Ram}}
+{{patchnote|RespawnTime|40|35}}
+{{patchnote|MonsterHPTotal|250000|1250000}}
+{{patchnote|ExpGiven|1900|3500}}
+{{patchnote|Defence|1|1500}}
+{{patchnote|Damages|100|3000}}
+{{patchnote|defFor0|94.54|3563.92}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|DropTable16: qty:1, chance:0.00004}}
+
+|}
+
+{{patchnote/head|changed=Bloque}}
+{{patchnote|Defence|1|1150}}
+{{patchnote|Damages|0|500}}
+{{patchnote|defFor0|0.22|593.5}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:240, chance:0.41}}
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Seesaw Statue}}: qty:1, chance:0.0002}}
+{{patchnote|Item 5| |{{CraftReq|Decent Mana Potion}}: qty:1, chance:.0025}}
+{{patchnote|Item 6| |DropTable15: qty:1, chance:0.0025}}
+
+|}
+
+{{patchnote/head|changed=mamooth}}
+{{patchnote|Defence|1|1400}}
+{{patchnote|Damages|0|580}}
+{{patchnote|defFor0|0.22|695.37}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:260, chance:0.39}}
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Ice Age 3}}: qty:1, chance:0.00005}}
+{{patchnote|Item 5| |{{CraftReq|Mamooth Hide Bag}}: qty:1, chance:0.000002}}
+{{patchnote|Item 6| |DropTable15: qty:1, chance:0.0027}}
+
+|}
+
+{{patchnote/head|changed=Snowman}}
+{{patchnote|MonsterHPTotal|130000|135000}}
+{{patchnote|Defence|1|1700}}
+{{patchnote|Damages|0|690}}
+{{patchnote|defFor0|0.22|834.89}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Cool Diggy Tool Stamp}}: qty:1, chance:0.000025}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:285, chance:0.37}}
+{{patchnote|Item 5| |{{CraftReq|Mountain Bread}}: qty:1, chance:.009}}
+{{patchnote|Item 6| |DropTable15: qty:1, chance:0.0029}}
+
+|}
+
+{{patchnote/head|changed=Penguin}}
+{{patchnote|MonsterHPTotal|150000|160000}}
+{{patchnote|Defence|1|2000}}
+{{patchnote|Damages|0|800}}
+{{patchnote|defFor0|0.22|973.57}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:310, chance:0.36}}
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Box Statue}}: qty:1, chance:0.0003}}
+{{patchnote|Item 5| |DropTable15: qty:1, chance:0.0031}}
+
+|}
+
+{{patchnote/head|changed=Thermister}}
+{{patchnote|MonsterHPTotal|175000|185000}}
+{{patchnote|Defence|1|2250}}
+{{patchnote|Damages|0|950}}
+{{patchnote|defFor0|0.22|1161.15}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Swag Swingy Tool Stamp}}: qty:1, chance:0.00001}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:340, chance:0.35}}
+{{patchnote|Item 5| |DropTable15: qty:1, chance:0.0033}}
+
+|}
+
+{{patchnote/head|changed=Quenchie}}
+{{patchnote|MonsterHPTotal|215000|225000}}
+{{patchnote|Defence|1|2600}}
+{{patchnote|Damages|0|1150}}
+{{patchnote|defFor0|0.22|1408.37}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:370, chance:0.34}}
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Twosoul Statue}}: qty:1, chance:0.0003}}
+{{patchnote|Item 5| |DropTable16: qty:1, chance:0.0025}}
+
+|}
+
+{{patchnote/head|changed=Cryosnake}}
+{{patchnote|MonsterHPTotal|240000|260000}}
+{{patchnote|Defence|1|2900}}
+{{patchnote|Damages|0|1425}}
+{{patchnote|defFor0|0.22|1743.06}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Seesaw Statue}}: qty:1, chance:0.0003}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:400, chance:0.32}}
+{{patchnote|Item 5| |DropTable16: qty:1, chance:0.0028}}
+
+|}
+
+{{patchnote/head|changed=Bop Box}}
+{{patchnote|MonsterHPTotal|270000|310000}}
+{{patchnote|Defence|1|3200}}
+{{patchnote|Damages|0|1700}}
+{{patchnote|defFor0|0.22|2072.08}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Yeti Ham}}: qty:1, chance:.007}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:440, chance:0.3}}
+{{patchnote|Item 5| |DropTable16: qty:1, chance:0.0030}}
+
+|}
+
+{{patchnote/head|changed=Neyeptune}}
+{{patchnote|MonsterHPTotal|300000|350000}}
+{{patchnote|Defence|1|3400}}
+{{patchnote|Damages|0|2000}}
+{{patchnote|defFor0|0.22|2424.95}}
+|-
+|'''Droptable'''
+{{patchnote|Item 4|DropTable8: qty:1, chance:0.4|{{CraftReq|Black Lense}}: qty:1, chance:0.00005}}
+{{patchnote|Item 1|{{CraftReq|COIN}}: qty:10, chance:0.5|{{CraftReq|COIN}}: qty:490, chance:0.28}}
+{{patchnote|Item 5| |DropTable16: qty:1, chance:0.0032}}
+
+|}
+
+{{patchnote/head|changed=Xylobone}}
+{{patchnote|MonsterHPTotal|14000|200000}}
+{{patchnote|ExpGiven|420|2000}}
+{{patchnote|Defence|228|100}}
+{{patchnote|Damages|2|200}}
+{{patchnote|defFor0|0.5|213.8}}
+|-
+|'''Droptable'''
+{{patchnote|Item 2|{{CraftReq|Xylobone Card}}: qty:1, chance:0.0001|{{CraftReq|Xylobone Card}}: qty:1, chance:0.05}}
+{{patchnote|Item 3|DropTable8: qty:1, chance:0.4|DropTable14: qty:1, chance:0.01}}
+
+|}
+
+{{patchnote/head|changed=Bloodbone}}
+{{patchnote|MonsterHPTotal|14000|10000000}}
+{{patchnote|ExpGiven|420|6000}}
+{{patchnote|Defence|228|100}}
+{{patchnote|Damages|2|3000}}
+{{patchnote|defFor0|0.5|3563.92}}
+|-
+|'''Droptable'''
+{{patchnote|Item 3|DropTable8: qty:1, chance:0.4|DropTable16: qty:1, chance:0.00004}}
+
+|}
+
+{{patchnote/head|changed=Dig Doug}}
+|-
+|'''Droptable'''
+{{patchnote|Item 2|{{CraftReq|Dig Doug Card}}: qty:1, chance:0.0001|{{CraftReq|Dig Doug Card}}: qty:1, chance:0.10}}
+
+|}
+
+</div><div style = "flex:50%;"> 
+==New Enemies==
+{{patchnote/head|changed=Forest Soul}}
+{{patchnote|Name| |Forest Soul}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fly Card}}: qty:1, chance:0.00022}}
+{{patchnote|Item 2| |{{CraftReq|Forest Soul}}: qty:1, chance:1}}
+{{patchnote|Item 3| |{{CraftReq|Forest Soul}}: qty:1, chance:1}}
+{{patchnote|Item 4| |{{CraftReq|Forest Soul}}: qty:1, chance:1}}
+{{patchnote|Item 5| |{{CraftReq|Forest Soul}}: qty:1, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Dune Soul}}
+{{patchnote|Name| |Dune Soul}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Butterfly Card}}: qty:1, chance:0.00018}}
+{{patchnote|Item 2| |{{CraftReq|Dune Soul}}: qty:1, chance:1}}
+{{patchnote|Item 3| |{{CraftReq|Dune Soul}}: qty:1, chance:1}}
+{{patchnote|Item 4| |{{CraftReq|Dune Soul}}: qty:1, chance:1}}
+{{patchnote|Item 5| |{{CraftReq|Dune Soul}}: qty:1, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Rooted Soul}}
+{{patchnote|Name| |Rooted Soul}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Sentient Cereal Card}}: qty:1, chance:0.00016}}
+{{patchnote|Item 2| |{{CraftReq|Rooted Soul}}: qty:1, chance:1}}
+{{patchnote|Item 3| |{{CraftReq|Rooted Soul}}: qty:1, chance:1}}
+{{patchnote|Item 4| |{{CraftReq|Rooted Soul}}: qty:1, chance:1}}
+{{patchnote|Item 5| |{{CraftReq|Rooted Soul}}: qty:1, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Frigid Soul}}
+{{patchnote|Name| |Frigid Soul}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |DropTable12: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Squiddy Soul}}
+{{patchnote|Name| |Squiddy Soul}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |DropTable12: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Bandit Bob}}
+{{patchnote|Name| |Bandit Bob}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |DropTable12: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Froge}}
+{{patchnote|Name| |Froge}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fly Card}}: qty:1, chance:0.00022}}
+{{patchnote|Item 2| |{{CraftReq|Froge}}: qty:1, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Crabbo}}
+{{patchnote|Name| |Crabbo}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Butterfly Card}}: qty:1, chance:0.00018}}
+{{patchnote|Item 2| |{{CraftReq|Crabbo}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Scorpie}}
+{{patchnote|Name| |Scorpie}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Sentient Cereal Card}}: qty:1, chance:0.00016}}
+{{patchnote|Item 2| |{{CraftReq|Scorpie}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Mousey}}
+{{patchnote|Name| |Mousey}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Mousey}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Owlio}}
+{{patchnote|Name| |Owlio}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Owlio}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Pingy}}
+{{patchnote|Name| |Pingy}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Pingy}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Bunny}}
+{{patchnote|Name| |Bunny}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Bunny}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Dung Beat}}
+{{patchnote|Name| |Dung Beat}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Dung Beat}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Honker}}
+{{patchnote|Name| |Honker}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |420}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Fruitfly Card}}: qty:1, chance:0.00014}}
+{{patchnote|Item 2| |{{CraftReq|Honker}}: qty:1, chance:0.015}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Chizoar}}
+{{patchnote|Name| |Chizoar}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |20000000}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |775}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|COIN}}: qty:4000, chance:1}}
+{{patchnote|Item 2| |{{CraftReq|Efaunt Card}}: qty:1, chance:0.035}}
+{{patchnote|Item 3| |{{CraftReq|Midnight Cookie}}: qty:1, chance:0.07}}
+{{patchnote|Item 4| |{{CraftReq|Skeletal Obol of Efaunt's Gaze}}: qty:1, chance:0.001}}
+{{patchnote|Item 5| |{{CraftReq|Royal Turban}}: qty:1, chance:0.000667}}
+{{patchnote|Item 6| |{{CraftReq|Ripped Tunic}}: qty:1, chance:0.3}}
+{{patchnote|Item 7| |DropTable6: qty:2, chance:1}}
+{{patchnote|Item 8| |DropTable7: qty:2, chance:1}}
+{{patchnote|Item 9| |DropTable8: qty:2, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Chaotic Chizoar}}
+{{patchnote|Name| |Chaotic Chizoar}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |750000000}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |4000}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|COIN}}: qty:4000, chance:1}}
+{{patchnote|Item 2| |{{CraftReq|Chaotic Efaunt Card}}: qty:1, chance:0.045}}
+{{patchnote|Item 3| |{{CraftReq|Midnight Cookie}}: qty:1, chance:0.07}}
+{{patchnote|Item 4| |{{CraftReq|Skeletal Obol of Efaunt's Gaze}}: qty:1, chance:0.001}}
+{{patchnote|Item 5| |{{CraftReq|Royal Turban}}: qty:1, chance:0.000667}}
+{{patchnote|Item 6| |{{CraftReq|Ripped Tunic}}: qty:3, chance:0.4}}
+{{patchnote|Item 7| |{{CraftReq|Ribbed Tunic}}: qty:1, chance:0.2}}
+{{patchnote|Item 8| |DropTable7: qty:2, chance:1}}
+{{patchnote|Item 9| |DropTable8: qty:2, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Nightmare Chizoar}}
+{{patchnote|Name| |Nightmare Chizoar}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |750000}}
+{{patchnote|ExpGiven| |12000}}
+{{patchnote|ExpType| |0}}
+{{patchnote|Defence| |600}}
+{{patchnote|MoveSPEED| |3}}
+{{patchnote|Damages| |1000}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|COIN}}: qty:4000, chance:1}}
+{{patchnote|Item 2| |{{CraftReq|Efaunt Card}}: qty:1, chance:0.01}}
+{{patchnote|Item 3| |{{CraftReq|Midnight Cookie}}: qty:1, chance:0.07}}
+{{patchnote|Item 4| |{{CraftReq|Skeletal Obol of Efaunt's Gaze}}: qty:1, chance:0.001}}
+{{patchnote|Item 5| |{{CraftReq|Royal Turban}}: qty:1, chance:0.000667}}
+{{patchnote|Item 6| |{{CraftReq|Mystery Upgrade Stone I}}: qty:1, chance:0.03}}
+{{patchnote|Item 7| |DropTable6: qty:2, chance:1}}
+{{patchnote|Item 8| |DropTable7: qty:2, chance:1}}
+{{patchnote|Item 9| |DropTable8: qty:2, chance:1}}
+
+{{patchnote|defFor0| |1223.26}}
+|}
+
+{{patchnote/head|changed=Snowden}}
+{{patchnote|Name| |Snowden}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |999999999}}
+{{patchnote|ExpGiven| |2}}
+{{patchnote|ExpType| |6}}
+{{patchnote|Defence| |1}}
+{{patchnote|MoveSPEED| |0}}
+{{patchnote|Damages| |6}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Frog Leg}}: qty:2, chance:0.0}}
+
+{{patchnote|defFor0| |2.67}}
+|}
+
+{{patchnote/head|changed=Icicle Nest}}
+{{patchnote|Name| |Icicle Nest}}
+{{patchnote|RespawnTime| |86400}}
+{{patchnote|MonsterHPTotal| |999999999}}
+{{patchnote|ExpGiven| |2}}
+{{patchnote|ExpType| |6}}
+{{patchnote|Defence| |1}}
+{{patchnote|MoveSPEED| |0}}
+{{patchnote|Damages| |6}}
+|-
+|'''Droptable'''
+{{patchnote|Item 1| |{{CraftReq|Frog Leg}}: qty:2, chance:0.0}}
+
+{{patchnote|defFor0| |2.67}}
+|}
+
+</div></div>

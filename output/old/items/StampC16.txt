@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=16
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 4 Pts
 |material=Copper Ore
 |sellprice=1

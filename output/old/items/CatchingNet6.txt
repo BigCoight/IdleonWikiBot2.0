@@ -1,0 +1,49 @@
+{{InfoItem
+|class=All
+|level=45
+|skill=catching
+|type=Bug Catching Net
+|skillpower=31
+|str=4
+|agi=9
+|upgrade=3
+|sellprice=1394600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=14
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Mosquisnow|quantity1=15000
+|resource2=Redox Salts|quantity2=50
+|resource3=Platinet|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Net]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Bug5|15000}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|CatchingNet5|2}}
+{{detrecipe|40|Bug4|16000}}
+{{detrecipe|40|Plat|12000}}
+{{detrecipe|40|CatchingNet4|4}}
+{{detrecipe|80|Quest19|20}}
+{{detrecipe|80|Bug2|10000}}
+{{detrecipe|80|CatchingNet3|12}}
+{{detrecipe|120|ForestTree|9600}}
+{{detrecipe|120|Bug2|10200}}
+{{detrecipe|120|PureWater|36}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bug5|15000}}
+{{detrecipe/totals|Refinery1|50}}
+{{detrecipe/totals|Bug4|16000}}
+{{detrecipe/totals|Plat|12000}}
+{{detrecipe/totals|Quest19|20}}
+{{detrecipe/totals|Bug2|20200}}
+{{detrecipe/totals|ForestTree|9600}}
+{{detrecipe/totals|PureWater|36}}
+|}

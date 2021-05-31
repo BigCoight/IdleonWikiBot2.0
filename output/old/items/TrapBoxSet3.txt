@@ -1,9 +1,30 @@
 {{InfoItem
 |class=All
-|level=15
+|level=20
 |type=Trap Box Set
-|weaponpower=4
-|agi=2
-|upgrade=1
-|sellprice=2
+|weaponpower=13
+|agi=7
+|upgrade=2
+|sellprice=6000
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=68
+|levelreq=29
+|expgiven=4000
+|recipefrom=Start
+|resource1=Mutant Crabbo|quantity1=2
+|resource2=Redox Salts|quantity2=20
+}}
+{{usedin/head}}
+{{usedin/row|[[Natural Traps]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Critter2A|2}}
+{{detrecipe|3|Refinery1|20}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter2A|2}}
+{{detrecipe/totals|Refinery1|20}}
+|}

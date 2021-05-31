@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Crabcake_Walking.gif
-|attack=92
+|attack=70
 |health=7500
-|defence=180
+|defence=150
 |speed=4
 |world=Yum Yum Desert
 |area=Dessert Dunes
 |exp=210
 |respawn=40
-|defence0=85.52
+|defence0=61.42
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

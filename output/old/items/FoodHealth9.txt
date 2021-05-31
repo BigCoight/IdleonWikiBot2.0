@@ -1,0 +1,12 @@
+{{InfoItem
+|type=Health Food
+|description=Auto-Used when your health goes below 60%. Restores 1000 HP. Has a 30 second Cooldown.
+|sellprice=190
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Bop Box]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=1|vendor=Frostbite Towndra|stock=25000|buyprice=760}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Big Food Pouch]]|10000|Crafting}}
+|}

@@ -1,0 +1,9 @@
+{{DropTable/head}}
+{{DropTable/row|Tool Upgrade Stone II|{{#expr: {{{chance}}}*.002}}|1}}
+{{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
+{{DropTable/row|Oceanman Statue|{{#expr: {{{chance}}}*.085}}|1}}
+{{DropTable/row|Small Strength Potion|{{#expr: {{{chance}}}*0.07}}|5}}
+{{DropTable/row|Agile Stamp|{{#expr: {{{chance}}}*0.0002}}|1}}
+{{DropTable/row|Bag o Heads Stamp|{{#expr: {{{chance}}}*0.0001}}|1}}
+{{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
+|}

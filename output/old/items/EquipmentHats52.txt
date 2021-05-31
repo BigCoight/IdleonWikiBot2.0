@@ -24,20 +24,20 @@
 |resource4=Dootjat Eye|quantity4=3
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Ripped Tunic|20}}
-{{detrecipe|3|Trimmed Rune Platelegs|1}}
-{{detrecipe|3|Armor Upgrade Stone C|2}}
-{{detrecipe|3|Dootjat Eye|3}}
-{{detrecipe|40|Silver Antique|3}}
-{{detrecipe|40|Gold Bar|240}}
-{{detrecipe|40|Ghost|3}}
+{{detrecipe|3|EfauntDrop1|20}}
+{{detrecipe|3|EquipmentPants19|1}}
+{{detrecipe|3|StoneA3b|2}}
+{{detrecipe|3|Quest36|3}}
+{{detrecipe|40|Quest37|3}}
+{{detrecipe|40|GoldBar|240}}
+{{detrecipe|40|DesertC2b|3}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Ripped Tunic|20}}
-{{detrecipe/totals|Trimmed Rune Platelegs|1}}
-{{detrecipe/totals|Armor Upgrade Stone C|2}}
-{{detrecipe/totals|Silver Antique|3}}
-{{detrecipe/totals|Gold Bar|240}}
-{{detrecipe/totals|Ghost|3}}
+{{detrecipe/totals|EfauntDrop1|20}}
+{{detrecipe/totals|EquipmentPants19|1}}
+{{detrecipe/totals|StoneA3b|2}}
+{{detrecipe/totals|Quest37|3}}
+{{detrecipe/totals|GoldBar|240}}
+{{detrecipe/totals|DesertC2b|3}}
 |}

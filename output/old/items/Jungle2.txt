@@ -8,7 +8,8 @@
 {{detdrops|[[Baby Boa]]|0.18|1}}
 |}
 {{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Name I Guess2|Name I Guess2]]|Lots|Alchemy}}
+{{usedin/row|[[High-IQ Cauldron#Name I Guess|Name I Guess]]|Lots|Alchemy}}
 {{usedin/row|[[Vials#Skinny 0 Cal|Skinny 0 Cal]]|Lots|Alchemy}}
 |}

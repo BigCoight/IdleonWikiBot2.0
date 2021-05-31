@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=6
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Defence
 |material=Iron Ore
 |sellprice=800

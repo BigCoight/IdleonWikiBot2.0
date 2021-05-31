@@ -7,7 +7,7 @@
 |str=6
 |luck=4
 |upgrade=3
-|sellprice=183000
+|sellprice=144800
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -17,24 +17,24 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Hermit Can|quantity1=2500
 |resource2=Leather Hide|quantity2=1000
-|resource3=Iron Fishing Rod|quantity3=5
+|resource3=Iron Fishing Rod|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Plat Fishing Rod]]|3|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Hermit Can|2500}}
-{{detrecipe|3|Leather Hide|1000}}
-{{detrecipe|3|Iron Fishing Rod|5}}
-{{detrecipe|40|Iron Bar|1500}}
-{{detrecipe|40|Hermit Can|4250}}
-{{detrecipe|40|Distilled Water|15}}
+{{detrecipe|3|Fish2|2500}}
+{{detrecipe|3|CraftMat9|1000}}
+{{detrecipe|3|FishingRod3|3}}
+{{detrecipe|40|IronBar|900}}
+{{detrecipe|40|Fish2|2550}}
+{{detrecipe|40|PureWater|9}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hermit Can|6750}}
-{{detrecipe/totals|Leather Hide|1000}}
-{{detrecipe/totals|Iron Bar|1500}}
-{{detrecipe/totals|Distilled Water|15}}
+{{detrecipe/totals|Fish2|5050}}
+{{detrecipe/totals|CraftMat9|1000}}
+{{detrecipe/totals|IronBar|900}}
+{{detrecipe/totals|PureWater|9}}
 |}

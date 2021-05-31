@@ -12,15 +12,15 @@
 {{usedin/row|[[Thief Hood]]|25|Crafting}}
 {{usedin/row|[[Top Hat]]|25|Crafting}}
 {{usedin/row|[[Party Hat]]|200|Crafting}}
-{{usedin/row|[[Iron Pickaxe]]|140|Crafting}}
-{{usedin/row|[[Iron Helmet]]|180|Crafting}}
-{{usedin/row|[[Iron Platebody]]|200|Crafting}}
-{{usedin/row|[[Iron Platelegs]]|225|Crafting}}
-{{usedin/row|[[Anvil Tab 2]]|500|Crafting}}
+{{usedin/row|[[Iron Pickaxe]]|100|Crafting}}
+{{usedin/row|[[Iron Helmet]]|125|Crafting}}
+{{usedin/row|[[Iron Platebody]]|150|Crafting}}
+{{usedin/row|[[Iron Platelegs]]|170|Crafting}}
+{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
 {{usedin/row|[[Iron Boots]]|125|Crafting}}
 {{usedin/row|[[Steel Band]]|600|Crafting}}
 {{usedin/row|[[Fur Shirt]]|500|Crafting}}
-{{usedin/row|[[Amarok Bodyplate]]|500|Crafting}}
+{{usedin/row|[[Amarok Bodyplate]]|400|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
 {{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}

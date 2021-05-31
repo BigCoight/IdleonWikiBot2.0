@@ -1,487 +1,680 @@
+Sword Stamp
 {{InfoStamp
 |number=1
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Damage
 |material=Spore Cap
 |sellprice=500
 |source=Start
 }}
+Heart Stamp
 {{InfoStamp
 |number=2
-|type=Combat
+|type=Combat Stamp
 |bonus= Base HP
 |material=Oak Logs
 |sellprice=500
 |source=Start
 }}
+Mana Stamp
 {{InfoStamp
 |number=3
-|type=Combat
+|type=Combat Stamp
 |bonus= Base MP
 |material=Copper Ore
 |sellprice=2500
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+Tomahawk Stamp
 {{InfoStamp
 |number=4
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Copper Bar
 |sellprice=1000
 |source=[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]
 }}
+Target Stamp
 {{InfoStamp
 |number=5
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Accuracy
 |material=Thread
 |sellprice=250
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+Shield Stamp
 {{InfoStamp
 |number=6
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Defence
 |material=Iron Ore
 |sellprice=800
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+Longsword Stamp
 {{InfoStamp
 |number=7
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Damage
 |material=Bean Slices
 |sellprice=1000
 |source=[[Baby Boa]]
 }}
+Kapow Stamp
 {{InfoStamp
 |number=8
-|type=Combat
+|type=Combat Stamp
 |bonus=% Critical Damage
 |material=Trusty Nails
 |sellprice=2500
 |source=[[Gigafrog]]
 }}
+Fist Stamp
 {{InfoStamp
 |number=9
-|type=Combat
+|type=Combat Stamp
 |bonus= STR
 |material=Bleach Logs
 |sellprice=2500
 |source=[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]
 }}
+Battleaxe Stamp
 {{InfoStamp
 |number=10
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Grass Leaf
 |sellprice=2500
 |source=[[Gigafrog]]
 }}
+Agile Stamp
 {{InfoStamp
 |number=11
-|type=Combat
+|type=Combat Stamp
 |bonus= AGI
 |material=Copper Chopper
 |sellprice=2500
 |source=[[DropTable12]]
 }}
+Vitality Stamp
 {{InfoStamp
 |number=12
-|type=Combat
+|type=Combat Stamp
 |bonus= Base HP
 |material=Snake Skin
 |sellprice=8000
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
 }}
+Book Stamp
 {{InfoStamp
 |number=13
-|type=Combat
+|type=Combat Stamp
 |bonus= WIS
 |material=Iron Bar
 |sellprice=8000
 |source=[[DropTable10]]
 }}
+Manamoar Stamp
 {{InfoStamp
 |number=14
-|type=Combat
+|type=Combat Stamp
 |bonus= Base MP
 |material=Goblin Ear
 |sellprice=8000
 |source=[[Mutton#Clout Chasin'|Clout Chasin']]
 }}
+Clover Stamp
 {{InfoStamp
 |number=15
-|type=Combat
+|type=Combat Stamp
 |bonus= LUK
 |material=Iron Platebody
 |sellprice=12000
-|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 }}
+Scimitar Stamp
 {{InfoStamp
 |number=16
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Damage
 |material=Goldfish
 |sellprice=4000
 |source=[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]
 }}
+Bullseye Stamp
 {{InfoStamp
 |number=17
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Accuracy
 |material=Sentient Cereal
 |sellprice=12500
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+Feather Stamp
 {{InfoStamp
 |number=18
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Move Speed
 |material=Coconotnotto
 |sellprice=6000
+|source=[[Snouts#Gravity VS Salt|Gravity VS Salt]]
 }}
+Polearm Stamp
 {{InfoStamp
 |number=19
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Steel Axe
 |sellprice=7500
 |source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
 }}
+Violence Stamp
 {{InfoStamp
 |number=20
-|type=Combat
+|type=Combat Stamp
 |bonus=% STR from Talents
 |material=Dementia Ore
 |sellprice=25000
+|source=[[DropTable15]]
 }}
+Buckler Stamp
 {{InfoStamp
 |number=21
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Defence
 |material=Platinum Bar
 |sellprice=12000
+|source=[[Snouts#A Salty Fall|A Salty Fall]]
 }}
+Sukka Foo
 {{InfoStamp
 |number=23
-|type=Combat
+|type=Combat Stamp
 |bonus=% Boss Damage
 |material=Amarok Slab
 |sellprice=10000
 }}
+Arcane Stamp
 {{InfoStamp
 |number=24
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Defence
 |material=Gold Bar
 |sellprice=6000
 |source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
 }}
+Steve Sword
 {{InfoStamp
 |number=26
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Fruitfly
 |sellprice=50000
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+Blover Stamp
 {{InfoStamp
 |number=27
-|type=Combat
+|type=Combat Stamp
 |bonus= Base LUK
 |material=Jellyfish
 |sellprice=12500
+|source=[[DropTable16]]
 }}
+Stat Graph Stamp
 {{InfoStamp
 |number=28
-|type=Combat
+|type=Combat Stamp
 |bonus= All Stats
 |material=Mystery Upgrade Stone I
 |sellprice=10000
 |source=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
 }}
+Pickaxe Stamp
 {{InfoStamp
 |number=1
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Efficiency
 |material=Oak Logs
 |sellprice=500
 }}
+Hatchet Stamp
 {{InfoStamp
 |number=2
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Efficiency
 |material=Thread
 |sellprice=1200
 }}
+Anvil Zoomer Stamp
 {{InfoStamp
 |number=3
-|type=Skills
+|type=Skills Stamp
 |bonus=% Anvil Production Spd
 |material=Copper Ore
 |sellprice=800
 |source=[[DropTable1]]
 }}
+Lil' Mining Baggy Stamp
 {{InfoStamp
 |number=4
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Carry Cap
 |material=Jungle Logs
 |sellprice=1000
 |source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
 }}
+Twin Ores Stamp
 {{InfoStamp
 |number=5
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multi Ore Chance
 |material=Thief Hood
 |sellprice=1000
+|source=[[Sheepie]]
 }}
+Choppin' Bag Stamp
 {{InfoStamp
 |number=6
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Carry Cap
 |material=Carrot Cube
 |sellprice=1000
 |source=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
 }}
+Duplogs Stamp
 {{InfoStamp
 |number=7
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multi Log Chance
 |material=Militia Helm
 |sellprice=1000
+|source=[[Frost Flake]]
 }}
+Matty Bag Stamp
 {{InfoStamp
 |number=8
-|type=Skills
+|type=Skills Stamp
 |bonus= Material Carry Cap
 |material=Cramped Material Pouch
 |sellprice=6700
-|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Vendors#Tundra Camp|Tundra Camp Vendor]]
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 }}
+Smart Dirt Stamp
 {{InfoStamp
 |number=9
-|type=Skills
+|type=Skills Stamp
 |bonus=% Mining Exp
 |material=Plank
 |sellprice=1500
 |source=[[DropTable5]]
 }}
+Cool Diggy Tool Stamp
 {{InfoStamp
 |number=10
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Efficiency
 |material=Iron Hatchet
 |sellprice=1000
+|source=[[Snowman]]
 }}
+High IQ Lumber Stamp
 {{InfoStamp
 |number=11
-|type=Skills
+|type=Skills Stamp
 |bonus=% Choppin Exp
 |material=Bullfrog Horn
 |sellprice=1800
 |source=[[DropTable4]]
 }}
+Swag Swingy Tool Stamp
 {{InfoStamp
 |number=12
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Efficiency
-|material=Iron Pickaxe
+|material=Copper Pickaxe
 |sellprice=2500
+|source=[[Thermister]]
 }}
+Alch Go Brrr Stamp
 {{InfoStamp
 |number=13
-|type=Skills
+|type=Skills Stamp
 |bonus=% Alch Speed
 |material=Forest Fibres
 |sellprice=2000
 |source=[[DropTable11]]
 }}
+Brainstew Stamps
 {{InfoStamp
 |number=14
-|type=Skills
+|type=Skills Stamp
 |bonus=% Alch Exp
 |material=Gold Ore
 |sellprice=2500
 |source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
 }}
+Drippy Drop Stamp
 {{InfoStamp
 |number=15
-|type=Skills
+|type=Skills Stamp
 |bonus=% Liquid Spd
 |material=Pocket Sand
 |sellprice=2000
 |source=[[DropTable6]]
 }}
+Droplots Stamp
 {{InfoStamp
 |number=16
-|type=Skills
+|type=Skills Stamp
 |bonus= Liquid Cap
 |material=Bloach
 |sellprice=5000
 |source=[[DropTable7]]
 }}
+Fishing Rod Stamp
 {{InfoStamp
 |number=17
-|type=Skills
+|type=Skills Stamp
 |bonus= Fishing Efficiency
 |material=Fly
 |sellprice=2000
 |source=[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]
 }}
+Fishhead Stamp
 {{InfoStamp
 |number=18
-|type=Skills
+|type=Skills Stamp
 |bonus=% Fishing Exp
 |material=Megalodon Tooth
 |sellprice=3000
 |source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
 }}
+Catch Net Stamp
 {{InfoStamp
 |number=19
-|type=Skills
+|type=Skills Stamp
 |bonus= Catching Efficiency
 |material=Goldfish
 |sellprice=2000
 |source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
 }}
+Fly Intel Stamp
 {{InfoStamp
 |number=20
-|type=Skills
+|type=Skills Stamp
 |bonus=% Catching Exp
 |material=Crabby Cakey
 |sellprice=3000
 |source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
 }}
+Bag o Heads Stamp
 {{InfoStamp
 |number=21
-|type=Skills
+|type=Skills Stamp
 |bonus=% Fish Carry Cap
 |material=Butterfly
 |sellprice=2000
 |source=[[DropTable12]]
 }}
+Holy Mackerel Stamp
 {{InfoStamp
 |number=22
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multifish Chance
 |material=Platinum Ore
 |sellprice=3000
 |source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
 }}
+Bugsack Stamp
 {{InfoStamp
 |number=23
-|type=Skills
+|type=Skills Stamp
 |bonus=% Bug Carry Cap
 |material=Hermit Can
 |sellprice=3000
 |source=[[DropTable9]]
 }}
+Buzz Buzz Stamp
 {{InfoStamp
 |number=24
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multibug Chance
 |material=Potty Rolls
 |sellprice=4000
 |source=[[DropTable8]]
 }}
+Hidey Box Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Trapping Efficiency
+|material=Crabbo
+|sellprice=4000
+|source=[[DropTable17]]
+}}
+Purp Froge Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Shiny Chance
+|material=Scorpie
+|sellprice=4000
+|source=[[Snouts#Gravity VS Salt|Gravity VS Salt]]
+}}
+Spikemouth Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Trapping Exp
+|material=Mousey
+|sellprice=4000
+|source=[[DropTable18]]
+}}
+Shiny Crab Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Shiny Chance
+|material=Owlio
+|sellprice=4000
+}}
+Gear Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Building Spd
+|material=Sticky Stick
+|sellprice=4000
+}}
+Sample Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Sample Size
+|material=Floof Ploof
+|sellprice=4000
+|source=[[DropTable14]]
+}}
+Saw Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Construction Exp
+|material=Dementia Bar
+|sellprice=4000
+|source=[[SuperDropTable3]]
+}}
+Amplesample Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Sample Size
+|material=Mosquisnow
+|sellprice=4000
+}}
+SpoOoky Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Worship Efficiency
+|material=Forest Soul
+|sellprice=4000
+}}
+Flowin Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Charging Speed
+|material=Redox Salts
+|sellprice=4000
+|source=[[DropTable16]]
+}}
+Prayday Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Max Charge
+|material=Cracked Glass
+|sellprice=4000
+}}
+Banked Pts Stamp
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus= Starting TD Pts
+|material=Dune Soul
+|sellprice=4000
+|source=[[DropTable14]]
+}}
+Questin Stamp
 {{InfoStamp
 |number=1
-|type=Misc
+|type=Misc Stamp
 |bonus=% Quest EXP
 |material=Slime Sludge
 |sellprice=1000
 |source=[[Tiki_Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]
 }}
+Mason Jar Stamp
 {{InfoStamp
 |number=2
-|type=Misc
+|type=Misc Stamp
 |bonus=% All Carry Cap
 |material=Glass Shard
 |sellprice=10000
 |source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
 }}
+Crystallin
 {{InfoStamp
 |number=3
-|type=Misc
+|type=Misc Stamp
 |bonus=% Spawn Chance
 |material=Boring Brick
 |sellprice=2000
 |source=[[Crystal Carrot]], [[Crystal Crabal]], [[Crystal Cattle]]
 }}
+Apple Stamp
 {{InfoStamp
 |number=5
-|type=Misc
+|type=Misc Stamp
 |bonus=% HP Food Effect
 |material=Meat Pie
 |sellprice=1000
 }}
+Potion Stamp
 {{InfoStamp
 |number=6
-|type=Misc
+|type=Misc Stamp
 |bonus=% Boost Food Effect
 |material=Icing Ironbite
 |sellprice=3000
 |source=[[Papua_Piggea#Stamp Collecting|Stamp Collecting]]
 }}
+Golden Apple Stamp
 {{InfoStamp
 |number=7
-|type=Misc
+|type=Misc Stamp
 |bonus=% Gold Food Effect
 |material=Golden Nomwich
 |sellprice=10000
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+Card Stamp
 {{InfoStamp
 |number=9
-|type=Misc
+|type=Misc Stamp
 |bonus=% Card Drop Rate
 |material=Furled Flag
 |sellprice=3000
 |source=[[Alchemy#Level up Gift|Level up Gift]]
 }}
+Talent I Stamp
 {{InfoStamp
 |number=13
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 1 Pts
 |material=Frog Leg
 |sellprice=1
 }}
+Talent II Stamp
 {{InfoStamp
 |number=14
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 2 Pts
 |material=Pincer Arm
 |sellprice=12000
 |source=[[Wellington#You Can't Run, but you Can Hide|You Can't Run, but you Can Hide]]
 }}
+Talent III Stamp
 {{InfoStamp
 |number=15
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 3 Pts
-|material=Copper Ore
+|material=Arctic Leaf
 |sellprice=1
+|source=[[Snouts#Big Ol Chonker|Big Ol Chonker]]
 }}
+Talent IV Stamp
 {{InfoStamp
 |number=16
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 4 Pts
 |material=Copper Ore
 |sellprice=1
 }}
+Talent V Stamp
 {{InfoStamp
 |number=17
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 5 Pts
 |material=Copper Ore
 |sellprice=1
 }}
+Talent S Stamp
 {{InfoStamp
 |number=18
-|type=Misc
+|type=Misc Stamp
 |bonus= Star Talent Pts
 |material=Copper Ore
 |sellprice=1
+}}
+Overkill Stamp
+{{InfoStamp
+|number=18
+|type=Misc Stamp
+|bonus=% Base Overkill
+|material=Spore Cap
+|sellprice=1
+|source=[[DropTable15]]
+}}
+Biblio Stamp
+{{InfoStamp
+|number=18
+|type=Misc Stamp
+|bonus=% Faster Books
+|material=Tundra Logs
+|sellprice=1
+|source=[[Snouts#Big Ol Chonker|Big Ol Chonker]]
 }}

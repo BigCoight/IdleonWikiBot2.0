@@ -1,6 +1,13 @@
 {{InfoItem
 |type=Critter
 |description=HONK! HONK!
-|sellprice=3
-|source=Trapping
+|sellprice=80
+|source=Trapping, [[Honker]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Honker]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Lord_of_the_Hunt#Untitled Quest|Untitled Quest]]|65000|Quests}}
+{{usedin/row|[[Vials#Goosey Glug|Goosey Glug]]|Lots|Alchemy}}
+|}

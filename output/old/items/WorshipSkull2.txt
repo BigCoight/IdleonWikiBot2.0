@@ -1,9 +1,27 @@
 {{InfoItem
 |class=All
-|level=1
+|level=10
 |type=Worship Skull
-|weaponpower=4
-|agi=2
+|weaponpower=8
+|wis=4
 |upgrade=1
-|sellprice=100
+|sellprice=1250
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=82
+|levelreq=16
+|expgiven=750
+|recipefrom=Start
+|resource1=Forest Soul|quantity1=250
+|resource2=Redox Salts|quantity2=5
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Soul1|250}}
+{{detrecipe|3|Refinery1|5}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Soul1|250}}
+{{detrecipe/totals|Refinery1|5}}
+|}

@@ -1,6 +1,14 @@
 {{InfoItem
 |type=Critter
 |description=It's basically just Gunter but with RTX off.
-|sellprice=3
-|source=Trapping
+|sellprice=35
+|source=Trapping, [[Pingy]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Pingy]]|0.015|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Large Critter Pouch]]|30000|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Noot Noot!|Noot Noot!]]|2500|Quests}}
+{{usedin/row|[[Kazam Cauldron#Yellow Bargain|Yellow Bargain]]|Lots|Alchemy}}
+|}

@@ -23,13 +23,13 @@
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Frog Leg|25}}
-{{detrecipe|3|Oak Logs|45}}
-{{detrecipe|3|Thread|13}}
+{{detrecipe|3|Grasslands2|25}}
+{{detrecipe|3|OakTree|45}}
+{{detrecipe|3|CraftMat1|13}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Frog Leg|25}}
-{{detrecipe/totals|Oak Logs|45}}
-{{detrecipe/totals|Thread|13}}
+{{detrecipe/totals|Grasslands2|25}}
+{{detrecipe/totals|OakTree|45}}
+{{detrecipe/totals|CraftMat1|13}}
 |}

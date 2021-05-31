@@ -2,7 +2,7 @@
 |type=Quest Item
 |quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |description=Proof that you mastered the art of the Mining, Smithing, and  Choppin skills.
-|sellprice=545720
+|sellprice=540720
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -18,18 +18,18 @@
 {{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Platinum Bar|1000}}
-{{detrecipe|3|Veiny Logs|2000}}
-{{detrecipe|3|Amarok Helmet|1}}
-{{detrecipe|40|Amarok Slab|20}}
-{{detrecipe|40|Forest Fibres|3000}}
-{{detrecipe|40|Woodular Circle|8}}
+{{detrecipe|3|PlatBar|1000}}
+{{detrecipe|3|StumpTree|2000}}
+{{detrecipe|3|EquipmentHats22|1}}
+{{detrecipe|40|Quest17|20}}
+{{detrecipe|40|ForestTree|2500}}
+{{detrecipe|40|TreeInterior1b|8}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Platinum Bar|1000}}
-{{detrecipe/totals|Veiny Logs|2000}}
-{{detrecipe/totals|Amarok Slab|20}}
-{{detrecipe/totals|Forest Fibres|3000}}
-{{detrecipe/totals|Woodular Circle|8}}
+{{detrecipe/totals|PlatBar|1000}}
+{{detrecipe/totals|StumpTree|2000}}
+{{detrecipe/totals|Quest17|20}}
+{{detrecipe/totals|ForestTree|2500}}
+{{detrecipe/totals|TreeInterior1b|8}}
 |}

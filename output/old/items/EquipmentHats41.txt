@@ -6,7 +6,7 @@
 |agi=12
 |upgrade=3
 |defence=18
-|sellprice=15120
+|sellprice=11970
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -19,20 +19,20 @@
 |resource3=Glass Shard|quantity3=2
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Thief Hood|5}}
-{{detrecipe|40|Iron Bar|125}}
-{{detrecipe|40|Thread|750}}
-{{detrecipe|40|Copper Helmet|10}}
-{{detrecipe|80|Copper Bar|500}}
-{{detrecipe|80|Bean Slices|750}}
-{{detrecipe|3|Tropilogs|2000}}
-{{detrecipe|3|Glass Shard|2}}
+{{detrecipe|3|EquipmentHats3|5}}
+{{detrecipe|40|IronBar|125}}
+{{detrecipe|40|CraftMat1|750}}
+{{detrecipe|40|EquipmentHats17|10}}
+{{detrecipe|80|CopperBar|300}}
+{{detrecipe|80|Grasslands3|500}}
+{{detrecipe|3|PalmTree|2000}}
+{{detrecipe|3|DesertA1b|2}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|125}}
-{{detrecipe/totals|Thread|750}}
-{{detrecipe/totals|Copper Bar|500}}
-{{detrecipe/totals|Bean Slices|750}}
-{{detrecipe/totals|Glass Shard|2}}
+{{detrecipe/totals|IronBar|125}}
+{{detrecipe/totals|CraftMat1|750}}
+{{detrecipe/totals|CopperBar|300}}
+{{detrecipe/totals|Grasslands3|500}}
+{{detrecipe/totals|DesertA1b|2}}
 |}

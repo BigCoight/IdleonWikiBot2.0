@@ -1,0 +1,23 @@
+{{InfoEnemy
+|image=Neyeptune_Walking.gif
+|attack=2000
+|health=350000
+|defence=3400
+|speed=4
+|world=Frostfire Tyundra
+|area=Crystal Basecamp
+|exp=1900
+|respawn=40
+|defence0=2424.95
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Bop Box|Dedotated Ram}}
+{{DropTable/head}}
+{{DropTable/coin|490|0.28}}
+{{DropTable/row|Contact Lense|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/row|Black Lense|0.00005|1}}
+{{DropTable16|chance=0.0032}}
+|}

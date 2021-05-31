@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=1
-|type=Skills
+|type=Skills Stamp
 |bonus= Mining Efficiency
 |material=Oak Logs
 |sellprice=500

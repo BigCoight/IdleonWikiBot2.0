@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Sand Giant_Walking.gif
-|attack=260
+|attack=195
 |health=30000
-|defence=550
+|defence=365
 |speed=3
 |world=Yum Yum Desert
 |area=Sands of Time
 |exp=410
 |respawn=40
-|defence0=288.51
+|defence0=207.65
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

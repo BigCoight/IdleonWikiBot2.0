@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=4
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Copper Bar
 |sellprice=1000

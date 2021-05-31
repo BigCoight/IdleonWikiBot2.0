@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=12
-|type=Skills
+|type=Skills Stamp
 |bonus= Choppin Efficiency
-|material=Iron Pickaxe
+|material=Copper Pickaxe
 |sellprice=2500
+|source=[[Thermister]]
 }}

@@ -1139,7 +1139,7 @@
             "Type": "LevelReq",
             "DialogueText": "Aha I've got an idea! Quick go buy 500000 gems from the Gem Store I can use them to alter the... @ what's that? You'd uninstall if that was the actual quest? Alright give me a moment to think of an alternate plan... @ Return at Mining Level 33",
             "NextIndex": "11",
-            "LevelReq": "33",
+            "LevelReq": "25",
             "LevelType": "1"
         },
         {
@@ -3354,7 +3354,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Huh these are definitely the coolest items. You sure are one cool gamer \\",
+            "DialogueText": "Huh these are definitely the coolest items. You sure are one cool gamer ",
             "NextIndex": "9999"
         }
     ],
@@ -4137,7 +4137,7 @@
             "DialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! @ QUEST:Collect some very blue thingies for this very blue dude",
             "NextIndex": "4",
             "ItemTypeReq": ["FoodPotMana2", "FoodMining1", "Fish3"],
-            "ItemNumReq": ["2000", "4000", "1000"],
+            "ItemNumReq": ["500", "1000", "400"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "3",
@@ -4162,12 +4162,12 @@
             "NextIndex": "7",
             "CustomType": "Djonnut2",
             "CustomArray": [
-                "Moonmen_Touched:",
-                "30000",
+                "Moonmen_Defeated:",
+                "10000",
                 "GreaterEqual",
                 "0",
                 "Ghosts_Collected:",
-                "2",
+                "1",
                 "GreaterEqual",
                 "0"
             ],
@@ -5947,6 +5947,76 @@
             "NextIndex": "8"
         }
     ],
+    "Egggulyte": [
+        {
+            "Type": "None",
+            "DialogueText": "'Hi!' @ . @ 'Hey!' @ . @ 'Huh?'",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "'Im Eg @ . @ I'm Egg @ . @ I'm... wait which one am I again? The orange one? @ . @ And we are the @ . @ Easter Egggies! @ . @ ...Easter Eggies! Oh you're the orange one whoops!",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "To celebrate Spring we hid @ . @ lots of Egg Capsules! Would @ . @ ... wait wood? We didn't hide any wood we only hid Egg Capsules and Candy!",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST:Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!",
+            "NextIndex": "5",
+            "CustomType": "Egggulyte1",
+            "CustomArray": ["Find_Egg_Capsule:", "5", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "4",
+            "Rewards": ["Quest42", "5", "PremiumGem", "5"],
+            "QuestName": "Egggulyte1",
+            "Name": "Egg Shaped Lootboxes!",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Thanks for giving us @ . @ back our egg capsules! We @ . @ are just kidding and wanted to scare you by pretending we took them back!",
+            "NextIndex": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "'Sigh' Dang it Eggy @ . @ these jokes doesn't work @ . @ unless I say my lines properly...! I did it!",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST:Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!",
+            "NextIndex": "9",
+            "CustomType": "Egggulyte2",
+            "CustomArray": ["Find_New_Gold_Egg:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "8",
+            "Rewards": ["Quest42", "7", "PremiumGem", "5"],
+            "QuestName": "Egggulyte2",
+            "Name": "I've Got a Golden Tickegg!",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need 2 open @ . @ spaces in your inventory @ . @ for some reason! Ugh today is NOT my day...",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You found one! Thats @ . @ very impressive! Come @ . @ back tomorrow to find more capsules! @ . @ Good job Eggy! @ . @ Yea nice! @ . @ Haha thx guys #",
+            "NextIndex": "9"
+        }
+    ],
     "Iceland_Irwin": [
         {
             "Type": "None",
@@ -5955,8 +6025,8 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Now hang on just a tick mate! I'm not messin' around when I say it's cold... I can't be givin' ya my tasks until I know you wont freeze to death!",
-            "NextIndex": "2"
+            "DialogueText": "Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death! Why dontcha come back a bit later then eh?",
+            "NextIndex": "1"
         },
         {
             "Type": "ItemsAndSpaceRequired",
@@ -5993,40 +6063,235 @@
     "Hoggindaz": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
+            "DialogueText": "Hi! My name is Hoggi and I am the mayor of Frostbite Tundra Town! Of course we just call it Frostbite Towndra hehe!",
             "NextIndex": "1"
         },
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
-            "NextIndex": "1"
+            "DialogueText": "Anyway I've been waiting for someone like you to come around for ages!! No seriously wasn't this world meant to be available weeks ago?",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well you're here now! Better get started before all those Alpha Testers get too far ahead of you! Let me show you what our world has to offer...",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST:Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.",
+            "NextIndex": "5",
+            "CustomType": "Hoggindaz1",
+            "CustomArray": [
+                "Refinery_Turned_On:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Hours_of_Redox_Fuel:",
+                "24",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "4",
+            "Rewards": ["PremiumGem", "3"],
+            "QuestName": "Hoggindaz1",
+            "Name": "Turn ON for what???",
+            "Difficulty": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You don't have enough inventory space clear some up!",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You figured that out pretty quickly! Most people just take one look at it and go straight to Lava to ask him how it works...",
+            "NextIndex": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "While we wait for the refinery to produce some salts lets start Trapping!",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST:Go to the map to the left and learn about the Trapping Skill.",
+            "NextIndex": "9",
+            "CustomType": "Hoggindaz2",
+            "CustomArray": [
+                "Get_TrapBox_from_Hunter:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Place_a_Trap_in_Jungle:",
+                "1",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "8",
+            "Rewards": ["Timecandy1", "1", "PremiumGem", "4"],
+            "QuestName": "Hoggindaz2",
+            "Name": "Trapping with the Lord",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You don't have enough inventory space clear some up!",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Nice you did it! @ Anyway let's start some Construction!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST:Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.",
+            "NextIndex": "12",
+            "CustomType": "Hoggindaz3",
+            "CustomArray": [
+                "3D_Printer_Built:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Wizard_Defender_Built:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Cogs_Made:",
+                "1",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "11",
+            "Rewards": ["TalentBook1", "3635100", "PremiumGem", "2"],
+            "QuestName": "Hoggindaz3",
+            "Name": "Constructing a Tower",
+            "Difficulty": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You don't have enough inventory space clear some up!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well package me up and sell me without a spoon you hardly even need my help! Let me show you one last thing before you go though.",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "It's the 3rd skill of this world Worship! It's an extremely complex skill with very nuanced strategy and and rules!",
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "... ok it's basically just the Monkey Ballon game.",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST:Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!",
+            "NextIndex": "17",
+            "CustomType": "Hoggindaz4",
+            "CustomArray": [
+                "Summon_Goblin_Gorefest:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Place_Wizard_Towers:",
+                "4",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "16",
+            "Rewards": ["Timecandy1", "1", "PremiumGem", "2"],
+            "QuestName": "Hoggindaz4",
+            "Name": "Monke Tower Time!",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You don't have enough inventory space clear some up!",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well thats it! @ ... ok oooone last thing super quick! It's super important!",
+            "NextIndex": "18"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Remember those star books I gave you? Well one of them lets you collect samples for the 3d printer!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST:Use the Star Book then add the talent to your attack bar and take samples!",
+            "NextIndex": "21",
+            "CustomType": "Hoggindaz5",
+            "CustomArray": ["Take_Samples:", "2", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "20",
+            "Rewards": ["TalentBook1", "3639100", "PremiumGem", "2"],
+            "QuestName": "Hoggindaz5",
+            "Name": "Taking Samples",
+            "Difficulty": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You don't have enough inventory space clear some up!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well thats it! That's all I had to tell you and since there's no evil boss or anything in this world and definitely never will be there's nothing left for me to say! @ Return later when the World 3 boss is released.",
+            "NextIndex": "21"
         }
     ],
     "Bill_Brr": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
+            "DialogueText": "Brrr.... Anyway so I walked up to the guy right? And I just started going off on him about some bridge an instant classic!",
             "NextIndex": "0"
         }
     ],
     "Bellows": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
+            "DialogueText": "Breathe in... Breathe out... @ Breathe in... Breathe out... @ Breathe in... Breathe out...",
             "NextIndex": "0"
         }
     ],
     "Crystalswine": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
-            "NextIndex": "0"
+            "DialogueText": "'The pig looks at you'",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "'You step to the side... the pig's eyes dont move because he's frozen. It was just a coincidence that they were looking at you at first.'",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "'Unless you want a puddle of water and some roasted ham there's not much you can do here.'",
+            "NextIndex": "2"
         }
     ],
     "Yondergreen": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
+            "DialogueText": "Well hello there!",
             "NextIndex": "0"
         }
     ],
@@ -6040,15 +6305,68 @@
     "Shuvelle": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
+            "DialogueText": "Diggy diggy hole I'm digging a hole...",
             "NextIndex": "0"
         }
     ],
     "Lonely_Hunter": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
-            "NextIndex": "0"
+            "DialogueText": "Ughh...",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Was real nice before people started showing up all the time. I'm not like the other colosseum masters my tickets are my own.",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go on leave me alone. @ QUEST:Well you heard him!",
+            "NextIndex": "4",
+            "ItemTypeReq": ["Leaf1", "Leaf2"],
+            "ItemNumReq": ["200", "50"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "3",
+            "Rewards": ["PremiumGem", "5", "Timecandy1", "1"],
+            "QuestName": "Lonely Hunter1",
+            "Name": "Leaf Him Alone!",
+            "Difficulty": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Inventory empty it.",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "What the... what are these for? Why did y-- oh. @ Ugh.",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST:Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!",
+            "NextIndex": "7",
+            "CustomType": "Lonely Hunter2",
+            "CustomArray": ["Xylobones_Defeated:", "5", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "6",
+            "Rewards": ["Timecandy1", "1", "TixCol", "1"],
+            "QuestName": "Lonely Hunter2",
+            "Name": "Skeleton? Skelegone!",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Inventory Empty it",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Alright you got your tickets now get outta here.",
+            "NextIndex": "7"
         }
     ],
     "Carpenter_Cardinal": [
@@ -6061,8 +6379,401 @@
     "Lord_of_the_Hunt": [
         {
             "Type": "None",
-            "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
-            "NextIndex": "0"
+            "DialogueText": "Ello... what 'ave we here then?",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "A sorry excuse for a trapper if nothing else! Hows about we change that eh?",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Alrighty then look 'ere. If you want to start hunting critters first we gotta go get you a trap then.",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go get me the materials I need to make a trap @ QUEST:Collect material from Snelbie Snails and Snakes. Also buy a trap from the Town Shop.",
+            "NextIndex": "5",
+            "ItemTypeReq": ["DesertC4", "Jungle2", "TrapBoxSet1"],
+            "ItemNumReq": ["10", "12", "1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "4",
+            "Rewards": ["TrapBoxSet1", "1", "Timecandy4", "2"],
+            "QuestName": "Lord of the Hunt1",
+            "Name": "Pelt for the Pelt God",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Wait huh? Howd you get that trap box already?!",
+            "NextIndex": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well a box is a box what can I say? Equip it now it's a tool just like your pickaxes and fishing rods.",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. @ QUEST:Go trap Froge Critters found in the SLIME map in Blunder Hills.",
+            "NextIndex": "9",
+            "ItemTypeReq": ["Critter1", "Critter1A"],
+            "ItemNumReq": ["100", "1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "8",
+            "Rewards": ["ExpBalloon2", "5", "Timecandy3", "2"],
+            "QuestName": "Lord of the Hunt2",
+            "Name": "Frogecoin to the MOON!",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "No way these are geniune froges?? I better convert these into frogecoins quickly before... darn their value just dropped to 0. @ Lets get you on to the next critter!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. @ QUEST:Go trap Crabbo Critters found by the sea.",
+            "NextIndex": "12",
+            "ItemTypeReq": ["Critter2", "Critter2A"],
+            "ItemNumReq": ["250", "1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "11",
+            "Rewards": ["Timecandy3", "2"],
+            "QuestName": "Lord of the Hunt3",
+            "Name": "Yet another Cartoon Reference",
+            "Difficulty": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Aye these will do nice job.",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Alright the Scorpie Hunting Season is on you know what to do. QUEST:Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!",
+            "NextIndex": "15",
+            "ItemTypeReq": ["Critter3", "Critter3A"],
+            "ItemNumReq": ["500", "2"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "14",
+            "Rewards": ["ExpBalloon3", "2", "Timecandy3", "2"],
+            "QuestName": "Lord of the Hunt4",
+            "Name": "Small Stingers, Big Owie",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Great hand them over. OW! Stupid little     stung me! ",
+            "NextIndex": "16"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST:Go trap some Mousey Critters.",
+            "NextIndex": "18",
+            "ItemTypeReq": ["Critter4", "Critter4A"],
+            "ItemNumReq": ["1000", "2"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "17",
+            "Rewards": ["PremiumGem", "10"],
+            "QuestName": "Lord of the Hunt5",
+            "Name": "The Mouse n the Molerat",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "16"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Ew what is this thing? A naked what? How should I know what this is when I was created the Sewers were future content!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well I'll count it anyway... I'll activate the Owlio Hunting Season. @ QUEST:Go trap Owlio Critters.",
+            "NextIndex": "21",
+            "ItemTypeReq": ["Critter5", "Critter5A"],
+            "ItemNumReq": ["1500", "3"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "20",
+            "Rewards": ["Timecandy4", "1"],
+            "QuestName": "Lord of the Hunt6",
+            "Name": "Happy Tree Friend",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Finally I thought you'd never get finished with that one!",
+            "NextIndex": "22"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... @ QUEST:Go trap some Pingy Critters.",
+            "NextIndex": "24",
+            "ItemTypeReq": ["Critter6", "Critter6A"],
+            "ItemNumReq": ["2500", "4"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "23",
+            "Rewards": ["Timecandy4", "1", "PremiumGem", "10"],
+            "QuestName": "Lord of the Hunt7",
+            "Name": "Noot Noot!",
+            "Difficulty": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "22"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Great thats twenty five thousand less pingys for those poachers to get their hands on! Wait we're the poachers huh.",
+            "NextIndex": "25"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. @ QUEST:Go trap Bunny Critters.",
+            "NextIndex": "27",
+            "ItemTypeReq": ["Critter7", "Critter7A"],
+            "ItemNumReq": ["4000", "6"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "26",
+            "Rewards": ["ResetCompletedS", "1"],
+            "QuestName": "Lord of the Hunt8",
+            "Name": "Bunny you Should Say That!",
+            "Difficulty": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "25"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You really didn't have to go trap that many. You could've just trapped 2 and then... well never mind.",
+            "NextIndex": "28"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. @ QUEST:Go trap Dung Beat Critters.",
+            "NextIndex": "30",
+            "ItemTypeReq": ["Critter8", "Critter8A"],
+            "ItemNumReq": ["8000", "10"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "29",
+            "Rewards": ["ResetCompleted", "4"],
+            "QuestName": "Lord of the Hunt9",
+            "Name": "Rollin' Thunder!",
+            "Difficulty": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "28"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Great hand them over. OW! @ What the?!? How'd that Scorpie from earlier get back here!? Ugh...",
+            "NextIndex": "31"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. @ QUEST:Go trap Honker Critters.",
+            "NextIndex": "33",
+            "ItemTypeReq": ["Critter9", "Critter9A"],
+            "ItemNumReq": ["65000", "1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "32",
+            "Rewards": ["ResetBox", "1", "Timecandy5", "1"],
+            "QuestName": "Lord of the Hunt10",
+            "Name": "Untitled Quest",
+            "Difficulty": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "31"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Hah you've really gone and done it all haven't you! Well there's no more critters in the universe sadly -- trust me I'd know I'd have caught them if there were!",
+            "NextIndex": "34"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "But I can't just let a prodigy like you leave the Trapping game! How about a challenge eh?",
+            "NextIndex": "35"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "If you can catch more Shinies than I have I'll give you a Trophy! @ QUEST:Catch a TON of Shinies... like a TOOOOOON.",
+            "NextIndex": "37",
+            "ItemTypeReq": ["Critter3A", "Critter6A", "Critter9A"],
+            "ItemNumReq": ["500", "250", "100"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "36",
+            "Rewards": ["Trophy10", "1"],
+            "QuestName": "Lord of the Hunt11",
+            "Name": "To Trap or not to Trap",
+            "Difficulty": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more space although not in that hollow head of yours thats for sure!",
+            "NextIndex": "35"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Huh. I guess that makes YOU the Lord of the Hunt... Well we can't be having a plot hole like this no sir! Enjoy the trophy but I'm going to go sell all this evidence to the store.",
+            "NextIndex": "37"
+        }
+    ],
+    "Snouts": [
+        {
+            "Type": "None",
+            "DialogueText": "I'm stuck...",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Wait maybe if I swing THIS way... nope.",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "But what if I swing THAT way...? 'sad oink noise'.",
+            "NextIndex": "3"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "I'm stuck... oh hey!! Hey you!! Can you help me?",
+            "NextIndex": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "My survival guide said if I ever got stuck on a rope the FIRST thing I should do is see if I can just let go and fall on something soft!",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? @ QUEST:Get some Refinery Salts to make into a pile for Snouts to fall onto.",
+            "NextIndex": "7",
+            "ItemTypeReq": ["Refinery1"],
+            "ItemNumReq": ["50"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "6",
+            "Rewards": ["StampA21", "1"],
+            "QuestName": "Snouts1",
+            "Name": "A Salty Fall",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Your inventory is full!",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Oh no!!! The salts evaporating! It must be reacting with the snow or something ^",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Do you have anything else I could land on? @ QUEST:Get some Orange Refinery Salts hopefully they wont react with the snow.",
+            "NextIndex": "10",
+            "ItemTypeReq": ["Refinery2"],
+            "ItemNumReq": ["75"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "9",
+            "Rewards": ["StampA18", "1", "StampB26", "1"],
+            "QuestName": "Snouts2",
+            "Name": "Gravity VS Salt",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Your inventory is full!",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "AAAH!!! WHAT SALT WAS THAT? IT JUST EXPLODED!!! Are... are you ok? Youre just sleeping right?",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well I'm out of ideas... @ ... @ ... @ Unless... no theres no way the rumors are true.",
+            "NextIndex": "12"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! @ QUEST:Defeat a giant monster. You need a Prayer for giants to spawn at all remember.",
+            "NextIndex": "14",
+            "CustomType": "Snouts3",
+            "CustomArray": ["Defeat_Giant_Stache_Mob:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "13",
+            "Rewards": ["StampC15", "1", "StampC20", "1"],
+            "QuestName": "Snouts3",
+            "Name": "Big Ol Chonker",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Your inventory is full!",
+            "NextIndex": "12"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "What the..? It disappeared!! It just up and vanished a few seconds after it died! Where did it even go? @ Welp guess that means just one thing...",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "I'm stuck...",
+            "NextIndex": "15"
         }
     ],
     "FillerNPC": [

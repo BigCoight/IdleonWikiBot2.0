@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Floofie
 |order=6
-|category=Event
+|category=NYI
 |effect=+{%_MP_regen_rate
 |bonus=3
 |reqtier=3

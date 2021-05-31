@@ -1,0 +1,9 @@
+{{InfoItem
+|class=All
+|level=70
+|type=Worship Skull
+|weaponpower=34
+|wis=15
+|upgrade=4
+|sellprice=100
+}}

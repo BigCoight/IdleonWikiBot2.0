@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Biggie Hours
 |order=5
-|category=Bosses
+|category=Event
 |effect=+{%_Double_AFK_claim_chance
 |bonus=3
 |reqtier=1.5

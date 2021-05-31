@@ -1,0 +1,43 @@
+{
+    "Changes": {},
+    "New": {
+        "DropTable14": [
+            ["Sample Stamp", ".001", "1", "N/A"],
+            ["Banked Pts Stamp", ".0006", "1", "N/A"],
+            ["EhExPee Statue", ".05", "15", "N/A"],
+            ["Decent Strength Potion", ".15", "25", "N/A"],
+            ["SuperDropTable3", "0.006", "1", "N/A"]
+        ],
+        "DropTable15": [
+            ["Overkill Stamp", ".0003", "1", "N/A"],
+            ["Violence Stamp", ".00015", "1", "N/A"],
+            ["Mountain Bread", ".5", "15", "N/A"],
+            ["EhExPee Statue", ".04", "14", "N/A"],
+            ["SuperDropTable3", "0.006", "1", "N/A"]
+        ],
+        "DropTable16": [
+            ["Flowin Stamp", ".0001", "1", "N/A"],
+            ["Blover Stamp", ".00008", "15", "N/A"],
+            ["Average EXP Potion", ".1", "25", "N/A"],
+            ["Feasty Statue", "0.03", "1", "N/A"],
+            ["SuperDropTable3", "0.006", "1", "N/A"]
+        ],
+        "DropTable17": [
+            ["Hidey Box Stamp", ".0012", "1", "N/A"],
+            ["SuperDropTable3", "0.006", "1", "N/A"]
+        ],
+        "DropTable18": [
+            ["Spikemouth Stamp", ".0012", "1", "N/A"],
+            ["SuperDropTable3", "0.006", "1", "N/A"]
+        ],
+        "SuperDropTable3": [
+            ["Silver Pen", ".09", "1", "N/A"],
+            ["Saw Stamp", ".015", "1", "N/A"],
+            ["Lucky Lad", ".0003", "1", "N/A"],
+            ["Talent Point Reset Fragment", ".15", "1", "N/A"],
+            ["Golden Ham", "0.5", "1", "N/A"],
+            ["Mystery Upgrade Stone II", "0.7", "3", "N/A"]
+        ]
+    },
+    "Removed": {}
+}

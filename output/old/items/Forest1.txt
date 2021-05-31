@@ -8,7 +8,7 @@
 {{detdrops|[[Glublin]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Iron Helmet]]|400|Crafting}}
+{{usedin/row|[[Iron Helmet]]|300|Crafting}}
 {{usedin/row|[[Fur Shirt]]|500|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 {{usedin/row|[[Power Cauldron#Wyoming Blood|Wyoming Blood]]|Lots|Alchemy}}

@@ -2,9 +2,9 @@
 |title=mamooth
 |order=4
 |category=Frostfire Tyundra
-|effect=+{%_Double_AFK_claim_chance
-|bonus=3
-|reqtier=1.5
+|effect=+{%_Base_HP
+|bonus=3.5
+|reqtier=15
 |source=[[mamooth]]
 }}
 {{detdrops/head}}

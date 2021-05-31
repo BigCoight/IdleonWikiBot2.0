@@ -1,3 +1,4 @@
+Crude Oil
 {{InfoItem
 |type=Barrel
 |description=Increases Forging Speed by 15% for the Forge Slot it's in. 75% chance to be consumed when a bar is forged.
@@ -12,6 +13,7 @@
 {{usedin/row|[[Eco Friendly Oil]]|1|Crafting}}
 {{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|200|Quests}}
 |}
+Toxic Sludge
 {{InfoItem
 |type=Barrel
 |description=Increases Extra Bar chance by 20% for the Slot it's in. 60% chance to be consumed when a bar is forged.
@@ -21,17 +23,20 @@
 {{detdrops/head}}
 {{detdrops|[[Slime]]|0.0003|10}}
 |}
+Radioactive Waste
 {{InfoItem
 |type=Barrel
 |description=Increases chance to Not Use Up Ores by 3% for the Slot it's in. 60% chance to be consumed when a bar is forged.
 |sellprice=50
 }}
+Glumlee's Special Tutorial Oil
 {{InfoItem
 |type=Barrel
 |description=Increases Forging Speed by 999% for the Forge Slot it's in. 200% chance to be consumed when a bar is forged.
 |sellprice=350
 |source=[[Glumlee#Learning to Swing|Learning to Swing]]
 }}
+Eco Friendly Oil
 {{InfoItem
 |type=Barrel
 |description=Increases Forging Speed by 10% for the Forge Slot it's in. 30% chance to be consumed when a bar is forged.
@@ -47,11 +52,11 @@
 |resource2=Grass Leaf|quantity2=1
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Crude Oil|1}}
-{{detrecipe|3|Grass Leaf|1}}
+{{detrecipe|3|OilBarrel1|1}}
+{{detrecipe|3|Leaf1|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Crude Oil|1}}
-{{detrecipe/totals|Grass Leaf|1}}
+{{detrecipe/totals|OilBarrel1|1}}
+{{detrecipe/totals|Leaf1|1}}
 |}

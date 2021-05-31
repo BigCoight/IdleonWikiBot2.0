@@ -20,16 +20,16 @@
 |resource3=Distilled Water|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Gold Fishing Rod]]|5|Crafting}}
+{{usedin/row|[[Gold Fishing Rod]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|300}}
-{{detrecipe|3|Hermit Can|850}}
-{{detrecipe|3|Distilled Water|3}}
+{{detrecipe|3|IronBar|300}}
+{{detrecipe|3|Fish2|850}}
+{{detrecipe|3|PureWater|3}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|300}}
-{{detrecipe/totals|Hermit Can|850}}
-{{detrecipe/totals|Distilled Water|3}}
+{{detrecipe/totals|IronBar|300}}
+{{detrecipe/totals|Fish2|850}}
+{{detrecipe/totals|PureWater|3}}
 |}

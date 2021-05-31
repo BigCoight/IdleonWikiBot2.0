@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=23
-|type=Skills
+|type=Skills Stamp
 |bonus=% Bug Carry Cap
 |material=Hermit Can
 |sellprice=3000

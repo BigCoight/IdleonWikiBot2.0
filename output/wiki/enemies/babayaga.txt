@@ -9,7 +9,7 @@
 |defence0=466.07
 |hascard=Yes
 }}
-{{EnemyNavigation|Crystal Cattle|Dr Defecaus}}
+{{EnemyNavigation|Flycicle|Dr Defecaus}}
 {{DropTable/head}}
 {{DropTable/coin|800|1}}
 {{DropTable/card|0.03}}

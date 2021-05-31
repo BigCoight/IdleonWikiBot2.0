@@ -1,6 +1,6 @@
 {{InfoItem
 |type=Boost Food
-|description=Increases Fishing Spd by 10% 10% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Fishing Spd by 20% 10% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
 |sellprice=105
 }}
 {{ForgeSlot
@@ -12,12 +12,15 @@
 |resource1=Hermit Can|quantity1=5
 |resource2=Average Strength Potion|quantity2=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Hermit Can|5}}
-{{detrecipe|3|Average Strength Potion|2}}
+{{detrecipe|3|Fish2|5}}
+{{detrecipe|3|FoodPotOr2|2}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hermit Can|5}}
-{{detrecipe/totals|Average Strength Potion|2}}
+{{detrecipe/totals|Fish2|5}}
+{{detrecipe/totals|FoodPotOr2|2}}
 |}

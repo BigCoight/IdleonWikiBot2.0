@@ -8,7 +8,7 @@
 |luck=2
 |misc=5% Money
 |upgrade=3
-|sellprice=14800
+|sellprice=13750
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -24,14 +24,14 @@
 {{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|600}}
-{{detrecipe|3|Jungle Logs|1000}}
-{{detrecipe|3|Copper Boots|2}}
-{{detrecipe|40|Copper Bar|400}}
+{{detrecipe|3|Jungle1|600}}
+{{detrecipe|3|JungleTree|1000}}
+{{detrecipe|3|EquipmentShoes1|2}}
+{{detrecipe|40|CopperBar|250}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|600}}
-{{detrecipe/totals|Jungle Logs|1000}}
-{{detrecipe/totals|Copper Bar|400}}
+{{detrecipe/totals|Jungle1|600}}
+{{detrecipe/totals|JungleTree|1000}}
+{{detrecipe/totals|CopperBar|250}}
 |}

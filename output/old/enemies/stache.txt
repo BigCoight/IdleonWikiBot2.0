@@ -1,0 +1,24 @@
+{{InfoEnemy
+|image=Sir Stache_Walking.gif
+|attack=420
+|health=81000
+|defence=900
+|speed=4
+|world=Frostfire Tyundra
+|area=The Stache Split
+|exp=800
+|respawn=40
+|defence0=491.48
+|crystal=Yes
+|crystalname=Crystal Cattle
+|hascard=Yes
+}}
+{{EnemyNavigation|Frost Flake|Bloque}}
+{{DropTable/head}}
+{{DropTable/coin|205|0.43}}
+{{DropTable/row|Moustache Comb|0.16|1}}
+{{DropTable/card|0.0001}}
+{{DropTable/row|Decent Speed Potion|.002|1}}
+{{DropTable/row|Twosoul Statue|0.0002|1}}
+{{DropTable14|chance=0.0031}}
+|}

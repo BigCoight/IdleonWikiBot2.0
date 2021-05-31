@@ -1,0 +1,22 @@
+{{InfoEnemy
+|image=Nightmare Chizoar_Walking.gif
+|attack=1000
+|health=750000
+|defence=600
+|speed=3
+|exp=12000
+|respawn=86400
+|defence0=1223.26
+}}
+{{EnemyNavigation||}}
+{{DropTable/head}}
+{{DropTable/coin|4000|1}}
+{{DropTable/card|0.01}}
+{{DropTable/row|Midnight Cookie|0.07|1}}
+{{DropTable/row|Skeletal Obol of Efaunt's Gaze|0.001|1}}
+{{DropTable/row|Royal Turban|0.000667|1}}
+{{DropTable/row|Mystery Upgrade Stone I|0.03|1}}
+{{DropTable6|chance=1}}
+{{DropTable7|chance=1}}
+{{DropTable8|chance=1}}
+|}

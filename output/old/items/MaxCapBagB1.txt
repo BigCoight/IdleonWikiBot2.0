@@ -12,12 +12,12 @@
 |resource1=Fly|quantity1=180
 }}
 {{usedin/head}}
-{{usedin/row|[[Average Bug Pouch]]|10|Crafting}}
+{{usedin/row|[[Average Bug Pouch]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Fly|180}}
+{{detrecipe|3|Bug1|180}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Fly|180}}
+{{detrecipe/totals|Bug1|180}}
 |}

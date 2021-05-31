@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=10
-|type=Combat
+|type=Combat Stamp
 |bonus=% Total Damage
 |material=Grass Leaf
 |sellprice=2500

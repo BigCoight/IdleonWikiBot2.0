@@ -7,3 +7,7 @@
 {{detdrops/head}}
 {{detdrops|[[Sir Stache]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Dementia Pickaxe]]|15000|Crafting}}
+{{usedin/row|[[Power Cauldron#Call Me Bob|Call Me Bob]]|Lots|Alchemy}}
+|}

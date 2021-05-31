@@ -1,0 +1,47 @@
+{{InfoItem
+|class=Archer
+|level=100
+|type=Helmet
+|weaponpower=1
+|str=7
+|agi=23
+|misc=6% Movement Speed
+|upgrade=3
+|defence=47
+|sellprice=7614000
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=50
+|levelreq=48
+|expgiven=750000
+|recipefrom=Start
+|resource1=Dioxide Synthesis|quantity1=500
+|resource2=Void Imperium Helmet|quantity2=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Refinery4|500}}
+{{detrecipe|3|EquipmentHats54|1}}
+{{detrecipe|40|Refinery3|500}}
+{{detrecipe|40|EquipmentHats53|2}}
+{{detrecipe|80|Critter1|10000}}
+{{detrecipe|80|EquipmentHats19|4}}
+{{detrecipe|120|Fish3|16000}}
+{{detrecipe|120|EquipmentHats18|16}}
+{{detrecipe|160|IronBar|2000}}
+{{detrecipe|160|Forest1|4800}}
+{{detrecipe|120|PlatBar|3000}}
+{{detrecipe|80|DementiaBar|600}}
+{{detrecipe|40|VoidBar|1000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Refinery4|500}}
+{{detrecipe/totals|Refinery3|500}}
+{{detrecipe/totals|Critter1|10000}}
+{{detrecipe/totals|Fish3|16000}}
+{{detrecipe/totals|IronBar|2000}}
+{{detrecipe/totals|Forest1|4800}}
+{{detrecipe/totals|DementiaBar|600}}
+{{detrecipe/totals|VoidBar|1000}}
+|}

@@ -1,6 +1,6 @@
 {{InfoEnemy
 |image=Carrotman_Walking.gif
-|attack=26
+|attack=22
 |health=800
 |defence=30
 |speed=6
@@ -8,7 +8,7 @@
 |area=Vegetable Patch
 |exp=45
 |respawn=50
-|defence0=17.99
+|defence0=14.57
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

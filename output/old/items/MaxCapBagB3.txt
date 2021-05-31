@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Bugs.
-|sellprice=39425
+|sellprice=28875
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -9,24 +9,24 @@
 |levelreq=17
 |expgiven=1850
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Cramped Bug Pouch|quantity1=10
-|resource2=Small Bug Pouch|quantity2=5
+|resource1=Cramped Bug Pouch|quantity1=5
+|resource2=Small Bug Pouch|quantity2=3
 |resource3=Butterfly|quantity3=1600
 }}
 {{usedin/head}}
-{{usedin/row|[[Sizable Bug Pouch]]|5|Crafting}}
+{{usedin/row|[[Sizable Bug Pouch]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Cramped Bug Pouch|10}}
-{{detrecipe|40|Fly|1800}}
-{{detrecipe|3|Small Bug Pouch|5}}
-{{detrecipe|40|Butterfly|2125}}
-{{detrecipe|40|Distilled Water|10}}
-{{detrecipe|3|Butterfly|1600}}
+{{detrecipe|3|MaxCapBagB1|5}}
+{{detrecipe|40|Bug1|900}}
+{{detrecipe|3|MaxCapBagB2|3}}
+{{detrecipe|40|Bug2|1275}}
+{{detrecipe|40|PureWater|6}}
+{{detrecipe|3|Bug2|1600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Fly|1800}}
-{{detrecipe/totals|Butterfly|3725}}
-{{detrecipe/totals|Distilled Water|10}}
+{{detrecipe/totals|Bug1|900}}
+{{detrecipe/totals|Bug2|2875}}
+{{detrecipe/totals|PureWater|6}}
 |}

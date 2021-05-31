@@ -5,8 +5,10 @@
 |effect=+{%_Total_Catching_Efficiency
 |bonus=5
 |reqtier=10
-|source=[[Catching#Drops|Catching Butterflies]]
+|source=[[Dune Soul]], [[Crabbo]], [[Catching#Drops|Catching Butterflies]]
 }}
 {{detdrops/head}}
+{{detdrops|[[Dune Soul]]|0.00018|1}}
+{{detdrops|[[Crabbo]]|0.00018|1}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
 |}

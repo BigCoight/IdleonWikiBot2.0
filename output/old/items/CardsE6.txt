@@ -2,9 +2,9 @@
 |title=Penguin
 |order=6
 |category=Frostfire Tyundra
-|effect=+{%_EXP_from_monsters
-|bonus=5
-|reqtier=1.5
+|effect=+{_Base_WIS
+|bonus=7
+|reqtier=15
 |source=[[Penguin]]
 }}
 {{detdrops/head}}

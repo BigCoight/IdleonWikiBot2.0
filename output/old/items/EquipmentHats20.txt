@@ -6,7 +6,7 @@
 |agi=2
 |upgrade=2
 |defence=11
-|sellprice=3000
+|sellprice=2370
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -22,16 +22,16 @@
 {{usedin/row|[[Viking Cap]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|25}}
-{{detrecipe|3|Copper Ore|150}}
-{{detrecipe|3|Copper Helmet|2}}
-{{detrecipe|40|Copper Bar|100}}
-{{detrecipe|40|Bean Slices|150}}
+{{detrecipe|3|IronBar|25}}
+{{detrecipe|3|Copper|150}}
+{{detrecipe|3|EquipmentHats17|2}}
+{{detrecipe|40|CopperBar|60}}
+{{detrecipe|40|Grasslands3|100}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|25}}
-{{detrecipe/totals|Copper Ore|150}}
-{{detrecipe/totals|Copper Bar|100}}
-{{detrecipe/totals|Bean Slices|150}}
+{{detrecipe/totals|IronBar|25}}
+{{detrecipe/totals|Copper|150}}
+{{detrecipe/totals|CopperBar|60}}
+{{detrecipe/totals|Grasslands3|100}}
 |}

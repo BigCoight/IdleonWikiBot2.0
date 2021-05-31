@@ -10,10 +10,13 @@
 |misc=5% Boss Damage
 |sellprice=20
 |rarity=Skeletal
-|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]]
+|source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.001|1}}
 {{detdrops|[[Chaotic Efaunt]]|0.001|1}}
 {{detdrops|[[Nightmare Amarok]]|0.001|1}}
+{{detdrops|[[Chizoar]]|0.001|1}}
+{{detdrops|[[Chaotic Chizoar]]|0.001|1}}
+{{detdrops|[[Nightmare Chizoar]]|0.001|1}}
 |}

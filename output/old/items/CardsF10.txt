@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Frigid Soul
+|order=2
+|category=Bosses
+|effect=+{%_Max_Charge
+|bonus=2.5
+|reqtier=4
+}}

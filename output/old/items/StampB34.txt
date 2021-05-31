@@ -1,0 +1,8 @@
+{{InfoStamp
+|number=24
+|type=Skills Stamp
+|bonus=% Charging Speed
+|material=Redox Salts
+|sellprice=4000
+|source=[[DropTable16]]
+}}

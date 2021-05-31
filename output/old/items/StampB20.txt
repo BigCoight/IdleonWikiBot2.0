@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=20
-|type=Skills
+|type=Skills Stamp
 |bonus=% Catching Exp
 |material=Crabby Cakey
 |sellprice=3000

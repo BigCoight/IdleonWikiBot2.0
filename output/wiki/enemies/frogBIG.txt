@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Gigafrog_Walking.gif
-|attack=60
+|attack=45
 |health=2500
-|defence=120
+|defence=110
 |speed=3
 |world=Blunder Hills
 |area=Tucked Away
 |exp=95
 |respawn=55
-|defence0=50.87
+|defence0=35.69
 |crystal=Yes
 |crystalname=Crystal Carrot
 |hascard=Yes

@@ -1,7 +1,7 @@
 {{InfoCard
 |title=Chocco Box
 |order=5
-|category=Event
+|category=NYI
 |effect=+{%_Boost_Food_Effect
 |bonus=4
 |reqtier=1.5

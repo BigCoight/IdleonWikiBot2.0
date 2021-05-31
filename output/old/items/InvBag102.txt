@@ -16,13 +16,13 @@
 |resource3=Spore Cap|quantity3=169
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Spore Tee|2}}
-{{detrecipe|3|Dank Paypay Chest|1}}
-{{detrecipe|3|Spore Cap|169}}
+{{detrecipe|3|EquipmentShirts16|2}}
+{{detrecipe|3|InvStorageF|1}}
+{{detrecipe|3|Grasslands1|169}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Spore Tee|2}}
-{{detrecipe/totals|Dank Paypay Chest|1}}
-{{detrecipe/totals|Spore Cap|169}}
+{{detrecipe/totals|EquipmentShirts16|2}}
+{{detrecipe/totals|InvStorageF|1}}
+{{detrecipe/totals|Grasslands1|169}}
 |}

@@ -1,0 +1,26 @@
+{{InfoItem
+|type=Carry Bag
+|description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Critters.
+|sellprice=6500
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 2
+|craftnum=69
+|levelreq=28
+|expgiven=4000
+|recipefrom=Start
+|resource1=Crabbo|quantity1=1000
+|resource2=Redox Salts|quantity2=15
+}}
+{{usedin/head}}
+{{usedin/row|[[Big Critter Pouch]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Critter2|1000}}
+{{detrecipe|3|Refinery1|15}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Critter2|1000}}
+{{detrecipe/totals|Refinery1|15}}
+|}

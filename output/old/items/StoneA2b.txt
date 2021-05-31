@@ -16,6 +16,8 @@
 {{detdrops|[[Efaunt]]|0.005|2.0}}
 {{detdrops|[[Chaotic Efaunt]]|0.005|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.005|2.0}}
+{{detdrops|[[Chizoar]]|0.005|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.005|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.005|2.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.005|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.005|1.0}}
 |}

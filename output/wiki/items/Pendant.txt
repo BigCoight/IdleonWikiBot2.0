@@ -1,3 +1,4 @@
+Mint Icey
 {{InfoItem
 |class=All
 |level=1
@@ -10,6 +11,7 @@
 |misc=1% Xp From Monsters
 |sellprice=420
 }}
+Strawbu Icey
 {{InfoItem
 |class=All
 |level=1
@@ -22,6 +24,7 @@
 |misc=2% Xp From Monsters
 |sellprice=420
 }}
+Rok Road Icey
 {{InfoItem
 |class=All
 |level=1
@@ -35,6 +38,7 @@
 |upgrade=1
 |sellprice=420
 }}
+Rainbo Icey
 {{InfoItem
 |class=All
 |level=1
@@ -48,6 +52,7 @@
 |upgrade=1
 |sellprice=420
 }}
+Chocotastic Icey
 {{InfoItem
 |class=All
 |level=1
@@ -61,6 +66,7 @@
 |upgrade=1
 |sellprice=420
 }}
+Blubbery Icey
 {{InfoItem
 |class=All
 |level=1
@@ -74,6 +80,7 @@
 |upgrade=2
 |sellprice=420
 }}
+Lava Icey
 {{InfoItem
 |class=All
 |level=1
@@ -87,6 +94,7 @@
 |upgrade=2
 |sellprice=420
 }}
+Legends Icey
 {{InfoItem
 |class=All
 |level=1
@@ -100,6 +108,7 @@
 |upgrade=3
 |sellprice=27
 }}
+Little Wooden Katana
 {{InfoItem
 |class=All
 |level=1
@@ -110,6 +119,7 @@
 |sellprice=200
 |source=[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
 }}
+Sleek Shank
 {{InfoItem
 |class=All
 |level=1
@@ -131,24 +141,25 @@
 |resource4=Gnarled Wand|quantity4=3
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Thread|300}}
-{{detrecipe|3|Wooden Spear|3}}
-{{detrecipe|40|Spore Cap|75}}
-{{detrecipe|40|Copper Bar|30}}
-{{detrecipe|3|Wooden Bow|3}}
-{{detrecipe|40|Spore Cap|75}}
-{{detrecipe|40|Thread|90}}
-{{detrecipe|3|Gnarled Wand|3}}
-{{detrecipe|40|Spore Cap|75}}
-{{detrecipe|40|Oak Logs|90}}
+{{detrecipe|3|CraftMat1|300}}
+{{detrecipe|3|TestObj1|3}}
+{{detrecipe|40|Grasslands1|75}}
+{{detrecipe|40|CopperBar|30}}
+{{detrecipe|3|EquipmentBows1|3}}
+{{detrecipe|40|Grasslands1|75}}
+{{detrecipe|40|CraftMat1|90}}
+{{detrecipe|3|EquipmentWands1|3}}
+{{detrecipe|40|Grasslands1|75}}
+{{detrecipe|40|OakTree|90}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Thread|390}}
-{{detrecipe/totals|Spore Cap|225}}
-{{detrecipe/totals|Copper Bar|30}}
-{{detrecipe/totals|Oak Logs|90}}
+{{detrecipe/totals|CraftMat1|390}}
+{{detrecipe/totals|Grasslands1|225}}
+{{detrecipe/totals|CopperBar|30}}
+{{detrecipe/totals|OakTree|90}}
 |}
+Carrot Horror
 {{InfoItem
 |class=All
 |level=14
@@ -160,6 +171,7 @@
 |sellprice=500
 |source=[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]
 }}
+Tarantulight
 {{InfoItem
 |class=All
 |level=20
@@ -175,6 +187,7 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=7|vendor=Encroaching Forest Villas|stock=1|buyprice=26000}}
 |}
+Quartz Pendant
 {{InfoItem
 |class=All
 |level=20
@@ -186,6 +199,7 @@
 |upgrade=3
 |sellprice=6500
 }}
+Fuscismatia
 {{InfoItem
 |class=All
 |level=70
@@ -203,6 +217,7 @@
 {{usedin/head}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
+Lucky Fish Head
 {{InfoItem
 |class=All
 |level=20
@@ -214,6 +229,7 @@
 |upgrade=3
 |sellprice=6500
 }}
+Strung Bludgeon
 {{InfoItem
 |class=All
 |level=20
@@ -233,16 +249,17 @@
 |resource3=Distilled Water|quantity3=20
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Bullfrog Horn|9000}}
-{{detrecipe|3|Glass Shard|10}}
-{{detrecipe|3|Distilled Water|20}}
+{{detrecipe|3|Forest3|9000}}
+{{detrecipe|3|DesertA1b|10}}
+{{detrecipe|3|PureWater|20}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Bullfrog Horn|9000}}
-{{detrecipe/totals|Glass Shard|10}}
-{{detrecipe/totals|Distilled Water|20}}
+{{detrecipe/totals|Forest3|9000}}
+{{detrecipe/totals|DesertA1b|10}}
+{{detrecipe/totals|PureWater|20}}
 |}
+Chaotic Amarok Pendant
 {{InfoItem
 |class=All
 |level=30
@@ -263,16 +280,17 @@
 |resource3=Distilled Water|quantity3=25
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Chaotic Amarok Slab|4}}
-{{detrecipe|3|Amarok Slab|10}}
-{{detrecipe|3|Distilled Water|25}}
+{{detrecipe|3|Quest29|4}}
+{{detrecipe|3|Quest17|10}}
+{{detrecipe|3|PureWater|25}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Chaotic Amarok Slab|4}}
-{{detrecipe/totals|Amarok Slab|10}}
-{{detrecipe/totals|Distilled Water|25}}
+{{detrecipe/totals|Quest29|4}}
+{{detrecipe/totals|Quest17|10}}
+{{detrecipe/totals|PureWater|25}}
 |}
+Strung Steamy
 {{InfoItem
 |class=All
 |level=1

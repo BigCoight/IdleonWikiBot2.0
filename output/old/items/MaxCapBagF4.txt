@@ -1,7 +1,7 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Health Food, Boost Food, Golden Food.
-|sellprice=126230
+|sellprice=122930
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -13,33 +13,36 @@
 |resource2=Nuget Cake|quantity2=6
 |resource3=Average Food Pouch|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Big Food Pouch]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Meat Pie|9}}
-{{detrecipe|3|Nuget Cake|6}}
-{{detrecipe|3|Average Food Pouch|2}}
-{{detrecipe|40|Cramped Food Pouch|20}}
-{{detrecipe|80|Nomwich|1500}}
-{{detrecipe|80|Hot Dog|500}}
-{{detrecipe|80|Oak Logs|1200}}
-{{detrecipe|80|Copper Bar|300}}
-{{detrecipe|40|Meat Pie|500}}
-{{detrecipe|40|Icing Ironbite|1200}}
-{{detrecipe|80|Iron Ore|6000}}
-{{detrecipe|80|Small Mana Potion|2400}}
-{{detrecipe|40|Saucy Logfries|1200}}
-{{detrecipe|80|Jungle Logs|7200}}
-{{detrecipe|80|Small Life Potion|3600}}
+{{detrecipe|3|FoodG3|9}}
+{{detrecipe|3|DesertA3b|6}}
+{{detrecipe|3|MaxCapBagF3|2}}
+{{detrecipe|40|MaxCapBag8|14}}
+{{detrecipe|80|FoodHealth1|1050}}
+{{detrecipe|80|FoodHealth3|350}}
+{{detrecipe|80|OakTree|840}}
+{{detrecipe|80|CopperBar|210}}
+{{detrecipe|40|FoodHealth7|500}}
+{{detrecipe|40|FoodMining1|1200}}
+{{detrecipe|80|Iron|6000}}
+{{detrecipe|80|FoodPotMana1|2400}}
+{{detrecipe|40|FoodChoppin1|1200}}
+{{detrecipe|80|JungleTree|7200}}
+{{detrecipe|80|FoodPotRe1|3600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Meat Pie|9}}
-{{detrecipe/totals|Nuget Cake|6}}
-{{detrecipe/totals|Nomwich|1500}}
-{{detrecipe/totals|Hot Dog|500}}
-{{detrecipe/totals|Oak Logs|1200}}
-{{detrecipe/totals|Copper Bar|300}}
-{{detrecipe/totals|Iron Ore|6000}}
-{{detrecipe/totals|Small Mana Potion|2400}}
-{{detrecipe/totals|Jungle Logs|7200}}
-{{detrecipe/totals|Small Life Potion|3600}}
+{{detrecipe/totals|FoodG3|9}}
+{{detrecipe/totals|DesertA3b|6}}
+{{detrecipe/totals|FoodHealth1|1050}}
+{{detrecipe/totals|FoodHealth3|350}}
+{{detrecipe/totals|OakTree|840}}
+{{detrecipe/totals|CopperBar|210}}
+{{detrecipe/totals|Iron|6000}}
+{{detrecipe/totals|FoodPotMana1|2400}}
+{{detrecipe/totals|JungleTree|7200}}
+{{detrecipe/totals|FoodPotRe1|3600}}
 |}

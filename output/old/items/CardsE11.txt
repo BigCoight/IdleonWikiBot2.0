@@ -2,9 +2,9 @@
 |title=Neyeptune
 |order=11
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
-|bonus=3
-|reqtier=10
+|effect=+{%_Total_Accuracy
+|bonus=5
+|reqtier=17
 |source=[[Neyeptune]]
 }}
 {{detdrops/head}}

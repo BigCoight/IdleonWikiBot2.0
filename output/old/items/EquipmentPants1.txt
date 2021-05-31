@@ -23,13 +23,13 @@
 {{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|8|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Frog Leg|20}}
-{{detrecipe|3|Copper Bar|8}}
-{{detrecipe|3|Thread|15}}
+{{detrecipe|3|Grasslands2|20}}
+{{detrecipe|3|CopperBar|8}}
+{{detrecipe|3|CraftMat1|15}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Frog Leg|20}}
-{{detrecipe/totals|Copper Bar|8}}
-{{detrecipe/totals|Thread|15}}
+{{detrecipe/totals|Grasslands2|20}}
+{{detrecipe/totals|CopperBar|8}}
+{{detrecipe/totals|CraftMat1|15}}
 |}

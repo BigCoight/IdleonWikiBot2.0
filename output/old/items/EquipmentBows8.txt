@@ -1,0 +1,51 @@
+{{InfoItem
+|class=Archer
+|level=90
+|type=Bow
+|speed=7
+|weaponpower=36
+|str=10
+|agi=13
+|misc=5% Crit Damage
+|reach=230
+|upgrade=4
+|sellprice=898020
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=30
+|levelreq=45
+|expgiven=450000
+|recipefrom=Start
+|resource1=Black Lense|quantity1=4
+|resource2=Spontaneity Salts|quantity2=250
+|resource3=Blizzard Bow|quantity3=3
+}}
+{{detrecipe/head}}
+{{detrecipe|3|SnowC4a|4}}
+{{detrecipe|3|Refinery3|250}}
+{{detrecipe|3|EquipmentBows7|3}}
+{{detrecipe|40|Soul1|21000}}
+{{detrecipe|40|EquipmentBows6|6}}
+{{detrecipe|80|TreeInterior1b|18}}
+{{detrecipe|80|Fish4|19200}}
+{{detrecipe|80|EquipmentBows5|12}}
+{{detrecipe|120|GoldBar|3000}}
+{{detrecipe|120|EquipmentBows3|36}}
+{{detrecipe|160|Jungle1|4500}}
+{{detrecipe|160|BirchTree|9000}}
+{{detrecipe|120|PureWater|96}}
+{{detrecipe|40|Refinery1|450}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowC4a|4}}
+{{detrecipe/totals|Refinery3|250}}
+{{detrecipe/totals|Soul1|21000}}
+{{detrecipe/totals|TreeInterior1b|18}}
+{{detrecipe/totals|Fish4|19200}}
+{{detrecipe/totals|GoldBar|3000}}
+{{detrecipe/totals|Jungle1|4500}}
+{{detrecipe/totals|BirchTree|9000}}
+{{detrecipe/totals|Refinery1|450}}
+|}

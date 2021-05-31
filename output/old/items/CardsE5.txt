@@ -2,9 +2,9 @@
 |title=Snowman
 |order=5
 |category=Frostfire Tyundra
-|effect=+{%_Total_Drop_Rate
-|bonus=6
-|reqtier=1.5
+|effect=+{%_Total_Damage
+|bonus=3
+|reqtier=15
 |source=[[Snowman]]
 }}
 {{detdrops/head}}

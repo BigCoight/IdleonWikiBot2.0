@@ -7,7 +7,7 @@
 |wis=9
 |reach=120
 |upgrade=2
-|sellprice=2200
+|sellprice=1950
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
@@ -15,7 +15,7 @@
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Slime Sludge|quantity1=150
+|resource1=Slime Sludge|quantity1=125
 |resource2=Copper Bar|quantity2=100
 }}
 {{usedin/head}}
@@ -23,11 +23,11 @@
 {{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Slime Sludge|150}}
-{{detrecipe|3|Copper Bar|100}}
+{{detrecipe|3|Jungle1|125}}
+{{detrecipe|3|CopperBar|100}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Slime Sludge|150}}
-{{detrecipe/totals|Copper Bar|100}}
+{{detrecipe/totals|Jungle1|125}}
+{{detrecipe/totals|CopperBar|100}}
 |}

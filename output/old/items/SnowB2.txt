@@ -7,3 +7,6 @@
 {{detdrops/head}}
 {{detdrops|[[mamooth]]|0.16|1}}
 |}
+{{usedin/head}}
+{{usedin/row|[[Vials#Etruscan Lager|Etruscan Lager]]|Lots|Alchemy}}
+|}

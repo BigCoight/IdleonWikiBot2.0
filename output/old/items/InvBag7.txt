@@ -14,7 +14,8 @@
 {{detdrops|[[Crabcake]]|0.000004319999999999999|1.0}}
 {{detdrops|[[Efaunt]]|0.0012|2.0}}
 {{detdrops|[[Nightmare Amarok]]|0.0012|2.0}}
+{{detdrops|[[Chizoar]]|0.0012|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.0012|2.0}}
 {{detdrops|[[Biggie Hours]]|0.0006|1.0}}
 {{detdrops|[[Sandstone Bronze Chest]]|0.0012|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.0012|1.0}}
 |}

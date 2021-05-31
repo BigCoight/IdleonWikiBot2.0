@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Crabbo
+|order=13
+|category=Medium Resources
+|effect=+{%_Base_HP
+|bonus=5
+|reqtier=4
+}}

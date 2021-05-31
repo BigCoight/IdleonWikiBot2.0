@@ -1,6 +1,13 @@
 {{InfoItem
 |type=Ore
 |description=Smelt down 125 Ores into 1 Bar at the Forge. Smelting will take 6000 per Bar using Forge Slot 1.
-|sellprice=60
-|source=Mining
+|sellprice=48
+|source=Mining, [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.1|120}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Large Mining Pouch]]|25000|Crafting}}
+{{usedin/row|[[Vials#Stache Stew|Stache Stew]]|Lots|Alchemy}}
+|}

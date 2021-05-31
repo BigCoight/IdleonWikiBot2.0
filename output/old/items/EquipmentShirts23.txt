@@ -19,15 +19,15 @@
 |resource3=Nuget Cake|quantity3=1
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Fur Shirt|4}}
-{{detrecipe|40|Goblin Ear|2000}}
-{{detrecipe|40|Iron Bar|2000}}
-{{detrecipe|3|Stick|3000}}
-{{detrecipe|3|Nuget Cake|1}}
+{{detrecipe|3|EquipmentShirts10|4}}
+{{detrecipe|40|Forest1|2000}}
+{{detrecipe|40|IronBar|2000}}
+{{detrecipe|3|TreeInterior1|3000}}
+{{detrecipe|3|DesertA3b|1}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Goblin Ear|2000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|Forest1|2000}}
+{{detrecipe/totals|IronBar|2000}}
+{{detrecipe/totals|DesertA3b|1}}
 |}

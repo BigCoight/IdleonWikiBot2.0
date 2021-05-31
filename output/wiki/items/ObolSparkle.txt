@@ -1,3 +1,4 @@
+Dementia Obol of Magisterial Metals
 {{InfoItem
 |class=All
 |level=1
@@ -8,6 +9,7 @@
 |sellprice=50
 |rarity=Dementia
 }}
+Dementia Obol of WOWOWOWWO
 {{InfoItem
 |class=All
 |level=1
@@ -18,6 +20,7 @@
 |sellprice=50
 |rarity=Dementia
 }}
+Dementia Obol of Monument Marlins
 {{InfoItem
 |class=All
 |level=1
@@ -28,6 +31,7 @@
 |sellprice=50
 |rarity=Dementia
 }}
+Dementia Obol of Idk Yet
 {{InfoItem
 |class=All
 |level=1
@@ -38,6 +42,7 @@
 |sellprice=50
 |rarity=Dementia
 }}
+Dementia Obol of Never Ending Luck
 {{InfoItem
 |class=All
 |level=1

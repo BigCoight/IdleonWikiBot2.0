@@ -1,0 +1,60 @@
+{{InfoItem
+|class=Beginner
+|level=80
+|type=Shirt
+|luck=25
+|misc=15% Xp From Monsters
+|upgrade=4
+|defence=40
+|sellprice=50139900
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=52
+|levelreq=50
+|expgiven=1200000
+|recipefrom=Start
+|resource1=Dioxide Synthesis|quantity1=500
+|resource2=Uninflated Glove|quantity2=2
+|resource3=Void Imperium Platebody|quantity3=1
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Refinery4|500}}
+{{detrecipe|3|EquipmentPunching4|2}}
+{{detrecipe|40|SnowA2|140000}}
+{{detrecipe|40|EquipmentPunching3|6}}
+{{detrecipe|80|CraftMat3|30000}}
+{{detrecipe|80|EquipmentPunching2|30}}
+{{detrecipe|120|CopperBar|600}}
+{{detrecipe|120|OakTree|2250}}
+{{detrecipe|120|CraftMat5|600}}
+{{detrecipe|80|ToiletTree|12000}}
+{{detrecipe|3|EquipmentShirts27|1}}
+{{detrecipe|40|SnowC3|75000}}
+{{detrecipe|40|EquipmentShirts15|2}}
+{{detrecipe|80|Soul1|2000}}
+{{detrecipe|80|EquipmentShirts14|4}}
+{{detrecipe|120|DesertB4|20000}}
+{{detrecipe|120|EquipmentShirts12|20}}
+{{detrecipe|160|IronBar|3000}}
+{{detrecipe|160|JungleTree|12000}}
+{{detrecipe|120|PlatBar|4000}}
+{{detrecipe|80|DementiaBar|700}}
+{{detrecipe|40|VoidBar|500}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Refinery4|500}}
+{{detrecipe/totals|SnowA2|140000}}
+{{detrecipe/totals|CraftMat3|30000}}
+{{detrecipe/totals|CopperBar|600}}
+{{detrecipe/totals|OakTree|2250}}
+{{detrecipe/totals|CraftMat5|600}}
+{{detrecipe/totals|SnowC3|75000}}
+{{detrecipe/totals|Soul1|2000}}
+{{detrecipe/totals|DesertB4|20000}}
+{{detrecipe/totals|IronBar|3000}}
+{{detrecipe/totals|JungleTree|12000}}
+{{detrecipe/totals|DementiaBar|700}}
+{{detrecipe/totals|VoidBar|500}}
+|}

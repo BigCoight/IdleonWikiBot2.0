@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Squiddy Soul
+|order=3
+|category=Bosses
+|effect=+{%_Charge_Rate
+|bonus=2.5
+|reqtier=5
+}}

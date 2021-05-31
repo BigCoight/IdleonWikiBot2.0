@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=14
-|type=Misc
+|type=Misc Stamp
 |bonus= Talent 2 Pts
 |material=Pincer Arm
 |sellprice=12000

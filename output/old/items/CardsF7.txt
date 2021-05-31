@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Bunny
+|order=7
+|category=Bosses
+|effect=+{%_Skill_AFK_gain_rate
+|bonus=1
+|reqtier=6
+}}

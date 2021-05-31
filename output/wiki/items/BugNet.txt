@@ -1,3 +1,4 @@
+Bug Net
 {{InfoItem
 |class=All
 |level=4
@@ -8,6 +9,7 @@
 |upgrade=2
 |sellprice=100
 }}
+Copper Netted Net
 {{InfoItem
 |class=All
 |level=8
@@ -29,14 +31,15 @@
 |resource2=Fly|quantity2=400
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Jungle Logs|500}}
-{{detrecipe|3|Fly|400}}
+{{detrecipe|3|JungleTree|500}}
+{{detrecipe|3|Bug1|400}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Jungle Logs|500}}
-{{detrecipe/totals|Fly|400}}
+{{detrecipe/totals|JungleTree|500}}
+{{detrecipe/totals|Bug1|400}}
 |}
+Reinforced Net
 {{InfoItem
 |class=All
 |level=18
@@ -59,19 +62,20 @@
 |resource3=Distilled Water|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Gilded Net]]|5|Crafting}}
+{{usedin/row|[[Gilded Net]]|3|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Forest Fibres|800}}
-{{detrecipe|3|Butterfly|850}}
-{{detrecipe|3|Distilled Water|3}}
+{{detrecipe|3|ForestTree|800}}
+{{detrecipe|3|Bug2|850}}
+{{detrecipe|3|PureWater|3}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Forest Fibres|800}}
-{{detrecipe/totals|Butterfly|850}}
-{{detrecipe/totals|Distilled Water|3}}
+{{detrecipe/totals|ForestTree|800}}
+{{detrecipe/totals|Bug2|850}}
+{{detrecipe/totals|PureWater|3}}
 |}
+Gilded Net
 {{InfoItem
 |class=All
 |level=25
@@ -81,7 +85,7 @@
 |str=2
 |agi=6
 |upgrade=2
-|sellprice=119000
+|sellprice=87400
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -91,27 +95,28 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Dubloon|quantity1=5
 |resource2=Butterfly|quantity2=2500
-|resource3=Reinforced Net|quantity3=5
+|resource3=Reinforced Net|quantity3=3
 }}
 {{usedin/head}}
-{{usedin/row|[[Platinet]]|3|Crafting}}
+{{usedin/row|[[Platinet]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Dubloon|5}}
-{{detrecipe|3|Butterfly|2500}}
-{{detrecipe|3|Reinforced Net|5}}
-{{detrecipe|40|Forest Fibres|4000}}
-{{detrecipe|40|Butterfly|4250}}
-{{detrecipe|40|Distilled Water|15}}
+{{detrecipe|3|Quest19|5}}
+{{detrecipe|3|Bug2|2500}}
+{{detrecipe|3|CatchingNet3|3}}
+{{detrecipe|40|ForestTree|2400}}
+{{detrecipe|40|Bug2|2550}}
+{{detrecipe|40|PureWater|9}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Golden Dubloon|5}}
-{{detrecipe/totals|Butterfly|6750}}
-{{detrecipe/totals|Forest Fibres|4000}}
-{{detrecipe/totals|Distilled Water|15}}
+{{detrecipe/totals|Quest19|5}}
+{{detrecipe/totals|Bug2|5050}}
+{{detrecipe/totals|ForestTree|2400}}
+{{detrecipe/totals|PureWater|9}}
 |}
+Platinet
 {{InfoItem
 |class=All
 |level=35
@@ -121,7 +126,7 @@
 |str=3
 |agi=7
 |upgrade=3
-|sellprice=637000
+|sellprice=454800
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -131,25 +136,127 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Fruitfly|quantity1=8000
 |resource2=Platinum Ore|quantity2=6000
-|resource3=Gilded Net|quantity3=3
+|resource3=Gilded Net|quantity3=2
 }}
+{{usedin/head}}
+{{usedin/row|[[Dementia Net]]|2|Crafting}}
+|}
 {{detrecipe/head}}
-{{detrecipe|3|Fruitfly|8000}}
-{{detrecipe|3|Platinum Ore|6000}}
-{{detrecipe|3|Gilded Net|3}}
-{{detrecipe|40|Golden Dubloon|15}}
-{{detrecipe|40|Butterfly|7500}}
-{{detrecipe|40|Reinforced Net|15}}
-{{detrecipe|80|Forest Fibres|12000}}
-{{detrecipe|80|Butterfly|12750}}
-{{detrecipe|80|Distilled Water|45}}
+{{detrecipe|3|Bug4|8000}}
+{{detrecipe|3|Plat|6000}}
+{{detrecipe|3|CatchingNet4|2}}
+{{detrecipe|40|Quest19|10}}
+{{detrecipe|40|Bug2|5000}}
+{{detrecipe|40|CatchingNet3|6}}
+{{detrecipe|80|ForestTree|4800}}
+{{detrecipe|80|Bug2|5100}}
+{{detrecipe|80|PureWater|18}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Fruitfly|8000}}
-{{detrecipe/totals|Platinum Ore|6000}}
-{{detrecipe/totals|Golden Dubloon|15}}
-{{detrecipe/totals|Butterfly|20250}}
-{{detrecipe/totals|Forest Fibres|12000}}
-{{detrecipe/totals|Distilled Water|45}}
+{{detrecipe/totals|Bug4|8000}}
+{{detrecipe/totals|Plat|6000}}
+{{detrecipe/totals|Quest19|10}}
+{{detrecipe/totals|Bug2|10100}}
+{{detrecipe/totals|ForestTree|4800}}
+{{detrecipe/totals|PureWater|18}}
+|}
+Dementia Net
+{{InfoItem
+|class=All
+|level=45
+|skill=catching
+|type=Bug Catching Net
+|skillpower=31
+|str=4
+|agi=9
+|upgrade=3
+|sellprice=1394600
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=14
+|levelreq=38
+|expgiven=150000
+|recipefrom=Start
+|resource1=Mosquisnow|quantity1=15000
+|resource2=Redox Salts|quantity2=50
+|resource3=Platinet|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Void Imperium Net]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|Bug5|15000}}
+{{detrecipe|3|Refinery1|50}}
+{{detrecipe|3|CatchingNet5|2}}
+{{detrecipe|40|Bug4|16000}}
+{{detrecipe|40|Plat|12000}}
+{{detrecipe|40|CatchingNet4|4}}
+{{detrecipe|80|Quest19|20}}
+{{detrecipe|80|Bug2|10000}}
+{{detrecipe|80|CatchingNet3|12}}
+{{detrecipe|120|ForestTree|9600}}
+{{detrecipe|120|Bug2|10200}}
+{{detrecipe|120|PureWater|36}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bug5|15000}}
+{{detrecipe/totals|Refinery1|50}}
+{{detrecipe/totals|Bug4|16000}}
+{{detrecipe/totals|Plat|12000}}
+{{detrecipe/totals|Quest19|20}}
+{{detrecipe/totals|Bug2|20200}}
+{{detrecipe/totals|ForestTree|9600}}
+{{detrecipe/totals|PureWater|36}}
+|}
+Void Imperium Net
+{{InfoItem
+|class=All
+|level=55
+|skill=catching
+|type=Bug Catching Net
+|skillpower=37
+|str=6
+|agi=12
+|upgrade=4
+|sellprice=4789200
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=38
+|levelreq=45
+|expgiven=400000
+|recipefrom=Start
+|resource1=Flycicle|quantity1=50000
+|resource2=Dementia Net|quantity2=2
+}}
+{{detrecipe/head}}
+{{detrecipe|3|Bug6|50000}}
+{{detrecipe|3|CatchingNet6|2}}
+{{detrecipe|40|Bug5|30000}}
+{{detrecipe|40|Refinery1|100}}
+{{detrecipe|40|CatchingNet5|4}}
+{{detrecipe|80|Bug4|32000}}
+{{detrecipe|80|Plat|24000}}
+{{detrecipe|80|CatchingNet4|8}}
+{{detrecipe|120|Quest19|40}}
+{{detrecipe|120|Bug2|20000}}
+{{detrecipe|120|CatchingNet3|24}}
+{{detrecipe|160|ForestTree|19200}}
+{{detrecipe|160|Bug2|20400}}
+{{detrecipe|160|PureWater|72}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|Bug6|50000}}
+{{detrecipe/totals|Bug5|30000}}
+{{detrecipe/totals|Refinery1|100}}
+{{detrecipe/totals|Bug4|32000}}
+{{detrecipe/totals|Plat|24000}}
+{{detrecipe/totals|Quest19|40}}
+{{detrecipe/totals|Bug2|40400}}
+{{detrecipe/totals|ForestTree|19200}}
+{{detrecipe/totals|PureWater|72}}
 |}

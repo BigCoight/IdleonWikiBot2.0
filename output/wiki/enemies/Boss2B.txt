@@ -9,7 +9,7 @@
 |defence0=1223.26
 |hascard=Yes
 }}
-{{EnemyNavigation|Efaunt|Ghost}}
+{{EnemyNavigation|Efaunt|Chizoar}}
 {{DropTable/head}}
 {{DropTable/coin|4000|1}}
 {{DropTable/card|0.045}}

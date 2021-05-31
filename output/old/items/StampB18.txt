@@ -1,6 +1,6 @@
 {{InfoStamp
 |number=18
-|type=Skills
+|type=Skills Stamp
 |bonus=% Fishing Exp
 |material=Megalodon Tooth
 |sellprice=3000

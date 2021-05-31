@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Moonmoon_Walking.gif
-|attack=240
+|attack=170
 |health=26500
-|defence=500
-|speed=5
+|defence=330
+|speed=4
 |world=Yum Yum Desert
 |area=Up Up Down Down
 |exp=380
 |respawn=40
-|defence0=263.46
+|defence0=177.1
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

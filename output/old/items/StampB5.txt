@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=5
-|type=Skills
+|type=Skills Stamp
 |bonus=% Multi Ore Chance
 |material=Thief Hood
 |sellprice=1000
+|source=[[Sheepie]]
 }}

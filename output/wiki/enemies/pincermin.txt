@@ -1,14 +1,14 @@
 {{InfoEnemy
 |image=Pincermin_Walking.gif
-|attack=140
+|attack=112
 |health=15500
-|defence=300
+|defence=240
 |speed=5
 |world=Yum Yum Desert
 |area=Pincer Plateau
 |exp=290
 |respawn=50
-|defence0=141.06
+|defence0=108.27
 |crystal=Yes
 |crystalname=Crystal Crabal
 |hascard=Yes

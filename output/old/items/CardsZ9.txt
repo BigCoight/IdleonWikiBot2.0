@@ -1,0 +1,8 @@
+{{InfoCard
+|title=Chaotic Chizoar
+|order=10
+|category=Event
+|effect=+{%_Shrine_Effects
+|bonus=5
+|reqtier=1.5
+}}

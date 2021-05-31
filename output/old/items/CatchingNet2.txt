@@ -19,11 +19,11 @@
 |resource2=Fly|quantity2=400
 }}
 {{detrecipe/head}}
-{{detrecipe|3|Jungle Logs|500}}
-{{detrecipe|3|Fly|400}}
+{{detrecipe|3|JungleTree|500}}
+{{detrecipe|3|Bug1|400}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Jungle Logs|500}}
-{{detrecipe/totals|Fly|400}}
+{{detrecipe/totals|JungleTree|500}}
+{{detrecipe/totals|Bug1|400}}
 |}

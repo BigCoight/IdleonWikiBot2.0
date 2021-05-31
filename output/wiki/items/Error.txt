@@ -1,3 +1,100 @@
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
+{{InfoItem
+|class=All
+|level=1
+|type=Error
+|str=1
+|agi=1
+|wis=1
+|luck=1
+|upgrade=5
+|sellprice=1
+}}
+Infinite Forge
 {{InfoItem
 |class=All
 |level=1

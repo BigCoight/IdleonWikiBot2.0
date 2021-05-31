@@ -1,5 +1,43 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Monster Parts, Smithing Production Items.
-|sellprice=200
+|sellprice=3244860
 }}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=23
+|levelreq=39
+|expgiven=100000
+|recipefrom=Start
+|resource1=Sticky Stick|quantity1=15000
+|resource2=Ice Age 3|quantity2=3
+|resource3=Sizable Materials Pouch|quantity3=2
+}}
+{{usedin/head}}
+{{usedin/row|[[Large Materials Pouch]]|2|Crafting}}
+|}
+{{detrecipe/head}}
+{{detrecipe|3|SnowB1|15000}}
+{{detrecipe|3|SnowB2a|3}}
+{{detrecipe|3|MaxCapBagM5|2}}
+{{detrecipe|40|Sewers1b|10}}
+{{detrecipe|40|TreeInterior1b|10}}
+{{detrecipe|40|MaxCapBagM4|4}}
+{{detrecipe|80|MaxCapBagM2|28}}
+{{detrecipe|120|CraftMat5|2240}}
+{{detrecipe|120|Grasslands2|1120}}
+{{detrecipe|120|Grasslands3|840}}
+{{detrecipe|80|DesertA1b|4}}
+{{detrecipe|80|CraftMat7|5000}}
+{{!}}-
+{{!}}style="text-align:right"{{!}}'''Totals'''
+{{!}} 
+{{detrecipe/totals|SnowB1|15000}}
+{{detrecipe/totals|SnowB2a|3}}
+{{detrecipe/totals|Sewers1b|10}}
+{{detrecipe/totals|TreeInterior1b|10}}
+{{detrecipe/totals|CraftMat5|2240}}
+{{detrecipe/totals|Grasslands2|1120}}
+{{detrecipe/totals|Grasslands3|840}}
+{{detrecipe/totals|CraftMat7|5000}}
+|}

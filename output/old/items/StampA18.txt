@@ -1,7 +1,8 @@
 {{InfoStamp
 |number=18
-|type=Combat
+|type=Combat Stamp
 |bonus= Base Move Speed
 |material=Coconotnotto
 |sellprice=6000
+|source=[[Snouts#Gravity VS Salt|Gravity VS Salt]]
 }}

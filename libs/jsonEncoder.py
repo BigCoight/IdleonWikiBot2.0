@@ -2,7 +2,6 @@ import json
 from typing import Union
 
 
-
 class CompactJSONEncoder(json.JSONEncoder):
     """A JSON Encoder that puts small containers on single lines."""
 
@@ -34,7 +33,8 @@ class CompactJSONEncoder(json.JSONEncoder):
         elif isinstance(o, dict):
             if o:
                 self.indentation_level += 1
-                output = [self.indent_str + f"{json.dumps(k)}: {self.encode(v)}" for k, v in o.items()]
+                output = [
+                    self.indent_str + f"{json.dumps(k)}: {self.encode(v)}" for k, v in o.items()]
                 self.indentation_level -= 1
                 return "{\n" + ",\n".join(output) + "\n" + self.indent_str + "}"
             else:
@@ -43,6 +43,7 @@ class CompactJSONEncoder(json.JSONEncoder):
             return format(o, "g")
         elif isinstance(o, str):  # escape newlines
             o = o.replace("\n", "\\n")
+            o = o.replace("\\", "")
             return f'"{o}"'
         else:
             return json.dumps(o)

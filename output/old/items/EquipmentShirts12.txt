@@ -8,7 +8,7 @@
 |misc=50
 |upgrade=2
 |defence=12
-|sellprice=11200
+|sellprice=8400
 |source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
 }}
 {{ForgeSlot
@@ -17,18 +17,18 @@
 |levelreq=13
 |expgiven=600
 |recipefrom=Start
-|resource1=Iron Bar|quantity1=200
-|resource2=Jungle Logs|quantity2=800
+|resource1=Iron Bar|quantity1=150
+|resource2=Jungle Logs|quantity2=600
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Platbody]]|5|Crafting}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Iron Bar|200}}
-{{detrecipe|3|Jungle Logs|800}}
+{{detrecipe|3|IronBar|150}}
+{{detrecipe|3|JungleTree|600}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Iron Bar|200}}
-{{detrecipe/totals|Jungle Logs|800}}
+{{detrecipe/totals|IronBar|150}}
+{{detrecipe/totals|JungleTree|600}}
 |}

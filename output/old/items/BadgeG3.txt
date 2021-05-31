@@ -19,22 +19,22 @@
 {{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
 |}
 {{detrecipe/head}}
-{{detrecipe|3|Golden Peanut|30}}
+{{detrecipe|3|PeanutG|30}}
 {{detrecipe|40|Peanut|3000}}
-{{detrecipe|80|Hot Dog|6000}}
-{{detrecipe|80|Copper Ore|3000}}
-{{detrecipe|80|Bleach Logs|3000}}
-{{detrecipe|40|Gold Bar|1500}}
-{{detrecipe|3|Golden Plop|12}}
-{{detrecipe|3|Bolt Cutters|1}}
-{{detrecipe|3|Carrot Launcher|2}}
+{{detrecipe|80|FoodHealth3|6000}}
+{{detrecipe|80|Copper|3000}}
+{{detrecipe|80|BirchTree|3000}}
+{{detrecipe|40|GoldBar|1500}}
+{{detrecipe|3|Sewers1b|12}}
+{{detrecipe|3|Cutter|1}}
+{{detrecipe|3|EquipmentBows4|2}}
 {{!}}-
 {{!}}style="text-align:right"{{!}}'''Totals'''
 {{!}} 
-{{detrecipe/totals|Hot Dog|6000}}
-{{detrecipe/totals|Copper Ore|3000}}
-{{detrecipe/totals|Bleach Logs|3000}}
-{{detrecipe/totals|Golden Plop|12}}
-{{detrecipe/totals|Bolt Cutters|1}}
-{{detrecipe/totals|Carrot Launcher|2}}
+{{detrecipe/totals|FoodHealth3|6000}}
+{{detrecipe/totals|Copper|3000}}
+{{detrecipe/totals|BirchTree|3000}}
+{{detrecipe/totals|Sewers1b|12}}
+{{detrecipe/totals|Cutter|1}}
+{{detrecipe/totals|EquipmentBows4|2}}
 |}

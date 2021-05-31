@@ -1,6 +1,13 @@
 {{InfoItem
 |type=Critter
-|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind and darkness to umm... people who can't remember what to say. Ah crap.
+|description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind, and darkness to those who recite his title in full. ...ah crap.
 |sellprice=3
 |source=Trapping
 }}
+{{usedin/head}}
+{{usedin/row|[[Deuscythe]]|5|Crafting}}
+{{usedin/row|[[Steel Traps]]|6|Crafting}}
+{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
+{{usedin/row|[[Lord_of_the_Hunt#Noot Noot!|Noot Noot!]]|4|Quests}}
+{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|250|Quests}}
+|}
