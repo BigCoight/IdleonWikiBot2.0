@@ -1,8 +1,0 @@
-{{InfoCard
-|title=
-|order=
-|category=
-|effect=
-|bonus=
-|source=
-}}

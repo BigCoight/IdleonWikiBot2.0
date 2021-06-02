@@ -1,4 +1,0 @@
-{{dialogue/row
-|text=
-|quest=
-}}

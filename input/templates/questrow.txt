@@ -1,9 +1,0 @@
-{{quest/row
-|name=
-|text=
-|difficulty=
-|requirements=
-|consumed=
-|rewards=
-|notes=
-}}

@@ -1,8 +1,0 @@
-{{npc
-|location=
-|noquest=
-|repeatable=
-|birthweight=
-|starsign=
-|mmm=
-}}
