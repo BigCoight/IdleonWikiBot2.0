@@ -4,6 +4,7 @@
 |description=It's proof that you can mine, and it's even signed by Glumlee himself! It says; 'You passed. Good for you. Ugh'
 |sellprice=1
 |source=[[Glumlee#Literally Burning your Money|Literally Burning your Money]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Scripticus#Certified Swinger, of Pickaxes of course!|Certified Swinger, of Pickaxes of course!]]|1|Quests}}

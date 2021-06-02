@@ -6,45 +6,46 @@
 |skillpower=36
 |str=15
 |upgrade=4
-|sellprice=4432409
+|sellprice=4064409
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=36
+|craftnum=37
 |levelreq=45
 |expgiven=400000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Spontaneity Salts|quantity1=200
 |resource2=Minervowl|quantity2=3
 |resource3=Dementia Rod for Fishing|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery3|200}}
-{{detrecipe|3|Critter5A|3}}
-{{detrecipe|3|FishingRod6|2}}
-{{detrecipe|40|DementiaBar|600}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|FishingRod5|4}}
-{{detrecipe|80|Fish4|28000}}
-{{detrecipe|80|PlatBar|4000}}
-{{detrecipe|80|FishingRod4|8}}
-{{detrecipe|120|Fish2|20000}}
-{{detrecipe|120|CraftMat9|8000}}
-{{detrecipe|120|FishingRod3|24}}
-{{detrecipe|160|IronBar|7200}}
-{{detrecipe|160|Fish2|20400}}
-{{detrecipe|160|PureWater|72}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery3|200}}
-{{detrecipe/totals|Critter5A|3}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Fish4|28000}}
-{{detrecipe/totals|PlatBar|4000}}
-{{detrecipe/totals|Fish2|40400}}
-{{detrecipe/totals|CraftMat9|8000}}
-{{detrecipe/totals|IronBar|7200}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spontaneity Salts|200}}
+{{detrecipe|3|Minervowl|3}}
+{{detrecipe|3|Dementia Rod for Fishing|2}}
+{{detrecipe|40|Dementia Bar|600}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Plat Fishing Rod|4}}
+{{detrecipe|80|Bloach|28000}}
+{{detrecipe|80|Platinum Bar|3200}}
+{{detrecipe|80|Gold Fishing Rod|8}}
+{{detrecipe|120|Hermit Can|20000}}
+{{detrecipe|120|Leather Hide|8000}}
+{{detrecipe|120|Iron Fishing Rod|24}}
+{{detrecipe|160|Iron Bar|7200}}
+{{detrecipe|160|Hermit Can|20400}}
+{{detrecipe|160|Distilled Water|72}}
+|tot=
+{{detrecipe/totals|Spontaneity Salts|200}}
+{{detrecipe/totals|Minervowl|3}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Bloach|28000}}
+{{detrecipe/totals|Platinum Bar|3200}}
+{{detrecipe/totals|Hermit Can|40400}}
+{{detrecipe/totals|Leather Hide|8000}}
+{{detrecipe/totals|Iron Bar|7200}}
+{{detrecipe/totals|Distilled Water|72}}
+}}

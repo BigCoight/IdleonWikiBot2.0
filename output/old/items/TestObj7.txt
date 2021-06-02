@@ -9,10 +9,12 @@
 |reach=62
 |upgrade=2
 |sellprice=4375
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=24
+|craftnum=25
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -22,14 +24,13 @@
 {{usedin/head}}
 {{usedin/row|[[Hide Shirt]]|1|Crafting}}
 {{usedin/row|[[Royal Bayonet]]|3|Crafting}}
-{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Jungle1|125}}
-{{detrecipe|3|CraftMat6|125}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Jungle1|125}}
-{{detrecipe/totals|CraftMat6|125}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slime Sludge|125}}
+{{detrecipe|3|Boring Brick|125}}
+|tot=
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Boring Brick|125}}
+}}

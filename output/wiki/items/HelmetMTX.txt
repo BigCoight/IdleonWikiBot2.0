@@ -10,6 +10,7 @@ Smitty's Bubble Blowing Hat
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Bandit Bob Mask
 {{InfoItem
@@ -23,6 +24,7 @@ Bandit Bob Mask
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Paper Bag
 {{InfoItem
@@ -36,6 +38,7 @@ Paper Bag
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Parasite
 {{InfoItem
@@ -49,6 +52,7 @@ Parasite
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Diamon Horns
 {{InfoItem
@@ -61,7 +65,8 @@ Diamon Horns
 |luck=1
 |upgrade=7
 |sellprice=1
-|source=[[Gem Shop]], [[Gem Shop]]
+|source=[[Gem Shop]]
+|notes= 
 }}
 Halloween Pumpkin
 {{InfoItem
@@ -74,6 +79,8 @@ Halloween Pumpkin
 |luck=1
 |upgrade=5
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}
 Pardoned Turkey
 {{InfoItem
@@ -87,6 +94,7 @@ Pardoned Turkey
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Hotdog Hero
 {{InfoItem
@@ -100,6 +108,7 @@ Hotdog Hero
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Invisible Hat
 {{InfoItem
@@ -112,7 +121,8 @@ Invisible Hat
 |luck=1
 |upgrade=5
 |sellprice=1
-|source=[[Gem Shop]], [[Gem Shop]]
+|source=[[Gem Shop]]
+|notes= 
 }}
 Strawbiggy
 {{InfoItem
@@ -126,6 +136,7 @@ Strawbiggy
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Pop Cat
 {{InfoItem
@@ -139,6 +150,7 @@ Pop Cat
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Dairy Dunk
 {{InfoItem
@@ -152,6 +164,7 @@ Dairy Dunk
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 The Classic
 {{InfoItem
@@ -165,6 +178,7 @@ The Classic
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Green Beanie
 {{InfoItem
@@ -178,6 +192,7 @@ Green Beanie
 |upgrade=5
 |sellprice=1
 |source=[[Gem Shop]]
+|notes= 
 }}
 Snowman
 {{InfoItem
@@ -190,6 +205,8 @@ Snowman
 |luck=1
 |upgrade=5
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}
 Giftmas Tree
 {{InfoItem
@@ -203,6 +220,8 @@ Giftmas Tree
 |misc=10% Xp From Monsters
 |upgrade=5
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}
 Big Bunny
 {{InfoItem
@@ -216,6 +235,8 @@ Big Bunny
 |misc=11% Xp From Monsters
 |upgrade=5
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}
 Fluffy Ramsy
 {{InfoItem
@@ -229,4 +250,6 @@ Fluffy Ramsy
 |misc=11% Xp From Monsters
 |upgrade=5
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}

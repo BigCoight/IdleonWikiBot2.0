@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Red Mushroom_Walking.gif
+|image=Red Mushroom Walking.gif
 |attack=30
 |health=1000
 |defence=25
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Green Mushroom|Frog}}
-{{DropTable/head}}
 {{DropTable/coin|6|0.5}}
 {{DropTable/row|Red Spore Cap|0.20|1}}
 {{DropTable/card|0.0001}}

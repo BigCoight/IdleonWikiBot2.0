@@ -9,14 +9,16 @@
 |misc=5% Crit Damage
 |reach=76
 |upgrade=4
-|sellprice=5837980
+|sellprice=5165980
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=5
+|craftnum=6
 |levelreq=39
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Melty Cube|quantity1=25000
 |resource2=Enforced Slasher|quantity2=2
 |resource3=Redox Salts|quantity3=150
@@ -24,26 +26,25 @@
 {{usedin/head}}
 {{usedin/row|[[Deuscythe]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SnowA2|25000}}
-{{detrecipe|3|EquipmentSword1|2}}
-{{detrecipe|40|DesertA3b|6}}
-{{detrecipe|40|CraftMat9|12000}}
-{{detrecipe|40|TestObj3|4}}
-{{detrecipe|80|ForestTree|5000}}
-{{detrecipe|80|TestObj7|12}}
-{{detrecipe|120|Jungle1|1500}}
-{{detrecipe|120|CraftMat6|1500}}
-{{detrecipe|80|PureWater|32}}
-{{detrecipe|3|Refinery1|150}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowA2|25000}}
-{{detrecipe/totals|DesertA3b|6}}
-{{detrecipe/totals|CraftMat9|12000}}
-{{detrecipe/totals|ForestTree|5000}}
-{{detrecipe/totals|Jungle1|1500}}
-{{detrecipe/totals|CraftMat6|1500}}
-{{detrecipe/totals|Refinery1|150}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Melty Cube|25000}}
+{{detrecipe|3|Enforced Slasher|2}}
+{{detrecipe|40|Nuget Cake|6}}
+{{detrecipe|40|Leather Hide|800}}
+{{detrecipe|40|Royal Bayonet|4}}
+{{detrecipe|80|Forest Fibres|5000}}
+{{detrecipe|80|Steel Axe|12}}
+{{detrecipe|120|Slime Sludge|1500}}
+{{detrecipe|120|Boring Brick|1500}}
+{{detrecipe|80|Distilled Water|32}}
+{{detrecipe|3|Redox Salts|150}}
+|tot=
+{{detrecipe/totals|Melty Cube|25000}}
+{{detrecipe/totals|Nuget Cake|6}}
+{{detrecipe/totals|Leather Hide|800}}
+{{detrecipe/totals|Forest Fibres|5000}}
+{{detrecipe/totals|Slime Sludge|1500}}
+{{detrecipe/totals|Boring Brick|1500}}
+{{detrecipe/totals|Redox Salts|150}}
+}}

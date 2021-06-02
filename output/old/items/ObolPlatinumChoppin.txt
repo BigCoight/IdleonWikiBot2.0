@@ -7,4 +7,5 @@
 |wis=3
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}

@@ -9,6 +9,7 @@ Gold Ring
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Copper Band
 {{InfoItem
@@ -21,26 +22,27 @@ Copper Band
 |luck=3
 |upgrade=3
 |sellprice=2100
+|source=[[Smithing]], [[DropTable1|Recipe from DropTable1]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=27
+|craftnum=28
 |levelreq=11
 |expgiven=330
-|recipefrom=Start
+|recipefrom=[[DropTable1]]
 |resource1=Copper Bar|quantity1=300
 }}
 {{usedin/head}}
 {{usedin/row|[[Dooble Goopi]]|1|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|300}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|300}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|300}}
+|tot=
+{{detrecipe/totals|Copper Bar|300}}
+}}
 Steel Band
 {{InfoItem
 |class=All
@@ -53,25 +55,26 @@ Steel Band
 |upgrade=4
 |defence=1
 |sellprice=19200
+|source=[[Smithing]], [[DropTable3|Recipe from DropTable3]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=39
+|craftnum=40
 |levelreq=13
 |expgiven=700
-|recipefrom=[[Tasks/Unlocks|Tasks]]
+|recipefrom=[[DropTable3]], [[Tasks/Unlocks|Tasks]]
 |resource1=Iron Bar|quantity1=600
 }}
 {{usedin/head}}
 {{usedin/row|[[Dooble Goopi]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|600}}
+|tot=
+{{detrecipe/totals|Iron Bar|600}}
+}}
 Molden Crust
 {{InfoItem
 |class=All
@@ -83,6 +86,7 @@ Molden Crust
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Toxic Bubbles Band
 {{InfoItem
@@ -95,6 +99,7 @@ Toxic Bubbles Band
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Death Wish
 {{InfoItem
@@ -107,6 +112,7 @@ Death Wish
 |defence=6
 |sellprice=200
 |source=[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]
+|notes= 
 }}
 Pugilist Demise
 {{InfoItem
@@ -118,6 +124,7 @@ Pugilist Demise
 |upgrade=2
 |sellprice=4000
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=12|vendor=Blunder Hills|stock=1|buyprice=16000}}
@@ -133,6 +140,7 @@ The Used Bandaid
 |luck=1
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Chat Ring
 {{InfoItem
@@ -144,6 +152,7 @@ Chat Ring
 |agi=2
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Spikeweed Ring
 {{InfoItem
@@ -155,6 +164,7 @@ Spikeweed Ring
 |agi=2
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Defenders Dignity
 {{InfoItem
@@ -165,28 +175,29 @@ Defenders Dignity
 |upgrade=2
 |defence=10
 |sellprice=73250
+|source=[[Smithing]], [[Mimic|Recipe from Mimic]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=16
+|craftnum=17
 |levelreq=23
 |expgiven=10000
-|recipefrom=Start
+|recipefrom=[[Mimic]]
 |resource1=Goldfish|quantity1=16000
 |resource2=Golden Plop|quantity2=17
 |resource3=Distilled Water|quantity3=15
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Fish1|16000}}
-{{detrecipe|3|Sewers1b|17}}
-{{detrecipe|3|PureWater|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish1|16000}}
-{{detrecipe/totals|Sewers1b|17}}
-{{detrecipe/totals|PureWater|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Goldfish|16000}}
+{{detrecipe|3|Golden Plop|17}}
+{{detrecipe|3|Distilled Water|15}}
+|tot=
+{{detrecipe/totals|Goldfish|16000}}
+{{detrecipe/totals|Golden Plop|17}}
+{{detrecipe/totals|Distilled Water|15}}
+}}
 Shallow Watering
 {{InfoItem
 |class=All
@@ -198,6 +209,7 @@ Shallow Watering
 |misc=20 Yellow Depth
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Oceanic Ring
 {{InfoItem
@@ -210,6 +222,7 @@ Oceanic Ring
 |misc=30 Red Depth
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Deepwater Trench Ring
 {{InfoItem
@@ -222,6 +235,7 @@ Deepwater Trench Ring
 |misc=40 Purple Depth
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}
 Frisbee Ring
 {{InfoItem
@@ -233,6 +247,7 @@ Frisbee Ring
 |upgrade=4
 |sellprice=5000
 |source=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
+|notes= 
 }}
 Silver Stopwatch
 {{InfoItem
@@ -247,6 +262,7 @@ Silver Stopwatch
 |upgrade=3
 |sellprice=5000
 |source=[[Funguy#Partycrastination|Partycrastination]]
+|notes= 
 }}
 Dooble Goopi
 {{InfoItem
@@ -258,30 +274,31 @@ Dooble Goopi
 |upgrade=3
 |defence=2
 |sellprice=31300
+|source=[[Smithing]], [[Slime|Recipe from Slime]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=47
+|craftnum=48
 |levelreq=16
 |expgiven=800
-|recipefrom=Start
+|recipefrom=[[Slime]]
 |resource1=Slime Sludge|quantity1=1000
 |resource2=Copper Band|quantity2=1
 |resource3=Steel Band|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Jungle1|1000}}
-{{detrecipe|3|EquipmentRings2|1}}
-{{detrecipe|40|CopperBar|300}}
-{{detrecipe|3|EquipmentRings3|1}}
-{{detrecipe|40|IronBar|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Jungle1|1000}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|IronBar|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slime Sludge|1000}}
+{{detrecipe|3|Copper Band|1}}
+{{detrecipe|40|Copper Bar|300}}
+{{detrecipe|3|Steel Band|1}}
+{{detrecipe|40|Iron Bar|600}}
+|tot=
+{{detrecipe/totals|Slime Sludge|1000}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Iron Bar|600}}
+}}
 Sanic Ring
 {{InfoItem
 |class=All
@@ -293,6 +310,8 @@ Sanic Ring
 |upgrade=4
 |defence=5
 |sellprice=1
+|source=Has a 1/1M chance to drop from active kills if the Blue Hedgehog [[Star Signs|Starsign]] is equipped.
+|notes= 
 }}
 Efaunt Trunculus
 {{InfoItem
@@ -305,10 +324,12 @@ Efaunt Trunculus
 |upgrade=4
 |defence=8
 |sellprice=145839
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=64
+|craftnum=65
 |levelreq=45
 |expgiven=500000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -317,38 +338,37 @@ Efaunt Trunculus
 |resource3=Bandage Wraps|quantity3=1
 |resource4=Pharoah Bow|quantity4=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop2|4}}
-{{detrecipe|3|EfauntDrop1|15}}
-{{detrecipe|3|EquipmentPunching3|1}}
-{{detrecipe|40|CraftMat3|5000}}
-{{detrecipe|40|EquipmentPunching2|5}}
-{{detrecipe|80|CopperBar|100}}
-{{detrecipe|80|OakTree|375}}
-{{detrecipe|80|CraftMat5|100}}
-{{detrecipe|40|ToiletTree|2000}}
-{{detrecipe|3|EquipmentBows6|1}}
-{{detrecipe|40|TreeInterior1b|3}}
-{{detrecipe|40|Fish4|3200}}
-{{detrecipe|40|EquipmentBows5|2}}
-{{detrecipe|80|GoldBar|500}}
-{{detrecipe|80|EquipmentBows3|6}}
-{{detrecipe|120|Jungle1|750}}
-{{detrecipe|120|BirchTree|1500}}
-{{detrecipe|80|PureWater|16}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop2|4}}
-{{detrecipe/totals|EfauntDrop1|15}}
-{{detrecipe/totals|CraftMat3|5000}}
-{{detrecipe/totals|CopperBar|100}}
-{{detrecipe/totals|OakTree|375}}
-{{detrecipe/totals|CraftMat5|100}}
-{{detrecipe/totals|TreeInterior1b|3}}
-{{detrecipe/totals|Fish4|3200}}
-{{detrecipe/totals|GoldBar|500}}
-{{detrecipe/totals|Jungle1|750}}
-{{detrecipe/totals|BirchTree|1500}}
-{{detrecipe/totals|PureWater|16}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ribbed Tunic|4}}
+{{detrecipe|3|Ripped Tunic|15}}
+{{detrecipe|3|Bandage Wraps|1}}
+{{detrecipe|40|Cue Tape|5000}}
+{{detrecipe|40|The Stingers|5}}
+{{detrecipe|80|Copper Bar|100}}
+{{detrecipe|80|Oak Logs|375}}
+{{detrecipe|80|Trusty Nails|100}}
+{{detrecipe|40|Potty Rolls|2000}}
+{{detrecipe|3|Pharoah Bow|1}}
+{{detrecipe|40|Woodular Circle|3}}
+{{detrecipe|40|Bloach|3200}}
+{{detrecipe|40|Spiked Menace|2}}
+{{detrecipe|80|Gold Bar|500}}
+{{detrecipe|80|Birch Longbow|6}}
+{{detrecipe|120|Slime Sludge|750}}
+{{detrecipe|120|Bleach Logs|1500}}
+{{detrecipe|80|Distilled Water|16}}
+|tot=
+{{detrecipe/totals|Ribbed Tunic|4}}
+{{detrecipe/totals|Ripped Tunic|15}}
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|100}}
+{{detrecipe/totals|Oak Logs|375}}
+{{detrecipe/totals|Trusty Nails|100}}
+{{detrecipe/totals|Woodular Circle|3}}
+{{detrecipe/totals|Bloach|3200}}
+{{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Slime Sludge|750}}
+{{detrecipe/totals|Bleach Logs|1500}}
+{{detrecipe/totals|Distilled Water|16}}
+}}

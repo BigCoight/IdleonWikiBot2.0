@@ -1,20 +1,23 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Aquarius
-|mmm=Nuttle
-|birthweight=6.23
-|notes=fillme
+{{npc
+|location=Where The Branches End
+|noquest=1
+|repeatable=Unknown
+|birthweight=8.82
+|starsign=Sagittarius
+|mmm=Harris
+|notes=The [[Telescope]] is found in [[Worlds#T3 - Where the Branches End|Where the Branches End]], the third zone of the tree, located at the top left of the area.
+
+Reaching and using the Telescope allows the players character to change [[Star Signs]] and unlock new Star Signs if they have enough Star Chart Points.
 }}
 {{Quest/head}}
 {{Quest
 |name=I'm Seeing Stars!
 |text=Follow the engraving's advice and press the little constellation on the bottom right branch.
 |difficulty=2
-|requirements=Constellation A-2: >= 1. Starting at 0. 
+|requirements=Constellation A-2: >= 1. Starting at 0.
 |consumed=No
 |rewards=2x {{CraftReq|2 HR Time Candy}}, 10x {{CraftReq|Gem}}, 2x {{CraftReq|4 HR Time Candy}}
+|notes= The constellation is on the same map as the telescope, you need to afk 1h in order to complete it
 }}
 |}
 {{dialogue/head}}

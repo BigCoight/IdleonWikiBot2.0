@@ -10,6 +10,7 @@
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable1]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}

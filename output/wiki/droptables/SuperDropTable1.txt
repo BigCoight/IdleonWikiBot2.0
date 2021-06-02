@@ -1,11 +1,9 @@
-{{DropTable/head}}
 {{DropTable/row|Silver Pen|{{#expr: {{{chance}}}*.07}}|1}}
 {{DropTable/row|Lucky Lad|{{#expr: {{{chance}}}*.0003}}|1}}
 {{DropTable/row|Talent Point Reset Fragment|{{#expr: {{{chance}}}*.10}}|1}}
-{{DropTable/talentRoll Da Dice|{{#expr: {{{chance}}}*.10}}}}}}
-{{DropTable/talentAttacks On Simmer|{{#expr: {{{chance}}}*.10}}}}}}
+{{DropTable/talent|Roll Da Dice|{{#expr: {{{chance}}}*.10}}}}}}
+{{DropTable/talent|Attacks On Simmer|{{#expr: {{{chance}}}*.10}}}}}}
 {{DropTable/row|Golden Nomwich|{{#expr: {{{chance}}}*0.5}}|1}}
 {{DropTable/row|Silver Obol of Pocket Change|{{#expr: {{{chance}}}*0.02835}}|1}}
 {{DropTable/row|Silver Obol of Little Damage|{{#expr: {{{chance}}}*0.02835}}|1}}
 {{DropTable/row|Mystery Upgrade Stone I|{{#expr: {{{chance}}}*0.85}}|2}}
-|}

@@ -7,6 +7,7 @@ Bronze STR Obol
 |sellprice=1
 |rarity=Bronze
 |source=[[DropTable1]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0003779999999999999|1.0}}
@@ -29,6 +30,7 @@ Bronze AGI Obol
 |sellprice=1
 |rarity=Bronze
 |source=[[DropTable2]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00031499999999999996|1.0}}
@@ -50,6 +52,7 @@ Bronze WIS Obol
 |sellprice=1
 |rarity=Bronze
 |source=[[DropTable3]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.000252|1.0}}
@@ -72,6 +75,7 @@ Bronze LUK Obol
 |sellprice=3
 |rarity=Bronze
 |source=[[DropTable4]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0003779999999999999|1.0}}
@@ -92,6 +96,7 @@ Silver STR Obol
 |sellprice=3
 |rarity=Silver
 |source=[[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[DropTable6]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0003779999999999999|1.0}}
@@ -115,6 +120,7 @@ Silver AGI Obol
 |sellprice=3
 |rarity=Silver
 |source=[[DropTable7]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00031499999999999996|1.0}}
@@ -141,6 +147,7 @@ Silver WIS Obol
 |sellprice=3
 |rarity=Silver
 |source=[[DropTable8]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.000252|1.0}}
@@ -166,6 +173,7 @@ Silver LUK Obol
 |sellprice=3
 |rarity=Silver
 |source=[[DropTable9]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0003779999999999999|1.0}}
@@ -184,6 +192,7 @@ Gold STR Obol
 |str=4
 |sellprice=8
 |rarity=Gold
+|notes= 
 }}
 Gold AGI Obol
 {{InfoItem
@@ -193,6 +202,7 @@ Gold AGI Obol
 |agi=4
 |sellprice=8
 |rarity=Gold
+|notes= 
 }}
 Gold WIS Obol
 {{InfoItem
@@ -202,6 +212,7 @@ Gold WIS Obol
 |wis=4
 |sellprice=8
 |rarity=Gold
+|notes= 
 }}
 Gold LUK Obol
 {{InfoItem
@@ -212,6 +223,7 @@ Gold LUK Obol
 |sellprice=8
 |rarity=Gold
 |source=[[SuperDropTable2]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
@@ -244,9 +256,6 @@ Gold LUK Obol
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0000019845000000000002|2.0}}
-{{detdrops|[[Frigid Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Bandit Bob]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}
@@ -260,7 +269,8 @@ Bronze Obol of Puny Damage
 |misc=5 Base Damage
 |sellprice=1
 |rarity=Bronze
-|source=[[Obol_Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]], [[Alchemy#Liquid Shop|Mediocre Obols]]
+|source=[[Obol Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]], [[Alchemy#Liquid Shop|Mediocre Obols]]
+|notes= 
 }}
 Silver Obol of Little Damage
 {{InfoItem
@@ -274,6 +284,7 @@ Silver Obol of Little Damage
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable1]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}
@@ -323,6 +334,7 @@ Golden Obol of Big Boy Damage
 |misc=30 Base Damage
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Platinum Obol of Lethal Damage
 {{InfoItem
@@ -333,6 +345,7 @@ Platinum Obol of Lethal Damage
 |misc=60 Base Damage
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Dementia Obol of Infinite Damage
 {{InfoItem
@@ -343,6 +356,7 @@ Dementia Obol of Infinite Damage
 |misc=100 Base Damage
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}
 Bronze Obol of Small Swings
 {{InfoItem
@@ -354,6 +368,7 @@ Bronze Obol of Small Swings
 |sellprice=1
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Mediocre Obols]]
+|notes= 
 }}
 Silver Obol of Moderate Mining
 {{InfoItem
@@ -366,6 +381,7 @@ Silver Obol of Moderate Mining
 |sellprice=3
 |rarity=Silver
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Bronze Obol of Chippin Chops
 {{InfoItem
@@ -377,6 +393,7 @@ Bronze Obol of Chippin Chops
 |sellprice=1
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Mediocre Obols]]
+|notes= 
 }}
 Silver Obol of Big Bark
 {{InfoItem
@@ -389,6 +406,7 @@ Silver Obol of Big Bark
 |sellprice=3
 |rarity=Silver
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Bronze Obol of Finite Fish
 {{InfoItem
@@ -400,6 +418,7 @@ Bronze Obol of Finite Fish
 |sellprice=1
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Silver Obol of Puny Pikes
 {{InfoItem
@@ -412,6 +431,7 @@ Silver Obol of Puny Pikes
 |sellprice=3
 |rarity=Silver
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Bronze Obol of Few Flies
 {{InfoItem
@@ -423,6 +443,7 @@ Bronze Obol of Few Flies
 |sellprice=1
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Silver Obol of Big Bugs
 {{InfoItem
@@ -435,6 +456,7 @@ Silver Obol of Big Bugs
 |sellprice=3
 |rarity=Silver
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 Bronze Obol of Pop
 {{InfoItem
@@ -447,6 +469,7 @@ Bronze Obol of Pop
 |sellprice=1
 |rarity=Bronze
 |source=[[Gigafrog]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.00001|1}}

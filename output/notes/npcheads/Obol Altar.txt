@@ -1,0 +1,11 @@
+{{npc
+|location=Encroaching Forest Villas, YumYum Grotto
+|noquest=1
+|repeatable=Unknown
+|birthweight=9.07
+|starsign=Gemini
+|mmm=Lee
+|notes=The [[Obol Altar]] appears in both [[Worlds#F2 - Encroaching Forest Villas|Encroaching Forest Villas]] and [[Worlds#D0 - YumYum Grotto|YumYum Grotto]].
+
+Complete its quest by purchasing [[BobJoePickle]] from the [[Vendors#YumYum_Grotto|Yum-Yum Grotto Vendor]] to unlock [[Obols]]. You cannot do this until you've beaten the boss of World 1, [[Amarok]] the Wolf Golem.
+}}

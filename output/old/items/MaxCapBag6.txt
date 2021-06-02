@@ -2,5 +2,6 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 25: Health Food, Boost Food, Golden Food.
 |sellprice=200
-|source=[[Picnic_Stowaway#The Hungry Stowaway|The Hungry Stowaway]]
+|source=[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]
+|notes= 
 }}

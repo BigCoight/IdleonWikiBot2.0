@@ -1,9 +1,7 @@
-{{DropTable/head}}
 {{DropTable/row|Armor Upgrade Stone B|{{#expr: {{{chance}}}*.005}}|1}}
 {{DropTable/row|Meat Pie|{{#expr: {{{chance}}}*.42}}|15}}
 {{Droplots Stamp|chance={{#expr: {{{chance}}}*0.0004}}}}
 {{DropTable/row|Exp Book Statue|{{#expr: {{{chance}}}*.04}}|1}}
-{{DropTable/row|Monster Rating|{{#expr: {{{chance}}}*.9}}|1|([[XxX_Cattleprod_XxX]])}}
+{{DropTable/row|Monster Rating|{{#expr: {{{chance}}}*.9}}|1|([[XxX Cattleprod XxX]])}}
 {{DropTable/row|Silver AGI Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
-|}

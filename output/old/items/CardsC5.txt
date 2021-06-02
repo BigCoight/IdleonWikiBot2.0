@@ -2,7 +2,7 @@
 |title=Bleach Logs
 |order=5
 |category=Easy Resources
-|effect=+{%_Total_Choppin_Efficiency
+|effect=+{% Total Choppin Efficiency
 |bonus=5
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Birch Tree]]

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Baba Yaga_Walking.gif
+|image=Baba Yaga Walking.gif
 |attack=400
 |health=150000
 |defence=300
@@ -9,8 +9,7 @@
 |defence0=466.07
 |hascard=Yes
 }}
-{{EnemyNavigation|Flycicle|Dr Defecaus}}
-{{DropTable/head}}
+{{EnemyNavigation|Crystal Cattle|Dr Defecaus}}
 {{DropTable/coin|800|1}}
 {{DropTable/card|0.03}}
 {{DropTable/row|Baba Yaga Baby Eggs|0.006|1}}

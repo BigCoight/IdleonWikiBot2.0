@@ -3,6 +3,7 @@
 |description=This sand aint right, I tell you hwat!
 |sellprice=60
 |source=[[Sandy Pot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.22|1}}
@@ -11,5 +12,5 @@
 {{usedin/row|[[Gold Platebody]]|1500|Crafting}}
 {{usedin/row|[[Sandy Satchel]]|777|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
 |}

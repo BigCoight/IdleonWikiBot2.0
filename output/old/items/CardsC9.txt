@@ -2,7 +2,7 @@
 |title=Hermit Can
 |order=9
 |category=Easy Resources
-|effect=+{%_Total_Fishing_Efficiency
+|effect=+{% Total Fishing Efficiency
 |bonus=5
 |reqtier=10
 }}

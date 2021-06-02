@@ -2,13 +2,15 @@
 |type=Summon Item
 |description=Blinks repeatedly when close to the Black Market, where you buy the Ankh used in the ice zone to get the Hedjet... wait, wrong game, sorry!
 |sellprice=29360
+|source=[[Smithing]], [[Sand Giant|Recipe from Sand Giant]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=58
+|craftnum=59
 |levelreq=21
 |expgiven=2500
-|recipefrom=Start
+|recipefrom=[[Sand Giant]]
 |resource1=Silver Antique|quantity1=1
 |resource2=Gold Bar|quantity2=80
 |resource3=Ghost|quantity3=1
@@ -16,14 +18,13 @@
 {{usedin/head}}
 {{usedin/row|[[Efaunt Helmet]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Quest37|1}}
-{{detrecipe|3|GoldBar|80}}
-{{detrecipe|3|DesertC2b|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest37|1}}
-{{detrecipe/totals|GoldBar|80}}
-{{detrecipe/totals|DesertC2b|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Silver Antique|1}}
+{{detrecipe|3|Gold Bar|80}}
+{{detrecipe|3|Ghost|1}}
+|tot=
+{{detrecipe/totals|Silver Antique|1}}
+{{detrecipe/totals|Gold Bar|80}}
+{{detrecipe/totals|Ghost|1}}
+}}

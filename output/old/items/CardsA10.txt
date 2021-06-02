@@ -2,7 +2,7 @@
 |title=Poop
 |order=10
 |category=Blunder Hills
-|effect=+{%_Crystal_Mob_Spawn_Chance
+|effect=+{% Crystal Mob Spawn Chance
 |bonus=10
 |reqtier=10
 |source=[[Poop]]

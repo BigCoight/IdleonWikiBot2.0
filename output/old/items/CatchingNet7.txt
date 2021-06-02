@@ -7,42 +7,43 @@
 |str=6
 |agi=12
 |upgrade=4
-|sellprice=4789200
+|sellprice=4469200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=38
+|craftnum=39
 |levelreq=45
 |expgiven=400000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Flycicle|quantity1=50000
 |resource2=Dementia Net|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Bug6|50000}}
-{{detrecipe|3|CatchingNet6|2}}
-{{detrecipe|40|Bug5|30000}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|CatchingNet5|4}}
-{{detrecipe|80|Bug4|32000}}
-{{detrecipe|80|Plat|24000}}
-{{detrecipe|80|CatchingNet4|8}}
-{{detrecipe|120|Quest19|40}}
-{{detrecipe|120|Bug2|20000}}
-{{detrecipe|120|CatchingNet3|24}}
-{{detrecipe|160|ForestTree|19200}}
-{{detrecipe|160|Bug2|20400}}
-{{detrecipe|160|PureWater|72}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug6|50000}}
-{{detrecipe/totals|Bug5|30000}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Bug4|32000}}
-{{detrecipe/totals|Plat|24000}}
-{{detrecipe/totals|Quest19|40}}
-{{detrecipe/totals|Bug2|40400}}
-{{detrecipe/totals|ForestTree|19200}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Flycicle|50000}}
+{{detrecipe|3|Dementia Net|2}}
+{{detrecipe|40|Mosquisnow|30000}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Platinet|4}}
+{{detrecipe|80|Fruitfly|28000}}
+{{detrecipe|80|Platinum Ore|12000}}
+{{detrecipe|80|Gilded Net|8}}
+{{detrecipe|120|Golden Dubloon|40}}
+{{detrecipe|120|Butterfly|20000}}
+{{detrecipe|120|Reinforced Net|24}}
+{{detrecipe|160|Forest Fibres|19200}}
+{{detrecipe|160|Butterfly|20400}}
+{{detrecipe|160|Distilled Water|72}}
+|tot=
+{{detrecipe/totals|Flycicle|50000}}
+{{detrecipe/totals|Mosquisnow|30000}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Fruitfly|28000}}
+{{detrecipe/totals|Platinum Ore|12000}}
+{{detrecipe/totals|Golden Dubloon|40}}
+{{detrecipe/totals|Butterfly|40400}}
+{{detrecipe/totals|Forest Fibres|19200}}
+{{detrecipe/totals|Distilled Water|72}}
+}}

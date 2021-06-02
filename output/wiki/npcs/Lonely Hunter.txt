@@ -1,0 +1,57 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Gemini
+|mmm=Ziegler
+|birthweight=7.48
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Leaf Him Alone!
+|text=Well you heard him!
+|difficulty=3
+|requirements=200x {{CraftReq|Grass Leaf}}, 50x {{CraftReq|Twisty Leaf}}
+|consumed=Yes
+|rewards=5x {{CraftReq|Gem}}, 1x {{CraftReq|1 HR Time Candy}}
+|notes= 
+}}
+{{Quest
+|name=Skeleton? Skelegone!
+|text=Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!
+|difficulty=4
+|requirements=Xylobones Defeated: >= 5. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|1 HR Time Candy}}, 1x {{CraftReq|Colosseum Ticket}}
+|notes= 
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Ughh...
+}}
+{{dialogue/row
+|text=Was real nice before people started showing up all the time. I'm not like the other colosseum masters my tickets are my own.
+}}
+{{dialogue/row
+|text=Go on leave me alone. @ QUEST:Well you heard him!
+|quest=Leaf Him Alone!
+}}
+{{dialogue/row
+|text=Inventory empty it.
+}}
+{{dialogue/row
+|text=What the... what are these for? Why did y-- oh. @ Ugh.
+}}
+{{dialogue/row
+|text=I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST:Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!
+|quest=Skeleton? Skelegone!
+}}
+{{dialogue/row
+|text=Inventory Empty it
+}}
+{{dialogue/row
+|text=Alright you got your tickets now get outta here.
+}}
+|}

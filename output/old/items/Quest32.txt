@@ -1,9 +1,10 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+|quest=[[XxX Cattleprod XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
 |description='I literally just die over and over, I can't even fight back other than just running into them. Honestly I wish I was dead, but even then I just keep respawning, literally the worst experience ever, 1 star!!'
 |sellprice=100
 |source=[[DropTable6]], [[DropTable7]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.36|1.0}}
@@ -27,5 +28,5 @@
 {{detdrops|[[Sandstone Silver Chest]]|0.9|1.0}}
 |}
 {{usedin/head}}
-{{usedin/row|[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1000|Quests}}
+{{usedin/row|[[XxX Cattleprod XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1000|Quests}}
 |}

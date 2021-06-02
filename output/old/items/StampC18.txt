@@ -5,3 +5,4 @@
 |material=Copper Ore
 |sellprice=1
 }}
+{{stampdata|stype=TalentS|ftype=add|x1=1|x2=0|i4=2|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Star Talent Pts|i12=3}}

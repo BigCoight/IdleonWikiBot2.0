@@ -2,7 +2,7 @@
 |title=Iron Ore
 |order=1
 |category=Easy Resources
-|effect=+{%_Total_Mining_Efficiency
+|effect=+{% Total Mining Efficiency
 |bonus=5
 |reqtier=10
 |source=[[Mining#Drops|Mining Iron]]

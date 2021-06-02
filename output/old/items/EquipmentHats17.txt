@@ -8,14 +8,15 @@
 |upgrade=2
 |defence=5
 |sellprice=560
-|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=16
+|craftnum=17
 |levelreq=6
 |expgiven=35
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=30
 |resource2=Bean Slices|quantity2=50
 }}
@@ -26,12 +27,11 @@
 {{usedin/row|[[Party Hat]]|4|Crafting}}
 {{usedin/row|[[Gold Helmet]]|4|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|30}}
-{{detrecipe|3|Grasslands3|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|30}}
-{{detrecipe/totals|Grasslands3|50}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|30}}
+{{detrecipe|3|Bean Slices|50}}
+|tot=
+{{detrecipe/totals|Copper Bar|30}}
+{{detrecipe/totals|Bean Slices|50}}
+}}

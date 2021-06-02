@@ -8,10 +8,12 @@
 |agi=6
 |upgrade=2
 |sellprice=87400
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=14
+|craftnum=15
 |levelreq=22
 |expgiven=5500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -23,18 +25,17 @@
 {{usedin/row|[[Platinet]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Quest19|5}}
-{{detrecipe|3|Bug2|2500}}
-{{detrecipe|3|CatchingNet3|3}}
-{{detrecipe|40|ForestTree|2400}}
-{{detrecipe|40|Bug2|2550}}
-{{detrecipe|40|PureWater|9}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest19|5}}
-{{detrecipe/totals|Bug2|5050}}
-{{detrecipe/totals|ForestTree|2400}}
-{{detrecipe/totals|PureWater|9}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Dubloon|5}}
+{{detrecipe|3|Butterfly|2500}}
+{{detrecipe|3|Reinforced Net|3}}
+{{detrecipe|40|Forest Fibres|2400}}
+{{detrecipe|40|Butterfly|2550}}
+{{detrecipe|40|Distilled Water|9}}
+|tot=
+{{detrecipe/totals|Golden Dubloon|5}}
+{{detrecipe/totals|Butterfly|5050}}
+{{detrecipe/totals|Forest Fibres|2400}}
+{{detrecipe/totals|Distilled Water|9}}
+}}

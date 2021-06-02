@@ -92,7 +92,6 @@ def formatQuest(line):
         for n, v in zip(line["ItemNumReq"], line["ItemTypeReq"]):
             tempReq.append([nameDic(v), n])
     newQuest["requirements"] = tempReq
-
     newQuest["consumed"] = "Yes" if line["ConsumeItems"] == "!0" else "No"
     newQuest["dialogueText"] = line["DialogueText"]
     newQuest["difficulty"] = line["Difficulty"]
@@ -100,19 +99,25 @@ def formatQuest(line):
     dTextSplit = line["DialogueText"].split(":")
     if len(dTextSplit) > 1:
         newQuest["questText"] = dTextSplit[1]
-        newQuest["DialogueText"] = dTextSplit[0]
+        newQuest["dialogueText"] = dTextSplit[0].split("@")[0]
 
     questName = newQuest["name"]
     return questName, newQuest
+
+
+def openNotes(fn):
+    with open(fr"./output/notes/{fn}.json", mode="r") as jsonFile:
+        return json.load(jsonFile)
 
 
 def main():
     newNpcs = {}
     npcData = openJSON("Npcs")
     nameConflicts = {"Ghost": "Ghost_(Event)", "Dog_Bone": "Dog_Bone_(NPC)"}
+    notes = openNotes("Quest")
 
     for name, npc in npcData.items():
-        if name == "Mecha_Pete":
+        if name == "Mecha Pete":
             continue
         name = nameConflicts.get(name, name)
         newNpcs[name] = {"Quests": {}, "Dialogue": []}
@@ -125,6 +130,12 @@ def main():
                 questName, questData = formatQuest(line)
                 newNpcs[name]["Quests"][questName] = questData
                 newNpcs[name]["Dialogue"].append(formatDio(line, True))
+    for name, npc in newNpcs.items():
+        for qname, qdetails in npc["Quests"].items():
+            if qname in notes.keys():
+                qdetails["notes"] = notes[qname]
+            else:
+                qdetails["notes"] = " "
 
     writeJSON("Npcs", newNpcs)
 

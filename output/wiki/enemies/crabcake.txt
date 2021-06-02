@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Crabcake_Walking.gif
+|image=Crabcake Walking.gif
 |attack=70
 |health=7500
 |defence=150
@@ -14,11 +14,10 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Mimic|Mafioso}}
-{{DropTable/head}}
 {{DropTable/coin|55|0.45}}
 {{DropTable/row|Crabby Cakey|0.205|1}}
 {{DropTable/card|0.0001}}
 {{DropTable/row|Nuget Cake|0.00005|1}}
-{{DropTable/recipe1|Googley Eyes|0.000025}}
+{{DropTable/recipe|1|Googley Eyes|0.000025}}
 {{DropTable6|chance=0.0036}}
 |}

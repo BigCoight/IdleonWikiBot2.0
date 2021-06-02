@@ -2,7 +2,7 @@
 |title=Green Mushroom
 |order=0
 |category=Blunder Hills
-|effect=+{_Base_HP
+|effect=+{ Base HP
 |bonus=12
 |reqtier=5
 |source=[[Green Mushroom]]

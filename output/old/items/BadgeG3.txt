@@ -3,13 +3,15 @@
 |quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |description=Proof that you collected all the cards and completed all the tasks associated with Blunder Hills.
 |sellprice=81000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=58
+|craftnum=59
 |levelreq=1
 |expgiven=2
-|recipefrom=Start
+|recipefrom=
 |resource1=Golden Peanut|quantity1=30
 |resource2=Golden Plop|quantity2=12
 |resource3=Bolt Cutters|quantity3=1
@@ -18,23 +20,22 @@
 {{usedin/head}}
 {{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|PeanutG|30}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Peanut|30}}
 {{detrecipe|40|Peanut|3000}}
-{{detrecipe|80|FoodHealth3|6000}}
-{{detrecipe|80|Copper|3000}}
-{{detrecipe|80|BirchTree|3000}}
-{{detrecipe|40|GoldBar|1500}}
-{{detrecipe|3|Sewers1b|12}}
-{{detrecipe|3|Cutter|1}}
-{{detrecipe|3|EquipmentBows4|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth3|6000}}
-{{detrecipe/totals|Copper|3000}}
-{{detrecipe/totals|BirchTree|3000}}
-{{detrecipe/totals|Sewers1b|12}}
-{{detrecipe/totals|Cutter|1}}
-{{detrecipe/totals|EquipmentBows4|2}}
-|}
+{{detrecipe|80|Hot Dog|6000}}
+{{detrecipe|80|Copper Ore|3000}}
+{{detrecipe|80|Bleach Logs|3000}}
+{{detrecipe|40|Gold Bar|1500}}
+{{detrecipe|3|Golden Plop|12}}
+{{detrecipe|3|Bolt Cutters|1}}
+{{detrecipe|3|Carrot Launcher|2}}
+|tot=
+{{detrecipe/totals|Hot Dog|6000}}
+{{detrecipe/totals|Copper Ore|3000}}
+{{detrecipe/totals|Bleach Logs|3000}}
+{{detrecipe/totals|Golden Plop|12}}
+{{detrecipe/totals|Bolt Cutters|1}}
+{{detrecipe/totals|Carrot Launcher|2}}
+}}

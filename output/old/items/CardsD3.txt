@@ -2,7 +2,7 @@
 |title=Void Ore
 |order=2
 |category=Medium Resources
-|effect=+{%_Card_Drop_Chance
+|effect=+{% Card Drop Chance
 |bonus=6
 |reqtier=10
 }}

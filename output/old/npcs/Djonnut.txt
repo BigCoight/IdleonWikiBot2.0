@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Pisces
-|mmm=Illingsworth
-|birthweight=7.67
-|notes=fillme
+{{npc
+|location=Djonnuttown
+|noquest=1
+|repeatable=Unknown
+|birthweight=2.62
+|starsign=Capricorn
+|mmm=Perez
+|notes=[[Djonnut]] is found in [[Worlds#D12 - Djonnuttown|Djonnuttown]], by the door to the [[Efaunt]] boss fight.
+
+Upon completing his second quest the player is awarded with the ability to talk to him once every day to obtain an {{CraftReq|Efaunt's Tomb Key}}. He will hold keys for you for up to 3 days. Having more characters complete his second quest provides more daily keys, and one character can collect all of your daily keys at once.
 }}
 {{Quest/head}}
 {{Quest
@@ -15,14 +17,16 @@
 |requirements=2000x {{CraftReq|Average Mana Potion}}, 4000x {{CraftReq|Icing Ironbite}}, 1000x {{CraftReq|Jellyfish}}
 |consumed=Yes
 |rewards=8x {{CraftReq|1 HR Time Candy}}
+|notes=Crafting the 1k Icing Ironbite requires 5k Iron Ore and 2k Small Mana Potions. 
 }}
 {{Quest
 |name=I'm Blue Dabadedada
 |text=Defeat Moonmen and retrieve some ghosts
 |difficulty=4
-|requirements=Moonmen Touched: >= 30000. Starting at 0. Ghosts Collected: >= 2. Starting at 0. 
+|requirements=Moonmen Touched: >= 30000. Starting at 0., Ghosts Collected: >= 2. Starting at 0.
 |consumed=No
 |rewards=2x {{CraftReq|Efaunt's Tomb Key}}
+|notes=Kill 10k [[Moonmoon|Moonmoons]] and gather 1 [[Ghost]] drops. Moonmoons killed/Ghosts collected before you start this quest do not count.
 }}
 |}
 {{dialogue/head}}

@@ -1,0 +1,9 @@
+{{npc
+|location=Secret
+|noquest=2
+|repeatable=Unknown
+|birthweight=7.2
+|starsign=Aries
+|mmm=Rodriguez
+|notes=[[Meel]] is found in The Crypt, a hidden area past [[Worlds#S3 - The Office|The Office]] in the Sewers. See [[Secrets#The_Crypt|Secrets]] for more details.
+}}

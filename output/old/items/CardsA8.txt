@@ -2,7 +2,7 @@
 |title=Wode Board
 |order=8
 |category=Blunder Hills
-|effect=+{_Base_STR
+|effect=+{ Base STR
 |bonus=2
 |reqtier=10
 |source=[[Wode Board]]

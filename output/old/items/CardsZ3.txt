@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Efaunt
 |order=7
-|category=Event
-|effect=+{%_EXP_from_monsters
+|category=Bosses
+|effect=+{% EXP from monsters
 |bonus=5
 |reqtier=1.5
 |source=[[Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Nightmare Chizoar]], [[Error]]

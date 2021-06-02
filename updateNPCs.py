@@ -1,5 +1,8 @@
 import json
+from libs.funcLib import repU
+import os
 from random import choice, randint
+from pywikibot import Page, Site
 
 
 def doStarsign():
@@ -177,8 +180,11 @@ def writeOLD(cat, fn, out):
         outfile.write(out)
 
 
-def writeNpc(npc):
-    infoNpc = "{{InfoNpc\n"
+def getHead(name):
+    if os.path.isfile(rf"./output/notes/npcheads/{name}.txt"):
+        with open(rf"./output/notes/npcheads/{name}.txt", mode="r") as infile:
+            return infile.read()
+    infoNpc = "{{npc\n"
     intToWiki = {"location": "fillme", "noquests": "fillme", "repeatable": "Unknonwn", "starsign": doStarsign, "mmm": doMMM, "birthweight": doBirthweight, "notes": "fillme"}
 
     for wiki, atr in intToWiki.items():
@@ -188,14 +194,19 @@ def writeNpc(npc):
             infoNpc += f"|{wiki}={atr()}\n"
 
     infoNpc += "}}\n"
+    return infoNpc
+
+
+def writeNpc(name, npc):
+    infoNpc = getHead(name)
     infoNpc += writeQuests(npc)
     infoNpc += writeDiologue(npc)
     return infoNpc
 
 
 def doReq(quest):
-    if isinstance(quest["requirements"], str):
-        return quest["requirements"]
+    if isinstance(quest["requirements"][0], str):
+        return repU(", ".join(quest["requirements"]), True)
     else:
         res = []
         for v, n in quest["requirements"]:
@@ -214,6 +225,8 @@ def doRew(quest):
                 res.append("{{Talentbook" + f"|{splitRew[0]}" + "}}")
             elif splitRew[1] == "Recipe":
                 res.append("{{Recipe" + f"|{splitRew[2]}|{splitRew[0]}" + "}}")
+        elif v == "COIN":
+            res.append("{{Coindisplay|" + n + "}}")
         else:
             res.append(n + "x {{CraftReq|" + v + "}}")
 
@@ -259,35 +272,47 @@ def writeDiologue(npc):
     infoDiologue += "|}\n"
     return infoDiologue
 
+
 def checkOld(cat, fn, check):
     """
     Returns true if they are the same.
     """
+    if not os.path.isfile(rf"./output/old/{cat}/{fn}.txt"):
+        return False
+
     with open(rf"./output/old/{cat}/{fn}.txt", mode="r") as infile:
-        if check != infile.read():
-            print(infile.read())
-        return check == infile.read()
+        oldCheck = infile.read().split("{{Quest/head}}")
+        newCheck = check.split("{{Quest/head}}")
+        if len(oldCheck) > 1 and len(newCheck) > 1:
+            return oldCheck[1] == newCheck[1]
 
 
 def main(OLD, UPLOAD):
+    website = Site()
     if OLD and UPLOAD:
         print("You cannot have old and upload set to true")
-        return
+        # return
     with open(fr"./output/modified/json/Npcs.json", mode="r") as jsonFile:
         npcs = json.load(jsonFile)
 
     allNpcs = {}
     for name, npc in npcs.items():
-        allNpcs[name] = writeNpc(npc)
+        allNpcs[name] = writeNpc(name, npc)
         writeNpcOut(name, allNpcs[name])
         if OLD:
             writeOLD("npcs", name, allNpcs[name])
 
     if UPLOAD:
-        for name, npc in allNpcs:
-            if checkOld("npcs",name, npc):
-                pass
+        for name, npc in allNpcs.items():
+            if checkOld("npcs", name, npc) == False:
+                print("New", name)
+                wikiPage = Page(website, name)
+                wikiPage.text = npc
+                wikiPage.save("Coights API")
+            else:
+                print("          old", name)
 
 
 if __name__ == "__main__":
-    main(True, True)
+    main(False, False)
+

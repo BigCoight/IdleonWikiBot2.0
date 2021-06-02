@@ -10,5 +10,6 @@
 |misc=20% Food Effect
 |defence=25
 |sellprice=10000
-|source=[[Picnic_Stowaway#King of Food|King of Food]]
+|source=[[Picnic Stowaway#King of Food|King of Food]]
+|notes= 
 }}

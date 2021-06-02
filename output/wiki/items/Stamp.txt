@@ -7,6 +7,7 @@ Sword Stamp
 |sellprice=500
 |source=Start
 }}
+{{stampdata|stype=BaseDmg|ftype=add|x1=1|x2=0|i4=5|material=Spore Cap|i6=20|i7=5|i8=50|i9=1.3|i10=0|i11={} Base Damage|i12=3}}
 Heart Stamp
 {{InfoStamp
 |number=2
@@ -16,6 +17,7 @@ Heart Stamp
 |sellprice=500
 |source=Start
 }}
+{{stampdata|stype=BaseHP|ftype=add|x1=1|x2=0|i4=5|material=Oak Logs|i6=25|i7=7|i8=50|i9=1.3|i10=0|i11={} Base HP|i12=3}}
 Mana Stamp
 {{InfoStamp
 |number=3
@@ -25,6 +27,13 @@ Mana Stamp
 |sellprice=2500
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+{{stampdata|stype=BaseMP|ftype=add|x1=1|x2=0|i4=5|material=Copper Ore|i6=25|i7=7|i8=50|i9=1.3|i10=0|i11={} Base MP|i12=0}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=17|vendor=Blunder Hills|stock=1|buyprice=10000}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|5|Quests}}
+|}
 Tomahawk Stamp
 {{InfoStamp
 |number=4
@@ -34,6 +43,7 @@ Tomahawk Stamp
 |sellprice=1000
 |source=[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]
 }}
+{{stampdata|stype=PctDmg|ftype=decay|x1=6|x2=40|i4=4|material=Copper Bar|i6=15|i7=6|i8=50|i9=1.3|i10=0|i11={}% Total Damage|i12=3}}
 Target Stamp
 {{InfoStamp
 |number=5
@@ -43,6 +53,10 @@ Target Stamp
 |sellprice=250
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+{{stampdata|stype=BaseAcc|ftype=add|x1=1|x2=0|i4=5|material=Thread|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Base Accuracy|i12=3}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=15|vendor=Blunder Hills|stock=1|buyprice=1000}}
+|}
 Shield Stamp
 {{InfoStamp
 |number=6
@@ -52,6 +66,10 @@ Shield Stamp
 |sellprice=800
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
 }}
+{{stampdata|stype=BaseDef|ftype=add|x1=1|x2=0|i4=5|material=Iron Ore|i6=50|i7=7|i8=50|i9=1.3|i10=0|i11={} Base Defence|i12=3}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=16|vendor=Blunder Hills|stock=1|buyprice=3200}}
+|}
 Longsword Stamp
 {{InfoStamp
 |number=7
@@ -61,6 +79,13 @@ Longsword Stamp
 |sellprice=1000
 |source=[[Baby Boa]]
 }}
+{{stampdata|stype=BaseDmg|ftype=add|x1=2|x2=0|i4=4|material=Bean Slices|i6=50|i7=6|i8=50|i9=1.3|i10=0|i11={} Base Damage|i12=6}}
+{{detdrops/head}}
+{{detdrops|[[Baby Boa]]|0.00005|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|3|Quests}}
+|}
 Kapow Stamp
 {{InfoStamp
 |number=8
@@ -70,6 +95,13 @@ Kapow Stamp
 |sellprice=2500
 |source=[[Gigafrog]]
 }}
+{{stampdata|stype=CritDmg|ftype=decay|x1=8|x2=40|i4=3|material=Trusty Nails|i6=50|i7=6|i8=50|i9=1.3|i10=0|i11={}% Critical Damage|i12=6}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.0003|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Papua Piggea#Oinko Boinko|Oinko Boinko]]|1|Quests}}
+|}
 Fist Stamp
 {{InfoStamp
 |number=9
@@ -79,6 +111,7 @@ Fist Stamp
 |sellprice=2500
 |source=[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]
 }}
+{{stampdata|stype=BaseSTR|ftype=add|x1=1|x2=0|i4=2|material=Bleach Logs|i6=50|i7=7|i8=50|i9=1.3|i10=0|i11={} STR|i12=3}}
 Battleaxe Stamp
 {{InfoStamp
 |number=10
@@ -88,6 +121,10 @@ Battleaxe Stamp
 |sellprice=2500
 |source=[[Gigafrog]]
 }}
+{{stampdata|stype=PctDmg|ftype=decay|x1=10|x2=40|i4=4|material=Grass Leaf|i6=25|i7=4|i8=50|i9=1.3|i10=0|i11={}% Total Damage|i12=5}}
+{{detdrops/head}}
+{{detdrops|[[Gigafrog]]|0.00003|1}}
+|}
 Agile Stamp
 {{InfoStamp
 |number=11
@@ -97,6 +134,15 @@ Agile Stamp
 |sellprice=2500
 |source=[[DropTable12]]
 }}
+{{stampdata|stype=BaseAGI|ftype=add|x1=1|x2=0|i4=2|material=Copper Chopper|i6=1|i7=4|i8=50|i9=1.3|i10=0|i11={} AGI|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0001|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0001|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.000003|1.0}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000003|1.0}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000003|1.0}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000003|1.0}}
+|}
 Vitality Stamp
 {{InfoStamp
 |number=12
@@ -106,6 +152,10 @@ Vitality Stamp
 |sellprice=8000
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
 }}
+{{stampdata|stype=BaseHP|ftype=add|x1=2|x2=0|i4=4|material=Snake Skin|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Base HP|i12=6}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=6|vendor=Encroaching Forest Villas|stock=1|buyprice=32000}}
+|}
 Book Stamp
 {{InfoStamp
 |number=13
@@ -115,6 +165,7 @@ Book Stamp
 |sellprice=8000
 |source=[[DropTable10]]
 }}
+{{stampdata|stype=BaseWIS|ftype=add|x1=1|x2=0|i4=2|material=Iron Bar|i6=20|i7=5|i8=50|i9=1.35|i10=0|i11={} WIS|i12=3}}
 Manamoar Stamp
 {{InfoStamp
 |number=14
@@ -124,6 +175,7 @@ Manamoar Stamp
 |sellprice=8000
 |source=[[Mutton#Clout Chasin'|Clout Chasin']]
 }}
+{{stampdata|stype=BaseMP|ftype=add|x1=2|x2=0|i4=3|material=Goblin Ear|i6=25|i7=6|i8=75|i9=1.32|i10=0|i11={} Base MP|i12=2}}
 Clover Stamp
 {{InfoStamp
 |number=15
@@ -133,6 +185,10 @@ Clover Stamp
 |sellprice=12000
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 }}
+{{stampdata|stype=BaseLUK|ftype=add|x1=1|x2=0|i4=2|material=Iron Platebody|i6=1|i7=2|i8=300|i9=1.38|i10=0|i11={} LUK|i12=6}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=10|vendor=Faraway Piers|stock=1|buyprice=48000}}
+|}
 Scimitar Stamp
 {{InfoStamp
 |number=16
@@ -142,6 +198,7 @@ Scimitar Stamp
 |sellprice=4000
 |source=[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]
 }}
+{{stampdata|stype=BaseDmg|ftype=add|x1=3|x2=0|i4=4|material=Goldfish|i6=75|i7=7|i8=2000|i9=1.33|i10=0|i11={} Base Damage|i12=0}}
 Bullseye Stamp
 {{InfoStamp
 |number=17
@@ -151,6 +208,7 @@ Bullseye Stamp
 |sellprice=12500
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+{{stampdata|stype=BaseAcc|ftype=add|x1=2|x2=0|i4=5|material=Sentient Cereal|i6=100|i7=10|i8=5000|i9=1.36|i10=0|i11={} Base Accuracy|i12=0}}
 Feather Stamp
 {{InfoStamp
 |number=18
@@ -160,6 +218,7 @@ Feather Stamp
 |sellprice=6000
 |source=[[Snouts#Gravity VS Salt|Gravity VS Salt]]
 }}
+{{stampdata|stype=PctMoveSpd|ftype=decay|x1=5|x2=50|i4=5|material=Coconotnotto|i6=25|i7=6|i8=2500|i9=1.3|i10=0|i11={} Base Move Speed|i12=0}}
 Polearm Stamp
 {{InfoStamp
 |number=19
@@ -167,8 +226,9 @@ Polearm Stamp
 |bonus=% Total Damage
 |material=Steel Axe
 |sellprice=7500
-|source=[[Papua_Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+|source=[[Papua Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
 }}
+{{stampdata|stype=PctDmg|ftype=decay|x1=16|x2=40|i4=6|material=Steel Axe|i6=1|i7=2|i8=3000|i9=1.3|i10=0|i11={}% Total Damage|i12=0}}
 Violence Stamp
 {{InfoStamp
 |number=20
@@ -178,6 +238,15 @@ Violence Stamp
 |sellprice=25000
 |source=[[DropTable15]]
 }}
+{{stampdata|stype=BaseSTR|ftype=add|x1=1|x2=0|i4=3|material=Dementia Ore|i6=10|i7=7|i8=10000|i9=1.3|i10=0|i11={}% STR from Talents|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.00000037499999999999996|1.0}}
+{{detdrops|[[Mamooth]]|0.000000405|1.0}}
+{{detdrops|[[Snowman]]|0.0000004349999999999999|1.0}}
+{{detdrops|[[Penguin]]|0.00000046499999999999994|1.0}}
+{{detdrops|[[Thermister]]|0.0000004949999999999999|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.00015|1.0}}
+|}
 Buckler Stamp
 {{InfoStamp
 |number=21
@@ -187,6 +256,7 @@ Buckler Stamp
 |sellprice=12000
 |source=[[Snouts#A Salty Fall|A Salty Fall]]
 }}
+{{stampdata|stype=BaseDef|ftype=add|x1=1|x2=0|i4=7|material=Platinum Bar|i6=25|i7=6|i8=2200|i9=1.305|i10=0|i11={} Base Defence|i12=0}}
 Sukka Foo
 {{InfoStamp
 |number=23
@@ -195,6 +265,7 @@ Sukka Foo
 |material=Amarok Slab
 |sellprice=10000
 }}
+{{stampdata|stype=BossDmg|ftype=decay|x1=24|x2=60|i4=10|material=Amarok Slab|i6=3|i7=5|i8=10000|i9=1.34|i10=0|i11={}% Boss Damage|i12=0}}
 Arcane Stamp
 {{InfoStamp
 |number=24
@@ -204,6 +275,7 @@ Arcane Stamp
 |sellprice=6000
 |source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
 }}
+{{stampdata|stype=BaseWIS|ftype=add|x1=1|x2=0|i4=3|material=Gold Bar|i6=50|i7=7|i8=1550|i9=1.36|i10=0|i11={} Base Defence|i12=0}}
 Steve Sword
 {{InfoStamp
 |number=26
@@ -213,6 +285,7 @@ Steve Sword
 |sellprice=50000
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+{{stampdata|stype=PctDmg|ftype=decay|x1=20|x2=60|i4=10|material=Fruitfly|i6=150|i7=5|i8=10000|i9=1.32|i10=0|i11={}% Total Damage|i12=0}}
 Blover Stamp
 {{InfoStamp
 |number=27
@@ -222,6 +295,16 @@ Blover Stamp
 |sellprice=12500
 |source=[[DropTable16]]
 }}
+{{stampdata|stype=BaseLUK|ftype=add|x1=1|x2=0|i4=4|material=Jellyfish|i6=100|i7=7|i8=1250|i9=1.39|i10=0|i11={} Base LUK|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Dedotated Ram]]|0.0000000032000000000000005|1.0}}
+{{detdrops|[[Quenchie]]|0.00000020000000000000002|1.0}}
+{{detdrops|[[Cryosnake]]|0.00000022400000000000002|1.0}}
+{{detdrops|[[Bop Box]]|0.00000024000000000000003|1.0}}
+{{detdrops|[[Neyeptune]]|0.000000256|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000000032000000000000005|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.00008|1.0}}
+|}
 Stat Graph Stamp
 {{InfoStamp
 |number=28
@@ -229,8 +312,9 @@ Stat Graph Stamp
 |bonus= All Stats
 |material=Mystery Upgrade Stone I
 |sellprice=10000
-|source=[[XxX_Cattleprod_XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
+|source=[[XxX Cattleprod XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]
 }}
+{{stampdata|stype=BaseAllStat|ftype=add|x1=1|x2=0|i4=2|material=Mystery Upgrade Stone I|i6=2|i7=2|i8=2000|i9=1.36|i10=0|i11={} All Stats|i12=0}}
 Pickaxe Stamp
 {{InfoStamp
 |number=1
@@ -239,6 +323,7 @@ Pickaxe Stamp
 |material=Oak Logs
 |sellprice=500
 }}
+{{stampdata|stype=BaseMinEff|ftype=add|x1=1|x2=0|i4=10|material=Oak Logs|i6=25|i7=7|i8=50|i9=1.3|i10=1|i11={} Mining Efficiency|i12=0}}
 Hatchet Stamp
 {{InfoStamp
 |number=2
@@ -247,6 +332,7 @@ Hatchet Stamp
 |material=Thread
 |sellprice=1200
 }}
+{{stampdata|stype=BaseChopEff|ftype=add|x1=1|x2=0|i4=10|material=Thread|i6=25|i7=6|i8=50|i9=1.3|i10=3|i11={} Choppin Efficiency|i12=0}}
 Anvil Zoomer Stamp
 {{InfoStamp
 |number=3
@@ -256,6 +342,19 @@ Anvil Zoomer Stamp
 |sellprice=800
 |source=[[DropTable1]]
 }}
+{{stampdata|stype=AnvilPAspd|ftype=add|x1=1|x2=0|i4=5|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=2|i11={}% Anvil Production Spd|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.0007199999999999999|1.0}}
+{{detdrops|[[Green Mushroom]]|0.0000036|1.0}}
+{{detdrops|[[Frog]]|0.0000045599999999999995|1.0}}
+{{detdrops|[[Bored Bean]]|0.000005399999999999999|1.0}}
+{{detdrops|[[Red Mushroom]]|0.0000062399999999999995|1.0}}
+{{detdrops|[[Amarok]]|0.0012|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.0012|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0012|2.0}}
+{{detdrops|[[Baba Yaga]]|0.0012|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.0012|1.0}}
+|}
 Lil' Mining Baggy Stamp
 {{InfoStamp
 |number=4
@@ -263,8 +362,9 @@ Lil' Mining Baggy Stamp
 |bonus= Mining Carry Cap
 |material=Jungle Logs
 |sellprice=1000
-|source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
+|source=[[XxX Cattleprod XxX#Peak Gaming|Peak Gaming]]
 }}
+{{stampdata|stype=MinCap|ftype=add|x1=1|x2=0|i4=10|material=Jungle Logs|i6=25|i7=6|i8=50|i9=1.3|i10=1|i11={} Mining Carry Cap|i12=0}}
 Twin Ores Stamp
 {{InfoStamp
 |number=5
@@ -274,6 +374,10 @@ Twin Ores Stamp
 |sellprice=1000
 |source=[[Sheepie]]
 }}
+{{stampdata|stype=DoubleMin|ftype=decay|x1=15|x2=40|i4=5|material=Thief Hood|i6=1|i7=3|i8=10000|i9=1.3|i10=1|i11={}% Multi Ore Chance|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.00008|1}}
+|}
 Choppin' Bag Stamp
 {{InfoStamp
 |number=6
@@ -283,6 +387,7 @@ Choppin' Bag Stamp
 |sellprice=1000
 |source=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
 }}
+{{stampdata|stype=ChopCap|ftype=add|x1=1|x2=0|i4=10|material=Carrot Cube|i6=25|i7=6|i8=50|i9=1.3|i10=3|i11={} Choppin Carry Cap|i12=0}}
 Duplogs Stamp
 {{InfoStamp
 |number=7
@@ -292,6 +397,10 @@ Duplogs Stamp
 |sellprice=1000
 |source=[[Frost Flake]]
 }}
+{{stampdata|stype=DoubleChop|ftype=decay|x1=15|x2=40|i4=5|material=Militia Helm|i6=1|i7=3|i8=20000|i9=1.3|i10=3|i11={}% Multi Log Chance|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Frost Flake]]|0.00006|1}}
+|}
 Matty Bag Stamp
 {{InfoStamp
 |number=8
@@ -301,6 +410,10 @@ Matty Bag Stamp
 |sellprice=6700
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 }}
+{{stampdata|stype=MatCap|ftype=add|x1=1|x2=0|i4=10|material=Cramped Material Pouch|i6=1|i7=2|i8=50|i9=1.3|i10=2|i11={} Material Carry Cap|i12=0}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=9|vendor=Faraway Piers|stock=1|buyprice=26800}}
+|}
 Smart Dirt Stamp
 {{InfoStamp
 |number=9
@@ -310,6 +423,19 @@ Smart Dirt Stamp
 |sellprice=1500
 |source=[[DropTable5]]
 }}
+{{stampdata|stype=MinExp|ftype=add|x1=1|x2=0|i4=5|material=Plank|i6=25|i7=6|i8=80|i9=1.35|i10=1|i11={}% Mining Exp|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.00075|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.000012|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.000012750000000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000135|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.00001425|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.0000159|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000015300000000000003|1.0}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|2|Quests}}
+|}
 Cool Diggy Tool Stamp
 {{InfoStamp
 |number=10
@@ -319,6 +445,10 @@ Cool Diggy Tool Stamp
 |sellprice=1000
 |source=[[Snowman]]
 }}
+{{stampdata|stype=BaseMinEff|ftype=add|x1=2|x2=0|i4=10|material=Iron Hatchet|i6=1|i7=2|i8=35000|i9=1.4|i10=t1|i11={} Mining Efficiency|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Snowman]]|0.000025|1}}
+|}
 High IQ Lumber Stamp
 {{InfoStamp
 |number=11
@@ -328,6 +458,17 @@ High IQ Lumber Stamp
 |sellprice=1800
 |source=[[DropTable4]]
 }}
+{{stampdata|stype=ChopExp|ftype=add|x1=1|x2=0|i4=5|material=Bullfrog Horn|i6=25|i7=6|i8=80|i9=1.35|i10=3|i11={}% Choppin Exp|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.00054|1.0}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.00000585|1.0}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.0000063|1.0}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.00000675|1.0}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.00000693|1.0}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.0000073800000000000005|1.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.000008099999999999999|2.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.00000855|2.0}}
+|}
 Swag Swingy Tool Stamp
 {{InfoStamp
 |number=12
@@ -337,6 +478,10 @@ Swag Swingy Tool Stamp
 |sellprice=2500
 |source=[[Thermister]]
 }}
+{{stampdata|stype=BaseChopEff|ftype=add|x1=2|x2=0|i4=10|material=Copper Pickaxe|i6=1|i7=2|i8=50000|i9=1.36|i10=3|i11={} Choppin Efficiency|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Thermister]]|0.00001|1}}
+|}
 Alch Go Brrr Stamp
 {{InfoStamp
 |number=13
@@ -346,6 +491,10 @@ Alch Go Brrr Stamp
 |sellprice=2000
 |source=[[DropTable11]]
 }}
+{{stampdata|stype=AlchSpd|ftype=add|x1=1|x2=0|i4=4|material=Forest Fibres|i6=40|i7=6|i8=800|i9=1.29|i10=-1|i11={}% Alch Speed|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000004499999999999999|2.0}}
+|}
 Brainstew Stamps
 {{InfoStamp
 |number=14
@@ -355,6 +504,7 @@ Brainstew Stamps
 |sellprice=2500
 |source=[[Wellington#Platforms in Disguise, Platsformers!|Platforms in Disguise, Platsformers!]]
 }}
+{{stampdata|stype=AlchExp|ftype=add|x1=1|x2=0|i4=5|material=Gold Ore|i6=40|i7=6|i8=1250|i9=1.28|i10=5|i11={}% Alch Exp|i12=0}}
 Drippy Drop Stamp
 {{InfoStamp
 |number=15
@@ -364,6 +514,20 @@ Drippy Drop Stamp
 |sellprice=2000
 |source=[[DropTable6]]
 }}
+{{stampdata|stype=LiquidSpd|ftype=add|x1=1|x2=0|i4=5|material=Pocket Sand|i6=60|i7=6|i8=1000|i9=1.3|i10=-1|i11={}% Liquid Spd|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.00035999999999999997|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.00035999999999999997|1.0}}
+{{detdrops|[[Sandy Pot]]|0.0000018|1.0}}
+{{detdrops|[[Mimic]]|0.00000192|1.0}}
+{{detdrops|[[Crabcake]]|0.0000021599999999999996|1.0}}
+{{detdrops|[[Efaunt]]|0.0006|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0006|2.0}}
+{{detdrops|[[Chizoar]]|0.0006|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.0006|2.0}}
+{{detdrops|[[Biggie Hours]]|0.0003|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.0006|1.0}}
+|}
 Droplots Stamp
 {{InfoStamp
 |number=16
@@ -373,6 +537,23 @@ Droplots Stamp
 |sellprice=5000
 |source=[[DropTable7]]
 }}
+{{stampdata|stype=LiquidCap|ftype=add|x1=1|x2=0|i4=2|material=Bloach|i6=25|i7=4|i8=2500|i9=1.3|i10=-1|i11={} Liquid Cap|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0002|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0002|1.0}}
+{{detdrops|[[Mafioso]]|0.00000128|1.0}}
+{{detdrops|[[Sand Castle]]|0.0000014000000000000001|1.0}}
+{{detdrops|[[Pincermin]]|0.0000014800000000000002|1.0}}
+{{detdrops|[[Mashed Potato]]|0.00000156|1.0}}
+{{detdrops|[[Dig Doug]]|0.00000128|1.0}}
+{{detdrops|[[Efaunt]]|0.0004|2.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.0004|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0004|2.0}}
+{{detdrops|[[Chizoar]]|0.0004|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.0004|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.0004|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.0004|1.0}}
+|}
 Fishing Rod Stamp
 {{InfoStamp
 |number=17
@@ -382,6 +563,7 @@ Fishing Rod Stamp
 |sellprice=2000
 |source=[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]
 }}
+{{stampdata|stype=BaseFishEff|ftype=add|x1=2|x2=0|i4=5|material=Fly|i6=50|i7=6|i8=1000|i9=1.32|i10=4|i11={} Fishing Efficiency|i12=0}}
 Fishhead Stamp
 {{InfoStamp
 |number=18
@@ -389,8 +571,9 @@ Fishhead Stamp
 |bonus=% Fishing Exp
 |material=Megalodon Tooth
 |sellprice=3000
-|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+|source=[[XxX Cattleprod XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
 }}
+{{stampdata|stype=FishExp|ftype=add|x1=1|x2=0|i4=5|material=Megalodon Tooth|i6=55|i7=9|i8=1500|i9=1.33|i10=4|i11={}% Fishing Exp|i12=0}}
 Catch Net Stamp
 {{InfoStamp
 |number=19
@@ -398,8 +581,9 @@ Catch Net Stamp
 |bonus= Catching Efficiency
 |material=Goldfish
 |sellprice=2000
-|source=[[XxX_Cattleprod_XxX#Peak Gaming|Peak Gaming]]
+|source=[[XxX Cattleprod XxX#Peak Gaming|Peak Gaming]]
 }}
+{{stampdata|stype=BaseCatchEff|ftype=add|x1=2|x2=0|i4=5|material=Goldfish|i6=50|i7=6|i8=1000|i9=1.3|i10=6|i11={} Catching Efficiency|i12=0}}
 Fly Intel Stamp
 {{InfoStamp
 |number=20
@@ -409,6 +593,7 @@ Fly Intel Stamp
 |sellprice=3000
 |source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
 }}
+{{stampdata|stype=CatchExp|ftype=add|x1=1|x2=0|i4=5|material=Crabby Cakey|i6=40|i7=10|i8=1500|i9=1.33|i10=6|i11={}% Catching Exp|i12=0}}
 Bag o Heads Stamp
 {{InfoStamp
 |number=21
@@ -418,6 +603,15 @@ Bag o Heads Stamp
 |sellprice=2000
 |source=[[DropTable12]]
 }}
+{{stampdata|stype=FishCap|ftype=add|x1=1|x2=0|i4=8|material=Butterfly|i6=35|i7=7|i8=1000|i9=1.3|i10=4|i11={}% Fish Carry Cap|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.00005|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.00005|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.0000015|1.0}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000015|1.0}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000015|1.0}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.0000015|1.0}}
+|}
 Holy Mackerel Stamp
 {{InfoStamp
 |number=22
@@ -427,6 +621,7 @@ Holy Mackerel Stamp
 |sellprice=3000
 |source=[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]
 }}
+{{stampdata|stype=DoubleFish|ftype=decay|x1=20|x2=40|i4=5|material=Platinum Ore|i6=30|i7=6|i8=1500|i9=1.3|i10=4|i11={}% Multifish Chance|i12=0}}
 Bugsack Stamp
 {{InfoStamp
 |number=23
@@ -436,6 +631,16 @@ Bugsack Stamp
 |sellprice=3000
 |source=[[DropTable9]]
 }}
+{{stampdata|stype=CatchCap|ftype=add|x1=1|x2=0|i4=8|material=Hermit Can|i6=35|i7=7|i8=1000|i9=1.3|i10=6|i11={}% Bug Carry Cap|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.0006|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.0006|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.000012|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.000012|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.000012|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.000012|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.000012|1.0}}
+|}
 Buzz Buzz Stamp
 {{InfoStamp
 |number=24
@@ -445,109 +650,192 @@ Buzz Buzz Stamp
 |sellprice=4000
 |source=[[DropTable8]]
 }}
+{{stampdata|stype=DoubleCatch|ftype=decay|x1=20|x2=40|i4=5|material=Potty Rolls|i6=45|i7=6|i8=1500|i9=1.3|i10=6|i11={}% Multibug Chance|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.000059999999999999995|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.000059999999999999995|1.0}}
+{{detdrops|[[Tyson]]|0.00000048|1.0}}
+{{detdrops|[[Moonmoon]]|0.000000525|1.0}}
+{{detdrops|[[Sand Giant]]|0.000000555|1.0}}
+{{detdrops|[[Snelbie]]|0.0000005849999999999999|1.0}}
+{{detdrops|[[Efaunt]]|0.00015|2.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.00015|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.00015|2.0}}
+{{detdrops|[[Chizoar]]|0.00015|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.00015|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.00015|2.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.00015|1.0}}
+|}
 Hidey Box Stamp
 {{InfoStamp
-|number=24
+|number=25
 |type=Skills Stamp
 |bonus= Trapping Efficiency
 |material=Crabbo
 |sellprice=4000
 |source=[[DropTable17]]
 }}
+{{stampdata|stype=TrappingEff|ftype=add|x1=2|x2=0|i4=10|material=Crabbo|i6=100|i7=5|i8=7500|i9=1.3|i10=7|i11={} Trapping Efficiency|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00001068|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00001068|1.0}}
+|}
 Purp Froge Stamp
 {{InfoStamp
-|number=24
+|number=26
 |type=Skills Stamp
 |bonus=% Shiny Chance
 |material=Scorpie
 |sellprice=4000
 |source=[[Snouts#Gravity VS Salt|Gravity VS Salt]]
 }}
+{{stampdata|stype=ShinyChance|ftype=add|x1=1|x2=0|i4=5|material=Scorpie|i6=125|i7=6|i8=10000|i9=1.3|i10=7|i11={}% Shiny Chance|i12=0}}
 Spikemouth Stamp
 {{InfoStamp
-|number=24
+|number=27
 |type=Skills Stamp
 |bonus=% Trapping Exp
 |material=Mousey
 |sellprice=4000
 |source=[[DropTable18]]
 }}
+{{stampdata|stype=TrappingExp|ftype=add|x1=1|x2=0|i4=3|material=Mousey|i6=150|i7=6|i8=12500|i9=1.3|i10=7|i11={}% Trapping Exp|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.000017999999999999997|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.000017999999999999997|1.0}}
+|}
 Shiny Crab Stamp
 {{InfoStamp
-|number=24
+|number=28
 |type=Skills Stamp
 |bonus=% Shiny Chance
 |material=Owlio
 |sellprice=4000
 }}
+{{stampdata|stype=ShinyChance|ftype=add|x1=2|x2=0|i4=3|material=Owlio|i6=200|i7=7|i8=15000|i9=1.3|i10=7|i11={}% Shiny Chance|i12=0}}
 Gear Stamp
 {{InfoStamp
-|number=24
+|number=29
 |type=Skills Stamp
 |bonus=% Building Spd
 |material=Sticky Stick
 |sellprice=4000
 }}
+{{stampdata|stype=BuildProd|ftype=add|x1=1|x2=0|i4=3|material=Sticky Stick|i6=100|i7=5|i8=10000|i9=1.3|i10=8|i11={}% Building Spd|i12=0}}
 Sample Stamp
 {{InfoStamp
-|number=24
+|number=30
 |type=Skills Stamp
 |bonus=% Sample Size
 |material=Floof Ploof
 |sellprice=4000
 |source=[[DropTable14]]
 }}
+{{stampdata|stype=SampleRate|ftype=decay|x1=4|x2=30|i4=4|material=Floof Ploof|i6=100|i7=6|i8=10000|i9=1.3|i10=0|i11={}% Sample Size|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.0000025|1.0}}
+{{detdrops|[[Frost Flake]]|0.0000028|1.0}}
+{{detdrops|[[Sir Stache]]|0.0000031|1.0}}
+{{detdrops|[[Xylobone]]|0.00001|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.001|1.0}}
+|}
 Saw Stamp
 {{InfoStamp
-|number=24
+|number=31
 |type=Skills Stamp
 |bonus=% Construction Exp
 |material=Dementia Bar
 |sellprice=4000
 |source=[[SuperDropTable3]]
 }}
+{{stampdata|stype=ConstructionExp|ftype=add|x1=1|x2=0|i4=3|material=Dementia Bar|i6=20|i7=5|i8=15000|i9=1.3|i10=8|i11={}% Construction Exp|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.000000225|1.0}}
+{{detdrops|[[Frost Flake]]|0.00000025200000000000003|1.0}}
+{{detdrops|[[Sir Stache]]|0.00000027899999999999994|1.0}}
+{{detdrops|[[Xylobone]]|0.0000009|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Bloque]]|0.000000225|1.0}}
+{{detdrops|[[Mamooth]]|0.000000243|1.0}}
+{{detdrops|[[Snowman]]|0.00000026099999999999997|1.0}}
+{{detdrops|[[Penguin]]|0.00000027899999999999994|1.0}}
+{{detdrops|[[Thermister]]|0.00000029699999999999997|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000000036000000000000004|1.0}}
+{{detdrops|[[Quenchie]]|0.000000225|1.0}}
+{{detdrops|[[Cryosnake]]|0.00000025200000000000003|1.0}}
+{{detdrops|[[Bop Box]]|0.00000027|1.0}}
+{{detdrops|[[Neyeptune]]|0.00000028800000000000004|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000000036000000000000004|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.00008999999999999999|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.000000801|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.000000801|1.0}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.0000013499999999999998|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.0000013499999999999998|1.0}}
+|}
 Amplesample Stamp
 {{InfoStamp
-|number=24
+|number=32
 |type=Skills Stamp
 |bonus=% Sample Size
 |material=Mosquisnow
 |sellprice=4000
 }}
+{{stampdata|stype=SampleRate|ftype=decay|x1=5|x2=30|i4=4|material=Mosquisnow|i6=200|i7=11|i8=25000|i9=1.3|i10=0|i11={}% Sample Size|i12=0}}
 SpoOoky Stamp
 {{InfoStamp
-|number=24
+|number=33
 |type=Skills Stamp
 |bonus= Worship Efficiency
 |material=Forest Soul
 |sellprice=4000
 }}
+{{stampdata|stype=WorshipEff|ftype=add|x1=2|x2=0|i4=10|material=Forest Soul|i6=45|i7=6|i8=7500|i9=1.3|i10=9|i11={} Worship Efficiency|i12=0}}
 Flowin Stamp
 {{InfoStamp
-|number=24
+|number=34
 |type=Skills Stamp
 |bonus=% Charging Speed
 |material=Redox Salts
 |sellprice=4000
 |source=[[DropTable16]]
 }}
+{{stampdata|stype=WorshipCharge|ftype=add|x1=1|x2=0|i4=2|material=Redox Salts|i6=2|i7=5|i8=15000|i9=1.3|i10=9|i11={}% Charging Speed|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Dedotated Ram]]|0.000000004|1.0}}
+{{detdrops|[[Quenchie]]|0.00000025000000000000004|1.0}}
+{{detdrops|[[Cryosnake]]|0.00000028|1.0}}
+{{detdrops|[[Bop Box]]|0.00000030000000000000004|1.0}}
+{{detdrops|[[Neyeptune]]|0.00000032|1.0}}
+{{detdrops|[[Bloodbone]]|0.000000004|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.0001|1.0}}
+|}
 Prayday Stamp
 {{InfoStamp
-|number=24
+|number=35
 |type=Skills Stamp
 |bonus=% Max Charge
 |material=Cracked Glass
 |sellprice=4000
 }}
+{{stampdata|stype=WorshipMax|ftype=add|x1=1|x2=0|i4=2|material=Cracked Glass|i6=150|i7=6|i8=10000|i9=1.3|i10=9|i11={}% Max Charge|i12=0}}
 Banked Pts Stamp
 {{InfoStamp
-|number=24
+|number=36
 |type=Skills Stamp
 |bonus= Starting TD Pts
 |material=Dune Soul
 |sellprice=4000
 |source=[[DropTable14]]
 }}
+{{stampdata|stype=WorshipPTS|ftype=add|x1=1|x2=0|i4=6|material=Dune Soul|i6=100|i7=3|i8=6000|i9=1.3|i10=9|i11={} Starting TD Pts|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.0000014999999999999998|1.0}}
+{{detdrops|[[Frost Flake]]|0.0000016799999999999998|1.0}}
+{{detdrops|[[Sir Stache]]|0.0000018599999999999998|1.0}}
+{{detdrops|[[Xylobone]]|0.000005999999999999999|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.0006|1.0}}
+|}
 Questin Stamp
 {{InfoStamp
 |number=1
@@ -555,8 +843,9 @@ Questin Stamp
 |bonus=% Quest EXP
 |material=Slime Sludge
 |sellprice=1000
-|source=[[Tiki_Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]
+|source=[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]
 }}
+{{stampdata|stype=QuestExp|ftype=decay|x1=70|x2=50|i4=10|material=Slime Sludge|i6=30|i7=6|i8=500|i9=1.32|i10=0|i11={}% Quest EXP|i12=3}}
 Mason Jar Stamp
 {{InfoStamp
 |number=2
@@ -564,8 +853,9 @@ Mason Jar Stamp
 |bonus=% All Carry Cap
 |material=Glass Shard
 |sellprice=10000
-|source=[[XxX_Cattleprod_XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
+|source=[[XxX Cattleprod XxX#Wait No, I meant Pathetic Gaming|Wait No, I meant Pathetic Gaming]]
 }}
+{{stampdata|stype=AllCarryCap|ftype=add|x1=1|x2=0|i4=4|material=Glass Shard|i6=1|i7=3|i8=4000|i9=1.28|i10=0|i11={}% All Carry Cap|i12=3}}
 Crystallin
 {{InfoStamp
 |number=3
@@ -575,6 +865,15 @@ Crystallin
 |sellprice=2000
 |source=[[Crystal Carrot]], [[Crystal Crabal]], [[Crystal Cattle]]
 }}
+{{stampdata|stype=CrySpawn|ftype=decay|x1=110|x2=50|i4=10|material=Boring Brick|i6=35|i7=8|i8=800|i9=1.31|i10=0|i11={}% Spawn Chance|i12=3}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|.1|1}}
+{{detdrops|[[Crystal Crabal]]|.1|1}}
+{{detdrops|[[Crystal Cattle]]|.1|1}}
+|}
+{{usedin/head}}
+{{usedin/row|[[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]]|1|Quests}}
+|}
 Apple Stamp
 {{InfoStamp
 |number=5
@@ -583,6 +882,7 @@ Apple Stamp
 |material=Meat Pie
 |sellprice=1000
 }}
+{{stampdata|stype=HFood|ftype=add|x1=1|x2=0|i4=5|material=Meat Pie|i6=50|i7=5.5|i8=200|i9=1.30|i10=0|i11={}% HP Food Effect|i12=3}}
 Potion Stamp
 {{InfoStamp
 |number=6
@@ -590,8 +890,9 @@ Potion Stamp
 |bonus=% Boost Food Effect
 |material=Icing Ironbite
 |sellprice=3000
-|source=[[Papua_Piggea#Stamp Collecting|Stamp Collecting]]
+|source=[[Papua Piggea#Stamp Collecting|Stamp Collecting]]
 }}
+{{stampdata|stype=BFood|ftype=add|x1=1|x2=0|i4=5|material=Icing Ironbite|i6=50|i7=8|i8=1500|i9=1.305|i10=0|i11={}% Boost Food Effect|i12=3}}
 Golden Apple Stamp
 {{InfoStamp
 |number=7
@@ -601,6 +902,7 @@ Golden Apple Stamp
 |sellprice=10000
 |source=[[Mutton#7 Figure Followers|7 Figure Followers]]
 }}
+{{stampdata|stype=GFood|ftype=add|x1=1|x2=0|i4=4|material=Golden Nomwich|i6=2|i7=4|i8=3000|i9=1.30|i10=0|i11={}% Gold Food Effect|i12=3}}
 Card Stamp
 {{InfoStamp
 |number=9
@@ -610,6 +912,7 @@ Card Stamp
 |sellprice=3000
 |source=[[Alchemy#Level up Gift|Level up Gift]]
 }}
+{{stampdata|stype=CardDrop|ftype=add|x1=1|x2=0|i4=10|material=Furled Flag|i6=25|i7=6|i8=1200|i9=1.31|i10=0|i11={}% Card Drop Rate|i12=3}}
 Talent I Stamp
 {{InfoStamp
 |number=13
@@ -618,6 +921,7 @@ Talent I Stamp
 |material=Frog Leg
 |sellprice=1
 }}
+{{stampdata|stype=Talent1|ftype=add|x1=1|x2=0|i4=2|material=Frog Leg|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Talent 1 Pts|i12=3}}
 Talent II Stamp
 {{InfoStamp
 |number=14
@@ -627,6 +931,7 @@ Talent II Stamp
 |sellprice=12000
 |source=[[Wellington#You Can't Run, but you Can Hide|You Can't Run, but you Can Hide]]
 }}
+{{stampdata|stype=Talent2|ftype=add|x1=1|x2=0|i4=2|material=Pincer Arm|i6=200|i7=8|i8=4000|i9=1.35|i10=0|i11={} Talent 2 Pts|i12=3}}
 Talent III Stamp
 {{InfoStamp
 |number=15
@@ -636,6 +941,7 @@ Talent III Stamp
 |sellprice=1
 |source=[[Snouts#Big Ol Chonker|Big Ol Chonker]]
 }}
+{{stampdata|stype=Talent3|ftype=add|x1=1|x2=0|i4=2|material=Arctic Leaf|i6=20|i7=4|i8=40000|i9=1.35|i10=0|i11={} Talent 3 Pts|i12=3}}
 Talent IV Stamp
 {{InfoStamp
 |number=16
@@ -644,6 +950,7 @@ Talent IV Stamp
 |material=Copper Ore
 |sellprice=1
 }}
+{{stampdata|stype=Talent4|ftype=add|x1=1|x2=0|i4=2|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Talent 4 Pts|i12=3}}
 Talent V Stamp
 {{InfoStamp
 |number=17
@@ -652,6 +959,7 @@ Talent V Stamp
 |material=Copper Ore
 |sellprice=1
 }}
+{{stampdata|stype=Talent5|ftype=add|x1=1|x2=0|i4=2|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Talent 5 Pts|i12=3}}
 Talent S Stamp
 {{InfoStamp
 |number=18
@@ -660,21 +968,32 @@ Talent S Stamp
 |material=Copper Ore
 |sellprice=1
 }}
-Overkill Stamp
+{{stampdata|stype=TalentS|ftype=add|x1=1|x2=0|i4=2|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=0|i11={} Star Talent Pts|i12=3}}
+Multikill Stamp
 {{InfoStamp
-|number=18
+|number=19
 |type=Misc Stamp
 |bonus=% Base Overkill
 |material=Spore Cap
 |sellprice=1
 |source=[[DropTable15]]
 }}
+{{stampdata|stype=Overkill|ftype=add|x1=1|x2=0|i4=2|material=Spore Cap|i6=100|i7=3|i8=10000|i9=1.3|i10=0|i11={}% Base Overkill|i12=3}}
+{{detdrops/head}}
+{{detdrops|[[Bloque]]|0.0000007499999999999999|1.0}}
+{{detdrops|[[Mamooth]]|0.00000081|1.0}}
+{{detdrops|[[Snowman]]|0.0000008699999999999998|1.0}}
+{{detdrops|[[Penguin]]|0.0000009299999999999999|1.0}}
+{{detdrops|[[Thermister]]|0.0000009899999999999998|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.0003|1.0}}
+|}
 Biblio Stamp
 {{InfoStamp
-|number=18
+|number=20
 |type=Misc Stamp
 |bonus=% Faster Books
 |material=Tundra Logs
 |sellprice=1
 |source=[[Snouts#Big Ol Chonker|Big Ol Chonker]]
 }}
+{{stampdata|stype=BookSpd|ftype=add|x1=1|x2=0|i4=2|material=Tundra Logs|i6=125|i7=5|i8=12500|i9=1.3|i10=0|i11={}% Faster Books|i12=3}}

@@ -15,6 +15,11 @@ def openJSON(fn):
         return json.load(jsonFile)
 
 
+def openNotes(fn):
+    with open(fr"./output/notes/{fn}.json", mode="r") as jsonFile:
+        return json.load(jsonFile)
+
+
 def openCSV(fn):
     res = []
     with open(fr"./output/base/csv/{fn}.csv", mode="r") as csvFile:
@@ -61,7 +66,10 @@ def addAtrToDesc(data):
             del data["Amount"]
             added = True
         if "]" in line:
-            newDesc.append(line.replace("]", data["Cooldown"]))
+            if data["typeGen"] == "bOre":
+                newDesc.append(line.replace("]", f"{data['Cooldown']} seconds"))
+            else:
+                newDesc.append(line.replace("]", data["Cooldown"]))
             del data["Cooldown"]
             added = True
         if "*" in line:
@@ -104,14 +112,14 @@ def addUpgradeData(data):
 
 def allItemsStart(items):
     typeToSource = {
-        "bOre": "Mining",
-        "bBar": "Forging",
-        "bLog": "Choppin",
-        "bLeaf": "Choppin",
-        "dFish": "Fishing",
-        "dBugs": "Catching",
-        "dCritters": "Trapping",
-        "dSouls": "Worshiping?",
+        "bOre": "[[Mining]]",
+        "bBar": "[[Forging]]",
+        "bLog": "[[Choppin]]",
+        "bLeaf": "[[Choppin]]",
+        "dFish": "[[Fishing]]",
+        "dBugs": "[[Catching]]",
+        "dCritters": "[[Trapping]]",
+        "dSouls": "[[Worship]]",
     }
     for name, data in items.items():
         data["sources"] = []
@@ -144,7 +152,7 @@ def allItemsEnd(items):
                 item["uses"].append((f"[[{nameDic[name]}]]", "Lots", "Stamps"))
         elif data["typeGen"] == "aCarryBag":
             materialBagDesc(data)
-        elif data["typeGen"] != "aWeapon":
+        elif data["typeGen"] not in ["aWeapon", "aPick", "aHatchet", "aFishingRod", "aBugNet", "aTrap", "aSkull"]:
             if "Speed" in data.keys() or "Reach" in data.keys():
                 del data["Speed"]
                 del data["Reach"]
@@ -157,9 +165,9 @@ def allItemsEnd(items):
                     done.add(drop[0])
             data["detdrops"] = res
         if "Amarok" in data["displayName"] and "recipeData" in data.keys():
-            data["recipeData"]["recipeFrom"] = "[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]"
+            data["recipeData"]["recipeFrom"].append("[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]")
         elif "Efaunt" in data["displayName"] and "recipeData" in data.keys():
-            data["recipeData"]["recipeFrom"] = "[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]"
+            data["recipeData"]["recipeFrom"].append("[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]")
 
         if data["typeGen"] == "aStorageChest":
             data["description"] = [f"Hold down to permanently add +{data['lvReqToCraft']} Slots to your Storage Chest. Can only be used once."]
@@ -185,6 +193,8 @@ def allItemsEnd(items):
             del data["sources"]
         if not data["uses"]:
             del data["uses"]
+        if data["typeGen"] == "dCard":
+            del data["description"]
 
 
 def configureDetailedRecipe(items, citem):
@@ -233,26 +243,13 @@ def getDetailedTotals(item):
 
 
 def deleteFiller(items):
-    toDelete = [
-        "EXP",
-        "Blank",
-        "LockedInvSpace",
-        "COIN",
-        "TalentBook1",
-        "TalentBook2",
-        "TalentBook3",
-        "TalentBook4",
-        "TalentBook5",
-        "SmithingRecipes1",
-        "SmithingRecipes2",
-        "SmithingRecipes3",
-        "SmithingRecipes4",
-    ]
+    toDelete = ["EXP", "Blank", "LockedInvSpace", "COIN", "TalentBook1", "TalentBook2", "TalentBook3", "TalentBook4", "TalentBook5", "SmithingRecipes1", "SmithingRecipes2", "SmithingRecipes3", "SmithingRecipes4", "GemP1", "GemQ1", "GemQ2", "GemQ3", "GemQ4", "GemQ5", "GemQ6", "GemQ7", "GemQ8", "TalentPoint1", "TalentPoint2", "TalentPoint3", "TalentPoint4", "TalentPoint5", "TalentPoint6", "ExpSmith1", "Quest8", "EquipmentShirts8"]
     for name, data in items.items():
         if data["displayName"] in ["Filler", "FILLER", "Blank"]:
             toDelete.append(name)
     for name in toDelete:
-        del items[name]
+        if name in items.keys():
+            del items[name]
 
 
 def droptableToEnem(enemies, droptables, skillSources):
@@ -284,7 +281,7 @@ def droptableToEnem(enemies, droptables, skillSources):
 
 def getSmithingRecipe(recipes, name, qty):
     tab = int(name[-1]) - 1
-    index = int(qty)
+    index = int(qty) + 1
     for name, item in recipes[tab].items():
         if int(item["no"]) == index:
             return name
@@ -342,7 +339,7 @@ def main():
     fishingTK = openJSON("FishingTK")
     enemies = openJSON("Enemies")
     droptables = openJSON("Droptables")
-    dtToEnemies = droptableToEnem(enemies, droptables, skillSources)
+
     npcs = openJSON("Npcs")
     recipes = openJSON("Recipes")
     postOffices = openJSON("PostOffice")
@@ -352,10 +349,36 @@ def main():
     statueData = openCSV("StatueData")
     taskUnlocks = openJSON("TaskUnlocks")
     customSources = openJSON("CustomSources")
+    notes = openNotes("Items")
 
     # This loop is for specific types of the items
     allItemsStart(items)
     # Adding in the fishing toolkit data
+
+    # add in card data
+    for section, cards in cardData.items():
+        for name, card in cards.items():
+            itemName = "Cards" + card[0]
+            if item := items.get(itemName):
+                if desc := item.get("description"):
+                    if subItem := items.get(desc[0]):
+                        item["displayName"] = subItem["displayName"] + " Card"
+                        subItem["hascard"] = True
+                        item["cardData"] = [section] + card[1:] + [subItem["displayName"]]
+                    elif enem := enemies.get(name):
+                        item["displayName"] = enem["Name"] + " Card"
+                        enem["hascard"] = True
+                        item["cardData"] = [section] + card[1:] + [enem["Name"]]
+                else:
+                    if enem := enemies.get(name):
+                        item["displayName"] = enem["Name"] + " Card"
+                        item["cardData"] = [section] + card[1:] + [enem["Name"]]
+
+    for toIgnore in ["ForgeA", "ForgeB", "Bandit_Bob", "SoulCard1", "SoulCard2", "SoulCard3", "SoulCard4", "SoulCard5", "SoulCard6", "CritterCard1", "CritterCard2", "CritterCard3", "CritterCard4", "CritterCard5", "CritterCard6", "CritterCard7", "CritterCard8", "CritterCard9"]:
+        if toIgnore in enemies.keys():
+            del enemies[toIgnore]
+
+    dtToEnemies = droptableToEnem(enemies, droptables, skillSources)
     for typ, datas in fishingTK.items():
         for i, data in enumerate(datas):
             if item := items.get(f"{typ}{i}"):
@@ -373,6 +396,16 @@ def main():
                     item["shopData"] = []
                 item["sources"].append(f"[[Vendors#{vendor}|{vendor} Vendor]]")
                 item["shopData"].append({"vendor": vendor, "quantity": ite["quantity"], "no": ite["no"]})
+    # Adding in all recipes data to the items and adding in uses.
+    for tab in recipes:
+        for name, recipe in tab.items():
+            if item := items.get(name):
+                item["recipeData"] = recipe
+                item["recipeData"]["recipeFrom"] = []
+                item["detrecipe"] = []
+            for sub in recipe["recipe"]:
+                if subItem := items.get(sub[0]):
+                    subItem["uses"].append((f"[[{nameDic[name]}]]", sub[1], "Crafting"))
     # Adding in the mob drops as sources for all items
     for name, enemy in enemies.items():
         if drops := enemy.get("Drops"):
@@ -385,9 +418,13 @@ def main():
                         enemName = skillsS(enemy["Name"])
                     else:
                         enemName = enemy["Name"]
-
                     item["sources"].append(f"[[{enemName}]]")
                     item["detdrops"].append([f"[[{enemName}]]", drop[1], drop[2]])
+                else:
+                    if drop[0][:-1] == "SmithingRecipes":
+                        if item := items.get(getSmithingRecipe(recipes, drop[0], drop[2])):
+                            item["recipeData"]["recipeFrom"].append(f"[[{enemName}]]")
+
     # Adding in the sources from post office shipping rewards and uses from shipping
     for name, po in postOffices.items():
         for req in po["Orders"].keys():
@@ -396,15 +433,7 @@ def main():
         for rew in po["Rewards"].keys():
             if item := items.get(rew):
                 item["sources"].append(f"[[Post Office#{name}|{name}]]")
-    # Adding in all recipes data to the items and adding in uses.
-    for tab in recipes:
-        for name, recipe in tab.items():
-            if item := items.get(name):
-                item["recipeData"] = recipe
-                item["detrecipe"] = []
-            for sub in recipe["recipe"]:
-                if subItem := items.get(sub[0]):
-                    subItem["uses"].append((f"[[{nameDic[name]}]]", sub[1], "Crafting"))
+
     # Configure the detailed recipe
     for tab in recipes:
         for name, recipe in tab.items():
@@ -429,9 +458,11 @@ def main():
                 for i in range(len(rewards)):  # TalentBook
                     if rewards[i][:-1] == "SmithingRecipes":
                         if item := items.get(getSmithingRecipe(recipes, rewards[i], rewards[i + 1])):
-                            item["recipeData"]["recipeFrom"] = npc
+                            item["recipeData"]["recipeFrom"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
                     elif item := items.get(rewards[i]):
                         item["sources"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
+    items["Quest11"]["questAss"] = "[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]"
+    items["Quest10"]["questAss"] = "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]"
     # Add in the cauldrens to used in
     for cname, bubbles in cauldrons.items():
         if name == "Liquid Shop":
@@ -439,24 +470,12 @@ def main():
         for bname, bubble in bubbles.items():
             for req, n in bubble["requirements"]:
                 if item := items.get(req):
-                    item["uses"].append((f"[[{cname}#{bname}|{bname}]]", "Lots", "Alchemy"))
-    # add in card data
-    for section, cards in cardData.items():
-        for name, card in cards.items():
-            itemName = "Cards" + card[0]
-            if item := items.get(itemName):
-                if desc := item.get("description"):
-                    if subItem := items.get(desc[0]):
-                        item["displayName"] = subItem["displayName"] + " Card"
-                        subItem["hascard"] = True
-                        item["cardData"] = [section] + card[1:] + [subItem["displayName"]]
-                    elif enem := enemies.get(name):
-                        item["displayName"] = enem["Name"] + " Card"
-                        enem["hascard"] = True
-                        item["cardData"] = [section] + card[1:] + [enem["Name"]]
+                    item["uses"].append((f"[[Alchemy#{cname}|{bname}]]", "Lots", "Alchemy"))
+
     items["CardsB13"]["displayName"] = "Crystal Crabal Card"
     items["CardsA0"]["displayName"] = "Green Mushroom Card"
     items["CardsA1"]["displayName"] = "Red Mushroom Card"
+    items["CardsE15"]["displayName"] = "Crystal Cattle Card"
     # Add in statue data
     for n, data in enumerate(statueData):
         itemN = f"EquipmentStatues{n+1}"
@@ -474,27 +493,44 @@ def main():
                 if detdrops := dtToEnemies.get(name):
                     for detdrop in detdrops:
                         item["detdrops"].append([detdrop[0], np.format_float_positional(float(drop[1]) * float(detdrop[1]), trim="-"), str(float(drop[2]) * float(detdrop[2]))])
-    # Renames the internal to external name
-
-    for tab in recipes:
-        for name, recipe in tab.items():
-            if item := items.get(name):
-                recipe["recipe"] = [[nameDic[x], y] for x, y in recipe["recipe"]]
-                item["recipeData"] = recipe
-                # item["detrecipe"] = [[x, nameDic[y], z] for x, y, z in item["detrecipe"]]
-                # item["detRecipeTotals"] = [[nameDic[y], z] for y, z in item["detRecipeTotals"]]
+            elif drop[0][:-1] == "SmithingRecipes":
+                if item := items.get(getSmithingRecipe(recipes, drop[0], drop[2])):
+                    item["recipeData"]["recipeFrom"].append(f"[[{name}]]")
     # Adding in recipe source from the task unlocks
     for taskUnlock in taskUnlocks:
         for ite in taskUnlock:
             if item := items.get(ite):
                 if ite == "PremiumGem":
                     continue
-                item["recipeData"]["recipeFrom"] = "[[Tasks/Unlocks|Tasks]]"
+                item["recipeData"]["recipeFrom"].append("[[Tasks/Unlocks|Tasks]]")
+
+    items["EquipmentHats8"]["recipeData"]["recipeFrom"].append("[[Hamish#Should We Tell Him?|Should We Tell Him?]]")
+    # Renames the internal to external name
+    for tab in recipes:
+        for name, recipe in tab.items():
+            if item := items.get(name):
+                recipe["recipe"] = [[nameDic[x], y] for x, y in recipe["recipe"]]
+                item["recipeData"] = recipe
+                item["detrecipe"] = [[x, nameDic[y], z] for x, y, z in item["detrecipe"]]
+                item["detRecipeTotals"] = [[nameDic[y], z] for y, z in item["detRecipeTotals"]]
+                item["sources"].append("[[Smithing]]")
+                if "recipeFrom" in recipe.keys():
+                    for recipeFrom in recipe["recipeFrom"]:
+                        splitdata = recipeFrom.split("|")
+                        if len(splitdata) > 1:
+                            recipeFrom = splitdata[0] + "|Recipe from " + splitdata[1]
+                        else:
+                            recipeFrom = splitdata[0][:-2] + "|Recipe from " + splitdata[0][2:-2] + "]]"
+                        item["sources"].append(recipeFrom)
 
     for source, ites in customSources.items():
         for ite in ites:
             if item := items.get(ite):
                 item["sources"].append(source)
+
+    for name, note in notes.items():
+        if name in items.keys():
+            items[name]["notes"] = note
 
     allItemsEnd(items)
     writeJSON("Items", items)

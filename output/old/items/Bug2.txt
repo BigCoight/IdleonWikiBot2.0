@@ -1,8 +1,10 @@
 {{InfoItem
 |type=Bug
-|description=Butter Fly? Get it??? Soryy... I promise I wont make this kind of joke again
+|description=Butter Fly? Get it??? Sorry... I promise I wont make this kind of joke again
 |sellprice=9
-|source=Catching
+|source=[[Catching]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Reinforced Net]]|850|Crafting}}
@@ -13,5 +15,5 @@
 {{usedin/row|[[Buttered Toasted Butter]]|5|Crafting}}
 {{usedin/row|[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]|1500|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Stamp Tramp|Stamp Tramp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Stamp Tramp]]|Lots|Alchemy}}
 |}

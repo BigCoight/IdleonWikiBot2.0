@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Aquarius
-|mmm=Dinkins
-|birthweight=9.57
+|starsign=Sagittarius
+|mmm=Dugelman
+|birthweight=3.55
 |notes=fillme
 }}
 {{Quest/head}}

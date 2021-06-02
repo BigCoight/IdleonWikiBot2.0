@@ -1,0 +1,33 @@
+{{npc
+|location=Encroaching Forest Villas, YumYum Grotto
+|noquest=1
+|repeatable=Unknown
+|birthweight=9.07
+|starsign=Gemini
+|mmm=Lee
+|notes=The [[Obol Altar]] appears in both [[Worlds#F2 - Encroaching Forest Villas|Encroaching Forest Villas]] and [[Worlds#D0 - YumYum Grotto|YumYum Grotto]].
+
+Complete its quest by purchasing [[BobJoePickle]] from the [[Vendors#YumYum_Grotto|Yum-Yum Grotto Vendor]] to unlock [[Obols]]. You cannot do this until you've beaten the boss of World 1, [[Amarok]] the Wolf Golem.
+}}
+{{Quest/head}}
+{{Quest
+|name=Bad Kitty, get off that altar!
+|text=Find something to scare the cat off the Obol Altar
+|difficulty=6
+|requirements=1x {{CraftReq|BobJoePickle}}
+|consumed=Yes
+|rewards=1x {{CraftReq|Bronze Obol of Puny Damage}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Zzz... Zzz... meow meow meow... @ meeeeow... Zzz...
+}}
+{{dialogue/row
+|text=... meow... Zzz... @ QUEST:Find something to scare the cat off the Obol Altar
+|quest=Bad Kitty, get off that altar!
+}}
+{{dialogue/row
+|text=MROWW! 'The cat jumps off in fear of the pickle. What a silly cat getting scared of a little pickl-- OH MY GOD THE PICKLE HAS EYEBALLS AAAAAH KILL IT KILL IT!!!'
+}}
+|}

@@ -2,7 +2,9 @@
 |type=Fish
 |description=The result of putting Blood and Leech into a bad pokemon generator.
 |sellprice=18
-|source=Fishing, [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]
+|source=[[Fishing]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|150}}
@@ -14,6 +16,6 @@
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
 {{usedin/row|[[Large Fish Pouch]]|50000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Shaquracy]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Brewstachio]]|Lots|Alchemy}}
 |}

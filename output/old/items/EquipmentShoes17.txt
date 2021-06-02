@@ -7,10 +7,12 @@
 |upgrade=3
 |defence=6
 |sellprice=112550
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=54
+|craftnum=55
 |levelreq=22
 |expgiven=5000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -19,26 +21,25 @@
 |resource3=Jungle Logs|quantity3=1600
 |resource4=Forest Fibres|quantity4=1000
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|JungleTree|1600}}
-{{detrecipe|3|ForestTree|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|JungleTree|1600}}
-{{detrecipe/totals|ForestTree|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Jungle Logs|1600}}
+{{detrecipe|3|Forest Fibres|1000}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Jungle Logs|1600}}
+{{detrecipe/totals|Forest Fibres|1000}}
+}}

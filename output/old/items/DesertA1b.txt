@@ -3,6 +3,7 @@
 |description=The result of letting heat and sand get it on if you know what I'm sayin.                        NOTE: This is a very rare drop from Sandy Pots
 |sellprice=60
 |source=[[Sandy Pot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.00005|1}}
@@ -13,5 +14,5 @@
 {{usedin/row|[[Viking Cap]]|2|Crafting}}
 {{usedin/row|[[Sleek Coif]]|2|Crafting}}
 {{usedin/row|[[Witch Hat]]|2|Crafting}}
-{{usedin/row|[[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
+{{usedin/row|[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
 |}

@@ -8,10 +8,12 @@
 |reach=120
 |upgrade=2
 |sellprice=1950
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=26
+|craftnum=27
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -20,14 +22,13 @@
 }}
 {{usedin/head}}
 {{usedin/row|[[Starlight]]|3|Crafting}}
-{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Jungle1|125}}
-{{detrecipe|3|CopperBar|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Jungle1|125}}
-{{detrecipe/totals|CopperBar|100}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slime Sludge|125}}
+{{detrecipe|3|Copper Bar|100}}
+|tot=
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Copper Bar|100}}
+}}

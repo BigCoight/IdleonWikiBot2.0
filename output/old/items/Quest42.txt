@@ -3,6 +3,7 @@
 |description=Hold down to open for a random reward! Or, hold down for a LONG time to open them faster... yea, dreams do come true #
 |sellprice=100
 |source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]], [[Shell Snake]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Egggulyte]]|0.05|1}}

@@ -7,6 +7,7 @@
 |upgrade=2
 |sellprice=4000
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=12|vendor=Blunder Hills|stock=1|buyprice=16000}}

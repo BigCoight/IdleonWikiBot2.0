@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Egg Capsule
 |order=9
-|category=NYI
-|effect=+{%_Critical_Damage
+|category=Event
+|effect=+{% Critical Damage
 |bonus=1
 |reqtier=1.5
 }}

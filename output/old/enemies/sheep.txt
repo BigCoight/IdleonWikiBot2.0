@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Sheepie_Walking.gif
+|image=Sheepie Walking.gif
 |attack=300
 |health=55000
 |defence=550
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Crystal Crabal|Frost Flake}}
-{{DropTable/head}}
 {{DropTable/coin|180|0.5}}
 {{DropTable/row|Floof Ploof|0.16|1}}
 {{DropTable/card|0.0001}}

@@ -8,6 +8,7 @@
 |defence=5
 |sellprice=10000
 |source=[[Snelbie]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.000002|1}}

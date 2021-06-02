@@ -2,10 +2,10 @@ Copper Bar
 {{InfoItem
 |type=Bar
 |sellprice=7
-|source=Forging, [[Fire Forge]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Forging]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.35|50}}
 |}
@@ -26,18 +26,18 @@ Copper Bar
 {{usedin/row|[[Copper Fish Rod]]|200|Crafting}}
 {{usedin/row|[[Glumlee#Learning to Smelt|Learning to Smelt]]|1|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Hearty Diggy|Hearty Diggy]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Barium Mixture|Barium Mixture]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Hearty Diggy]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Mage Is Best]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Barium Mixture]]|Lots|Alchemy}}
 |}
 Iron Bar
 {{InfoItem
 |type=Bar
 |sellprice=32
-|source=Forging, [[Fire Forge]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Forging]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|15}}
 |}
 {{usedin/head}}
@@ -56,19 +56,19 @@ Iron Bar
 {{usedin/row|[[Amarok Bodyplate]]|400|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
-{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
+{{usedin/row|[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Barley Brew|Barley Brew]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Barley Brew]]|Lots|Alchemy}}
 |}
 Gold Bar
 {{InfoItem
 |type=Bar
 |sellprice=115
-|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Forging]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
 |}
@@ -83,17 +83,17 @@ Gold Bar
 {{usedin/row|[[Viking Cap]]|400|Crafting}}
 {{usedin/row|[[Dootjat Eye]]|80|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
 |}
 Platinum Bar
 {{InfoItem
 |type=Bar
 |sellprice=460
-|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Forging]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.35|60}}
 |}
@@ -102,19 +102,19 @@ Platinum Bar
 {{usedin/row|[[Platinum Helmet]]|750|Crafting}}
 {{usedin/row|[[Platinum Platbody]]|1000|Crafting}}
 {{usedin/row|[[Platinum Shins]]|1250|Crafting}}
-{{usedin/row|[[Platinum Pickaxe]]|1000|Crafting}}
-{{usedin/row|[[Plat Fishing Rod]]|1000|Crafting}}
+{{usedin/row|[[Platinum Pickaxe]]|800|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|800|Crafting}}
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
-{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|All For Kill]]|Lots|Alchemy}}
 |}
 Dementia Bar
 {{InfoItem
 |type=Bar
 |sellprice=1500
-|source=Forging, [[Cinder Forge]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Forging]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|80}}
 |}
 {{usedin/head}}
@@ -129,11 +129,9 @@ Void Bar
 {{InfoItem
 |type=Bar
 |sellprice=6200
-|source=Forging, [[Cinder Forge]]
+|source=[[Forging]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
-|}
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Helmet]]|1000|Crafting}}
 {{usedin/row|[[Void Imperium Platebody]]|500|Crafting}}
@@ -145,23 +143,27 @@ Lustre Bar
 {{InfoItem
 |type=Bar
 |sellprice=12500
-|source=Forging
+|source=[[Forging]]
+|notes= 
 }}
 Starfire Bar
 {{InfoItem
 |type=Bar
 |sellprice=1
-|source=Forging
+|source=[[Forging]]
+|notes= 
 }}
 Dreadlo Bar
 {{InfoItem
 |type=Bar
 |sellprice=1
-|source=Forging
+|source=[[Forging]]
+|notes= 
 }}
 Godshard Bar
 {{InfoItem
 |type=Bar
 |sellprice=1
-|source=Forging
+|source=[[Forging]]
+|notes= 
 }}

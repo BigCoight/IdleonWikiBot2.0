@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Mosquisnow
 |order=10
-|category=Bosses
-|effect=+{%_Total_Catching_Efficiency
+|category=Hard Resources
+|effect=+{% Total Catching Efficiency
 |bonus=7
 |reqtier=10
 |source=[[Catching#Drops|Catching Mosquisnow]]

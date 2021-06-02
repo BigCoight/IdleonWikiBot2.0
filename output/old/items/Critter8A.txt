@@ -2,8 +2,9 @@
 |type=Critter
 |description=Oh I guess this one is a scarab, not a beetle. You can tell because of the way it is.
 |sellprice=3
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
+{{usedin/row|[[Lord of the Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
 |}

@@ -10,13 +10,15 @@ Copper Boots
 |upgrade=2
 |defence=2
 |sellprice=875
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=19
+|craftnum=20
 |levelreq=10
 |expgiven=110
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=125
 }}
 {{usedin/head}}
@@ -24,13 +26,12 @@ Copper Boots
 {{usedin/row|[[Goo Galoshes]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|125}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|125}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|125}}
+|tot=
+{{detrecipe/totals|Copper Bar|125}}
+}}
 Iron Boots
 {{InfoItem
 |class=All
@@ -42,13 +43,15 @@ Iron Boots
 |upgrade=2
 |defence=4
 |sellprice=11750
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=38
+|craftnum=39
 |levelreq=13
 |expgiven=600
-|recipefrom=Start
+|recipefrom=
 |resource1=Trusty Nails|quantity1=500
 |resource2=Iron Bar|quantity2=125
 |resource3=Copper Boots|quantity3=2
@@ -59,18 +62,17 @@ Iron Boots
 {{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat5|500}}
-{{detrecipe|3|IronBar|125}}
-{{detrecipe|3|EquipmentShoes1|2}}
-{{detrecipe|40|CopperBar|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat5|500}}
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|CopperBar|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Trusty Nails|500}}
+{{detrecipe|3|Iron Bar|125}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|250}}
+|tot=
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|250}}
+}}
 Gold Boots
 {{InfoItem
 |class=All
@@ -83,13 +85,15 @@ Gold Boots
 |upgrade=3
 |defence=8
 |sellprice=92700
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=3
+|craftnum=4
 |levelreq=20
 |expgiven=4200
-|recipefrom=Start
+|recipefrom=
 |resource1=Gold Bar|quantity1=600
 |resource2=Iron Boots|quantity2=2
 |resource3=Distilled Water|quantity3=4
@@ -102,23 +106,22 @@ Gold Boots
 {{usedin/row|[[Bandito Boots]]|1|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|GoldBar|600}}
-{{detrecipe|3|EquipmentShoes15|2}}
-{{detrecipe|40|CraftMat5|1000}}
-{{detrecipe|40|IronBar|250}}
-{{detrecipe|40|EquipmentShoes1|4}}
-{{detrecipe|80|CopperBar|500}}
-{{detrecipe|3|PureWater|4}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|4}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Bar|600}}
+{{detrecipe|3|Iron Boots|2}}
+{{detrecipe|40|Trusty Nails|1000}}
+{{detrecipe|40|Iron Bar|250}}
+{{detrecipe|40|Copper Boots|4}}
+{{detrecipe|80|Copper Bar|500}}
+{{detrecipe|3|Distilled Water|4}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|4}}
+}}
 Amarok Paws
 {{InfoItem
 |class=All
@@ -131,10 +134,12 @@ Amarok Paws
 |upgrade=5
 |defence=10
 |sellprice=13500
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=67
+|craftnum=68
 |levelreq=14
 |expgiven=700
 |recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
@@ -142,23 +147,22 @@ Amarok Paws
 |resource2=Grass Leaf|quantity2=125
 |resource3=Iron Boots|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Quest17|5}}
-{{detrecipe|3|Leaf1|125}}
-{{detrecipe|3|EquipmentShoes15|1}}
-{{detrecipe|40|CraftMat5|500}}
-{{detrecipe|40|IronBar|125}}
-{{detrecipe|40|EquipmentShoes1|2}}
-{{detrecipe|80|CopperBar|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest17|5}}
-{{detrecipe/totals|Leaf1|125}}
-{{detrecipe/totals|CraftMat5|500}}
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|CopperBar|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Amarok Slab|5}}
+{{detrecipe|3|Grass Leaf|125}}
+{{detrecipe|3|Iron Boots|1}}
+{{detrecipe|40|Trusty Nails|500}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Copper Boots|2}}
+{{detrecipe|80|Copper Bar|250}}
+|tot=
+{{detrecipe/totals|Amarok Slab|5}}
+{{detrecipe/totals|Grass Leaf|125}}
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|250}}
+}}
 Platinum Boots
 {{InfoItem
 |class=All
@@ -172,13 +176,15 @@ Platinum Boots
 |upgrade=3
 |defence=15
 |sellprice=550100
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=23
+|craftnum=24
 |levelreq=32
 |expgiven=55000
-|recipefrom=Start
+|recipefrom=
 |resource1=Tropilogs|quantity1=8000
 |resource2=Jellyfish|quantity2=8000
 |resource3=Gold Boots|quantity3=3
@@ -188,28 +194,27 @@ Platinum Boots
 {{usedin/row|[[Dementia Boots]]|1|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|PalmTree|8000}}
-{{detrecipe|3|Fish3|8000}}
-{{detrecipe|3|EquipmentShoes3|3}}
-{{detrecipe|40|GoldBar|1800}}
-{{detrecipe|40|EquipmentShoes15|6}}
-{{detrecipe|80|CraftMat5|3000}}
-{{detrecipe|80|IronBar|750}}
-{{detrecipe|80|EquipmentShoes1|12}}
-{{detrecipe|120|CopperBar|1500}}
-{{detrecipe|40|PureWater|12}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|PalmTree|8000}}
-{{detrecipe/totals|Fish3|8000}}
-{{detrecipe/totals|GoldBar|1800}}
-{{detrecipe/totals|CraftMat5|3000}}
-{{detrecipe/totals|IronBar|750}}
-{{detrecipe/totals|CopperBar|1500}}
-{{detrecipe/totals|PureWater|12}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tropilogs|8000}}
+{{detrecipe|3|Jellyfish|8000}}
+{{detrecipe|3|Gold Boots|3}}
+{{detrecipe|40|Gold Bar|1800}}
+{{detrecipe|40|Iron Boots|6}}
+{{detrecipe|80|Trusty Nails|3000}}
+{{detrecipe|80|Iron Bar|750}}
+{{detrecipe|80|Copper Boots|12}}
+{{detrecipe|120|Copper Bar|1500}}
+{{detrecipe|40|Distilled Water|12}}
+|tot=
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|1500}}
+{{detrecipe/totals|Distilled Water|12}}
+}}
 Dementia Boots
 {{InfoItem
 |class=All
@@ -223,13 +228,15 @@ Dementia Boots
 |upgrade=4
 |defence=22
 |sellprice=1299800
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=3
+|craftnum=4
 |levelreq=39
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=
 |resource1=Poison Froge|quantity1=3
 |resource2=Platinum Boots|quantity2=1
 |resource3=Dementia Bar|quantity3=500
@@ -237,32 +244,31 @@ Dementia Boots
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Kicks]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter1A|3}}
-{{detrecipe|3|EquipmentShoes4|1}}
-{{detrecipe|40|PalmTree|8000}}
-{{detrecipe|40|Fish3|8000}}
-{{detrecipe|40|EquipmentShoes3|3}}
-{{detrecipe|80|GoldBar|1800}}
-{{detrecipe|80|EquipmentShoes15|6}}
-{{detrecipe|120|CraftMat5|3000}}
-{{detrecipe|120|IronBar|750}}
-{{detrecipe|120|EquipmentShoes1|12}}
-{{detrecipe|160|CopperBar|1500}}
-{{detrecipe|80|PureWater|12}}
-{{detrecipe|3|DementiaBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter1A|3}}
-{{detrecipe/totals|PalmTree|8000}}
-{{detrecipe/totals|Fish3|8000}}
-{{detrecipe/totals|GoldBar|1800}}
-{{detrecipe/totals|CraftMat5|3000}}
-{{detrecipe/totals|IronBar|750}}
-{{detrecipe/totals|CopperBar|1500}}
-{{detrecipe/totals|DementiaBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Poison Froge|3}}
+{{detrecipe|3|Platinum Boots|1}}
+{{detrecipe|40|Tropilogs|8000}}
+{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Gold Boots|3}}
+{{detrecipe|80|Gold Bar|1800}}
+{{detrecipe|80|Iron Boots|6}}
+{{detrecipe|120|Trusty Nails|3000}}
+{{detrecipe|120|Iron Bar|750}}
+{{detrecipe|120|Copper Boots|12}}
+{{detrecipe|160|Copper Bar|1500}}
+{{detrecipe|80|Distilled Water|12}}
+{{detrecipe|3|Dementia Bar|500}}
+|tot=
+{{detrecipe/totals|Poison Froge|3}}
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|1500}}
+{{detrecipe/totals|Dementia Bar|500}}
+}}
 Efaunts Broken Ankles
 {{InfoItem
 |class=All
@@ -275,10 +281,12 @@ Efaunts Broken Ankles
 |upgrade=6
 |defence=18
 |sellprice=550345
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=63
+|craftnum=64
 |levelreq=32
 |expgiven=25000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -286,33 +294,32 @@ Efaunts Broken Ankles
 |resource2=Nuget Cake|quantity2=3
 |resource3=Platinum Boots|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|5}}
-{{detrecipe|3|DesertA3b|3}}
-{{detrecipe|3|EquipmentShoes4|1}}
-{{detrecipe|40|PalmTree|8000}}
-{{detrecipe|40|Fish3|8000}}
-{{detrecipe|40|EquipmentShoes3|3}}
-{{detrecipe|80|GoldBar|1800}}
-{{detrecipe|80|EquipmentShoes15|6}}
-{{detrecipe|120|CraftMat5|3000}}
-{{detrecipe|120|IronBar|750}}
-{{detrecipe|120|EquipmentShoes1|12}}
-{{detrecipe|160|CopperBar|1500}}
-{{detrecipe|80|PureWater|12}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|5}}
-{{detrecipe/totals|DesertA3b|3}}
-{{detrecipe/totals|PalmTree|8000}}
-{{detrecipe/totals|Fish3|8000}}
-{{detrecipe/totals|GoldBar|1800}}
-{{detrecipe/totals|CraftMat5|3000}}
-{{detrecipe/totals|IronBar|750}}
-{{detrecipe/totals|CopperBar|1500}}
-{{detrecipe/totals|PureWater|12}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|5}}
+{{detrecipe|3|Nuget Cake|3}}
+{{detrecipe|3|Platinum Boots|1}}
+{{detrecipe|40|Tropilogs|8000}}
+{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Gold Boots|3}}
+{{detrecipe|80|Gold Bar|1800}}
+{{detrecipe|80|Iron Boots|6}}
+{{detrecipe|120|Trusty Nails|3000}}
+{{detrecipe|120|Iron Bar|750}}
+{{detrecipe|120|Copper Boots|12}}
+{{detrecipe|160|Copper Bar|1500}}
+{{detrecipe|80|Distilled Water|12}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|5}}
+{{detrecipe/totals|Nuget Cake|3}}
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|1500}}
+{{detrecipe/totals|Distilled Water|12}}
+}}
 Void Imperium Kicks
 {{InfoItem
 |class=All
@@ -326,48 +333,49 @@ Void Imperium Kicks
 |upgrade=4
 |defence=30
 |sellprice=9494600
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=27
+|craftnum=28
 |levelreq=46
 |expgiven=500000
-|recipefrom=Start
+|recipefrom=
 |resource1=Flycicle|quantity1=60000
 |resource2=Dementia Boots|quantity2=2
 |resource3=Void Bar|quantity3=725
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Bug6|60000}}
-{{detrecipe|3|EquipmentShoes5|2}}
-{{detrecipe|40|Critter1A|6}}
-{{detrecipe|40|EquipmentShoes4|2}}
-{{detrecipe|80|PalmTree|16000}}
-{{detrecipe|80|Fish3|16000}}
-{{detrecipe|80|EquipmentShoes3|6}}
-{{detrecipe|120|GoldBar|3600}}
-{{detrecipe|120|EquipmentShoes15|12}}
-{{detrecipe|160|CraftMat5|6000}}
-{{detrecipe|160|IronBar|1500}}
-{{detrecipe|160|EquipmentShoes1|24}}
-{{detrecipe|200|CopperBar|3000}}
-{{detrecipe|120|PureWater|24}}
-{{detrecipe|40|DementiaBar|1000}}
-{{detrecipe|3|VoidBar|725}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug6|60000}}
-{{detrecipe/totals|Critter1A|6}}
-{{detrecipe/totals|PalmTree|16000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|GoldBar|3600}}
-{{detrecipe/totals|CraftMat5|6000}}
-{{detrecipe/totals|IronBar|1500}}
-{{detrecipe/totals|CopperBar|3000}}
-{{detrecipe/totals|DementiaBar|1000}}
-{{detrecipe/totals|VoidBar|725}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Flycicle|60000}}
+{{detrecipe|3|Dementia Boots|2}}
+{{detrecipe|40|Poison Froge|6}}
+{{detrecipe|40|Platinum Boots|2}}
+{{detrecipe|80|Tropilogs|16000}}
+{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Gold Boots|6}}
+{{detrecipe|120|Gold Bar|3600}}
+{{detrecipe|120|Iron Boots|12}}
+{{detrecipe|160|Trusty Nails|6000}}
+{{detrecipe|160|Iron Bar|1500}}
+{{detrecipe|160|Copper Boots|24}}
+{{detrecipe|200|Copper Bar|3000}}
+{{detrecipe|120|Distilled Water|24}}
+{{detrecipe|40|Dementia Bar|1000}}
+{{detrecipe|3|Void Bar|725}}
+|tot=
+{{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Poison Froge|6}}
+{{detrecipe/totals|Tropilogs|16000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Gold Bar|3600}}
+{{detrecipe/totals|Trusty Nails|6000}}
+{{detrecipe/totals|Iron Bar|1500}}
+{{detrecipe/totals|Copper Bar|3000}}
+{{detrecipe/totals|Dementia Bar|1000}}
+{{detrecipe/totals|Void Bar|725}}
+}}
 Hermes Boots
 {{InfoItem
 |class=All
@@ -379,6 +387,7 @@ Hermes Boots
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Goo Galoshes
 {{InfoItem
@@ -392,13 +401,15 @@ Goo Galoshes
 |misc=5% Money
 |upgrade=3
 |sellprice=13750
+|source=[[Smithing]], [[Slime|Recipe from Slime]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=43
+|craftnum=44
 |levelreq=11
 |expgiven=300
-|recipefrom=Start
+|recipefrom=[[Slime]]
 |resource1=Slime Sludge|quantity1=600
 |resource2=Jungle Logs|quantity2=1000
 |resource3=Copper Boots|quantity3=2
@@ -406,18 +417,17 @@ Goo Galoshes
 {{usedin/head}}
 {{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Jungle1|600}}
-{{detrecipe|3|JungleTree|1000}}
-{{detrecipe|3|EquipmentShoes1|2}}
-{{detrecipe|40|CopperBar|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Jungle1|600}}
-{{detrecipe/totals|JungleTree|1000}}
-{{detrecipe/totals|CopperBar|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slime Sludge|600}}
+{{detrecipe|3|Jungle Logs|1000}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|250}}
+|tot=
+{{detrecipe/totals|Slime Sludge|600}}
+{{detrecipe/totals|Jungle Logs|1000}}
+{{detrecipe/totals|Copper Bar|250}}
+}}
 Yeti Walkers
 {{InfoItem
 |class=All
@@ -429,6 +439,7 @@ Yeti Walkers
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Flip Flops
 {{InfoItem
@@ -439,13 +450,15 @@ Flip Flops
 |misc=2% Movement Speed
 |upgrade=1
 |sellprice=430
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=7
+|craftnum=8
 |levelreq=6
 |expgiven=10
-|recipefrom=Start
+|recipefrom=
 |resource1=Bean Slices|quantity1=30
 |resource2=Copper Bar|quantity2=20
 |resource3=Grass Leaf|quantity3=20
@@ -455,17 +468,16 @@ Flip Flops
 {{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands3|30}}
-{{detrecipe|3|CopperBar|20}}
-{{detrecipe|3|Leaf1|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands3|30}}
-{{detrecipe/totals|CopperBar|20}}
-{{detrecipe/totals|Leaf1|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bean Slices|30}}
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Grass Leaf|20}}
+|tot=
+{{detrecipe/totals|Bean Slices|30}}
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Grass Leaf|20}}
+}}
 Flap Flops
 {{InfoItem
 |class=All
@@ -477,6 +489,7 @@ Flap Flops
 |misc=3% Movement Speed
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Floop Flops
 {{InfoItem
@@ -489,6 +502,7 @@ Floop Flops
 |misc=4% Movement Speed
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Flux Flops
 {{InfoItem
@@ -502,6 +516,7 @@ Flux Flops
 |upgrade=3
 |defence=40
 |sellprice=200
+|notes= 
 }}
 Gaia Shoes
 {{InfoItem
@@ -513,6 +528,7 @@ Gaia Shoes
 |misc=2% Xp From Monsters
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Cauldrunners
 {{InfoItem
@@ -524,6 +540,7 @@ Cauldrunners
 |upgrade=3
 |defence=4
 |sellprice=200
+|notes= 
 }}
 Cavern Trekkers
 {{InfoItem
@@ -536,10 +553,12 @@ Cavern Trekkers
 |upgrade=3
 |defence=10
 |sellprice=105850
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=52
+|craftnum=53
 |levelreq=22
 |expgiven=5500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -548,29 +567,28 @@ Cavern Trekkers
 |resource3=Copper Ore|quantity3=1500
 |resource4=Iron Ore|quantity4=1200
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|Copper|1500}}
-{{detrecipe|3|Iron|1200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|Copper|1500}}
-{{detrecipe/totals|Iron|1200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Copper Ore|1500}}
+{{detrecipe|3|Iron Ore|1200}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Copper Ore|1500}}
+{{detrecipe/totals|Iron Ore|1200}}
+}}
 Logger Heels
 {{InfoItem
 |class=All
@@ -581,10 +599,12 @@ Logger Heels
 |upgrade=3
 |defence=6
 |sellprice=112550
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=54
+|craftnum=55
 |levelreq=22
 |expgiven=5000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -593,29 +613,28 @@ Logger Heels
 |resource3=Jungle Logs|quantity3=1600
 |resource4=Forest Fibres|quantity4=1000
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|JungleTree|1600}}
-{{detrecipe|3|ForestTree|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|JungleTree|1600}}
-{{detrecipe/totals|ForestTree|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Jungle Logs|1600}}
+{{detrecipe|3|Forest Fibres|1000}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Jungle Logs|1600}}
+{{detrecipe/totals|Forest Fibres|1000}}
+}}
 Angler Boots
 {{InfoItem
 |class=All
@@ -626,10 +645,12 @@ Angler Boots
 |upgrade=3
 |defence=8
 |sellprice=108950
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=53
+|craftnum=54
 |levelreq=24
 |expgiven=6500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -638,29 +659,28 @@ Angler Boots
 |resource3=Goldfish|quantity3=1250
 |resource4=Hermit Can|quantity4=1000
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|Fish1|1250}}
-{{detrecipe|3|Fish2|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|Fish1|1250}}
-{{detrecipe/totals|Fish2|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Goldfish|1250}}
+{{detrecipe|3|Hermit Can|1000}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Goldfish|1250}}
+{{detrecipe/totals|Hermit Can|1000}}
+}}
 Bandito Boots
 {{InfoItem
 |class=All
@@ -671,10 +691,12 @@ Bandito Boots
 |upgrade=3
 |defence=8
 |sellprice=110200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=55
+|craftnum=56
 |levelreq=24
 |expgiven=6500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -683,29 +705,28 @@ Bandito Boots
 |resource3=Fly|quantity3=2000
 |resource4=Butterfly|quantity4=1250
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|Bug1|2000}}
-{{detrecipe|3|Bug2|1250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|Bug1|2000}}
-{{detrecipe/totals|Bug2|1250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Fly|2000}}
+{{detrecipe|3|Butterfly|1250}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Butterfly|1250}}
+}}
 Eyern Boots
 {{InfoItem
 |class=All
@@ -715,4 +736,5 @@ Eyern Boots
 |upgrade=2
 |defence=1
 |sellprice=20
+|notes= 
 }}

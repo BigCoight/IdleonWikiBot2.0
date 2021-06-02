@@ -3,6 +3,7 @@
 |description=Why yes, I have also played that game for 100s of hours since it released over 10 years ago!
 |sellprice=200
 |source=[[Neyeptune]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.00005|1}}

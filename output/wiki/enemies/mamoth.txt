@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=mamooth_Walking.gif
+|image=Mamooth Walking.gif
 |attack=580
 |health=115000
 |defence=1400
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Bloque|Snowman}}
-{{DropTable/head}}
 {{DropTable/coin|260|0.39}}
 {{DropTable/row|Mamooth Tusk|0.16|1}}
 {{DropTable/card|0.0001}}

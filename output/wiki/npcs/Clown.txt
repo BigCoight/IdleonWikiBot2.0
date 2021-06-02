@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Scorpio
-|mmm=Deitz
-|birthweight=8.63
+|starsign=Pisces
+|mmm=Vader
+|birthweight=7.52
 |notes=fillme
 }}
 {{Quest/head}}

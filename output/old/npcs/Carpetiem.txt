@@ -1,25 +1,25 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Scorpio
-|mmm=Duffman
-|birthweight=9.68
-|notes=fillme
+{{npc
+|location=Slamabam Straightaway
+|noquest=3
+|repeatable=Unknown
+|birthweight=1.2
+|starsign=Libra
+|mmm=Ramirez
+|notes=[[Carpetiem]] is found in the [[Worlds#D8 - Slamabam Straightaway|Slamabam Straightaway]].
 }}
 {{Quest/head}}
 {{Quest
 |name=Darn Lazy Gamers!
 |text=Kill 750 Potatos. Idle kills don't count.
 |difficulty=3
-|requirements=Potato Kills: >= 750. Starting at 0. 
+|requirements=Potato Kills: >= 750. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Silver STR Obol}}, 3x {{CraftReq|Gem}}, 80000 Class Experience
 }}
 {{Quest
 |name=Old Timey Craftin'
 |difficulty=4
-|requirements=Bullets Crafted: >= 225. Starting at 0. Unopened Chest: >= 1. Starting at 1. 
+|requirements=Bullets Crafted: >= 225. Starting at 0., Unopened Chest: >= 1. Starting at 1.
 |consumed=No
 |rewards=15x {{CraftReq|Distilled Water}}, 2x {{CraftReq|Small Experience Balloon}}, 6000 Smithing Experience
 }}
@@ -27,7 +27,7 @@
 |name=Be like Buster!
 |text=Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.
 |difficulty=3
-|requirements=Epic KO: >= 1. Starting at 0. 
+|requirements=Epic KO: >= 1. Starting at 0.
 |consumed=No
 |rewards=4x {{CraftReq|Gem}}, 120000 Class Experience
 }}

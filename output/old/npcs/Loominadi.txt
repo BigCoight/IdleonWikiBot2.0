@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Pisces
-|mmm=Davidson
-|birthweight=5.63
-|notes=fillme
+{{npc
+|location=Up Up Down Down
+|noquest=3
+|repeatable=Unknown
+|birthweight=3.03
+|starsign=Libra
+|mmm=Thomas
+|notes=[[Loominadi]] is found in [[Worlds#D10 - Up Up Down Down|Up Up Down Down]].
+
+There are fewer than 30 vials in the game, so its second quest isn't completable yet.
 }}
 {{Quest/head}}
 {{Quest
@@ -20,7 +22,7 @@
 |name=Uh, Something About Vials?
 |text=Upgrade 30 Vials up to light-blue rarity or higher
 |difficulty=5
-|requirements=Blue Alch Vials: >= 30. Starting at 0. 
+|requirements=Blue Alch Vials: >= 30. Starting at 0.
 |consumed=No
 |rewards=3x {{CraftReq|Mystery Upgrade Stone I}}, 10x {{CraftReq|Gem}}, 15x {{CraftReq|Distilled Water}}
 }}
@@ -28,7 +30,7 @@
 |name=Journey to the Center of the Blundermines
 |text=Reach the Slip Slidy Ledge mining area
 |difficulty=5
-|requirements=Slip Slidy Ledge: >= 1. Starting at 0. 
+|requirements=Slip Slidy Ledge: >= 1. Starting at 0.
 |consumed=No
 |rewards=5x {{CraftReq|Mystery Upgrade Stone I}}, 15x {{CraftReq|Gem}}
 }}

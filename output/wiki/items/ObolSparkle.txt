@@ -8,6 +8,7 @@ Dementia Obol of Magisterial Metals
 |str=5
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}
 Dementia Obol of WOWOWOWWO
 {{InfoItem
@@ -19,6 +20,7 @@ Dementia Obol of WOWOWOWWO
 |wis=5
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}
 Dementia Obol of Monument Marlins
 {{InfoItem
@@ -30,6 +32,7 @@ Dementia Obol of Monument Marlins
 |str=5
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}
 Dementia Obol of Idk Yet
 {{InfoItem
@@ -41,6 +44,7 @@ Dementia Obol of Idk Yet
 |agi=5
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}
 Dementia Obol of Never Ending Luck
 {{InfoItem
@@ -51,4 +55,5 @@ Dementia Obol of Never Ending Luck
 |misc=30% Drop Chance
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}

@@ -7,4 +7,5 @@
 |wis=5
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}

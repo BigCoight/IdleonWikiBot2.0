@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Pincermin_Walking.gif
+|image=Pincermin Walking.gif
 |attack=112
 |health=15500
 |defence=240
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sand Castle|Mashed Potato}}
-{{DropTable/head}}
 {{DropTable/coin|90|0.38}}
 {{DropTable/row|Pincer Arm|0.18|1}}
 {{DropTable/card|0.0001}}

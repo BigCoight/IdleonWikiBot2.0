@@ -3,6 +3,7 @@
 |description=You could probably start a restaurant selling these! Just employ an overeager cook, give the place a cool name like The Crispy Crustacean, and you'd be set!
 |sellprice=80
 |source=[[Crabcake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.205|1}}
@@ -11,5 +12,5 @@
 {{usedin/row|[[Golden Axe]]|2000|Crafting}}
 {{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|150|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
 |}

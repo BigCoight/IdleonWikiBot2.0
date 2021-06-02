@@ -9,13 +9,15 @@
 |reach=60
 |upgrade=2
 |sellprice=530
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=13
+|craftnum=14
 |levelreq=6
 |expgiven=15
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=20
 |resource2=Oak Logs|quantity2=75
 |resource3=Trusty Nails|quantity3=20
@@ -23,14 +25,13 @@
 {{usedin/head}}
 {{usedin/row|[[Bandage Wraps]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|20}}
-{{detrecipe|3|OakTree|75}}
-{{detrecipe|3|CraftMat5|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|20}}
-{{detrecipe/totals|OakTree|75}}
-{{detrecipe/totals|CraftMat5|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|20}}
+{{detrecipe|3|Oak Logs|75}}
+{{detrecipe|3|Trusty Nails|20}}
+|tot=
+{{detrecipe/totals|Copper Bar|20}}
+{{detrecipe/totals|Oak Logs|75}}
+{{detrecipe/totals|Trusty Nails|20}}
+}}

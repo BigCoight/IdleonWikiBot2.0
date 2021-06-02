@@ -2,7 +2,7 @@
 |title=Thermister
 |order=7
 |category=Frostfire Tyundra
-|effect=+{%_Critical_Damage
+|effect=+{% Critical Damage
 |bonus=4
 |reqtier=15
 |source=[[Thermister]]

@@ -1,7 +1,9 @@
 {{InfoItem
 |type=Log
 |sellprice=10
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
@@ -14,6 +16,6 @@
 {{usedin/row|[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]|1|Quests}}
 {{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|1000|Quests}}
 {{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1000|Quests}}
-{{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
 |}

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Snowman_Walking.gif
+|image=Snowman Walking.gif
 |attack=690
 |health=135000
 |defence=1700
@@ -13,8 +13,7 @@
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
-{{EnemyNavigation|mamooth|Penguin}}
-{{DropTable/head}}
+{{EnemyNavigation|Mamooth|Penguin}}
 {{DropTable/coin|285|0.37}}
 {{DropTable/row|Snow Ball|0.16|1}}
 {{DropTable/card|0.0001}}

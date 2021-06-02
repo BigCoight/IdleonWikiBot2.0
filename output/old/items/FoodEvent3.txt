@@ -3,6 +3,7 @@
 |description=Increases Fishing Spd by 25% 1% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Giftmas Blobulyte]]|0.25|2}}

@@ -2,25 +2,26 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Souls.
 |sellprice=15500
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=71
+|craftnum=72
 |levelreq=28
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Dune Soul|quantity1=1500
 |resource2=Redox Salts|quantity2=20
 }}
 {{usedin/head}}
 {{usedin/row|[[Big Soul Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul2|1500}}
-{{detrecipe|3|Refinery1|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul2|1500}}
-{{detrecipe/totals|Refinery1|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dune Soul|1500}}
+{{detrecipe|3|Redox Salts|20}}
+|tot=
+{{detrecipe/totals|Dune Soul|1500}}
+{{detrecipe/totals|Redox Salts|20}}
+}}

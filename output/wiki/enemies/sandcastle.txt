@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Sand Castle_Walking.gif
+|image=Sand Castle Walking.gif
 |attack=99
 |health=13000
 |defence=205
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Mafioso|Pincermin}}
-{{DropTable/head}}
 {{DropTable/coin|80|0.4}}
 {{DropTable/row|Furled Flag|0.19|1}}
 {{DropTable/row|Claiming Cashe|0.05|1|([[Goldric]])}}

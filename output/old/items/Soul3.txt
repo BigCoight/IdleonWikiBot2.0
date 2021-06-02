@@ -2,13 +2,11 @@
 |type=Soul
 |description=It's smiling as if it knows something that you don't...
 |sellprice=20
-|source=Worshiping?, [[Rooted Soul]], [[Rooted Soul]], [[Rooted Soul]], [[Rooted Soul]]
+|source=[[Worship]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Rooted Soul]]|1|1}}
-|}
 {{usedin/head}}
 {{usedin/row|[[Prickle Skull]]|12500|Crafting}}
 {{usedin/row|[[Big Soul Pouch]]|8000|Crafting}}
-{{usedin/row|[[Quicc Cauldron#Cuz I Catch Em All|Cuz I Catch Em All]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Cuz I Catch Em All]]|Lots|Alchemy}}
 |}

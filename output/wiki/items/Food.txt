@@ -4,13 +4,14 @@ Nomwich
 |description=Auto-Used when your health goes below 50%. Restores 20 HP. Has a 30 second Cooldown.
 |sellprice=2
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Green Mushroom]], [[Scripticus#Mr. Worldwide|Mr. Worldwide]], [[DropTable1]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=500|buyprice=8}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Cramped Food Pouch]]|75|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
 |}
 Hot Dog
 {{InfoItem
@@ -18,6 +19,7 @@ Hot Dog
 |description=Auto-Used when your health goes below 50%. Restores 50 HP. Has a 30 second Cooldown.
 |sellprice=7
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[DropTable2]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=500|buyprice=28}}
@@ -33,6 +35,7 @@ Cheezy Pizza
 |description=Auto-Used when your health goes below 50%. Restores 125 HP. Has a 30 second Cooldown.
 |sellprice=20
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Baby Boa]], [[Carrotman]], [[DropTable3]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=500|buyprice=80}}
@@ -46,44 +49,45 @@ Peanut
 |type=Health Food
 |description=Auto-Used when your health goes below 75%. Restores 80 HP. Has a 20 second Cooldown. The favorite snack of all bloblytes!
 |sellprice=20
-|source=[[Post Office#Simple Shippin|Simple Shippin]]
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=50
+|craftnum=51
 |levelreq=5
 |expgiven=2
-|recipefrom=Start
+|recipefrom=
 |resource1=Hot Dog|quantity1=2
 |resource2=Copper Ore|quantity2=1
 |resource3=Bleach Logs|quantity3=1
 }}
 {{usedin/head}}
 {{usedin/row|[[Golden Peanut]]|100|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|100|Quests}}
+{{usedin/row|[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|100|Quests}}
 {{usedin/row|[[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]]|100|Quests}}
 {{usedin/row|[[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]]|250|Quests}}
 {{usedin/row|[[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]]|700|Quests}}
 {{usedin/row|[[Rocklyte#How It's Made, Episode 7. The Super Peanut|How It's Made, Episode 7. The Super Peanut]]|1000|Quests}}
 {{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|100|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|FoodHealth3|2}}
-{{detrecipe|3|Copper|1}}
-{{detrecipe|3|BirchTree|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth3|2}}
-{{detrecipe/totals|Copper|1}}
-{{detrecipe/totals|BirchTree|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hot Dog|2}}
+{{detrecipe|3|Copper Ore|1}}
+{{detrecipe|3|Bleach Logs|1}}
+|tot=
+{{detrecipe/totals|Hot Dog|2}}
+{{detrecipe/totals|Copper Ore|1}}
+{{detrecipe/totals|Bleach Logs|1}}
+}}
 Saucy Weiner
 {{InfoItem
 |type=Health Food
 |description=Auto-Used when your health goes below 50%. Restores 700 HP. Has a 30 second Cooldown.
 |sellprice=120
 |source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=2|vendor=YumYum Grotto|stock=25000|buyprice=480}}
@@ -94,13 +98,14 @@ Kebab Sticks
 |description=Auto-Used when your health goes below 50%. Restores 300 HP. Has a 30 second Cooldown.
 |sellprice=48
 |source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[DropTable6]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=YumYum Grotto|stock=25000|buyprice=192}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Buttered Toasted Butter]]|1|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|500|Quests}}
+{{usedin/row|[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|500|Quests}}
 {{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|130|Quests}}
 |}
 Meat Pie
@@ -109,6 +114,7 @@ Meat Pie
 |description=Auto-Used when your health goes below 50%. Restores 500 HP. Has a 30 second Cooldown.
 |sellprice=80
 |source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[DropTable7]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=YumYum Grotto|stock=25000|buyprice=320}}
@@ -122,6 +128,7 @@ Mountain Bread
 |description=Auto-Used when your health goes below 50%. Restores 750 HP. Has a 30 second Cooldown.
 |sellprice=140
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Snowman]], [[DropTable15]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=Frostbite Towndra|stock=25000|buyprice=560}}
@@ -132,6 +139,7 @@ Yeti Ham
 |description=Auto-Used when your health goes below 60%. Restores 1000 HP. Has a 30 second Cooldown.
 |sellprice=190
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Bop Box]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Frostbite Towndra|stock=25000|buyprice=760}}
@@ -145,6 +153,7 @@ Sheepie Dairy
 |description=Auto-Used when your health goes below 50%. Restores 1500 HP. Has a 30 second Cooldown.
 |sellprice=310
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=2|vendor=Frostbite Towndra|stock=25000|buyprice=1240}}
@@ -155,6 +164,7 @@ Cranberry Jam
 |description=Auto-Used when your health goes below 50%. Restores 200 HP. Has a 30 second Cooldown.
 |sellprice=32
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=2|vendor=Encroaching Forest Villas|stock=1000|buyprice=128}}
@@ -164,6 +174,7 @@ Crabby Cake Supreme
 |type=Health Food
 |description=Auto-Used when your health goes below 35%. Restores 700 HP. Has a 60 second Cooldown.
 |sellprice=120
+|notes= 
 }}
 Milk Choco
 {{InfoItem
@@ -171,6 +182,7 @@ Milk Choco
 |description=Auto-Used when your health goes below 80%. Restores 420 HP. Has a 20 second Cooldown.
 |sellprice=10
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Loveulyte]]|0.25|2}}
@@ -183,6 +195,7 @@ Magic Meatloaf
 |description=Auto-Used when your health goes below 30%. Restores 2000 HP. Has a 10 second Cooldown.
 |sellprice=300
 |source=[[Amarok]], [[Chaotic Amarok]], [[Nightmare Amarok]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.05|1}}
@@ -190,7 +203,7 @@ Magic Meatloaf
 {{detdrops|[[Nightmare Amarok]]|0.05|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Picnic_Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
 |}
 Small Strength Potion
 {{InfoItem
@@ -198,6 +211,7 @@ Small Strength Potion
 |description=Increases Base Dmg by 10. 15% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=5
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[DropTable5]], [[DropTable11]], [[DropTable12]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Blunder Hills|stock=400|buyprice=20}}
@@ -208,6 +222,7 @@ Average Strength Potion
 |description=Increases Base Dmg by 30. 13% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=25
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[DropTable2]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Encroaching Forest Villas|stock=500|buyprice=100}}
@@ -223,6 +238,7 @@ Decent Strength Potion
 |description=Increases Base Dmg by 100. 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=150
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[DropTable14]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=8|vendor=Frostbite Towndra|stock=20000|buyprice=600}}
@@ -233,20 +249,22 @@ Small Life Potion
 |description=Increases Base HP by 30. 5% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=4
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[DropTable3b]], [[DropTable3c]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Blunder Hills|stock=400|buyprice=16}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Saucy Logfries]]|3|Crafting}}
-{{usedin/row|[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]]|8500|Quests}}
+{{usedin/row|[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]]|8500|Quests}}
 |}
 Average Life Potion
 {{InfoItem
 |type=Boost Food
 |description=Increases Base HP by 120. 4% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=30
-|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Gigafrog]], [[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Gigafrog]], [[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=10|vendor=YumYum Grotto|stock=20000|buyprice=120}}
@@ -257,6 +275,7 @@ Decent Life Potion
 |description=Increases Base HP by 250. 3% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=200
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[DropTable8]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=10|vendor=Frostbite Towndra|stock=20000|buyprice=800}}
@@ -267,6 +286,7 @@ Small Speed Potion
 |description=Increases Move Spd by 5%. 15% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus.
 |sellprice=7
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[DropTable2]], [[DropTable4]], [[DropTable10]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=6|vendor=Blunder Hills|stock=400|buyprice=28}}
@@ -276,7 +296,8 @@ Average Speed Potion
 |type=Boost Food
 |description=Increases Move Spd by 10%. 13% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus.
 |sellprice=60
-|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]], [[DropTable6]]
+|source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]], [[DropTable6]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=9|vendor=YumYum Grotto|stock=20000|buyprice=240}}
@@ -287,6 +308,7 @@ Decent Speed Potion
 |description=Increases Move Spd by 15%. 10% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus.
 |sellprice=400
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Sir Stache]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=9|vendor=Frostbite Towndra|stock=20000|buyprice=1600}}
@@ -297,6 +319,7 @@ Minto Choco
 |description=Increases Move Spd by 8%. 4% chance to be consumed every 10 meters walked. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Loveulyte]]|0.25|2}}
@@ -309,6 +332,7 @@ Small Mana Potion
 |description=Boosts Mana Regen Rate by 10% 40% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus.
 |sellprice=5
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Frog]], [[DropTable1]], [[DropTable3b]], [[DropTable3c]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Blunder Hills|stock=500|buyprice=20}}
@@ -323,6 +347,7 @@ Average Mana Potion
 |description=Boosts Mana Regen Rate by 17% 35% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus.
 |sellprice=25
 |source=[[DropTable3]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.1|10.0}}
@@ -345,6 +370,7 @@ Decent Mana Potion
 |description=Boosts Mana Regen Rate by 25% 30% chance to be consumed every 100% Mana Regenerated. Must be equipped in a Food Slot to give its bonus.
 |sellprice=175
 |source=[[Bloque]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bloque]]|.0025|1}}
@@ -355,6 +381,7 @@ Small EXP Potion
 |description=Increases Main Exp Gain by 5% 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=25
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Alchemy#Level up Gift|Level up Gift]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Encroaching Forest Villas|stock=500|buyprice=100}}
@@ -365,6 +392,7 @@ Average EXP Potion
 |description=Increases Main Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=250
 |source=[[Post Office#Dudes Next Door|Dudes Next Door]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Dedotated Ram]]|0.000004000000000000001|25.0}}
@@ -381,6 +409,7 @@ Decent EXP Potion
 |description=Increases Main Exp Gain by 15% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=1500
 |source=[[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 Lemony Choco
 {{InfoItem
@@ -388,6 +417,7 @@ Lemony Choco
 |description=Increases Main Exp Gain by 10% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Loveulyte]]|0.25|3}}
@@ -399,11 +429,12 @@ Icing Ironbite
 |type=Boost Food
 |description=Increases Mining Speed by 15% 10% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
 |sellprice=45
-|source=[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]
+|source=[[Krunk#A Plot to be Perfect|A Plot to be Perfect]], [[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=41
+|craftnum=42
 |levelreq=2
 |expgiven=5
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -414,21 +445,21 @@ Icing Ironbite
 {{usedin/row|[[Average Food Pouch]]|600|Crafting}}
 {{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|1000|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Iron|5}}
-{{detrecipe|3|FoodPotMana1|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Iron|5}}
-{{detrecipe/totals|FoodPotMana1|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Ore|5}}
+{{detrecipe|3|Small Mana Potion|2}}
+|tot=
+{{detrecipe/totals|Iron Ore|5}}
+{{detrecipe/totals|Small Mana Potion|2}}
+}}
 Giftybread Man
 {{InfoItem
 |type=Boost Food
 |description=Increases Mining Speed by 25% 1% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Giftmas Blobulyte]]|0.25|3}}
@@ -440,10 +471,12 @@ Saucy Logfries
 |type=Boost Food
 |description=Increases Choppin' Speed by 15% 10% chance to be consumed every time you swing your hatchet. Must be equipped in a Food Slot to give its bonus.
 |sellprice=48
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=42
+|craftnum=43
 |levelreq=1
 |expgiven=5
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -453,21 +486,21 @@ Saucy Logfries
 {{usedin/head}}
 {{usedin/row|[[Average Food Pouch]]|600|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|JungleTree|6}}
-{{detrecipe|3|FoodPotRe1|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|JungleTree|6}}
-{{detrecipe/totals|FoodPotRe1|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Jungle Logs|6}}
+{{detrecipe|3|Small Life Potion|3}}
+|tot=
+{{detrecipe/totals|Jungle Logs|6}}
+{{detrecipe/totals|Small Life Potion|3}}
+}}
 Chogg Nog
 {{InfoItem
 |type=Boost Food
 |description=Increases Choppin' Speed by 25% 1% chance to be consumed every time you swing your hatchet. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Giftmas Blobulyte]]|0.25|3}}
@@ -479,10 +512,12 @@ Slurpin Herm
 |type=Boost Food
 |description=Increases Fishing Spd by 20% 10% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
 |sellprice=105
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=56
+|craftnum=57
 |levelreq=24
 |expgiven=15
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -492,21 +527,21 @@ Slurpin Herm
 {{usedin/head}}
 {{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish2|5}}
-{{detrecipe|3|FoodPotOr2|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish2|5}}
-{{detrecipe/totals|FoodPotOr2|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hermit Can|5}}
+{{detrecipe|3|Average Strength Potion|2}}
+|tot=
+{{detrecipe/totals|Hermit Can|5}}
+{{detrecipe/totals|Average Strength Potion|2}}
+}}
 Candy Canes
 {{InfoItem
 |type=Boost Food
 |description=Increases Fishing Spd by 25% 1% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Giftmas Blobulyte]]|0.25|2}}
@@ -518,10 +553,12 @@ Buttered Toasted Butter
 |type=Boost Food
 |description=Increases Catching Spd by 20% 10% chance to be consumed every time you swing your net. Must be equipped in a Food Slot to give its bonus.
 |sellprice=93
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=57
+|craftnum=58
 |levelreq=24
 |expgiven=15
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -531,21 +568,21 @@ Buttered Toasted Butter
 {{usedin/head}}
 {{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug2|5}}
-{{detrecipe|3|FoodHealth6|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug2|5}}
-{{detrecipe/totals|FoodHealth6|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Butterfly|5}}
+{{detrecipe|3|Kebab Sticks|1}}
+|tot=
+{{detrecipe/totals|Butterfly|5}}
+{{detrecipe/totals|Kebab Sticks|1}}
+}}
 Mistleberries
 {{InfoItem
 |type=Boost Food
 |description=Increases Catching Spd by 25% 1% chance to be consumed every time you swing your net. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Giftmas Blobulyte]]|0.25|2}}
@@ -557,114 +594,121 @@ Critter Numnums
 |type=Boost Food
 |description=Increases Shiny Odds by 25% 125% chance to be consumed every time you open a trap. Must be equipped in a Food Slot to give its bonus.
 |sellprice=550
-}}
-{{ForgeSlot
-|anvtab=Anvil Tab 3
-|craftnum=56
-|levelreq=36
-|expgiven=10000
-|recipefrom=Start
-|resource1=Crabbo|quantity1=100
-|resource2=Distilled Water|quantity2=1
-}}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|30|Crafting}}
-|}
-{{detrecipe/head}}
-{{detrecipe|3|Critter2|100}}
-{{detrecipe|3|PureWater|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter2|100}}
-{{detrecipe/totals|PureWater|1}}
-|}
-Soulble Gum
-{{InfoItem
-|type=Boost Food
-|description=Increases Soul Gain by 25% 125% chance to be consumed every time you Worship. Must be equipped in a Food Slot to give its bonus.
-|sellprice=680
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
 |craftnum=57
 |levelreq=36
 |expgiven=10000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Crabbo|quantity1=100
+|resource2=Distilled Water|quantity2=1
+}}
+{{usedin/head}}
+{{usedin/row|[[Large Food Pouch]]|30|Crafting}}
+|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Crabbo|100}}
+{{detrecipe|3|Distilled Water|1}}
+|tot=
+{{detrecipe/totals|Crabbo|100}}
+{{detrecipe/totals|Distilled Water|1}}
+}}
+Soulble Gum
+{{InfoItem
+|type=Boost Food
+|description=Increases Soul Gain by 25% 125% chance to be consumed every time you Worship. Must be equipped in a Food Slot to give its bonus.
+|sellprice=680
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=58
+|levelreq=36
+|expgiven=10000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dune Soul|quantity1=70
 |resource2=Distilled Water|quantity2=1
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Food Pouch]]|30|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul2|70}}
-{{detrecipe|3|PureWater|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul2|70}}
-{{detrecipe/totals|PureWater|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dune Soul|70}}
+{{detrecipe|3|Distilled Water|1}}
+|tot=
+{{detrecipe/totals|Dune Soul|70}}
+{{detrecipe/totals|Distilled Water|1}}
+}}
 Bullet
 {{InfoItem
 |type=Boost Food
 |description=Increases Weapon Power by 1. 15% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
-|sellprice=84
+|sellprice=130
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
-|anvtab=Anvil Tab 3
-|craftnum=59
-|levelreq=1
-|expgiven=12
+|anvtab=2
+|craftnum=43
+|levelreq=16
+|expgiven=1
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Copper Ore|quantity1=6
-|resource2=Copper Ore|quantity2=22
+|resource1=Forest Fibres|quantity1=10
+|resource2=Fly|quantity2=10
 }}
 {{usedin/head}}
 {{usedin/row|[[FMJ Bullet]]|2|Crafting}}
-{{usedin/row|[[Bandit_Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
+{{usedin/row|[[Bandit Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Copper|6}}
-{{detrecipe|3|Copper|22}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Copper|28}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Fibres|10}}
+{{detrecipe|3|Fly|10}}
+|tot=
+{{detrecipe/totals|Forest Fibres|10}}
+{{detrecipe/totals|Fly|10}}
+}}
 FMJ Bullet
 {{InfoItem
 |type=Boost Food
 |description=Increases Weapon Power by 2. 12% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
-|sellprice=363
+|sellprice=455
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=43
+|craftnum=44
 |levelreq=20
 |expgiven=1
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Gold Ore|quantity1=15
 |resource2=Bullet|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Gold|15}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Ore|15}}
 {{detrecipe|3|Bullet|2}}
-{{detrecipe|40|Copper|12}}
-{{detrecipe|40|Copper|44}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Gold|15}}
-{{detrecipe/totals|Copper|56}}
-|}
+{{detrecipe|40|Forest Fibres|20}}
+{{detrecipe|40|Fly|20}}
+|tot=
+{{detrecipe/totals|Gold Ore|15}}
+{{detrecipe/totals|Forest Fibres|20}}
+{{detrecipe/totals|Fly|20}}
+}}
 Midnight Cookie
 {{InfoItem
 |type=Boost Food
 |description=Increases Weapon Power by 5. 2% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=300
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]], [[King Doot]], [[DropTable8]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.07|1}}
@@ -684,7 +728,7 @@ Midnight Cookie
 |}
 {{usedin/head}}
 {{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]]|2|Quests}}
+{{usedin/row|[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]|2|Quests}}
 |}
 Cherry Choco
 {{InfoItem
@@ -692,6 +736,7 @@ Cherry Choco
 |description=Increases Weapon Power by 1. 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Loveulyte]]|0.25|3}}
@@ -703,6 +748,8 @@ Golden Peanut
 |type=Golden Food
 |description=Increases Mining Efficiency by [%. Golden foods are never consumed.
 |sellprice=7750
+|source=[[Smithing]]
+|notes= 
 }}
 {{gfoodbonus|30|Increases Mining Efficiency by [%.}}
 {{ForgeSlot
@@ -710,7 +757,7 @@ Golden Peanut
 |craftnum=51
 |levelreq=1
 |expgiven=1
-|recipefrom=Rocklyte
+|recipefrom=
 |resource1=Peanut|quantity1=100
 |resource2=Gold Bar|quantity2=50
 }}
@@ -718,26 +765,26 @@ Golden Peanut
 {{usedin/row|[[Blunderhills Misc Completion Token]]|30|Crafting}}
 {{usedin/row|[[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]]|5|Quests}}
 |}
-{{detrecipe/head}}
+{{detrecipe/tab
+|reci=
 {{detrecipe|3|Peanut|100}}
-{{detrecipe|40|FoodHealth3|200}}
-{{detrecipe|40|Copper|100}}
-{{detrecipe|40|BirchTree|100}}
-{{detrecipe|3|GoldBar|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth3|200}}
-{{detrecipe/totals|Copper|100}}
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|GoldBar|50}}
-|}
+{{detrecipe|40|Hot Dog|200}}
+{{detrecipe|40|Copper Ore|100}}
+{{detrecipe|40|Bleach Logs|100}}
+{{detrecipe|3|Gold Bar|50}}
+|tot=
+{{detrecipe/totals|Hot Dog|200}}
+{{detrecipe/totals|Copper Ore|100}}
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Gold Bar|50}}
+}}
 Golden Jam
 {{InfoItem
 |type=Golden Food
 |description=Increases your Max Health by [%. Golden foods are never consumed.
 |sellprice=50
-|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Picnic_Stowaway#Live-Action Entertainment|Live-Action Entertainment]], [[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]], [[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic_Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Tiki_Chief#Brochure Building|Brochure Building]]
+|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Picnic Stowaway#Live-Action Entertainment|Live-Action Entertainment]], [[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]], [[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Tiki Chief#Brochure Building|Brochure Building]]
+|notes=Not to be mixed up with [[Golden Jam (quest)]] which is needed for [[Scripticus]] quest The Unoccupied Picnic
 }}
 {{gfoodbonus|30|Increases your Max Health by [%.}}
 {{detdrops/head}}
@@ -748,7 +795,8 @@ Golden Kebabs
 |type=Golden Food
 |description=Increases Total Damage to all monsters by [%. Golden foods are never consumed.
 |sellprice=200
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic_Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic_Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]
+|notes= 
 }}
 {{gfoodbonus|20|Increases Total Damage to all monsters by [%.}}
 {{detdrops/head}}
@@ -759,7 +807,8 @@ Golden Meat Pie
 |type=Golden Food
 |description=Increases your Total Defence by [. Golden foods are never consumed
 |sellprice=350
-|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Picnic_Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]], [[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic_Stowaway#A Midnight Snack|A Midnight Snack]], [[SuperDropTable2]]
+|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]], [[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic Stowaway#A Midnight Snack|A Midnight Snack]], [[SuperDropTable2]]
+|notes= 
 }}
 {{gfoodbonus|50|Increases your Total Defence by [.}}
 {{detdrops/head}}
@@ -794,9 +843,6 @@ Golden Meat Pie
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.000036|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.000036|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000044999999999999996|2.0}}
-{{detdrops|[[Frigid Soul]]|0.000044999999999999996|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.000044999999999999996|1.0}}
-{{detdrops|[[Bandit Bob]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000044999999999999996|1.0}}
@@ -811,6 +857,7 @@ Golden Nomwich
 |description=Increases Base Damage Dealt to all monsters by [. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[SuperDropTable1]]
+|notes= 
 }}
 {{gfoodbonus|400|Increases Base Damage Dealt to all monsters by [.}}
 {{detdrops/head}}
@@ -859,6 +906,7 @@ Golden Ham
 |description=Increases Skill EXP earned from all skills by [%. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[SuperDropTable3]]
+|notes= 
 }}
 {{gfoodbonus|18|Increases Skill EXP earned from all skills by [%.}}
 {{detdrops/head}}
@@ -869,7 +917,7 @@ Golden Ham
 {{detdrops|[[Xylobone]]|0.00003|1.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.003|1.0}}
 {{detdrops|[[Bloque]]|0.0000075|1.0}}
-{{detdrops|[[mamooth]]|0.0000081|1.0}}
+{{detdrops|[[Mamooth]]|0.0000081|1.0}}
 {{detdrops|[[Snowman]]|0.0000087|1.0}}
 {{detdrops|[[Penguin]]|0.000009299999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.0000099|1.0}}
@@ -895,6 +943,7 @@ Golden Bread
 |description=Claiming AFK gains levels up shrines [% faster. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|notes= 
 }}
 {{gfoodbonus|20|Claiming AFK gains levels up shrines [% faster.}}
 {{detdrops/head}}

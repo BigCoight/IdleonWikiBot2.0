@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Cancer
-|mmm=Schutz
-|birthweight=5.08
-|notes=fillme
+{{npc
+|location=Winding Willows
+|noquest=5
+|repeatable=Unknown
+|birthweight=7.6
+|starsign=Sagittarius
+|mmm=Taylor
+|notes=[[Funguy]] is found in [[Worlds#J2 - Winding Willows|Winding Willows]], the second zone of the Jungle, located in the bottom left of the area. Saying "hi" to him is a possible daily [[Tasks#Blunder Hills|Task]].
+
+His final quest awards the {{CraftReq|Funguy Token}}.
 }}
 {{Quest/head}}
 {{Quest
@@ -15,14 +17,15 @@
 |requirements=100x {{CraftReq|Peanut}}, 25x {{CraftReq|Cheezy Pizza}}, 100x {{CraftReq|Average Strength Potion}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Small Food Pouch}}, 1x {{CraftReq|Talent Point Reset Potion}}, 800 Class Experience
+|notes=The [[Peanut]] recipe comes from [[Picnic Stowaway]].
 }}
 {{Quest
 |name=Videogame Highscores are COOL!
 |text=Get a score of 42 in the Choppin Minigame.
 |difficulty=3
-|requirements=Choppin Score: >= 42. Starting at 0. 
+|requirements=Choppin Score: >= 42. Starting at 0.
 |consumed=No
-|rewards={{Recipe|0|Fur Shirt}}, 3000 Class Experience, 1250x {{CraftReq|COIN}}
+|rewards={{Recipe|0|Goo Galoshes}}, 3000 Class Experience, {{Coindisplay|1250}}
 }}
 {{Quest
 |name=Partycrastination
@@ -36,9 +39,10 @@
 |name=Party Crashin'
 |text=Go on then party!
 |difficulty=4
-|requirements=Meet New People: >= 35. Starting at 0. Make Some Friends: >= 0. Starting at 0. 
+|requirements=Meet New People: >= 35. Starting at 0., Make Some Friends: >= 0. Starting at 0.
 |consumed=No
 |rewards=5000 Class Experience, 3000 Chopping Experience, 4x {{CraftReq|Gem}}
+|notes=Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again.
 }}
 {{Quest
 |name=Wicked Party Cleanup

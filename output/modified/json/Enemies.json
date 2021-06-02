@@ -24,7 +24,7 @@
             ["Iron Bar", "0.5", "69", "N/A"],
             ["Gold Bar", "0.5", "69", "N/A"]
         ],
-        "Image": "Fire Forge_Walking.gif",
+        "Image": "Fire Forge Walking.gif",
         "defFor0": 1223.26
     },
     "ForgeB": {
@@ -52,7 +52,7 @@
             ["Dementia Bar", "0.5", "69", "N/A"],
             ["Void Bar", "0.5", "69", "N/A"]
         ],
-        "Image": "Cinder Forge_Walking.gif",
+        "Image": "Cinder Forge Walking.gif",
         "defFor0": 1223.26
     },
     "Bandit_Bob": {
@@ -87,8 +87,9 @@
         "World": "Yum Yum Desert",
         "Crystal": "Crystal Crabal",
         "hasCrystal": "Yes",
-        "Image": "Bandit Bob_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Bandit Bob Walking.gif",
+        "defFor0": 1223.26,
+        "notes": "[[Bandit Bob]] is found in [[Worlds#D3 - Bandit Bob's Hideout|Bandit Bob's Hideout]]. His quests require you to open up the 2nd [[Smithing]] tab, unlock recipes from [[Tasks]], and open the [[Post Office]]. "
     },
     "SoulCard1": {
         "Name": "Forest Soul",
@@ -116,8 +117,9 @@
             ["Forest Soul", "1", "1", "N/A"],
             ["Forest Soul", "1", "1", "N/A"]
         ],
-        "Image": "Forest Soul_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Forest Soul Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "SoulCard2": {
         "Name": "Dune Soul",
@@ -145,8 +147,9 @@
             ["Dune Soul", "1", "1", "N/A"],
             ["Dune Soul", "1", "1", "N/A"]
         ],
-        "Image": "Dune Soul_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Dune Soul Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "SoulCard3": {
         "Name": "Rooted Soul",
@@ -174,11 +177,9 @@
             ["Rooted Soul", "1", "1", "N/A"],
             ["Rooted Soul", "1", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Wispy Tree",
-        "Next": "Frigid Soul",
-        "Image": "Rooted Soul_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Rooted Soul Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "SoulCard4": {
         "Name": "Frigid Soul",
@@ -203,11 +204,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Rooted Soul",
-        "Next": "Squiddy Soul",
-        "Image": "Frigid Soul_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Frigid Soul Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "SoulCard5": {
         "Name": "Squiddy Soul",
@@ -232,11 +231,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Frigid Soul",
-        "Next": "Mousey",
-        "Image": "Squiddy Soul_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Squiddy Soul Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "SoulCard6": {
         "Name": "Bandit Bob",
@@ -261,8 +258,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
-        "Image": "Bandit Bob_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Bandit Bob Walking.gif",
+        "defFor0": 1223.26,
+        "notes": "[[Bandit Bob]] is found in [[Worlds#D3 - Bandit Bob's Hideout|Bandit Bob's Hideout]]. His quests require you to open up the 2nd [[Smithing]] tab, unlock recipes from [[Tasks]], and open the [[Post Office]]. "
     },
     "CritterCard1": {
         "Name": "Froge",
@@ -287,8 +285,9 @@
             ["Fly Card", "0.00022", "1", "N/A"],
             ["Froge", "1", "1", "N/A"]
         ],
-        "Image": "Froge_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Froge Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard2": {
         "Name": "Crabbo",
@@ -313,8 +312,9 @@
             ["Butterfly Card", "0.00018", "1", "N/A"],
             ["Crabbo", "0.015", "1", "N/A"]
         ],
-        "Image": "Crabbo_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Crabbo Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard3": {
         "Name": "Scorpie",
@@ -339,8 +339,9 @@
             ["Sentient Cereal Card", "0.00016", "1", "N/A"],
             ["Scorpie", "0.015", "1", "N/A"]
         ],
-        "Image": "Scorpie_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Scorpie Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard4": {
         "Name": "Mousey",
@@ -365,11 +366,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Mousey", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Squiddy Soul",
-        "Next": "Owlio",
-        "Image": "Mousey_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Mousey Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard5": {
         "Name": "Owlio",
@@ -394,11 +393,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Owlio", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Mousey",
-        "Next": "Pingy",
-        "Image": "Owlio_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Owlio Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard6": {
         "Name": "Pingy",
@@ -423,11 +420,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Pingy", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Owlio",
-        "Next": "Bunny",
-        "Image": "Pingy_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Pingy Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard7": {
         "Name": "Bunny",
@@ -452,11 +447,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Bunny", "0.015", "1", "N/A"]
         ],
-        "hasCard": "Yes",
-        "Prev": "Pingy",
-        "Next": "Lustre",
-        "Image": "Bunny_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Bunny Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard8": {
         "Name": "Dung Beat",
@@ -481,8 +474,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Dung Beat", "0.015", "1", "N/A"]
         ],
-        "Image": "Dung Beat_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Dung Beat Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "CritterCard9": {
         "Name": "Honker",
@@ -507,8 +501,9 @@
             ["Fruitfly Card", "0.00014", "1", "N/A"],
             ["Honker", "0.015", "1", "N/A"]
         ],
-        "Image": "Honker_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Honker Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "Crystal0": {
         "Name": "Crystal Carrot",
@@ -547,8 +542,9 @@
         "hasCrystal": "Yes",
         "Prev": "Nutto",
         "Next": "Wood Mushroom",
-        "Image": "Crystal Carrot_Walking.gif",
-        "defFor0": 0.22
+        "Image": "Crystal Carrot Walking.gif",
+        "defFor0": 0.22,
+        "notes": "<p>The Crystal Carrot is a rare enemy that has a 1 in 2,000 chance to spawn whenever you kill an enemy in the first world. Its stats change depending on what area you are in. You can increase the chances of it spawning using the [[Special Talents|Crystals 4 dayys]] special talent, the [[Crystallin]] Stamp, the [[Poop Card]], the third bonus of the Non Predatory Loot Box in the [[Post Office]], or the [[Journeyman#Cmon_Out_Crystals|Cmon Out Crystals]] Journeyman talent. </p>"
     },
     "Crystal1": {
         "Name": "Crystal Crabal",
@@ -587,8 +583,9 @@
         "hasCrystal": "Yes",
         "Prev": "Dig Doug",
         "Next": "Sheepie",
-        "Image": "Crystal Crabal_Walking.gif",
-        "defFor0": 0
+        "Image": "Crystal Crabal Walking.gif",
+        "defFor0": 0,
+        "notes": "<p>The Crystal Crabal is a rare enemy that has a 1 in 2,000 chance to spawn whenever you kill an enemy in the second world. Its stats change depending on what area you are in. You can increase the chances of it spawning using the [[Special Talents|Crystals 4 dayys]] special talent, the [[Crystallin]] Stamp, the [[Poop Card]], the third bonus of the Non Predatory Loot Box in the [[Post Office]], or the [[Journeyman#Cmon_Out_Crystals|Cmon Out Crystals]] Journeyman talent.</p>"
     },
     "Crystal2": {
         "Name": "Crystal Cattle",
@@ -611,7 +608,7 @@
         "Damages": "1",
         "Drops": [
             ["COIN", "0.5", "1", "N/A"],
-            ["Glacier Quartz Card", "0.008", "1", "N/A"],
+            ["Crystal Cattle Card", "0.008", "1", "N/A"],
             ["Crystallin", ".1", "1", "Papua_Piggea2"],
             ["Quest Chungus;Talent Book", ".005", "1", "N/A"],
             ["DropTable6", ".6", "1", "N/A"],
@@ -626,8 +623,8 @@
         "Crystal": "Crystal Cattle",
         "hasCrystal": "Yes",
         "Prev": "Bloodbone",
-        "Next": "Wispy Tree",
-        "Image": "Crystal Cattle_Walking.gif",
+        "Next": "Baba Yaga",
+        "Image": "Crystal Cattle Walking.gif",
         "defFor0": 0
     },
     "mushG": {
@@ -664,7 +661,7 @@
         "Crystal": "Crystal Carrot",
         "hasCrystal": "Yes",
         "Next": "Red Mushroom",
-        "Image": "Green Mushroom_Walking.gif",
+        "Image": "Green Mushroom Walking.gif",
         "Area": "Spore Meadows",
         "defFor0": 0
     },
@@ -704,7 +701,7 @@
         "hasCrystal": "Yes",
         "Prev": "Red Mushroom",
         "Next": "Bored Bean",
-        "Image": "Frog_Walking.gif",
+        "Image": "Frog Walking.gif",
         "Area": "Froggy Fields",
         "defFor0": 2
     },
@@ -741,7 +738,7 @@
         "hasCrystal": "Yes",
         "Prev": "Frog",
         "Next": "Slime",
-        "Image": "Bored Bean_Walking.gif",
+        "Image": "Bored Bean Walking.gif",
         "Area": "Valley Of The Beans",
         "defFor0": 5.97
     },
@@ -779,7 +776,7 @@
         "hasCrystal": "Yes",
         "Prev": "Bored Bean",
         "Next": "Baby Boa",
-        "Image": "Slime_Walking.gif",
+        "Image": "Slime Walking.gif",
         "Area": "Jungle Perimeter",
         "defFor0": 8.9
     },
@@ -818,7 +815,7 @@
         "hasCrystal": "Yes",
         "Prev": "Slime",
         "Next": "Carrotman",
-        "Image": "Baby Boa_Walking.gif",
+        "Image": "Baby Boa Walking.gif",
         "Area": "Winding Willows",
         "defFor0": 11.22
     },
@@ -855,7 +852,7 @@
         "hasCrystal": "Yes",
         "Prev": "Baby Boa",
         "Next": "Glublin",
-        "Image": "Carrotman_Walking.gif",
+        "Image": "Carrotman Walking.gif",
         "Area": "Vegetable Patch",
         "defFor0": 14.57
     },
@@ -892,7 +889,7 @@
         "hasCrystal": "Yes",
         "Prev": "Carrotman",
         "Next": "Wode Board",
-        "Image": "Glublin_Walking.gif",
+        "Image": "Glublin Walking.gif",
         "Area": "Forest Outskirts",
         "defFor0": 21.54
     },
@@ -930,7 +927,7 @@
         "hasCrystal": "Yes",
         "Prev": "Glublin",
         "Next": "Gigafrog",
-        "Image": "Wode Board_Walking.gif",
+        "Image": "Wode Board Walking.gif",
         "Area": "Encroaching Forest Villas",
         "defFor0": 26.12
     },
@@ -969,7 +966,7 @@
         "hasCrystal": "Yes",
         "Prev": "Wode Board",
         "Next": "Poop",
-        "Image": "Gigafrog_Walking.gif",
+        "Image": "Gigafrog Walking.gif",
         "Area": "Tucked Away",
         "defFor0": 35.69
     },
@@ -1005,7 +1002,7 @@
         "hasCrystal": "Yes",
         "Prev": "Rat",
         "Next": "Nutto",
-        "Image": "Walking Stick_Walking.gif",
+        "Image": "Walking Stick Walking.gif",
         "Area": "The Base Of The Bark",
         "defFor0": 12.82
     },
@@ -1040,7 +1037,7 @@
         "hasCrystal": "Yes",
         "Prev": "Walking Stick",
         "Next": "Crystal Carrot",
-        "Image": "Nutto_Walking.gif",
+        "Image": "Nutto Walking.gif",
         "Area": "Hollowed Trunk",
         "defFor0": 30.84
     },
@@ -1076,8 +1073,8 @@
         "Crystal": "Crystal Carrot",
         "hasCrystal": "Yes",
         "Prev": "Crystal Carrot",
-        "Next": "Sandy Pot",
-        "Image": "Wood Mushroom_Walking.gif",
+        "Next": "Boop",
+        "Image": "Wood Mushroom Walking.gif",
         "Area": "Where the Branches End",
         "defFor0": 66.8
     },
@@ -1116,7 +1113,7 @@
         "hasCrystal": "Yes",
         "Prev": "Gigafrog",
         "Next": "Rat",
-        "Image": "Poop_Walking.gif",
+        "Image": "Poop Walking.gif",
         "Area": "Poopy Sewers",
         "defFor0": 152.99
     },
@@ -1154,7 +1151,7 @@
         "hasCrystal": "Yes",
         "Prev": "Poop",
         "Next": "Walking Stick",
-        "Image": "Rat_Walking.gif",
+        "Image": "Rat Walking.gif",
         "Area": "Rats Nest",
         "defFor0": 238.55
     },
@@ -1183,9 +1180,12 @@
             ["Boop Card", "0.0015", "1", "N/A"]
         ],
         "hasCard": "Yes",
-        "Prev": "Dr Defecaus",
-        "Next": "Amarok",
-        "Image": "Boop_Walking.gif",
+        "World": "Blunder Hills",
+        "Crystal": "Crystal Carrot",
+        "hasCrystal": "Yes",
+        "Prev": "Wood Mushroom",
+        "Next": "Sandy Pot",
+        "Image": "Boop Walking.gif",
         "Area": "Meel's Crypt",
         "defFor0": 275.97
     },
@@ -1208,7 +1208,7 @@
         "Defence": "1",
         "MoveSPEED": "0",
         "Damages": "50",
-        "Image": "Healing Rune_Walking.gif",
+        "Image": "Healing Rune Walking.gif",
         "Drops": [],
         "defFor0": 40.66
     },
@@ -1231,7 +1231,7 @@
         "Defence": "1",
         "MoveSPEED": "0",
         "Damages": "50",
-        "Image": "Shielding Rune_Walking.gif",
+        "Image": "Shielding Rune Walking.gif",
         "Drops": [],
         "defFor0": 40.66
     },
@@ -1254,7 +1254,7 @@
         "Defence": "1",
         "MoveSPEED": "0",
         "Damages": "50",
-        "Image": "Skeleton Rune_Walking.gif",
+        "Image": "Skeleton Rune Walking.gif",
         "Drops": [],
         "defFor0": 40.66
     },
@@ -1289,9 +1289,9 @@
         "World": "Yum Yum Desert",
         "Crystal": "Crystal Crabal",
         "hasCrystal": "Yes",
-        "Prev": "Wood Mushroom",
+        "Prev": "Boop",
         "Next": "Mimic",
-        "Image": "Sandy Pot_Walking.gif",
+        "Image": "Sandy Pot Walking.gif",
         "Area": "Jar Bridge",
         "defFor0": 45.72
     },
@@ -1329,7 +1329,7 @@
         "hasCrystal": "Yes",
         "Prev": "Sandy Pot",
         "Next": "Crabcake",
-        "Image": "Mimic_Walking.gif",
+        "Image": "Mimic Walking.gif",
         "Area": "The Mimic Hole",
         "defFor0": 52.96
     },
@@ -1366,7 +1366,7 @@
         "hasCrystal": "Yes",
         "Prev": "Mimic",
         "Next": "Mafioso",
-        "Image": "Crabcake_Walking.gif",
+        "Image": "Crabcake Walking.gif",
         "Area": "Dessert Dunes",
         "defFor0": 61.42
     },
@@ -1403,7 +1403,7 @@
         "hasCrystal": "Yes",
         "Prev": "Crabcake",
         "Next": "Sand Castle",
-        "Image": "Mafioso_Walking.gif",
+        "Image": "Mafioso Walking.gif",
         "Area": "The Grandioso Canyon",
         "defFor0": 83.29
     },
@@ -1439,7 +1439,7 @@
         "hasCrystal": "Yes",
         "Prev": "Mafioso",
         "Next": "Pincermin",
-        "Image": "Sand Castle_Walking.gif",
+        "Image": "Sand Castle Walking.gif",
         "Area": "Shifty Sandbox",
         "defFor0": 93.41
     },
@@ -1474,7 +1474,7 @@
         "hasCrystal": "Yes",
         "Prev": "Sand Castle",
         "Next": "Mashed Potato",
-        "Image": "Pincermin_Walking.gif",
+        "Image": "Pincermin Walking.gif",
         "Area": "Pincer Plateau",
         "defFor0": 108.27
     },
@@ -1509,7 +1509,7 @@
         "hasCrystal": "Yes",
         "Prev": "Pincermin",
         "Next": "Tyson",
-        "Image": "Mashed Potato_Walking.gif",
+        "Image": "Mashed Potato Walking.gif",
         "Area": "Slamabam Straightaway",
         "defFor0": 123.37
     },
@@ -1544,7 +1544,7 @@
         "hasCrystal": "Yes",
         "Prev": "Mashed Potato",
         "Next": "Moonmoon",
-        "Image": "Tyson_Walking.gif",
+        "Image": "Tyson Walking.gif",
         "Area": "The Ring",
         "defFor0": 152.99
     },
@@ -1581,7 +1581,7 @@
         "hasCrystal": "Yes",
         "Prev": "Tyson",
         "Next": "Sand Giant",
-        "Image": "Moonmoon_Walking.gif",
+        "Image": "Moonmoon Walking.gif",
         "Area": "Up Up Down Down",
         "defFor0": 177.1
     },
@@ -1617,7 +1617,7 @@
         "hasCrystal": "Yes",
         "Prev": "Moonmoon",
         "Next": "Snelbie",
-        "Image": "Sand Giant_Walking.gif",
+        "Image": "Sand Giant Walking.gif",
         "Area": "Sands of Time",
         "defFor0": 207.65
     },
@@ -1653,7 +1653,7 @@
         "hasCrystal": "Yes",
         "Prev": "Sand Giant",
         "Next": "Dig Doug",
-        "Image": "Snelbie_Walking.gif",
+        "Image": "Snelbie Walking.gif",
         "Area": "Djonnuttown",
         "defFor0": 244.76
     },
@@ -1690,7 +1690,7 @@
         "hasCrystal": "Yes",
         "Prev": "Crystal Crabal",
         "Next": "Frost Flake",
-        "Image": "Sheepie_Walking.gif",
+        "Image": "Sheepie Walking.gif",
         "Area": "Steep Sheep Ledge",
         "defFor0": 338.94
     },
@@ -1727,7 +1727,7 @@
         "hasCrystal": "Yes",
         "Prev": "Sheepie",
         "Next": "Sir Stache",
-        "Image": "Frost Flake_Walking.gif",
+        "Image": "Frost Flake Walking.gif",
         "Area": "Snowfield Outskirts",
         "defFor0": 415.1
     },
@@ -1764,7 +1764,7 @@
         "hasCrystal": "Yes",
         "Prev": "Frost Flake",
         "Next": "Bloque",
-        "Image": "Sir Stache_Walking.gif",
+        "Image": "Sir Stache Walking.gif",
         "Area": "The Stache Split",
         "defFor0": 491.48
     },
@@ -1799,7 +1799,7 @@
         "hasCrystal": "Yes",
         "Prev": "Neyeptune",
         "Next": "Xylobone",
-        "Image": "Dedotated Ram_Walking.gif",
+        "Image": "Dedotated Ram Walking.gif",
         "Area": "Wam Wonderland",
         "defFor0": 3563.92
     },
@@ -1835,13 +1835,13 @@
         "Crystal": "Crystal Cattle",
         "hasCrystal": "Yes",
         "Prev": "Sir Stache",
-        "Next": "mamooth",
-        "Image": "Bloque_Walking.gif",
+        "Next": "Mamooth",
+        "Image": "Bloque Walking.gif",
         "Area": "Refrigeration Station",
         "defFor0": 593.5
     },
     "mamoth": {
-        "Name": "mamooth",
+        "Name": "Mamooth",
         "AFKtype": "FIGHTING",
         "MonsterFace": "38",
         "MonsterOffsetX": "38",
@@ -1862,7 +1862,7 @@
         "Drops": [
             ["COIN", "0.39", "260", "N/A"],
             ["Mamooth Tusk", "0.16", "1", "N/A"],
-            ["mamooth Card", "0.0001", "1", "N/A"],
+            ["Mamooth Card", "0.0001", "1", "N/A"],
             ["Ice Age 3", "0.00005", "1", "N/A"],
             ["Mamooth Hide Bag", "0.000002", "1", "N/A"],
             ["DropTable15", "0.0027", "1", "N/A"]
@@ -1873,7 +1873,7 @@
         "hasCrystal": "Yes",
         "Prev": "Bloque",
         "Next": "Snowman",
-        "Image": "mamooth_Walking.gif",
+        "Image": "Mamooth Walking.gif",
         "Area": "Mamooooth Mountain",
         "defFor0": 695.37
     },
@@ -1908,9 +1908,9 @@
         "World": "Frostfire Tyundra",
         "Crystal": "Crystal Cattle",
         "hasCrystal": "Yes",
-        "Prev": "mamooth",
+        "Prev": "Mamooth",
         "Next": "Penguin",
-        "Image": "Snowman_Walking.gif",
+        "Image": "Snowman Walking.gif",
         "Area": "Rollin' Tundra",
         "defFor0": 834.89
     },
@@ -1946,7 +1946,7 @@
         "hasCrystal": "Yes",
         "Prev": "Snowman",
         "Next": "Thermister",
-        "Image": "Penguin_Walking.gif",
+        "Image": "Penguin Walking.gif",
         "Area": "Signature Slopes",
         "defFor0": 973.57
     },
@@ -1982,7 +1982,7 @@
         "hasCrystal": "Yes",
         "Prev": "Penguin",
         "Next": "Quenchie",
-        "Image": "Thermister_Walking.gif",
+        "Image": "Thermister Walking.gif",
         "Area": "Thermonuclear Climb",
         "defFor0": 1161.15
     },
@@ -2018,7 +2018,7 @@
         "hasCrystal": "Yes",
         "Prev": "Thermister",
         "Next": "Cryosnake",
-        "Image": "Quenchie_Walking.gif",
+        "Image": "Quenchie Walking.gif",
         "Area": "Waterlogged Entrance",
         "defFor0": 1408.37
     },
@@ -2054,7 +2054,7 @@
         "hasCrystal": "Yes",
         "Prev": "Quenchie",
         "Next": "Bop Box",
-        "Image": "Cryosnake_Walking.gif",
+        "Image": "Cryosnake Walking.gif",
         "Area": "Cryo Catacombs",
         "defFor0": 1743.06
     },
@@ -2090,7 +2090,7 @@
         "hasCrystal": "Yes",
         "Prev": "Cryosnake",
         "Next": "Neyeptune",
-        "Image": "Bop Box_Walking.gif",
+        "Image": "Bop Box Walking.gif",
         "Area": "Overpass of Sound",
         "defFor0": 2072.08
     },
@@ -2126,7 +2126,7 @@
         "hasCrystal": "Yes",
         "Prev": "Bop Box",
         "Next": "Dedotated Ram",
-        "Image": "Neyeptune_Walking.gif",
+        "Image": "Neyeptune Walking.gif",
         "Area": "Crystal Basecamp",
         "defFor0": 2424.95
     },
@@ -2161,7 +2161,7 @@
         "hasCrystal": "Yes",
         "Prev": "Green Mushroom",
         "Next": "Frog",
-        "Image": "Red Mushroom_Walking.gif",
+        "Image": "Red Mushroom Walking.gif",
         "Area": "Birch Enclave",
         "defFor0": 21.54
     },
@@ -2195,7 +2195,7 @@
         "hasCrystal": "Yes",
         "Prev": "Snelbie",
         "Next": "Crystal Crabal",
-        "Image": "Dig Doug_Walking.gif",
+        "Image": "Dig Doug Walking.gif",
         "defFor0": 0.5
     },
     "skele": {
@@ -2228,7 +2228,7 @@
         "hasCrystal": "Yes",
         "Prev": "Dedotated Ram",
         "Next": "Bloodbone",
-        "Image": "Xylobone_Walking.gif",
+        "Image": "Xylobone Walking.gif",
         "defFor0": 213.8
     },
     "skele2": {
@@ -2261,7 +2261,7 @@
         "hasCrystal": "Yes",
         "Prev": "Xylobone",
         "Next": "Crystal Cattle",
-        "Image": "Bloodbone_Walking.gif",
+        "Image": "Bloodbone Walking.gif",
         "Area": "Hell Hath Frozen Over",
         "defFor0": 3563.92
     },
@@ -2296,9 +2296,9 @@
             ["DropTable3", "1", "2", "N/A"]
         ],
         "hasCard": "Yes",
-        "Prev": "Boop",
+        "Prev": "Dr Defecaus",
         "Next": "Chaotic Amarok",
-        "Image": "Amarok_Walking.gif",
+        "Image": "Amarok Walking.gif",
         "defFor0": 1223.26
     },
     "wolfB": {
@@ -2335,7 +2335,7 @@
         "hasCard": "Yes",
         "Prev": "Amarok",
         "Next": "Biggie Hours",
-        "Image": "Chaotic Amarok_Walking.gif",
+        "Image": "Chaotic Amarok Walking.gif",
         "defFor0": 1469.66
     },
     "wolfC": {
@@ -2368,7 +2368,7 @@
             ["DropTable2", "1", "2", "N/A"],
             ["DropTable3", "1", "2", "N/A"]
         ],
-        "Image": "Nightmare Amarok_Walking.gif",
+        "Image": "Nightmare Amarok Walking.gif",
         "defFor0": 1223.26
     },
     "Boss2A": {
@@ -2404,7 +2404,7 @@
         "hasCard": "Yes",
         "Prev": "King Doot",
         "Next": "Chaotic Efaunt",
-        "Image": "Efaunt_Walking.gif",
+        "Image": "Efaunt Walking.gif",
         "defFor0": 1223.26
     },
     "Boss2B": {
@@ -2440,7 +2440,7 @@
         "hasCard": "Yes",
         "Prev": "Efaunt",
         "Next": "Chizoar",
-        "Image": "Chaotic Efaunt_Walking.gif",
+        "Image": "Chaotic Efaunt Walking.gif",
         "defFor0": 1223.26
     },
     "Boss2C": {
@@ -2473,7 +2473,7 @@
             ["DropTable7", "1", "2", "N/A"],
             ["DropTable8", "1", "2", "N/A"]
         ],
-        "Image": "Nightmare Amarok_Walking.gif",
+        "Image": "Nightmare Amarok Walking.gif",
         "defFor0": 1223.26
     },
     "Boss3A": {
@@ -2509,7 +2509,7 @@
         "hasCard": "Yes",
         "Prev": "Chaotic Efaunt",
         "Next": "Chaotic Chizoar",
-        "Image": "Chizoar_Walking.gif",
+        "Image": "Chizoar Walking.gif",
         "defFor0": 1223.26
     },
     "Boss3B": {
@@ -2545,7 +2545,7 @@
         "hasCard": "Yes",
         "Prev": "Chizoar",
         "Next": "Ghost",
-        "Image": "Chaotic Chizoar_Walking.gif",
+        "Image": "Chaotic Chizoar Walking.gif",
         "defFor0": 1223.26
     },
     "Boss3C": {
@@ -2578,7 +2578,7 @@
             ["DropTable7", "1", "2", "N/A"],
             ["DropTable8", "1", "2", "N/A"]
         ],
-        "Image": "Nightmare Chizoar_Walking.gif",
+        "Image": "Nightmare Chizoar Walking.gif",
         "defFor0": 1223.26
     },
     "poopBig": {
@@ -2611,8 +2611,8 @@
         ],
         "hasCard": "Yes",
         "Prev": "Baba Yaga",
-        "Next": "Boop",
-        "Image": "Dr Defecaus_Walking.gif",
+        "Next": "Amarok",
+        "Image": "Dr Defecaus Walking.gif",
         "defFor0": 1223.26
     },
     "babayaga": {
@@ -2644,10 +2644,11 @@
             ["DropTable3", "1", ".5", "N/A"]
         ],
         "hasCard": "Yes",
-        "Prev": "Flycicle",
+        "Prev": "Crystal Cattle",
         "Next": "Dr Defecaus",
-        "Image": "Baba Yaga_Walking.gif",
-        "defFor0": 466.07
+        "Image": "Baba Yaga Walking.gif",
+        "defFor0": 466.07,
+        "notes": "<p>Baba Yaga is a mini-boss that spawns in the Birch Enclave, the portal on the bottom left of [[Worlds#G4_-_Valley_Of_The_Beans|Valley of the Beans]]. It spawns at the beginning of each hour (XX:00). For best results, enter the area 5 minutes before and it may take 5 minutes after the hour to spawn.<p> "
     },
     "babaHour": {
         "Name": "Biggie Hours",
@@ -2680,8 +2681,9 @@
         "hasCard": "Yes",
         "Prev": "Chaotic Amarok",
         "Next": "King Doot",
-        "Image": "Biggie Hours_Walking.gif",
-        "defFor0": 593.5
+        "Image": "Biggie Hours Walking.gif",
+        "defFor0": 593.5,
+        "notes": "<p>To summon this boss, you must craft {{CraftReq|Googley Eyes}} using the recipe dropped from [[Crabcake|Crabcakes]].</p>"
     },
     "babaMummy": {
         "Name": "King Doot",
@@ -2716,7 +2718,7 @@
         "hasCard": "Yes",
         "Prev": "Biggie Hours",
         "Next": "Efaunt",
-        "Image": "King Doot_Walking.gif",
+        "Image": "King Doot Walking.gif",
         "defFor0": 973.57
     },
     "xmasEvent": {
@@ -2750,8 +2752,9 @@
         "hasCard": "Yes",
         "Prev": "Ghost",
         "Next": "Meaning of Giftmas",
-        "Image": "Giftmas Blobulyte_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Giftmas Blobulyte Walking.gif",
+        "defFor0": 1223.26,
+        "notes": "''Every day during Giftmas, you'll get to give ME gifts!! Hey dont gimme dat look! Not every event needs to be centered around you, ya know!''"
     },
     "xmasEvent2": {
         "Name": "Meaning of Giftmas",
@@ -2784,7 +2787,7 @@
         "hasCard": "Yes",
         "Prev": "Giftmas Blobulyte",
         "Next": "Valentslime",
-        "Image": "Meaning of Giftmas_Walking.gif",
+        "Image": "Meaning of Giftmas Walking.gif",
         "defFor0": 1223.26
     },
     "loveEvent": {
@@ -2818,8 +2821,9 @@
         "hasCard": "Yes",
         "Prev": "Valentslime",
         "Next": "Chocco Box",
-        "Image": "Loveulyte_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Loveulyte Walking.gif",
+        "defFor0": 1223.26,
+        "notes": "''Roses are red, blobulytes are cute, go run my errands and I'll give you some loot!''"
     },
     "loveEvent2": {
         "Name": "Chocco Box",
@@ -2852,7 +2856,7 @@
         "hasCard": "Yes",
         "Prev": "Loveulyte",
         "Next": "Floofie",
-        "Image": "Chocco Box_Walking.gif",
+        "Image": "Chocco Box Walking.gif",
         "defFor0": 1223.26
     },
     "EasterEvent1": {
@@ -2886,8 +2890,9 @@
         "hasCard": "Yes",
         "Prev": "Shell Snake",
         "Next": "Egg Capsule",
-        "Image": "Egggulyte_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Egggulyte Walking.gif",
+        "defFor0": 1223.26,
+        "notes": "''Im Eg, I'm Egg, I'm... wait which one am I again?''"
     },
     "EasterEvent2": {
         "Name": "Egg Capsule",
@@ -2920,8 +2925,9 @@
         ],
         "hasCard": "Yes",
         "Prev": "Egggulyte",
-        "Image": "Egg Capsule_Walking.gif",
-        "defFor0": 1223.26
+        "Image": "Egg Capsule Walking.gif",
+        "defFor0": 1223.26,
+        "notes": " "
     },
     "Blank0ramaFiller": {
         "Name": "Nightmare Amarok",
@@ -2942,7 +2948,7 @@
         "Defence": "600",
         "MoveSPEED": "3",
         "Damages": "1000",
-        "Image": "Nightmare Amarok_Walking.gif",
+        "Image": "Nightmare Amarok Walking.gif",
         "Drops": [],
         "defFor0": 1223.26
     },
@@ -2977,8 +2983,9 @@
         "hasCard": "Yes",
         "Prev": "Chaotic Chizoar",
         "Next": "Giftmas Blobulyte",
-        "Image": "Ghost_Walking.gif",
-        "defFor0": 2
+        "Image": "Ghost Walking.gif",
+        "defFor0": 2,
+        "notes": " "
     },
     "slimeR": {
         "Name": "Valentslime",
@@ -3011,7 +3018,7 @@
         "hasCard": "Yes",
         "Prev": "Meaning of Giftmas",
         "Next": "Loveulyte",
-        "Image": "Valentslime_Walking.gif",
+        "Image": "Valentslime Walking.gif",
         "defFor0": 0
     },
     "sheepB": {
@@ -3045,7 +3052,7 @@
         "hasCard": "Yes",
         "Prev": "Chocco Box",
         "Next": "Shell Snake",
-        "Image": "Floofie_Walking.gif",
+        "Image": "Floofie Walking.gif",
         "defFor0": 0.22
     },
     "snakeY": {
@@ -3080,7 +3087,7 @@
         "hasCard": "Yes",
         "Prev": "Floofie",
         "Next": "Egggulyte",
-        "Image": "Shell Snake_Walking.gif",
+        "Image": "Shell Snake Walking.gif",
         "defFor0": 14.57
     },
     "BugNest1": {
@@ -3105,7 +3112,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Fly Nest_Walking.gif",
+        "Image": "Fly Nest Walking.gif",
         "defFor0": 2.67
     },
     "BugNest2": {
@@ -3130,7 +3137,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Butterfly Bar_Walking.gif",
+        "Image": "Butterfly Bar Walking.gif",
         "defFor0": 2.67
     },
     "BugNest3": {
@@ -3155,7 +3162,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Sentient Bowl_Walking.gif",
+        "Image": "Sentient Bowl Walking.gif",
         "defFor0": 2.67
     },
     "BugNest4": {
@@ -3180,7 +3187,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Grocery Bag_Walking.gif",
+        "Image": "Grocery Bag Walking.gif",
         "defFor0": 2.67
     },
     "BugNest5": {
@@ -3205,7 +3212,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Snowden_Walking.gif",
+        "Image": "Snowden Walking.gif",
         "defFor0": 2.67
     },
     "BugNest6": {
@@ -3230,7 +3237,7 @@
         "Drops": [
             ["Frog Leg", "0.0", "2", "N/A"]
         ],
-        "Image": "Icicle Nest_Walking.gif",
+        "Image": "Icicle Nest Walking.gif",
         "defFor0": 2.67
     },
     "BossPart": {
@@ -3251,7 +3258,7 @@
         "Defence": "1",
         "MoveSPEED": "4",
         "Damages": "20",
-        "Image": "Error_Walking.gif",
+        "Image": "Error Walking.gif",
         "Drops": [],
         "defFor0": 12.82
     },
@@ -3277,7 +3284,7 @@
         "Drops": [
             ["Efaunt Card", "0.0000005", "1", "N/A"]
         ],
-        "Image": "Error_Walking.gif",
+        "Image": "Error Walking.gif",
         "defFor0": 12.82
     },
     "mushPtutorial": {
@@ -3299,7 +3306,7 @@
         "Defence": "1",
         "MoveSPEED": "4",
         "Damages": "5",
-        "Image": "Error_Walking.gif",
+        "Image": "Error Walking.gif",
         "Drops": [],
         "defFor0": 2
     },
@@ -3322,7 +3329,7 @@
         "Defence": "1",
         "MoveSPEED": "3",
         "Damages": "150",
-        "Image": "Error_Walking.gif",
+        "Image": "Error Walking.gif",
         "Drops": [],
         "defFor0": 152.99
     },
@@ -3345,7 +3352,7 @@
         "Defence": "20",
         "MoveSPEED": "0",
         "Damages": "0",
-        "Image": "Error_Walking.gif",
+        "Image": "Error Walking.gif",
         "Drops": [],
         "defFor0": 0.22
     },
@@ -3368,7 +3375,7 @@
         "Defence": "1",
         "MoveSPEED": "0",
         "Damages": "0",
-        "Image": " _Walking.gif",
+        "Image": "  Walking.gif",
         "Area": "Blunder Hills",
         "Drops": [],
         "defFor0": 0.22

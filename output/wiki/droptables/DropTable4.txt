@@ -1,4 +1,3 @@
-{{DropTable/head}}
 {{DropTable/row|Armor Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
 {{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
 {{DropTable/row|Lumberbob Statue|{{#expr: {{{chance}}}*.27}}|1}}
@@ -6,4 +5,3 @@
 {{DropTable/row|High IQ Lumber Stamp|{{#expr: {{{chance}}}*0.0009}}|1}}
 {{DropTable/row|Bronze LUK Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.0060}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0060}}
-|}

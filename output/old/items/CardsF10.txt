@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Frigid Soul
 |order=2
-|category=Bosses
-|effect=+{%_Max_Charge
+|category=Hard Resources
+|effect=+{% Max Charge
 |bonus=2.5
 |reqtier=4
 }}

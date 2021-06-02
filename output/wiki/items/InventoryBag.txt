@@ -6,6 +6,7 @@ Inventory Bag A
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Scripticus#Mr. Worldwide|Mr. Worldwide]]
+|notes= 
 }}
 Inventory Bag B
 {{InfoItem
@@ -15,6 +16,7 @@ Inventory Bag B
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]
+|notes= 
 }}
 Inventory Bag C
 {{InfoItem
@@ -24,6 +26,7 @@ Inventory Bag C
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]
+|notes= 
 }}
 Inventory Bag D
 {{InfoItem
@@ -33,6 +36,7 @@ Inventory Bag D
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Promotheus#The Witcher, but not Really|The Witcher, but not Really]]
+|notes= 
 }}
 Inventory Bag E
 {{InfoItem
@@ -41,7 +45,8 @@ Inventory Bag E
 |type=Inventory 
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
-|source=[[Cowbo_Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
+|source=[[Cowbo Jones#Bake Him Away, Toys|Bake Him Away, Toys]]
+|notes= 
 }}
 Inventory Bag F
 {{InfoItem
@@ -50,7 +55,8 @@ Inventory Bag F
 |type=Inventory 
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
-|source=[[Cowbo_Jones#Commence Criminal Crimes!|Commence Criminal Crimes!]]
+|source=[[Cowbo Jones#Commence Criminal Crimes!|Commence Criminal Crimes!]]
+|notes= 
 }}
 Inventory Bag G
 {{InfoItem
@@ -60,6 +66,7 @@ Inventory Bag G
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[DropTable6]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0007199999999999999|1.0}}
@@ -81,7 +88,8 @@ Inventory Bag H
 |type=Inventory 
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
-|source=[[Cowbo_Jones#Oh No, not the Elderly!|Oh No, not the Elderly!]]
+|source=[[Cowbo Jones#Oh No, not the Elderly!|Oh No, not the Elderly!]]
+|notes= 
 }}
 Inventory Bag I
 {{InfoItem
@@ -90,6 +98,7 @@ Inventory Bag I
 |type=Inventory 
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
+|notes= 
 }}
 Inventory Bag U
 {{InfoItem
@@ -99,6 +108,7 @@ Inventory Bag U
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Gem Shop]]
+|notes= 
 }}
 Inventory Bag V
 {{InfoItem
@@ -108,6 +118,7 @@ Inventory Bag V
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Gem Shop]]
+|notes= 
 }}
 Inventory Bag W
 {{InfoItem
@@ -117,6 +128,7 @@ Inventory Bag W
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Gem Shop]]
+|notes= 
 }}
 Inventory Bag X
 {{InfoItem
@@ -126,6 +138,7 @@ Inventory Bag X
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Gem Shop]]
+|notes= 
 }}
 Inventory Bag Y
 {{InfoItem
@@ -135,6 +148,7 @@ Inventory Bag Y
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[Gem Shop]]
+|notes= 
 }}
 Inventory Bag Z
 {{InfoItem
@@ -143,6 +157,7 @@ Inventory Bag Z
 |type=Inventory 
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=200
+|notes= 
 }}
 Snakeskinventory Bag
 {{InfoItem
@@ -152,6 +167,7 @@ Snakeskinventory Bag
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=1300
 |source=[[Baby Boa]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.00008|1}}
@@ -167,6 +183,7 @@ Totally Normal and not fake Bag
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=5000
 |source=[[Mimic]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.000025|1}}
@@ -178,10 +195,12 @@ Blunderbag
 |type=Inventory 
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=1757
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=52
+|craftnum=53
 |levelreq=8
 |expgiven=60
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -189,17 +208,16 @@ Blunderbag
 |resource2=Dank Paypay Chest|quantity2=1
 |resource3=Spore Cap|quantity3=169
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts16|2}}
-{{detrecipe|3|InvStorageF|1}}
-{{detrecipe|3|Grasslands1|169}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EquipmentShirts16|2}}
-{{detrecipe/totals|InvStorageF|1}}
-{{detrecipe/totals|Grasslands1|169}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Tee|2}}
+{{detrecipe|3|Dank Paypay Chest|1}}
+{{detrecipe|3|Spore Cap|169}}
+|tot=
+{{detrecipe/totals|Spore Tee|2}}
+{{detrecipe/totals|Dank Paypay Chest|1}}
+{{detrecipe/totals|Spore Cap|169}}
+}}
 Sandy Satchel
 {{InfoItem
 |class=All
@@ -207,10 +225,12 @@ Sandy Satchel
 |type=Inventory 
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=48420
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=59
+|craftnum=60
 |levelreq=18
 |expgiven=1200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -218,17 +238,16 @@ Sandy Satchel
 |resource2=Snakeskinventory Bag|quantity2=1
 |resource3=Pocket Sand|quantity3=777
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Sewers1b|1}}
-{{detrecipe|3|InvBag100|1}}
-{{detrecipe|3|DesertA1|777}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Sewers1b|1}}
-{{detrecipe/totals|InvBag100|1}}
-{{detrecipe/totals|DesertA1|777}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Plop|1}}
+{{detrecipe|3|Snakeskinventory Bag|1}}
+{{detrecipe|3|Pocket Sand|777}}
+|tot=
+{{detrecipe/totals|Golden Plop|1}}
+{{detrecipe/totals|Snakeskinventory Bag|1}}
+{{detrecipe/totals|Pocket Sand|777}}
+}}
 Bummo Bag
 {{InfoItem
 |class=All
@@ -237,6 +256,7 @@ Bummo Bag
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=24
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=18|vendor=Blunder Hills|stock=1|buyprice=96}}
@@ -249,6 +269,7 @@ Capitalist Case
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=2499
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=1|buyprice=9996}}
@@ -261,6 +282,7 @@ Wealthy Wallet
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=249999
 |source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=11|vendor=YumYum Grotto|stock=1|buyprice=999996}}
@@ -273,6 +295,7 @@ Prosperous Pouch
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=24999999
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=11|vendor=Frostbite Towndra|stock=1|buyprice=99999996}}
@@ -284,6 +307,7 @@ Sack of Success
 |type=Inventory 
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=2499999999
+|notes= 
 }}
 Shivering Sack
 {{InfoItem
@@ -292,25 +316,26 @@ Shivering Sack
 |type=Inventory 
 |description=Hold down to permanently add +3 Slots to your Inventory. Can only be used once.
 |sellprice=5066
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=58
+|craftnum=59
 |levelreq=35
 |expgiven=5000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Mamooth Hide Bag|quantity1=1
 |resource2=Copper Ore|quantity2=22
 }}
-{{detrecipe/head}}
-{{detrecipe|3|InvBag110|1}}
-{{detrecipe|3|Copper|22}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|InvBag110|1}}
-{{detrecipe/totals|Copper|22}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mamooth Hide Bag|1}}
+{{detrecipe|3|Copper Ore|22}}
+|tot=
+{{detrecipe/totals|Mamooth Hide Bag|1}}
+{{detrecipe/totals|Copper Ore|22}}
+}}
 Mamooth Hide Bag
 {{InfoItem
 |class=All
@@ -318,10 +343,11 @@ Mamooth Hide Bag
 |type=Inventory 
 |description=Hold down to permanently add +1 Slots to your Inventory. Can only be used once.
 |sellprice=5000
-|source=[[mamooth]]
+|source=[[Mamooth]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[mamooth]]|0.000002|1}}
+{{detdrops|[[Mamooth]]|0.000002|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Shivering Sack]]|1|Crafting}}

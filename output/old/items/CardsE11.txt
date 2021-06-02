@@ -2,7 +2,7 @@
 |title=Neyeptune
 |order=11
 |category=Frostfire Tyundra
-|effect=+{%_Total_Accuracy
+|effect=+{% Total Accuracy
 |bonus=5
 |reqtier=17
 |source=[[Neyeptune]]

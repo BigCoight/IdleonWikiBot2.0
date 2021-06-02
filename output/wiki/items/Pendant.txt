@@ -10,6 +10,7 @@ Mint Icey
 |luck=1
 |misc=1% Xp From Monsters
 |sellprice=420
+|notes= 
 }}
 Strawbu Icey
 {{InfoItem
@@ -23,6 +24,7 @@ Strawbu Icey
 |luck=1
 |misc=2% Xp From Monsters
 |sellprice=420
+|notes= 
 }}
 Rok Road Icey
 {{InfoItem
@@ -37,6 +39,7 @@ Rok Road Icey
 |misc=3% Xp From Monsters
 |upgrade=1
 |sellprice=420
+|notes= 
 }}
 Rainbo Icey
 {{InfoItem
@@ -51,6 +54,7 @@ Rainbo Icey
 |misc=4% Xp From Monsters
 |upgrade=1
 |sellprice=420
+|notes= 
 }}
 Chocotastic Icey
 {{InfoItem
@@ -65,6 +69,7 @@ Chocotastic Icey
 |misc=5% Xp From Monsters
 |upgrade=1
 |sellprice=420
+|notes= 
 }}
 Blubbery Icey
 {{InfoItem
@@ -79,6 +84,7 @@ Blubbery Icey
 |misc=6% Xp From Monsters
 |upgrade=2
 |sellprice=420
+|notes= 
 }}
 Lava Icey
 {{InfoItem
@@ -93,6 +99,7 @@ Lava Icey
 |misc=8% Xp From Monsters
 |upgrade=2
 |sellprice=420
+|notes= 
 }}
 Legends Icey
 {{InfoItem
@@ -107,6 +114,7 @@ Legends Icey
 |misc=10% Xp From Monsters
 |upgrade=3
 |sellprice=27
+|notes= 
 }}
 Little Wooden Katana
 {{InfoItem
@@ -117,7 +125,8 @@ Little Wooden Katana
 |agi=1
 |upgrade=1
 |sellprice=200
-|source=[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|source=[[Picnic Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|notes= 
 }}
 Sleek Shank
 {{InfoItem
@@ -128,10 +137,12 @@ Sleek Shank
 |upgrade=2
 |defence=4
 |sellprice=2235
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=37
+|craftnum=38
 |levelreq=10
 |expgiven=350
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -140,25 +151,24 @@ Sleek Shank
 |resource3=Wooden Bow|quantity3=3
 |resource4=Gnarled Wand|quantity4=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat1|300}}
-{{detrecipe|3|TestObj1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|CopperBar|30}}
-{{detrecipe|3|EquipmentBows1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|CraftMat1|90}}
-{{detrecipe|3|EquipmentWands1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|OakTree|90}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat1|390}}
-{{detrecipe/totals|Grasslands1|225}}
-{{detrecipe/totals|CopperBar|30}}
-{{detrecipe/totals|OakTree|90}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Thread|300}}
+{{detrecipe|3|Wooden Spear|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Copper Bar|30}}
+{{detrecipe|3|Wooden Bow|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Thread|90}}
+{{detrecipe|3|Gnarled Wand|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Oak Logs|90}}
+|tot=
+{{detrecipe/totals|Thread|390}}
+{{detrecipe/totals|Spore Cap|225}}
+{{detrecipe/totals|Copper Bar|30}}
+{{detrecipe/totals|Oak Logs|90}}
+}}
 Carrot Horror
 {{InfoItem
 |class=All
@@ -170,6 +180,7 @@ Carrot Horror
 |upgrade=2
 |sellprice=500
 |source=[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]
+|notes= 
 }}
 Tarantulight
 {{InfoItem
@@ -183,6 +194,7 @@ Tarantulight
 |upgrade=3
 |sellprice=6500
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=7|vendor=Encroaching Forest Villas|stock=1|buyprice=26000}}
@@ -198,6 +210,7 @@ Quartz Pendant
 |luck=5
 |upgrade=3
 |sellprice=6500
+|notes= 
 }}
 Fuscismatia
 {{InfoItem
@@ -210,6 +223,7 @@ Fuscismatia
 |defence=5
 |sellprice=10000
 |source=[[Snelbie]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.000002|1}}
@@ -228,6 +242,7 @@ Lucky Fish Head
 |luck=5
 |upgrade=3
 |sellprice=6500
+|notes= 
 }}
 Strung Bludgeon
 {{InfoItem
@@ -237,28 +252,29 @@ Strung Bludgeon
 |weaponpower=4
 |upgrade=3
 |sellprice=271600
+|source=[[Smithing]], [[Mafioso|Recipe from Mafioso]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=17
+|craftnum=18
 |levelreq=28
 |expgiven=28000
-|recipefrom=Start
+|recipefrom=[[Mafioso]]
 |resource1=Bullfrog Horn|quantity1=9000
 |resource2=Glass Shard|quantity2=10
 |resource3=Distilled Water|quantity3=20
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Forest3|9000}}
-{{detrecipe|3|DesertA1b|10}}
-{{detrecipe|3|PureWater|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Forest3|9000}}
-{{detrecipe/totals|DesertA1b|10}}
-{{detrecipe/totals|PureWater|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bullfrog Horn|9000}}
+{{detrecipe|3|Glass Shard|10}}
+{{detrecipe|3|Distilled Water|20}}
+|tot=
+{{detrecipe/totals|Bullfrog Horn|9000}}
+{{detrecipe/totals|Glass Shard|10}}
+{{detrecipe/totals|Distilled Water|20}}
+}}
 Chaotic Amarok Pendant
 {{InfoItem
 |class=All
@@ -268,10 +284,12 @@ Chaotic Amarok Pendant
 |wis=12
 |upgrade=4
 |sellprice=4150
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=71
+|craftnum=72
 |levelreq=25
 |expgiven=15000
 |recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
@@ -279,17 +297,16 @@ Chaotic Amarok Pendant
 |resource2=Amarok Slab|quantity2=10
 |resource3=Distilled Water|quantity3=25
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Quest29|4}}
-{{detrecipe|3|Quest17|10}}
-{{detrecipe|3|PureWater|25}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest29|4}}
-{{detrecipe/totals|Quest17|10}}
-{{detrecipe/totals|PureWater|25}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Chaotic Amarok Slab|4}}
+{{detrecipe|3|Amarok Slab|10}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Chaotic Amarok Slab|4}}
+{{detrecipe/totals|Amarok Slab|10}}
+{{detrecipe/totals|Distilled Water|25}}
+}}
 Strung Steamy
 {{InfoItem
 |class=All
@@ -301,4 +318,5 @@ Strung Steamy
 |luck=3
 |misc=3% Drop Chance
 |sellprice=1
+|notes=Limited-time reward for players on Steam during the release on the Steam platform
 }}

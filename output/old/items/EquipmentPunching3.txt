@@ -9,10 +9,12 @@
 |reach=65
 |upgrade=3
 |sellprice=47650
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=4
+|craftnum=5
 |levelreq=18
 |expgiven=3300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -25,19 +27,18 @@
 {{usedin/row|[[Uninflated Glove]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat3|5000}}
-{{detrecipe|3|EquipmentPunching2|5}}
-{{detrecipe|40|CopperBar|100}}
-{{detrecipe|40|OakTree|375}}
-{{detrecipe|40|CraftMat5|100}}
-{{detrecipe|3|ToiletTree|2000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat3|5000}}
-{{detrecipe/totals|CopperBar|100}}
-{{detrecipe/totals|OakTree|375}}
-{{detrecipe/totals|CraftMat5|100}}
-{{detrecipe/totals|ToiletTree|2000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cue Tape|5000}}
+{{detrecipe|3|The Stingers|5}}
+{{detrecipe|40|Copper Bar|100}}
+{{detrecipe|40|Oak Logs|375}}
+{{detrecipe|40|Trusty Nails|100}}
+{{detrecipe|3|Potty Rolls|2000}}
+|tot=
+{{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Copper Bar|100}}
+{{detrecipe/totals|Oak Logs|375}}
+{{detrecipe/totals|Trusty Nails|100}}
+{{detrecipe/totals|Potty Rolls|2000}}
+}}

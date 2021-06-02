@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Virgo
-|mmm=Bongard
-|birthweight=8.76
+|starsign=Leo
+|mmm=Lawicki
+|birthweight=8.96
 |notes=fillme
 }}
 {{Quest/head}}

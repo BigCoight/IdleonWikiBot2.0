@@ -4,6 +4,7 @@
 |sellprice=20000
 |tier=III
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Goldric#Hoopsies|Hoopsies]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=7|vendor=Frostbite Towndra|stock=7|buyprice=80000}}

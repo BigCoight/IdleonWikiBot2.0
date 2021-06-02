@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Giftmas Blobulyte_Walking.gif
+|image=Giftmas Blobulyte Walking.gif
 |attack=1000
 |health=750000
 |defence=600
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Ghost|Meaning of Giftmas}}
-{{DropTable/head}}
 {{DropTable/coin|10|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Giftmas Box|0.05|1}}

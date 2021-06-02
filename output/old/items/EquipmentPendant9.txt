@@ -6,5 +6,6 @@
 |agi=1
 |upgrade=1
 |sellprice=200
-|source=[[Picnic_Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|source=[[Picnic Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]
+|notes= 
 }}

@@ -3,6 +3,7 @@
 |description=It's basically string cheese, but without the cheese.
 |sellprice=3
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=1|num=1|expcraft=5|time=100}}
 {{usedin/head}}
@@ -15,8 +16,8 @@
 {{usedin/row|[[Green Tee]]|150|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|600|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Stable Jenius|Stable Jenius]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Spool Sprite|Spool Sprite]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Stable Jenius]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Spool Sprite]]|Lots|Alchemy}}
 |}

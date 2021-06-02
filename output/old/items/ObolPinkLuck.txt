@@ -6,4 +6,5 @@
 |misc=30% Drop Chance
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}

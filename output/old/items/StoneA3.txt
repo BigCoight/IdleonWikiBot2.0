@@ -3,7 +3,8 @@
 |description=Drag onto any Armor to apply. +3 Defence +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=15000
 |tier=III
-|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=6|vendor=Frostbite Towndra|stock=10|buyprice=60000}}

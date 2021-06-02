@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Flycicle
 |order=11
-|category=Bosses
-|effect=+{%_Catching_Away_Gains
+|category=Hard Resources
+|effect=+{% Catching Away Gains
 |bonus=2.5
 |reqtier=10
 |source=[[Catching#Drops|Catching Flycicle]]

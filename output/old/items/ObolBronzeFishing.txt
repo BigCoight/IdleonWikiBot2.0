@@ -7,4 +7,5 @@
 |sellprice=1
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}

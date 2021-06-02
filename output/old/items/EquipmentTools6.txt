@@ -8,15 +8,17 @@
 |agi=4
 |misc=1% Mining Efficincy
 |upgrade=3
-|sellprice=2291200
+|sellprice=2199200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=28
+|craftnum=29
 |levelreq=26
 |expgiven=16000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Platinum Bar|quantity1=1000
+|resource1=Platinum Bar|quantity1=800
 |resource2=Pincer Arm|quantity2=10500
 |resource3=Gold Pickaxe|quantity3=2
 }}
@@ -24,22 +26,21 @@
 {{usedin/row|[[Dementia Pickaxe]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|PlatBar|1000}}
-{{detrecipe|3|DesertB3|10500}}
-{{detrecipe|3|EquipmentTools5|2}}
-{{detrecipe|40|DesertA2|5000}}
-{{detrecipe|40|GoldBar|1600}}
-{{detrecipe|40|EquipmentTools3|6}}
-{{detrecipe|80|IronBar|600}}
-{{detrecipe|80|Jungle3|1200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|PlatBar|1000}}
-{{detrecipe/totals|DesertB3|10500}}
-{{detrecipe/totals|DesertA2|5000}}
-{{detrecipe/totals|GoldBar|1600}}
-{{detrecipe/totals|IronBar|600}}
-{{detrecipe/totals|Jungle3|1200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Platinum Bar|800}}
+{{detrecipe|3|Pincer Arm|10500}}
+{{detrecipe|3|Gold Pickaxe|2}}
+{{detrecipe|40|Megalodon Tooth|5000}}
+{{detrecipe|40|Gold Bar|1600}}
+{{detrecipe|40|Iron Pickaxe|6}}
+{{detrecipe|80|Iron Bar|600}}
+{{detrecipe|80|Carrot Cube|1200}}
+|tot=
+{{detrecipe/totals|Platinum Bar|800}}
+{{detrecipe/totals|Pincer Arm|10500}}
+{{detrecipe/totals|Megalodon Tooth|5000}}
+{{detrecipe/totals|Gold Bar|1600}}
+{{detrecipe/totals|Iron Bar|600}}
+{{detrecipe/totals|Carrot Cube|1200}}
+}}

@@ -9,13 +9,15 @@
 |upgrade=4
 |defence=25
 |sellprice=441000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=20
+|craftnum=21
 |levelreq=29
 |expgiven=20000
-|recipefrom=Start
+|recipefrom=
 |resource1=Jellyfish|quantity1=4000
 |resource2=Iron Helmet|quantity2=4
 |resource3=Platinum Bar|quantity3=750
@@ -23,17 +25,16 @@
 {{usedin/head}}
 {{usedin/row|[[Dementia Helmet]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish3|4000}}
-{{detrecipe|3|EquipmentHats18|4}}
-{{detrecipe|40|IronBar|500}}
-{{detrecipe|40|Forest1|1200}}
-{{detrecipe|3|PlatBar|750}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish3|4000}}
-{{detrecipe/totals|IronBar|500}}
-{{detrecipe/totals|Forest1|1200}}
-{{detrecipe/totals|PlatBar|750}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Jellyfish|4000}}
+{{detrecipe|3|Iron Helmet|4}}
+{{detrecipe|40|Iron Bar|500}}
+{{detrecipe|40|Goblin Ear|1200}}
+{{detrecipe|3|Platinum Bar|750}}
+|tot=
+{{detrecipe/totals|Jellyfish|4000}}
+{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Goblin Ear|1200}}
+{{detrecipe/totals|Platinum Bar|750}}
+}}

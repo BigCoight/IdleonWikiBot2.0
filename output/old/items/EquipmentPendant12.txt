@@ -9,6 +9,7 @@
 |upgrade=3
 |sellprice=6500
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=7|vendor=Encroaching Forest Villas|stock=1|buyprice=26000}}

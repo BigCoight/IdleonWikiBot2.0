@@ -7,10 +7,12 @@
 |upgrade=3
 |defence=8
 |sellprice=108950
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=53
+|craftnum=54
 |levelreq=24
 |expgiven=6500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -19,26 +21,25 @@
 |resource3=Goldfish|quantity3=1250
 |resource4=Hermit Can|quantity4=1000
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShoes3|1}}
-{{detrecipe|40|GoldBar|600}}
-{{detrecipe|40|EquipmentShoes15|2}}
-{{detrecipe|80|CraftMat5|1000}}
-{{detrecipe|80|IronBar|250}}
-{{detrecipe|80|EquipmentShoes1|4}}
-{{detrecipe|120|CopperBar|500}}
-{{detrecipe|40|PureWater|4}}
-{{detrecipe|3|PureWater|9}}
-{{detrecipe|3|Fish1|1250}}
-{{detrecipe|3|Fish2|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|9}}
-{{detrecipe/totals|Fish1|1250}}
-{{detrecipe/totals|Fish2|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Boots|1}}
+{{detrecipe|40|Gold Bar|600}}
+{{detrecipe|40|Iron Boots|2}}
+{{detrecipe|80|Trusty Nails|1000}}
+{{detrecipe|80|Iron Bar|250}}
+{{detrecipe|80|Copper Boots|4}}
+{{detrecipe|120|Copper Bar|500}}
+{{detrecipe|40|Distilled Water|4}}
+{{detrecipe|3|Distilled Water|9}}
+{{detrecipe|3|Goldfish|1250}}
+{{detrecipe|3|Hermit Can|1000}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|9}}
+{{detrecipe/totals|Goldfish|1250}}
+{{detrecipe/totals|Hermit Can|1000}}
+}}

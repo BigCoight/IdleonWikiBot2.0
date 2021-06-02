@@ -1,0 +1,37 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Virgo
+|mmm=Cast
+|birthweight=3.35
+|notes=fillme
+}}
+{{Quest/head}}
+{{Quest
+|name=Crikey, it's cold out!
+|difficulty=4
+|requirements=1x {{CraftReq|Melty Cube}}
+|consumed=Yes
+|rewards=69x {{CraftReq|Gem}}, 1x {{CraftReq|12 HR Time Candy}}, 4x {{CraftReq|1 HR Time Candy}}
+|notes= 
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Oi mate! I reckon it's a bit cold out 'ere for a half naked fella like yourself! It's a darn shame you humans aren't born with a snowman heater on ya noggin like I am would do you wonders in the frozen outback!
+}}
+{{dialogue/row
+|text=Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death! Why dontcha come back a bit later then eh?
+}}
+{{dialogue/row
+|text=Hopefully Lava will change my dialogue before release!
+|quest=Crikey, it's cold out!
+}}
+{{dialogue/row
+|text=Whoa there mate! You ain't got any inventory slots open clear up 3 spaces so I can getcha your goodies!
+}}
+{{dialogue/row
+|text=Alrighty then mate! You're lookin' ready to weather the ol' tundra outback come on over and I'll show you me tasks!
+}}
+|}

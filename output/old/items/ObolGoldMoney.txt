@@ -7,4 +7,5 @@
 |misc=13% Money
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}

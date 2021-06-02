@@ -2,7 +2,7 @@
 |title=Dune Soul
 |order=11
 |category=Medium Resources
-|effect=+{%_Max_Charge
+|effect=+{% Max Charge
 |bonus=3
 |reqtier=3
 }}

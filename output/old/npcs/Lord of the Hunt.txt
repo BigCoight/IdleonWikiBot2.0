@@ -1,0 +1,16 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Gemini
+|mmm=Cannon
+|birthweight=7.23
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+}}
+|}

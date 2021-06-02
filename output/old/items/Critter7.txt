@@ -2,12 +2,10 @@
 |type=Critter
 |description=It could use a carrot, the lil' guy needs some food!
 |sellprice=47
-|source=Trapping, [[Bunny]]
+|source=[[Trapping]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Bunny]]|0.015|1}}
-|}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|4000|Quests}}
-{{usedin/row|[[Vials#Bunny Brew|Bunny Brew]]|Lots|Alchemy}}
+{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|4000|Quests}}
+{{usedin/row|[[Alchemy#Vials|Bunny Brew]]|Lots|Alchemy}}
 |}

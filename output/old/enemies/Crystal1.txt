@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Crystal Crabal_Walking.gif
+|image=Crystal Crabal Walking.gif
 |attack=1
 |health=7500
 |defence=180
@@ -12,11 +12,10 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Dig Doug|Sheepie}}
-{{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.008}}
-{{DropTable/row|Crystallin|.1|1|([[Papua_Piggea]])}}
-{{DropTable/talentQuest Chungus|.005}}}}
+{{DropTable/row|Crystallin|.1|1|([[Papua Piggea]])}}
+{{DropTable/talent|Quest Chungus|.005}}}}
 {{DropTable6|chance=.6}}
 {{DropTable7|chance=.5}}
 {{DropTable8|chance=.4}}

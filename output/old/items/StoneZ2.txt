@@ -4,6 +4,7 @@
 |sellprice=777
 |tier=II
 |source=[[SuperDropTable3]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sheepie]]|0.0000105|3.0}}
@@ -12,7 +13,7 @@
 {{detdrops|[[Xylobone]]|0.000042|3.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.0042|3.0}}
 {{detdrops|[[Bloque]]|0.0000105|3.0}}
-{{detdrops|[[mamooth]]|0.00001134|3.0}}
+{{detdrops|[[Mamooth]]|0.00001134|3.0}}
 {{detdrops|[[Snowman]]|0.000012179999999999999|3.0}}
 {{detdrops|[[Penguin]]|0.000013019999999999997|3.0}}
 {{detdrops|[[Thermister]]|0.00001386|3.0}}

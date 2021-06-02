@@ -1,16 +1,16 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Sagittarius
-|mmm=Yates
-|birthweight=4.05
+|starsign=Leo
+|mmm=Lawless
+|birthweight=1.06
 |notes=fillme
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Breathe in... Breathe out... @ Breathe in... Breathe out... @ Breathe in... Breathe out...
 }}
 |}

@@ -9,10 +9,12 @@
 |reach=170
 |upgrade=2
 |sellprice=2000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=25
+|craftnum=26
 |levelreq=12
 |expgiven=270
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -21,15 +23,14 @@
 }}
 {{usedin/head}}
 {{usedin/row|[[Spiked Menace]]|3|Crafting}}
-{{usedin/row|[[Desert_Davey#U Cool?|U Cool?]]|1|Quests}}
+{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Jungle1|125}}
-{{detrecipe|3|BirchTree|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Jungle1|125}}
-{{detrecipe/totals|BirchTree|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slime Sludge|125}}
+{{detrecipe|3|Bleach Logs|250}}
+|tot=
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Bleach Logs|250}}
+}}

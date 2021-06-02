@@ -2,7 +2,7 @@
 |title=Baby Boa
 |order=5
 |category=Blunder Hills
-|effect=+{_Move_Spd
+|effect=+{ Move Spd
 |bonus=1
 |reqtier=9
 |source=[[Baby Boa]]

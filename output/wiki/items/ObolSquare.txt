@@ -11,6 +11,7 @@ Silver Obol of Pocket Change
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable1]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}
@@ -61,6 +62,7 @@ Golden Obol of Plentiful Riches
 |misc=13% Money
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Golden Obol of Diligent Digging
 {{InfoItem
@@ -72,6 +74,7 @@ Golden Obol of Diligent Digging
 |str=2
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Golden Obol of Huge Hackin
 {{InfoItem
@@ -83,6 +86,7 @@ Golden Obol of Huge Hackin
 |wis=2
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Golden Obol of Crazy Carp
 {{InfoItem
@@ -94,6 +98,7 @@ Golden Obol of Crazy Carp
 |str=2
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Golden Obol of Insane Insects
 {{InfoItem
@@ -105,6 +110,7 @@ Golden Obol of Insane Insects
 |agi=2
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}
 Silver Obol of Double Sixes
 {{InfoItem
@@ -116,6 +122,7 @@ Silver Obol of Double Sixes
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable2]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
@@ -148,9 +155,6 @@ Silver Obol of Double Sixes
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0000019845000000000002|2.0}}
-{{detdrops|[[Frigid Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Bandit Bob]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}

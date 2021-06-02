@@ -3,6 +3,7 @@
 |description=It's often misunderstood that this is part of the spore's head. But it's actually just a stylish hat. ... well, stylish in Mushroom Culture at least.
 |sellprice=3
 |source=[[Green Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.22|1}}
@@ -16,8 +17,8 @@
 {{usedin/row|[[Blue Tee]]|25|Crafting}}
 {{usedin/row|[[Blunderbag]]|169|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Mushroom Soup|Mushroom Soup]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Mage Is Best]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Mushroom Soup]]|Lots|Alchemy}}
 |}

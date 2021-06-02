@@ -2,22 +2,23 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Critters.
 |sellprice=900
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=81
+|craftnum=82
 |levelreq=15
 |expgiven=450
-|recipefrom=Start
+|recipefrom=
 |resource1=Froge|quantity1=200
 |resource2=Redox Salts|quantity2=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Critter1|200}}
-{{detrecipe|3|Refinery1|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter1|200}}
-{{detrecipe/totals|Refinery1|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Froge|200}}
+{{detrecipe|3|Redox Salts|3}}
+|tot=
+{{detrecipe/totals|Froge|200}}
+{{detrecipe/totals|Redox Salts|3}}
+}}

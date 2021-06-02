@@ -3,6 +3,7 @@
 |description=Ewww, slimey.
 |sellprice=10
 |source=[[Slime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Slime]]|0.19|1}}
@@ -15,5 +16,5 @@
 {{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
 {{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
 |}

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Bloodbone_Walking.gif
+|image=Bloodbone Walking.gif
 |attack=3000
 |health=10000000
 |defence=100
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Xylobone|Crystal Cattle}}
-{{DropTable/head}}
 {{DropTable/coin|10|0.5}}
 {{DropTable/card|0.0001}}
 {{DropTable16|chance=0.00004}}

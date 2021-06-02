@@ -3,6 +3,7 @@
 |description=It's like a monocle, but not quite.
 |sellprice=180
 |source=[[Sand Giant]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sand Giant]]|0.152|1}}
@@ -10,5 +11,5 @@
 {{usedin/head}}
 {{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Cheap Shot|Cheap Shot]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Cheap Shot]]|Lots|Alchemy}}
 |}

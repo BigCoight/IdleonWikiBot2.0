@@ -3,6 +3,7 @@
 |description=Increases Base Damage Dealt to all monsters by [. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[SuperDropTable1]]
+|notes= 
 }}
 {{gfoodbonus|400|Increases Base Damage Dealt to all monsters by [.}}
 {{detdrops/head}}

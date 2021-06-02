@@ -1,0 +1,9 @@
+{{npc
+|location=Slamabam Straightaway
+|noquest=3
+|repeatable=Unknown
+|birthweight=1.2
+|starsign=Libra
+|mmm=Ramirez
+|notes=[[Carpetiem]] is found in the [[Worlds#D8 - Slamabam Straightaway|Slamabam Straightaway]].
+}}

@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Owlio
 |order=5
-|category=Bosses
-|effect=+{%_EXP_from_monsters
+|category=Hard Resources
+|effect=+{% EXP from monsters
 |bonus=1.25
 |reqtier=4
 }}

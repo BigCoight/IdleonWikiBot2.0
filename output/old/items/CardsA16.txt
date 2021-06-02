@@ -2,7 +2,7 @@
 |title=Wood Mushroom
 |order=15
 |category=Blunder Hills
-|effect=+{%_Total_Accuracy
+|effect=+{% Total Accuracy
 |bonus=5
 |reqtier=10
 |source=[[Wood Mushroom]]

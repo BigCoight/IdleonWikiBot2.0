@@ -1,9 +1,11 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[Builder_Bird#Restoring Power to the Portal|Restoring Power to the Portal]]
+|quest=[[Builder Bird#Restoring Power to the Portal|Restoring Power to the Portal]]
 |description=Restores power to the Desert Portal in the Grasslands Town.
 |sellprice=1
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
-{{usedin/row|[[Builder_Bird#Restoring Power to the Portal|Restoring Power to the Portal]]|1|Quests}}
+{{usedin/row|[[Builder Bird#Restoring Power to the Portal|Restoring Power to the Portal]]|1|Quests}}
 |}

@@ -1,4 +1,3 @@
-from numpy.lib.arraysetops import isin
 from libs.jsonEncoder import CompactJSONEncoder
 import deepdiff
 from deepdiff.helper import CannotCompare
@@ -46,16 +45,14 @@ def compareItem(x, y, level=None):
         raise CannotCompare() from None
 
 
-def compare(
-    old, new, name, compareFunc=None, excludeReges="",
-):
+def compare(old, new, name, compareFunc=None, excludeReges=""):
     def getMatch(match):
         if match[0] == "":
             return match[1]
         else:
             return match[0]
 
-    regex = r"\['([\w \-']*)'\]|\[([0-9]*)\]"
+    regex = r"\['([\w \-\.']*)'\]|\[([0-9]*)\]"
     formattedChanges = {"Changes": {}, "New": {}, "Removed": {}}
     difference = deepdiff.DeepDiff(old, new, ignore_order=False, exclude_regex_paths=excludeReges, iterable_compare_func=compareFunc, ignore_numeric_type_changes=True)
     print(difference.keys())
@@ -181,4 +178,4 @@ def main(oldVer, newVer):
 
 
 if __name__ == "__main__":
-    main("114b", "120")
+    main("120", "120b")

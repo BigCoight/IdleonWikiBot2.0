@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Egg Capsule_Walking.gif
+|image=Egg Capsule Walking.gif
 |attack=1000
 |health=750000
 |defence=600
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Egggulyte|}}
-{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Gem|0.3|1}}

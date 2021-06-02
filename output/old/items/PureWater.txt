@@ -2,8 +2,29 @@
 |type=Material
 |description=The full filtration process also invovles filtering the diamonds through a vat of diamonds before using those filtered diamonds to filter the water! If only they'd filter their filtration process through diamonds so this item description wouldn't be so long.
 |sellprice=50
-|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]]
+|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[DropTable14]], [[DropTable15]], [[DropTable16]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.000054999999999999995|1.0}}
+{{detdrops|[[Frost Flake]]|0.00006159999999999999|1.0}}
+{{detdrops|[[Sir Stache]]|0.00006819999999999999|1.0}}
+{{detdrops|[[Xylobone]]|0.00021999999999999998|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.022|1.0}}
+{{detdrops|[[Bloque]]|0.0000625|1.0}}
+{{detdrops|[[Mamooth]]|0.0000675|1.0}}
+{{detdrops|[[Snowman]]|0.0000725|1.0}}
+{{detdrops|[[Penguin]]|0.0000775|1.0}}
+{{detdrops|[[Thermister]]|0.0000825|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.025|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.00000108|1.0}}
+{{detdrops|[[Quenchie]]|0.0000675|1.0}}
+{{detdrops|[[Cryosnake]]|0.0000756|1.0}}
+{{detdrops|[[Bop Box]]|0.000081|1.0}}
+{{detdrops|[[Neyeptune]]|0.0000864|1.0}}
+{{detdrops|[[Bloodbone]]|0.00000108|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.027|1.0}}
+|}
 {{usedin/head}}
 {{usedin/row|[[Chaotic Amarok Pendant]]|25|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|3|Crafting}}

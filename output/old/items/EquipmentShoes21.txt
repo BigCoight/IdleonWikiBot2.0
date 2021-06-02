@@ -9,10 +9,12 @@
 |upgrade=6
 |defence=18
 |sellprice=550345
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=63
+|craftnum=64
 |levelreq=32
 |expgiven=25000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -20,30 +22,29 @@
 |resource2=Nuget Cake|quantity2=3
 |resource3=Platinum Boots|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|5}}
-{{detrecipe|3|DesertA3b|3}}
-{{detrecipe|3|EquipmentShoes4|1}}
-{{detrecipe|40|PalmTree|8000}}
-{{detrecipe|40|Fish3|8000}}
-{{detrecipe|40|EquipmentShoes3|3}}
-{{detrecipe|80|GoldBar|1800}}
-{{detrecipe|80|EquipmentShoes15|6}}
-{{detrecipe|120|CraftMat5|3000}}
-{{detrecipe|120|IronBar|750}}
-{{detrecipe|120|EquipmentShoes1|12}}
-{{detrecipe|160|CopperBar|1500}}
-{{detrecipe|80|PureWater|12}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|5}}
-{{detrecipe/totals|DesertA3b|3}}
-{{detrecipe/totals|PalmTree|8000}}
-{{detrecipe/totals|Fish3|8000}}
-{{detrecipe/totals|GoldBar|1800}}
-{{detrecipe/totals|CraftMat5|3000}}
-{{detrecipe/totals|IronBar|750}}
-{{detrecipe/totals|CopperBar|1500}}
-{{detrecipe/totals|PureWater|12}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|5}}
+{{detrecipe|3|Nuget Cake|3}}
+{{detrecipe|3|Platinum Boots|1}}
+{{detrecipe|40|Tropilogs|8000}}
+{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Gold Boots|3}}
+{{detrecipe|80|Gold Bar|1800}}
+{{detrecipe|80|Iron Boots|6}}
+{{detrecipe|120|Trusty Nails|3000}}
+{{detrecipe|120|Iron Bar|750}}
+{{detrecipe|120|Copper Boots|12}}
+{{detrecipe|160|Copper Bar|1500}}
+{{detrecipe|80|Distilled Water|12}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|5}}
+{{detrecipe/totals|Nuget Cake|3}}
+{{detrecipe/totals|Tropilogs|8000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Trusty Nails|3000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Copper Bar|1500}}
+{{detrecipe/totals|Distilled Water|12}}
+}}

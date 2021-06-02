@@ -2,14 +2,12 @@
 |type=Critter
 |description=Adorable!!! Look how cute it's tail is, and that itty bitty nose, and the fact that it's a mouse and not a rat so I don't want to hit it with a broom!
 |sellprice=15
-|source=Trapping, [[Mousey]]
+|source=[[Trapping]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Mousey]]|0.015|1}}
-|}
 {{usedin/head}}
 {{usedin/row|[[Big Critter Pouch]]|10000|Crafting}}
-{{usedin/row|[[Lord_of_the_Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|1000|Quests}}
-{{usedin/row|[[Power Cauldron#Buff Boi Talent|Buff Boi Talent]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Bubonic Burp|Bubonic Burp]]|Lots|Alchemy}}
+{{usedin/row|[[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|1000|Quests}}
+{{usedin/row|[[Alchemy#Power Cauldron|Buff Boi Talent]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Bubonic Burp]]|Lots|Alchemy}}
 |}

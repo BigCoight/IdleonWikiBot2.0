@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Sandy Pot_Walking.gif
+|image=Sandy Pot Walking.gif
 |attack=55
 |health=4000
 |defence=115
@@ -13,8 +13,7 @@
 |crystalname=Crystal Crabal
 |hascard=Yes
 }}
-{{EnemyNavigation|Wood Mushroom|Mimic}}
-{{DropTable/head}}
+{{EnemyNavigation|Boop|Mimic}}
 {{DropTable/coin|40|0.5}}
 {{DropTable/row|Pocket Sand|0.22|1}}
 {{DropTable/card|0.0001}}

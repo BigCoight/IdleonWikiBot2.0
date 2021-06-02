@@ -1,6 +1,4 @@
-{{DropTable/head}}
 {{DropTable/row|Bugsack Stamp|{{#expr: {{{chance}}}*0.001}}|1}}
 {{DropTable/row|Ol Reliable Statue|{{#expr: {{{chance}}}*.102}}|1}}
 {{DropTable/row|Silver LUK Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
-|}

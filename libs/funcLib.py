@@ -16,9 +16,9 @@ def unScience(val):
     return val
 
 
-def repU(val, t=False):
+def repU(val, preserveCapitilization=False):
     try:
-        if t:
+        if preserveCapitilization:
             return val.replace('|', ' ').replace('_', ' ')
         else:
             return val.replace('|', ' ').replace('_', ' ').title()

@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Aries
-|mmm=Cataldi
-|birthweight=2.43
-|notes=fillme
+{{npc
+|location=Froggy Fields
+|noquest=3
+|repeatable=Unknown
+|birthweight=6.82
+|starsign=Leo
+|mmm=Johnson
+|notes=[[Hamish]] is found in [[Worlds#G3 - Froggy Fields|Froggy Fields]], the second zone of Grasslands, located in the bottom of the area.
+
+He primarily focuses on account-wide items only one character has to unlock for all to benefit from, the only exception is a {{CraftReq|Talent Point Reset Potion}}.
 }}
 {{Quest/head}}
 {{Quest
@@ -23,6 +25,7 @@
 |requirements=1x {{CraftReq|Purple Tupacband}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Choppin' Bag Stamp}}, 150 Chopping Experience, 1x {{CraftReq|Talent Point Reset Potion}}
+|notes=Recipe drops from this NPC before quest.
 }}
 {{Quest
 |name=Slime for Storage
@@ -31,6 +34,7 @@
 |requirements=50x {{CraftReq|Slime Sludge}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Storage Chest 1}}, 150 Chopping Experience
+|notes=Requires level 7 choppin to start this quest.
 }}
 |}
 {{dialogue/head}}

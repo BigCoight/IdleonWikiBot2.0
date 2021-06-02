@@ -2,7 +2,7 @@
 |title=Penguin
 |order=6
 |category=Frostfire Tyundra
-|effect=+{_Base_WIS
+|effect=+{ Base WIS
 |bonus=7
 |reqtier=15
 |source=[[Penguin]]

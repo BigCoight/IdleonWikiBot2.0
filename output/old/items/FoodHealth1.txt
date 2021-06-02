@@ -3,11 +3,12 @@
 |description=Auto-Used when your health goes below 50%. Restores 20 HP. Has a 30 second Cooldown.
 |sellprice=2
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Green Mushroom]], [[Scripticus#Mr. Worldwide|Mr. Worldwide]], [[DropTable1]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=500|buyprice=8}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Cramped Food Pouch]]|75|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
 |}

@@ -3,6 +3,7 @@
 |description=How many O's are in this item's name? Yep, you're right, there's six! Good job!
 |sellprice=95
 |source=[[Mafioso]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mafioso]]|0.2|1}}
@@ -10,5 +11,5 @@
 {{usedin/head}}
 {{usedin/row|[[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Quick Slap]]|Lots|Alchemy}}
 |}

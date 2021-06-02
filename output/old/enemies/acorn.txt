@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Nutto_Walking.gif
+|image=Nutto Walking.gif
 |attack=40
 |health=4000
 |defence=200
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Walking Stick|Crystal Carrot}}
-{{DropTable/head}}
 {{DropTable/coin|110|.3}}
 {{DropTable/row|Acorn|0.23|1}}
 {{DropTable/card|0.000050}}

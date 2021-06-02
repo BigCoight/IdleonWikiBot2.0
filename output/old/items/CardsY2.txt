@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Meaning of Giftmas
 |order=2
-|category=NYI
-|effect=+{%_Money_from_Monsters
+|category=Event
+|effect=+{% Money from Monsters
 |bonus=3
 |reqtier=1.5
 }}

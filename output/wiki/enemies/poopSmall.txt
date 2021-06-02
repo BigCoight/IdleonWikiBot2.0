@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Poop_Walking.gif
+|image=Poop Walking.gif
 |attack=150
 |health=9000
 |defence=100
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Gigafrog|Rat}}
-{{DropTable/head}}
 {{DropTable/coin|80|.3}}
 {{DropTable/row|Corn Kernels|0.24|1}}
 {{DropTable/card|0.000060}}

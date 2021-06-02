@@ -1,13 +1,14 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
+|quest=[[TP Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
 |description=It's a registration form for the job of Sanitation Comissioner. One of the requirements is being able to pick up dog poop without immediately throwing the bag on the ground afterward.
 |sellprice=200
 |source=[[Dr Defecaus]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Dr Defecaus]]|1|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]|1|Quests}}
+{{usedin/row|[[TP Pete#Fired for BS Reasons!|Fired for BS Reasons!]]|1|Quests}}
 |}

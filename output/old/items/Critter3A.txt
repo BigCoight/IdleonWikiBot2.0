@@ -2,10 +2,11 @@
 |type=Critter
 |description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!! SOMEONE DIRECT ME TO THE CAN OPENERRRR!!!!
 |sellprice=10
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Big Fish Pouch]]|4|Crafting}}
-{{usedin/row|[[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|2|Quests}}
-{{usedin/row|[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]|500|Quests}}
+{{usedin/row|[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|2|Quests}}
+{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|500|Quests}}
 |}

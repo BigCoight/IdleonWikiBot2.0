@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Squiddy Soul
 |order=3
-|category=Bosses
-|effect=+{%_Charge_Rate
+|category=Hard Resources
+|effect=+{% Charge Rate
 |bonus=2.5
 |reqtier=5
 }}

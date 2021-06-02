@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Penguin_Walking.gif
+|image=Penguin Walking.gif
 |attack=800
 |health=160000
 |defence=2000
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Snowman|Thermister}}
-{{DropTable/head}}
 {{DropTable/coin|310|0.36}}
 {{DropTable/row|Pen|0.16|1}}
 {{DropTable/card|0.0001}}

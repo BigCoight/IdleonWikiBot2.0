@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Boop
 |order=2
-|category=Event
-|effect=+{%_Fighting_AFK_gain_rate
+|category=Blunder Hills
+|effect=+{% Fighting AFK gain rate
 |bonus=1
 |reqtier=1
 |source=[[Boop]]

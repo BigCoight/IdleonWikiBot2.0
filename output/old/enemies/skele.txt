@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Xylobone_Walking.gif
+|image=Xylobone Walking.gif
 |attack=200
 |health=200000
 |defence=100
@@ -13,7 +13,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Dedotated Ram|Bloodbone}}
-{{DropTable/head}}
 {{DropTable/coin|10|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable14|chance=0.01}}

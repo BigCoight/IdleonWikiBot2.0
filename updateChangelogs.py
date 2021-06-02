@@ -102,6 +102,19 @@ def doStampData(new, data):
     return result + "\n"
 
 
+def doStatueData(new, data):
+    stampChangeNames = ["Name", "Bonus", "X1", "Increment"]
+    result = writepBold("Statue Data")
+    if new:
+        for n, stampData in enumerate(data):
+            result += writePatchnote(stampChangeNames[n], " ", stampData)
+        return result + "\n"
+
+    for datIndex, stampData in data.items():
+        result += writePatchnote(stampChangeNames[int(datIndex)], stampData[0], stampData[1])
+    return result + "\n"
+
+
 def doDescData(new, data):
     result = writepBold("Description")
     if new:
@@ -196,18 +209,19 @@ def writeItemsOut(changeLog):
     def getItemType(internalName):
         return items[internalName].get("Type", "Other")
 
-    changeToFunction = {"recipeData": doRecipeData, "cardData": doCardData, "description": doDescData, "stampData": doStampData}
+    changeToFunction = {"recipeData": doRecipeData, "cardData": doCardData, "description": doDescData, "stampData": doStampData, "statueData": doStatueData}
     items = openJSON("Items")
     changedItems = {}
     currentChangelogOut = ""
 
     for internalName, itemChange in changeLog["Changes"].items():
         itemType = getItemType(internalName)
+        addToDict(changedItems, itemType, writepItem(nameDic(internalName)))
         for atrChange, valChange in itemChange.items():
-            addToDict(changedItems, itemType, writepItem(nameDic(internalName)))
             if func := changeToFunction.get(atrChange):
                 addToDict(changedItems, itemType, func(False, valChange))
             else:
+                print(valChange)
                 addToDict(changedItems, itemType, writePatchnote(atrChange, valChange[0], valChange[1]))
 
     currentChangelogOut += writecChangeHead("Items")
@@ -443,6 +457,7 @@ def writeTalentOut(changeLog):
     for caulName, talentPageChange in changeLog["Changes"].items():
         for bubbleName, talentChange in talentPageChange.items():
             addToDict(changedTalents, caulName, writepBold(bubbleName))
+            print(talentChange)
             for atrChange, valChange in talentChange.items():
                 addToDict(changedTalents, caulName, writePatchnote(atrChange, repU(valChange[0], True), repU(valChange[1], True)))
 

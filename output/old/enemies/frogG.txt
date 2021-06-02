@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Frog_Walking.gif
+|image=Frog Walking.gif
 |attack=5
 |health=50
 |defence=2
@@ -14,12 +14,11 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Red Mushroom|Bored Bean}}
-{{DropTable/head}}
 {{DropTable/coin|3|0.48}}
 {{DropTable/row|Frog Leg|0.21|1}}
 {{DropTable/card|0.0001}}
-{{DropTable/row|Ketchup Bottle|0.15|1|([[Picnic_Stowaway]])}}
-{{DropTable/row|Mustard Bottle|0.15|1|([[Picnic_Stowaway]])}}
+{{DropTable/row|Ketchup Bottle|0.15|1|([[Picnic Stowaway]])}}
+{{DropTable/row|Mustard Bottle|0.15|1|([[Picnic Stowaway]])}}
 {{DropTable/row|Small Mana Potion|0.002|1}}
 {{DropTable/row|Green Headband|0.00025|1}}
 {{DropTable/row|Dank Paypay Chest|0.0001|1}}

@@ -8,37 +8,38 @@
 |wis=4
 |reach=80
 |upgrade=3
-|sellprice=412290
+|sellprice=76290
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=25
+|craftnum=26
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Nuget Cake|quantity1=3
-|resource2=Leather Hide|quantity2=6000
+|resource2=Leather Hide|quantity2=400
 |resource3=Royal Bayonet|quantity3=2
 }}
 {{usedin/head}}
 {{usedin/row|[[The Ice Breaker]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|DesertA3b|3}}
-{{detrecipe|3|CraftMat9|6000}}
-{{detrecipe|3|TestObj3|2}}
-{{detrecipe|40|ForestTree|2500}}
-{{detrecipe|40|TestObj7|6}}
-{{detrecipe|80|Jungle1|750}}
-{{detrecipe|80|CraftMat6|750}}
-{{detrecipe|40|PureWater|16}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DesertA3b|3}}
-{{detrecipe/totals|CraftMat9|6000}}
-{{detrecipe/totals|ForestTree|2500}}
-{{detrecipe/totals|Jungle1|750}}
-{{detrecipe/totals|CraftMat6|750}}
-{{detrecipe/totals|PureWater|16}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Nuget Cake|3}}
+{{detrecipe|3|Leather Hide|400}}
+{{detrecipe|3|Royal Bayonet|2}}
+{{detrecipe|40|Forest Fibres|2500}}
+{{detrecipe|40|Steel Axe|6}}
+{{detrecipe|80|Slime Sludge|750}}
+{{detrecipe|80|Boring Brick|750}}
+{{detrecipe|40|Distilled Water|16}}
+|tot=
+{{detrecipe/totals|Nuget Cake|3}}
+{{detrecipe/totals|Leather Hide|400}}
+{{detrecipe/totals|Forest Fibres|2500}}
+{{detrecipe/totals|Slime Sludge|750}}
+{{detrecipe/totals|Boring Brick|750}}
+{{detrecipe/totals|Distilled Water|16}}
+}}

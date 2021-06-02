@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Amarok_Walking.gif
+|image=Amarok Walking.gif
 |attack=1000
 |health=25000
 |defence=105
@@ -9,8 +9,7 @@
 |defence0=1223.26
 |hascard=Yes
 }}
-{{EnemyNavigation|Boop|Chaotic Amarok}}
-{{DropTable/head}}
+{{EnemyNavigation|Dr Defecaus|Chaotic Amarok}}
 {{DropTable/coin|500|1}}
 {{DropTable/row|Magic Meatloaf|0.05|1}}
 {{DropTable/card|0.04}}

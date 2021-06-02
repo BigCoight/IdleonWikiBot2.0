@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Bloque_Walking.gif
+|image=Bloque Walking.gif
 |attack=500
 |health=100000
 |defence=1150
@@ -13,8 +13,7 @@
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
-{{EnemyNavigation|Sir Stache|mamooth}}
-{{DropTable/head}}
+{{EnemyNavigation|Sir Stache|Mamooth}}
 {{DropTable/coin|240|0.41}}
 {{DropTable/row|Sticky Stick|0.16|1}}
 {{DropTable/card|0.0001}}

@@ -3,6 +3,7 @@
 |description=Auto-Used when your health goes below 50%. Restores 750 HP. Has a 30 second Cooldown.
 |sellprice=140
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Snowman]], [[DropTable15]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=Frostbite Towndra|stock=25000|buyprice=560}}

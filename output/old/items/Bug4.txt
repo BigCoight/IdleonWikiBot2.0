@@ -2,13 +2,15 @@
 |type=Bug
 |description=Hahaha I had my fingers crossed!
 |sellprice=20
-|source=Catching
+|source=[[Catching]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Crows Nest]]|4000|Crafting}}
-{{usedin/row|[[Platinet]]|8000|Crafting}}
+{{usedin/row|[[Platinet]]|7000|Crafting}}
 {{usedin/row|[[Sizable Bug Pouch]]|6750|Crafting}}
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Fmj]]|Lots|Alchemy}}
 |}

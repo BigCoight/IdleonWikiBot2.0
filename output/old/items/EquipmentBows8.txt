@@ -10,42 +10,43 @@
 |reach=230
 |upgrade=4
 |sellprice=898020
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=30
+|craftnum=31
 |levelreq=45
 |expgiven=450000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Black Lense|quantity1=4
 |resource2=Spontaneity Salts|quantity2=250
 |resource3=Blizzard Bow|quantity3=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|SnowC4a|4}}
-{{detrecipe|3|Refinery3|250}}
-{{detrecipe|3|EquipmentBows7|3}}
-{{detrecipe|40|Soul1|21000}}
-{{detrecipe|40|EquipmentBows6|6}}
-{{detrecipe|80|TreeInterior1b|18}}
-{{detrecipe|80|Fish4|19200}}
-{{detrecipe|80|EquipmentBows5|12}}
-{{detrecipe|120|GoldBar|3000}}
-{{detrecipe|120|EquipmentBows3|36}}
-{{detrecipe|160|Jungle1|4500}}
-{{detrecipe|160|BirchTree|9000}}
-{{detrecipe|120|PureWater|96}}
-{{detrecipe|40|Refinery1|450}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowC4a|4}}
-{{detrecipe/totals|Refinery3|250}}
-{{detrecipe/totals|Soul1|21000}}
-{{detrecipe/totals|TreeInterior1b|18}}
-{{detrecipe/totals|Fish4|19200}}
-{{detrecipe/totals|GoldBar|3000}}
-{{detrecipe/totals|Jungle1|4500}}
-{{detrecipe/totals|BirchTree|9000}}
-{{detrecipe/totals|Refinery1|450}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Black Lense|4}}
+{{detrecipe|3|Spontaneity Salts|250}}
+{{detrecipe|3|Blizzard Bow|3}}
+{{detrecipe|40|Forest Soul|21000}}
+{{detrecipe|40|Pharoah Bow|6}}
+{{detrecipe|80|Woodular Circle|18}}
+{{detrecipe|80|Bloach|19200}}
+{{detrecipe|80|Spiked Menace|12}}
+{{detrecipe|120|Gold Bar|3000}}
+{{detrecipe|120|Birch Longbow|36}}
+{{detrecipe|160|Slime Sludge|4500}}
+{{detrecipe|160|Bleach Logs|9000}}
+{{detrecipe|120|Distilled Water|96}}
+{{detrecipe|40|Redox Salts|450}}
+|tot=
+{{detrecipe/totals|Black Lense|4}}
+{{detrecipe/totals|Spontaneity Salts|250}}
+{{detrecipe/totals|Forest Soul|21000}}
+{{detrecipe/totals|Woodular Circle|18}}
+{{detrecipe/totals|Bloach|19200}}
+{{detrecipe/totals|Gold Bar|3000}}
+{{detrecipe/totals|Slime Sludge|4500}}
+{{detrecipe/totals|Bleach Logs|9000}}
+{{detrecipe/totals|Redox Salts|450}}
+}}

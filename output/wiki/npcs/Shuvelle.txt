@@ -1,16 +1,16 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Aries
-|mmm=Thompson
-|birthweight=6.01
+|starsign=Leo
+|mmm=Chambers
+|birthweight=6.48
 |notes=fillme
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Diggy diggy hole I'm digging a hole...
 }}
 |}

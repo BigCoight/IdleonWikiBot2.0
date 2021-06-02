@@ -1,0 +1,11 @@
+{{npc
+|location=Freefall Caverns
+|noquest=4
+|repeatable=Unknown
+|birthweight=7.84
+|starsign=Virgo
+|mmm=Martinez
+|notes=[[Mutton]] is found in [[Worlds#M2 - Freefall Caverns|Freefall Caverns]], the second zone of the mines, located in the middle of the area.
+
+His quests award stamps and other account-wide items only one character has to unlock for all to benefit from.
+}}

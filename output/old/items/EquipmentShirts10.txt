@@ -7,25 +7,26 @@
 |upgrade=3
 |defence=13
 |sellprice=26000
+|source=[[Smithing]], [[Glublin|Recipe from Glublin]], [[Funguy#Videogame Highscores are COOL!|Recipe from Videogame Highscores are COOL!]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=44
+|craftnum=45
 |levelreq=14
 |expgiven=800
-|recipefrom=Funguy
+|recipefrom=[[Glublin]], [[Funguy#Videogame Highscores are COOL!|Videogame Highscores are COOL!]]
 |resource1=Goblin Ear|quantity1=500
 |resource2=Iron Bar|quantity2=500
 }}
 {{usedin/head}}
 {{usedin/row|[[Feral Leathering]]|4|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Forest1|500}}
-{{detrecipe|3|IronBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Forest1|500}}
-{{detrecipe/totals|IronBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Goblin Ear|500}}
+{{detrecipe|3|Iron Bar|500}}
+|tot=
+{{detrecipe/totals|Goblin Ear|500}}
+{{detrecipe/totals|Iron Bar|500}}
+}}

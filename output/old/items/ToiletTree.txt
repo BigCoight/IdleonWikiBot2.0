@@ -1,7 +1,9 @@
 {{InfoItem
 |type=Log
 |sellprice=15
-|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
@@ -10,7 +12,7 @@
 {{usedin/row|[[Bandage Wraps]]|2000|Crafting}}
 {{usedin/row|[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]|10000|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Cookin Roadkill|Cookin Roadkill]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Tea With Pea|Tea With Pea]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Cookin Roadkill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Tea With Pea]]|Lots|Alchemy}}
 |}

@@ -2,12 +2,10 @@
 |type=Critter
 |description=This cutie will stab its way into your heart if you aren't careful! No seriosuly, be careful, the bugger pricked my foot the other day and it hurt bad.
 |sellprice=10
-|source=Trapping, [[Scorpie]]
+|source=[[Trapping]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Scorpie]]|0.015|1}}
-|}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|500|Quests}}
-{{usedin/row|[[Kazam Cauldron#Big Game Hunter|Big Game Hunter]]|Lots|Alchemy}}
+{{usedin/row|[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|500|Quests}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Big Game Hunter]]|Lots|Alchemy}}
 |}

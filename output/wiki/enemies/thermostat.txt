@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Thermister_Walking.gif
+|image=Thermister Walking.gif
 |attack=950
 |health=185000
 |defence=2250
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Penguin|Quenchie}}
-{{DropTable/head}}
 {{DropTable/coin|340|0.35}}
 {{DropTable/row|Cracked Glass|0.16|1}}
 {{DropTable/card|0.0001}}

@@ -7,5 +7,6 @@
 |upgrade=2
 |defence=3
 |sellprice=1500
-|source=[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]
+|source=[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]
+|notes= 
 }}

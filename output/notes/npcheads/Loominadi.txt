@@ -1,0 +1,11 @@
+{{npc
+|location=Up Up Down Down
+|noquest=3
+|repeatable=Unknown
+|birthweight=3.03
+|starsign=Libra
+|mmm=Thomas
+|notes=[[Loominadi]] is found in [[Worlds#D10 - Up Up Down Down|Up Up Down Down]].
+
+There are fewer than 30 vials in the game, so its second quest isn't completable yet.
+}}

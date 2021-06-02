@@ -3,6 +3,7 @@
 |description=Made of circle that's been carved into the shape of a wood.            NOTE: This is a very rare drop from Branches
 |sellprice=90
 |source=[[Walking Stick]], [[Wood Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Walking Stick]]|0.00005|1}}

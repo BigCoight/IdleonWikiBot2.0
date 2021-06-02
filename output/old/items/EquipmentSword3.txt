@@ -8,43 +8,44 @@
 |misc=5% Crit Damage
 |reach=88
 |upgrade=4
-|sellprice=17514755
+|sellprice=15498755
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=29
+|craftnum=30
 |levelreq=45
 |expgiven=450000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Black Lense|quantity1=4
 |resource2=Eternal Lord of  The Undying Ember|quantity2=5
 |resource3=The Ice Breaker|quantity3=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|SnowC4a|4}}
-{{detrecipe|3|Critter6A|5}}
-{{detrecipe|3|EquipmentSword2|3}}
-{{detrecipe|40|SnowA2|75000}}
-{{detrecipe|40|EquipmentSword1|6}}
-{{detrecipe|80|DesertA3b|18}}
-{{detrecipe|80|CraftMat9|36000}}
-{{detrecipe|80|TestObj3|12}}
-{{detrecipe|120|ForestTree|15000}}
-{{detrecipe|120|TestObj7|36}}
-{{detrecipe|160|Jungle1|4500}}
-{{detrecipe|160|CraftMat6|4500}}
-{{detrecipe|120|PureWater|96}}
-{{detrecipe|40|Refinery1|450}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowC4a|4}}
-{{detrecipe/totals|Critter6A|5}}
-{{detrecipe/totals|SnowA2|75000}}
-{{detrecipe/totals|DesertA3b|18}}
-{{detrecipe/totals|CraftMat9|36000}}
-{{detrecipe/totals|ForestTree|15000}}
-{{detrecipe/totals|Jungle1|4500}}
-{{detrecipe/totals|CraftMat6|4500}}
-{{detrecipe/totals|Refinery1|450}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Black Lense|4}}
+{{detrecipe|3|Eternal Lord of  The Undying Ember|5}}
+{{detrecipe|3|The Ice Breaker|3}}
+{{detrecipe|40|Melty Cube|75000}}
+{{detrecipe|40|Enforced Slasher|6}}
+{{detrecipe|80|Nuget Cake|18}}
+{{detrecipe|80|Leather Hide|2400}}
+{{detrecipe|80|Royal Bayonet|12}}
+{{detrecipe|120|Forest Fibres|15000}}
+{{detrecipe|120|Steel Axe|36}}
+{{detrecipe|160|Slime Sludge|4500}}
+{{detrecipe|160|Boring Brick|4500}}
+{{detrecipe|120|Distilled Water|96}}
+{{detrecipe|40|Redox Salts|450}}
+|tot=
+{{detrecipe/totals|Black Lense|4}}
+{{detrecipe/totals|Eternal Lord of  The Undying Ember|5}}
+{{detrecipe/totals|Melty Cube|75000}}
+{{detrecipe/totals|Nuget Cake|18}}
+{{detrecipe/totals|Leather Hide|2400}}
+{{detrecipe/totals|Forest Fibres|15000}}
+{{detrecipe/totals|Slime Sludge|4500}}
+{{detrecipe/totals|Boring Brick|4500}}
+{{detrecipe/totals|Redox Salts|450}}
+}}

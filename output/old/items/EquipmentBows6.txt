@@ -9,10 +9,12 @@
 |reach=200
 |upgrade=3
 |sellprice=128170
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=26
+|craftnum=27
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -25,22 +27,21 @@
 {{usedin/row|[[Blizzard Bow]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|TreeInterior1b|3}}
-{{detrecipe|3|Fish4|3200}}
-{{detrecipe|3|EquipmentBows5|2}}
-{{detrecipe|40|GoldBar|500}}
-{{detrecipe|40|EquipmentBows3|6}}
-{{detrecipe|80|Jungle1|750}}
-{{detrecipe|80|BirchTree|1500}}
-{{detrecipe|40|PureWater|16}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|TreeInterior1b|3}}
-{{detrecipe/totals|Fish4|3200}}
-{{detrecipe/totals|GoldBar|500}}
-{{detrecipe/totals|Jungle1|750}}
-{{detrecipe/totals|BirchTree|1500}}
-{{detrecipe/totals|PureWater|16}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Woodular Circle|3}}
+{{detrecipe|3|Bloach|3200}}
+{{detrecipe|3|Spiked Menace|2}}
+{{detrecipe|40|Gold Bar|500}}
+{{detrecipe|40|Birch Longbow|6}}
+{{detrecipe|80|Slime Sludge|750}}
+{{detrecipe|80|Bleach Logs|1500}}
+{{detrecipe|40|Distilled Water|16}}
+|tot=
+{{detrecipe/totals|Woodular Circle|3}}
+{{detrecipe/totals|Bloach|3200}}
+{{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Slime Sludge|750}}
+{{detrecipe/totals|Bleach Logs|1500}}
+{{detrecipe/totals|Distilled Water|16}}
+}}

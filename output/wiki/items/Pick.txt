@@ -4,10 +4,12 @@ Junk Pickaxe
 |level=4
 |skill=mining
 |type=Pickaxe
+|speed=3
 |skillpower=2
 |str=1
 |sellprice=50
 |source=[[Scripticus#Certified Swinger, of Pickaxes of course!|Certified Swinger, of Pickaxes of course!]]
+|notes= 
 }}
 Copper Pickaxe
 {{InfoItem
@@ -15,47 +17,52 @@ Copper Pickaxe
 |level=8
 |skill=mining
 |type=Pickaxe
+|speed=3
 |skillpower=6
 |str=3
 |upgrade=2
 |sellprice=241
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=8
+|craftnum=9
 |levelreq=3
 |expgiven=10
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=13
 |resource2=Frog Leg|quantity2=30
 }}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|13}}
-{{detrecipe|3|Grasslands2|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|13}}
-{{detrecipe/totals|Grasslands2|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|13}}
+{{detrecipe|3|Frog Leg|30}}
+|tot=
+{{detrecipe/totals|Copper Bar|13}}
+{{detrecipe/totals|Frog Leg|30}}
+}}
 Iron Pickaxe
 {{InfoItem
 |class=All
 |level=18
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=10
 |str=5
 |agi=2
 |upgrade=2
 |sellprice=6200
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=28
+|craftnum=29
 |levelreq=13
 |expgiven=500
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=100
 |resource2=Carrot Cube|quantity2=200
 }}
@@ -63,30 +70,32 @@ Iron Pickaxe
 {{usedin/row|[[Gold Pickaxe]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|100}}
-{{detrecipe|3|Jungle3|200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|100}}
-{{detrecipe/totals|Jungle3|200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|100}}
+{{detrecipe|3|Carrot Cube|200}}
+|tot=
+{{detrecipe/totals|Iron Bar|100}}
+{{detrecipe/totals|Carrot Cube|200}}
+}}
 Gold Pickaxe
 {{InfoItem
 |class=All
 |level=25
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=13
 |str=8
 |agi=3
 |upgrade=2
 |sellprice=285600
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=8
+|craftnum=9
 |levelreq=20
 |expgiven=4400
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -97,40 +106,42 @@ Gold Pickaxe
 {{usedin/head}}
 {{usedin/row|[[Platinum Pickaxe]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|DesertA2|2500}}
-{{detrecipe|3|GoldBar|800}}
-{{detrecipe|3|EquipmentTools3|3}}
-{{detrecipe|40|IronBar|300}}
-{{detrecipe|40|Jungle3|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DesertA2|2500}}
-{{detrecipe/totals|GoldBar|800}}
-{{detrecipe/totals|IronBar|300}}
-{{detrecipe/totals|Jungle3|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Megalodon Tooth|2500}}
+{{detrecipe|3|Gold Bar|800}}
+{{detrecipe|3|Iron Pickaxe|3}}
+{{detrecipe|40|Iron Bar|300}}
+{{detrecipe|40|Carrot Cube|600}}
+|tot=
+{{detrecipe/totals|Megalodon Tooth|2500}}
+{{detrecipe/totals|Gold Bar|800}}
+{{detrecipe/totals|Iron Bar|300}}
+{{detrecipe/totals|Carrot Cube|600}}
+}}
 Platinum Pickaxe
 {{InfoItem
 |class=All
 |level=35
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=16
 |str=11
 |agi=4
 |misc=1% Mining Efficincy
 |upgrade=3
-|sellprice=2291200
+|sellprice=2199200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=28
+|craftnum=29
 |levelreq=26
 |expgiven=16000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Platinum Bar|quantity1=1000
+|resource1=Platinum Bar|quantity1=800
 |resource2=Pincer Arm|quantity2=10500
 |resource3=Gold Pickaxe|quantity3=2
 }}
@@ -138,44 +149,46 @@ Platinum Pickaxe
 {{usedin/row|[[Dementia Pickaxe]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|PlatBar|1000}}
-{{detrecipe|3|DesertB3|10500}}
-{{detrecipe|3|EquipmentTools5|2}}
-{{detrecipe|40|DesertA2|5000}}
-{{detrecipe|40|GoldBar|1600}}
-{{detrecipe|40|EquipmentTools3|6}}
-{{detrecipe|80|IronBar|600}}
-{{detrecipe|80|Jungle3|1200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|PlatBar|1000}}
-{{detrecipe/totals|DesertB3|10500}}
-{{detrecipe/totals|DesertA2|5000}}
-{{detrecipe/totals|GoldBar|1600}}
-{{detrecipe/totals|IronBar|600}}
-{{detrecipe/totals|Jungle3|1200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Platinum Bar|800}}
+{{detrecipe|3|Pincer Arm|10500}}
+{{detrecipe|3|Gold Pickaxe|2}}
+{{detrecipe|40|Megalodon Tooth|5000}}
+{{detrecipe|40|Gold Bar|1600}}
+{{detrecipe|40|Iron Pickaxe|6}}
+{{detrecipe|80|Iron Bar|600}}
+{{detrecipe|80|Carrot Cube|1200}}
+|tot=
+{{detrecipe/totals|Platinum Bar|800}}
+{{detrecipe/totals|Pincer Arm|10500}}
+{{detrecipe/totals|Megalodon Tooth|5000}}
+{{detrecipe/totals|Gold Bar|1600}}
+{{detrecipe/totals|Iron Bar|600}}
+{{detrecipe/totals|Carrot Cube|1200}}
+}}
 Dementia Pickaxe
 {{InfoItem
 |class=All
 |level=45
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=19
 |str=15
 |agi=5
 |misc=2% Mining Efficincy
 |upgrade=3
-|sellprice=7994900
+|sellprice=7810900
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=8
+|craftnum=9
 |levelreq=38
 |expgiven=150000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dementia Bar|quantity1=275
 |resource2=Moustache Comb|quantity2=15000
 |resource3=Platinum Pickaxe|quantity3=2
@@ -183,91 +196,94 @@ Dementia Pickaxe
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Pik]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|DementiaBar|275}}
-{{detrecipe|3|SnowA3|15000}}
-{{detrecipe|3|EquipmentTools6|2}}
-{{detrecipe|40|PlatBar|2000}}
-{{detrecipe|40|DesertB3|21000}}
-{{detrecipe|40|EquipmentTools5|4}}
-{{detrecipe|80|DesertA2|10000}}
-{{detrecipe|80|GoldBar|3200}}
-{{detrecipe|80|EquipmentTools3|12}}
-{{detrecipe|120|IronBar|1200}}
-{{detrecipe|120|Jungle3|2400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DementiaBar|275}}
-{{detrecipe/totals|SnowA3|15000}}
-{{detrecipe/totals|PlatBar|2000}}
-{{detrecipe/totals|DesertB3|21000}}
-{{detrecipe/totals|DesertA2|10000}}
-{{detrecipe/totals|GoldBar|3200}}
-{{detrecipe/totals|IronBar|1200}}
-{{detrecipe/totals|Jungle3|2400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dementia Bar|275}}
+{{detrecipe|3|Moustache Comb|15000}}
+{{detrecipe|3|Platinum Pickaxe|2}}
+{{detrecipe|40|Platinum Bar|1600}}
+{{detrecipe|40|Pincer Arm|21000}}
+{{detrecipe|40|Gold Pickaxe|4}}
+{{detrecipe|80|Megalodon Tooth|10000}}
+{{detrecipe|80|Gold Bar|3200}}
+{{detrecipe|80|Iron Pickaxe|12}}
+{{detrecipe|120|Iron Bar|1200}}
+{{detrecipe|120|Carrot Cube|2400}}
+|tot=
+{{detrecipe/totals|Dementia Bar|275}}
+{{detrecipe/totals|Moustache Comb|15000}}
+{{detrecipe/totals|Platinum Bar|1600}}
+{{detrecipe/totals|Pincer Arm|21000}}
+{{detrecipe/totals|Megalodon Tooth|10000}}
+{{detrecipe/totals|Gold Bar|3200}}
+{{detrecipe/totals|Iron Bar|1200}}
+{{detrecipe/totals|Carrot Cube|2400}}
+}}
 Void Imperium Pik
 {{InfoItem
 |class=All
 |level=55
 |skill=mining
 |type=Pickaxe
+|speed=5
 |skillpower=24
 |str=18
 |agi=6
 |misc=8% Mining Efficincy
 |upgrade=4
-|sellprice=18469800
+|sellprice=18101800
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=32
+|craftnum=33
 |levelreq=45
 |expgiven=400000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Void Bar|quantity1=400
 |resource2=Dementia Pickaxe|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|VoidBar|400}}
-{{detrecipe|3|EquipmentTools7|2}}
-{{detrecipe|40|DementiaBar|550}}
-{{detrecipe|40|SnowA3|30000}}
-{{detrecipe|40|EquipmentTools6|4}}
-{{detrecipe|80|PlatBar|4000}}
-{{detrecipe|80|DesertB3|42000}}
-{{detrecipe|80|EquipmentTools5|8}}
-{{detrecipe|120|DesertA2|20000}}
-{{detrecipe|120|GoldBar|6400}}
-{{detrecipe|120|EquipmentTools3|24}}
-{{detrecipe|160|IronBar|2400}}
-{{detrecipe|160|Jungle3|4800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|VoidBar|400}}
-{{detrecipe/totals|DementiaBar|550}}
-{{detrecipe/totals|SnowA3|30000}}
-{{detrecipe/totals|PlatBar|4000}}
-{{detrecipe/totals|DesertB3|42000}}
-{{detrecipe/totals|DesertA2|20000}}
-{{detrecipe/totals|GoldBar|6400}}
-{{detrecipe/totals|IronBar|2400}}
-{{detrecipe/totals|Jungle3|4800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Bar|400}}
+{{detrecipe|3|Dementia Pickaxe|2}}
+{{detrecipe|40|Dementia Bar|550}}
+{{detrecipe|40|Moustache Comb|30000}}
+{{detrecipe|40|Platinum Pickaxe|4}}
+{{detrecipe|80|Platinum Bar|3200}}
+{{detrecipe|80|Pincer Arm|42000}}
+{{detrecipe|80|Gold Pickaxe|8}}
+{{detrecipe|120|Megalodon Tooth|20000}}
+{{detrecipe|120|Gold Bar|6400}}
+{{detrecipe|120|Iron Pickaxe|24}}
+{{detrecipe|160|Iron Bar|2400}}
+{{detrecipe|160|Carrot Cube|4800}}
+|tot=
+{{detrecipe/totals|Void Bar|400}}
+{{detrecipe/totals|Dementia Bar|550}}
+{{detrecipe/totals|Moustache Comb|30000}}
+{{detrecipe/totals|Platinum Bar|3200}}
+{{detrecipe/totals|Pincer Arm|42000}}
+{{detrecipe/totals|Megalodon Tooth|20000}}
+{{detrecipe/totals|Gold Bar|6400}}
+{{detrecipe/totals|Iron Bar|2400}}
+{{detrecipe/totals|Carrot Cube|4800}}
+}}
 Lustre Pickaxe
 {{InfoItem
 |class=All
 |level=65
 |skill=mining
 |type=Pickaxe
+|speed=5
 |skillpower=28
 |str=22
 |agi=7
 |misc=5% Mining Efficincy
 |upgrade=4
 |sellprice=200
+|notes= 
 }}
 Dreadlo Pickolo
 {{InfoItem
@@ -275,12 +291,14 @@ Dreadlo Pickolo
 |level=75
 |skill=mining
 |type=Pickaxe
+|speed=5
 |skillpower=35
 |str=26
 |agi=9
 |misc=8% Mining Efficincy
 |upgrade=4
 |sellprice=200
+|notes= 
 }}
 Poopy Pickaxe
 {{InfoItem
@@ -288,12 +306,14 @@ Poopy Pickaxe
 |level=15
 |skill=mining
 |type=Pickaxe
+|speed=2
 |skillpower=18
 |misc=2% Mining Efficincy
 |upgrade=6
 |defence=3
 |sellprice=200
-|source=[[Dr Defecaus]], [[TP_Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
+|source=[[Dr Defecaus]], [[TP Pete#Fired for BS Reasons!|Fired for BS Reasons!]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Dr Defecaus]]|0.01|1}}

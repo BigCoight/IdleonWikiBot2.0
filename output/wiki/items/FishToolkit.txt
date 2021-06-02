@@ -6,6 +6,7 @@ Copper Twine
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=3500
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=Faraway Piers|stock=1|buyprice=14000}}
@@ -14,16 +15,19 @@ Silver Twine
 {{Fishingaccessory
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Gold Twine
 {{Fishingaccessory
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Platinum Twine
 {{Fishingaccessory
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Leafy Vines
 {{Fishingaccessory
@@ -32,6 +36,7 @@ Leafy Vines
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=7500
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=2|vendor=Faraway Piers|stock=1|buyprice=30000}}
@@ -45,6 +50,7 @@ Fun Flags
 |source=[[Alchemy#Level up Gift|Level up Gift]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Electrical Wiring
 {{Fishingaccessory
@@ -53,6 +59,7 @@ Electrical Wiring
 |fishingpower=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Wiener Links
 {{Fishingaccessory
@@ -62,6 +69,7 @@ Wiener Links
 |fishingpower=10
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Zeus Gon Fishin
 {{Fishingaccessory
@@ -70,6 +78,7 @@ Zeus Gon Fishin
 |fishingpower=20
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Needledrop
 {{Fishingaccessory
@@ -79,6 +88,7 @@ Needledrop
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=15000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Also turns your character into Idleon's busiest music nerd for 0.01 seconds.
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Faraway Piers|stock=1|buyprice=60000}}
@@ -92,6 +102,7 @@ Spoons Lol
 |source=[[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Its a Boy Celebration
 {{Fishingaccessory
@@ -99,6 +110,7 @@ Its a Boy Celebration
 |fishingpower=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Its a Girl Celebration
 {{Fishingaccessory
@@ -106,6 +118,7 @@ Its a Girl Celebration
 |fishingspeed=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Its Alright Celebration
 {{Fishingaccessory
@@ -114,6 +127,7 @@ Its Alright Celebration
 |fishingpower=8
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Wormie Weight
 {{Fishingaccessory
@@ -122,6 +136,7 @@ Wormie Weight
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]], [[Whattso#Mopey Dick|Mopey Dick]]
 |type=Fishing Accessory
 |sellprice=5000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Faraway Piers|stock=1|buyprice=20000}}
@@ -135,6 +150,7 @@ Iron Hook
 |source=[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Basic Bobber
 {{Fishingaccessory
@@ -146,6 +162,7 @@ Basic Bobber
 |source=[[Scubidew#Uncovering the Deep Sea State!!!|Uncovering the Deep Sea State!!!]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Dualhook Prongs
 {{Fishingaccessory
@@ -155,6 +172,7 @@ Dualhook Prongs
 |fishingpower=3
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 One Pound of Steel
 {{Fishingaccessory
@@ -164,6 +182,7 @@ One Pound of Steel
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=10000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Faraway Piers|stock=1|buyprice=40000}}
@@ -175,6 +194,7 @@ One Pound of Feathers
 |fishingspeed=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Massless Unit for Physics Questions
 {{Fishingaccessory
@@ -182,6 +202,7 @@ Massless Unit for Physics Questions
 |fishingexp=10
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Literal Elephant
 {{Fishingaccessory
@@ -191,6 +212,7 @@ Literal Elephant
 |fishingpower=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Valve Patented Circle Thingies
 {{Fishingaccessory
@@ -200,6 +222,7 @@ Valve Patented Circle Thingies
 |fishingpower=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Dynamite
 {{Fishingaccessory
@@ -209,6 +232,7 @@ Dynamite
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=17500
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Faraway Piers|stock=1|buyprice=70000}}
@@ -221,6 +245,7 @@ Not Dynamite
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=55000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Also, the name is technically true.
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=6|vendor=Faraway Piers|stock=1|buyprice=220000}}
@@ -232,6 +257,7 @@ Triple Threat
 |fishingpower=6
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 Crash Box
 {{Fishingaccessory
@@ -240,6 +266,7 @@ Crash Box
 |fishingpower=5
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Woah. Woah! WOAAHHH!!!
 }}
 Fat Albert
 {{Fishingaccessory
@@ -247,4 +274,5 @@ Fat Albert
 |fishingpower=19
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Oh Albert, what were you thinking? Seriously, I genuinely can't comprehend what you were thinking haha!
 }}

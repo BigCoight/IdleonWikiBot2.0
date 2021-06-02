@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Libra
-|mmm=Reamer
-|birthweight=2.45
+|starsign=Capricorn
+|mmm=Ulrich
+|birthweight=5.43
 |notes=fillme
 }}
 {{Quest/head}}

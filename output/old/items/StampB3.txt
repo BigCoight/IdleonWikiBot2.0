@@ -6,3 +6,16 @@
 |sellprice=800
 |source=[[DropTable1]]
 }}
+{{stampdata|stype=AnvilPAspd|ftype=add|x1=1|x2=0|i4=5|material=Copper Ore|i6=25|i7=6|i8=50|i9=1.3|i10=2|i11={}% Anvil Production Spd|i12=0}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.0007199999999999999|1.0}}
+{{detdrops|[[Green Mushroom]]|0.0000036|1.0}}
+{{detdrops|[[Frog]]|0.0000045599999999999995|1.0}}
+{{detdrops|[[Bored Bean]]|0.000005399999999999999|1.0}}
+{{detdrops|[[Red Mushroom]]|0.0000062399999999999995|1.0}}
+{{detdrops|[[Amarok]]|0.0012|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.0012|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0012|2.0}}
+{{detdrops|[[Baba Yaga]]|0.0012|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.0012|1.0}}
+|}

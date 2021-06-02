@@ -9,28 +9,29 @@ Farmer Brim
 |upgrade=1
 |defence=2
 |sellprice=60
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=4
+|craftnum=5
 |levelreq=1
 |expgiven=3
-|recipefrom=Start
+|recipefrom=
 |resource1=Spore Cap|quantity1=5
 |resource2=Copper Ore|quantity2=15
 }}
 {{usedin/head}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands1|5}}
-{{detrecipe|3|Copper|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|5}}
-{{detrecipe/totals|Copper|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Cap|5}}
+{{detrecipe|3|Copper Ore|15}}
+|tot=
+{{detrecipe/totals|Spore Cap|5}}
+{{detrecipe/totals|Copper Ore|15}}
+}}
 Slime Cap
 {{InfoItem
 |class=Beginner
@@ -40,6 +41,7 @@ Slime Cap
 |luck=2
 |upgrade=4
 |sellprice=200
+|notes= 
 }}
 Ice Cream Sunday
 {{InfoItem
@@ -51,6 +53,7 @@ Ice Cream Sunday
 |upgrade=5
 |defence=5
 |sellprice=200
+|notes= 
 }}
 Mark of Member
 {{InfoItem
@@ -62,44 +65,45 @@ Mark of Member
 |upgrade=5
 |defence=50
 |sellprice=1415500
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=48
+|craftnum=49
 |levelreq=49
 |expgiven=1000000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Grandma Disguise|quantity1=1
 |resource2=Void Imperium Helmet|quantity2=1
 |resource3=Dioxide Synthesis|quantity3=500
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentHats39|1}}
-{{detrecipe|3|EquipmentHats54|1}}
-{{detrecipe|40|Refinery3|500}}
-{{detrecipe|40|EquipmentHats53|2}}
-{{detrecipe|80|Critter1|10000}}
-{{detrecipe|80|EquipmentHats19|4}}
-{{detrecipe|120|Fish3|16000}}
-{{detrecipe|120|EquipmentHats18|16}}
-{{detrecipe|160|IronBar|2000}}
-{{detrecipe|160|Forest1|4800}}
-{{detrecipe|120|PlatBar|3000}}
-{{detrecipe|80|DementiaBar|600}}
-{{detrecipe|40|VoidBar|1000}}
-{{detrecipe|3|Refinery4|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EquipmentHats39|1}}
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|Refinery4|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Grandma Disguise|1}}
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Dementia Helmet|2}}
+{{detrecipe|80|Froge|10000}}
+{{detrecipe|80|Platinum Helmet|4}}
+{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Iron Helmet|16}}
+{{detrecipe|160|Iron Bar|2000}}
+{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|120|Platinum Bar|3000}}
+{{detrecipe|80|Dementia Bar|600}}
+{{detrecipe|40|Void Bar|1000}}
+{{detrecipe|3|Dioxide Synthesis|500}}
+|tot=
+{{detrecipe/totals|Grandma Disguise|1}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Dioxide Synthesis|500}}
+}}
 Leather Cap
 {{InfoItem
 |class=All
@@ -111,13 +115,15 @@ Leather Cap
 |upgrade=2
 |defence=4
 |sellprice=254
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=12
+|craftnum=13
 |levelreq=4
 |expgiven=12
-|recipefrom=Start
+|recipefrom=
 |resource1=Frog Leg|quantity1=25
 |resource2=Oak Logs|quantity2=45
 |resource3=Thread|quantity3=13
@@ -125,17 +131,16 @@ Leather Cap
 {{usedin/head}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands2|25}}
-{{detrecipe|3|OakTree|45}}
-{{detrecipe|3|CraftMat1|13}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands2|25}}
-{{detrecipe/totals|OakTree|45}}
-{{detrecipe/totals|CraftMat1|13}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frog Leg|25}}
+{{detrecipe|3|Oak Logs|45}}
+{{detrecipe|3|Thread|13}}
+|tot=
+{{detrecipe/totals|Frog Leg|25}}
+{{detrecipe/totals|Oak Logs|45}}
+{{detrecipe/totals|Thread|13}}
+}}
 White Headband
 {{InfoItem
 |class=All
@@ -148,6 +153,7 @@ White Headband
 |upgrade=2
 |sellprice=200
 |source=[[DropTable1]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.006|1.0}}
@@ -176,6 +182,7 @@ Green Headband
 |upgrade=2
 |sellprice=150
 |source=[[Frog]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.00025|1}}
@@ -190,6 +197,7 @@ Red Headband
 |upgrade=2
 |sellprice=200
 |source=[[Scripticus#Gear Up, Gamer!|Gear Up, Gamer!]]
+|notes= 
 }}
 Purple Tupacband
 {{InfoItem
@@ -200,13 +208,15 @@ Purple Tupacband
 |wis=5
 |upgrade=2
 |sellprice=1130
+|source=[[Smithing]], [[Hamish#Should We Tell Him?|Recipe from Should We Tell Him?]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=40
+|craftnum=41
 |levelreq=5
 |expgiven=20
-|recipefrom=Start
+|recipefrom=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
 |resource1=Bleach Logs|quantity1=100
 |resource2=Iron Ore|quantity2=50
 |resource3=Crude Oil|quantity3=60
@@ -214,17 +224,16 @@ Purple Tupacband
 {{usedin/head}}
 {{usedin/row|[[Hamish#Should We Tell Him?|Should We Tell Him?]]|1|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|BirchTree|100}}
-{{detrecipe|3|Iron|50}}
-{{detrecipe|3|OilBarrel1|60}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|Iron|50}}
-{{detrecipe/totals|OilBarrel1|60}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Iron Ore|50}}
+{{detrecipe|3|Crude Oil|60}}
+|tot=
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Iron Ore|50}}
+{{detrecipe/totals|Crude Oil|60}}
+}}
 Yellow Headband
 {{InfoItem
 |class=All
@@ -236,12 +245,13 @@ Yellow Headband
 |upgrade=2
 |sellprice=200
 |source=[[Sandy Pot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|.0001|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Bandit_Bob#Bob's Brand New Bandana|Bob's Brand New Bandana]]|1|Quests}}
+{{usedin/row|[[Bandit Bob#Bob's Brand New Bandana|Bob's Brand New Bandana]]|1|Quests}}
 |}
 Pink Headband
 {{InfoItem
@@ -254,6 +264,7 @@ Pink Headband
 |luck=4
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Grey Beret
 {{InfoItem
@@ -264,6 +275,7 @@ Grey Beret
 |upgrade=1
 |sellprice=5
 |source=Starter Hat
+|notes= 
 }}
 Traffic Cone
 {{InfoItem
@@ -274,6 +286,7 @@ Traffic Cone
 |upgrade=1
 |sellprice=5
 |source=Starter Hat
+|notes= 
 }}
 Propeller Cap
 {{InfoItem
@@ -284,6 +297,7 @@ Propeller Cap
 |upgrade=1
 |sellprice=5
 |source=Starter Hat
+|notes= 
 }}
 Baseball Hat
 {{InfoItem
@@ -294,6 +308,7 @@ Baseball Hat
 |upgrade=1
 |sellprice=5
 |source=Starter Hat
+|notes= 
 }}
 Trojan Helmet
 {{InfoItem
@@ -304,6 +319,7 @@ Trojan Helmet
 |agi=2
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Demon Horns
 {{InfoItem
@@ -317,6 +333,7 @@ Demon Horns
 |upgrade=2
 |defence=10000
 |sellprice=200
+|notes= 
 }}
 Stump Prop
 {{InfoItem
@@ -332,6 +349,7 @@ Stump Prop
 |defence=2
 |sellprice=200
 |source=[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]
+|notes= 
 }}
 Copper Helmet
 {{InfoItem
@@ -344,14 +362,15 @@ Copper Helmet
 |upgrade=2
 |defence=5
 |sellprice=560
-|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=16
+|craftnum=17
 |levelreq=6
 |expgiven=35
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=30
 |resource2=Bean Slices|quantity2=50
 }}
@@ -362,15 +381,14 @@ Copper Helmet
 {{usedin/row|[[Party Hat]]|4|Crafting}}
 {{usedin/row|[[Gold Helmet]]|4|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|30}}
-{{detrecipe|3|Grasslands3|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|30}}
-{{detrecipe/totals|Grasslands3|50}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|30}}
+{{detrecipe|3|Bean Slices|50}}
+|tot=
+{{detrecipe/totals|Copper Bar|30}}
+{{detrecipe/totals|Bean Slices|50}}
+}}
 Iron Helmet
 {{InfoItem
 |class=All
@@ -382,31 +400,31 @@ Iron Helmet
 |upgrade=2
 |defence=9
 |sellprice=10000
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=32
+|craftnum=33
 |levelreq=12
 |expgiven=520
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=125
 |resource2=Goblin Ear|quantity2=300
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Helmet]]|4|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|1|Quests}}
+{{usedin/row|[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|1|Quests}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|125}}
-{{detrecipe|3|Forest1|300}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|Forest1|300}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|125}}
+{{detrecipe|3|Goblin Ear|300}}
+|tot=
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Goblin Ear|300}}
+}}
 Gold Helmet
 {{InfoItem
 |class=All
@@ -419,14 +437,15 @@ Gold Helmet
 |upgrade=3
 |defence=15
 |sellprice=36990
-|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=0
+|craftnum=1
 |levelreq=15
 |expgiven=900
-|recipefrom=Start
+|recipefrom=
 |resource1=Fly|quantity1=2000
 |resource2=Copper Helmet|quantity2=4
 |resource3=Gold Bar|quantity3=250
@@ -434,20 +453,19 @@ Gold Helmet
 {{usedin/head}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug1|2000}}
-{{detrecipe|3|EquipmentHats17|4}}
-{{detrecipe|40|CopperBar|120}}
-{{detrecipe|40|Grasslands3|200}}
-{{detrecipe|3|GoldBar|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug1|2000}}
-{{detrecipe/totals|CopperBar|120}}
-{{detrecipe/totals|Grasslands3|200}}
-{{detrecipe/totals|GoldBar|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fly|2000}}
+{{detrecipe|3|Copper Helmet|4}}
+{{detrecipe|40|Copper Bar|120}}
+{{detrecipe|40|Bean Slices|200}}
+{{detrecipe|3|Gold Bar|250}}
+|tot=
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Copper Bar|120}}
+{{detrecipe/totals|Bean Slices|200}}
+{{detrecipe/totals|Gold Bar|250}}
+}}
 Amarok Helmet
 {{InfoItem
 |class=All
@@ -460,10 +478,12 @@ Amarok Helmet
 |upgrade=6
 |defence=20
 |sellprice=30720
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=64
+|craftnum=65
 |levelreq=23
 |expgiven=6000
 |recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
@@ -474,17 +494,16 @@ Amarok Helmet
 {{usedin/head}}
 {{usedin/row|[[Blunder Skills Completion Token]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Quest17|20}}
-{{detrecipe|3|ForestTree|2500}}
-{{detrecipe|3|TreeInterior1b|8}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest17|20}}
-{{detrecipe/totals|ForestTree|2500}}
-{{detrecipe/totals|TreeInterior1b|8}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Amarok Slab|20}}
+{{detrecipe|3|Forest Fibres|2500}}
+{{detrecipe|3|Woodular Circle|8}}
+|tot=
+{{detrecipe/totals|Amarok Slab|20}}
+{{detrecipe/totals|Forest Fibres|2500}}
+{{detrecipe/totals|Woodular Circle|8}}
+}}
 Platinum Helmet
 {{InfoItem
 |class=All
@@ -497,13 +516,15 @@ Platinum Helmet
 |upgrade=4
 |defence=25
 |sellprice=441000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=20
+|craftnum=21
 |levelreq=29
 |expgiven=20000
-|recipefrom=Start
+|recipefrom=
 |resource1=Jellyfish|quantity1=4000
 |resource2=Iron Helmet|quantity2=4
 |resource3=Platinum Bar|quantity3=750
@@ -511,20 +532,19 @@ Platinum Helmet
 {{usedin/head}}
 {{usedin/row|[[Dementia Helmet]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish3|4000}}
-{{detrecipe|3|EquipmentHats18|4}}
-{{detrecipe|40|IronBar|500}}
-{{detrecipe|40|Forest1|1200}}
-{{detrecipe|3|PlatBar|750}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish3|4000}}
-{{detrecipe/totals|IronBar|500}}
-{{detrecipe/totals|Forest1|1200}}
-{{detrecipe/totals|PlatBar|750}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Jellyfish|4000}}
+{{detrecipe|3|Iron Helmet|4}}
+{{detrecipe|40|Iron Bar|500}}
+{{detrecipe|40|Goblin Ear|1200}}
+{{detrecipe|3|Platinum Bar|750}}
+|tot=
+{{detrecipe/totals|Jellyfish|4000}}
+{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Goblin Ear|1200}}
+{{detrecipe/totals|Platinum Bar|750}}
+}}
 Dementia Helmet
 {{InfoItem
 |class=All
@@ -538,13 +558,15 @@ Dementia Helmet
 |upgrade=4
 |defence=34
 |sellprice=657000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=0
+|craftnum=1
 |levelreq=36
 |expgiven=100000
-|recipefrom=Start
+|recipefrom=
 |resource1=Froge|quantity1=5000
 |resource2=Platinum Helmet|quantity2=2
 |resource3=Dementia Bar|quantity3=300
@@ -552,24 +574,23 @@ Dementia Helmet
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Helmet]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter1|5000}}
-{{detrecipe|3|EquipmentHats19|2}}
-{{detrecipe|40|Fish3|8000}}
-{{detrecipe|40|EquipmentHats18|8}}
-{{detrecipe|80|IronBar|1000}}
-{{detrecipe|80|Forest1|2400}}
-{{detrecipe|40|PlatBar|1500}}
-{{detrecipe|3|DementiaBar|300}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter1|5000}}
-{{detrecipe/totals|Fish3|8000}}
-{{detrecipe/totals|IronBar|1000}}
-{{detrecipe/totals|Forest1|2400}}
-{{detrecipe/totals|DementiaBar|300}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Froge|5000}}
+{{detrecipe|3|Platinum Helmet|2}}
+{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Iron Helmet|8}}
+{{detrecipe|80|Iron Bar|1000}}
+{{detrecipe|80|Goblin Ear|2400}}
+{{detrecipe|40|Platinum Bar|1500}}
+{{detrecipe|3|Dementia Bar|300}}
+|tot=
+{{detrecipe/totals|Froge|5000}}
+{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Iron Bar|1000}}
+{{detrecipe/totals|Goblin Ear|2400}}
+{{detrecipe/totals|Dementia Bar|300}}
+}}
 Efaunt Helmet
 {{InfoItem
 |class=All
@@ -584,10 +605,12 @@ Efaunt Helmet
 |upgrade=6
 |defence=38
 |sellprice=118300
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=60
+|craftnum=61
 |levelreq=43
 |expgiven=250000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -596,24 +619,23 @@ Efaunt Helmet
 |resource3=Armor Upgrade Stone C|quantity3=2
 |resource4=Dootjat Eye|quantity4=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|20}}
-{{detrecipe|3|EquipmentPants19|1}}
-{{detrecipe|3|StoneA3b|2}}
-{{detrecipe|3|Quest36|3}}
-{{detrecipe|40|Quest37|3}}
-{{detrecipe|40|GoldBar|240}}
-{{detrecipe|40|DesertC2b|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|20}}
-{{detrecipe/totals|EquipmentPants19|1}}
-{{detrecipe/totals|StoneA3b|2}}
-{{detrecipe/totals|Quest37|3}}
-{{detrecipe/totals|GoldBar|240}}
-{{detrecipe/totals|DesertC2b|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|20}}
+{{detrecipe|3|Trimmed Rune Platelegs|1}}
+{{detrecipe|3|Armor Upgrade Stone C|2}}
+{{detrecipe|3|Dootjat Eye|3}}
+{{detrecipe|40|Silver Antique|3}}
+{{detrecipe|40|Gold Bar|240}}
+{{detrecipe|40|Ghost|3}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|20}}
+{{detrecipe/totals|Trimmed Rune Platelegs|1}}
+{{detrecipe/totals|Armor Upgrade Stone C|2}}
+{{detrecipe/totals|Silver Antique|3}}
+{{detrecipe/totals|Gold Bar|240}}
+{{detrecipe/totals|Ghost|3}}
+}}
 Void Imperium Helmet
 {{InfoItem
 |class=All
@@ -627,13 +649,15 @@ Void Imperium Helmet
 |upgrade=5
 |defence=46
 |sellprice=7564000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=24
+|craftnum=25
 |levelreq=43
 |expgiven=275000
-|recipefrom=Start
+|recipefrom=
 |resource1=Spontaneity Salts|quantity1=500
 |resource2=Dementia Helmet|quantity2=2
 |resource3=Void Bar|quantity3=1000
@@ -644,29 +668,28 @@ Void Imperium Helmet
 {{usedin/row|[[Conquistador Plume]]|1|Crafting}}
 {{usedin/row|[[Adornment of the High Priest]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery3|500}}
-{{detrecipe|3|EquipmentHats53|2}}
-{{detrecipe|40|Critter1|10000}}
-{{detrecipe|40|EquipmentHats19|4}}
-{{detrecipe|80|Fish3|16000}}
-{{detrecipe|80|EquipmentHats18|16}}
-{{detrecipe|120|IronBar|2000}}
-{{detrecipe|120|Forest1|4800}}
-{{detrecipe|80|PlatBar|3000}}
-{{detrecipe|40|DementiaBar|600}}
-{{detrecipe|3|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spontaneity Salts|500}}
+{{detrecipe|3|Dementia Helmet|2}}
+{{detrecipe|40|Froge|10000}}
+{{detrecipe|40|Platinum Helmet|4}}
+{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Iron Helmet|16}}
+{{detrecipe|120|Iron Bar|2000}}
+{{detrecipe|120|Goblin Ear|4800}}
+{{detrecipe|80|Platinum Bar|3000}}
+{{detrecipe|40|Dementia Bar|600}}
+{{detrecipe|3|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}
 Party Hat
 {{InfoItem
 |class=Beginner
@@ -677,29 +700,29 @@ Party Hat
 |upgrade=5
 |defence=10
 |sellprice=8640
-|source=[[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Smithing]], [[Alchemy#Level up Gift|Level up Gift]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=23
+|craftnum=24
 |levelreq=12
 |expgiven=50
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=200
 |resource2=Copper Helmet|quantity2=4
 }}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|200}}
-{{detrecipe|3|EquipmentHats17|4}}
-{{detrecipe|40|CopperBar|120}}
-{{detrecipe|40|Grasslands3|200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|200}}
-{{detrecipe/totals|CopperBar|120}}
-{{detrecipe/totals|Grasslands3|200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|200}}
+{{detrecipe|3|Copper Helmet|4}}
+{{detrecipe|40|Copper Bar|120}}
+{{detrecipe|40|Bean Slices|200}}
+|tot=
+{{detrecipe/totals|Iron Bar|200}}
+{{detrecipe/totals|Copper Bar|120}}
+{{detrecipe/totals|Bean Slices|200}}
+}}
 Farmer Brimer
 {{InfoItem
 |class=All
@@ -710,6 +733,7 @@ Farmer Brimer
 |upgrade=2
 |defence=4
 |sellprice=150
+|notes= 
 }}
 Farmer Brimest
 {{InfoItem
@@ -723,6 +747,7 @@ Farmer Brimest
 |upgrade=3
 |defence=6
 |sellprice=400
+|notes= 
 }}
 Bored Beanie
 {{InfoItem
@@ -735,6 +760,7 @@ Bored Beanie
 |defence=5
 |sellprice=500
 |source=[[Bored Bean]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.000035|1}}
@@ -750,6 +776,7 @@ Royal Turban
 |defence=7
 |sellprice=200
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.000667|1}}
@@ -770,6 +797,7 @@ Paper Boat
 |upgrade=4
 |defence=12
 |sellprice=1500
+|notes= 
 }}
 Alien Headband
 {{InfoItem
@@ -783,6 +811,7 @@ Alien Headband
 |defence=4
 |sellprice=1000
 |source=[[Promotheus#Slovakian Scare|Slovakian Scare]]
+|notes= 
 }}
 Cowbo Galloneer
 {{InfoItem
@@ -794,7 +823,8 @@ Cowbo Galloneer
 |upgrade=2
 |defence=3
 |sellprice=1500
-|source=[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]
+|source=[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]
+|notes= 
 }}
 Grandma Disguise
 {{InfoItem
@@ -807,6 +837,7 @@ Grandma Disguise
 |defence=5
 |sellprice=1500
 |source=[[Amarok]], [[Chaotic Amarok]], [[Nightmare Amarok]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.001|1}}
@@ -827,6 +858,7 @@ Santa Hat
 |misc=5% Xp From Monsters
 |upgrade=3
 |sellprice=1
+|notes= 
 }}
 Jar
 {{InfoItem
@@ -836,7 +868,8 @@ Jar
 |upgrade=3
 |defence=25
 |sellprice=1
-|source=[[Snake_Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]]
+|source=[[Snake Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]]
+|notes= 
 }}
 Big Pretty Bow
 {{InfoItem
@@ -849,6 +882,7 @@ Big Pretty Bow
 |misc=5% Xp From Monsters
 |upgrade=3
 |sellprice=1
+|notes= 
 }}
 Steam Cap
 {{InfoItem
@@ -861,6 +895,7 @@ Steam Cap
 |luck=1
 |misc=3% Xp From Monsters
 |sellprice=1
+|notes= 
 }}
 Bunny Ears
 {{InfoItem
@@ -871,6 +906,7 @@ Bunny Ears
 |misc=4% Xp From Monsters
 |upgrade=3
 |sellprice=1
+|notes= 
 }}
 Militia Helm
 {{InfoItem
@@ -882,10 +918,12 @@ Militia Helm
 |upgrade=2
 |defence=11
 |sellprice=2370
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=20
+|craftnum=21
 |levelreq=10
 |expgiven=300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -896,20 +934,19 @@ Militia Helm
 {{usedin/head}}
 {{usedin/row|[[Viking Cap]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|25}}
-{{detrecipe|3|Copper|150}}
-{{detrecipe|3|EquipmentHats17|2}}
-{{detrecipe|40|CopperBar|60}}
-{{detrecipe|40|Grasslands3|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|25}}
-{{detrecipe/totals|Copper|150}}
-{{detrecipe/totals|CopperBar|60}}
-{{detrecipe/totals|Grasslands3|100}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|25}}
+{{detrecipe|3|Copper Ore|150}}
+{{detrecipe|3|Copper Helmet|2}}
+{{detrecipe|40|Copper Bar|60}}
+{{detrecipe|40|Bean Slices|100}}
+|tot=
+{{detrecipe/totals|Iron Bar|25}}
+{{detrecipe/totals|Copper Ore|150}}
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Bean Slices|100}}
+}}
 Viking Cap
 {{InfoItem
 |class=Warrior
@@ -920,10 +957,12 @@ Viking Cap
 |upgrade=3
 |defence=21
 |sellprice=11970
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=45
+|craftnum=46
 |levelreq=24
 |expgiven=7450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -931,24 +970,23 @@ Viking Cap
 |resource2=Gold Bar|quantity2=400
 |resource3=Glass Shard|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentHats20|5}}
-{{detrecipe|40|IronBar|125}}
-{{detrecipe|40|Copper|750}}
-{{detrecipe|40|EquipmentHats17|10}}
-{{detrecipe|80|CopperBar|300}}
-{{detrecipe|80|Grasslands3|500}}
-{{detrecipe|3|GoldBar|400}}
-{{detrecipe|3|DesertA1b|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|Copper|750}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|Grasslands3|500}}
-{{detrecipe/totals|DesertA1b|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Militia Helm|5}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Copper Ore|750}}
+{{detrecipe|40|Copper Helmet|10}}
+{{detrecipe|80|Copper Bar|300}}
+{{detrecipe|80|Bean Slices|500}}
+{{detrecipe|3|Gold Bar|400}}
+{{detrecipe|3|Glass Shard|2}}
+|tot=
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Ore|750}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Bean Slices|500}}
+{{detrecipe/totals|Glass Shard|2}}
+}}
 Murmillo Helm
 {{InfoItem
 |class=Warrior
@@ -961,42 +999,43 @@ Murmillo Helm
 |upgrade=3
 |defence=55
 |sellprice=7614000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=49
+|craftnum=50
 |levelreq=48
 |expgiven=750000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Helmet|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentHats54|1}}
-{{detrecipe|40|Refinery3|500}}
-{{detrecipe|40|EquipmentHats53|2}}
-{{detrecipe|80|Critter1|10000}}
-{{detrecipe|80|EquipmentHats19|4}}
-{{detrecipe|120|Fish3|16000}}
-{{detrecipe|120|EquipmentHats18|16}}
-{{detrecipe|160|IronBar|2000}}
-{{detrecipe|160|Forest1|4800}}
-{{detrecipe|120|PlatBar|3000}}
-{{detrecipe|80|DementiaBar|600}}
-{{detrecipe|40|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Dementia Helmet|2}}
+{{detrecipe|80|Froge|10000}}
+{{detrecipe|80|Platinum Helmet|4}}
+{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Iron Helmet|16}}
+{{detrecipe|160|Iron Bar|2000}}
+{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|120|Platinum Bar|3000}}
+{{detrecipe|80|Dementia Bar|600}}
+{{detrecipe|40|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}
 Thief Hood
 {{InfoItem
 |class=Archer
@@ -1007,10 +1046,12 @@ Thief Hood
 |upgrade=2
 |defence=9
 |sellprice=2370
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=21
+|craftnum=22
 |levelreq=10
 |expgiven=300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1021,20 +1062,19 @@ Thief Hood
 {{usedin/head}}
 {{usedin/row|[[Sleek Coif]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|25}}
-{{detrecipe|3|CraftMat1|150}}
-{{detrecipe|3|EquipmentHats17|2}}
-{{detrecipe|40|CopperBar|60}}
-{{detrecipe|40|Grasslands3|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|25}}
-{{detrecipe/totals|CraftMat1|150}}
-{{detrecipe/totals|CopperBar|60}}
-{{detrecipe/totals|Grasslands3|100}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|25}}
+{{detrecipe|3|Thread|150}}
+{{detrecipe|3|Copper Helmet|2}}
+{{detrecipe|40|Copper Bar|60}}
+{{detrecipe|40|Bean Slices|100}}
+|tot=
+{{detrecipe/totals|Iron Bar|25}}
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Bean Slices|100}}
+}}
 Sleek Coif
 {{InfoItem
 |class=Archer
@@ -1045,10 +1085,12 @@ Sleek Coif
 |upgrade=3
 |defence=18
 |sellprice=11970
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=46
+|craftnum=47
 |levelreq=24
 |expgiven=7450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1056,24 +1098,23 @@ Sleek Coif
 |resource2=Tropilogs|quantity2=2000
 |resource3=Glass Shard|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentHats3|5}}
-{{detrecipe|40|IronBar|125}}
-{{detrecipe|40|CraftMat1|750}}
-{{detrecipe|40|EquipmentHats17|10}}
-{{detrecipe|80|CopperBar|300}}
-{{detrecipe|80|Grasslands3|500}}
-{{detrecipe|3|PalmTree|2000}}
-{{detrecipe|3|DesertA1b|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|CraftMat1|750}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|Grasslands3|500}}
-{{detrecipe/totals|DesertA1b|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Thief Hood|5}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Thread|750}}
+{{detrecipe|40|Copper Helmet|10}}
+{{detrecipe|80|Copper Bar|300}}
+{{detrecipe|80|Bean Slices|500}}
+{{detrecipe|3|Tropilogs|2000}}
+{{detrecipe|3|Glass Shard|2}}
+|tot=
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Thread|750}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Bean Slices|500}}
+{{detrecipe/totals|Glass Shard|2}}
+}}
 Conquistador Plume
 {{InfoItem
 |class=Archer
@@ -1086,42 +1127,43 @@ Conquistador Plume
 |upgrade=3
 |defence=47
 |sellprice=7614000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=50
+|craftnum=51
 |levelreq=48
 |expgiven=750000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Helmet|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentHats54|1}}
-{{detrecipe|40|Refinery3|500}}
-{{detrecipe|40|EquipmentHats53|2}}
-{{detrecipe|80|Critter1|10000}}
-{{detrecipe|80|EquipmentHats19|4}}
-{{detrecipe|120|Fish3|16000}}
-{{detrecipe|120|EquipmentHats18|16}}
-{{detrecipe|160|IronBar|2000}}
-{{detrecipe|160|Forest1|4800}}
-{{detrecipe|120|PlatBar|3000}}
-{{detrecipe|80|DementiaBar|600}}
-{{detrecipe|40|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Dementia Helmet|2}}
+{{detrecipe|80|Froge|10000}}
+{{detrecipe|80|Platinum Helmet|4}}
+{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Iron Helmet|16}}
+{{detrecipe|160|Iron Bar|2000}}
+{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|120|Platinum Bar|3000}}
+{{detrecipe|80|Dementia Bar|600}}
+{{detrecipe|40|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}
 Top Hat
 {{InfoItem
 |class=Mage
@@ -1132,10 +1174,12 @@ Top Hat
 |upgrade=2
 |defence=7
 |sellprice=2320
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=22
+|craftnum=23
 |levelreq=10
 |expgiven=300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1147,20 +1191,19 @@ Top Hat
 {{usedin/row|[[Witch Hat]]|5|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|25}}
-{{detrecipe|3|OakTree|200}}
-{{detrecipe|3|EquipmentHats17|2}}
-{{detrecipe|40|CopperBar|60}}
-{{detrecipe|40|Grasslands3|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|25}}
-{{detrecipe/totals|OakTree|200}}
-{{detrecipe/totals|CopperBar|60}}
-{{detrecipe/totals|Grasslands3|100}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|25}}
+{{detrecipe|3|Oak Logs|200}}
+{{detrecipe|3|Copper Helmet|2}}
+{{detrecipe|40|Copper Bar|60}}
+{{detrecipe|40|Bean Slices|100}}
+|tot=
+{{detrecipe/totals|Iron Bar|25}}
+{{detrecipe/totals|Oak Logs|200}}
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Bean Slices|100}}
+}}
 Witch Hat
 {{InfoItem
 |class=Mage
@@ -1171,10 +1214,12 @@ Witch Hat
 |upgrade=3
 |defence=15
 |sellprice=11720
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=47
+|craftnum=48
 |levelreq=24
 |expgiven=7450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1182,24 +1227,23 @@ Witch Hat
 |resource2=Corn Kernels|quantity2=4000
 |resource3=Glass Shard|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentHats16|5}}
-{{detrecipe|40|IronBar|125}}
-{{detrecipe|40|OakTree|1000}}
-{{detrecipe|40|EquipmentHats17|10}}
-{{detrecipe|80|CopperBar|300}}
-{{detrecipe|80|Grasslands3|500}}
-{{detrecipe|3|Sewers1|4000}}
-{{detrecipe|3|DesertA1b|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|OakTree|1000}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|Grasslands3|500}}
-{{detrecipe/totals|DesertA1b|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Top Hat|5}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Oak Logs|1000}}
+{{detrecipe|40|Copper Helmet|10}}
+{{detrecipe|80|Copper Bar|300}}
+{{detrecipe|80|Bean Slices|500}}
+{{detrecipe|3|Corn Kernels|4000}}
+{{detrecipe|3|Glass Shard|2}}
+|tot=
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Oak Logs|1000}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Bean Slices|500}}
+{{detrecipe/totals|Glass Shard|2}}
+}}
 Adornment of the High Priest
 {{InfoItem
 |class=Mage
@@ -1212,39 +1256,40 @@ Adornment of the High Priest
 |upgrade=5
 |defence=40
 |sellprice=7614000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=51
+|craftnum=52
 |levelreq=48
 |expgiven=750000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Helmet|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentHats54|1}}
-{{detrecipe|40|Refinery3|500}}
-{{detrecipe|40|EquipmentHats53|2}}
-{{detrecipe|80|Critter1|10000}}
-{{detrecipe|80|EquipmentHats19|4}}
-{{detrecipe|120|Fish3|16000}}
-{{detrecipe|120|EquipmentHats18|16}}
-{{detrecipe|160|IronBar|2000}}
-{{detrecipe|160|Forest1|4800}}
-{{detrecipe|120|PlatBar|3000}}
-{{detrecipe|80|DementiaBar|600}}
-{{detrecipe|40|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Dementia Helmet|2}}
+{{detrecipe|80|Froge|10000}}
+{{detrecipe|80|Platinum Helmet|4}}
+{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Iron Helmet|16}}
+{{detrecipe|160|Iron Bar|2000}}
+{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|120|Platinum Bar|3000}}
+{{detrecipe|80|Dementia Bar|600}}
+{{detrecipe|40|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}

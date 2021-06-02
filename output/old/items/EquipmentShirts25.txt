@@ -6,10 +6,12 @@
 |upgrade=1
 |defence=3
 |sellprice=760
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=53
+|craftnum=54
 |levelreq=5
 |expgiven=30
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -20,17 +22,16 @@
 {{usedin/head}}
 {{usedin/row|[[Black Tee]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands4|40}}
-{{detrecipe|3|BirchTree|100}}
-{{detrecipe|3|EquipmentShirts1|3}}
-{{detrecipe|40|Grasslands1|30}}
-{{detrecipe|40|OakTree|45}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands4|40}}
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|Grasslands1|30}}
-{{detrecipe/totals|OakTree|45}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Red Spore Cap|40}}
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Orange Tee|3}}
+{{detrecipe|40|Spore Cap|30}}
+{{detrecipe|40|Oak Logs|45}}
+|tot=
+{{detrecipe/totals|Red Spore Cap|40}}
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Spore Cap|30}}
+{{detrecipe/totals|Oak Logs|45}}
+}}

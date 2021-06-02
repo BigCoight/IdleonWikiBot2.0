@@ -3,6 +3,7 @@
 |description=They used to tie women to these things and throw them into the ocean to see if they were a witch. If they were, they'd use all the water in the ocean to upgrade the cauldron and thus not drown! Not sure what happened if they werent.
 |sellprice=10
 |source=[[DropTable8]]
+|notes= 
 }}
 {{Statuedata|0.5|+ %@ Alchemy Exp}}
 {{detdrops/head}}

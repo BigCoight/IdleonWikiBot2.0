@@ -3,6 +3,7 @@
 |description=Wait a minute, this isn't a real megalodon tooth!
 |sellprice=70
 |source=[[Mimic]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.212|1}}
@@ -11,8 +12,8 @@
 {{usedin/row|[[Gold Pickaxe]]|2500|Crafting}}
 {{usedin/row|[[Empty Box]]|400|Crafting}}
 {{usedin/row|[[Studded Hide]]|4000|Crafting}}
-{{usedin/row|[[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
+{{usedin/row|[[Snake Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Mimicraught|Mimicraught]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Mimicraught]]|Lots|Alchemy}}
 |}

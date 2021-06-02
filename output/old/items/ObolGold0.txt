@@ -5,4 +5,5 @@
 |str=4
 |sellprice=8
 |rarity=Gold
+|notes= 
 }}

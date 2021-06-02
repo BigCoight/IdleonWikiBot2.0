@@ -7,6 +7,7 @@ Platinum Obol of Blinding Speed
 |misc=4% Movement Speed
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Platinum Obol of Dwarven Delving
 {{InfoItem
@@ -18,6 +19,7 @@ Platinum Obol of Dwarven Delving
 |str=3
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Platinum Obol of Lumby Loggo
 {{InfoItem
@@ -29,6 +31,7 @@ Platinum Obol of Lumby Loggo
 |wis=3
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Platinum Obol of Tremendous Trout
 {{InfoItem
@@ -40,6 +43,7 @@ Platinum Obol of Tremendous Trout
 |str=3
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Platinum Obol of Idk Yet
 {{InfoItem
@@ -51,6 +55,7 @@ Platinum Obol of Idk Yet
 |agi=3
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}
 Skeletal Obol of Efaunt's Gaze
 {{InfoItem
@@ -66,6 +71,7 @@ Skeletal Obol of Efaunt's Gaze
 |sellprice=20
 |rarity=Skeletal
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.001|1}}
@@ -85,6 +91,7 @@ Granite Obol of Amarok's Stare
 |sellprice=20
 |rarity=Granite
 |source=[[Amarok]], [[Chaotic Amarok]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.0007|1}}

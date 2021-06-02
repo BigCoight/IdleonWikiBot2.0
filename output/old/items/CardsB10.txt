@@ -2,7 +2,7 @@
 |title=Sand Giant
 |order=9
 |category=Yum Yum Desert
-|effect=+{%_Minimum_Damage
+|effect=+{% Minimum Damage
 |bonus=2
 |reqtier=10
 |source=[[Sand Giant]]

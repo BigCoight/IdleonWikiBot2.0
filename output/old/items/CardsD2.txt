@@ -2,7 +2,7 @@
 |title=Platinum Ore
 |order=0
 |category=Medium Resources
-|effect=+{%_Mining_Away_Gains
+|effect=+{% Mining Away Gains
 |bonus=2
 |reqtier=10
 |source=[[Mining#Drops|Mining Plat]]

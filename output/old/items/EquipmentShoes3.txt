@@ -9,13 +9,15 @@
 |upgrade=3
 |defence=8
 |sellprice=92700
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=3
+|craftnum=4
 |levelreq=20
 |expgiven=4200
-|recipefrom=Start
+|recipefrom=
 |resource1=Gold Bar|quantity1=600
 |resource2=Iron Boots|quantity2=2
 |resource3=Distilled Water|quantity3=4
@@ -28,20 +30,19 @@
 {{usedin/row|[[Bandito Boots]]|1|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|GoldBar|600}}
-{{detrecipe|3|EquipmentShoes15|2}}
-{{detrecipe|40|CraftMat5|1000}}
-{{detrecipe|40|IronBar|250}}
-{{detrecipe|40|EquipmentShoes1|4}}
-{{detrecipe|80|CopperBar|500}}
-{{detrecipe|3|PureWater|4}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|600}}
-{{detrecipe/totals|CraftMat5|1000}}
-{{detrecipe/totals|IronBar|250}}
-{{detrecipe/totals|CopperBar|500}}
-{{detrecipe/totals|PureWater|4}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Bar|600}}
+{{detrecipe|3|Iron Boots|2}}
+{{detrecipe|40|Trusty Nails|1000}}
+{{detrecipe|40|Iron Bar|250}}
+{{detrecipe|40|Copper Boots|4}}
+{{detrecipe|80|Copper Bar|500}}
+{{detrecipe|3|Distilled Water|4}}
+|tot=
+{{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Trusty Nails|1000}}
+{{detrecipe/totals|Iron Bar|250}}
+{{detrecipe/totals|Copper Bar|500}}
+{{detrecipe/totals|Distilled Water|4}}
+}}

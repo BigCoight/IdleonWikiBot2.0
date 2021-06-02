@@ -6,6 +6,7 @@
 |sellprice=1
 |rarity=Bronze
 |source=[[DropTable2]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00031499999999999996|1.0}}

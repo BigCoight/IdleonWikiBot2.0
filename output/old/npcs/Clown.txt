@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Scorpio
-|mmm=Deitz
-|birthweight=8.63
+|starsign=Aries
+|mmm=Haworth
+|birthweight=3.96
 |notes=fillme
 }}
 {{Quest/head}}

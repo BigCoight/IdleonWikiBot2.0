@@ -1,12 +1,12 @@
 {{InfoCard
-|title=mamooth
+|title=Mamooth
 |order=4
 |category=Frostfire Tyundra
-|effect=+{%_Base_HP
+|effect=+{% Total HP
 |bonus=3.5
 |reqtier=15
-|source=[[mamooth]]
+|source=[[Mamooth]]
 }}
 {{detdrops/head}}
-{{detdrops|[[mamooth]]|0.0001|1}}
+{{detdrops|[[Mamooth]]|0.0001|1}}
 |}

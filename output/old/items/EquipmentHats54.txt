@@ -10,13 +10,15 @@
 |upgrade=5
 |defence=46
 |sellprice=7564000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=24
+|craftnum=25
 |levelreq=43
 |expgiven=275000
-|recipefrom=Start
+|recipefrom=
 |resource1=Spontaneity Salts|quantity1=500
 |resource2=Dementia Helmet|quantity2=2
 |resource3=Void Bar|quantity3=1000
@@ -27,26 +29,25 @@
 {{usedin/row|[[Conquistador Plume]]|1|Crafting}}
 {{usedin/row|[[Adornment of the High Priest]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery3|500}}
-{{detrecipe|3|EquipmentHats53|2}}
-{{detrecipe|40|Critter1|10000}}
-{{detrecipe|40|EquipmentHats19|4}}
-{{detrecipe|80|Fish3|16000}}
-{{detrecipe|80|EquipmentHats18|16}}
-{{detrecipe|120|IronBar|2000}}
-{{detrecipe|120|Forest1|4800}}
-{{detrecipe|80|PlatBar|3000}}
-{{detrecipe|40|DementiaBar|600}}
-{{detrecipe|3|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spontaneity Salts|500}}
+{{detrecipe|3|Dementia Helmet|2}}
+{{detrecipe|40|Froge|10000}}
+{{detrecipe|40|Platinum Helmet|4}}
+{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Iron Helmet|16}}
+{{detrecipe|120|Iron Bar|2000}}
+{{detrecipe|120|Goblin Ear|4800}}
+{{detrecipe|80|Platinum Bar|3000}}
+{{detrecipe|40|Dementia Bar|600}}
+{{detrecipe|3|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}

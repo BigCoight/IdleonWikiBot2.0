@@ -1,8 +1,10 @@
 {{InfoItem
 |type=Ore
-|description=Smelt down 4 Ores into 1 Bar at the Forge. Smelting will take 400 per Bar using Forge Slot 1.
+|description=Smelt down 4 Ores into 1 Bar at the Forge. Smelting will take 400 seconds per Bar using Forge Slot 1.
 |sellprice=7
-|source=Mining, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Mining]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.6|50}}
@@ -16,6 +18,6 @@
 {{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|1500|Quests}}
 {{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|200|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Hammer Hammer|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Hammer Hammer]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
 |}

@@ -7,7 +7,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "3",
-            "no": 0,
+            "no": 1,
             "tab": "Anvil Tab 1"
         },
         "TestObj1": {
@@ -17,7 +17,7 @@
             ],
             "levelReqToCraft": "3",
             "expGiven": "5",
-            "no": 1,
+            "no": 2,
             "tab": "Anvil Tab 1"
         },
         "EquipmentBows1": {
@@ -27,7 +27,7 @@
             ],
             "levelReqToCraft": "3",
             "expGiven": "8",
-            "no": 2,
+            "no": 3,
             "tab": "Anvil Tab 1"
         },
         "EquipmentWands1": {
@@ -37,7 +37,7 @@
             ],
             "levelReqToCraft": "3",
             "expGiven": "12",
-            "no": 3,
+            "no": 4,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats1": {
@@ -47,7 +47,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "3",
-            "no": 4,
+            "no": 5,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts1": {
@@ -57,7 +57,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "5",
-            "no": 5,
+            "no": 6,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants1": {
@@ -68,7 +68,7 @@
             ],
             "levelReqToCraft": "4",
             "expGiven": "7",
-            "no": 6,
+            "no": 7,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShoes9": {
@@ -79,7 +79,7 @@
             ],
             "levelReqToCraft": "6",
             "expGiven": "10",
-            "no": 7,
+            "no": 8,
             "tab": "Anvil Tab 1"
         },
         "EquipmentTools2": {
@@ -89,7 +89,7 @@
             ],
             "levelReqToCraft": "3",
             "expGiven": "10",
-            "no": 8,
+            "no": 9,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBag1": {
@@ -98,7 +98,7 @@
             ],
             "levelReqToCraft": "5",
             "expGiven": "13",
-            "no": 9,
+            "no": 10,
             "tab": "Anvil Tab 1"
         },
         "EquipmentToolsHatchet3": {
@@ -109,7 +109,7 @@
             ],
             "levelReqToCraft": "4",
             "expGiven": "10",
-            "no": 10,
+            "no": 11,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBag7": {
@@ -119,7 +119,7 @@
             ],
             "levelReqToCraft": "6",
             "expGiven": "13",
-            "no": 11,
+            "no": 12,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats15": {
@@ -130,7 +130,7 @@
             ],
             "levelReqToCraft": "4",
             "expGiven": "12",
-            "no": 12,
+            "no": 13,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPunching2": {
@@ -141,7 +141,7 @@
             ],
             "levelReqToCraft": "6",
             "expGiven": "15",
-            "no": 13,
+            "no": 14,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBag8": {
@@ -153,7 +153,7 @@
             ],
             "levelReqToCraft": "7",
             "expGiven": "20",
-            "no": 14,
+            "no": 15,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagM2": {
@@ -164,7 +164,7 @@
             ],
             "levelReqToCraft": "8",
             "expGiven": "25",
-            "no": 15,
+            "no": 16,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats17": {
@@ -174,7 +174,7 @@
             ],
             "levelReqToCraft": "6",
             "expGiven": "35",
-            "no": 16,
+            "no": 17,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts11": {
@@ -184,7 +184,7 @@
             ],
             "levelReqToCraft": "7",
             "expGiven": "55",
-            "no": 17,
+            "no": 18,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants2": {
@@ -194,7 +194,7 @@
             ],
             "levelReqToCraft": "8",
             "expGiven": "75",
-            "no": 18,
+            "no": 19,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShoes1": {
@@ -203,7 +203,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "110",
-            "no": 19,
+            "no": 20,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats20": {
@@ -214,7 +214,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "300",
-            "no": 20,
+            "no": 21,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats3": {
@@ -225,7 +225,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "300",
-            "no": 21,
+            "no": 22,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats16": {
@@ -236,7 +236,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "300",
-            "no": 22,
+            "no": 23,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats21": {
@@ -246,7 +246,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "50",
-            "no": 23,
+            "no": 24,
             "tab": "Anvil Tab 1"
         },
         "TestObj7": {
@@ -256,7 +256,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
-            "no": 24,
+            "no": 25,
             "tab": "Anvil Tab 1"
         },
         "EquipmentBows3": {
@@ -266,7 +266,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
-            "no": 25,
+            "no": 26,
             "tab": "Anvil Tab 1"
         },
         "EquipmentWands2": {
@@ -276,7 +276,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "270",
-            "no": 26,
+            "no": 27,
             "tab": "Anvil Tab 1"
         },
         "EquipmentRings2": {
@@ -285,7 +285,7 @@
             ],
             "levelReqToCraft": "11",
             "expGiven": "330",
-            "no": 27,
+            "no": 28,
             "tab": "Anvil Tab 1"
         },
         "EquipmentTools3": {
@@ -295,7 +295,7 @@
             ],
             "levelReqToCraft": "13",
             "expGiven": "500",
-            "no": 28,
+            "no": 29,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBag2": {
@@ -304,7 +304,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "600",
-            "no": 29,
+            "no": 30,
             "tab": "Anvil Tab 1"
         },
         "EquipmentToolsHatchet1": {
@@ -314,7 +314,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "680",
-            "no": 30,
+            "no": 31,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBag9": {
@@ -323,7 +323,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "680",
-            "no": 31,
+            "no": 32,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats18": {
@@ -333,7 +333,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "520",
-            "no": 32,
+            "no": 33,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts12": {
@@ -343,7 +343,7 @@
             ],
             "levelReqToCraft": "13",
             "expGiven": "600",
-            "no": 33,
+            "no": 34,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants3": {
@@ -353,7 +353,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "750",
-            "no": 34,
+            "no": 35,
             "tab": "Anvil Tab 1"
         },
         "EquipmentSmithingTabs2": {
@@ -365,7 +365,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "1500",
-            "no": 35,
+            "no": 36,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts2": {
@@ -376,7 +376,7 @@
             ],
             "levelReqToCraft": "3",
             "expGiven": "15",
-            "no": 36,
+            "no": 37,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPendant10": {
@@ -388,7 +388,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "350",
-            "no": 37,
+            "no": 38,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShoes15": {
@@ -399,7 +399,7 @@
             ],
             "levelReqToCraft": "13",
             "expGiven": "600",
-            "no": 38,
+            "no": 39,
             "tab": "Anvil Tab 1"
         },
         "EquipmentRings3": {
@@ -408,7 +408,7 @@
             ],
             "levelReqToCraft": "13",
             "expGiven": "700",
-            "no": 39,
+            "no": 40,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats8": {
@@ -419,7 +419,7 @@
             ],
             "levelReqToCraft": "5",
             "expGiven": "20",
-            "no": 40,
+            "no": 41,
             "tab": "Anvil Tab 1"
         },
         "FoodMining1": {
@@ -429,7 +429,7 @@
             ],
             "levelReqToCraft": "2",
             "expGiven": "5",
-            "no": 41,
+            "no": 42,
             "tab": "Anvil Tab 1"
         },
         "FoodChoppin1": {
@@ -439,7 +439,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "5",
-            "no": 42,
+            "no": 43,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShoes7": {
@@ -450,7 +450,7 @@
             ],
             "levelReqToCraft": "11",
             "expGiven": "300",
-            "no": 43,
+            "no": 44,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts10": {
@@ -460,7 +460,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "800",
-            "no": 44,
+            "no": 45,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts20": {
@@ -471,7 +471,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "600",
-            "no": 45,
+            "no": 46,
             "tab": "Anvil Tab 1"
         },
         "OilBarrel5": {
@@ -481,7 +481,7 @@
             ],
             "levelReqToCraft": "4",
             "expGiven": "3",
-            "no": 46,
+            "no": 47,
             "tab": "Anvil Tab 1"
         },
         "EquipmentRings14": {
@@ -492,7 +492,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "800",
-            "no": 47,
+            "no": 48,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants15": {
@@ -503,7 +503,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "400",
-            "no": 48,
+            "no": 49,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants18": {
@@ -513,7 +513,7 @@
             ],
             "levelReqToCraft": "12",
             "expGiven": "400",
-            "no": 49,
+            "no": 50,
             "tab": "Anvil Tab 1"
         },
         "Peanut": {
@@ -524,7 +524,7 @@
             ],
             "levelReqToCraft": "5",
             "expGiven": "2",
-            "no": 50,
+            "no": 51,
             "tab": "Anvil Tab 1"
         },
         "PeanutG": {
@@ -545,7 +545,7 @@
             ],
             "levelReqToCraft": "8",
             "expGiven": "60",
-            "no": 52,
+            "no": 53,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts25": {
@@ -556,7 +556,7 @@
             ],
             "levelReqToCraft": "5",
             "expGiven": "30",
-            "no": 53,
+            "no": 54,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts24": {
@@ -567,7 +567,7 @@
             ],
             "levelReqToCraft": "7",
             "expGiven": "60",
-            "no": 54,
+            "no": 55,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts3": {
@@ -579,7 +579,7 @@
             ],
             "levelReqToCraft": "9",
             "expGiven": "120",
-            "no": 55,
+            "no": 56,
             "tab": "Anvil Tab 1"
         },
         "BadgeG1": {
@@ -590,7 +590,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "2",
-            "no": 56,
+            "no": 57,
             "tab": "Anvil Tab 1"
         },
         "BadgeG2": {
@@ -601,7 +601,7 @@
             ],
             "levelReqToCraft": "40",
             "expGiven": "250000",
-            "no": 57,
+            "no": 58,
             "tab": "Anvil Tab 1"
         },
         "BadgeG3": {
@@ -613,7 +613,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "2",
-            "no": 58,
+            "no": 59,
             "tab": "Anvil Tab 1"
         },
         "NPCtoken1": {
@@ -625,7 +625,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "2",
-            "no": 60,
+            "no": 61,
             "tab": "Anvil Tab 1"
         },
         "NPCtoken2": {
@@ -637,7 +637,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "5",
-            "no": 61,
+            "no": 62,
             "tab": "Anvil Tab 1"
         },
         "NPCtoken3": {
@@ -649,7 +649,7 @@
             ],
             "levelReqToCraft": "1",
             "expGiven": "2",
-            "no": 62,
+            "no": 63,
             "tab": "Anvil Tab 1"
         },
         "EquipmentHats22": {
@@ -660,7 +660,7 @@
             ],
             "levelReqToCraft": "23",
             "expGiven": "6000",
-            "no": 64,
+            "no": 65,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShirts18": {
@@ -671,7 +671,7 @@
             ],
             "levelReqToCraft": "21",
             "expGiven": "3000",
-            "no": 65,
+            "no": 66,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPants17": {
@@ -682,7 +682,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1500",
-            "no": 66,
+            "no": 67,
             "tab": "Anvil Tab 1"
         },
         "EquipmentShoes20": {
@@ -693,7 +693,7 @@
             ],
             "levelReqToCraft": "14",
             "expGiven": "700",
-            "no": 67,
+            "no": 68,
             "tab": "Anvil Tab 1"
         },
         "EquipmentPendant17": {
@@ -704,7 +704,7 @@
             ],
             "levelReqToCraft": "25",
             "expGiven": "15000",
-            "no": 71,
+            "no": 72,
             "tab": "Anvil Tab 1"
         },
         "FishingRod2": {
@@ -714,7 +714,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "200",
-            "no": 72,
+            "no": 73,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagFi1": {
@@ -723,7 +723,7 @@
             ],
             "levelReqToCraft": "9",
             "expGiven": "125",
-            "no": 73,
+            "no": 74,
             "tab": "Anvil Tab 1"
         },
         "CatchingNet2": {
@@ -733,7 +733,7 @@
             ],
             "levelReqToCraft": "10",
             "expGiven": "200",
-            "no": 74,
+            "no": 75,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagB1": {
@@ -742,7 +742,7 @@
             ],
             "levelReqToCraft": "9",
             "expGiven": "125",
-            "no": 75,
+            "no": 76,
             "tab": "Anvil Tab 1"
         },
         "FishingRod3": {
@@ -753,7 +753,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "750",
-            "no": 76,
+            "no": 77,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagFi2": {
@@ -763,7 +763,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "450",
-            "no": 77,
+            "no": 78,
             "tab": "Anvil Tab 1"
         },
         "CatchingNet3": {
@@ -774,7 +774,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "750",
-            "no": 78,
+            "no": 79,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagB2": {
@@ -784,7 +784,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "450",
-            "no": 79,
+            "no": 80,
             "tab": "Anvil Tab 1"
         },
         "TrapBoxSet2": {
@@ -794,7 +794,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "750",
-            "no": 80,
+            "no": 81,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagTr1": {
@@ -804,7 +804,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "450",
-            "no": 81,
+            "no": 82,
             "tab": "Anvil Tab 1"
         },
         "WorshipSkull2": {
@@ -814,7 +814,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "750",
-            "no": 82,
+            "no": 83,
             "tab": "Anvil Tab 1"
         },
         "MaxCapBagS1": {
@@ -824,7 +824,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "450",
-            "no": 83,
+            "no": 84,
             "tab": "Anvil Tab 1"
         }
     },
@@ -837,7 +837,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "900",
-            "no": 0,
+            "no": 1,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts13": {
@@ -848,7 +848,7 @@
             ],
             "levelReqToCraft": "16",
             "expGiven": "1400",
-            "no": 1,
+            "no": 2,
             "tab": "Anvil Tab 2"
         },
         "EquipmentPants4": {
@@ -859,7 +859,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "2500",
-            "no": 2,
+            "no": 3,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes3": {
@@ -870,7 +870,7 @@
             ],
             "levelReqToCraft": "20",
             "expGiven": "4200",
-            "no": 3,
+            "no": 4,
             "tab": "Anvil Tab 2"
         },
         "EquipmentPunching3": {
@@ -881,7 +881,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "3300",
-            "no": 4,
+            "no": 5,
             "tab": "Anvil Tab 2"
         },
         "TestObj3": {
@@ -892,7 +892,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1900",
-            "no": 5,
+            "no": 6,
             "tab": "Anvil Tab 2"
         },
         "EquipmentBows5": {
@@ -903,7 +903,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1900",
-            "no": 6,
+            "no": 7,
             "tab": "Anvil Tab 2"
         },
         "EquipmentWands5": {
@@ -914,7 +914,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1900",
-            "no": 7,
+            "no": 8,
             "tab": "Anvil Tab 2"
         },
         "EquipmentTools5": {
@@ -925,7 +925,7 @@
             ],
             "levelReqToCraft": "20",
             "expGiven": "4400",
-            "no": 8,
+            "no": 9,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBag3": {
@@ -936,7 +936,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "1200",
-            "no": 9,
+            "no": 10,
             "tab": "Anvil Tab 2"
         },
         "EquipmentToolsHatchet2": {
@@ -947,7 +947,7 @@
             ],
             "levelReqToCraft": "20",
             "expGiven": "4400",
-            "no": 10,
+            "no": 11,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagT3": {
@@ -958,7 +958,7 @@
             ],
             "levelReqToCraft": "15",
             "expGiven": "1200",
-            "no": 11,
+            "no": 12,
             "tab": "Anvil Tab 2"
         },
         "FishingRod4": {
@@ -969,7 +969,7 @@
             ],
             "levelReqToCraft": "22",
             "expGiven": "5500",
-            "no": 12,
+            "no": 13,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagFi3": {
@@ -980,7 +980,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1850",
-            "no": 13,
+            "no": 14,
             "tab": "Anvil Tab 2"
         },
         "CatchingNet4": {
@@ -991,7 +991,7 @@
             ],
             "levelReqToCraft": "22",
             "expGiven": "5500",
-            "no": 14,
+            "no": 15,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagB3": {
@@ -1002,7 +1002,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "1850",
-            "no": 15,
+            "no": 16,
             "tab": "Anvil Tab 2"
         },
         "EquipmentRings11": {
@@ -1013,7 +1013,7 @@
             ],
             "levelReqToCraft": "23",
             "expGiven": "10000",
-            "no": 16,
+            "no": 17,
             "tab": "Anvil Tab 2"
         },
         "EquipmentPendant16": {
@@ -1024,7 +1024,7 @@
             ],
             "levelReqToCraft": "28",
             "expGiven": "28000",
-            "no": 17,
+            "no": 18,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagF3": {
@@ -1036,7 +1036,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "2400",
-            "no": 18,
+            "no": 19,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagM4": {
@@ -1047,7 +1047,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "2400",
-            "no": 19,
+            "no": 20,
             "tab": "Anvil Tab 2"
         },
         "EquipmentHats19": {
@@ -1058,7 +1058,7 @@
             ],
             "levelReqToCraft": "29",
             "expGiven": "20000",
-            "no": 20,
+            "no": 21,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts14": {
@@ -1069,7 +1069,7 @@
             ],
             "levelReqToCraft": "30",
             "expGiven": "36000",
-            "no": 21,
+            "no": 22,
             "tab": "Anvil Tab 2"
         },
         "EquipmentPants5": {
@@ -1080,7 +1080,7 @@
             ],
             "levelReqToCraft": "31",
             "expGiven": "50000",
-            "no": 22,
+            "no": 23,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes4": {
@@ -1091,7 +1091,7 @@
             ],
             "levelReqToCraft": "32",
             "expGiven": "55000",
-            "no": 23,
+            "no": 24,
             "tab": "Anvil Tab 2"
         },
         "Bullet": {
@@ -1107,12 +1107,12 @@
         "EquipmentSword1": {
             "recipe": [
                 ["DesertA3b", "3"],
-                ["CraftMat9", "6000"],
+                ["CraftMat9", "400"],
                 ["TestObj3", "2"]
             ],
             "levelReqToCraft": "23",
             "expGiven": "10000",
-            "no": 25,
+            "no": 26,
             "tab": "Anvil Tab 2"
         },
         "EquipmentBows6": {
@@ -1123,7 +1123,7 @@
             ],
             "levelReqToCraft": "23",
             "expGiven": "10000",
-            "no": 26,
+            "no": 27,
             "tab": "Anvil Tab 2"
         },
         "EquipmentWands6": {
@@ -1134,18 +1134,18 @@
             ],
             "levelReqToCraft": "23",
             "expGiven": "10000",
-            "no": 27,
+            "no": 28,
             "tab": "Anvil Tab 2"
         },
         "EquipmentTools6": {
             "recipe": [
-                ["PlatBar", "1000"],
+                ["PlatBar", "800"],
                 ["DesertB3", "10500"],
                 ["EquipmentTools5", "2"]
             ],
             "levelReqToCraft": "26",
             "expGiven": "16000",
-            "no": 28,
+            "no": 29,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBag4": {
@@ -1155,18 +1155,18 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "9000",
-            "no": 29,
+            "no": 30,
             "tab": "Anvil Tab 2"
         },
         "EquipmentToolsHatchet4": {
             "recipe": [
-                ["PalmTree", "8000"],
-                ["CraftMat7", "6000"],
+                ["PalmTree", "6500"],
+                ["CraftMat7", "5000"],
                 ["EquipmentToolsHatchet2", "2"]
             ],
             "levelReqToCraft": "26",
             "expGiven": "16000",
-            "no": 30,
+            "no": 31,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagT4": {
@@ -1176,18 +1176,18 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "9000",
-            "no": 31,
+            "no": 32,
             "tab": "Anvil Tab 2"
         },
         "FishingRod5": {
             "recipe": [
                 ["Fish4", "7000"],
-                ["PlatBar", "1000"],
+                ["PlatBar", "800"],
                 ["FishingRod4", "2"]
             ],
             "levelReqToCraft": "29",
             "expGiven": "29000",
-            "no": 32,
+            "no": 33,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagFi4": {
@@ -1197,18 +1197,18 @@
             ],
             "levelReqToCraft": "27",
             "expGiven": "17000",
-            "no": 33,
+            "no": 34,
             "tab": "Anvil Tab 2"
         },
         "CatchingNet5": {
             "recipe": [
-                ["Bug4", "8000"],
-                ["Plat", "6000"],
+                ["Bug4", "7000"],
+                ["Plat", "3000"],
                 ["CatchingNet4", "2"]
             ],
             "levelReqToCraft": "29",
             "expGiven": "29000",
-            "no": 34,
+            "no": 35,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagB4": {
@@ -1218,7 +1218,7 @@
             ],
             "levelReqToCraft": "27",
             "expGiven": "17000",
-            "no": 35,
+            "no": 36,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagF4": {
@@ -1229,7 +1229,7 @@
             ],
             "levelReqToCraft": "28",
             "expGiven": "28000",
-            "no": 36,
+            "no": 37,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagM5": {
@@ -1240,7 +1240,7 @@
             ],
             "levelReqToCraft": "30",
             "expGiven": "41000",
-            "no": 37,
+            "no": 38,
             "tab": "Anvil Tab 2"
         },
         "EquipmentSmithingTabs3": {
@@ -1252,7 +1252,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "135000",
-            "no": 39,
+            "no": 40,
             "tab": "Anvil Tab 2"
         },
         "Quest13": {
@@ -1263,7 +1263,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "1500",
-            "no": 40,
+            "no": 41,
             "tab": "Anvil Tab 2"
         },
         "Quest35": {
@@ -1273,7 +1273,7 @@
             ],
             "levelReqToCraft": "17",
             "expGiven": "900",
-            "no": 41,
+            "no": 42,
             "tab": "Anvil Tab 2"
         },
         "BulletB": {
@@ -1283,7 +1283,7 @@
             ],
             "levelReqToCraft": "20",
             "expGiven": "1",
-            "no": 43,
+            "no": 44,
             "tab": "Anvil Tab 2"
         },
         "TestObj13": {
@@ -1294,7 +1294,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "7450",
-            "no": 45,
+            "no": 46,
             "tab": "Anvil Tab 2"
         },
         "EquipmentHats41": {
@@ -1305,7 +1305,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "7450",
-            "no": 46,
+            "no": 47,
             "tab": "Anvil Tab 2"
         },
         "EquipmentHats26": {
@@ -1316,7 +1316,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "7450",
-            "no": 47,
+            "no": 48,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts5": {
@@ -1327,7 +1327,7 @@
             ],
             "levelReqToCraft": "26",
             "expGiven": "14700",
-            "no": 49,
+            "no": 50,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts23": {
@@ -1338,7 +1338,7 @@
             ],
             "levelReqToCraft": "26",
             "expGiven": "19000",
-            "no": 50,
+            "no": 51,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts22": {
@@ -1349,7 +1349,7 @@
             ],
             "levelReqToCraft": "26",
             "expGiven": "14700",
-            "no": 51,
+            "no": 52,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes16": {
@@ -1361,7 +1361,7 @@
             ],
             "levelReqToCraft": "22",
             "expGiven": "5500",
-            "no": 52,
+            "no": 53,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes18": {
@@ -1373,7 +1373,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "6500",
-            "no": 53,
+            "no": 54,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes17": {
@@ -1385,7 +1385,7 @@
             ],
             "levelReqToCraft": "22",
             "expGiven": "5000",
-            "no": 54,
+            "no": 55,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes19": {
@@ -1397,7 +1397,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "6500",
-            "no": 55,
+            "no": 56,
             "tab": "Anvil Tab 2"
         },
         "FoodFish1": {
@@ -1407,7 +1407,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "15",
-            "no": 56,
+            "no": 57,
             "tab": "Anvil Tab 2"
         },
         "FoodCatch1": {
@@ -1417,7 +1417,7 @@
             ],
             "levelReqToCraft": "24",
             "expGiven": "15",
-            "no": 57,
+            "no": 58,
             "tab": "Anvil Tab 2"
         },
         "Quest36": {
@@ -1428,7 +1428,7 @@
             ],
             "levelReqToCraft": "21",
             "expGiven": "2500",
-            "no": 58,
+            "no": 59,
             "tab": "Anvil Tab 2"
         },
         "InvBag103": {
@@ -1439,7 +1439,7 @@
             ],
             "levelReqToCraft": "18",
             "expGiven": "1200",
-            "no": 59,
+            "no": 60,
             "tab": "Anvil Tab 2"
         },
         "EquipmentHats52": {
@@ -1451,7 +1451,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "250000",
-            "no": 60,
+            "no": 61,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShirts26": {
@@ -1462,7 +1462,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "50000",
-            "no": 61,
+            "no": 62,
             "tab": "Anvil Tab 2"
         },
         "EquipmentPants20": {
@@ -1473,7 +1473,7 @@
             ],
             "levelReqToCraft": "37",
             "expGiven": "40000",
-            "no": 62,
+            "no": 63,
             "tab": "Anvil Tab 2"
         },
         "EquipmentShoes21": {
@@ -1484,7 +1484,7 @@
             ],
             "levelReqToCraft": "32",
             "expGiven": "25000",
-            "no": 63,
+            "no": 64,
             "tab": "Anvil Tab 2"
         },
         "EquipmentRings16": {
@@ -1496,7 +1496,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "500000",
-            "no": 64,
+            "no": 65,
             "tab": "Anvil Tab 2"
         },
         "TrapBoxSet3": {
@@ -1506,7 +1506,7 @@
             ],
             "levelReqToCraft": "29",
             "expGiven": "4000",
-            "no": 68,
+            "no": 69,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagTr3": {
@@ -1516,7 +1516,7 @@
             ],
             "levelReqToCraft": "28",
             "expGiven": "4000",
-            "no": 69,
+            "no": 70,
             "tab": "Anvil Tab 2"
         },
         "WorshipSkull3": {
@@ -1526,7 +1526,7 @@
             ],
             "levelReqToCraft": "29",
             "expGiven": "4000",
-            "no": 70,
+            "no": 71,
             "tab": "Anvil Tab 2"
         },
         "MaxCapBagS3": {
@@ -1536,7 +1536,7 @@
             ],
             "levelReqToCraft": "28",
             "expGiven": "4000",
-            "no": 71,
+            "no": 72,
             "tab": "Anvil Tab 2"
         }
     },
@@ -1549,7 +1549,7 @@
             ],
             "levelReqToCraft": "36",
             "expGiven": "100000",
-            "no": 0,
+            "no": 1,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts15": {
@@ -1560,7 +1560,7 @@
             ],
             "levelReqToCraft": "37",
             "expGiven": "120000",
-            "no": 1,
+            "no": 2,
             "tab": "Anvil Tab 3"
         },
         "EquipmentPants6": {
@@ -1571,7 +1571,7 @@
             ],
             "levelReqToCraft": "38",
             "expGiven": "150000",
-            "no": 2,
+            "no": 3,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShoes5": {
@@ -1582,7 +1582,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "200000",
-            "no": 3,
+            "no": 4,
             "tab": "Anvil Tab 3"
         },
         "EquipmentPunching4": {
@@ -1592,7 +1592,7 @@
             ],
             "levelReqToCraft": "40",
             "expGiven": "3",
-            "no": 4,
+            "no": 5,
             "tab": "Anvil Tab 3"
         },
         "EquipmentSword2": {
@@ -1603,7 +1603,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "200000",
-            "no": 5,
+            "no": 6,
             "tab": "Anvil Tab 3"
         },
         "EquipmentBows7": {
@@ -1614,7 +1614,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "200000",
-            "no": 6,
+            "no": 7,
             "tab": "Anvil Tab 3"
         },
         "EquipmentWands3": {
@@ -1625,7 +1625,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "200000",
-            "no": 7,
+            "no": 8,
             "tab": "Anvil Tab 3"
         },
         "EquipmentTools7": {
@@ -1636,7 +1636,7 @@
             ],
             "levelReqToCraft": "38",
             "expGiven": "150000",
-            "no": 8,
+            "no": 9,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBag5": {
@@ -1646,7 +1646,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "65000",
-            "no": 9,
+            "no": 10,
             "tab": "Anvil Tab 3"
         },
         "EquipmentToolsHatchet5": {
@@ -1657,7 +1657,7 @@
             ],
             "levelReqToCraft": "38",
             "expGiven": "150000",
-            "no": 10,
+            "no": 11,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagT5": {
@@ -1667,7 +1667,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "65000",
-            "no": 11,
+            "no": 12,
             "tab": "Anvil Tab 3"
         },
         "FishingRod6": {
@@ -1678,7 +1678,7 @@
             ],
             "levelReqToCraft": "38",
             "expGiven": "150000",
-            "no": 12,
+            "no": 13,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagFi5": {
@@ -1689,7 +1689,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "65000",
-            "no": 13,
+            "no": 14,
             "tab": "Anvil Tab 3"
         },
         "CatchingNet6": {
@@ -1700,7 +1700,7 @@
             ],
             "levelReqToCraft": "38",
             "expGiven": "150000",
-            "no": 14,
+            "no": 15,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagB5": {
@@ -1710,7 +1710,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "65000",
-            "no": 15,
+            "no": 16,
             "tab": "Anvil Tab 3"
         },
         "TrapBoxSet4": {
@@ -1721,7 +1721,7 @@
             ],
             "levelReqToCraft": "40",
             "expGiven": "225000",
-            "no": 16,
+            "no": 17,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagTr4": {
@@ -1731,7 +1731,7 @@
             ],
             "levelReqToCraft": "37",
             "expGiven": "80000",
-            "no": 17,
+            "no": 18,
             "tab": "Anvil Tab 3"
         },
         "WorshipSkull4": {
@@ -1742,7 +1742,7 @@
             ],
             "levelReqToCraft": "40",
             "expGiven": "225000",
-            "no": 18,
+            "no": 19,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagS4": {
@@ -1752,17 +1752,7 @@
             ],
             "levelReqToCraft": "37",
             "expGiven": "80000",
-            "no": 19,
-            "tab": "Anvil Tab 3"
-        },
-        "Bullet": {
-            "recipe": [
-                ["Copper", "6"],
-                ["Copper", "22"]
-            ],
-            "levelReqToCraft": "1",
-            "expGiven": "12",
-            "no": 59,
+            "no": 20,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagF5": {
@@ -1774,7 +1764,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "100000",
-            "no": 22,
+            "no": 23,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagM6": {
@@ -1785,7 +1775,7 @@
             ],
             "levelReqToCraft": "39",
             "expGiven": "100000",
-            "no": 23,
+            "no": 24,
             "tab": "Anvil Tab 3"
         },
         "EquipmentHats54": {
@@ -1796,7 +1786,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "275000",
-            "no": 24,
+            "no": 25,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts27": {
@@ -1807,7 +1797,7 @@
             ],
             "levelReqToCraft": "44",
             "expGiven": "300000",
-            "no": 25,
+            "no": 26,
             "tab": "Anvil Tab 3"
         },
         "EquipmentPants21": {
@@ -1818,7 +1808,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "370000",
-            "no": 26,
+            "no": 27,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShoes22": {
@@ -1829,7 +1819,7 @@
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
-            "no": 27,
+            "no": 28,
             "tab": "Anvil Tab 3"
         },
         "EquipmentSword3": {
@@ -1840,7 +1830,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
-            "no": 29,
+            "no": 30,
             "tab": "Anvil Tab 3"
         },
         "EquipmentBows8": {
@@ -1851,7 +1841,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
-            "no": 30,
+            "no": 31,
             "tab": "Anvil Tab 3"
         },
         "EquipmentWands7": {
@@ -1862,7 +1852,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
-            "no": 31,
+            "no": 32,
             "tab": "Anvil Tab 3"
         },
         "EquipmentTools11": {
@@ -1872,7 +1862,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
-            "no": 32,
+            "no": 33,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagMi6": {
@@ -1882,7 +1872,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "200000",
-            "no": 33,
+            "no": 34,
             "tab": "Anvil Tab 3"
         },
         "EquipmentToolsHatchet7": {
@@ -1892,7 +1882,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
-            "no": 34,
+            "no": 35,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagT6": {
@@ -1902,7 +1892,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "200000",
-            "no": 35,
+            "no": 36,
             "tab": "Anvil Tab 3"
         },
         "FishingRod7": {
@@ -1913,7 +1903,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
-            "no": 36,
+            "no": 37,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagFi6": {
@@ -1923,7 +1913,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "200000",
-            "no": 37,
+            "no": 38,
             "tab": "Anvil Tab 3"
         },
         "CatchingNet7": {
@@ -1933,7 +1923,7 @@
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
-            "no": 38,
+            "no": 39,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagB6": {
@@ -1943,7 +1933,7 @@
             ],
             "levelReqToCraft": "43",
             "expGiven": "200000",
-            "no": 39,
+            "no": 40,
             "tab": "Anvil Tab 3"
         },
         "TrapBoxSet5": {
@@ -1953,7 +1943,7 @@
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
-            "no": 40,
+            "no": 41,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagTr5": {
@@ -1963,7 +1953,7 @@
             ],
             "levelReqToCraft": "44",
             "expGiven": "250000",
-            "no": 41,
+            "no": 42,
             "tab": "Anvil Tab 3"
         },
         "WorshipSkull5": {
@@ -1973,7 +1963,7 @@
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
-            "no": 42,
+            "no": 43,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagS5": {
@@ -1983,7 +1973,7 @@
             ],
             "levelReqToCraft": "44",
             "expGiven": "250000",
-            "no": 43,
+            "no": 44,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagF6": {
@@ -1995,7 +1985,7 @@
             ],
             "levelReqToCraft": "44",
             "expGiven": "250000",
-            "no": 44,
+            "no": 45,
             "tab": "Anvil Tab 3"
         },
         "MaxCapBagM7": {
@@ -2006,7 +1996,7 @@
             ],
             "levelReqToCraft": "44",
             "expGiven": "250000",
-            "no": 45,
+            "no": 46,
             "tab": "Anvil Tab 3"
         },
         "EquipmentSmithingTabs4": {
@@ -2018,7 +2008,7 @@
             ],
             "levelReqToCraft": "50",
             "expGiven": "1500000",
-            "no": 47,
+            "no": 48,
             "tab": "Anvil Tab 3"
         },
         "EquipmentHats61": {
@@ -2029,7 +2019,7 @@
             ],
             "levelReqToCraft": "49",
             "expGiven": "1000000",
-            "no": 48,
+            "no": 49,
             "tab": "Anvil Tab 3"
         },
         "EquipmentHats58": {
@@ -2039,7 +2029,7 @@
             ],
             "levelReqToCraft": "48",
             "expGiven": "750000",
-            "no": 49,
+            "no": 50,
             "tab": "Anvil Tab 3"
         },
         "EquipmentHats59": {
@@ -2049,7 +2039,7 @@
             ],
             "levelReqToCraft": "48",
             "expGiven": "750000",
-            "no": 50,
+            "no": 51,
             "tab": "Anvil Tab 3"
         },
         "EquipmentHats60": {
@@ -2059,7 +2049,7 @@
             ],
             "levelReqToCraft": "48",
             "expGiven": "750000",
-            "no": 51,
+            "no": 52,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts31": {
@@ -2070,7 +2060,7 @@
             ],
             "levelReqToCraft": "50",
             "expGiven": "1200000",
-            "no": 52,
+            "no": 53,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts28": {
@@ -2080,7 +2070,7 @@
             ],
             "levelReqToCraft": "49",
             "expGiven": "1000000",
-            "no": 53,
+            "no": 54,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts29": {
@@ -2090,7 +2080,7 @@
             ],
             "levelReqToCraft": "49",
             "expGiven": "1000000",
-            "no": 54,
+            "no": 55,
             "tab": "Anvil Tab 3"
         },
         "EquipmentShirts30": {
@@ -2100,7 +2090,7 @@
             ],
             "levelReqToCraft": "49",
             "expGiven": "1000000",
-            "no": 55,
+            "no": 56,
             "tab": "Anvil Tab 3"
         },
         "FoodTrapping1": {
@@ -2110,7 +2100,7 @@
             ],
             "levelReqToCraft": "36",
             "expGiven": "10000",
-            "no": 56,
+            "no": 57,
             "tab": "Anvil Tab 3"
         },
         "FoodWorship1": {
@@ -2120,7 +2110,7 @@
             ],
             "levelReqToCraft": "36",
             "expGiven": "10000",
-            "no": 57,
+            "no": 58,
             "tab": "Anvil Tab 3"
         },
         "InvBag109": {
@@ -2130,7 +2120,7 @@
             ],
             "levelReqToCraft": "35",
             "expGiven": "5000",
-            "no": 58,
+            "no": 59,
             "tab": "Anvil Tab 3"
         }
     }

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Chaotic Amarok_Walking.gif
+|image=Chaotic Amarok Walking.gif
 |attack=1200
 |health=15000000
 |defence=1750
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Amarok|Biggie Hours}}
-{{DropTable/head}}
 {{DropTable/coin|500|1}}
 {{DropTable/row|Magic Meatloaf|0.10|3}}
 {{DropTable/card|0.02}}

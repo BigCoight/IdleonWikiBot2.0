@@ -1,0 +1,11 @@
+{{npc
+|location=Hollowed Trunk
+|noquest=2
+|repeatable=Unknown
+|birthweight=12.00
+|starsign=Aquarius
+|mmm=Constantinople
+|notes=[[Dazey]] is found in [[Worlds#T2 - Hollowed Trunk|Hollowed Trunk]], the second zone of the tree, located at the top right of the area.
+
+His final quest awards the {{CraftReq|Dazey Token}}.
+}}

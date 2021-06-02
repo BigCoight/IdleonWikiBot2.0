@@ -2,7 +2,7 @@
 |title=Jungle Logs
 |order=6
 |category=Easy Resources
-|effect=+{%_Choppin_EXP
+|effect=+{% Choppin EXP
 |bonus=5
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Jungle Tree]]

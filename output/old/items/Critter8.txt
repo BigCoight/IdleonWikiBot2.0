@@ -2,11 +2,9 @@
 |type=Critter
 |description=You lean closer to the critter, and hear it say 'Dodo tshh do dodo tss dodo tss badabada dodoooo'. So no, that name isn't a typo.
 |sellprice=55
-|source=Trapping, [[Dung Beat]]
+|source=[[Trapping]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Dung Beat]]|0.015|1}}
-|}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Rollin' Thunder!|Rollin' Thunder!]]|8000|Quests}}
+{{usedin/row|[[Lord of the Hunt#Rollin' Thunder!|Rollin' Thunder!]]|8000|Quests}}
 |}

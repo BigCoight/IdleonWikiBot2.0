@@ -7,6 +7,7 @@
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable2]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
@@ -39,9 +40,6 @@
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000015876000000000003|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0000019845000000000002|2.0}}
-{{detdrops|[[Frigid Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.0000019845000000000002|1.0}}
-{{detdrops|[[Bandit Bob]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}

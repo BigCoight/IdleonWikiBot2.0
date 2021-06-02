@@ -2,36 +2,37 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Bugs.
 |sellprice=763250
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=15
+|craftnum=16
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Mosquisnow|quantity1=10000
 |resource2=Sizable Bug Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Bug Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug5|10000}}
-{{detrecipe|3|MaxCapBagB4|2}}
-{{detrecipe|40|Bug4|13500}}
-{{detrecipe|40|MaxCapBagB3|6}}
-{{detrecipe|80|MaxCapBagB1|30}}
-{{detrecipe|120|Bug1|5400}}
-{{detrecipe|80|MaxCapBagB2|18}}
-{{detrecipe|120|Bug2|7650}}
-{{detrecipe|120|PureWater|36}}
-{{detrecipe|80|Bug2|9600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug5|10000}}
-{{detrecipe/totals|Bug4|13500}}
-{{detrecipe/totals|Bug1|5400}}
-{{detrecipe/totals|Bug2|17250}}
-{{detrecipe/totals|PureWater|36}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mosquisnow|10000}}
+{{detrecipe|3|Sizable Bug Pouch|2}}
+{{detrecipe|40|Fruitfly|13500}}
+{{detrecipe|40|Average Bug Pouch|6}}
+{{detrecipe|80|Cramped Bug Pouch|30}}
+{{detrecipe|120|Fly|5400}}
+{{detrecipe|80|Small Bug Pouch|18}}
+{{detrecipe|120|Butterfly|7650}}
+{{detrecipe|120|Distilled Water|36}}
+{{detrecipe|80|Butterfly|9600}}
+|tot=
+{{detrecipe/totals|Mosquisnow|10000}}
+{{detrecipe/totals|Fruitfly|13500}}
+{{detrecipe/totals|Fly|5400}}
+{{detrecipe/totals|Butterfly|17250}}
+{{detrecipe/totals|Distilled Water|36}}
+}}

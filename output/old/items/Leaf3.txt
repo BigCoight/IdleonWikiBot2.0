@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Leaf
 |sellprice=100
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
 }}

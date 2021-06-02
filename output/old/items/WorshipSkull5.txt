@@ -6,29 +6,30 @@
 |wis=12
 |upgrade=3
 |sellprice=2313200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=42
+|craftnum=43
 |levelreq=46
 |expgiven=500000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Frigid Soul|quantity1=50000
 |resource2=Prickle Skull|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Soul4|50000}}
-{{detrecipe|3|WorshipSkull4|2}}
-{{detrecipe|40|Soul3|25000}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|WorshipSkull3|4}}
-{{detrecipe|80|Soul2|4800}}
-{{detrecipe|80|Refinery1|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul4|50000}}
-{{detrecipe/totals|Soul3|25000}}
-{{detrecipe/totals|Refinery1|200}}
-{{detrecipe/totals|Soul2|4800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frigid Soul|50000}}
+{{detrecipe|3|Prickle Skull|2}}
+{{detrecipe|40|Rooted Soul|25000}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Horned Skull|4}}
+{{detrecipe|80|Dune Soul|4800}}
+{{detrecipe|80|Redox Salts|100}}
+|tot=
+{{detrecipe/totals|Frigid Soul|50000}}
+{{detrecipe/totals|Rooted Soul|25000}}
+{{detrecipe/totals|Redox Salts|200}}
+{{detrecipe/totals|Dune Soul|4800}}
+}}

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Wode Board_Walking.gif
+|image=Wode Board Walking.gif
 |attack=35
 |health=1800
 |defence=70
@@ -14,12 +14,11 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Glublin|Gigafrog}}
-{{DropTable/head}}
 {{DropTable/coin|23|0.37}}
 {{DropTable/row|Plank|0.15|1}}
 {{DropTable/card|0.000080}}
-{{DropTable/recipe0|Bleached Designer Wode Patch Pants|0.00003}}
-{{DropTable/row|Dog Bone|.1|1|([[Dog_Bone]])}}
+{{DropTable/recipe|0|Bleached Designer Wode Patch Pants|0.00003}}
+{{DropTable/row|Dog Bone|.1|1|([[Dog Bone]])}}
 {{DropTable/row|Planktop|0.00001|1}}
 {{DropTable3|chance=0.0045}}
 |}

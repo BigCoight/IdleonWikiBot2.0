@@ -1,11 +1,11 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Pisces
-|mmm=Nuttle
-|birthweight=8.17
-|notes=fillme
+{{npc
+|location=Froggy Fields
+|noquest=3
+|repeatable=Unknown
+|birthweight=3.32
+|starsign=Aquarius
+|mmm=Ramirez
+|notes=[[Rocklyte]] is hidden within [[Worlds#G3 - Froggy Fields|Froggy Fields]]. In order to find him, you must complete [[Bushlyte|Bushlyte's]] quests. See [[Secrets]] for more details.
 }}
 {{Quest/head}}
 {{Quest
@@ -13,7 +13,8 @@
 |difficulty=3
 |requirements=1000x {{CraftReq|Peanut}}
 |consumed=Yes
-|rewards={{Recipe|0|Golden Peanut}}, 5000 Class Experience
+|rewards={{Recipe|0|Peanut}}, 5000 Class Experience
+|notes=Drop the {{CraftReq|Stone Peanut}} at the rock on the bottom right side of Froggy Fields
 }}
 {{Quest
 |name=If Life Gives you Peanuts, make Shiny Peanuts!
@@ -25,9 +26,10 @@
 {{Quest
 |name=Becoming the Best Beginner
 |difficulty=1
-|requirements=Become a Journeyman: >= 1. Starting at 0. 
+|requirements=Become a Journeyman: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Club Member}}, {{Talentbook|Beginner Best Class}}
+|notes=This quest can only be completed by a beginner (no class chosen)
 }}
 |}
 {{dialogue/head}}

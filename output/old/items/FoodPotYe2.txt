@@ -3,6 +3,7 @@
 |description=Increases Main Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=250
 |source=[[Post Office#Dudes Next Door|Dudes Next Door]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Dedotated Ram]]|0.000004000000000000001|25.0}}

@@ -1,9 +1,10 @@
 # import pywikibot
 import json
+import os
 from libs.funcLib import camelCaseSplitter, nameDic
 from libs.jsonEncoder import CompactJSONEncoder
 
-# from pywikibot import Page, Site
+from pywikibot import Page, Site
 import re
 
 
@@ -21,9 +22,9 @@ def checkOld(fn, check):
     """
     Returns true if they are the same.
     """
+    if not os.path.isfile(rf"./output/old/items/{fn}.txt"):
+        return False
     with open(rf"./output/old/items/{fn}.txt", mode="r") as infile:
-        if check != infile.read():
-            print(infile.read())
         return check == infile.read()
 
 
@@ -84,6 +85,13 @@ def doWepPower(name, item):
     return item["Weapon_Power"]
 
 
+def doHasCard(name, item):
+    if "hascard" in item.keys():
+        if item["hascard"]:
+            return "yes"
+    return ""
+
+
 def doBonus(name, item):
     if item["typeGen"] == "aStamp":
         return item["stampData"][-2].split("{}")[1]
@@ -100,12 +108,7 @@ def doSkillPower(name, item):
 
 def isSkill(name, item):
     skillNames = ["Catching", "Fishing", "Choppin", "Mining"]
-    toolSkills = {
-        "aHatchet": "Choppin",
-        "aFishingRod": "Fishing",
-        "aBugNet": "Catching",
-        "aPick": "Mining",
-    }
+    toolSkills = {"aHatchet": "Choppin", "aFishingRod": "Fishing", "aBugNet": "Catching", "aPick": "Mining", "aTrap": "Trapping", "aSkull": "Worship"}
     skill = camelCaseSplitter(name)[-1]
     if skill in skillNames:
         return skill
@@ -139,6 +142,7 @@ def writeItem(name, item):
         "tier": doTier,
         "source": doSource,
         "notes": "notes",
+        "hascard": doHasCard,
     }
     itemData = "{{InfoItem\n"
     for wiki, atr in mapIntToWiki.items():
@@ -175,6 +179,7 @@ def writeStampInfo(name, item):
             if artibute := atr(name, item):
                 itemData += f"|{wiki}={artibute}\n"
     itemData += "}}\n"
+    itemData += writeSubData(name, item)
     return itemData
 
 
@@ -190,6 +195,7 @@ def writeFish(name, item):
         "source": doSource,
         "type": "Type",
         "sellprice": "sellPrice",
+        "description": doDescription,
     }
     itemData = "{{Fishingaccessory\n"
     for wiki, atr in mapIntToWikiFishing.items():
@@ -238,10 +244,11 @@ def writeSubData(name, item):
     itemData = ""
     if item["Type"] == "Golden Food":
         itemData += writeGoldFood(name, item)
-    elif item["Type"] == "Stamp":
-        itemData += writeStamp(name, item)
     elif item["Type"] == "Statue":
         itemData += writeStatue(name, item)
+
+    if item["typeGen"] == "aStamp":
+        itemData += writeStamp(name, item)
 
     if "recipeData" in item.keys():
         itemData += writeRecipe(name, item)
@@ -292,7 +299,7 @@ def writeRecipe(name, item):
     res = f"{head}ForgeSlot\n"
     for wiki, atr in mapRecipeData.items():
         res += f"|{wiki}={recipData[atr]}\n"
-    res += f'|recipefrom={recipData.get("recipeFrom","Start")}\n'
+    res += f'|recipefrom={", ".join(recipData.get("recipeFrom",["Start"]))}\n'
     for i, (n, q) in enumerate(recipData["recipe"], 1):
         res += f"|resource{i}={n}|quantity{i}={q}\n"
     return res + tail
@@ -325,15 +332,15 @@ def writeDetdrops(name, item):
 
 def writeDetrecipe(name, item):
     detRecipe = item["detrecipe"]
-    res = "{{detrecipe/head}}\n"
+    res = "{{detrecipe/tab\n|reci=\n"
     for sub in detRecipe:
         indent = 3 if sub[0] == 0 else int(sub[0]) * 40
         res += "{{detrecipe" + f"|{indent}|{sub[1]}|{sub[2]}" + "}}\n"
-    res += "{{!}}-\n{{!}}style=\"text-align:right\"{{!}}'''Totals'''\n{{!}} \n"
+    res += "|tot=\n"
     detRecipeTotals = item["detRecipeTotals"]
     for sub in detRecipeTotals:
         res += "{{detrecipe/totals" + f"|{sub[0]}|{sub[1]}" + "}}\n"
-    return res + "|}\n"
+    return res + "}}\n"
 
 
 def writeUses(name, item):
@@ -350,7 +357,15 @@ def writeProccessing(name, item):
     return "{{" + f"ProductionSlot|lvlreq={proccessing[2]}|num={proccessing[0]}|expcraft={proccessing[3]}|time={proccessing[1]}" + "}}\n"
 
 
+def world3Spoilers(changedItems, name, website, dispName):
+    page = Page(website, dispName)
+    return name in changedItems["Changes"].keys() and len(page.text) > 3
+
+
 def main(OLD, UPLOAD):
+    website = Site()
+    with open(fr"./output/changelog/Items.json", mode="r") as jsonFile:
+        changedItems = json.load(jsonFile)
     if OLD and UPLOAD:
         print("You cannot have old and upload set to true")
         return
@@ -380,9 +395,14 @@ def main(OLD, UPLOAD):
 
     if UPLOAD:
         for name, data in allItems.items():
-            if checkOld(name, data) == False:
-                pass
+            if not checkOld(name, data):
+                print(f"New: {items[name]['displayName']}, {name}")
+                wikiPage = Page(website, items[name]["displayName"])
+                wikiPage.text = data
+                wikiPage.save("Coights API")
+            else:
+                pass  # print(f"Old: {items[name]['displayName']}")
 
 
 if __name__ == "__main__":
-    main(True, True)
+    main(False, True)

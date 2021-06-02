@@ -2,7 +2,9 @@
 |type=Bug
 |description=Honestly, I was shocked too at first when I learned that cereal in real life was harvested from Cereal Bugs. Seriously, look it up! Most cereal before 1960 were made from harvested Cereal Bug Nests!
 |sellprice=15
-|source=Catching, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Catching]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|125}}
@@ -10,6 +12,6 @@
 {{usedin/head}}
 {{usedin/row|[[Platinum Shins]]|500|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Bug]|Bug]]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Bug]]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Le Brain Tools]]|Lots|Alchemy}}
 |}

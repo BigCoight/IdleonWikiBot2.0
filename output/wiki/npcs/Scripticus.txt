@@ -1,44 +1,48 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Leo
-|mmm=Lawicki
-|birthweight=1.2
-|notes=fillme
+{{npc
+|location=Blunder Hills
+|noquest=12
+|repeatable=Unknown
+|birthweight=1.54
+|starsign=Pisces
+|mmm=Garcia
+|notes=[[Scripticus]] is the first NPC you interact with after the tutorial, located to the right in the [[Worlds#G1 - Blunder Hills|starting town]].
+
+He introduces the player to the basics of completing quests, fighting monsters, [[Smithing]], equipping gear, and creating multiple characters. His questline guides the player through most of World 1 leading to the [[Amarok]] boss fight.
 }}
 {{Quest/head}}
 {{Quest
 |name=Hardcore Gamer Status, Here I Come!
 |text=Go to the right and defeat 5 green spores.
 |difficulty=2
-|requirements=Defeat Green Spores: >= 5. Starting at 0. 
+|requirements=Defeat Green Spores: >= 5. Starting at 0.
 |consumed=No
-|rewards=1x {{CraftReq|Crimson String}}, 80x {{CraftReq|COIN}}, 10 Class Experience
+|rewards=1x {{CraftReq|Crimson String}}, {{Coindisplay|80}}, 10 Class Experience
 }}
 {{Quest
 |name=Gear Up, Gamer!
 |text=Buy some Tape from the Shop and then make some gloves
 |difficulty=1
-|requirements=Craft Boxing Gloves: >= 1. Starting at 0. Buy Tape from Shop: >= 5. Starting at 0. 
+|requirements=Craft Boxing Gloves: >= 1. Starting at 0., Buy Tape from Shop: >= 5. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Red Headband}}, 15 Class Experience
+|notes=If you've accidentally sold the [[File:Crimson_String.png|36px]] [[Crimson String]], you can reclaim it from the quest codex.
 }}
 {{Quest
 |name=Mr. Worldwide
 |text=Reach map 2
 |difficulty=3
-|requirements=Discover map 2: >= 1. Starting at 0. 
+|requirements=Discover map 2: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Inventory Bag A}}, 20x {{CraftReq|Nomwich}}, 25 Class Experience
+|notes= Map 2 is the third Grasslands zone, [[Worlds#G3 - Froggy Fields|Froggy Fields]].
 }}
 {{Quest
 |name=The Choice is Yours!
 |text=Spend 5 Talent Points
 |difficulty=1
-|requirements=Spend Talent Points: >= 5. Starting at 0. 
+|requirements=Spend Talent Points: >= 5. Starting at 0.
 |consumed=No
-|rewards=125x {{CraftReq|COIN}}, 20 Class Experience
+|rewards={{Coindisplay|125}}, 20 Class Experience
 }}
 {{Quest
 |name=Certified Swinger, of Pickaxes of course!
@@ -46,15 +50,16 @@
 |difficulty=3
 |requirements=1x {{CraftReq|Mining Certificate}}
 |consumed=Yes
-|rewards=1x {{CraftReq|Junk Pickaxe}}, 50 Mining Experience, 200x {{CraftReq|COIN}}
+|rewards=1x {{CraftReq|Junk Pickaxe}}, 50 Mining Experience, {{Coindisplay|200}}
 }}
 {{Quest
 |name=The Smithing Grind
 |text=Craft Farmer Brim and Orange Tee
 |difficulty=2
-|requirements=Farmer Brim Crafted: >= 1. Starting at 0. Orange Tee Crafted: >= 1. Starting at 0. 
+|requirements=Farmer Brim Crafted: >= 1. Starting at 0., Orange Tee Crafted: >= 1. Starting at 0.
 |consumed=No
-|rewards=1x {{CraftReq|Mini Materials Pouch}}, {{Recipe|0|Blue Tee}}, 70 Class Experience
+|rewards=1x {{CraftReq|Mini Materials Pouch}}, {{Recipe|0|Anvil Tab 2}}, 70 Class Experience
+|notes=Crafting the required items before accepting the quest will not reward the player with completion progress.
 }}
 {{Quest
 |name=The Unoccupied Picnic
@@ -62,7 +67,7 @@
 |difficulty=4
 |requirements=1x {{CraftReq|Golden Jam (Quest)}}
 |consumed=Yes
-|rewards=1x {{CraftReq|Inventory Bag B}}, 120 Class Experience, 300x {{CraftReq|COIN}}
+|rewards=1x {{CraftReq|Inventory Bag B}}, 120 Class Experience, {{Coindisplay|300}}
 }}
 {{Quest
 |name=Seeking Foreign Aid
@@ -71,20 +76,23 @@
 |requirements=1x {{CraftReq|Scouting Report}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Inventory Bag C}}, 1x {{CraftReq|Small Material Pouch}}, 1250 Class Experience
+|notes=There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (quest)]] item for this.
 }}
 {{Quest
 |name=What Lies at the Heart of the Forest
 |difficulty=2
-|requirements=Forest Camp Found: >= 1. Starting at 0. 
+|requirements=Forest Camp Found: >= 1. Starting at 0.
 |consumed=No
 |rewards=10x {{CraftReq|Bottled Town Teleport}}, 2x {{CraftReq|Small Experience Balloon}}, 2500 Class Experience
+|notes=[[Stiltzcho]] rewards you with the report upon completing his first 3 quests.
 }}
 {{Quest
 |name=The Bigger they are, the Bigger they Fall!
 |difficulty=3
-|requirements=Wolf Golem Defeated: >= 1. Starting at 0. Town Gem Recovered: >= 1. Starting at 0. 
+|requirements=Wolf Golem Defeated: >= 1. Starting at 0., Town Gem Recovered: >= 1. Starting at 0.
 |consumed=No
-|rewards={{Talentbook|Will Of The Eldest}}, 5000 Class Experience, 4000x {{CraftReq|COIN}}
+|rewards={{Talentbook|Will Of The Eldest}}, 5000 Class Experience, {{Coindisplay|4000}}
+|notes=The 'Forest Camp' is the second area of the forest, where you can find the entrance to the [[Amarok]] boss fight.
 }}
 {{Quest
 |name=Champion of the Grasslands
@@ -92,14 +100,16 @@
 |requirements=1x {{CraftReq|Blunderhills NPC Completion Token}}, 1x {{CraftReq|Blunder Skills Completion Token}}, 1x {{CraftReq|Blunderhills Misc Completion Token}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Blunder Hero}}
+|notes=[[Amarok|The boss]] is located to the far right in [[Worlds#F2 - Encroaching Forest Villas|Encroaching Forest Villas]]. You need to complete [[Dog Bone (NPC)|Dog Bone]]'s quest to get the keys required to enter the [[Amarok|boss]] zone.
 }}
 {{Quest
 |name=Can't somebody else do it?
 |text=Reach Lv 7 then create a 2nd character at the main menu! You can treat them as a laborer to gather materials for you!
 |difficulty=2
-|requirements=2nd Character Created: >= 1. Starting at 0. Storage Chest Used: >= 1. Starting at 0. 
+|requirements=2nd Character Created: >= 1. Starting at 0., Storage Chest Used: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Armor Upgrade Stone I}}, 2x {{CraftReq|1 HR Time Candy}}, 130 Class Experience
+|notes=The Scripticus gives you all the 3 recipes for the tokens and also the 3 recipes which are needed to craft the [[Blunderhills NPC Completion Token]] ([[Easy Blunderhills NPC Token|Easy]], [[Med Blunderhills NPC Token|Med]], [[Hard Blunderhills NPC Token|Hard]])
 }}
 |}
 {{dialogue/head}}

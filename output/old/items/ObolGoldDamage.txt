@@ -6,4 +6,5 @@
 |misc=30 Base Damage
 |sellprice=8
 |rarity=Golden
+|notes= 
 }}

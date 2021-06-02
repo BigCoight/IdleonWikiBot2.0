@@ -6,4 +6,5 @@
 |misc=60 Base Damage
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Error_Walking.gif
+|image=Error Walking.gif
 |attack=20
 |health=69420
 |defence=1

@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Ghost
 |order=0
-|category=NYI
-|effect=+{%_Monster_EXP_While_Active
+|category=Event
+|effect=+{% Monster EXP While Active
 |bonus=3
 |reqtier=2
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]

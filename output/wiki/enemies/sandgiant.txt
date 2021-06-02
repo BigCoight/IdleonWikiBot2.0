@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Sand Giant_Walking.gif
+|image=Sand Giant Walking.gif
 |attack=195
 |health=30000
 |defence=365
@@ -14,10 +14,9 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Moonmoon|Snelbie}}
-{{DropTable/head}}
 {{DropTable/coin|140|0.34}}
 {{DropTable/row|Singlecle|0.152|1}}
 {{DropTable/card|0.0001}}
-{{DropTable/recipe1|Dootjat Eye|0.000017}}
+{{DropTable/recipe|1|Dootjat Eye|0.000017}}
 {{DropTable8|chance=0.0037}}
 |}

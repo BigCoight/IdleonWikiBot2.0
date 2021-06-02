@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Baby Boa_Walking.gif
+|image=Baby Boa Walking.gif
 |attack=18
 |health=450
 |defence=18
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Slime|Carrotman}}
-{{DropTable/head}}
 {{DropTable/coin|11|0.43}}
 {{DropTable/row|Snake Skin|0.18|1}}
 {{DropTable/card|0.000094}}

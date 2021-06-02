@@ -2,13 +2,15 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Fish.
 |sellprice=454590
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=13
+|craftnum=14
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Crescent Scropie|quantity1=4
 |resource2=Redox Salts|quantity2=50
 |resource3=Sizable Fish Pouch|quantity3=2
@@ -16,25 +18,24 @@
 {{usedin/head}}
 {{usedin/row|[[Large Fish Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter3A|4}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|MaxCapBagFi4|2}}
-{{detrecipe|40|Fish4|13500}}
-{{detrecipe|40|MaxCapBagFi3|6}}
-{{detrecipe|80|MaxCapBagFi1|30}}
-{{detrecipe|120|Fish1|5400}}
-{{detrecipe|80|MaxCapBagFi2|18}}
-{{detrecipe|120|Fish2|7650}}
-{{detrecipe|120|PureWater|36}}
-{{detrecipe|80|Fish2|9000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter3A|4}}
-{{detrecipe/totals|Refinery1|50}}
-{{detrecipe/totals|Fish4|13500}}
-{{detrecipe/totals|Fish1|5400}}
-{{detrecipe/totals|Fish2|16650}}
-{{detrecipe/totals|PureWater|36}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Crescent Scropie|4}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Sizable Fish Pouch|2}}
+{{detrecipe|40|Bloach|13500}}
+{{detrecipe|40|Average Fish Pouch|6}}
+{{detrecipe|80|Cramped Fish Pouch|30}}
+{{detrecipe|120|Goldfish|5400}}
+{{detrecipe|80|Small Fish Pouch|18}}
+{{detrecipe|120|Hermit Can|7650}}
+{{detrecipe|120|Distilled Water|36}}
+{{detrecipe|80|Hermit Can|9000}}
+|tot=
+{{detrecipe/totals|Crescent Scropie|4}}
+{{detrecipe/totals|Redox Salts|50}}
+{{detrecipe/totals|Bloach|13500}}
+{{detrecipe/totals|Goldfish|5400}}
+{{detrecipe/totals|Hermit Can|16650}}
+{{detrecipe/totals|Distilled Water|36}}
+}}

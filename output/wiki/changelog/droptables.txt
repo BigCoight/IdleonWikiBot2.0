@@ -1,48 +1,21 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Droptables==
-</div><div style = "flex:50%;"> 
-==New Droptables==
 {{patchnote/head|changed=DropTable14}}
-{{patchnote|Drop 0| |{{CraftReq|Sample Stamp}}: qty:1, chance:.001}}
-{{patchnote|Drop 1| |{{CraftReq|Banked Pts Stamp}}: qty:1, chance:.0006}}
-{{patchnote|Drop 2| |{{CraftReq|EhExPee Statue}}: qty:15, chance:.05}}
-{{patchnote|Drop 3| |{{CraftReq|Decent Strength Potion}}: qty:25, chance:.15}}
-{{patchnote|Drop 4| |SuperDropTable3: qty:1, chance:0.006}}
-|}
-
-{{patchnote/head|changed=DropTable15}}
-{{patchnote|Drop 0| |{{CraftReq|Overkill Stamp}}: qty:1, chance:.0003}}
-{{patchnote|Drop 1| |{{CraftReq|Violence Stamp}}: qty:1, chance:.00015}}
-{{patchnote|Drop 2| |{{CraftReq|Mountain Bread}}: qty:15, chance:.5}}
-{{patchnote|Drop 3| |{{CraftReq|EhExPee Statue}}: qty:14, chance:.04}}
-{{patchnote|Drop 4| |SuperDropTable3: qty:1, chance:0.006}}
+{{patchnote|Drop 2|{{CraftReq|EhExPee Statue}}: qty:15, chance:.05|{{CraftReq|Distilled Water}}: qty:1, chance:.022}}
+{{patchnote|Drop 3| |{{CraftReq|EhExPee Statue}}: qty:1, chance:.05}}
 |}
 
 {{patchnote/head|changed=DropTable16}}
-{{patchnote|Drop 0| |{{CraftReq|Flowin Stamp}}: qty:1, chance:.0001}}
-{{patchnote|Drop 1| |{{CraftReq|Blover Stamp}}: qty:15, chance:.00008}}
-{{patchnote|Drop 2| |{{CraftReq|Average EXP Potion}}: qty:25, chance:.1}}
-{{patchnote|Drop 3| |{{CraftReq|Feasty Statue}}: qty:1, chance:0.03}}
-{{patchnote|Drop 4| |SuperDropTable3: qty:1, chance:0.006}}
+{{patchnote|Drop 1|{{CraftReq|Blover Stamp}}: qty:15, chance:.00008|{{CraftReq|Blover Stamp}}: qty:1, chance:.00008}}
+{{patchnote|Drop 2| |{{CraftReq|Distilled Water}}: qty:1, chance:.027}}
 |}
 
-{{patchnote/head|changed=DropTable17}}
-{{patchnote|Drop 0| |{{CraftReq|Hidey Box Stamp}}: qty:1, chance:.0012}}
-{{patchnote|Drop 1| |SuperDropTable3: qty:1, chance:0.006}}
+{{patchnote/head|changed=DropTable15}}
+{{patchnote|Drop 0|{{CraftReq|EhExPee Statue}}: qty:14, chance:.04|{{CraftReq|R}}: qty:m, chance:e}}
+{{patchnote|Drop 2| |{{CraftReq|Distilled Water}}: qty:1, chance:.025}}
+{{patchnote|Drop 4| |{{CraftReq|EhExPee Statue}}: qty:1, chance:.04}}
 |}
 
-{{patchnote/head|changed=DropTable18}}
-{{patchnote|Drop 0| |{{CraftReq|Spikemouth Stamp}}: qty:1, chance:.0012}}
-{{patchnote|Drop 1| |SuperDropTable3: qty:1, chance:0.006}}
-|}
-
-{{patchnote/head|changed=SuperDropTable3}}
-{{patchnote|Drop 0| |{{CraftReq|Silver Pen}}: qty:1, chance:.09}}
-{{patchnote|Drop 1| |{{CraftReq|Saw Stamp}}: qty:1, chance:.015}}
-{{patchnote|Drop 2| |{{CraftReq|Lucky Lad}}: qty:1, chance:.0003}}
-{{patchnote|Drop 3| |{{CraftReq|Talent Point Reset Fragment}}: qty:1, chance:.15}}
-{{patchnote|Drop 4| |{{CraftReq|Golden Ham}}: qty:1, chance:0.5}}
-{{patchnote|Drop 5| |{{CraftReq|Mystery Upgrade Stone II}}: qty:3, chance:0.7}}
-|}
-
+</div><div style = "flex:50%;"> 
+==New Droptables==
 </div></div>

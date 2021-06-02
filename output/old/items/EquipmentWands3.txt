@@ -9,13 +9,15 @@
 |reach=155
 |upgrade=4
 |sellprice=661400
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=7
+|craftnum=8
 |levelreq=39
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Tundra Logs|quantity1=10000
 |resource2=Crows Nest|quantity2=2
 |resource3=Redox Salts|quantity3=150
@@ -23,26 +25,25 @@
 {{usedin/head}}
 {{usedin/row|[[Grey Gatsby]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SaharanFoal|10000}}
-{{detrecipe|3|EquipmentWands6|2}}
-{{detrecipe|40|Sewers1b|6}}
-{{detrecipe|40|Bug4|8000}}
-{{detrecipe|40|EquipmentWands5|4}}
-{{detrecipe|80|CraftMat7|4000}}
-{{detrecipe|80|EquipmentWands2|12}}
-{{detrecipe|120|Jungle1|1500}}
-{{detrecipe|120|CopperBar|1200}}
-{{detrecipe|80|PureWater|32}}
-{{detrecipe|3|Refinery1|150}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SaharanFoal|10000}}
-{{detrecipe/totals|Sewers1b|6}}
-{{detrecipe/totals|Bug4|8000}}
-{{detrecipe/totals|CraftMat7|4000}}
-{{detrecipe/totals|Jungle1|1500}}
-{{detrecipe/totals|CopperBar|1200}}
-{{detrecipe/totals|Refinery1|150}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tundra Logs|10000}}
+{{detrecipe|3|Crows Nest|2}}
+{{detrecipe|40|Golden Plop|6}}
+{{detrecipe|40|Fruitfly|8000}}
+{{detrecipe|40|Starlight|4}}
+{{detrecipe|80|Chain Link|4000}}
+{{detrecipe|80|Quarterstaff|12}}
+{{detrecipe|120|Slime Sludge|1500}}
+{{detrecipe|120|Copper Bar|1200}}
+{{detrecipe|80|Distilled Water|32}}
+{{detrecipe|3|Redox Salts|150}}
+|tot=
+{{detrecipe/totals|Tundra Logs|10000}}
+{{detrecipe/totals|Golden Plop|6}}
+{{detrecipe/totals|Fruitfly|8000}}
+{{detrecipe/totals|Chain Link|4000}}
+{{detrecipe/totals|Slime Sludge|1500}}
+{{detrecipe/totals|Copper Bar|1200}}
+{{detrecipe/totals|Redox Salts|150}}
+}}

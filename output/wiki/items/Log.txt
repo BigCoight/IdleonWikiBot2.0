@@ -2,7 +2,9 @@ Oak Logs
 {{InfoItem
 |type=Log
 |sellprice=2
-|source=Choppin, [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|40}}
@@ -21,15 +23,17 @@ Oak Logs
 {{usedin/row|[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]|100|Quests}}
 {{usedin/row|[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]|1000|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Roid Ragin|Roid Ragin]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Sippy Splinters|Sippy Splinters]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Roid Ragin]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Sippy Splinters]]|Lots|Alchemy}}
 |}
 Bleach Logs
 {{InfoItem
 |type=Log
 |sellprice=3
-|source=Choppin, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
@@ -44,18 +48,20 @@ Bleach Logs
 {{usedin/row|[[Peanut]]|1|Crafting}}
 {{usedin/row|[[Purple Tee]]|100|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}
-{{usedin/row|[[Picnic_Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|1500|Quests}}
+{{usedin/row|[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|1500|Quests}}
 {{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|3|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Big Meaty Claws|Big Meaty Claws]]|Lots|Alchemy}}
-{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Big Meaty Claws]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Le Brain Tools]]|Lots|Alchemy}}
 |}
 Jungle Logs
 {{InfoItem
 |type=Log
 |sellprice=6
-|source=Choppin, [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
@@ -68,16 +74,18 @@ Jungle Logs
 {{usedin/row|[[Copper Netted Net]]|500|Crafting}}
 {{usedin/row|[[Logger Heels]]|1600|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Hearty Diggy|Hearty Diggy]]|Lots|Alchemy}}
-{{usedin/row|[[Power Cauldron#Bappity Boopity|Bappity Boopity]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Jungle Juice|Jungle Juice]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Hearty Diggy]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Jungle Juice]]|Lots|Alchemy}}
 |}
 Forest Fibres
 {{InfoItem
 |type=Log
 |sellprice=10
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
@@ -90,14 +98,16 @@ Forest Fibres
 {{usedin/row|[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]|1|Quests}}
 {{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|1000|Quests}}
 {{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1000|Quests}}
-{{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
 |}
 Potty Rolls
 {{InfoItem
 |type=Log
 |sellprice=15
-|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
@@ -106,32 +116,36 @@ Potty Rolls
 {{usedin/row|[[Bandage Wraps]]|2000|Crafting}}
 {{usedin/row|[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]|10000|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Cookin Roadkill|Cookin Roadkill]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Tea With Pea|Tea With Pea]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Cookin Roadkill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Tea With Pea]]|Lots|Alchemy}}
 |}
 Tropilogs
 {{InfoItem
 |type=Log
 |sellprice=20
-|source=Choppin, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Choppin]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.5|100}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Platinum Boots]]|8000|Crafting}}
-{{usedin/row|[[Plat Hatchet]]|8000|Crafting}}
+{{usedin/row|[[Plat Hatchet]]|6500|Crafting}}
 {{usedin/row|[[Sizable Choppin Pouch]]|6750|Crafting}}
 {{usedin/row|[[Sleek Coif]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Shaquracy|Shaquracy]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Shaquracy]]|Lots|Alchemy}}
 |}
 Veiny Logs
 {{InfoItem
 |type=Log
 |sellprice=25
-|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
@@ -139,13 +153,15 @@ Veiny Logs
 {{usedin/head}}
 {{usedin/row|[[Blunder Skills Completion Token]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|All For Kill]]|Lots|Alchemy}}
 |}
 Tundra Logs
 {{InfoItem
 |type=Log
 |sellprice=30
-|source=Choppin, [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Choppin]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
@@ -154,30 +170,34 @@ Tundra Logs
 {{usedin/row|[[Spriggly Storm]]|10000|Crafting}}
 {{usedin/row|[[Dementia Dicer]]|15000|Crafting}}
 {{usedin/row|[[Big Choppin Pouch]]|20000|Crafting}}
-{{usedin/row|[[Quicc Cauldron#Call Me Ash|Call Me Ash]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#The Spanish Sahara|The Spanish Sahara]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Call Me Ash]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|The Spanish Sahara]]|Lots|Alchemy}}
 |}
 Wispy Lumber
 {{InfoItem
 |type=Log
 |sellprice=40
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Shardshins]]|75000|Crafting}}
 {{usedin/row|[[Void Imperium Axe]]|50000|Crafting}}
 {{usedin/row|[[Large Choppin Pouch]]|30000|Crafting}}
-{{usedin/row|[[Kazam Cauldron#Ignore Overdues|Ignore Overdues]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Ignore Overdues]]|Lots|Alchemy}}
 |}
 Alien Hive Chunk
 {{InfoItem
 |type=Log
 |sellprice=5000
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
 }}
 Alien Logs
 {{InfoItem
 |type=Log
 |sellprice=50
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
 }}

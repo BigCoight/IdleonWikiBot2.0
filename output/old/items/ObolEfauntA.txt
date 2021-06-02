@@ -11,6 +11,7 @@
 |sellprice=20
 |rarity=Skeletal
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.001|1}}

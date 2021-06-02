@@ -6,13 +6,15 @@
 |wis=5
 |upgrade=2
 |sellprice=1130
+|source=[[Smithing]], [[Hamish#Should We Tell Him?|Recipe from Should We Tell Him?]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=40
+|craftnum=41
 |levelreq=5
 |expgiven=20
-|recipefrom=Start
+|recipefrom=[[Hamish#Should We Tell Him?|Should We Tell Him?]]
 |resource1=Bleach Logs|quantity1=100
 |resource2=Iron Ore|quantity2=50
 |resource3=Crude Oil|quantity3=60
@@ -20,14 +22,13 @@
 {{usedin/head}}
 {{usedin/row|[[Hamish#Should We Tell Him?|Should We Tell Him?]]|1|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|BirchTree|100}}
-{{detrecipe|3|Iron|50}}
-{{detrecipe|3|OilBarrel1|60}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|Iron|50}}
-{{detrecipe/totals|OilBarrel1|60}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Iron Ore|50}}
+{{detrecipe|3|Crude Oil|60}}
+|tot=
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Iron Ore|50}}
+{{detrecipe/totals|Crude Oil|60}}
+}}

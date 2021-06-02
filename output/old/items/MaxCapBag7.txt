@@ -2,25 +2,26 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Logs, Leaves.
 |sellprice=660
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=11
+|craftnum=12
 |levelreq=6
 |expgiven=13
-|recipefrom=Start
+|recipefrom=
 |resource1=Oak Logs|quantity1=150
 |resource2=Trusty Nails|quantity2=30
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Choppin Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|OakTree|150}}
-{{detrecipe|3|CraftMat5|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|OakTree|150}}
-{{detrecipe/totals|CraftMat5|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Oak Logs|150}}
+{{detrecipe|3|Trusty Nails|30}}
+|tot=
+{{detrecipe/totals|Oak Logs|150}}
+{{detrecipe/totals|Trusty Nails|30}}
+}}

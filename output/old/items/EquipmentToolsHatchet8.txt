@@ -9,4 +9,5 @@
 |luck=3
 |upgrade=5
 |sellprice=200
+|notes= 
 }}

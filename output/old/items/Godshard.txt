@@ -1,6 +1,7 @@
 {{InfoItem
 |type=Ore
-|description=Smelt down 5000 Ores into 1 Bar at the Forge. Smelting will take 100 per Bar using Forge Slot 1.
+|description=Smelt down 5000 Ores into 1 Bar at the Forge. Smelting will take 100 seconds per Bar using Forge Slot 1.
 |sellprice=250
-|source=Mining
+|source=[[Mining]]
+|notes= 
 }}

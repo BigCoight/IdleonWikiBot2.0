@@ -1,8 +1,10 @@
 {{InfoItem
 |type=Ore
-|description=Smelt down 8 Ores into 1 Bar at the Forge. Smelting will take 1000 per Bar using Forge Slot 1.
+|description=Smelt down 7 Ores into 1 Bar at the Forge. Smelting will take 1000 seconds per Bar using Forge Slot 1.
 |sellprice=13
-|source=Mining, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
+|source=[[Mining]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|20}}
@@ -13,7 +15,7 @@
 {{usedin/row|[[FMJ Bullet]]|15|Crafting}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|200|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Anvilnomics|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Name I Guess|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Gold Guzzle|Gold Guzzle]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Gold Guzzle]]|Lots|Alchemy}}
 |}

@@ -2,7 +2,7 @@
 |title=Fire Forge
 |order=3
 |category=Easy Resources
-|effect=+{%_Smithing_EXP
+|effect=+{% Smithing EXP
 |bonus=4
 |reqtier=10
 }}

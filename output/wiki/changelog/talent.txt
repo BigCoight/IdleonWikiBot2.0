@@ -2,132 +2,20 @@
 ==Changed Talent==
 {{patchnote/head|changed=Barbarian}}
 |-
-|'''Mocking Shout'''
-{{patchnote|Description|Every 0.5 sec, monsters move toward you and heal for {% HP. You get +}% EXP gain.|Every 0.5 sec, monsters move toward you and heal for {% HP.}}
-|}
-
-{{patchnote/head|changed=Shaman}}
-|-
-|'''Tenteyecle'''
-{{patchnote|X1|150|100}}
+|'''Worming Undercover'''
+{{patchnote|Description|{% chance to wake the sleeper agent worm within the fish, letting you instantly catch|{% chance}}
+{{patchnote|X1|9.3|to}}
+{{patchnote|X2|.7|wake the sleeper agent worm within the fish, letting you instantly catch}}
+{{patchnote|FuncX|bigBase|9.3}}
 |}
 
 </div><div style = "flex:50%;"> 
 ==New Talent==
-{{patchnote/head|changed=Squire}}
+{{patchnote/head|changed=Barbarian}}
 |-
-|'''Refinery Throttle'''
-{{patchnote|Description| |Automatically trigger { Refinery Cycles. Still costs materials, though.}}
-{{patchnote|X1| |3}}
-{{patchnote|X2| |8}}
-{{patchnote|FuncX| |intervalAdd}}
-{{patchnote|Level Up Text| |+1 Cycle Every 8 Lvs}}
-|-
-|'''Redox Rates'''
-{{patchnote|Description| |+{% Build Speed per power of 10 Redox Salts in your Storage Chest}}
-{{patchnote|X1| |40}}
-{{patchnote|X2| |70}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Level Up Text| |+{% Build Spd}}
-|-
-|'''Sharper Saws'''
-{{patchnote|Description| |+{% Construction EXP gain. More like Cogstruction am I right fellas?}}
-{{patchnote|X1| |1}}
-{{patchnote|X2| |0}}
-{{patchnote|FuncX| |add}}
-{{patchnote|Level Up Text| |+{% Construction EXP}}
-|-
-|'''Super Samples'''
-{{patchnote|Description| |+{% Sample Size when talking Samples for the 3d printer.}}
-{{patchnote|X1| |9}}
-{{patchnote|X2| |75}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Level Up Text| |+{% Sample Size}}
-|}
-
-{{patchnote/head|changed=Hunter}}
-|-
-|'''Eagle Eye'''
-{{patchnote|Description| |Collect & set all traps, but only get {% critters. }% Exp is given to each player.}}
-{{patchnote|X1| |100}}
-{{patchnote|X2| |100}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Y1| |80}}
-{{patchnote|Y2| |100}}
-{{patchnote|FuncY| |decay}}
-{{patchnote|Level Up Text| |+{% Critters & +}% XP}}
-|-
-|'''Invasive Species'''
-{{patchnote|Description| |+{% Trapping Efficiency per power of 10 Froge Critters in Storage}}
-{{patchnote|X1| |30}}
-{{patchnote|X2| |80}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Level Up Text| |+{% Trap Efficiency}}
-|-
-|'''Shroom Bait'''
-{{patchnote|Description| |+{% Trapping Exp Gain. Doesn't affect EXP given to other players when in Eagle Eye.}}
-{{patchnote|X1| |1}}
-{{patchnote|X2| |0}}
-{{patchnote|FuncX| |add}}
-{{patchnote|Level Up Text| |+{% Trapping EXP}}
-|-
-|'''Reflective Eyesight'''
-{{patchnote|Description| |{x Shiny Critter chance. Triggers again every 10 Trapping LVs}}
-{{patchnote|X1| |2}}
-{{patchnote|X2| |100}}
-{{patchnote|FuncX| |decayMulti}}
-{{patchnote|Level Up Text| |+{x Shiny Chance}}
-|}
-
-{{patchnote/head|changed=Wizard}}
-|-
-|'''Charge Syphon'''
-{{patchnote|Description| |Steal charge from all your players, giving you {% of it. +}% Max Charge for 1 Min}}
-{{patchnote|X1| |35}}
-{{patchnote|X2| |.3}}
-{{patchnote|FuncX| |bigBase}}
-{{patchnote|Y1| |100}}
-{{patchnote|Y2| |10}}
-{{patchnote|FuncY| |bigBase}}
-{{patchnote|Level Up Text| |+{% Steal, +}% Temp Max}}
-|-
-|'''Sooouls'''
-{{patchnote|Description| |+{% Worship Efficiency per power of 10 Forest Souls in your Storage Chest}}
-{{patchnote|X1| |25}}
-{{patchnote|X2| |70}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Level Up Text| |+{% Worship Eff.}}
-|-
-|'''Bless Up'''
-{{patchnote|Description| |+{% Worship EXP gain. Access the other totems faster!}}
-{{patchnote|X1| |1}}
-{{patchnote|X2| |0}}
-{{patchnote|FuncX| |add}}
-{{patchnote|Level Up Text| |+{% Worship EXP}}
-|-
-|'''Nearby Outlet'''
-{{patchnote|Description| |{x Charge rate. You know, for Worship... No, not for your phone.}}
-{{patchnote|X1| |1}}
-{{patchnote|X2| |100}}
-{{patchnote|FuncX| |decayMulti}}
-{{patchnote|Level Up Text| |+{x Charge Rate}}
-|}
-
-{{patchnote/head|changed=Special Talent 2}}
-|-
-|'''Printer Sampling'''
-{{patchnote|Description| |Cast to sample {% of your current AFK gains, which is used by the 3d Printer.}}
-{{patchnote|X1| |10}}
-{{patchnote|X2| |.075}}
-{{patchnote|FuncX| |bigBase}}
-{{patchnote|Level Up Text| |+{% AFK gains sampled}}
-|-
-|'''Shrine Architect'''
-{{patchnote|Description| |Cast this talent to place shrines. You also charge them +{% faster}}
-{{patchnote|X1| |50}}
-{{patchnote|X2| |50}}
-{{patchnote|FuncX| |decay}}
-{{patchnote|Level Up Text| |+{% Charge Rate}}
+|'''Worming Undercover'''
+{{patchnote|Y1| |.7}}
+{{patchnote|Y2| |bigBase}}
 |}
 
 </div></div>

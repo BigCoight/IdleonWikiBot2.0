@@ -10,4 +10,5 @@
 |reach=90
 |upgrade=2
 |sellprice=223400
+|notes= 
 }}

@@ -1,18 +1,20 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Cancer
-|mmm=Ulrich
-|birthweight=8.9
-|notes=fillme
+{{npc
+|location=Froggy Fields
+|noquest=1
+|repeatable=Daily
+|birthweight=5.01
+|starsign=Taurus
+|mmm=Williams
+|notes=[[Typhoon]] is found in [[Worlds#G3 - Froggy Fields|Froggy Fields]], the second zone of Grasslands, located in the top right of the area.
+
+Completing his quest gives the player the ability to talk to him once every day to obtain a {{CraftReq|Colosseum Ticket}}. He will hold tickets for you for up to 3 days. Having more characters complete his quest does not provide more daily tickets.
 }}
 {{Quest/head}}
 {{Quest
 |name=Surprise Attack!
 |text=Kill froggies. Forfeit the quest by clicking the Codex if you fail!
 |difficulty=2
-|requirements=Frogs Defeated: >= 7. Starting at 0. 
+|requirements=Frogs Defeated: >= 7. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Colosseum Ticket}}, 100 Class Experience
 }}

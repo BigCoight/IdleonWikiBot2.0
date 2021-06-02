@@ -9,4 +9,5 @@
 |misc=8% Mining Efficincy
 |upgrade=4
 |sellprice=200
+|notes= 
 }}

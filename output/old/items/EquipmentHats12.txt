@@ -6,4 +6,5 @@
 |upgrade=1
 |sellprice=5
 |source=Starter Hat
+|notes= 
 }}

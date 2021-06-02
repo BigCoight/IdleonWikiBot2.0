@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Aries
-|mmm=Thompson
-|birthweight=6.01
+|starsign=Scorpio
+|mmm=Dinkins
+|birthweight=2.16
 |notes=fillme
 }}
 {{Quest/head}}

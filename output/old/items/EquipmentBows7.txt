@@ -9,13 +9,15 @@
 |reach=205
 |upgrade=4
 |sellprice=290740
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=6
+|craftnum=7
 |levelreq=39
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Forest Soul|quantity1=7000
 |resource2=Pharoah Bow|quantity2=2
 |resource3=Redox Salts|quantity3=150
@@ -23,26 +25,25 @@
 {{usedin/head}}
 {{usedin/row|[[Blackhole Bow]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul1|7000}}
-{{detrecipe|3|EquipmentBows6|2}}
-{{detrecipe|40|TreeInterior1b|6}}
-{{detrecipe|40|Fish4|6400}}
-{{detrecipe|40|EquipmentBows5|4}}
-{{detrecipe|80|GoldBar|1000}}
-{{detrecipe|80|EquipmentBows3|12}}
-{{detrecipe|120|Jungle1|1500}}
-{{detrecipe|120|BirchTree|3000}}
-{{detrecipe|80|PureWater|32}}
-{{detrecipe|3|Refinery1|150}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul1|7000}}
-{{detrecipe/totals|TreeInterior1b|6}}
-{{detrecipe/totals|Fish4|6400}}
-{{detrecipe/totals|GoldBar|1000}}
-{{detrecipe/totals|Jungle1|1500}}
-{{detrecipe/totals|BirchTree|3000}}
-{{detrecipe/totals|Refinery1|150}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Soul|7000}}
+{{detrecipe|3|Pharoah Bow|2}}
+{{detrecipe|40|Woodular Circle|6}}
+{{detrecipe|40|Bloach|6400}}
+{{detrecipe|40|Spiked Menace|4}}
+{{detrecipe|80|Gold Bar|1000}}
+{{detrecipe|80|Birch Longbow|12}}
+{{detrecipe|120|Slime Sludge|1500}}
+{{detrecipe|120|Bleach Logs|3000}}
+{{detrecipe|80|Distilled Water|32}}
+{{detrecipe|3|Redox Salts|150}}
+|tot=
+{{detrecipe/totals|Forest Soul|7000}}
+{{detrecipe/totals|Woodular Circle|6}}
+{{detrecipe/totals|Bloach|6400}}
+{{detrecipe/totals|Gold Bar|1000}}
+{{detrecipe/totals|Slime Sludge|1500}}
+{{detrecipe/totals|Bleach Logs|3000}}
+{{detrecipe/totals|Redox Salts|150}}
+}}

@@ -1,8 +1,6 @@
-{{DropTable/head}}
 {{DropTable/row|Weapon Upgrade Stone II|{{#expr: {{{chance}}}*.002}}|1}}
 {{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
 {{DropTable/row|Thicc Skin Statue|{{#expr: {{{chance}}}*.05}}|1}}
 {{DropTable/row|Small Strength Potion|{{#expr: {{{chance}}}*0.07}}|5}}
 {{DropTable/row|Alch Go Brrr Stamp|{{#expr: {{{chance}}}*0.0003}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
-|}

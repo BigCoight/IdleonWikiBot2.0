@@ -1,0 +1,16 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Capricorn
+|mmm=Upson
+|birthweight=2.05
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Brrr.... Anyway so I walked up to the guy right? And I just started going off on him about some bridge an instant classic!
+}}
+|}

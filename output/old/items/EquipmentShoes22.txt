@@ -10,45 +10,46 @@
 |upgrade=4
 |defence=30
 |sellprice=9494600
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=27
+|craftnum=28
 |levelreq=46
 |expgiven=500000
-|recipefrom=Start
+|recipefrom=
 |resource1=Flycicle|quantity1=60000
 |resource2=Dementia Boots|quantity2=2
 |resource3=Void Bar|quantity3=725
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Bug6|60000}}
-{{detrecipe|3|EquipmentShoes5|2}}
-{{detrecipe|40|Critter1A|6}}
-{{detrecipe|40|EquipmentShoes4|2}}
-{{detrecipe|80|PalmTree|16000}}
-{{detrecipe|80|Fish3|16000}}
-{{detrecipe|80|EquipmentShoes3|6}}
-{{detrecipe|120|GoldBar|3600}}
-{{detrecipe|120|EquipmentShoes15|12}}
-{{detrecipe|160|CraftMat5|6000}}
-{{detrecipe|160|IronBar|1500}}
-{{detrecipe|160|EquipmentShoes1|24}}
-{{detrecipe|200|CopperBar|3000}}
-{{detrecipe|120|PureWater|24}}
-{{detrecipe|40|DementiaBar|1000}}
-{{detrecipe|3|VoidBar|725}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug6|60000}}
-{{detrecipe/totals|Critter1A|6}}
-{{detrecipe/totals|PalmTree|16000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|GoldBar|3600}}
-{{detrecipe/totals|CraftMat5|6000}}
-{{detrecipe/totals|IronBar|1500}}
-{{detrecipe/totals|CopperBar|3000}}
-{{detrecipe/totals|DementiaBar|1000}}
-{{detrecipe/totals|VoidBar|725}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Flycicle|60000}}
+{{detrecipe|3|Dementia Boots|2}}
+{{detrecipe|40|Poison Froge|6}}
+{{detrecipe|40|Platinum Boots|2}}
+{{detrecipe|80|Tropilogs|16000}}
+{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Gold Boots|6}}
+{{detrecipe|120|Gold Bar|3600}}
+{{detrecipe|120|Iron Boots|12}}
+{{detrecipe|160|Trusty Nails|6000}}
+{{detrecipe|160|Iron Bar|1500}}
+{{detrecipe|160|Copper Boots|24}}
+{{detrecipe|200|Copper Bar|3000}}
+{{detrecipe|120|Distilled Water|24}}
+{{detrecipe|40|Dementia Bar|1000}}
+{{detrecipe|3|Void Bar|725}}
+|tot=
+{{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Poison Froge|6}}
+{{detrecipe/totals|Tropilogs|16000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Gold Bar|3600}}
+{{detrecipe/totals|Trusty Nails|6000}}
+{{detrecipe/totals|Iron Bar|1500}}
+{{detrecipe/totals|Copper Bar|3000}}
+{{detrecipe/totals|Dementia Bar|1000}}
+{{detrecipe/totals|Void Bar|725}}
+}}

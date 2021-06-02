@@ -7,22 +7,23 @@
 |str=2
 |upgrade=2
 |sellprice=3000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=72
+|craftnum=73
 |levelreq=10
 |expgiven=200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Copper Bar|quantity1=200
 |resource2=Goldfish|quantity2=400
 }}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|200}}
-{{detrecipe|3|Fish1|400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|200}}
-{{detrecipe/totals|Fish1|400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|200}}
+{{detrecipe|3|Goldfish|400}}
+|tot=
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Goldfish|400}}
+}}

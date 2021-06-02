@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Valentslime
 |order=3
-|category=NYI
-|effect=+{%_Defence_from_Equipment
+|category=Event
+|effect=+{% Defence from Equipment
 |bonus=3
 |reqtier=2
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]

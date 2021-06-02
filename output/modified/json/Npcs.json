@@ -1,5 +1,5 @@
 {
-    "TP_Pete": {
+    "TP Pete": {
         "Quests": {
             "Roll of Anger": {
                 "rewards": [
@@ -12,11 +12,11 @@
                     "Time_Left: >= 1. Starting at 200."
                 ],
                 "consumed": "No",
-                "dialogueText": "That's it I've had it with this place! I want retribution and I want it NOW! @ QUEST:Go defeat 40 poops in 200 seconds.",
+                "dialogueText": "That's it I've had it with this place! I want retribution and I want it NOW! ",
                 "difficulty": "4",
                 "name": "Roll of Anger",
                 "questText": "Go defeat 40 poops in 200 seconds.",
-                "DialogueText": "That's it I've had it with this place! I want retribution and I want it NOW! @ QUEST"
+                "notes": ""
             },
             "The Rats are to Blame!": {
                 "rewards": [
@@ -27,11 +27,11 @@
                     ["Employment Statistics", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "You know what I bet one of these darn rats stole it! They came in from the surface one day and have been hogging up all the jobs ever since! @ QUEST: Defeat rats for employment research!",
+                "dialogueText": "You know what I bet one of these darn rats stole it! They came in from the surface one day and have been hogging up all the jobs ever since! ",
                 "difficulty": "3",
                 "name": "The Rats are to Blame!",
                 "questText": " Defeat rats for employment research!",
-                "DialogueText": "You know what I bet one of these darn rats stole it! They came in from the surface one day and have been hogging up all the jobs ever since! @ QUEST"
+                "notes": ""
             },
             "Fired for BS Reasons!": {
                 "rewards": [
@@ -42,11 +42,11 @@
                     ["Job Application", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "My boss is a total piece of.... well you'll see when you meet him! His office is to the left. @ QUEST:Reinstate Pete as Comissioner.",
+                "dialogueText": "My boss is a total piece of.... well you'll see when you meet him! His office is to the left. ",
                 "difficulty": "5",
                 "name": "Fired for BS Reasons!",
                 "questText": "Reinstate Pete as Comissioner.",
-                "DialogueText": "My boss is a total piece of.... well you'll see when you meet him! His office is to the left. @ QUEST"
+                "notes": "[[Job Application]] drops from [[Dr Defecaus]]"
             }
         },
         "Dialogue": [
@@ -114,11 +114,11 @@
                     ["Secretstone", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "'... but here's the thing. There are TWO parts to this secret! Bring me a Secretstone to prove to me that you're truely a high IQ gamer!' @ QUEST:Find the Secretstone",
+                "dialogueText": "'... but here's the thing. There are TWO parts to this secret! Bring me a Secretstone to prove to me that you're truely a high IQ gamer!' ",
                 "difficulty": "1",
                 "name": "The Few, the Proud",
                 "questText": "Find the Secretstone",
-                "DialogueText": "'... but here's the thing. There are TWO parts to this secret! Bring me a Secretstone to prove to me that you're truely a high IQ gamer!' @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -143,7 +143,7 @@
             }
         ]
     },
-    "Game_Message": {
+    "Game Message": {
         "Quests": {},
         "Dialogue": [
             {
@@ -151,7 +151,7 @@
             }
         ]
     },
-    "Unmade_Character": {
+    "Unmade Character": {
         "Quests": {},
         "Dialogue": [
             {
@@ -202,11 +202,11 @@
                     ["Iron Ore", "1500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But mommy said sticks and stones CAN hurt me! But if I had all the sticks and stones I'd be invincible! QUEST:Collect all the sticks and stones so Sprout won't ever break his bones.",
+                "dialogueText": "But mommy said sticks and stones CAN hurt me! But if I had all the sticks and stones I'd be invincible! QUEST",
                 "difficulty": "5",
                 "name": "Sticks and Stone Something Something Bones...",
                 "questText": "Collect all the sticks and stones so Sprout won't ever break his bones.",
-                "DialogueText": "But mommy said sticks and stones CAN hurt me! But if I had all the sticks and stones I'd be invincible! QUEST"
+                "notes": ""
             },
             "Justice Wears No Clothes": {
                 "rewards": [
@@ -216,11 +216,11 @@
                 ],
                 "requirements": ["Unclothed_Kills: >= 30. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "If you can beat them up in your underwear they'll be too embarassed to make fun of anyone! QUEST: Defeat stick monsters with no clothes equipped just a weapon.",
+                "dialogueText": "If you can beat them up in your underwear they'll be too embarassed to make fun of anyone! QUEST",
                 "difficulty": "4",
                 "name": "Justice Wears No Clothes",
                 "questText": " Defeat stick monsters with no clothes equipped just a weapon.",
-                "DialogueText": "If you can beat them up in your underwear they'll be too embarassed to make fun of anyone! QUEST"
+                "notes": ""
             },
             "Shoe Shopping with Sprout": {
                 "rewards": [
@@ -233,11 +233,11 @@
                     ["Flip Flops", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well daddy once told me that sometimes bodies grow because of what's around them. Maybe if I put shoes on my body would grow legs and feet to fill them? @ QUEST:Get a bunch of shoes for Sprout to try on.",
+                "dialogueText": "Well daddy once told me that sometimes bodies grow because of what's around them. Maybe if I put shoes on my body would grow legs and feet to fill them? ",
                 "difficulty": "3",
                 "name": "Shoe Shopping with Sprout",
                 "questText": "Get a bunch of shoes for Sprout to try on.",
-                "DialogueText": "Well daddy once told me that sometimes bodies grow because of what's around them. Maybe if I put shoes on my body would grow legs and feet to fill them? @ QUEST"
+                "notes": ""
             },
             "Frisbee Fanatic": {
                 "rewards": [
@@ -249,11 +249,11 @@
                     ["Red Frisbee", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Hi! Are you ok? @ Oh right! The frisbee... can you get me my frisbee by yourself? Pretty please? @ QUEST:Get the frisbee back from the top of this tree.",
+                "dialogueText": "Hi! Are you ok? ",
                 "difficulty": "7",
                 "name": "Frisbee Fanatic",
                 "questText": "Get the frisbee back from the top of this tree.",
-                "DialogueText": "Hi! Are you ok? @ Oh right! The frisbee... can you get me my frisbee by yourself? Pretty please? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -311,7 +311,7 @@
             }
         ]
     },
-    "Town_Marble": {
+    "Town Marble": {
         "Quests": {
             "Visualizing the Sculpture Within...": {
                 "rewards": [
@@ -321,11 +321,11 @@
                     ["Sculpting Tools", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Could you be the one to craft me into the formation I was destined to asssume? @ QUEST:Sculpt this marble into a statue worthy of the gods.",
+                "dialogueText": "Could you be the one to craft me into the formation I was destined to asssume? ",
                 "difficulty": "3",
                 "name": "Visualizing the Sculpture Within...",
                 "questText": "Sculpt this marble into a statue worthy of the gods.",
-                "DialogueText": "Could you be the one to craft me into the formation I was destined to asssume? @ QUEST"
+                "notes": "Purchase Sculpting Tools from the town shop. This quest is not account-wide."
             }
         },
         "Dialogue": [
@@ -344,7 +344,7 @@
             }
         ]
     },
-    "Obol_Altar": {
+    "Obol Altar": {
         "Quests": {
             "Bad Kitty, get off that altar!": {
                 "rewards": [
@@ -354,11 +354,11 @@
                     ["BobJoePickle", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "... meow... Zzz... @ QUEST:Find something to scare the cat off the Obol Altar",
+                "dialogueText": "... meow... Zzz... ",
                 "difficulty": "6",
                 "name": "Bad Kitty, get off that altar!",
                 "questText": "Find something to scare the cat off the Obol Altar",
-                "DialogueText": "... meow... Zzz... @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -386,11 +386,11 @@
                     ["Oak Logs", "10"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Care to give it a try? I'd do it myself but I wouldn't want to embarass a beginner like you! @ QUEST:Chop down that Tree and collect 10 Oak Logs!",
+                "dialogueText": "Care to give it a try? I'd do it myself but I wouldn't want to embarass a beginner like you! ",
                 "difficulty": "1",
                 "name": "A noob's first swing",
                 "questText": "Chop down that Tree and collect 10 Oak Logs!",
-                "DialogueText": "Care to give it a try? I'd do it myself but I wouldn't want to embarass a beginner like you! @ QUEST"
+                "notes": ""
             },
             "A noob's 2nd first swing": {
                 "rewards": [
@@ -401,11 +401,11 @@
                     ["Oak Logs", "100"]
                 ],
                 "consumed": "No",
-                "dialogueText": "See how your tree over there is a tree and mine here is... well not a tree anymore? Please make yours a bit more like mine. @ QUEST:Turn the tree into the absence of a tree and get 100 Oak Logs.",
+                "dialogueText": "See how your tree over there is a tree and mine here is... well not a tree anymore? Please make yours a bit more like mine. ",
                 "difficulty": "2",
                 "name": "A noob's 2nd first swing",
                 "questText": "Turn the tree into the absence of a tree and get 100 Oak Logs.",
-                "DialogueText": "See how your tree over there is a tree and mine here is... well not a tree anymore? Please make yours a bit more like mine. @ QUEST"
+                "notes": ""
             },
             "It's Just a Plank, Bro!": {
                 "rewards": [
@@ -416,11 +416,11 @@
                     ["Oak Logs", "1000"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Hit tree with sharp hammer. Make gravity in tree go brrrr. @ QUEST:Bring 1000 logs... you should come back to this quest later once you have a higher Log Carry Capacity!",
+                "dialogueText": "Hit tree with sharp hammer. Make gravity in tree go brrrr. ",
                 "difficulty": "3",
                 "name": "It's Just a Plank, Bro!",
                 "questText": "Bring 1000 logs... you should come back to this quest later once you have a higher Log Carry Capacity!",
-                "DialogueText": "Hit tree with sharp hammer. Make gravity in tree go brrrr. @ QUEST"
+                "notes": ""
             },
             "Exotic Pranks... I mean Logs!": {
                 "rewards": [
@@ -431,11 +431,11 @@
                     ["Forest Fibres", "1"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Actually before you take off can ya get me some exotic logs? If you get a MASSIVE highscore in the minigame rare logs will come out! Go on try getting one! @ QUEST: Get a Forest Log by earning a choppin' highscore of 150!",
+                "dialogueText": "Actually before you take off can ya get me some exotic logs? If you get a MASSIVE highscore in the minigame rare logs will come out! Go on try getting one! ",
                 "difficulty": "5",
                 "name": "Exotic Pranks... I mean Logs!",
                 "questText": " Get a Forest Log by earning a choppin' highscore of 150!",
-                "DialogueText": "Actually before you take off can ya get me some exotic logs? If you get a MASSIVE highscore in the minigame rare logs will come out! Go on try getting one! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -500,11 +500,11 @@
                 ],
                 "requirements": ["Defeat_Green_Spores: >= 5. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Speaking of quests I'm the main quest giver and here comes your first mission! @ MAIN QUEST:Go to the right and defeat 5 green spores.",
+                "dialogueText": "Speaking of quests I'm the main quest giver and here comes your first mission! ",
                 "difficulty": "2",
                 "name": "Hardcore Gamer Status, Here I Come!",
                 "questText": "Go to the right and defeat 5 green spores.",
-                "DialogueText": "Speaking of quests I'm the main quest giver and here comes your first mission! @ MAIN QUEST"
+                "notes": ""
             },
             "Gear Up, Gamer!": {
                 "rewards": [
@@ -516,11 +516,11 @@
                     "Buy_Tape_from_Shop: >= 5. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Let's get you a better weapon those bare fists can only slap so hard! Try making some boxing gloves over at the anvil!  @ MAIN QUEST:Buy some Tape from the Shop and then make some gloves",
+                "dialogueText": "Let's get you a better weapon those bare fists can only slap so hard! Try making some boxing gloves over at the anvil!  ",
                 "difficulty": "1",
                 "name": "Gear Up, Gamer!",
                 "questText": "Buy some Tape from the Shop and then make some gloves",
-                "DialogueText": "Let's get you a better weapon those bare fists can only slap so hard! Try making some boxing gloves over at the anvil!  @ MAIN QUEST"
+                "notes": "If you've accidentally sold the [[File:Crimson_String.png|36px]] [[Crimson String]], you can reclaim it from the quest codex."
             },
             "Mr. Worldwide": {
                 "rewards": [
@@ -530,11 +530,11 @@
                 ],
                 "requirements": ["Discover_map_2: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Now lets find you some tougher monsters! Defeat enough spores to unlock the next map. Can't have a promising player like you stuck in one place! @ MAIN QUEST:Reach map 2",
+                "dialogueText": "Now lets find you some tougher monsters! Defeat enough spores to unlock the next map. Can't have a promising player like you stuck in one place! ",
                 "difficulty": "3",
                 "name": "Mr. Worldwide",
                 "questText": "Reach map 2",
-                "DialogueText": "Now lets find you some tougher monsters! Defeat enough spores to unlock the next map. Can't have a promising player like you stuck in one place! @ MAIN QUEST"
+                "notes": " Map 2 is the third Grasslands zone, [[Worlds#G3 - Froggy Fields|Froggy Fields]]."
             },
             "The Choice is Yours!": {
                 "rewards": [
@@ -543,11 +543,11 @@
                 ],
                 "requirements": ["Spend_Talent_Points: >= 5. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Did you get all of that? I'll add a Hint to your codex about Talent Points if you ever forget. Now go spend those points! @ MAIN QUEST:Spend 5 Talent Points",
+                "dialogueText": "Did you get all of that? I'll add a Hint to your codex about Talent Points if you ever forget. Now go spend those points! ",
                 "difficulty": "1",
                 "name": "The Choice is Yours!",
                 "questText": "Spend 5 Talent Points",
-                "DialogueText": "Did you get all of that? I'll add a Hint to your codex about Talent Points if you ever forget. Now go spend those points! @ MAIN QUEST"
+                "notes": ""
             },
             "Certified Swinger, of Pickaxes of course!": {
                 "rewards": [
@@ -559,16 +559,16 @@
                     ["Mining Certificate", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Go check out that portal on the left. There's a cheerful goblin who will show you some new gameplay! I haven't actually seen him in a while but I bet he is as happy as I remember!  @ MAIN QUEST:Get Glumlee's Certification",
+                "dialogueText": "Go check out that portal on the left. There's a cheerful goblin who will show you some new gameplay! I haven't actually seen him in a while but I bet he is as happy as I remember!  ",
                 "difficulty": "3",
                 "name": "Certified Swinger, of Pickaxes of course!",
                 "questText": "Get Glumlee's Certification",
-                "DialogueText": "Go check out that portal on the left. There's a cheerful goblin who will show you some new gameplay! I haven't actually seen him in a while but I bet he is as happy as I remember!  @ MAIN QUEST"
+                "notes": ""
             },
             "The Smithing Grind": {
                 "rewards": [
                     ["Mini Materials Pouch", "1"],
-                    ["Blue Tee;Recipe;0", "1"],
+                    ["Anvil Tab 2;Recipe;0", "1"],
                     ["Class;Experience", "70"]
                 ],
                 "requirements": [
@@ -576,11 +576,11 @@
                     "Orange_Tee_Crafted: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Now then use what you learned to get the materials needed to craft some new Equipment at the Anvil! Go do that while I go get this certificate framed... or maybe I should get it laminated...  @ MAIN QUEST:Craft Farmer Brim and Orange Tee",
+                "dialogueText": "Now then use what you learned to get the materials needed to craft some new Equipment at the Anvil! Go do that while I go get this certificate framed... or maybe I should get it laminated...  ",
                 "difficulty": "2",
                 "name": "The Smithing Grind",
                 "questText": "Craft Farmer Brim and Orange Tee",
-                "DialogueText": "Now then use what you learned to get the materials needed to craft some new Equipment at the Anvil! Go do that while I go get this certificate framed... or maybe I should get it laminated...  @ MAIN QUEST"
+                "notes": "Crafting the required items before accepting the quest will not reward the player with completion progress."
             },
             "The Unoccupied Picnic": {
                 "rewards": [
@@ -592,11 +592,11 @@
                     ["Golden Jam (Quest)", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I went for a Picnic the other day out in the Frog Fields and I forgot to bring home the basket! There wasn't much in there other than a jar of Golden Jam that I need back!  @ MAIN QUEST:Retrieve the Golden Jam",
+                "dialogueText": "I went for a Picnic the other day out in the Frog Fields and I forgot to bring home the basket! There wasn't much in there other than a jar of Golden Jam that I need back!  ",
                 "difficulty": "4",
                 "name": "The Unoccupied Picnic",
                 "questText": "Retrieve the Golden Jam",
-                "DialogueText": "I went for a Picnic the other day out in the Frog Fields and I forgot to bring home the basket! There wasn't much in there other than a jar of Golden Jam that I need back!  @ MAIN QUEST"
+                "notes": ""
             },
             "Seeking Foreign Aid": {
                 "rewards": [
@@ -608,11 +608,11 @@
                     ["Scouting Report", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Anyway he's our best bet at finding out who took the Town Gem! We can figure out a plan once we have more info. @ QUEST:Get a scouting report from the Jungle resident.",
+                "dialogueText": "Anyway he's our best bet at finding out who took the Town Gem! We can figure out a plan once we have more info. ",
                 "difficulty": "5",
                 "name": "Seeking Foreign Aid",
                 "questText": "Get a scouting report from the Jungle resident.",
-                "DialogueText": "Anyway he's our best bet at finding out who took the Town Gem! We can figure out a plan once we have more info. @ QUEST"
+                "notes": "There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (quest)]] item for this."
             },
             "What Lies at the Heart of the Forest": {
                 "rewards": [
@@ -624,7 +624,8 @@
                 "consumed": "No",
                 "dialogueText": "But you've come a long way since that epic fall from gamer grace so why don't you go check it out for yourself? Come back when you know more about the place!",
                 "difficulty": "2",
-                "name": "What Lies at the Heart of the Forest"
+                "name": "What Lies at the Heart of the Forest",
+                "notes": "[[Stiltzcho]] rewards you with the report upon completing his first 3 quests."
             },
             "The Bigger they are, the Bigger they Fall!": {
                 "rewards": [
@@ -639,7 +640,8 @@
                 "consumed": "No",
                 "dialogueText": "Well it's all up to you now! Go defeat that thief and take back our Town Crystal even though you'll basically topple the Forest Village's entire Tourist-Based economy in the process!",
                 "difficulty": "3",
-                "name": "The Bigger they are, the Bigger they Fall!"
+                "name": "The Bigger they are, the Bigger they Fall!",
+                "notes": "The 'Forest Camp' is the second area of the forest, where you can find the entrance to the [[Amarok]] boss fight."
             },
             "Champion of the Grasslands": {
                 "rewards": [
@@ -653,7 +655,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Go make me the 3 Blunderhill Tokens of Completion and you can have my Blunder Hero Trophy! Here's the token recipes. You'll find all their ingredients just from doing everything that this World has to offer!",
                 "difficulty": "9",
-                "name": "Champion of the Grasslands"
+                "name": "Champion of the Grasslands",
+                "notes": "[[Amarok|The boss]] is located to the far right in [[Worlds#F2 - Encroaching Forest Villas|Encroaching Forest Villas]]. You need to complete [[Dog Bone (NPC)|Dog Bone]]'s quest to get the keys required to enter the [[Amarok|boss]] zone."
             },
             "Can't somebody else do it?": {
                 "rewards": [
@@ -666,11 +669,11 @@
                     "Storage_Chest_Used: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "No real gamer does everything for themself! Go create a 2nd character to gather items for you! QUEST:Reach Lv 7 then create a 2nd character at the main menu! You can treat them as a laborer to gather materials for you!",
+                "dialogueText": "No real gamer does everything for themself! Go create a 2nd character to gather items for you! QUEST",
                 "difficulty": "2",
                 "name": "Can't somebody else do it?",
                 "questText": "Reach Lv 7 then create a 2nd character at the main menu! You can treat them as a laborer to gather materials for you!",
-                "DialogueText": "No real gamer does everything for themself! Go create a 2nd character to gather items for you! QUEST"
+                "notes": "The Scripticus gives you all the 3 recipes for the tokens and also the 3 recipes which are needed to craft the [[Blunderhills NPC Completion Token]] ([[Easy Blunderhills NPC Token|Easy]], [[Med Blunderhills NPC Token|Med]], [[Hard Blunderhills NPC Token|Hard]])"
             }
         },
         "Dialogue": [
@@ -869,11 +872,11 @@
                     ["Small Mana Potion", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "If only I could achieve such form. Hey human could you get me some ingredients? I've got an idea. @ QUEST:Get Krunk some things that will probably not explode when mixed.",
+                "dialogueText": "If only I could achieve such form. Hey human could you get me some ingredients? I've got an idea. ",
                 "difficulty": "2",
                 "name": "A Plot to be Perfect",
                 "questText": "Get Krunk some things that will probably not explode when mixed.",
-                "DialogueText": "If only I could achieve such form. Hey human could you get me some ingredients? I've got an idea. @ QUEST"
+                "notes": ""
             },
             "The Scientific Method, According to a Rock": {
                 "rewards": [
@@ -887,11 +890,11 @@
                     ["Power Statue", "20"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "If I am to achieve total substantiative infusion I'll have to use more sophisticated words so I seem smart enough to bend reality to do my bidding! Fetcheth unto me thine most precious of materials! @ QUEST:He want's shiny things.",
+                "dialogueText": "If I am to achieve total substantiative infusion I'll have to use more sophisticated words so I seem smart enough to bend reality to do my bidding! Fetcheth unto me thine most precious of materials! ",
                 "difficulty": "4",
                 "name": "The Scientific Method, According to a Rock",
                 "questText": "He want's shiny things.",
-                "DialogueText": "If I am to achieve total substantiative infusion I'll have to use more sophisticated words so I seem smart enough to bend reality to do my bidding! Fetcheth unto me thine most precious of materials! @ QUEST"
+                "notes": ""
             },
             "King of the Cavern": {
                 "rewards": [
@@ -904,11 +907,11 @@
                     ["Thread", "600"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well Bobby today sure is a fine day for some construction work I tell you hwat! Nothing beats the satisfaction of creating something with your own two hands 'specially something that also serves a useful purpose! @ QUEST:Gather some construction materials for Hank... I mean Krunk.",
+                "dialogueText": "Well Bobby today sure is a fine day for some construction work I tell you hwat! Nothing beats the satisfaction of creating something with your own two hands 'specially something that also serves a useful purpose! ",
                 "difficulty": "5",
                 "name": "King of the Cavern",
                 "questText": "Gather some construction materials for Hank... I mean Krunk.",
-                "DialogueText": "Well Bobby today sure is a fine day for some construction work I tell you hwat! Nothing beats the satisfaction of creating something with your own two hands 'specially something that also serves a useful purpose! @ QUEST"
+                "notes": "You unlock a bridge at the top of the screen next to the portal that connects directly to the gold ores."
             }
         },
         "Dialogue": [
@@ -976,11 +979,11 @@
                     ["Copper Ore", "5"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Go mine some ores and read this while you do. Mining Efficiency is your main stat here. It is boosted by your STR stat as well as your Mining Power which comes from pickaxes and other equipment! @ QUEST:Mine 5 Copper Ore",
+                "dialogueText": "Go mine some ores and read this while you do. Mining Efficiency is your main stat here. It is boosted by your STR stat as well as your Mining Power which comes from pickaxes and other equipment! ",
                 "difficulty": "1",
                 "name": "Learning to Swing",
                 "questText": "Mine 5 Copper Ore",
-                "DialogueText": "Go mine some ores and read this while you do. Mining Efficiency is your main stat here. It is boosted by your STR stat as well as your Mining Power which comes from pickaxes and other equipment! @ QUEST"
+                "notes": ""
             },
             "Learning to Smelt": {
                 "rewards": [
@@ -991,11 +994,11 @@
                     ["Copper Bar", "1"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Now go to that forge and drag the ores into the 1st slot. Also drag the Oil Barrel I gave you into the 2nd slot. It'll speed things up. QUEST:Smelt a Copper Bar",
+                "dialogueText": "Now go to that forge and drag the ores into the 1st slot. Also drag the Oil Barrel I gave you into the 2nd slot. It'll speed things up. QUEST",
                 "difficulty": "2",
                 "name": "Learning to Smelt",
                 "questText": "Smelt a Copper Bar",
-                "DialogueText": "Now go to that forge and drag the ores into the 1st slot. Also drag the Oil Barrel I gave you into the 2nd slot. It'll speed things up. QUEST"
+                "notes": ""
             },
             "Literally Burning your Money": {
                 "rewards": [
@@ -1005,11 +1008,11 @@
                 ],
                 "requirements": ["Upgrades_Bought: >= 3. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Final task now. Go to the forge click the Yellow Arrow tab in the top right and buy some Upgrades. These are Permanent and are shared between all your characters.  @ QUEST: Upgrade the forge 3 times",
+                "dialogueText": "Final task now. Go to the forge click the Yellow Arrow tab in the top right and buy some Upgrades. These are Permanent and are shared between all your characters.  ",
                 "difficulty": "1",
                 "name": "Literally Burning your Money",
                 "questText": " Upgrade the forge 3 times",
-                "DialogueText": "Final task now. Go to the forge click the Yellow Arrow tab in the top right and buy some Upgrades. These are Permanent and are shared between all your characters.  @ QUEST"
+                "notes": ""
             },
             "The Impossible Task": {
                 "rewards": [
@@ -1020,11 +1023,11 @@
                     ["Broken Mic", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "... that would've gone better on grass. Can you get that for me? I've kinda got my hands full. @ QUEST: Pick up the microphone. Good luck you'll need it...",
+                "dialogueText": "... that would've gone better on grass. Can you get that for me? I've kinda got my hands full. ",
                 "difficulty": "7",
                 "name": "The Impossible Task",
                 "questText": " Pick up the microphone. Good luck you'll need it...",
-                "DialogueText": "... that would've gone better on grass. Can you get that for me? I've kinda got my hands full. @ QUEST"
+                "notes": ""
             },
             "He's Havin' a Bad Day": {
                 "rewards": [
@@ -1035,11 +1038,11 @@
                     ["Broken Mic", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "... @ QUEST:Yea he dropped it again... you know what to do.",
+                "dialogueText": "... ",
                 "difficulty": "2",
                 "name": "He's Havin' a Bad Day",
                 "questText": "Yea he dropped it again... you know what to do.",
-                "DialogueText": "... @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -1131,7 +1134,7 @@
             }
         ]
     },
-    "Picnic_Stowaway": {
+    "Picnic Stowaway": {
         "Quests": {
             "The Hungry Stowaway": {
                 "rewards": [
@@ -1142,11 +1145,11 @@
                     ["Nomwich", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well come on now I aint gonna give you part of my stash here for nothin'. This is a picnic basket not a charity house! Bring me something and maybe we can fix up a deal... @ QUEST:Buy and bring 50 Nomwiches from the Town Shop.",
+                "dialogueText": "Well come on now I aint gonna give you part of my stash here for nothin'. This is a picnic basket not a charity house! Bring me something and maybe we can fix up a deal... ",
                 "difficulty": "2",
                 "name": "The Hungry Stowaway",
                 "questText": "Buy and bring 50 Nomwiches from the Town Shop.",
-                "DialogueText": "Well come on now I aint gonna give you part of my stash here for nothin'. This is a picnic basket not a charity house! Bring me something and maybe we can fix up a deal... @ QUEST"
+                "notes": ""
             },
             "Beating Up Frogs for some Sauce": {
                 "rewards": [
@@ -1160,7 +1163,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Why don't you go 'ask' the frogs around here for some Condiments. Those Fists of yours seem like persuasive talkers! I'll hold onto these nomwiches in the meantime... for safe keeping you know?",
                 "difficulty": "3",
-                "name": "Beating Up Frogs for some Sauce"
+                "name": "Beating Up Frogs for some Sauce",
+                "notes": ""
             },
             "Live-Action Entertainment": {
                 "rewards": [
@@ -1172,7 +1176,8 @@
                 "consumed": "No",
                 "dialogueText": "One... two... THREE!!! Oh and these monsters have Increased Damage watch out! If you fail you can forfeit and retry using the Codex!",
                 "difficulty": "3",
-                "name": "Live-Action Entertainment"
+                "name": "Live-Action Entertainment",
+                "notes": ""
             },
             "The Most Important Meal of the Day": {
                 "rewards": [
@@ -1184,11 +1189,11 @@
                     ["Bean Slices", "100"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Have you heard the story of Green Legs and Ham? The kid in the story didn't like green legs and ham but I wanna judge it for myself. @ QUEST:Get frog legs and bean slices",
+                "dialogueText": "Have you heard the story of Green Legs and Ham? The kid in the story didn't like green legs and ham but I wanna judge it for myself. ",
                 "difficulty": "2",
                 "name": "The Most Important Meal of the Day",
                 "questText": "Get frog legs and bean slices",
-                "DialogueText": "Have you heard the story of Green Legs and Ham? The kid in the story didn't like green legs and ham but I wanna judge it for myself. @ QUEST"
+                "notes": "Daily Quest"
             },
             "Brunchin' with the Blobs": {
                 "rewards": [
@@ -1202,11 +1207,11 @@
                     ["Grass Leaf", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "My blobulyte buddies are coming over in a bit I need some food for us to eat and decor for them to hide behind! @ QUEST:Get some peanuts and foliage.",
+                "dialogueText": "My blobulyte buddies are coming over in a bit I need some food for us to eat and decor for them to hide behind! ",
                 "difficulty": "3",
                 "name": "Brunchin' with the Blobs",
                 "questText": "Get some peanuts and foliage.",
-                "DialogueText": "My blobulyte buddies are coming over in a bit I need some food for us to eat and decor for them to hide behind! @ QUEST"
+                "notes": "Daily Quest. The first time you start this quest, the recipe for the Peanut drops."
             },
             "Luncheon with the Inlaws": {
                 "rewards": [
@@ -1220,11 +1225,11 @@
                     ["Sculpting Tools", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I just wish I hadn't told my in-laws about that then maybe they wouldn't be joinin' me for lunch today. But I've got a plan to dip out hehehe... @ QUEST:Help gather fake blobulyte materials",
+                "dialogueText": "I just wish I hadn't told my in-laws about that then maybe they wouldn't be joinin' me for lunch today. But I've got a plan to dip out hehehe... ",
                 "difficulty": "4",
                 "name": "Luncheon with the Inlaws",
                 "questText": "Help gather fake blobulyte materials",
-                "DialogueText": "I just wish I hadn't told my in-laws about that then maybe they wouldn't be joinin' me for lunch today. But I've got a plan to dip out hehehe... @ QUEST"
+                "notes": "Daily Quest. You must complete this quest for the 'Escapin' the 'Laws' daily [[Tasks|Task]]."
             },
             "Afternoon Tea in a Jiffy": {
                 "rewards": [
@@ -1237,11 +1242,11 @@
                     "Tea_Temperature: >= 100. Starting at 300."
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I could really go for a spot of tea but some jar of sand fell in love with my teacup the stupid thing! He took it and ran deep into the Jungle. @ QUEST:Get the tea back before it gets cold!",
+                "dialogueText": "I could really go for a spot of tea but some jar of sand fell in love with my teacup the stupid thing! He took it and ran deep into the Jungle. ",
                 "difficulty": "4",
                 "name": "Afternoon Tea in a Jiffy",
                 "questText": "Get the tea back before it gets cold!",
-                "DialogueText": "I could really go for a spot of tea but some jar of sand fell in love with my teacup the stupid thing! He took it and ran deep into the Jungle. @ QUEST"
+                "notes": "Daily Quest. There is a [[Sandy Pot]] at [[Carrotman|Carrotmen]]. Kill it, pick up the teacup and run back to Picnic Stowaway."
             },
             "Early Evening Eating Endeavor": {
                 "rewards": [
@@ -1254,11 +1259,11 @@
                     ["Kebab Sticks", "500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I'm feelin' hungry again why dont you go get some desert Kebabs? And get me a bowl too I can't eat them off the stick. @ QUEST:Get baby here a little baby bowl because he can't eat kebabs like a big boy.",
+                "dialogueText": "I'm feelin' hungry again why dont you go get some desert Kebabs? And get me a bowl too I can't eat them off the stick. ",
                 "difficulty": "5",
                 "name": "Early Evening Eating Endeavor",
                 "questText": "Get baby here a little baby bowl because he can't eat kebabs like a big boy.",
-                "DialogueText": "I'm feelin' hungry again why dont you go get some desert Kebabs? And get me a bowl too I can't eat them off the stick. @ QUEST"
+                "notes": "Daily Quest"
             },
             "The Last Supper, at Least for Today!": {
                 "rewards": [
@@ -1270,11 +1275,11 @@
                     ["Magic Meatloaf", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But I love baloney so go get it for me! He also said something about it being a pretty rare drop? I dunno he's a bit of a rambler that one. @ QUEST:Hope you read the previous dialogue!",
+                "dialogueText": "But I love baloney so go get it for me! He also said something about it being a pretty rare drop? I dunno he's a bit of a rambler that one. ",
                 "difficulty": "5",
                 "name": "The Last Supper, at Least for Today!",
                 "questText": "Hope you read the previous dialogue!",
-                "DialogueText": "But I love baloney so go get it for me! He also said something about it being a pretty rare drop? I dunno he's a bit of a rambler that one. @ QUEST"
+                "notes": "Daily Quest"
             },
             "Don't Desert the Dessert": {
                 "rewards": [
@@ -1286,11 +1291,11 @@
                     ["Nuget Cake", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "It's getting kinda late eh? Gotta have me some dessert before I lose my appetite! I've heard of a fabled chocolate cake that for some reason drops from crabs holding vanilla cakes! @ QUEST: Mmmmm nuget caaaaaakee....",
+                "dialogueText": "It's getting kinda late eh? Gotta have me some dessert before I lose my appetite! I've heard of a fabled chocolate cake that for some reason drops from crabs holding vanilla cakes! ",
                 "difficulty": "5",
                 "name": "Don't Desert the Dessert",
                 "questText": " Mmmmm nuget caaaaaakee....",
-                "DialogueText": "It's getting kinda late eh? Gotta have me some dessert before I lose my appetite! I've heard of a fabled chocolate cake that for some reason drops from crabs holding vanilla cakes! @ QUEST"
+                "notes": "Daily Quest. Nuget Cakes drop from [[Crabcake|Crabcakes]]"
             },
             "A Midnight Snack": {
                 "rewards": [
@@ -1302,11 +1307,11 @@
                     ["Midnight Cookie", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Actually I might need a snack if I wake during the night. I've seen some monsters in the Twilight Desert snackin' on some cookies so a few of those would be batchin'. @ QUEST: Get rare cookie drops from Twilight Desert mobs.",
+                "dialogueText": "Actually I might need a snack if I wake during the night. I've seen some monsters in the Twilight Desert snackin' on some cookies so a few of those would be batchin'. ",
                 "difficulty": "6",
                 "name": "A Midnight Snack",
                 "questText": " Get rare cookie drops from Twilight Desert mobs.",
-                "DialogueText": "Actually I might need a snack if I wake during the night. I've seen some monsters in the Twilight Desert snackin' on some cookies so a few of those would be batchin'. @ QUEST"
+                "notes": "Daily Quest"
             },
             "King of Food": {
                 "rewards": [
@@ -1316,11 +1321,11 @@
                     ["Picnic Token", "30"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But lets be real tokens are for suckers. If you want a big boy prize to show off to the world help me out for a whole month. @ QUEST:Collect 30 Picnic tokens and you'll get a trophy!",
+                "dialogueText": "But lets be real tokens are for suckers. If you want a big boy prize to show off to the world help me out for a whole month. ",
                 "difficulty": "8",
                 "name": "King of Food",
                 "questText": "Collect 30 Picnic tokens and you'll get a trophy!",
-                "DialogueText": "But lets be real tokens are for suckers. If you want a big boy prize to show off to the world help me out for a whole month. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -1499,11 +1504,11 @@
                     ["Copper Chopper", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I guess the stamp is kinda cool but I'd rather have a real Hatchet! The one I have now is plastic. @ QUEST:Find an axe to trade for the stamp!",
+                "dialogueText": "I guess the stamp is kinda cool but I'd rather have a real Hatchet! The one I have now is plastic. ",
                 "difficulty": "2",
                 "name": "The Hamazing Plot Twist",
                 "questText": "Find an axe to trade for the stamp!",
-                "DialogueText": "I guess the stamp is kinda cool but I'd rather have a real Hatchet! The one I have now is plastic. @ QUEST"
+                "notes": ""
             },
             "Should We Tell Him?": {
                 "rewards": [
@@ -1515,11 +1520,11 @@
                     ["Purple Tupacband", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I heard WIS increases choppin efficiency. I have this recipe for a WIS hat but I don't specialize in smithing so I can't make it! Make it for me and I'll give you another stamp! @ QUEST:Use the recipe and craft the helmet.",
+                "dialogueText": "I heard WIS increases choppin efficiency. I have this recipe for a WIS hat but I don't specialize in smithing so I can't make it! Make it for me and I'll give you another stamp! ",
                 "difficulty": "2",
                 "name": "Should We Tell Him?",
                 "questText": "Use the recipe and craft the helmet.",
-                "DialogueText": "I heard WIS increases choppin efficiency. I have this recipe for a WIS hat but I don't specialize in smithing so I can't make it! Make it for me and I'll give you another stamp! @ QUEST"
+                "notes": "Recipe drops from this NPC before quest."
             },
             "Slime for Storage": {
                 "rewards": [
@@ -1530,11 +1535,11 @@
                     ["Slime Sludge", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I'll give you my storage chest for... exactly 1 billion slime sludge and not a single one less! @ QUEST:Get them 50 slime sludge. They're like lv. 3 they'll accept.",
+                "dialogueText": "I'll give you my storage chest for... exactly 1 billion slime sludge and not a single one less! ",
                 "difficulty": "4",
                 "name": "Slime for Storage",
                 "questText": "Get them 50 slime sludge. They're like lv. 3 they'll accept.",
-                "DialogueText": "I'll give you my storage chest for... exactly 1 billion slime sludge and not a single one less! @ QUEST"
+                "notes": "Requires level 7 choppin to start this quest."
             }
         },
         "Dialogue": [
@@ -1585,7 +1590,7 @@
             }
         ]
     },
-    "Grasslands_Gary": {
+    "Grasslands Gary": {
         "Quests": {},
         "Dialogue": [
             {
@@ -1608,7 +1613,7 @@
             }
         ]
     },
-    "Mr_Pigibank": {
+    "Mr Pigibank": {
         "Quests": {
             "A Pig and his Stamps": {
                 "rewards": [
@@ -1616,11 +1621,11 @@
                 ],
                 "requirements": ["Stamp_Thief_Found: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Tell you what if you find out who ran off with my Stamps I think I may be able to set up a business with you! @ QUEST:Find out who stole the Stamp Collection",
+                "dialogueText": "Tell you what if you find out who ran off with my Stamps I think I may be able to set up a business with you! ",
                 "difficulty": "2",
                 "name": "A Pig and his Stamps",
                 "questText": "Find out who stole the Stamp Collection",
-                "DialogueText": "Tell you what if you find out who ran off with my Stamps I think I may be able to set up a business with you! @ QUEST"
+                "notes": " The Stamp Thief is Hamish found at the bottom right of the frogs area"
             }
         },
         "Dialogue": [
@@ -1674,7 +1679,8 @@
                 "consumed": "No",
                 "dialogueText": "Good thing for that too because it looks like you could use a promotion what with you being a Beginner and all that! Come talk to me once you're level 10.",
                 "difficulty": "2",
-                "name": "I'm Ready, Promotion!"
+                "name": "I'm Ready, Promotion!",
+                "notes": ""
             },
             "Three Right Answers": {
                 "rewards": [
@@ -1686,7 +1692,8 @@
                 "consumed": "No",
                 "dialogueText": " ",
                 "difficulty": "1",
-                "name": "Three Right Answers"
+                "name": "Three Right Answers",
+                "notes": ""
             },
             "Slovakian Scare": {
                 "rewards": [
@@ -1696,11 +1703,11 @@
                 ],
                 "requirements": ["House_Monster_Found: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "It was a giant house with... legs or something. I think it only shows up at the top of each hour but I know it exists! Please go prove I'm not crazy. @ QUEST:Find the house monster in the Birch Grove.",
+                "dialogueText": "It was a giant house with... legs or something. I think it only shows up at the top of each hour but I know it exists! Please go prove I'm not crazy. ",
                 "difficulty": "5",
                 "name": "Slovakian Scare",
                 "questText": "Find the house monster in the Birch Grove.",
-                "DialogueText": "It was a giant house with... legs or something. I think it only shows up at the top of each hour but I know it exists! Please go prove I'm not crazy. @ QUEST"
+                "notes": "[[Baba Yaga]] spawns at the top of each hour (xx:00) in the Birch Grove (portal just below Promotheus, next to the Birch Tree). See the [[Baba Yaga]] page for more information. "
             },
             "The Witcher, but not Really": {
                 "rewards": [
@@ -1709,11 +1716,11 @@
                 ],
                 "requirements": ["Baba_Yaga_Defeated: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "What did you say it was again a Baby Yogurt? ... a Baboon Yolo? @ Ohhh a Baba Yaga of course! Yea I've never heard of that in my life. I wonder what it drops? @ QUEST:Me too go kill it and see what loot you get!",
+                "dialogueText": "What did you say it was again a Baby Yogurt? ... a Baboon Yolo? ",
                 "difficulty": "5",
                 "name": "The Witcher, but not Really",
                 "questText": "Me too go kill it and see what loot you get!",
-                "DialogueText": "What did you say it was again a Baby Yogurt? ... a Baboon Yolo? @ Ohhh a Baba Yaga of course! Yea I've never heard of that in my life. I wonder what it drops? @ QUEST"
+                "notes": "[[Baba Yaga]] spawns at the top of each hour (xx:00) in the Birch Grove (portal just below Promotheus, next to the Birch Tree). See the [[Baba Yaga]] page for more information. "
             }
         },
         "Dialogue": [
@@ -1811,7 +1818,8 @@
                 "consumed": "Yes",
                 "dialogueText": "PLEZ I WANT MOAR PEANUT!",
                 "difficulty": "1",
-                "name": "A Peanut for your Thoughts"
+                "name": "A Peanut for your Thoughts",
+                "notes": "Get this quest by dropping a {{CraftReq|Peanut}} on the bush in Vegetable Patch."
             },
             "Honk if you Love Peanuts!": {
                 "rewards": [
@@ -1824,7 +1832,8 @@
                 "consumed": "Yes",
                 "dialogueText": "MOAR PEANUT MOAR PEANUT!!",
                 "difficulty": "2",
-                "name": "Honk if you Love Peanuts!"
+                "name": "Honk if you Love Peanuts!",
+                "notes": ""
             },
             "A Peanut Saved is a Peanut not Eaten!": {
                 "rewards": [
@@ -1838,7 +1847,8 @@
                 "consumed": "Yes",
                 "dialogueText": "MOOOOOAAAAAARRRRR!!!",
                 "difficulty": "3",
-                "name": "A Peanut Saved is a Peanut not Eaten!"
+                "name": "A Peanut Saved is a Peanut not Eaten!",
+                "notes": "Drop the {{CraftReq|Stone Peanut}} at the [[Rocklyte]] to start the final part of the questline."
             }
         },
         "Dialogue": [
@@ -1896,7 +1906,7 @@
         "Quests": {
             "How It's Made, Episode 7. The Super Peanut": {
                 "rewards": [
-                    ["Golden Peanut;Recipe;0", "1"],
+                    ["Peanut;Recipe;0", "1"],
                     ["Class;Experience", "5000"]
                 ],
                 "requirements": [
@@ -1905,7 +1915,8 @@
                 "consumed": "Yes",
                 "dialogueText": "U NEVER MAKE SHINY PEANUT? BRING ME 1000 PEANUT AND I SHOW U HOW.",
                 "difficulty": "3",
-                "name": "How It's Made, Episode 7. The Super Peanut"
+                "name": "How It's Made, Episode 7. The Super Peanut",
+                "notes": "Drop the {{CraftReq|Stone Peanut}} at the rock on the bottom right side of Froggy Fields"
             },
             "If Life Gives you Peanuts, make Shiny Peanuts!": {
                 "rewards": [
@@ -1918,7 +1929,8 @@
                 "consumed": "Yes",
                 "dialogueText": "GO MAKE ME A MILLION BILLION SHINY PEANUTS AND I WILL HELP! ... THAT TOO MANY? OKEY JUST MAKE 5!",
                 "difficulty": "4",
-                "name": "If Life Gives you Peanuts, make Shiny Peanuts!"
+                "name": "If Life Gives you Peanuts, make Shiny Peanuts!",
+                "notes": ""
             },
             "Becoming the Best Beginner": {
                 "rewards": [
@@ -1929,7 +1941,8 @@
                 "consumed": "No",
                 "dialogueText": " ",
                 "difficulty": "1",
-                "name": "Becoming the Best Beginner"
+                "name": "Becoming the Best Beginner",
+                "notes": "This quest can only be completed by a beginner (no class chosen)"
             }
         },
         "Dialogue": [
@@ -2001,11 +2014,11 @@
                     "Time_Left: >= 1. Starting at 115."
                 ],
                 "consumed": "No",
-                "dialogueText": "Thay do respawn very quick so you must do it fast! Remember to Forfeit the Quest using the Codex if you run out of time! @ QUEST:Kill 12 Slimes before time runs out",
+                "dialogueText": "Thay do respawn very quick so you must do it fast! Remember to Forfeit the Quest using the Codex if you run out of time! ",
                 "difficulty": "3",
                 "name": "Outta the Way Slimes",
                 "questText": "Kill 12 Slimes before time runs out",
-                "DialogueText": "Thay do respawn very quick so you must do it fast! Remember to Forfeit the Quest using the Codex if you run out of time! @ QUEST"
+                "notes": ""
             },
             "No Stone Unturned": {
                 "rewards": [
@@ -2017,11 +2030,11 @@
                     ["Strange Rock", "5"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "There must be some sort of clue there. I'll wait here while you go searching that way I can be well rested to investigate your find! @ QUEST:Kill Baby Boas until you find a clue",
+                "dialogueText": "There must be some sort of clue there. I'll wait here while you go searching that way I can be well rested to investigate your find! ",
                 "difficulty": "3",
                 "name": "No Stone Unturned",
                 "questText": "Kill Baby Boas until you find a clue",
-                "DialogueText": "There must be some sort of clue there. I'll wait here while you go searching that way I can be well rested to investigate your find! @ QUEST"
+                "notes": ""
             },
             "Investigator by Day, Prankster by Night": {
                 "rewards": [
@@ -2034,11 +2047,11 @@
                     ["Bleach Logs", "3"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Go get me some carrots and logs so I can make a little carrot mannequin for you to prank him with and I'll have the report ready when you return! @ QUEST:Gather carrots from the Vegetable Grove as well as some logs.",
+                "dialogueText": "Go get me some carrots and logs so I can make a little carrot mannequin for you to prank him with and I'll have the report ready when you return! ",
                 "difficulty": "4",
                 "name": "Investigator by Day, Prankster by Night",
                 "questText": "Gather carrots from the Vegetable Grove as well as some logs.",
-                "DialogueText": "Go get me some carrots and logs so I can make a little carrot mannequin for you to prank him with and I'll have the report ready when you return! @ QUEST"
+                "notes": ""
             },
             "Time Crime Episode 1": {
                 "rewards": [
@@ -2047,11 +2060,11 @@
                 ],
                 "requirements": ["AFK_at_Spores: >= 14400. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "I remember being a baby leaf and felt time just flew by as I would be spending of days watch the Spores... maybe they are stealing it? @ QUEST:Investigate Green Spores near town to see which one is stealing Stiltzcho's time.",
+                "dialogueText": "I remember being a baby leaf and felt time just flew by as I would be spending of days watch the Spores... maybe they are stealing it? ",
                 "difficulty": "2",
                 "name": "Time Crime Episode 1",
                 "questText": "Investigate Green Spores near town to see which one is stealing Stiltzcho's time.",
-                "DialogueText": "I remember being a baby leaf and felt time just flew by as I would be spending of days watch the Spores... maybe they are stealing it? @ QUEST"
+                "notes": "The time spent AFK does not have to be all in one go."
             },
             "Time Crime Episode 2": {
                 "rewards": [
@@ -2060,11 +2073,11 @@
                 ],
                 "requirements": ["AFK_at_Frogs: >= 28800. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Well no matter because the thief followed me after I moved out to the Froggy Fields! Go look there and be careful you do not get your time taken from you! @ QUEST:Investigate Frogs to see which one is has been hoppin' away with Stiltzcho's time!",
+                "dialogueText": "Well no matter because the thief followed me after I moved out to the Froggy Fields! Go look there and be careful you do not get your time taken from you! ",
                 "difficulty": "2",
                 "name": "Time Crime Episode 2",
                 "questText": "Investigate Frogs to see which one is has been hoppin' away with Stiltzcho's time!",
-                "DialogueText": "Well no matter because the thief followed me after I moved out to the Froggy Fields! Go look there and be careful you do not get your time taken from you! @ QUEST"
+                "notes": "The time spent AFK does not have to be all in one go."
             },
             "Time Crime Season Finale": {
                 "rewards": [
@@ -2074,11 +2087,11 @@
                 ],
                 "requirements": ["AFK_at_Slimes: >= 57600. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "The thief must be in this very map!! We've got them now!! @ QUEST:Investigate Slimes to see which  of these slimeballs is the real thief of with Stiltzcho's time!!",
+                "dialogueText": "The thief must be in this very map!! We've got them now!! ",
                 "difficulty": "3",
                 "name": "Time Crime Season Finale",
                 "questText": "Investigate Slimes to see which  of these slimeballs is the real thief of with Stiltzcho's time!!",
-                "DialogueText": "The thief must be in this very map!! We've got them now!! @ QUEST"
+                "notes": "The time spent AFK does not have to be all in one go."
             }
         },
         "Dialogue": [
@@ -2212,25 +2225,25 @@
                     ["Average Strength Potion", "100"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But uh you gooootta hook us up with some food bro it's common mushroom manners! Bring it here and we'll carry it to the party with this novelty food bag I bought online when I was... hehehe well never mind! @ QUEST:Be the food hookup",
+                "dialogueText": "But uh you gooootta hook us up with some food bro it's common mushroom manners! Bring it here and we'll carry it to the party with this novelty food bag I bought online when I was... hehehe well never mind! ",
                 "difficulty": "3",
                 "name": "Mushroom Munchies",
                 "questText": "Be the food hookup",
-                "DialogueText": "But uh you gooootta hook us up with some food bro it's common mushroom manners! Bring it here and we'll carry it to the party with this novelty food bag I bought online when I was... hehehe well never mind! @ QUEST"
+                "notes": "The [[Peanut]] recipe comes from [[Picnic Stowaway]]."
             },
             "Videogame Highscores are COOL!": {
                 "rewards": [
-                    ["Fur Shirt;Recipe;0", "1"],
+                    ["Goo Galoshes;Recipe;0", "1"],
                     ["Class;Experience", "3000"],
                     ["COIN", "1250"]
                 ],
                 "requirements": ["Choppin_Score: >= 42. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST:Get a score of 42 in the Choppin Minigame.",
+                "dialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! ",
                 "difficulty": "3",
                 "name": "Videogame Highscores are COOL!",
                 "questText": "Get a score of 42 in the Choppin Minigame.",
-                "DialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST"
+                "notes": ""
             },
             "Partycrastination": {
                 "rewards": [
@@ -2241,11 +2254,11 @@
                     ["Time Thingy", "250"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Buuuuut it's still not time to go yet. Trust me you do NOT wanna be the first one to this party... but a kiiiiiller like you already knew that for sure! @ QUEST:Wait until the party starts.",
+                "dialogueText": "Buuuuut it's still not time to go yet. Trust me you do NOT wanna be the first one to this party... but a kiiiiiller like you already knew that for sure! ",
                 "difficulty": "6",
                 "name": "Partycrastination",
                 "questText": "Wait until the party starts.",
-                "DialogueText": "Buuuuut it's still not time to go yet. Trust me you do NOT wanna be the first one to this party... but a kiiiiiller like you already knew that for sure! @ QUEST"
+                "notes": ""
             },
             "Party Crashin'": {
                 "rewards": [
@@ -2258,11 +2271,11 @@
                     "Make_Some_Friends: >= 0. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "PARTY!!! WOOOOOO! YO CRAB BOY TOSS ME ANOTHER SLICE BRO! YEA!!! ALRIIIIIIGHT! EVERYBODY GET LOOSE DO IT UUUUUUUUUUP! @ QUEST:Go on then party!",
+                "dialogueText": "PARTY!!! WOOOOOO! YO CRAB BOY TOSS ME ANOTHER SLICE BRO! YEA!!! ALRIIIIIIGHT! EVERYBODY GET LOOSE DO IT UUUUUUUUUUP! ",
                 "difficulty": "4",
                 "name": "Party Crashin'",
                 "questText": "Go on then party!",
-                "DialogueText": "PARTY!!! WOOOOOO! YO CRAB BOY TOSS ME ANOTHER SLICE BRO! YEA!!! ALRIIIIIIGHT! EVERYBODY GET LOOSE DO IT UUUUUUUUUUP! @ QUEST"
+                "notes": "Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again."
             },
             "Wicked Party Cleanup": {
                 "rewards": [
@@ -2273,11 +2286,11 @@
                     ["Potty Rolls", "10000"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "What you thought you were killing them? Hahaha bro chill. They're monsters they'll just respawn back home no biiiiggie! Yo but could you help clean up before headin' out? @ QUEST:Get toilet paper to help clean.",
+                "dialogueText": "What you thought you were killing them? Hahaha bro chill. They're monsters they'll just respawn back home no biiiiggie! Yo but could you help clean up before headin' out? ",
                 "difficulty": "5",
                 "name": "Wicked Party Cleanup",
                 "questText": "Get toilet paper to help clean.",
-                "DialogueText": "What you thought you were killing them? Hahaha bro chill. They're monsters they'll just respawn back home no biiiiggie! Yo but could you help clean up before headin' out? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2339,7 +2352,7 @@
             }
         ]
     },
-    "Tiki_Chief": {
+    "Tiki Chief": {
         "Quests": {
             "Brochure Building": {
                 "rewards": [
@@ -2353,7 +2366,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Or hey why not help me get the word out about this place? I'm bogged down with chief stuff but if you get me some ingredients I could make some flyers for you to pass out!",
                 "difficulty": "3",
-                "name": "Brochure Building"
+                "name": "Brochure Building",
+                "notes": ""
             },
             "Three Strikes, you're Out!": {
                 "rewards": [
@@ -2365,11 +2379,11 @@
                     "Happy_Guy_Invited: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Invite someone rich to help with business someone whose totally chillin' to serve as a party starter and someone tough as a rock to sit at the front desk and not get triggered by entitled moms! @ QUEST:Hand out flyers by dropping them on the right NPCs",
+                "dialogueText": "Invite someone rich to help with business someone whose totally chillin' to serve as a party starter and someone tough as a rock to sit at the front desk and not get triggered by entitled moms! ",
                 "difficulty": "3",
                 "name": "Three Strikes, you're Out!",
                 "questText": "Hand out flyers by dropping them on the right NPCs",
-                "DialogueText": "Invite someone rich to help with business someone whose totally chillin' to serve as a party starter and someone tough as a rock to sit at the front desk and not get triggered by entitled moms! @ QUEST"
+                "notes": "Drop the quest item in front of [[Krunk]], [[Funguy]] and [[Mr Pigibank]]"
             },
             "Blame it on the Goblins": {
                 "rewards": [
@@ -2381,11 +2395,11 @@
                     "Pretend_to_Re-Invite_Everyone: >= 3. Starting at 3."
                 ],
                 "consumed": "No",
-                "dialogueText": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! @ QUEST:Clear out some Goblins and totally invite everyone again!",
+                "dialogueText": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! ",
                 "difficulty": "4",
                 "name": "Blame it on the Goblins",
                 "questText": "Clear out some Goblins and totally invite everyone again!",
-                "DialogueText": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! @ QUEST"
+                "notes": ""
             },
             "Hotel? Tikivago. Sorry, couldn't Help It!": {
                 "rewards": [
@@ -2398,11 +2412,11 @@
                     "Speedy_Kill: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Well at least we've got you soon to be Valued Customer! Wink Wink! Sorry I had to say that out but I am wearing a mask here. @ QUEST:Defeat the boss 5 times and 1 time in under 30 seconds.",
+                "dialogueText": "Well at least we've got you soon to be Valued Customer! Wink Wink! Sorry I had to say that out but I am wearing a mask here. ",
                 "difficulty": "4",
                 "name": "Hotel? Tikivago. Sorry, couldn't Help It!",
                 "questText": "Defeat the boss 5 times and 1 time in under 30 seconds.",
-                "DialogueText": "Well at least we've got you soon to be Valued Customer! Wink Wink! Sorry I had to say that out but I am wearing a mask here. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2466,7 +2480,7 @@
             }
         ]
     },
-    "Dog_Bone_(NPC)": {
+    "Dog Bone": {
         "Quests": {
             "Why he Die???": {
                 "rewards": [
@@ -2476,11 +2490,11 @@
                     ["Dog Bone", "10"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Figure oOOoout hoOOow I died and I'll give yoOOOoou a key sOooo yoOooo can visit oooOOOur main installment behind that doooOOOor! QUEST:Defeat Board Monsters below until you find out how ghostie here died",
+                "dialogueText": "Figure oOOoout hoOOow I died and I'll give yoOOOoou a key sOooo yoOooo can visit oooOOOur main installment behind that doooOOOor! QUEST",
                 "difficulty": "2",
                 "name": "Why he Die???",
                 "questText": "Defeat Board Monsters below until you find out how ghostie here died",
-                "DialogueText": "Figure oOOoout hoOOow I died and I'll give yoOOOoou a key sOooo yoOooo can visit oooOOOur main installment behind that doooOOOor! QUEST"
+                "notes": " "
             },
             "Bow Wow going Dow..n!": {
                 "rewards": [
@@ -2491,11 +2505,11 @@
                     ["Amarok Slab", "25"]
                 ],
                 "consumed": "No",
-                "dialogueText": "I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? @ QUEST:Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.",
+                "dialogueText": "I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? ",
                 "difficulty": "3",
                 "name": "Bow Wow going Dow..n!",
                 "questText": "Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.",
-                "DialogueText": "I know they're just a pile of rocks somehow bound together by mystic world 8 energy but... could you just rough 'em up a bit? @ QUEST"
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -2554,7 +2568,7 @@
             }
         ]
     },
-    "Builder_Bird": {
+    "Builder Bird": {
         "Quests": {
             "Restoring Power to the Portal": {
                 "rewards": [
@@ -2567,7 +2581,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Kacaw! @ 'The bird awaits the return of the town gem. They're ready to restore the gem to the portal allowing travel to World 2. They look very stylish in their matching orange hat and scarf.'",
                 "difficulty": "4",
-                "name": "Restoring Power to the Portal"
+                "name": "Restoring Power to the Portal",
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2583,7 +2598,7 @@
             }
         ]
     },
-    "Constructor_Crow": {
+    "Constructor Crow": {
         "Quests": {
             "Restoring Power to another Portal": {
                 "rewards": [
@@ -2596,7 +2611,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Kacaw! @ 'The bird awaits the return of the town gem. They're ready to restore the gem to the portal allowing travel to World 3. They look very cool in their matching blue hat and scarf.'",
                 "difficulty": "7",
-                "name": "Restoring Power to another Portal"
+                "name": "Restoring Power to another Portal",
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2615,7 +2631,7 @@
             }
         ]
     },
-    "Papua_Piggea": {
+    "Papua Piggea": {
         "Quests": {
             "Oinko Boinko": {
                 "rewards": [
@@ -2626,11 +2642,11 @@
                     ["Kapow Stamp", "1"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Bloinko wuuugu flarga thieiff raaure drup! 'The pig sighs over the apparent loss of something the frogs stole from him' @ QUEST:Retrieve the stolen item!",
+                "dialogueText": "Bloinko wuuugu flarga thieiff raaure drup! 'The pig sighs over the apparent loss of something the frogs stole from him' ",
                 "difficulty": "3",
                 "name": "Oinko Boinko",
                 "questText": "Retrieve the stolen item!",
-                "DialogueText": "Bloinko wuuugu flarga thieiff raaure drup! 'The pig sighs over the apparent loss of something the frogs stole from him' @ QUEST"
+                "notes": ""
             },
             "Crystal Crime Stopper": {
                 "rewards": [
@@ -2642,11 +2658,11 @@
                     ["Crystallin", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "'........ @ ... whoops sorry I was on the phone. I think the pig said one of those crystal carrots is the real thief? @ QUEST:Retrieve the stolen item!",
+                "dialogueText": "'........ ",
                 "difficulty": "4",
                 "name": "Crystal Crime Stopper",
                 "questText": "Retrieve the stolen item!",
-                "DialogueText": "'........ @ ... whoops sorry I was on the phone. I think the pig said one of those crystal carrots is the real thief? @ QUEST"
+                "notes": ""
             },
             "Stamp Collecting": {
                 "rewards": [
@@ -2660,11 +2676,11 @@
                     ["Smart Dirt Stamp", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Awioe yeita faulli slam bam winea cinnacan! 'The pig wants more stamps he is not happy being a lower class stampholder' @ QUEST:Bring more stamps but not so many that the pig would have to pay Stampcome Tax",
+                "dialogueText": "Awioe yeita faulli slam bam winea cinnacan! 'The pig wants more stamps he is not happy being a lower class stampholder' ",
                 "difficulty": "6",
                 "name": "Stamp Collecting",
                 "questText": "Bring more stamps but not so many that the pig would have to pay Stampcome Tax",
-                "DialogueText": "Awioe yeita faulli slam bam winea cinnacan! 'The pig wants more stamps he is not happy being a lower class stampholder' @ QUEST"
+                "notes": ""
             },
             "This Little Piggy Felt Remorse": {
                 "rewards": [
@@ -2674,11 +2690,11 @@
                 ],
                 "requirements": ["Total_Stamp_Lv: >= 500. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Oinko... boinko shama lama loinko... 'The pig realizes that hoarding stamps brings him no real joy and he yearns for more meaningful stampage. @ QUEST:Upgrade your stamps a bunch to cheer them up",
+                "dialogueText": "Oinko... boinko shama lama loinko... 'The pig realizes that hoarding stamps brings him no real joy and he yearns for more meaningful stampage. ",
                 "difficulty": "5",
                 "name": "This Little Piggy Felt Remorse",
                 "questText": "Upgrade your stamps a bunch to cheer them up",
-                "DialogueText": "Oinko... boinko shama lama loinko... 'The pig realizes that hoarding stamps brings him no real joy and he yearns for more meaningful stampage. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2736,7 +2752,7 @@
             }
         ]
     },
-    "Desert_Davey": {
+    "Desert Davey": {
         "Quests": {
             "U Cool?": {
                 "rewards": [
@@ -2750,11 +2766,11 @@
                     ["Quarterstaff", "1"]
                 ],
                 "consumed": "No",
-                "dialogueText": "Gary over in them Blunderhills hes got some cool recipes. Bring me some proof that you chose the cool ones. @ QUEST: Bring cool proof. And dont worry you'll get to keep the items!",
+                "dialogueText": "Gary over in them Blunderhills hes got some cool recipes. Bring me some proof that you chose the cool ones. ",
                 "difficulty": "4",
                 "name": "U Cool?",
                 "questText": " Bring cool proof. And dont worry you'll get to keep the items!",
-                "DialogueText": "Gary over in them Blunderhills hes got some cool recipes. Bring me some proof that you chose the cool ones. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2796,11 +2812,11 @@
                     ["Flip Flops", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Yo but catch this I ain't gon' be changin' the game lookin' like a fool ... if I'm not totally decked out in swag ain't no-one gonna take lil' Mutt seriously! @ QUEST:Find the right clothes for an aspiring fool who doesn't realize his beatboxing sucks.",
+                "dialogueText": "Yo but catch this I ain't gon' be changin' the game lookin' like a fool ... if I'm not totally decked out in swag ain't no-one gonna take lil' Mutt seriously! ",
                 "difficulty": "4",
                 "name": "Beatboxing Starterpack",
                 "questText": "Find the right clothes for an aspiring fool who doesn't realize his beatboxing sucks.",
-                "DialogueText": "Yo but catch this I ain't gon' be changin' the game lookin' like a fool ... if I'm not totally decked out in swag ain't no-one gonna take lil' Mutt seriously! @ QUEST"
+                "notes": ""
             },
             "Clout Chasin'": {
                 "rewards": [
@@ -2811,11 +2827,11 @@
                     ["Corporatube Sub", "300"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Maaaan you aren't even gonna believe this. I was totally in the zone rhyming like a genius without a loan and I didn't go viral! Gimme some exposure yea? @ QUEST:Beat up the trashiest monsters until Mutt becomes famous",
+                "dialogueText": "Maaaan you aren't even gonna believe this. I was totally in the zone rhyming like a genius without a loan and I didn't go viral! Gimme some exposure yea? ",
                 "difficulty": "3",
                 "name": "Clout Chasin'",
                 "questText": "Beat up the trashiest monsters until Mutt becomes famous",
-                "DialogueText": "Maaaan you aren't even gonna believe this. I was totally in the zone rhyming like a genius without a loan and I didn't go viral! Gimme some exposure yea? @ QUEST"
+                "notes": "Need level 21"
             },
             "Cross Platform Promotion": {
                 "rewards": [
@@ -2827,11 +2843,11 @@
                     ["Instablab Follower", "1000"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I just... cmon chief you know I'm good enough! I know Lil' Mutt's a name that'll stay in the game! @ QUEST:Find some more followers probably from the Sewers again since his beatboxing still sucks.",
+                "dialogueText": "I just... cmon chief you know I'm good enough! I know Lil' Mutt's a name that'll stay in the game! ",
                 "difficulty": "5",
                 "name": "Cross Platform Promotion",
                 "questText": "Find some more followers probably from the Sewers again since his beatboxing still sucks.",
-                "DialogueText": "I just... cmon chief you know I'm good enough! I know Lil' Mutt's a name that'll stay in the game! @ QUEST"
+                "notes": ""
             },
             "7 Figure Followers": {
                 "rewards": [
@@ -2845,11 +2861,11 @@
                     ["Cloudsound Follower", "500000"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But we can't rest just yet we gotta go full on while we've got momentum! @ QUEST:Get a million followers.",
+                "dialogueText": "But we can't rest just yet we gotta go full on while we've got momentum! ",
                 "difficulty": "8",
                 "name": "7 Figure Followers",
                 "questText": "Get a million followers.",
-                "DialogueText": "But we can't rest just yet we gotta go full on while we've got momentum! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -2920,11 +2936,11 @@
                     ["Crabby Cakey", "150"]
                 ],
                 "consumed": "No",
-                "dialogueText": "mmm... Kebaaaabs crabby cakes... @ mmmmmmm... yummmmmmy... @ zzzzZZzzzzZZZZzz... @ QUEST:Wake up the Special-Class giver.",
+                "dialogueText": "mmm... Kebaaaabs crabby cakes... ",
                 "difficulty": "3",
                 "name": "More like 'Sleepius' lmao",
                 "questText": "Wake up the Special-Class giver.",
-                "DialogueText": "mmm... Kebaaaabs crabby cakes... @ mmmmmmm... yummmmmmy... @ zzzzZZzzzzZZZZzz... @ QUEST"
+                "notes": ""
             },
             "Specialization Station": {
                 "rewards": [
@@ -2934,7 +2950,8 @@
                 "consumed": "No",
                 "dialogueText": " ",
                 "difficulty": "1",
-                "name": "Specialization Station"
+                "name": "Specialization Station",
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3007,11 +3024,11 @@
                     ["Butterfly", "1500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.",
+                "dialogueText": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. ",
                 "difficulty": "3",
                 "name": "'Accidental' Exploit",
                 "questText": "Catch some Butterflies.",
-                "DialogueText": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3050,11 +3067,11 @@
                     ["Jellyfish", "25"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Look you wanna help?? Show me there ain't no monsters down there. This mask helps me breath sure but it ain't no binoculars! @ QUEST:Show him there are no water monters.",
+                "dialogueText": "Look you wanna help?? Show me there ain't no monsters down there. This mask helps me breath sure but it ain't no binoculars! ",
                 "difficulty": "2",
                 "name": "Don't Step to Me, Bro!",
                 "questText": "Show him there are no water monters.",
-                "DialogueText": "Look you wanna help?? Show me there ain't no monsters down there. This mask helps me breath sure but it ain't no binoculars! @ QUEST"
+                "notes": ""
             },
             "Uncovering the Deep Sea State!!!": {
                 "rewards": [
@@ -3066,11 +3083,11 @@
                     "Time_Left: >= 1. Starting at 121."
                 ],
                 "consumed": "No",
-                "dialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 7 fish in 2 minutes right here right now.",
+                "dialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! ",
                 "difficulty": "3",
                 "name": "Uncovering the Deep Sea State!!!",
                 "questText": "Catch 7 fish in 2 minutes right here right now.",
-                "DialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST"
+                "notes": "A [[Barbarian]] with the Worming Undercover talent is required to catch enough fish in time."
             }
         },
         "Dialogue": [
@@ -3120,11 +3137,11 @@
                     ["Goldfish", "20"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "O.O @ QUEST:What are they looking at?",
+                "dialogueText": "O.O ",
                 "difficulty": "1",
                 "name": "Mopey Dick",
                 "questText": "What are they looking at?",
-                "DialogueText": "O.O @ QUEST"
+                "notes": ""
             },
             "The Whaley Hard Minigame": {
                 "rewards": [
@@ -3134,11 +3151,11 @@
                 ],
                 "requirements": ["Fish_Minigame_Score: >= 10. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "`-` @ QUEST:They look even sadder now try doing something else...",
+                "dialogueText": "`-` ",
                 "difficulty": "3",
                 "name": "The Whaley Hard Minigame",
                 "questText": "They look even sadder now try doing something else...",
-                "DialogueText": "`-` @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3167,7 +3184,7 @@
             }
         ]
     },
-    "Postboy_Pablob": {
+    "Postboy Pablob": {
         "Quests": {
             "Signed, Sealed and Lost in the Post": {
                 "rewards": [
@@ -3179,11 +3196,11 @@
                     ["Empty Box", "5"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Hmm I do have an opening for a new Order Manager but that's a very demanding job! Prove to me that you'd be up to the task and I'll hire you. @ QUEST:Craft some Empty Boxes from Anvil Tab 2",
+                "dialogueText": "Hmm I do have an opening for a new Order Manager but that's a very demanding job! Prove to me that you'd be up to the task and I'll hire you. ",
                 "difficulty": "6",
                 "name": "Signed, Sealed and Lost in the Post",
                 "questText": "Craft some Empty Boxes from Anvil Tab 2",
-                "DialogueText": "Hmm I do have an opening for a new Order Manager but that's a very demanding job! Prove to me that you'd be up to the task and I'll hire you. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3214,7 +3231,7 @@
             }
         ]
     },
-    "Bandit_Bob": {
+    "Bandit Bob": {
         "Quests": {
             "Bullets for Bandit Bob!": {
                 "rewards": [
@@ -3226,11 +3243,11 @@
                     ["Bullet", "300"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Tell you hwat I'll come out of retirement and sign that fan letter so long as you get me some bullets! I done used the last of mine on ya hah! @ QUEST:Get ya boy Bob some bullets!",
+                "dialogueText": "Tell you hwat I'll come out of retirement and sign that fan letter so long as you get me some bullets! I done used the last of mine on ya hah! ",
                 "difficulty": "3",
                 "name": "Bullets for Bandit Bob!",
                 "questText": "Get ya boy Bob some bullets!",
-                "DialogueText": "Tell you hwat I'll come out of retirement and sign that fan letter so long as you get me some bullets! I done used the last of mine on ya hah! @ QUEST"
+                "notes": ""
             },
             "Bob's Brand New Bandana": {
                 "rewards": [
@@ -3241,11 +3258,11 @@
                     ["Yellow Headband", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "But you gotta do more than just that to earn my signature. Hrmmm... what do I need... how 'bout a new bandana? Maybe I'd look better in yellow. @ QUEST:Get Bob a yellow bandana even though it would ruin his style.",
+                "dialogueText": "But you gotta do more than just that to earn my signature. Hrmmm... what do I need... how 'bout a new bandana? Maybe I'd look better in yellow. ",
                 "difficulty": "2",
                 "name": "Bob's Brand New Bandana",
                 "questText": "Get Bob a yellow bandana even though it would ruin his style.",
-                "DialogueText": "But you gotta do more than just that to earn my signature. Hrmmm... what do I need... how 'bout a new bandana? Maybe I'd look better in yellow. @ QUEST"
+                "notes": ""
             },
             "Bringing Bob's Boxes": {
                 "rewards": [
@@ -3254,11 +3271,11 @@
                 ],
                 "requirements": ["Plan-It_Express_Orders: >= 2. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "You reckon you could go fill those orders for me? Oh and bring them completed order forms too would ya? @ QUEST:Make some deliveries for Plan-It Experess over at the post office.",
+                "dialogueText": "You reckon you could go fill those orders for me? Oh and bring them completed order forms too would ya? ",
                 "difficulty": "3",
                 "name": "Bringing Bob's Boxes",
                 "questText": "Make some deliveries for Plan-It Experess over at the post office.",
-                "DialogueText": "You reckon you could go fill those orders for me? Oh and bring them completed order forms too would ya? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3328,11 +3345,11 @@
                 ],
                 "requirements": ["Potato_Kills: >= 750. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Hows about you set a good example? You gotta show 'em how to earn things the RIGHT way! Just like I done did myslf when I was a lad. @ QUEST:Kill 750 Potatos. Idle kills don't count.",
+                "dialogueText": "Hows about you set a good example? You gotta show 'em how to earn things the RIGHT way! Just like I done did myslf when I was a lad. ",
                 "difficulty": "3",
                 "name": "Darn Lazy Gamers!",
                 "questText": "Kill 750 Potatos. Idle kills don't count.",
-                "DialogueText": "Hows about you set a good example? You gotta show 'em how to earn things the RIGHT way! Just like I done did myslf when I was a lad. @ QUEST"
+                "notes": ""
             },
             "Old Timey Craftin'": {
                 "rewards": [
@@ -3347,7 +3364,8 @@
                 "consumed": "No",
                 "dialogueText": "It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
                 "difficulty": "4",
-                "name": "Old Timey Craftin'"
+                "name": "Old Timey Craftin'",
+                "notes": ""
             },
             "Be like Buster!": {
                 "rewards": [
@@ -3356,11 +3374,11 @@
                 ],
                 "requirements": ["Epic_KO: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Kids admire the worst people! Ninjas Streams and even the letter Q for some dang reason! Hows about you show em what a real role model is? @ QUEST:Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.",
+                "dialogueText": "Kids admire the worst people! Ninjas Streams and even the letter Q for some dang reason! Hows about you show em what a real role model is? ",
                 "difficulty": "3",
                 "name": "Be like Buster!",
                 "questText": "Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.",
-                "DialogueText": "Kids admire the worst people! Ninjas Streams and even the letter Q for some dang reason! Hows about you show em what a real role model is? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3432,11 +3450,11 @@
                     ["Jellyfish", "400"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! @ QUEST:Collect some very blue thingies for this very blue dude",
+                "dialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! ",
                 "difficulty": "4",
                 "name": "Genie Dieting",
                 "questText": "Collect some very blue thingies for this very blue dude",
-                "DialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! @ QUEST"
+                "notes": "Crafting the 1k Icing Ironbite requires 5k Iron Ore and 2k Small Mana Potions. "
             },
             "I'm Blue Dabadedada": {
                 "rewards": [
@@ -3447,11 +3465,11 @@
                     "Ghosts_Collected: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Ok pls why yu hef to be mad is only videogame! I make it up to you just get me mor blue stuffs and I wish for door open for you! @ QUEST:Defeat Moonmen and retrieve some ghosts",
+                "dialogueText": "Ok pls why yu hef to be mad is only videogame! I make it up to you just get me mor blue stuffs and I wish for door open for you! ",
                 "difficulty": "4",
                 "name": "I'm Blue Dabadedada",
                 "questText": "Defeat Moonmen and retrieve some ghosts",
-                "DialogueText": "Ok pls why yu hef to be mad is only videogame! I make it up to you just get me mor blue stuffs and I wish for door open for you! @ QUEST"
+                "notes": "Kill 10k [[Moonmoon|Moonmoons]] and gather 1 [[Ghost]] drops. Moonmoons killed/Ghosts collected before you start this quest do not count."
             }
         },
         "Dialogue": [
@@ -3498,11 +3516,11 @@
                 ],
                 "requirements": ["Coins_Collected: >= 15. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Money this money that. I'll toss you some coins like you're a laundromat! If you pick them up we'll continue to chat! @ QUEST:Collect copper coins by running over them.",
+                "dialogueText": "Money this money that. I'll toss you some coins like you're a laundromat! If you pick them up we'll continue to chat! ",
                 "difficulty": "2",
                 "name": "Trickle Down Economics",
                 "questText": "Collect copper coins by running over them.",
-                "DialogueText": "Money this money that. I'll toss you some coins like you're a laundromat! If you pick them up we'll continue to chat! @ QUEST"
+                "notes": "You need to have the [[Cowbo Jones]] quest 'Commence Criminal Crimes!' active in order to get this quest."
             },
             "Hoopsies": {
                 "rewards": [
@@ -3515,11 +3533,11 @@
                     "Total_Hoops >= 90. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Go on then see if you can beat my hiscore! Eieioaioioeeehehehe!! I never get to play game with people what a hoot! @ QUEST:Pass through 15 hoops in a row. @ OR @ Pass a total of 90 hoops across all attempts",
+                "dialogueText": "Go on then see if you can beat my hiscore! Eieioaioioeeehehehe!! I never get to play game with people what a hoot! ",
                 "difficulty": "2",
                 "name": "Hoopsies",
                 "questText": "Pass through 15 hoops in a row. @ OR @ Pass a total of 90 hoops across all attempts",
-                "DialogueText": "Go on then see if you can beat my hiscore! Eieioaioioeeehehehe!! I never get to play game with people what a hoot! @ QUEST"
+                "notes": "'Hoopsies' refers to the [[Catching]] minigame. You may need to complete both objectives to clear this quest."
             },
             "Only Winners have Portraits": {
                 "rewards": [
@@ -3532,11 +3550,11 @@
                     ["Claiming Cashe", "200"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Before you crime me up hows about we solidify my image as a nobleman first? It'll make you all the more infamous when you steal from me! @ QUEST:Find various goldric paintings from Desert Monsters.",
+                "dialogueText": "Before you crime me up hows about we solidify my image as a nobleman first? It'll make you all the more infamous when you steal from me! ",
                 "difficulty": "3",
                 "name": "Only Winners have Portraits",
                 "questText": "Find various goldric paintings from Desert Monsters.",
-                "DialogueText": "Before you crime me up hows about we solidify my image as a nobleman first? It'll make you all the more infamous when you steal from me! @ QUEST"
+                "notes": "The paintings drop from [[Mimic|Mimics]], [[Mafioso|Mafiosos]] and [[Sand Castle|Sand Castles]]."
             },
             "Criminal Code of Conduct": {
                 "rewards": [
@@ -3547,11 +3565,11 @@
                     ["Golden Plop", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "... ah right! The crime and all that... @ Well? Don't be daft! You can't just commit a crime without first giving me a gift! We live in a society!! @ QUEST:Find the perfect gift for an animated gold bar monarch. You may have to sift through a lot of crap to find it!",
+                "dialogueText": "... ah right! The crime and all that... ",
                 "difficulty": "5",
                 "name": "Criminal Code of Conduct",
                 "questText": "Find the perfect gift for an animated gold bar monarch. You may have to sift through a lot of crap to find it!",
-                "DialogueText": "... ah right! The crime and all that... @ Well? Don't be daft! You can't just commit a crime without first giving me a gift! We live in a society!! @ QUEST"
+                "notes": "While you have this quest active and have the [[Alchemy#Level_up_Gift|Level Up Gift Alchemy Bubble]] equipped, [[Pre Crime Box|Pre Crime Boxes]] may drop. They don't do anything, you can safely sell them."
             },
             "Dress to Impress": {
                 "rewards": [
@@ -3561,11 +3579,11 @@
                 ],
                 "requirements": ["Wear_All_Gold >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "... pardon me we have more important matters to attend to. It's Crime Time!! @ Say you're not really going to commit a crime looking like that are you? @ QUEST: Equip a golden helmet platebody platelegs and any golden tool.",
+                "dialogueText": "... pardon me we have more important matters to attend to. It's Crime Time!! ",
                 "difficulty": "4",
                 "name": "Dress to Impress",
                 "questText": " Equip a golden helmet platebody platelegs and any golden tool.",
-                "DialogueText": "... pardon me we have more important matters to attend to. It's Crime Time!! @ Say you're not really going to commit a crime looking like that are you? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3645,7 +3663,7 @@
             }
         ]
     },
-    "Omar_Da_Ogar": {
+    "Omar Da Ogar": {
         "Quests": {},
         "Dialogue": [
             {
@@ -3661,11 +3679,11 @@
                 ],
                 "requirements": ["Boops_Bopped: >= 30. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "You deserve Gems! And one two three four and one two three four! Go dab on those bone poops! They only come 'round once per day unlike my hips! @ QUEST:Defeat the Boops!",
+                "dialogueText": "You deserve Gems! And one two three four and one two three four! Go dab on those bone poops! They only come 'round once per day unlike my hips! ",
                 "difficulty": "3",
                 "name": "Spooky Scary Skelepoops",
                 "questText": "Defeat the Boops!",
-                "DialogueText": "You deserve Gems! And one two three four and one two three four! Go dab on those bone poops! They only come 'round once per day unlike my hips! @ QUEST"
+                "notes": ""
             },
             "Waitin' for the Cards to Drop": {
                 "rewards": [
@@ -3676,11 +3694,11 @@
                     ["Bonemeal", "777"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Remember those Boops take 24 hours to respawn. Pop shove it boo yah!!! While you're grinding for their card why not gather me some bones? @ QUEST:Collect Bonemeal for Meel! This will take a while...",
+                "dialogueText": "Remember those Boops take 24 hours to respawn. Pop shove it boo yah!!! While you're grinding for their card why not gather me some bones? ",
                 "difficulty": "7",
                 "name": "Waitin' for the Cards to Drop",
                 "questText": "Collect Bonemeal for Meel! This will take a while...",
-                "DialogueText": "Remember those Boops take 24 hours to respawn. Pop shove it boo yah!!! While you're grinding for their card why not gather me some bones? @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3726,7 +3744,7 @@
             }
         ]
     },
-    "Snake_Jar": {
+    "Snake Jar": {
         "Quests": {
             "Lookin' Like a Snack": {
                 "rewards": [
@@ -3737,11 +3755,11 @@
                     ["Megalodon Tooth", "4200"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Ssssssurprise! I wasss lying I am indeed going to give you a quesssst! But I ssstill indend to eat you alive sssso get me some teeth! @ QUEST: Get some teeth so you can be eaten! Mmm yummy!",
+                "dialogueText": "Ssssssurprise! I wasss lying I am indeed going to give you a quesssst! But I ssstill indend to eat you alive sssso get me some teeth! ",
                 "difficulty": "3",
                 "name": "Lookin' Like a Snack",
                 "questText": " Get some teeth so you can be eaten! Mmm yummy!",
-                "DialogueText": "Ssssssurprise! I wasss lying I am indeed going to give you a quesssst! But I ssstill indend to eat you alive sssso get me some teeth! @ QUEST"
+                "notes": ""
             },
             "Red Stuff Bad!": {
                 "rewards": [
@@ -3752,11 +3770,11 @@
                     ["Small Life Potion", "8500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Ssssso heres the thing... I can't actually bite you because your blood would violate this game's E-10 rating. Get me sssome red liquid so we can pretend I'm eating you! @ QUEST: BLOOD FOR THE BLOOD GODS!!! Err... I mean get HP pots!",
+                "dialogueText": "Ssssso heres the thing... I can't actually bite you because your blood would violate this game's E-10 rating. Get me sssome red liquid so we can pretend I'm eating you! ",
                 "difficulty": "3",
                 "name": "Red Stuff Bad!",
                 "questText": " BLOOD FOR THE BLOOD GODS!!! Err... I mean get HP pots!",
-                "DialogueText": "Ssssso heres the thing... I can't actually bite you because your blood would violate this game's E-10 rating. Get me sssome red liquid so we can pretend I'm eating you! @ QUEST"
+                "notes": ""
             },
             "PSA. You Are Being Eaten!": {
                 "rewards": [
@@ -3769,11 +3787,11 @@
                     "Stand_Near_Snake_Jar: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Now come over here or no one will believe that I was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
+                "dialogueText": "Now come over here or no one will believe that I was me who brought you to your end! ",
                 "difficulty": "4",
                 "name": "PSA. You Are Being Eaten!",
                 "questText": " Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
-                "DialogueText": "Now come over here or no one will believe that I was me who brought you to your end! @ QUEST"
+                "notes": "requires approximately 150 defense and 900 hp"
             }
         },
         "Dialogue": [
@@ -3830,11 +3848,11 @@
                     ["Loomi's Room Key", "10"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Moonmen steal key they're meant for me! Get them back rare as they may be! @ QUEST:Kill moonmen until they drop all the keys you need.",
+                "dialogueText": "Moonmen steal key they're meant for me! Get them back rare as they may be! ",
                 "difficulty": "4f",
                 "name": "Rhyming is Key!",
                 "questText": "Kill moonmen until they drop all the keys you need.",
-                "DialogueText": "Moonmen steal key they're meant for me! Get them back rare as they may be! @ QUEST"
+                "notes": ""
             },
             "Uh, Something About Vials?": {
                 "rewards": [
@@ -3844,11 +3862,11 @@
                 ],
                 "requirements": ["Blue_Alch_Vials: >= 30. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 30 Vials up to light-blue rarity or higher",
+                "dialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! ",
                 "difficulty": "5",
                 "name": "Uh, Something About Vials?",
                 "questText": "Upgrade 30 Vials up to light-blue rarity or higher",
-                "DialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST"
+                "notes": ""
             },
             "Journey to the Center of the Blundermines": {
                 "rewards": [
@@ -3857,11 +3875,11 @@
                 ],
                 "requirements": ["Slip_Slidy_Ledge: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Slip Slidy Ledge mining area",
+                "dialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! ",
                 "difficulty": "5",
                 "name": "Journey to the Center of the Blundermines",
                 "questText": "Reach the Slip Slidy Ledge mining area",
-                "DialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -3921,11 +3939,11 @@
                     "Platform_2_Found: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
+                "dialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. ",
                 "difficulty": "4",
                 "name": "Platforms in Disguise, Platsformers!",
                 "questText": "Find the 3 invisible platforms hidden throughout the game.",
-                "DialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST"
+                "notes": "See [[Secrets]] for more information."
             },
             "Findin' Fingerprints": {
                 "rewards": [
@@ -3939,11 +3957,11 @@
                     ["Singlecle", "2500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "You see I seek the whereabouts of the Maestro Blobulyte... it's a Journeyman thing. Anywho I am about ready to Job Advance and I am certain Lavaflame2 put in a secret subclass NPC somewhere! @ QUEST:Collect materials maybe the blobulyte left some fingerprints on one?",
+                "dialogueText": "You see I seek the whereabouts of the Maestro Blobulyte... it's a Journeyman thing. Anywho I am about ready to Job Advance and I am certain Lavaflame2 put in a secret subclass NPC somewhere! ",
                 "difficulty": "4",
                 "name": "Findin' Fingerprints",
                 "questText": "Collect materials maybe the blobulyte left some fingerprints on one?",
-                "DialogueText": "You see I seek the whereabouts of the Maestro Blobulyte... it's a Journeyman thing. Anywho I am about ready to Job Advance and I am certain Lavaflame2 put in a secret subclass NPC somewhere! @ QUEST"
+                "notes": ""
             },
             "You Can't Run, but you Can Hide": {
                 "rewards": [
@@ -3952,11 +3970,11 @@
                 ],
                 "requirements": ["Up's_Given: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "A quick search on the Wiki revealed that the Blobulyte is hiding behind the only flowering cactus in the game. Beyond that I'm stumped... @ QUEST:Give up on your search for the Maestro Blobulyte by saying 'Darn you Blobulyte! Why must you hide like a coward'",
+                "dialogueText": "A quick search on the Wiki revealed that the Blobulyte is hiding behind the only flowering cactus in the game. Beyond that I'm stumped... ",
                 "difficulty": "1",
                 "name": "You Can't Run, but you Can Hide",
                 "questText": "Give up on your search for the Maestro Blobulyte by saying 'Darn you Blobulyte! Why must you hide like a coward'",
-                "DialogueText": "A quick search on the Wiki revealed that the Blobulyte is hiding behind the only flowering cactus in the game. Beyond that I'm stumped... @ QUEST"
+                "notes": "It has to be typed exactly like Wellington says, cAsE sEnSiTiVe. If you're not using a US Keyboard layout, Shift+1 is how you must type the exclamation point."
             }
         },
         "Dialogue": [
@@ -4018,11 +4036,11 @@
                     ["Flowies", "5"]
                 ],
                 "consumed": "No",
-                "dialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
+                "dialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! ",
                 "difficulty": "5",
                 "name": "Dressing like a Dork",
                 "questText": "Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
-                "DialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST"
+                "notes": ""
             },
             "Literally Physics": {
                 "rewards": [
@@ -4035,11 +4053,11 @@
                     ["Woodular Circle", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "So if you put the other materials on top of the two balls and drop everything the materials will bounce up to me!!! @ QUEST:Get some woodular circles from branches and do something with them? I don't go to Dazey's school either I'm as confused as you are.",
+                "dialogueText": "So if you put the other materials on top of the two balls and drop everything the materials will bounce up to me!!! ",
                 "difficulty": "4",
                 "name": "Literally Physics",
                 "questText": "Get some woodular circles from branches and do something with them? I don't go to Dazey's school either I'm as confused as you are.",
-                "DialogueText": "So if you put the other materials on top of the two balls and drop everything the materials will bounce up to me!!! @ QUEST"
+                "notes": "After completing this quest, Dazey will be replaced by Sprout."
             }
         },
         "Dialogue": [
@@ -4083,7 +4101,7 @@
             }
         ]
     },
-    "Cowbo_Jones": {
+    "Cowbo Jones": {
         "Quests": {
             "The Grind Begins...?": {
                 "rewards": [
@@ -4092,11 +4110,11 @@
                 ],
                 "requirements": ["Kill_Pots: >= 99999. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "That is unless yer willin' to prove yerself. Go on show me whatcha can do! @ QUEST:Kill 99999 Sandy Pots",
+                "dialogueText": "That is unless yer willin' to prove yerself. Go on show me whatcha can do! ",
                 "difficulty": "1",
                 "name": "The Grind Begins...?",
                 "questText": "Kill 99999 Sandy Pots",
-                "DialogueText": "That is unless yer willin' to prove yerself. Go on show me whatcha can do! @ QUEST"
+                "notes": "After 10 active kills, the quest auto-completes."
             },
             "The Hatless Howerhouse!": {
                 "rewards": [
@@ -4106,11 +4124,11 @@
                 ],
                 "requirements": ["No-Hat_Kill: >= 20. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Hows about we getcha a real challenge somethin' yall grasslickers over in them thar Blunderhills aint never done before... @ QUEST:Kill 20 Sandy Pots without your precious hat equipped.",
+                "dialogueText": "Hows about we getcha a real challenge somethin' yall grasslickers over in them thar Blunderhills aint never done before... ",
                 "difficulty": "3",
                 "name": "The Hatless Howerhouse!",
                 "questText": "Kill 20 Sandy Pots without your precious hat equipped.",
-                "DialogueText": "Hows about we getcha a real challenge somethin' yall grasslickers over in them thar Blunderhills aint never done before... @ QUEST"
+                "notes": ""
             },
             "No Country for One Character": {
                 "rewards": [
@@ -4119,11 +4137,11 @@
                 ],
                 "requirements": ["Characters_Created: >= 4. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Uh... er.. well tell ya what it's actually TOO big fer the two of us. Go get some more of them characters would ya? @ QUEST:Create at least 3 new players for your Account.",
+                "dialogueText": "Uh... er.. well tell ya what it's actually TOO big fer the two of us. Go get some more of them characters would ya? ",
                 "difficulty": "4",
                 "name": "No Country for One Character",
                 "questText": "Create at least 3 new players for your Account.",
-                "DialogueText": "Uh... er.. well tell ya what it's actually TOO big fer the two of us. Go get some more of them characters would ya? @ QUEST"
+                "notes": ""
             },
             "Say Goodbye to your Dubloon!": {
                 "rewards": [
@@ -4135,11 +4153,11 @@
                     ["Golden Dubloon", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "... so ya can't talk but don't yall worry yerself cause I sure know one thing that talks round 'ere:cold hard cash! Bring me round sum' that and we can git into some real business. @ QUEST:Buy a Gold Dubloon to prove your worth.",
+                "dialogueText": "... so ya can't talk but don't yall worry yerself cause I sure know one thing that talks round 'ere",
                 "difficulty": "2",
                 "name": "Say Goodbye to your Dubloon!",
                 "questText": "cold hard cash! Bring me round sum' that and we can git into some real business. @ QUEST",
-                "DialogueText": "... so ya can't talk but don't yall worry yerself cause I sure know one thing that talks round 'ere"
+                "notes": ""
             },
             "Alchemial Apprentice": {
                 "rewards": [
@@ -4154,7 +4172,8 @@
                 "consumed": "No",
                 "dialogueText": "... you get all that pardner? Ya better 'ave cause I'm boutta test ya! Go unlock a bubble and buy some pure water from the Liquid Shop!",
                 "difficulty": "3",
-                "name": "Alchemial Apprentice"
+                "name": "Alchemial Apprentice",
+                "notes": "Bubbles unlocked before you start this quest count, but the [[Distilled Water]] must be purchased while the quest is active."
             },
             "Three Vials? Those are Rookie Numbers!": {
                 "rewards": [
@@ -4162,11 +4181,11 @@
                 ],
                 "requirements": ["Vials_Unlocked: >= 2. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "You can unlock vials by dropping specific resources at the cauldron in person. Not all resources have their own vial so ya gotta try 'em all! @ QUEST:Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory",
+                "dialogueText": "You can unlock vials by dropping specific resources at the cauldron in person. Not all resources have their own vial so ya gotta try 'em all! ",
                 "difficulty": "2",
                 "name": "Three Vials? Those are Rookie Numbers!",
                 "questText": "Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory",
-                "DialogueText": "You can unlock vials by dropping specific resources at the cauldron in person. Not all resources have their own vial so ya gotta try 'em all! @ QUEST"
+                "notes": "Vials unlocked before you start the quest count. See [[Alchemy#Vials|Alchemy Vials]] for a full list of unlockable Vials."
             },
             "The Notorious B.O.B": {
                 "rewards": [
@@ -4176,11 +4195,11 @@
                 ],
                 "requirements": ["Criminal_Found: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Me bein' an immobile cactus I'm still stuck tryna catch the first criminal. He goes by Notorious B.O.B but ya best believe that aint his real name. He should be 'round here somewhere... @ QUEST:Find the criminal!",
+                "dialogueText": "Me bein' an immobile cactus I'm still stuck tryna catch the first criminal. He goes by Notorious B.O.B but ya best believe that aint his real name. He should be 'round here somewhere... ",
                 "difficulty": "4",
                 "name": "The Notorious B.O.B",
                 "questText": "Find the criminal!",
-                "DialogueText": "Me bein' an immobile cactus I'm still stuck tryna catch the first criminal. He goes by Notorious B.O.B but ya best believe that aint his real name. He should be 'round here somewhere... @ QUEST"
+                "notes": "The criminal is located through the portal below Mimics."
             },
             "Bake Him Away, Toys": {
                 "rewards": [
@@ -4193,7 +4212,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Now then just get him to sign this Arrest Warrant and we'll have his bounty as easy as ya can say 'Easy' which is gosh darn easy I tell ya hwat!",
                 "difficulty": "5",
-                "name": "Bake Him Away, Toys"
+                "name": "Bake Him Away, Toys",
+                "notes": "You have to complete [[Bandit Bob|Bandit Bob's]] questline for this."
             },
             "A Hat in Crime": {
                 "rewards": [
@@ -4205,11 +4225,11 @@
                     ["Trusty Nails", "750"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Before we get startin' our crime spree we gotta look the part. Go get some materials from the Anvil so I can make ya a hat like mine. @ QUEST:Yes Bandit Bob set you up. Guess you're taking orders from a cactus now!",
+                "dialogueText": "Before we get startin' our crime spree we gotta look the part. Go get some materials from the Anvil so I can make ya a hat like mine. ",
                 "difficulty": "4",
                 "name": "A Hat in Crime",
                 "questText": "Yes Bandit Bob set you up. Guess you're taking orders from a cactus now!",
-                "DialogueText": "Before we get startin' our crime spree we gotta look the part. Go get some materials from the Anvil so I can make ya a hat like mine. @ QUEST"
+                "notes": ""
             },
             "Commence Criminal Crimes!": {
                 "rewards": [
@@ -4218,11 +4238,11 @@
                 ],
                 "requirements": ["Steal_from_Goldric: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Let's start by finding some'n in the Desert to crime on! And not that big bag guy he looks kinda tough... we'll get 'im another day. @ QUEST:Commit a crime on whoever the quest helper says to lol",
+                "dialogueText": "Let's start by finding some'n in the Desert to crime on! And not that big bag guy he looks kinda tough... we'll get 'im another day. ",
                 "difficulty": "6",
                 "name": "Commence Criminal Crimes!",
                 "questText": "Commit a crime on whoever the quest helper says to lol",
-                "DialogueText": "Let's start by finding some'n in the Desert to crime on! And not that big bag guy he looks kinda tough... we'll get 'im another day. @ QUEST"
+                "notes": "You have to complete [[Goldric|Goldric's]] questline for this."
             },
             "The Worst Trade Deal in History": {
                 "rewards": [
@@ -4231,11 +4251,11 @@
                 ],
                 "requirements": ["Resold_Dubloons: >= 10. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "That there stall owner heard he's got a bit of a money sitiation. Hows about yall help him with that? @ QUEST:Buy and sell a total of 10 Golden Dubloons.",
+                "dialogueText": "That there stall owner heard he's got a bit of a money sitiation. Hows about yall help him with that? ",
                 "difficulty": "3",
                 "name": "The Worst Trade Deal in History",
                 "questText": "Buy and sell a total of 10 Golden Dubloons.",
-                "DialogueText": "That there stall owner heard he's got a bit of a money sitiation. Hows about yall help him with that? @ QUEST"
+                "notes": ""
             },
             "Children? What'd they ever do for Me...": {
                 "rewards": [
@@ -4244,11 +4264,11 @@
                 ],
                 "requirements": ["Donations_Made: >= 4. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "I feel like we best do somethin' good for someone who won't make fun of us. Also remind me to steal that money back once we 'ventually go back to bein' evil. @ QUEST:Donate to the Starving Orphan Monsters foundation in the Cauldron.",
+                "dialogueText": "I feel like we best do somethin' good for someone who won't make fun of us. Also remind me to steal that money back once we 'ventually go back to bein' evil. ",
                 "difficulty": "4",
                 "name": "Children? What'd they ever do for Me...",
                 "questText": "Donate to the Starving Orphan Monsters foundation in the Cauldron.",
-                "DialogueText": "I feel like we best do somethin' good for someone who won't make fun of us. Also remind me to steal that money back once we 'ventually go back to bein' evil. @ QUEST"
+                "notes": "Donate in the [[Alchemy]] Liquids Tab."
             },
             "Oh No, not the Elderly!": {
                 "rewards": [
@@ -4256,11 +4276,11 @@
                 ],
                 "requirements": ["Geezers_Helped: >= 100. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist.",
+                "dialogueText": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. ",
                 "difficulty": "6",
                 "name": "Oh No, not the Elderly!",
                 "questText": "Find some old coot to assist.",
-                "DialogueText": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST"
+                "notes": "This quest is not completable yet."
             }
         },
         "Dialogue": [
@@ -4441,11 +4461,11 @@
                 ],
                 "requirements": ["Frogs_Defeated: >= 7. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "BAM! Element of surprise! Any fighter worthy of the colosseum has to be ready for monsters appearing out of nowhere! Defeat these frogs and I'll let you in! @ QUEST:Kill froggies. Forfeit the quest by clicking the Codex if you fail!",
+                "dialogueText": "BAM! Element of surprise! Any fighter worthy of the colosseum has to be ready for monsters appearing out of nowhere! Defeat these frogs and I'll let you in! ",
                 "difficulty": "2",
                 "name": "Surprise Attack!",
                 "questText": "Kill froggies. Forfeit the quest by clicking the Codex if you fail!",
-                "DialogueText": "BAM! Element of surprise! Any fighter worthy of the colosseum has to be ready for monsters appearing out of nowhere! Defeat these frogs and I'll let you in! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -4482,11 +4502,11 @@
                     "Time_Remaining: >= 1. Starting at 69."
                 ],
                 "consumed": "No",
-                "dialogueText": "I haven't got all day get a move on! If I don't see you before vesperna begins don't bother coming back! @ QUEST:Defeat all mimics before the time runs out.",
+                "dialogueText": "I haven't got all day get a move on! If I don't see you before vesperna begins don't bother coming back! ",
                 "difficulty": "3",
                 "name": "Down The Mimic Hole!",
                 "questText": "Defeat all mimics before the time runs out.",
-                "DialogueText": "I haven't got all day get a move on! If I don't see you before vesperna begins don't bother coming back! @ QUEST"
+                "notes": ""
             },
             "Which one of yous is the Mafia?": {
                 "rewards": [
@@ -4498,11 +4518,11 @@
                     ["Coconotnotto", "2500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I hadn't anticipated for you to be more than a Tiro but if you can complete the task I gave to my missing soldier I'll transfer his rank to you. @ QUEST: Defeat Mafiosos and bring proof.",
+                "dialogueText": "I hadn't anticipated for you to be more than a Tiro but if you can complete the task I gave to my missing soldier I'll transfer his rank to you. ",
                 "difficulty": "3",
                 "name": "Which one of yous is the Mafia?",
                 "questText": " Defeat Mafiosos and bring proof.",
-                "DialogueText": "I hadn't anticipated for you to be more than a Tiro but if you can complete the task I gave to my missing soldier I'll transfer his rank to you. @ QUEST"
+                "notes": ""
             },
             "High Scorer": {
                 "rewards": [
@@ -4511,11 +4531,11 @@
                 ],
                 "requirements": ["Colosseum_Score: >= 200000. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Before you join the ranks of my Decurios I need to see you fight with valor in my colosseum. QUEST: Get a 200K+ colosseum score. Remember to skip rounds to grow your score multiplier!",
+                "dialogueText": "Before you join the ranks of my Decurios I need to see you fight with valor in my colosseum. QUEST",
                 "difficulty": "4",
                 "name": "High Scorer",
                 "questText": " Get a 200K+ colosseum score. Remember to skip rounds to grow your score multiplier!",
-                "DialogueText": "Before you join the ranks of my Decurios I need to see you fight with valor in my colosseum. QUEST"
+                "notes": ""
             },
             "Colosseum Champ!": {
                 "rewards": [
@@ -4528,11 +4548,11 @@
                     "Colosseum_Score: >= 350000. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Alright Dodecahedron... er Decurio if you can slay my colosseum boss and bring in a colosseum hiscore I'll let you become my new Tesserarius. QUEST:Complete all 15 waves with a final score of 350K+",
+                "dialogueText": "Alright Dodecahedron... er Decurio if you can slay my colosseum boss and bring in a colosseum hiscore I'll let you become my new Tesserarius. QUEST",
                 "difficulty": "5",
                 "name": "Colosseum Champ!",
                 "questText": "Complete all 15 waves with a final score of 350K+",
-                "DialogueText": "Alright Dodecahedron... er Decurio if you can slay my colosseum boss and bring in a colosseum hiscore I'll let you become my new Tesserarius. QUEST"
+                "notes": ""
             },
             "Colosseum GDQ": {
                 "rewards": [
@@ -4545,11 +4565,11 @@
                     "2nd_Colosseum: >= 170. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. @ QUEST:Complete the three colosseums with lots of Time Remaining after beating all waves.",
+                "dialogueText": "The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. ",
                 "difficulty": "6",
                 "name": "Colosseum GDQ",
                 "questText": "Complete the three colosseums with lots of Time Remaining after beating all waves.",
-                "DialogueText": "The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -4632,7 +4652,7 @@
             }
         ]
     },
-    "XxX_Cattleprod_XxX": {
+    "XxX Cattleprod XxX": {
         "Quests": {
             "Peak Gaming": {
                 "rewards": [
@@ -4644,11 +4664,11 @@
                     "Time_Left: >= 1. Starting at 30."
                 ],
                 "consumed": "No",
-                "dialogueText": "Smh... look I'll PROVE it to you!! Go kill all the other mobs and I bet one will spawn right here! But you gotta do it quick or they'll just keep respawning up there! @ QUEST:Kill all the Mafioso's before they respawn.",
+                "dialogueText": "Smh... look I'll PROVE it to you!! Go kill all the other mobs and I bet one will spawn right here! But you gotta do it quick or they'll just keep respawning up there! ",
                 "difficulty": "3",
                 "name": "Peak Gaming",
                 "questText": "Kill all the Mafioso's before they respawn.",
-                "DialogueText": "Smh... look I'll PROVE it to you!! Go kill all the other mobs and I bet one will spawn right here! But you gotta do it quick or they'll just keep respawning up there! @ QUEST"
+                "notes": ""
             },
             "Wait No, I meant Pathetic Gaming": {
                 "rewards": [
@@ -4660,11 +4680,11 @@
                     "Sand_Castles_Defeated: >= 18. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Wait no I remember!! You need to also kill all the sand castles cuz like the maps have connected spawn timers...? My friend told me and he's way smarter than you so go do it! @ QUEST:Defeat Mafiosos and Sand Castles super fast",
+                "dialogueText": "Wait no I remember!! You need to also kill all the sand castles cuz like the maps have connected spawn timers...? My friend told me and he's way smarter than you so go do it! ",
                 "difficulty": "5",
                 "name": "Wait No, I meant Pathetic Gaming",
                 "questText": "Defeat Mafiosos and Sand Castles super fast",
-                "DialogueText": "Wait no I remember!! You need to also kill all the sand castles cuz like the maps have connected spawn timers...? My friend told me and he's way smarter than you so go do it! @ QUEST"
+                "notes": ""
             },
             "Ok, NOW it's Peak Gaming!": {
                 "rewards": [
@@ -4677,11 +4697,11 @@
                     ["Player Rating With Letter S", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well guess Ima go leave a 1 star rating and dip out... YO WAIT!! Go get me a BUNCH of 1 star Ratings mwahaha!! @ QUEST:Collect ratings from mobs and ask other players whose names start with P or S to say '1 star game sucks!' to collect more ratings.",
+                "dialogueText": "Well guess Ima go leave a 1 star rating and dip out... YO WAIT!! Go get me a BUNCH of 1 star Ratings mwahaha!! ",
                 "difficulty": "5",
                 "name": "Ok, NOW it's Peak Gaming!",
                 "questText": "Collect ratings from mobs and ask other players whose names start with P or S to say '1 star game sucks!' to collect more ratings.",
-                "DialogueText": "Well guess Ima go leave a 1 star rating and dip out... YO WAIT!! Go get me a BUNCH of 1 star Ratings mwahaha!! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -4735,7 +4755,7 @@
             }
         ]
     },
-    "Giftmas_Blobulyte": {
+    "Giftmas Blobulyte": {
         "Quests": {
             "Boo, Headshot!": {
                 "rewards": [
@@ -4745,11 +4765,11 @@
                 ],
                 "requirements": ["Ghosts_Defeated: >= 6. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Bring me the gift of Immortality! I bet if u noscope those spooky Ghosts my body will never die for fear of having to fight you so I'll live forever! @ QUEST:Defeat Giftmas Ghosts which have a rare chance to spawn from defeating normal monsters.",
+                "dialogueText": "Bring me the gift of Immortality! I bet if u noscope those spooky Ghosts my body will never die for fear of having to fight you so I'll live forever! ",
                 "difficulty": "2",
                 "name": "Boo, Headshot!",
                 "questText": "Defeat Giftmas Ghosts which have a rare chance to spawn from defeating normal monsters.",
-                "DialogueText": "Bring me the gift of Immortality! I bet if u noscope those spooky Ghosts my body will never die for fear of having to fight you so I'll live forever! @ QUEST"
+                "notes": ""
             },
             "You Shouldn't Have! No, really.": {
                 "rewards": [
@@ -4761,11 +4781,11 @@
                     ["Golden Dubloon", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Bring me the gift of tacky thoughtlessness! I want things that are expensive rare and of absolutely no use to me! @ QUEST:Ah they mean cash and jewelry! Go get a dubloon and some shiny glass from Sandy Pots both from the Desert!",
+                "dialogueText": "Bring me the gift of tacky thoughtlessness! I want things that are expensive rare and of absolutely no use to me! ",
                 "difficulty": "2",
                 "name": "You Shouldn't Have! No, really.",
                 "questText": "Ah they mean cash and jewelry! Go get a dubloon and some shiny glass from Sandy Pots both from the Desert!",
-                "DialogueText": "Bring me the gift of tacky thoughtlessness! I want things that are expensive rare and of absolutely no use to me! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -4813,11 +4833,11 @@
                 ],
                 "requirements": ["Constellation_A-2: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "'Go complete Constellation A-2. It's right there on the bottom right branch then the telescope will be usable!' @ QUEST:Follow the engraving's advice and press the little constellation on the bottom right branch.",
+                "dialogueText": "'Go complete Constellation A-2. It's right there on the bottom right branch then the telescope will be usable!' ",
                 "difficulty": "2",
                 "name": "I'm Seeing Stars!",
                 "questText": "Follow the engraving's advice and press the little constellation on the bottom right branch.",
-                "DialogueText": "'Go complete Constellation A-2. It's right there on the bottom right branch then the telescope will be usable!' @ QUEST"
+                "notes": " The constellation is on the same map as the telescope, you need to afk 1h in order to complete it"
             }
         },
         "Dialogue": [
@@ -4857,11 +4877,11 @@
                     ["Lovey Dovey Letter", "25"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "All through the land the monsters are happy go steal their joy and make their day crappy! @ QUEST:Defeat monsters and collect their old Love Letters for this joy-hogging blobulyte.",
+                "dialogueText": "All through the land the monsters are happy go steal their joy and make their day crappy! ",
                 "difficulty": "2",
                 "name": "Heart Hogger",
                 "questText": "Defeat monsters and collect their old Love Letters for this joy-hogging blobulyte.",
-                "DialogueText": "All through the land the monsters are happy go steal their joy and make their day crappy! @ QUEST"
+                "notes": "All enemies can drop the letters. Daily quest"
             },
             "Heartbreaker": {
                 "rewards": [
@@ -4870,11 +4890,11 @@
                 ],
                 "requirements": ["Defeat_Heart_Slimes: >= 20. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "So go summon some Valenslimes! Hold down on the letters and make them pay for their crimes! @ QUEST:Hold down on Love Letters and break some hearts!",
+                "dialogueText": "So go summon some Valenslimes! Hold down on the letters and make them pay for their crimes! ",
                 "difficulty": "4",
                 "name": "Heartbreaker",
                 "questText": "Hold down on Love Letters and break some hearts!",
-                "DialogueText": "So go summon some Valenslimes! Hold down on the letters and make them pay for their crimes! @ QUEST"
+                "notes": "Consume 5 {{CraftReq|Lovey Dovey Letter}} to summon a [[Valentslime]]. Daily quest."
             }
         },
         "Dialogue": [
@@ -4918,11 +4938,11 @@
                 ],
                 "requirements": ["Find_Egg_Capsule: >= 5. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST:Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!",
+                "dialogueText": "Dang it eggy! You're ",
                 "difficulty": "2",
                 "name": "Egg Shaped Lootboxes!",
                 "questText": "Defeat monsters and find an egg capsule! Don't worry they won't take them back from You... if they did they wouldn't have hid them in the first place!",
-                "DialogueText": "Dang it eggy! You're @ . @ messing up our Dialogue! @ QUEST"
+                "notes": ""
             },
             "I've Got a Golden Tickegg!": {
                 "rewards": [
@@ -4931,11 +4951,11 @@
                 ],
                 "requirements": ["Find_New_Gold_Egg: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST:Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!",
+                "dialogueText": "There you go! Anyway ",
                 "difficulty": "4",
                 "name": "I've Got a Golden Tickegg!",
                 "questText": "Open Egg Capsules until you find a Golden Egg! Previously found ones don't count!",
-                "DialogueText": "There you go! Anyway @ . @ we also hid a golden @ . @ oh I know this one!!! A golden egg in one of the capsules! We want you to find it and open it! @ QUEST"
+                "notes": ""
             }
         },
         "Dialogue": [
@@ -4973,7 +4993,7 @@
             }
         ]
     },
-    "Iceland_Irwin": {
+    "Iceland Irwin": {
         "Quests": {
             "Crikey, it's cold out!": {
                 "rewards": [
@@ -4987,7 +5007,8 @@
                 "consumed": "Yes",
                 "dialogueText": "Hopefully Lava will change my dialogue before release!",
                 "difficulty": "4",
-                "name": "Crikey, it's cold out!"
+                "name": "Crikey, it's cold out!",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -5020,11 +5041,11 @@
                     "Hours_of_Redox_Fuel: >= 24. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST:Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.",
+                "dialogueText": "First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! ",
                 "difficulty": "1",
                 "name": "Turn ON for what???",
                 "questText": "Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.",
-                "DialogueText": "First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST"
+                "notes": " "
             },
             "Trapping with the Lord": {
                 "rewards": [
@@ -5036,11 +5057,11 @@
                     "Place_a_Trap_in_Jungle: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST:Go to the map to the left and learn about the Trapping Skill.",
+                "dialogueText": "Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! ",
                 "difficulty": "4",
                 "name": "Trapping with the Lord",
                 "questText": "Go to the map to the left and learn about the Trapping Skill.",
-                "DialogueText": "Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST"
+                "notes": " "
             },
             "Constructing a Tower": {
                 "rewards": [
@@ -5052,11 +5073,11 @@
                     "Wizard_Defender_Built: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST:Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.",
+                "dialogueText": "See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! ",
                 "difficulty": "3",
                 "name": "Constructing a Tower",
                 "questText": "Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.",
-                "DialogueText": "See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST"
+                "notes": " "
             },
             "Monke Tower Time!": {
                 "rewards": [
@@ -5068,11 +5089,11 @@
                     "Place_Wizard_Towers: >= 4. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST:Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!",
+                "dialogueText": "Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. ",
                 "difficulty": "2",
                 "name": "Monke Tower Time!",
                 "questText": "Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!",
-                "DialogueText": "Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST"
+                "notes": " "
             },
             "Taking Samples": {
                 "rewards": [
@@ -5081,11 +5102,11 @@
                 ],
                 "requirements": ["Take_Samples: >= 2. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST:Use the Star Book then add the talent to your attack bar and take samples!",
+                "dialogueText": "Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! ",
                 "difficulty": "1",
                 "name": "Taking Samples",
                 "questText": "Use the Star Book then add the talent to your attack bar and take samples!",
-                "DialogueText": "Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST"
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -5162,7 +5183,7 @@
             }
         ]
     },
-    "Bill_Brr": {
+    "Bill Brr": {
         "Quests": {},
         "Dialogue": [
             {
@@ -5216,7 +5237,7 @@
             }
         ]
     },
-    "Lonely_Hunter": {
+    "Lonely Hunter": {
         "Quests": {
             "Leaf Him Alone!": {
                 "rewards": [
@@ -5228,11 +5249,11 @@
                     ["Twisty Leaf", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Go on leave me alone. @ QUEST:Well you heard him!",
+                "dialogueText": "Go on leave me alone. ",
                 "difficulty": "3",
                 "name": "Leaf Him Alone!",
                 "questText": "Well you heard him!",
-                "DialogueText": "Go on leave me alone. @ QUEST"
+                "notes": " "
             },
             "Skeleton? Skelegone!": {
                 "rewards": [
@@ -5241,11 +5262,11 @@
                 ],
                 "requirements": ["Xylobones_Defeated: >= 5. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST:Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!",
+                "dialogueText": "I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. ",
                 "difficulty": "4",
                 "name": "Skeleton? Skelegone!",
                 "questText": "Summon Skeletons by breaking the skull rock in the top right of the colosseum and destroy them!",
-                "DialogueText": "I guess my tickets are a small price to pay to get rid of you. Defeat the Skeletons in the Colosseum and they're yours. @ QUEST"
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -5277,7 +5298,7 @@
             }
         ]
     },
-    "Carpenter_Cardinal": {
+    "Carpenter Cardinal": {
         "Quests": {},
         "Dialogue": [
             {
@@ -5285,7 +5306,7 @@
             }
         ]
     },
-    "Lord_of_the_Hunt": {
+    "Lord of the Hunt": {
         "Quests": {
             "Pelt for the Pelt God": {
                 "rewards": [
@@ -5298,11 +5319,11 @@
                     ["Cardboard Traps", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Go get me the materials I need to make a trap @ QUEST:Collect material from Snelbie Snails and Snakes. Also buy a trap from the Town Shop.",
+                "dialogueText": "Go get me the materials I need to make a trap ",
                 "difficulty": "2",
                 "name": "Pelt for the Pelt God",
                 "questText": "Collect material from Snelbie Snails and Snakes. Also buy a trap from the Town Shop.",
-                "DialogueText": "Go get me the materials I need to make a trap @ QUEST"
+                "notes": " "
             },
             "Frogecoin to the MOON!": {
                 "rewards": [
@@ -5314,11 +5335,11 @@
                     ["Poison Froge", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. @ QUEST:Go trap Froge Critters found in the SLIME map in Blunder Hills.",
+                "dialogueText": "I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. ",
                 "difficulty": "2",
                 "name": "Frogecoin to the MOON!",
                 "questText": "Go trap Froge Critters found in the SLIME map in Blunder Hills.",
-                "DialogueText": "I'll activate the Froge Hunting Season for ya. Prove your worth by catching the SHINY froge and I'll activate the next Hunt. @ QUEST"
+                "notes": " "
             },
             "Yet another Cartoon Reference": {
                 "rewards": [
@@ -5329,11 +5350,11 @@
                     ["Mutant Crabbo", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. @ QUEST:Go trap Crabbo Critters found by the sea.",
+                "dialogueText": "I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. ",
                 "difficulty": "3",
                 "name": "Yet another Cartoon Reference",
                 "questText": "Go trap Crabbo Critters found by the sea.",
-                "DialogueText": "I've activated the Crabbo Hunting Season they're probably at the beach. If you couldn't guess I need you to trap me a few before I active the next Hunting Season. @ QUEST"
+                "notes": " "
             },
             "Small Stingers, Big Owie": {
                 "rewards": [
@@ -5345,11 +5366,11 @@
                     ["Crescent Scropie", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Alright the Scorpie Hunting Season is on you know what to do. QUEST:Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!",
+                "dialogueText": "Alright the Scorpie Hunting Season is on you know what to do. QUEST",
                 "difficulty": "4",
                 "name": "Small Stingers, Big Owie",
                 "questText": "Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!",
-                "DialogueText": "Alright the Scorpie Hunting Season is on you know what to do. QUEST"
+                "notes": " "
             },
             "The Mouse n the Molerat": {
                 "rewards": [
@@ -5360,11 +5381,11 @@
                     ["Nakeo Moleo", "2"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST:Go trap some Mousey Critters.",
+                "dialogueText": "Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge ",
                 "difficulty": "4",
                 "name": "The Mouse n the Molerat",
                 "questText": "Go trap some Mousey Critters.",
-                "DialogueText": "Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST"
+                "notes": " "
             },
             "Happy Tree Friend": {
                 "rewards": [
@@ -5375,11 +5396,11 @@
                     ["Minervowl", "3"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well I'll count it anyway... I'll activate the Owlio Hunting Season. @ QUEST:Go trap Owlio Critters.",
+                "dialogueText": "Well I'll count it anyway... I'll activate the Owlio Hunting Season. ",
                 "difficulty": "5",
                 "name": "Happy Tree Friend",
                 "questText": "Go trap Owlio Critters.",
-                "DialogueText": "Well I'll count it anyway... I'll activate the Owlio Hunting Season. @ QUEST"
+                "notes": " "
             },
             "Noot Noot!": {
                 "rewards": [
@@ -5391,11 +5412,11 @@
                     ["Eternal Lord of  The Undying Ember", "4"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... @ QUEST:Go trap some Pingy Critters.",
+                "dialogueText": "I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... ",
                 "difficulty": "6",
                 "name": "Noot Noot!",
                 "questText": "Go trap some Pingy Critters.",
-                "DialogueText": "I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... @ QUEST"
+                "notes": " "
             },
             "Bunny you Should Say That!": {
                 "rewards": [
@@ -5406,11 +5427,11 @@
                     ["Purbunni", "6"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. @ QUEST:Go trap Bunny Critters.",
+                "dialogueText": "Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. ",
                 "difficulty": "7",
                 "name": "Bunny you Should Say That!",
                 "questText": "Go trap Bunny Critters.",
-                "DialogueText": "Well I'm in too deep to start considering the moral implications of Trapping at this point. The Bunny Hunting Season is up go get em. @ QUEST"
+                "notes": " "
             },
             "Rollin' Thunder!": {
                 "rewards": [
@@ -5421,11 +5442,11 @@
                     ["Jade Scarab", "10"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. @ QUEST:Go trap Dung Beat Critters.",
+                "dialogueText": "The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. ",
                 "difficulty": "7",
                 "name": "Rollin' Thunder!",
                 "questText": "Go trap Dung Beat Critters.",
-                "DialogueText": "The Dung Beat Hun... haha 'Dung Beat' I just got that... Hunting Season is on. Go for it lad. @ QUEST"
+                "notes": " "
             },
             "Untitled Quest": {
                 "rewards": [
@@ -5437,11 +5458,11 @@
                     ["Diamond Duck", "1"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. @ QUEST:Go trap Honker Critters.",
+                "dialogueText": "Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. ",
                 "difficulty": "7",
                 "name": "Untitled Quest",
                 "questText": "Go trap Honker Critters.",
-                "DialogueText": "Unless I missed some Patch Notes I believe this is the last critter. The Honker Hunting Season is on. HONK! Ahem pardon. @ QUEST"
+                "notes": " "
             },
             "To Trap or not to Trap": {
                 "rewards": [
@@ -5453,11 +5474,11 @@
                     ["Diamond Duck", "100"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "If you can catch more Shinies than I have I'll give you a Trophy! @ QUEST:Catch a TON of Shinies... like a TOOOOOON.",
+                "dialogueText": "If you can catch more Shinies than I have I'll give you a Trophy! ",
                 "difficulty": "7",
                 "name": "To Trap or not to Trap",
                 "questText": "Catch a TON of Shinies... like a TOOOOOON.",
-                "DialogueText": "If you can catch more Shinies than I have I'll give you a Trophy! @ QUEST"
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -5598,11 +5619,11 @@
                     ["Redox Salts", "50"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? @ QUEST:Get some Refinery Salts to make into a pile for Snouts to fall onto.",
+                "dialogueText": "Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? ",
                 "difficulty": "4",
                 "name": "A Salty Fall",
                 "questText": "Get some Refinery Salts to make into a pile for Snouts to fall onto.",
-                "DialogueText": "Hmm... that snow has rocks in it that's no good. Can you go get me something to land on? @ QUEST"
+                "notes": " "
             },
             "Gravity VS Salt": {
                 "rewards": [
@@ -5613,11 +5634,11 @@
                     ["Explosive Salts", "75"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Do you have anything else I could land on? @ QUEST:Get some Orange Refinery Salts hopefully they wont react with the snow.",
+                "dialogueText": "Do you have anything else I could land on? ",
                 "difficulty": "5",
                 "name": "Gravity VS Salt",
                 "questText": "Get some Orange Refinery Salts hopefully they wont react with the snow.",
-                "DialogueText": "Do you have anything else I could land on? @ QUEST"
+                "notes": " "
             },
             "Big Ol Chonker": {
                 "rewards": [
@@ -5626,11 +5647,11 @@
                 ],
                 "requirements": ["Defeat_Giant_Stache_Mob: >= 1. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! @ QUEST:Defeat a giant monster. You need a Prayer for giants to spawn at all remember.",
+                "dialogueText": "Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! ",
                 "difficulty": "5",
                 "name": "Big Ol Chonker",
                 "questText": "Defeat a giant monster. You need a Prayer for giants to spawn at all remember.",
-                "DialogueText": "Apparently theres a Prayer that summons GIANT monsters. Maybe if you manage to kill one on this map you can push its body under me as a cushion! @ QUEST"
+                "notes": " "
             }
         },
         "Dialogue": [

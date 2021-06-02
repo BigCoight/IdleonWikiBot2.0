@@ -2,7 +2,7 @@
 |title=Xylobone
 |order=13
 |category=Frostfire Tyundra
-|effect=+{%_Critical_Chance
+|effect=+{% Critical Chance
 |bonus=1
 |reqtier=15
 |source=[[Xylobone]]

@@ -2,7 +2,7 @@
 |title=Bop Box
 |order=10
 |category=Frostfire Tyundra
-|effect=+{%_Total_Drop_Rate
+|effect=+{% Total Drop Rate
 |bonus=3
 |reqtier=17
 |source=[[Bop Box]]

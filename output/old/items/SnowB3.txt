@@ -3,10 +3,11 @@
 |description=Click the pen on, then hold it down against your desk and let go, and BAM that baby will fly you straight to the principal's office!
 |sellprice=200
 |source=[[Penguin]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Penguin]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#Visible Ink|Visible Ink]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Visible Ink]]|Lots|Alchemy}}
 |}

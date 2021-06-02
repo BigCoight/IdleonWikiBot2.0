@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Walking Stick_Walking.gif
+|image=Walking Stick Walking.gif
 |attack=20
 |health=1500
 |defence=150
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Rat|Nutto}}
-{{DropTable/head}}
 {{DropTable/coin|90|.3}}
 {{DropTable/row|Stick|0.21|1}}
 {{DropTable/card|0.000060}}

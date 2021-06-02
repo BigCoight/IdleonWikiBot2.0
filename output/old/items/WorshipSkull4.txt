@@ -6,13 +6,15 @@
 |wis=10
 |upgrade=2
 |sellprice=281600
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=18
+|craftnum=19
 |levelreq=40
 |expgiven=225000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Rooted Soul|quantity1=12500
 |resource2=Redox Salts|quantity2=50
 |resource3=Horned Skull|quantity3=2
@@ -20,16 +22,15 @@
 {{usedin/head}}
 {{usedin/row|[[Manifested Skull]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul3|12500}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|WorshipSkull3|2}}
-{{detrecipe|40|Soul2|2400}}
-{{detrecipe|40|Refinery1|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul3|12500}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Soul2|2400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Rooted Soul|12500}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Horned Skull|2}}
+{{detrecipe|40|Dune Soul|2400}}
+{{detrecipe|40|Redox Salts|50}}
+|tot=
+{{detrecipe/totals|Rooted Soul|12500}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Dune Soul|2400}}
+}}

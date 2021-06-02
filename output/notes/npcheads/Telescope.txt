@@ -1,0 +1,11 @@
+{{npc
+|location=Where The Branches End
+|noquest=1
+|repeatable=Unknown
+|birthweight=8.82
+|starsign=Sagittarius
+|mmm=Harris
+|notes=The [[Telescope]] is found in [[Worlds#T3 - Where the Branches End|Where the Branches End]], the third zone of the tree, located at the top left of the area.
+
+Reaching and using the Telescope allows the players character to change [[Star Signs]] and unlock new Star Signs if they have enough Star Chart Points.
+}}

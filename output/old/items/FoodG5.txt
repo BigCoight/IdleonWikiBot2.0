@@ -3,6 +3,7 @@
 |description=Increases Skill EXP earned from all skills by [%. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[SuperDropTable3]]
+|notes= 
 }}
 {{gfoodbonus|18|Increases Skill EXP earned from all skills by [%.}}
 {{detdrops/head}}
@@ -13,7 +14,7 @@
 {{detdrops|[[Xylobone]]|0.00003|1.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.003|1.0}}
 {{detdrops|[[Bloque]]|0.0000075|1.0}}
-{{detdrops|[[mamooth]]|0.0000081|1.0}}
+{{detdrops|[[Mamooth]]|0.0000081|1.0}}
 {{detdrops|[[Snowman]]|0.0000087|1.0}}
 {{detdrops|[[Penguin]]|0.000009299999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.0000099|1.0}}

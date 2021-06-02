@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Floofie
 |order=6
-|category=NYI
-|effect=+{%_MP_regen_rate
+|category=Event
+|effect=+{% MP regen rate
 |bonus=3
 |reqtier=3
 |source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]]

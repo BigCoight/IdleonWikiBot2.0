@@ -1,18 +1,18 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Taurus
-|mmm=Schutz
-|birthweight=3.51
-|notes=fillme
+{{npc
+|location=Secret
+|noquest=2
+|repeatable=Unknown
+|birthweight=7.2
+|starsign=Aries
+|mmm=Rodriguez
+|notes=[[Meel]] is found in The Crypt, a hidden area past [[Worlds#S3 - The Office|The Office]] in the Sewers. See [[Secrets#The_Crypt|Secrets]] for more details.
 }}
 {{Quest/head}}
 {{Quest
 |name=Spooky Scary Skelepoops
 |text=Defeat the Boops!
 |difficulty=3
-|requirements=Boops Bopped: >= 30. Starting at 0. 
+|requirements=Boops Bopped: >= 30. Starting at 0.
 |consumed=No
 |rewards=25x {{CraftReq|Gem}}
 }}

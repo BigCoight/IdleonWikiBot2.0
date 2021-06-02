@@ -2,10 +2,10 @@
 |type=Soul
 |description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
 |sellprice=3
-|source=Worshiping?, [[Forest Soul]], [[Forest Soul]], [[Forest Soul]], [[Forest Soul]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Worship]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Forest Soul]]|1|1}}
 {{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
 |}
 {{usedin/head}}
@@ -13,7 +13,7 @@
 {{usedin/row|[[Small Soul Pouch]]|200|Crafting}}
 {{usedin/row|[[Dementia Body]]|1000|Crafting}}
 {{usedin/row|[[Blizzard Bow]]|7000|Crafting}}
-{{usedin/row|[[Quicc Cauldron#Bow Jack|Bow Jack]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Purple Bargain|Purple Bargain]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Sippy Soul|Sippy Soul]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Bow Jack]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Purple Bargain]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Sippy Soul]]|Lots|Alchemy}}
 |}

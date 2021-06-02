@@ -3,6 +3,7 @@
 |description=Hold down to add a Silver Pen to your Post-Office! You can use it to skip a Delivery!
 |sellprice=50
 |source=[[SuperDropTable1]], [[SuperDropTable2]], [[SuperDropTable3]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.000168|1.0}}
@@ -71,9 +72,6 @@
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.00000648|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.00000648|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000008099999999999999|2.0}}
-{{detdrops|[[Frigid Soul]]|0.000008099999999999999|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.000008099999999999999|1.0}}
-{{detdrops|[[Bandit Bob]]|0.000008099999999999999|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.000008099999999999999|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000008099999999999999|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000008099999999999999|1.0}}
@@ -84,7 +82,7 @@
 {{detdrops|[[Xylobone]]|0.0000054|1.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.00054|1.0}}
 {{detdrops|[[Bloque]]|0.00000135|1.0}}
-{{detdrops|[[mamooth]]|0.000001458|1.0}}
+{{detdrops|[[Mamooth]]|0.000001458|1.0}}
 {{detdrops|[[Snowman]]|0.000001566|1.0}}
 {{detdrops|[[Penguin]]|0.0000016739999999999998|1.0}}
 {{detdrops|[[Thermister]]|0.000001782|1.0}}

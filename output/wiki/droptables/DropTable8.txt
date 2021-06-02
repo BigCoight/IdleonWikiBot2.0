@@ -1,8 +1,6 @@
-{{DropTable/head}}
 {{DropTable/row|Midnight Cookie|{{#expr: {{{chance}}}*.003}}|1}}
 {{DropTable/row|Decent Life Potion|{{#expr: {{{chance}}}*.4}}|25}}
 {{DropTable/row|Buzz Buzz Stamp|{{#expr: {{{chance}}}*0.00015}}|1}}
 {{DropTable/row|Cauldron Statue|{{#expr: {{{chance}}}*.07}}|1}}
 {{DropTable/row|Silver WIS Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}
-|}

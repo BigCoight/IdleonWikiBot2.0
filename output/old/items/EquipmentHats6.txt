@@ -9,6 +9,7 @@
 |upgrade=2
 |sellprice=150
 |source=[[Frog]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.00025|1}}

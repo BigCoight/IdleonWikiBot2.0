@@ -2,7 +2,7 @@
 |title=Forest Soul
 |order=10
 |category=Medium Resources
-|effect=+{%_Defence_from_Equipment
+|effect=+{% Defence from Equipment
 |bonus=3
 |reqtier=3
 }}

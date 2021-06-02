@@ -1,0 +1,11 @@
+{{npc
+|location=The Mimic Hole
+|noquest=3
+|repeatable=Unknown
+|birthweight=4.16
+|starsign=Aries
+|mmm=Jones
+|notes=[[Snake Jar]] sits at the bottom of [[Worlds#D2 - The Mimic Hole|The Mimic Hole]], near the portal to [[Bandit Bob]].
+
+You must increase your HP and/or Defence in order to survive his final quest.
+}}

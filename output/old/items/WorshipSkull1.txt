@@ -7,6 +7,7 @@
 |upgrade=1
 |sellprice=5000
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Frostbite Towndra|stock=99|buyprice=20000}}

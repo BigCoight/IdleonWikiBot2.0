@@ -3,10 +3,11 @@
 |description=It's the only transparent item in IdleOn! If they weren't, they'd just be pirate eyepatches after all...
 |sellprice=200
 |source=[[Neyeptune]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#40-40 Purity|40-40 Purity]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|40-40 Purity]]|Lots|Alchemy}}
 |}

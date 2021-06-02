@@ -3,11 +3,12 @@
 |description=Ew why did you pick this up?
 |sellprice=90
 |source=[[Rat]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.19|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Vials#Tail Time|Tail Time]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Tail Time]]|Lots|Alchemy}}
 |}

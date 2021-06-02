@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Egggulyte
 |order=8
-|category=NYI
-|effect=+{%_Card_Drop_Chance
+|category=Event
+|effect=+{% Card Drop Chance
 |bonus=1
 |reqtier=1.5
 }}

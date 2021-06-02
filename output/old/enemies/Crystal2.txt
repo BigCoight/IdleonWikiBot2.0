@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Crystal Cattle_Walking.gif
+|image=Crystal Cattle Walking.gif
 |attack=1
 |health=1000000
 |defence=180
@@ -11,12 +11,11 @@
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
-{{EnemyNavigation|Bloodbone|Wispy Tree}}
-{{DropTable/head}}
+{{EnemyNavigation|Bloodbone|Baba Yaga}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.008}}
-{{DropTable/row|Crystallin|.1|1|([[Papua_Piggea]])}}
-{{DropTable/talentQuest Chungus|.005}}}}
+{{DropTable/row|Crystallin|.1|1|([[Papua Piggea]])}}
+{{DropTable/talent|Quest Chungus|.005}}}}
 {{DropTable6|chance=.6}}
 {{DropTable7|chance=.5}}
 {{DropTable8|chance=.4}}

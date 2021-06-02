@@ -12,6 +12,7 @@ Love Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Leafy Ring
 {{InfoItem
@@ -27,6 +28,7 @@ Leafy Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Wealth Ring
 {{InfoItem
@@ -42,6 +44,7 @@ Wealth Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Bob Ring
 {{InfoItem
@@ -57,6 +60,7 @@ Bob Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Bubble Ring
 {{InfoItem
@@ -71,6 +75,7 @@ Bubble Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Cthulu's Ring
 {{InfoItem
@@ -86,6 +91,7 @@ Cthulu's Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}
 Lava Sez Buy More Gems
 {{InfoItem
@@ -100,6 +106,8 @@ Lava Sez Buy More Gems
 |misc=-1% Self Esteem
 |upgrade=3
 |sellprice=2500
+|source=[[Gem Shop]]
+|notes= 
 }}
 HONK Ring
 {{InfoItem
@@ -115,4 +123,5 @@ HONK Ring
 |upgrade=3
 |sellprice=2500
 |source=[[Gem Shop]]
+|notes= 
 }}

@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Virgo
-|mmm=Bongard
-|birthweight=8.76
+|starsign=Libra
+|mmm=Ebner
+|birthweight=7.55
 |notes=fillme
 }}
 {{Quest/head}}

@@ -8,4 +8,5 @@
 |sellprice=3
 |rarity=Silver
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}

@@ -2,7 +2,7 @@
 |title=Oak Logs
 |order=4
 |category=Easy Resources
-|effect=+{_Base_Defence
+|effect=+{ Base Defence
 |bonus=3
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Oak Tree]]

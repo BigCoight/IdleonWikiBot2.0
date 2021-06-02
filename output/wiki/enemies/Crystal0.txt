@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Crystal Carrot_Walking.gif
+|image=Crystal Carrot Walking.gif
 |attack=0
 |health=1
 |defence=150
@@ -13,11 +13,10 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Nutto|Wood Mushroom}}
-{{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.01}}
-{{DropTable/row|Crystallin|.1|1|([[Papua_Piggea]])}}
-{{DropTable/talentQuest Chungus|.005}}}}
+{{DropTable/row|Crystallin|.1|1|([[Papua Piggea]])}}
+{{DropTable/talent|Quest Chungus|.005}}}}
 {{DropTable1|chance=.6}}
 {{DropTable2|chance=.5}}
 {{DropTable3|chance=.4}}

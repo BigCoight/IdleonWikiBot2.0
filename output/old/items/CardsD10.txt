@@ -2,13 +2,11 @@
 |title=Sentient Cereal
 |order=8
 |category=Medium Resources
-|effect=+{%_Catching_EXP
+|effect=+{% Catching EXP
 |bonus=5
 |reqtier=10
-|source=[[Rooted Soul]], [[Scorpie]], [[Catching#Drops|Catching Sentient Cereal]]
+|source=[[Catching#Drops|Catching Sentient Cereal]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Rooted Soul]]|0.00016|1}}
-{{detdrops|[[Scorpie]]|0.00016|1}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00016|1}}
 |}

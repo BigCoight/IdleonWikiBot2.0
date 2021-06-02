@@ -3,7 +3,9 @@ Fly
 |type=Bug
 |description=I don't know whyyyy she swallowed a flyyy, perhaps she'll cry from being perpetually made fun of in the form of a nursey rhyme just because she made one bad decision... er, die!
 |sellprice=3
-|source=Catching, [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
+|source=[[Catching]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|65}}
@@ -15,16 +17,18 @@ Fly
 {{usedin/row|[[Bullet]]|10|Crafting}}
 {{usedin/row|[[Bandito Boots]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Wyoming Blood|Wyoming Blood]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Droppin Loads|Droppin Loads]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Fly In My Drink|Fly In My Drink]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Wyoming Blood]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Droppin Loads]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Fly In My Drink]]|Lots|Alchemy}}
 |}
 Butterfly
 {{InfoItem
 |type=Bug
-|description=Butter Fly? Get it??? Soryy... I promise I wont make this kind of joke again
+|description=Butter Fly? Get it??? Sorry... I promise I wont make this kind of joke again
 |sellprice=9
-|source=Catching
+|source=[[Catching]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Reinforced Net]]|850|Crafting}}
@@ -35,14 +39,16 @@ Butterfly
 {{usedin/row|[[Buttered Toasted Butter]]|5|Crafting}}
 {{usedin/row|[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]|1500|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Stamp Tramp|Stamp Tramp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Stamp Tramp]]|Lots|Alchemy}}
 |}
 Sentient Cereal
 {{InfoItem
 |type=Bug
 |description=Honestly, I was shocked too at first when I learned that cereal in real life was harvested from Cereal Bugs. Seriously, look it up! Most cereal before 1960 were made from harvested Cereal Bug Nests!
 |sellprice=15
-|source=Catching, [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Catching]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|125}}
@@ -50,30 +56,34 @@ Sentient Cereal
 {{usedin/head}}
 {{usedin/row|[[Platinum Shins]]|500|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Bug]|Bug]]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Le Brain Tools|Le Brain Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Bug]]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Le Brain Tools]]|Lots|Alchemy}}
 |}
 Fruitfly
 {{InfoItem
 |type=Bug
 |description=Hahaha I had my fingers crossed!
 |sellprice=20
-|source=Catching
+|source=[[Catching]]
+|notes= 
+|hascard=yes
 }}
 {{usedin/head}}
 {{usedin/row|[[Crows Nest]]|4000|Crafting}}
-{{usedin/row|[[Platinet]]|8000|Crafting}}
+{{usedin/row|[[Platinet]]|7000|Crafting}}
 {{usedin/row|[[Sizable Bug Pouch]]|6750|Crafting}}
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Fmj]]|Lots|Alchemy}}
 |}
 Mosquisnow
 {{InfoItem
 |type=Bug
 |description=I'm so tired of all these blood sucking vermin in IdleOn... and these mosquisnow bugs are annoying too!
 |sellprice=32
-|source=Catching, [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Catching]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|150}}
@@ -81,16 +91,18 @@ Mosquisnow
 {{usedin/head}}
 {{usedin/row|[[Dementia Net]]|15000|Crafting}}
 {{usedin/row|[[Big Bug Pouch]]|10000|Crafting}}
-{{usedin/row|[[Quicc Cauldron#Cheap Shot|Cheap Shot]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Gospel Leader|Gospel Leader]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Ew Gross Gross|Ew Gross Gross]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Cheap Shot]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Gospel Leader]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Ew Gross Gross]]|Lots|Alchemy}}
 |}
 Flycicle
 {{InfoItem
 |type=Bug
 |description=Ok these bugs are really not making any sense anymore.
 |sellprice=40
-|source=Catching, [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Catching]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|150}}
@@ -99,5 +111,5 @@ Flycicle
 {{usedin/row|[[Void Imperium Kicks]]|60000|Crafting}}
 {{usedin/row|[[Void Imperium Net]]|50000|Crafting}}
 {{usedin/row|[[Large Bug Pouch]]|35000|Crafting}}
-{{usedin/row|[[Quicc Cauldron#Fast Boi Talent|Fast Boi Talent]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Fast Boi Talent]]|Lots|Alchemy}}
 |}

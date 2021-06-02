@@ -9,26 +9,26 @@
 |upgrade=2
 |defence=12
 |sellprice=8400
-|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=33
+|craftnum=34
 |levelreq=13
 |expgiven=600
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=150
 |resource2=Jungle Logs|quantity2=600
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Platbody]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|150}}
-{{detrecipe|3|JungleTree|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|150}}
-{{detrecipe/totals|JungleTree|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|150}}
+{{detrecipe|3|Jungle Logs|600}}
+|tot=
+{{detrecipe/totals|Iron Bar|150}}
+{{detrecipe/totals|Jungle Logs|600}}
+}}

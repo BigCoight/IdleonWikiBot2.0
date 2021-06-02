@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Error_Walking.gif
+|image=Error Walking.gif
 |attack=20
 |health=69420
 |defence=1
@@ -9,6 +9,5 @@
 |defence0=12.82
 }}
 {{EnemyNavigation||}}
-{{DropTable/head}}
 {{DropTable/card|0.0000005}}
 |}

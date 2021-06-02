@@ -2,11 +2,12 @@
 |type=Monster Drop
 |description=No see, this is a mamOOth tusk, not a mammoth tusk, thats why you think it looks weird. Trust me, it's an incredibly drawn mamooth tusk, truly a work of art.
 |sellprice=200
-|source=[[mamooth]]
+|source=[[Mamooth]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[mamooth]]|0.16|1}}
+{{detdrops|[[Mamooth]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#Etruscan Lager|Etruscan Lager]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Etruscan Lager]]|Lots|Alchemy}}
 |}

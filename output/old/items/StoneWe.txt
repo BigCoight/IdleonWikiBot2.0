@@ -4,6 +4,7 @@
 |sellprice=125
 |tier=Easter
 |source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]], [[Shell Snake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Egggulyte]]|0.25|2}}

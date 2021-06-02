@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Amarok
 |order=3
-|category=Event
-|effect=+{%_Skill_AFK_gain_rate
+|category=Bosses
+|effect=+{% Skill AFK gain rate
 |bonus=2.5
 |reqtier=1.5
 |source=[[Amarok]], [[Nightmare Amarok]]

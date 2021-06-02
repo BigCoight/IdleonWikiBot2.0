@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Chaotic Efaunt
 |order=8
-|category=Event
-|effect=+{%_Skill_EXP
+|category=Bosses
+|effect=+{% Skill EXP
 |bonus=3.75
 |reqtier=1.5
 |source=[[Chaotic Efaunt]], [[Chaotic Chizoar]]

@@ -2,7 +2,7 @@
 |title=Sheepie
 |order=0
 |category=Frostfire Tyundra
-|effect=+{%_Defence_from_Equipment
+|effect=+{% Defence from Equipment
 |bonus=3
 |reqtier=11
 |source=[[Sheepie]]

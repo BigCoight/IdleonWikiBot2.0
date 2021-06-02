@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Nightmare Amarok_Walking.gif
+|image=Nightmare Amarok Walking.gif
 |attack=1000
 |health=750000
 |defence=600
@@ -9,7 +9,6 @@
 |defence0=1223.26
 }}
 {{EnemyNavigation||}}
-{{DropTable/head}}
 {{DropTable/coin|4000|1}}
 {{DropTable/card|0.01}}
 {{DropTable/row|Midnight Cookie|0.07|1}}

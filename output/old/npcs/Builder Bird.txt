@@ -1,0 +1,34 @@
+{{npc
+|location=Blunder Hills
+|noquest=1
+|repeatable=Unknown
+|birthweight=8.43
+|starsign=Aries
+|mmm=Wilson
+|notes=[[Builder Bird]] is found in the [[Worlds#G1 - Blunder Hills|starting town]], located in the top right section of the area.
+
+Upon completing his quest the player gains access to the portal to [[Worlds#D0 - YumYum Grotto|World 2 - Yum Yum Desert]] that is located next to Builder Bird.
+
+'''Note:''' Unlocking the portal with one character unlocks it for all characters on your account.
+}}
+{{Quest/head}}
+{{Quest
+|name=Restoring Power to the Portal
+|difficulty=4
+|requirements=1x {{CraftReq|Desert Topaz}}
+|consumed=Yes
+|rewards=2x {{CraftReq|Small Experience Balloon}}, {{Coindisplay|2500}}
+}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Kacaw!!
+}}
+{{dialogue/row
+|text=Kacaw! @ 'The bird awaits the return of the town gem. They're ready to restore the gem to the portal allowing travel to World 2. They look very stylish in their matching orange hat and scarf.'
+|quest=Restoring Power to the Portal
+}}
+{{dialogue/row
+|text=Kacaw! Kacaw! @ 'The bird looks very happy with itself after successfully restoring the portal.'
+}}
+|}

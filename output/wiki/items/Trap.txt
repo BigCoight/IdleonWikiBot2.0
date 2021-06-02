@@ -2,94 +2,107 @@ Cardboard Traps
 {{InfoItem
 |class=All
 |level=1
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=4
+|speed=4
+|skillpower=4
 |agi=2
 |upgrade=1
 |sellprice=5000
-|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|1|Quests}}
+{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|1|Quests}}
 |}
 Silkskin Traps
 {{InfoItem
 |class=All
 |level=10
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=8
+|speed=4
+|skillpower=8
 |agi=4
 |upgrade=1
 |sellprice=600
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=80
+|craftnum=81
 |levelreq=16
 |expgiven=750
-|recipefrom=Start
+|recipefrom=
 |resource1=Poison Froge|quantity1=1
 |resource2=Redox Salts|quantity2=5
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Critter1A|1}}
-{{detrecipe|3|Refinery1|5}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter1A|1}}
-{{detrecipe/totals|Refinery1|5}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Poison Froge|1}}
+{{detrecipe|3|Redox Salts|5}}
+|tot=
+{{detrecipe/totals|Poison Froge|1}}
+{{detrecipe/totals|Redox Salts|5}}
+}}
 Wooden Traps
 {{InfoItem
 |class=All
 |level=20
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=13
+|speed=4
+|skillpower=13
 |agi=7
 |upgrade=2
 |sellprice=6000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=68
+|craftnum=69
 |levelreq=29
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Mutant Crabbo|quantity1=2
 |resource2=Redox Salts|quantity2=20
 }}
 {{usedin/head}}
 {{usedin/row|[[Natural Traps]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter2A|2}}
-{{detrecipe|3|Refinery1|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter2A|2}}
-{{detrecipe/totals|Refinery1|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mutant Crabbo|2}}
+{{detrecipe|3|Redox Salts|20}}
+|tot=
+{{detrecipe/totals|Mutant Crabbo|2}}
+{{detrecipe/totals|Redox Salts|20}}
+}}
 Natural Traps
 {{InfoItem
 |class=All
 |level=30
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=20
+|speed=4
+|skillpower=20
 |agi=10
 |upgrade=2
 |sellprice=17015
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=16
+|craftnum=17
 |levelreq=40
 |expgiven=225000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Nakeo Moleo|quantity1=5
 |resource2=Redox Salts|quantity2=50
 |resource3=Wooden Traps|quantity3=2
@@ -97,61 +110,66 @@ Natural Traps
 {{usedin/head}}
 {{usedin/row|[[Steel Traps]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter4A|5}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|TrapBoxSet3|2}}
-{{detrecipe|40|Critter2A|4}}
-{{detrecipe|40|Refinery1|40}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter4A|5}}
-{{detrecipe/totals|Refinery1|90}}
-{{detrecipe/totals|Critter2A|4}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Nakeo Moleo|5}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Wooden Traps|2}}
+{{detrecipe|40|Mutant Crabbo|4}}
+{{detrecipe|40|Redox Salts|40}}
+|tot=
+{{detrecipe/totals|Nakeo Moleo|5}}
+{{detrecipe/totals|Redox Salts|90}}
+{{detrecipe/totals|Mutant Crabbo|4}}
+}}
 Steel Traps
 {{InfoItem
 |class=All
 |level=40
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=26
+|speed=4
+|skillpower=26
 |agi=12
 |upgrade=3
 |sellprice=17033
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=40
+|craftnum=41
 |levelreq=46
 |expgiven=500000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Eternal Lord of  The Undying Ember|quantity1=6
 |resource2=Natural Traps|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Critter6A|6}}
-{{detrecipe|3|TrapBoxSet4|1}}
-{{detrecipe|40|Critter4A|5}}
-{{detrecipe|40|Refinery1|50}}
-{{detrecipe|40|TrapBoxSet3|2}}
-{{detrecipe|80|Critter2A|4}}
-{{detrecipe|80|Refinery1|40}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter6A|6}}
-{{detrecipe/totals|Critter4A|5}}
-{{detrecipe/totals|Refinery1|90}}
-{{detrecipe/totals|Critter2A|4}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe|3|Natural Traps|1}}
+{{detrecipe|40|Nakeo Moleo|5}}
+{{detrecipe|40|Redox Salts|50}}
+{{detrecipe|40|Wooden Traps|2}}
+{{detrecipe|80|Mutant Crabbo|4}}
+{{detrecipe|80|Redox Salts|40}}
+|tot=
+{{detrecipe/totals|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe/totals|Nakeo Moleo|5}}
+{{detrecipe/totals|Redox Salts|90}}
+{{detrecipe/totals|Mutant Crabbo|4}}
+}}
 Royal Traps
 {{InfoItem
 |class=All
 |level=50
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=34
+|speed=4
+|skillpower=34
 |agi=15
 |upgrade=4
 |sellprice=5
+|notes= 
 }}

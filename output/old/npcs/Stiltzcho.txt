@@ -1,18 +1,20 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+{{npc
+|location=Jungle Perimeter
+|noquest=6
+|repeatable=Unknown
+|birthweight=2.73
 |starsign=Capricorn
-|mmm=Nelson
-|birthweight=3.28
-|notes=fillme
+|mmm=Wilson
+|notes=[[Stiltzcho]] is found in [[Worlds#J1 - Jungle Perimeter|Jungle Perimeter]], the first zone of the Jungle, located to the left of the area. His quests can be considered a DPS and skill check for progressing [[Scripticus]]' questline. Dropping a [[Grass Leaf]] on him is a possible daily [[Tasks#Blunder Hills|Task]].
+
+His final quest awards the {{CraftReq|Stiltzcho Token}}.
 }}
 {{Quest/head}}
 {{Quest
 |name=Outta the Way Slimes
 |text=Kill 12 Slimes before time runs out
 |difficulty=3
-|requirements=Slimes Defeated >= 12. Starting at 0. Time Left: >= 1. Starting at 115. 
+|requirements=Slimes Defeated >= 12. Starting at 0., Time Left: >= 1. Starting at 115.
 |consumed=No
 |rewards=3x {{CraftReq|Speed Statue}}, 25x {{CraftReq|Average Speed Potion}}, 1000 Class Experience
 }}
@@ -22,7 +24,7 @@
 |difficulty=3
 |requirements=5x {{CraftReq|Strange Rock}}
 |consumed=Yes
-|rewards=2x {{CraftReq|Speed Statue}}, 1x {{CraftReq|Small Experience Balloon}}, 1000x {{CraftReq|COIN}}
+|rewards=2x {{CraftReq|Speed Statue}}, 1x {{CraftReq|Small Experience Balloon}}, {{Coindisplay|1000}}
 }}
 {{Quest
 |name=Investigator by Day, Prankster by Night
@@ -36,25 +38,28 @@
 |name=Time Crime Episode 1
 |text=Investigate Green Spores near town to see which one is stealing Stiltzcho's time.
 |difficulty=2
-|requirements=AFK at Spores: >= 14400. Starting at 0. 
+|requirements=AFK at Spores: >= 14400. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|2 HR Time Candy}}, 4000 Class Experience
+|notes=The time spent AFK does not have to be all in one go.
 }}
 {{Quest
 |name=Time Crime Episode 2
 |text=Investigate Frogs to see which one is has been hoppin' away with Stiltzcho's time!
 |difficulty=2
-|requirements=AFK at Frogs: >= 28800. Starting at 0. 
+|requirements=AFK at Frogs: >= 28800. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|4 HR Time Candy}}, 4000 Class Experience
+|notes=The time spent AFK does not have to be all in one go.
 }}
 {{Quest
 |name=Time Crime Season Finale
 |text=Investigate Slimes to see which  of these slimeballs is the real thief of with Stiltzcho's time!!
 |difficulty=3
-|requirements=AFK at Slimes: >= 57600. Starting at 0. 
+|requirements=AFK at Slimes: >= 57600. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Stiltzcho Token}}, 1x {{CraftReq|24 HR Time Candy}}, 4000 Class Experience
+|notes=The time spent AFK does not have to be all in one go.
 }}
 |}
 {{dialogue/head}}

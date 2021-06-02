@@ -34,7 +34,6 @@
         "EquipmentRingsChat6",
         "EquipmentRingsChat3",
         "EquipmentRingsChat9",
-        "EquipmentHats38",
         "EquipmentHats35",
         "EquipmentHats50",
         "EquipmentHats49",
@@ -53,8 +52,14 @@
         "EquipmentHats38",
         "EquipmentHats32",
         "EquipmentHats37",
-        "EquipmentHats35",
-        "EquipmentHats40"
+        "EquipmentHats40",
+        "EquipmentHats36",
+        "CardPack3",
+        "EquipmentRingsChat8",
+        "EquipmentHats43",
+        "EquipmentHats45",
+        "EquipmentHats57",
+        "EquipmentHats62"
     ],
     "Starter Hat": [
         "EquipmentHats14",
@@ -133,5 +138,19 @@
         "ObolSilver2",
         "ObolSilver3"
     ],
-    "[[Alchemy#Liquid Shop|Weak UPG Stone]]": ["StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"]
+    "[[Alchemy#Liquid Shop|Weak UPG Stone]]": ["StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"],
+    "[[Trapping]]": [
+        "CritterCard1",
+        "CritterCard2",
+        "CritterCard3",
+        "CritterCard4",
+        "CritterCard5",
+        "CritterCard6",
+        "CritterCard7"
+    ],
+    "[[Worship]]": ["SoulCard1", "SoulCard2", "SoulCard3", "SoulCard4", "SoulCard5"],
+    "[[Construction#Refinery|Refinery]]": ["Refinery1", "Refinery2", "Refinery3", "Refinery4"],
+    "[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]": ["Quest11"],
+    "Has a 1/1M chance to drop from active kills if the Blue Hedgehog [[Star Signs|Starsign]] is equipped.": ["EquipmentRings15"],
+    "[[Alchemy#Level up Gift|Level up Gift (however this item has no use anymore)]]": ["Quest26"]
 }

@@ -8,13 +8,15 @@
 |upgrade=2
 |defence=7
 |sellprice=1755
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=17
+|craftnum=18
 |levelreq=7
 |expgiven=55
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=45
 |resource2=Trusty Nails|quantity2=120
 }}
@@ -23,12 +25,11 @@
 {{usedin/row|[[Gold Platebody]]|5|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|45}}
-{{detrecipe|3|CraftMat5|120}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|45}}
-{{detrecipe/totals|CraftMat5|120}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|45}}
+{{detrecipe|3|Trusty Nails|120}}
+|tot=
+{{detrecipe/totals|Copper Bar|45}}
+{{detrecipe/totals|Trusty Nails|120}}
+}}

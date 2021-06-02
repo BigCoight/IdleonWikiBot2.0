@@ -2,12 +2,15 @@ Wax Skull
 {{InfoItem
 |class=All
 |level=1
+|skill=worship
 |type=Worship Skull
-|weaponpower=4
+|speed=4
+|skillpower=4
 |wis=2
 |upgrade=1
 |sellprice=5000
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
@@ -16,77 +19,87 @@ Ceramic Skull
 {{InfoItem
 |class=All
 |level=10
+|skill=worship
 |type=Worship Skull
-|weaponpower=8
+|speed=5
+|skillpower=8
 |wis=4
 |upgrade=1
 |sellprice=1250
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=82
+|craftnum=83
 |levelreq=16
 |expgiven=750
-|recipefrom=Start
+|recipefrom=
 |resource1=Forest Soul|quantity1=250
 |resource2=Redox Salts|quantity2=5
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Soul1|250}}
-{{detrecipe|3|Refinery1|5}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul1|250}}
-{{detrecipe/totals|Refinery1|5}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Soul|250}}
+{{detrecipe|3|Redox Salts|5}}
+|tot=
+{{detrecipe/totals|Forest Soul|250}}
+{{detrecipe/totals|Redox Salts|5}}
+}}
 Horned Skull
 {{InfoItem
 |class=All
 |level=25
+|skill=worship
 |type=Worship Skull
-|weaponpower=13
+|speed=5
+|skillpower=13
 |wis=7
 |upgrade=2
 |sellprice=13300
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=70
+|craftnum=71
 |levelreq=29
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Dune Soul|quantity1=1200
 |resource2=Redox Salts|quantity2=25
 }}
 {{usedin/head}}
 {{usedin/row|[[Prickle Skull]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul2|1200}}
-{{detrecipe|3|Refinery1|25}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul2|1200}}
-{{detrecipe/totals|Refinery1|25}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dune Soul|1200}}
+{{detrecipe|3|Redox Salts|25}}
+|tot=
+{{detrecipe/totals|Dune Soul|1200}}
+{{detrecipe/totals|Redox Salts|25}}
+}}
 Prickle Skull
 {{InfoItem
 |class=All
 |level=35
+|skill=worship
 |type=Worship Skull
-|weaponpower=20
+|speed=6
+|skillpower=20
 |wis=10
 |upgrade=2
 |sellprice=281600
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=18
+|craftnum=19
 |levelreq=40
 |expgiven=225000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Rooted Soul|quantity1=12500
 |resource2=Redox Salts|quantity2=50
 |resource3=Horned Skull|quantity3=2
@@ -94,61 +107,66 @@ Prickle Skull
 {{usedin/head}}
 {{usedin/row|[[Manifested Skull]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul3|12500}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|WorshipSkull3|2}}
-{{detrecipe|40|Soul2|2400}}
-{{detrecipe|40|Refinery1|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul3|12500}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Soul2|2400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Rooted Soul|12500}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Horned Skull|2}}
+{{detrecipe|40|Dune Soul|2400}}
+{{detrecipe|40|Redox Salts|50}}
+|tot=
+{{detrecipe/totals|Rooted Soul|12500}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Dune Soul|2400}}
+}}
 Manifested Skull
 {{InfoItem
 |class=All
 |level=55
+|skill=worship
 |type=Worship Skull
-|weaponpower=26
+|speed=7
+|skillpower=26
 |wis=12
 |upgrade=3
 |sellprice=2313200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=42
+|craftnum=43
 |levelreq=46
 |expgiven=500000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Frigid Soul|quantity1=50000
 |resource2=Prickle Skull|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Soul4|50000}}
-{{detrecipe|3|WorshipSkull4|2}}
-{{detrecipe|40|Soul3|25000}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|WorshipSkull3|4}}
-{{detrecipe|80|Soul2|4800}}
-{{detrecipe|80|Refinery1|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul4|50000}}
-{{detrecipe/totals|Soul3|25000}}
-{{detrecipe/totals|Refinery1|200}}
-{{detrecipe/totals|Soul2|4800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frigid Soul|50000}}
+{{detrecipe|3|Prickle Skull|2}}
+{{detrecipe|40|Rooted Soul|25000}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Horned Skull|4}}
+{{detrecipe|80|Dune Soul|4800}}
+{{detrecipe|80|Redox Salts|100}}
+|tot=
+{{detrecipe/totals|Frigid Soul|50000}}
+{{detrecipe/totals|Rooted Soul|25000}}
+{{detrecipe/totals|Redox Salts|200}}
+{{detrecipe/totals|Dune Soul|4800}}
+}}
 Wax Skull
 {{InfoItem
 |class=All
 |level=70
+|skill=worship
 |type=Worship Skull
-|weaponpower=34
+|speed=4
+|skillpower=34
 |wis=15
 |upgrade=4
 |sellprice=100
+|notes= 
 }}

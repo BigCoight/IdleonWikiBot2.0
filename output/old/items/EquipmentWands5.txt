@@ -9,10 +9,12 @@
 |reach=145
 |upgrade=3
 |sellprice=46250
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=7
+|craftnum=8
 |levelreq=17
 |expgiven=1900
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -24,17 +26,16 @@
 {{usedin/row|[[Crows Nest]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat7|1000}}
-{{detrecipe|3|EquipmentWands2|3}}
-{{detrecipe|40|Jungle1|375}}
-{{detrecipe|40|CopperBar|300}}
-{{detrecipe|3|PureWater|8}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat7|1000}}
-{{detrecipe/totals|Jungle1|375}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|PureWater|8}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Chain Link|1000}}
+{{detrecipe|3|Quarterstaff|3}}
+{{detrecipe|40|Slime Sludge|375}}
+{{detrecipe|40|Copper Bar|300}}
+{{detrecipe|3|Distilled Water|8}}
+|tot=
+{{detrecipe/totals|Chain Link|1000}}
+{{detrecipe/totals|Slime Sludge|375}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Distilled Water|8}}
+}}

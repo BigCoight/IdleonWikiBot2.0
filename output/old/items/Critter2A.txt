@@ -2,9 +2,10 @@
 |type=Critter
 |description=Argghgg, yershpend inall memuh knee!!... Yea, mutants can't speak very well, probably on account of the radiation poisioning and all that.
 |sellprice=2000
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Wooden Traps]]|2|Crafting}}
-{{usedin/row|[[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|1|Quests}}
+{{usedin/row|[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|1|Quests}}
 |}

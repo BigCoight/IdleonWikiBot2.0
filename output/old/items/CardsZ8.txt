@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Chizoar
 |order=9
-|category=Event
-|effect=+{%_Cog_Build_Spd_(Passive)
+|category=Bosses
+|effect=+{% Cog Build Spd (Passive)
 |bonus=10
 |reqtier=1.5
 }}

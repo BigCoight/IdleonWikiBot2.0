@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Forest Soul_Walking.gif
+|image=Forest Soul Walking.gif
 |attack=1000
 |health=420
 |defence=600
@@ -9,7 +9,6 @@
 |defence0=1223.26
 }}
 {{EnemyNavigation||}}
-{{DropTable/head}}
 {{DropTable/card|0.00022}}
 {{DropTable/row|Forest Soul|1|1}}
 {{DropTable/row|Forest Soul|1|1}}

@@ -2,7 +2,7 @@
 |title=Mashed Potato
 |order=6
 |category=Yum Yum Desert
-|effect=+{%_Critical_Damage
+|effect=+{% Critical Damage
 |bonus=3
 |reqtier=10
 |source=[[Mashed Potato]]

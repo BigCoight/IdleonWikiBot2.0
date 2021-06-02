@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Floofie_Walking.gif
+|image=Floofie Walking.gif
 |attack=0
 |health=500
 |defence=1
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Chocco Box|Shell Snake}}
-{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Egg Capsule|0.1|1}}

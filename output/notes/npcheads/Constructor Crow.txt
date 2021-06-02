@@ -1,0 +1,11 @@
+{{npc
+|location=YumYum Grotto
+|noquest=1
+|repeatable=Unknown
+|birthweight=
+|starsign=
+|mmm=
+|notes=[[Constructor Crow]] is found in the top left of [[Worlds#D0 - YumYum Grotto|YumYum Grotto]], next to the portal to World 3.
+
+World 3 will be available in version 1.20.
+}}

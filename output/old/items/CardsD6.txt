@@ -2,7 +2,7 @@
 |title=Veiny Logs
 |order=6
 |category=Medium Resources
-|effect=+{%_Total_Accuracy
+|effect=+{% Total Accuracy
 |bonus=3
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Stump Tree]]

@@ -1,10 +1,10 @@
 {{InfoItem
 |type=Bar
 |sellprice=1500
-|source=Forging, [[Cinder Forge]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Forging]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|80}}
 |}
 {{usedin/head}}

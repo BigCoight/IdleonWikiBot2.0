@@ -2,7 +2,7 @@
 |title=Crabbo
 |order=13
 |category=Medium Resources
-|effect=+{%_Base_HP
+|effect=+{% Trapping Efficiency
 |bonus=5
 |reqtier=4
 }}

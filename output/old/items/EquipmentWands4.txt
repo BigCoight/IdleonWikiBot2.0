@@ -10,4 +10,5 @@
 |reach=160
 |upgrade=3
 |sellprice=200
+|notes= 
 }}

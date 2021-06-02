@@ -8,22 +8,23 @@
 |agi=3
 |upgrade=2
 |sellprice=4200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=74
+|craftnum=75
 |levelreq=10
 |expgiven=200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Jungle Logs|quantity1=500
 |resource2=Fly|quantity2=400
 }}
-{{detrecipe/head}}
-{{detrecipe|3|JungleTree|500}}
-{{detrecipe|3|Bug1|400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|JungleTree|500}}
-{{detrecipe/totals|Bug1|400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Jungle Logs|500}}
+{{detrecipe|3|Fly|400}}
+|tot=
+{{detrecipe/totals|Jungle Logs|500}}
+{{detrecipe/totals|Fly|400}}
+}}

@@ -2,20 +2,11 @@
 |title=Fruitfly
 |order=9
 |category=Medium Resources
-|effect=+{%_Catching_Away_Gains
+|effect=+{% Catching Away Gains
 |bonus=2
 |reqtier=10
-|source=[[Frigid Soul]], [[Squiddy Soul]], [[Bandit Bob]], [[Mousey]], [[Owlio]], [[Pingy]], [[Bunny]], [[Dung Beat]], [[Honker]], [[Catching#Drops|Catching Fruitflies]]
+|source=[[Catching#Drops|Catching Fruitflies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Frigid Soul]]|0.00014|1}}
-{{detdrops|[[Squiddy Soul]]|0.00014|1}}
-{{detdrops|[[Bandit Bob]]|0.00014|1}}
-{{detdrops|[[Mousey]]|0.00014|1}}
-{{detdrops|[[Owlio]]|0.00014|1}}
-{{detdrops|[[Pingy]]|0.00014|1}}
-{{detdrops|[[Bunny]]|0.00014|1}}
-{{detdrops|[[Dung Beat]]|0.00014|1}}
-{{detdrops|[[Honker]]|0.00014|1}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
 |}

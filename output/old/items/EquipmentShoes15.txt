@@ -8,13 +8,15 @@
 |upgrade=2
 |defence=4
 |sellprice=11750
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=38
+|craftnum=39
 |levelreq=13
 |expgiven=600
-|recipefrom=Start
+|recipefrom=
 |resource1=Trusty Nails|quantity1=500
 |resource2=Iron Bar|quantity2=125
 |resource3=Copper Boots|quantity3=2
@@ -25,15 +27,14 @@
 {{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat5|500}}
-{{detrecipe|3|IronBar|125}}
-{{detrecipe|3|EquipmentShoes1|2}}
-{{detrecipe|40|CopperBar|250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat5|500}}
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|CopperBar|250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Trusty Nails|500}}
+{{detrecipe|3|Iron Bar|125}}
+{{detrecipe|3|Copper Boots|2}}
+{{detrecipe|40|Copper Bar|250}}
+|tot=
+{{detrecipe/totals|Trusty Nails|500}}
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Copper Bar|250}}
+}}

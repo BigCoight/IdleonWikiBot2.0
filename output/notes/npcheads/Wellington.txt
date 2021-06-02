@@ -1,0 +1,11 @@
+{{npc
+|location=Sands of Time
+|noquest=3
+|repeatable=Unknown
+|birthweight=1.69
+|starsign=Taurus
+|mmm=Brown
+|notes=[[Wellington]] is found in [[Worlds#D11 - Sands of Time|Sands of Time]].
+
+Like other piggy NPCs, his quests award stamps. For help completing his quests, see [[Secrets]].
+}}

@@ -1,8 +1,9 @@
 {{InfoItem
 |type=Leaf
 |sellprice=50
-|source=Choppin
+|source=[[Choppin]]
+|notes= 
 }}
 {{usedin/head}}
-{{usedin/row|[[Lonely_Hunter#Leaf Him Alone!|Leaf Him Alone!]]|50|Quests}}
+{{usedin/row|[[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]]|50|Quests}}
 |}

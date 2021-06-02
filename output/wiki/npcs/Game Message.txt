@@ -1,0 +1,16 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Cancer
+|mmm=DeLorenzo
+|birthweight=9.98
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Wut wuuuut!
+}}
+|}

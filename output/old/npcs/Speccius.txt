@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Libra
-|mmm=Tiernan
-|birthweight=5.79
-|notes=fillme
+{{npc
+|location=Dessert Dunes
+|noquest=2
+|repeatable=Unknown
+|birthweight=5.14
+|starsign=Gemini
+|mmm=Williams
+|notes=[[Speccius]] is found in [[Worlds#D4 - Dessert Dunes|Dessert Dunes]].
+
+Complete his quests to choose a [[Classes|subclass]] for your Mage, Archer or Warrior. After completing his quests, he drops down the rope to access the [[Choppin|Palm Tree]] and the portal to [[Worlds#D5 - The Grandioso Canyon|The Grandioso Canyon]].
 }}
 {{Quest/head}}
 {{Quest
@@ -19,9 +21,9 @@
 {{Quest
 |name=Specialization Station
 |difficulty=1
-|requirements=Select a Sub Class: >= 1. Starting at 0. 
+|requirements=Select a Sub Class: >= 1. Starting at 0.
 |consumed=No
-|rewards=10000x {{CraftReq|COIN}}
+|rewards={{Coindisplay|10000}}
 }}
 |}
 {{dialogue/head}}

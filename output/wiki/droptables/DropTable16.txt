@@ -1,7 +1,6 @@
-{{DropTable/head}}
 {{DropTable/row|Flowin Stamp|{{#expr: {{{chance}}}*.0001}}|1}}
-{{DropTable/row|Blover Stamp|{{#expr: {{{chance}}}*.00008}}|15}}
+{{DropTable/row|Blover Stamp|{{#expr: {{{chance}}}*.00008}}|1}}
+{{DropTable/row|Distilled Water|{{#expr: {{{chance}}}*.027}}|1}}
 {{DropTable/row|Average EXP Potion|{{#expr: {{{chance}}}*.1}}|25}}
 {{DropTable/row|Feasty Statue|{{#expr: {{{chance}}}*0.03}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}
-|}

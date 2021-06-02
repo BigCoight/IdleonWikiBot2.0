@@ -7,10 +7,12 @@
 |upgrade=3
 |defence=15
 |sellprice=11720
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=47
+|craftnum=48
 |levelreq=24
 |expgiven=7450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -18,21 +20,20 @@
 |resource2=Corn Kernels|quantity2=4000
 |resource3=Glass Shard|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentHats16|5}}
-{{detrecipe|40|IronBar|125}}
-{{detrecipe|40|OakTree|1000}}
-{{detrecipe|40|EquipmentHats17|10}}
-{{detrecipe|80|CopperBar|300}}
-{{detrecipe|80|Grasslands3|500}}
-{{detrecipe|3|Sewers1|4000}}
-{{detrecipe|3|DesertA1b|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|125}}
-{{detrecipe/totals|OakTree|1000}}
-{{detrecipe/totals|CopperBar|300}}
-{{detrecipe/totals|Grasslands3|500}}
-{{detrecipe/totals|DesertA1b|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Top Hat|5}}
+{{detrecipe|40|Iron Bar|125}}
+{{detrecipe|40|Oak Logs|1000}}
+{{detrecipe|40|Copper Helmet|10}}
+{{detrecipe|80|Copper Bar|300}}
+{{detrecipe|80|Bean Slices|500}}
+{{detrecipe|3|Corn Kernels|4000}}
+{{detrecipe|3|Glass Shard|2}}
+|tot=
+{{detrecipe/totals|Iron Bar|125}}
+{{detrecipe/totals|Oak Logs|1000}}
+{{detrecipe/totals|Copper Bar|300}}
+{{detrecipe/totals|Bean Slices|500}}
+{{detrecipe/totals|Glass Shard|2}}
+}}

@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Shell Snake
 |order=7
-|category=NYI
-|effect=+{_Base_LUK
+|category=Event
+|effect=+{ Base LUK
 |bonus=3
 |reqtier=3
 |source=[[Shell Snake]]

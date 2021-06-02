@@ -7,6 +7,7 @@
 |defence=3
 |sellprice=125
 |source=[[Green Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.00035|1}}

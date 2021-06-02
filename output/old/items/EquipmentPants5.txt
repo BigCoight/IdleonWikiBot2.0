@@ -8,14 +8,15 @@
 |upgrade=3
 |defence=23
 |sellprice=648890
-|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=22
+|craftnum=23
 |levelreq=31
 |expgiven=50000
-|recipefrom=Start
+|recipefrom=
 |resource1=Sentient Cereal|quantity1=500
 |resource2=Iron Platelegs|quantity2=6
 |resource3=Platinum Bar|quantity3=1250
@@ -24,17 +25,16 @@
 {{usedin/row|[[Dementia Shins]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug3|500}}
-{{detrecipe|3|EquipmentPants3|6}}
-{{detrecipe|40|IronBar|1020}}
-{{detrecipe|40|CraftMat6|1350}}
-{{detrecipe|3|PlatBar|1250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug3|500}}
-{{detrecipe/totals|IronBar|1020}}
-{{detrecipe/totals|CraftMat6|1350}}
-{{detrecipe/totals|PlatBar|1250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Sentient Cereal|500}}
+{{detrecipe|3|Iron Platelegs|6}}
+{{detrecipe|40|Iron Bar|1020}}
+{{detrecipe|40|Boring Brick|1350}}
+{{detrecipe|3|Platinum Bar|1250}}
+|tot=
+{{detrecipe/totals|Sentient Cereal|500}}
+{{detrecipe/totals|Iron Bar|1020}}
+{{detrecipe/totals|Boring Brick|1350}}
+{{detrecipe/totals|Platinum Bar|1250}}
+}}

@@ -6,25 +6,26 @@
 |agi=7
 |upgrade=2
 |sellprice=6000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=68
+|craftnum=69
 |levelreq=29
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Mutant Crabbo|quantity1=2
 |resource2=Redox Salts|quantity2=20
 }}
 {{usedin/head}}
 {{usedin/row|[[Natural Traps]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter2A|2}}
-{{detrecipe|3|Refinery1|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter2A|2}}
-{{detrecipe/totals|Refinery1|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mutant Crabbo|2}}
+{{detrecipe|3|Redox Salts|20}}
+|tot=
+{{detrecipe/totals|Mutant Crabbo|2}}
+{{detrecipe/totals|Redox Salts|20}}
+}}

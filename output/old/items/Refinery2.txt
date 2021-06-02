@@ -2,9 +2,11 @@
 |type=Refinery Salts
 |description=It's orange, and explodey.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Snouts#Gravity VS Salt|Gravity VS Salt]]|75|Quests}}
-{{usedin/row|[[Power Cauldron#Carpenter|Carpenter]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Orange Malt|Orange Malt]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Carpenter]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Orange Malt]]|Lots|Alchemy}}
 |}

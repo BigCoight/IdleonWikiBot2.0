@@ -2,7 +2,7 @@
 |title=Frost Flake
 |order=1
 |category=Frostfire Tyundra
-|effect=+{_Base_STR
+|effect=+{ Base STR
 |bonus=7
 |reqtier=12
 |source=[[Frost Flake]]

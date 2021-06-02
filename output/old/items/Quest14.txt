@@ -1,13 +1,14 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]]
+|quest=[[TP Pete#The Rats are to Blame!|The Rats are to Blame!]]
 |description=Wait a minute, these stats have misleading Y-axes and invalid sampling methods! Even then, they show no clear evidence for rats stealing jobs! How could anyone possibly believe this data?
 |sellprice=50
 |source=[[Rat]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Rat]]|.1|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[TP_Pete#The Rats are to Blame!|The Rats are to Blame!]]|50|Quests}}
+{{usedin/row|[[TP Pete#The Rats are to Blame!|The Rats are to Blame!]]|50|Quests}}
 |}

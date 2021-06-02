@@ -7,10 +7,12 @@
 |upgrade=2
 |defence=9
 |sellprice=2370
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=21
+|craftnum=22
 |levelreq=10
 |expgiven=300
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -21,17 +23,16 @@
 {{usedin/head}}
 {{usedin/row|[[Sleek Coif]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|25}}
-{{detrecipe|3|CraftMat1|150}}
-{{detrecipe|3|EquipmentHats17|2}}
-{{detrecipe|40|CopperBar|60}}
-{{detrecipe|40|Grasslands3|100}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|25}}
-{{detrecipe/totals|CraftMat1|150}}
-{{detrecipe/totals|CopperBar|60}}
-{{detrecipe/totals|Grasslands3|100}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|25}}
+{{detrecipe|3|Thread|150}}
+{{detrecipe|3|Copper Helmet|2}}
+{{detrecipe|40|Copper Bar|60}}
+{{detrecipe|40|Bean Slices|100}}
+|tot=
+{{detrecipe/totals|Iron Bar|25}}
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Bean Slices|100}}
+}}

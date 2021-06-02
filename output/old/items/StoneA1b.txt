@@ -4,4 +4,5 @@
 |sellprice=100
 |tier=G
 |source=[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]], [[Alchemy#Liquid Shop|Weak UPG Stone]]
+|notes= 
 }}

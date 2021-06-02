@@ -1,0 +1,13 @@
+{{npc
+|location=Spore Meadows
+|noquest=4
+|repeatable=Unknown
+|birthweight=9.32
+|starsign=Leo
+|mmm=Thompson
+|notes=The [[Woodsman]] is found in [[Worlds#G2 - Spore Meadows|Spore Meadows]], the first zone to the right of the starting town, located next to an oak tree with a stump next to him.
+
+His quests focus on improving the player's capabilities in the [[File:Choppin Skill Icon.png]] [[Choppin]] Skill. 
+
+His final quest awards the {{CraftReq|Woodsman Token}}.
+}}

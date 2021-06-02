@@ -1,8 +1,8 @@
 {{InfoCard
 |title=King Doot
 |order=6
-|category=Event
-|effect=+{%_Total_Drop_Rate
+|category=Bosses
+|effect=+{% Total Drop Rate
 |bonus=6
 |reqtier=1.5
 |source=[[King Doot]]

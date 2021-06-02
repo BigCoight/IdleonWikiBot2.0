@@ -10,58 +10,59 @@ Cramped Mining Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Ores, Bars, Barrels.
 |sellprice=360
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=9
+|craftnum=10
 |levelreq=5
 |expgiven=13
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Ore|quantity1=120
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Mining Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Copper|120}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Copper|120}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Ore|120}}
+|tot=
+{{detrecipe/totals|Copper Ore|120}}
+}}
 Small Mining Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Ores, Bars, Barrels.
 |sellprice=4900
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=29
+|craftnum=30
 |levelreq=14
 |expgiven=600
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Ore|quantity1=700
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Mining Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Iron|700}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Iron|700}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Ore|700}}
+|tot=
+{{detrecipe/totals|Iron Ore|700}}
+}}
 Average Mining Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Ores, Bars, Barrels.
 |sellprice=34700
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=9
+|craftnum=10
 |levelreq=15
 |expgiven=1200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -72,28 +73,28 @@ Average Mining Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Mining Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBag1|5}}
-{{detrecipe|40|Copper|600}}
-{{detrecipe|3|MaxCapBag2|3}}
-{{detrecipe|40|Iron|2100}}
-{{detrecipe|3|Gold|1400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Copper|600}}
-{{detrecipe/totals|Iron|2100}}
-{{detrecipe/totals|Gold|1400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Mining Pouch|5}}
+{{detrecipe|40|Copper Ore|600}}
+{{detrecipe|3|Small Mining Pouch|3}}
+{{detrecipe|40|Iron Ore|2100}}
+{{detrecipe|3|Gold Ore|1400}}
+|tot=
+{{detrecipe/totals|Copper Ore|600}}
+{{detrecipe/totals|Iron Ore|2100}}
+{{detrecipe/totals|Gold Ore|1400}}
+}}
 Sizable Mining Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Ores, Bars, Barrels.
 |sellprice=239100
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=29
+|craftnum=30
 |levelreq=24
 |expgiven=9000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -103,96 +104,95 @@ Sizable Mining Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Mining Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Plat|6750}}
-{{detrecipe|3|MaxCapBag3|3}}
-{{detrecipe|40|MaxCapBag1|15}}
-{{detrecipe|80|Copper|1800}}
-{{detrecipe|40|MaxCapBag2|9}}
-{{detrecipe|80|Iron|6300}}
-{{detrecipe|40|Gold|4200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Plat|6750}}
-{{detrecipe/totals|Copper|1800}}
-{{detrecipe/totals|Iron|6300}}
-{{detrecipe/totals|Gold|4200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Platinum Ore|6750}}
+{{detrecipe|3|Average Mining Pouch|3}}
+{{detrecipe|40|Cramped Mining Pouch|15}}
+{{detrecipe|80|Copper Ore|1800}}
+{{detrecipe|40|Small Mining Pouch|9}}
+{{detrecipe|80|Iron Ore|6300}}
+{{detrecipe|40|Gold Ore|4200}}
+|tot=
+{{detrecipe/totals|Platinum Ore|6750}}
+{{detrecipe/totals|Copper Ore|1800}}
+{{detrecipe/totals|Iron Ore|6300}}
+{{detrecipe/totals|Gold Ore|4200}}
+}}
 Big Mining Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Ores, Bars, Barrels.
 |sellprice=1090700
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=9
+|craftnum=10
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dementia Ore|quantity1=17500
 |resource2=Sizable Mining Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Mining Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Dementia|17500}}
-{{detrecipe|3|MaxCapBag4|2}}
-{{detrecipe|40|Plat|13500}}
-{{detrecipe|40|MaxCapBag3|6}}
-{{detrecipe|80|MaxCapBag1|30}}
-{{detrecipe|120|Copper|3600}}
-{{detrecipe|80|MaxCapBag2|18}}
-{{detrecipe|120|Iron|12600}}
-{{detrecipe|80|Gold|8400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Dementia|17500}}
-{{detrecipe/totals|Plat|13500}}
-{{detrecipe/totals|Copper|3600}}
-{{detrecipe/totals|Iron|12600}}
-{{detrecipe/totals|Gold|8400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dementia Ore|17500}}
+{{detrecipe|3|Sizable Mining Pouch|2}}
+{{detrecipe|40|Platinum Ore|13500}}
+{{detrecipe|40|Average Mining Pouch|6}}
+{{detrecipe|80|Cramped Mining Pouch|30}}
+{{detrecipe|120|Copper Ore|3600}}
+{{detrecipe|80|Small Mining Pouch|18}}
+{{detrecipe|120|Iron Ore|12600}}
+{{detrecipe|80|Gold Ore|8400}}
+|tot=
+{{detrecipe/totals|Dementia Ore|17500}}
+{{detrecipe/totals|Platinum Ore|13500}}
+{{detrecipe/totals|Copper Ore|3600}}
+{{detrecipe/totals|Iron Ore|12600}}
+{{detrecipe/totals|Gold Ore|8400}}
+}}
 Large Mining Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Ores, Bars, Barrels.
 |sellprice=3381400
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=33
+|craftnum=34
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Void Ore|quantity1=25000
 |resource2=Big Mining Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Void|25000}}
-{{detrecipe|3|MaxCapBag5|2}}
-{{detrecipe|40|Dementia|35000}}
-{{detrecipe|40|MaxCapBag4|4}}
-{{detrecipe|80|Plat|27000}}
-{{detrecipe|80|MaxCapBag3|12}}
-{{detrecipe|120|MaxCapBag1|60}}
-{{detrecipe|160|Copper|7200}}
-{{detrecipe|120|MaxCapBag2|36}}
-{{detrecipe|160|Iron|25200}}
-{{detrecipe|120|Gold|16800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Void|25000}}
-{{detrecipe/totals|Dementia|35000}}
-{{detrecipe/totals|Plat|27000}}
-{{detrecipe/totals|Copper|7200}}
-{{detrecipe/totals|Iron|25200}}
-{{detrecipe/totals|Gold|16800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Ore|25000}}
+{{detrecipe|3|Big Mining Pouch|2}}
+{{detrecipe|40|Dementia Ore|35000}}
+{{detrecipe|40|Sizable Mining Pouch|4}}
+{{detrecipe|80|Platinum Ore|27000}}
+{{detrecipe|80|Average Mining Pouch|12}}
+{{detrecipe|120|Cramped Mining Pouch|60}}
+{{detrecipe|160|Copper Ore|7200}}
+{{detrecipe|120|Small Mining Pouch|36}}
+{{detrecipe|160|Iron Ore|25200}}
+{{detrecipe|120|Gold Ore|16800}}
+|tot=
+{{detrecipe/totals|Void Ore|25000}}
+{{detrecipe/totals|Dementia Ore|35000}}
+{{detrecipe/totals|Platinum Ore|27000}}
+{{detrecipe/totals|Copper Ore|7200}}
+{{detrecipe/totals|Iron Ore|25200}}
+{{detrecipe/totals|Gold Ore|16800}}
+}}
 Miniature Choppin Pouch
 {{InfoItem
 |type=Carry Bag
@@ -205,61 +205,62 @@ Cramped Choppin Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Logs, Leaves.
 |sellprice=660
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=11
+|craftnum=12
 |levelreq=6
 |expgiven=13
-|recipefrom=Start
+|recipefrom=
 |resource1=Oak Logs|quantity1=150
 |resource2=Trusty Nails|quantity2=30
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Choppin Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|OakTree|150}}
-{{detrecipe|3|CraftMat5|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|OakTree|150}}
-{{detrecipe/totals|CraftMat5|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Oak Logs|150}}
+{{detrecipe|3|Trusty Nails|30}}
+|tot=
+{{detrecipe/totals|Oak Logs|150}}
+{{detrecipe/totals|Trusty Nails|30}}
+}}
 Small Choppin Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Logs, Leaves.
 |sellprice=2400
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=31
+|craftnum=32
 |levelreq=15
 |expgiven=680
-|recipefrom=Start
+|recipefrom=
 |resource1=Bleach Logs|quantity1=800
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Choppin Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|BirchTree|800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|BirchTree|800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleach Logs|800}}
+|tot=
+{{detrecipe/totals|Bleach Logs|800}}
+}}
 Average Choppin Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Logs, Leaves.
 |sellprice=28500
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=11
+|craftnum=12
 |levelreq=15
 |expgiven=1200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -270,30 +271,30 @@ Average Choppin Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Choppin Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBag7|5}}
-{{detrecipe|40|OakTree|750}}
-{{detrecipe|40|CraftMat5|150}}
-{{detrecipe|3|MaxCapBag9|3}}
-{{detrecipe|40|BirchTree|2400}}
-{{detrecipe|3|ForestTree|1800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|OakTree|750}}
-{{detrecipe/totals|CraftMat5|150}}
-{{detrecipe/totals|BirchTree|2400}}
-{{detrecipe/totals|ForestTree|1800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Choppin Pouch|5}}
+{{detrecipe|40|Oak Logs|750}}
+{{detrecipe|40|Trusty Nails|150}}
+{{detrecipe|3|Small Choppin Pouch|3}}
+{{detrecipe|40|Bleach Logs|2400}}
+{{detrecipe|3|Forest Fibres|1800}}
+|tot=
+{{detrecipe/totals|Oak Logs|750}}
+{{detrecipe/totals|Trusty Nails|150}}
+{{detrecipe/totals|Bleach Logs|2400}}
+{{detrecipe/totals|Forest Fibres|1800}}
+}}
 Sizable Choppin Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Logs, Leaves.
 |sellprice=220500
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=31
+|craftnum=32
 |levelreq=24
 |expgiven=9000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -303,121 +304,121 @@ Sizable Choppin Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Choppin Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|PalmTree|6750}}
-{{detrecipe|3|MaxCapBagT3|3}}
-{{detrecipe|40|MaxCapBag7|15}}
-{{detrecipe|80|OakTree|2250}}
-{{detrecipe|80|CraftMat5|450}}
-{{detrecipe|40|MaxCapBag9|9}}
-{{detrecipe|80|BirchTree|7200}}
-{{detrecipe|40|ForestTree|5400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|PalmTree|6750}}
-{{detrecipe/totals|OakTree|2250}}
-{{detrecipe/totals|CraftMat5|450}}
-{{detrecipe/totals|BirchTree|7200}}
-{{detrecipe/totals|ForestTree|5400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tropilogs|6750}}
+{{detrecipe|3|Average Choppin Pouch|3}}
+{{detrecipe|40|Cramped Choppin Pouch|15}}
+{{detrecipe|80|Oak Logs|2250}}
+{{detrecipe|80|Trusty Nails|450}}
+{{detrecipe|40|Small Choppin Pouch|9}}
+{{detrecipe|80|Bleach Logs|7200}}
+{{detrecipe|40|Forest Fibres|5400}}
+|tot=
+{{detrecipe/totals|Tropilogs|6750}}
+{{detrecipe/totals|Oak Logs|2250}}
+{{detrecipe/totals|Trusty Nails|450}}
+{{detrecipe/totals|Bleach Logs|7200}}
+{{detrecipe/totals|Forest Fibres|5400}}
+}}
 Big Choppin Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Logs, Leaves.
 |sellprice=1041000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=11
+|craftnum=12
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Tundra Logs|quantity1=20000
 |resource2=Sizable Choppin Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Choppin Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SaharanFoal|20000}}
-{{detrecipe|3|MaxCapBagT4|2}}
-{{detrecipe|40|PalmTree|13500}}
-{{detrecipe|40|MaxCapBagT3|6}}
-{{detrecipe|80|MaxCapBag7|30}}
-{{detrecipe|120|OakTree|4500}}
-{{detrecipe|120|CraftMat5|900}}
-{{detrecipe|80|MaxCapBag9|18}}
-{{detrecipe|120|BirchTree|14400}}
-{{detrecipe|80|ForestTree|10800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SaharanFoal|20000}}
-{{detrecipe/totals|PalmTree|13500}}
-{{detrecipe/totals|OakTree|4500}}
-{{detrecipe/totals|CraftMat5|900}}
-{{detrecipe/totals|BirchTree|14400}}
-{{detrecipe/totals|ForestTree|10800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tundra Logs|20000}}
+{{detrecipe|3|Sizable Choppin Pouch|2}}
+{{detrecipe|40|Tropilogs|13500}}
+{{detrecipe|40|Average Choppin Pouch|6}}
+{{detrecipe|80|Cramped Choppin Pouch|30}}
+{{detrecipe|120|Oak Logs|4500}}
+{{detrecipe|120|Trusty Nails|900}}
+{{detrecipe|80|Small Choppin Pouch|18}}
+{{detrecipe|120|Bleach Logs|14400}}
+{{detrecipe|80|Forest Fibres|10800}}
+|tot=
+{{detrecipe/totals|Tundra Logs|20000}}
+{{detrecipe/totals|Tropilogs|13500}}
+{{detrecipe/totals|Oak Logs|4500}}
+{{detrecipe/totals|Trusty Nails|900}}
+{{detrecipe/totals|Bleach Logs|14400}}
+{{detrecipe/totals|Forest Fibres|10800}}
+}}
 Large Choppin Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Logs, Leaves.
 |sellprice=3282000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=35
+|craftnum=36
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Wispy Lumber|quantity1=30000
 |resource2=Big Choppin Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Tree7|30000}}
-{{detrecipe|3|MaxCapBagT5|2}}
-{{detrecipe|40|SaharanFoal|40000}}
-{{detrecipe|40|MaxCapBagT4|4}}
-{{detrecipe|80|PalmTree|27000}}
-{{detrecipe|80|MaxCapBagT3|12}}
-{{detrecipe|120|MaxCapBag7|60}}
-{{detrecipe|160|OakTree|9000}}
-{{detrecipe|160|CraftMat5|1800}}
-{{detrecipe|120|MaxCapBag9|36}}
-{{detrecipe|160|BirchTree|28800}}
-{{detrecipe|120|ForestTree|21600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Tree7|30000}}
-{{detrecipe/totals|SaharanFoal|40000}}
-{{detrecipe/totals|PalmTree|27000}}
-{{detrecipe/totals|OakTree|9000}}
-{{detrecipe/totals|CraftMat5|1800}}
-{{detrecipe/totals|BirchTree|28800}}
-{{detrecipe/totals|ForestTree|21600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Wispy Lumber|30000}}
+{{detrecipe|3|Big Choppin Pouch|2}}
+{{detrecipe|40|Tundra Logs|40000}}
+{{detrecipe|40|Sizable Choppin Pouch|4}}
+{{detrecipe|80|Tropilogs|27000}}
+{{detrecipe|80|Average Choppin Pouch|12}}
+{{detrecipe|120|Cramped Choppin Pouch|60}}
+{{detrecipe|160|Oak Logs|9000}}
+{{detrecipe|160|Trusty Nails|1800}}
+{{detrecipe|120|Small Choppin Pouch|36}}
+{{detrecipe|160|Bleach Logs|28800}}
+{{detrecipe|120|Forest Fibres|21600}}
+|tot=
+{{detrecipe/totals|Wispy Lumber|30000}}
+{{detrecipe/totals|Tundra Logs|40000}}
+{{detrecipe/totals|Tropilogs|27000}}
+{{detrecipe/totals|Oak Logs|9000}}
+{{detrecipe/totals|Trusty Nails|1800}}
+{{detrecipe/totals|Bleach Logs|28800}}
+{{detrecipe/totals|Forest Fibres|21600}}
+}}
 Miniscule Food Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 25: Health Food, Boost Food, Golden Food.
 |sellprice=200
-|source=[[Picnic_Stowaway#The Hungry Stowaway|The Hungry Stowaway]]
+|source=[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]
 }}
 Cramped Food Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Health Food, Boost Food, Golden Food.
 |sellprice=550
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=14
+|craftnum=15
 |levelreq=7
 |expgiven=20
-|recipefrom=Start
+|recipefrom=
 |resource1=Nomwich|quantity1=75
 |resource2=Hot Dog|quantity2=25
 |resource3=Oak Logs|quantity3=60
@@ -426,19 +427,18 @@ Cramped Food Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Food Pouch]]|7|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|FoodHealth1|75}}
-{{detrecipe|3|FoodHealth3|25}}
-{{detrecipe|3|OakTree|60}}
-{{detrecipe|3|CopperBar|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth1|75}}
-{{detrecipe/totals|FoodHealth3|25}}
-{{detrecipe/totals|OakTree|60}}
-{{detrecipe/totals|CopperBar|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Nomwich|75}}
+{{detrecipe|3|Hot Dog|25}}
+{{detrecipe|3|Oak Logs|60}}
+{{detrecipe|3|Copper Bar|15}}
+|tot=
+{{detrecipe/totals|Nomwich|75}}
+{{detrecipe/totals|Hot Dog|25}}
+{{detrecipe/totals|Oak Logs|60}}
+{{detrecipe/totals|Copper Bar|15}}
+}}
 Small Food Pouch
 {{InfoItem
 |type=Carry Bag
@@ -451,13 +451,14 @@ Average Food Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Health Food, Boost Food, Golden Food.
 |sellprice=59650
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=18
+|craftnum=19
 |levelreq=18
 |expgiven=2400
-|recipefrom=Start
+|recipefrom=
 |resource1=Cramped Food Pouch|quantity1=7
 |resource2=Meat Pie|quantity2=250
 |resource3=Icing Ironbite|quantity3=600
@@ -466,40 +467,40 @@ Average Food Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Food Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBag8|7}}
-{{detrecipe|40|FoodHealth1|525}}
-{{detrecipe|40|FoodHealth3|175}}
-{{detrecipe|40|OakTree|420}}
-{{detrecipe|40|CopperBar|105}}
-{{detrecipe|3|FoodHealth7|250}}
-{{detrecipe|3|FoodMining1|600}}
-{{detrecipe|40|Iron|3000}}
-{{detrecipe|40|FoodPotMana1|1200}}
-{{detrecipe|3|FoodChoppin1|600}}
-{{detrecipe|40|JungleTree|3600}}
-{{detrecipe|40|FoodPotRe1|1800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth1|525}}
-{{detrecipe/totals|FoodHealth3|175}}
-{{detrecipe/totals|OakTree|420}}
-{{detrecipe/totals|CopperBar|105}}
-{{detrecipe/totals|Iron|3000}}
-{{detrecipe/totals|FoodPotMana1|1200}}
-{{detrecipe/totals|JungleTree|3600}}
-{{detrecipe/totals|FoodPotRe1|1800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Food Pouch|7}}
+{{detrecipe|40|Nomwich|525}}
+{{detrecipe|40|Hot Dog|175}}
+{{detrecipe|40|Oak Logs|420}}
+{{detrecipe|40|Copper Bar|105}}
+{{detrecipe|3|Meat Pie|250}}
+{{detrecipe|3|Icing Ironbite|600}}
+{{detrecipe|40|Iron Ore|3000}}
+{{detrecipe|40|Small Mana Potion|1200}}
+{{detrecipe|3|Saucy Logfries|600}}
+{{detrecipe|40|Jungle Logs|3600}}
+{{detrecipe|40|Small Life Potion|1800}}
+|tot=
+{{detrecipe/totals|Nomwich|525}}
+{{detrecipe/totals|Hot Dog|175}}
+{{detrecipe/totals|Oak Logs|420}}
+{{detrecipe/totals|Copper Bar|105}}
+{{detrecipe/totals|Iron Ore|3000}}
+{{detrecipe/totals|Small Mana Potion|1200}}
+{{detrecipe/totals|Jungle Logs|3600}}
+{{detrecipe/totals|Small Life Potion|1800}}
+}}
 Sizable Food Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Health Food, Boost Food, Golden Food.
 |sellprice=122930
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=36
+|craftnum=37
 |levelreq=28
 |expgiven=28000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -510,48 +511,48 @@ Sizable Food Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Food Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|FoodG3|9}}
-{{detrecipe|3|DesertA3b|6}}
-{{detrecipe|3|MaxCapBagF3|2}}
-{{detrecipe|40|MaxCapBag8|14}}
-{{detrecipe|80|FoodHealth1|1050}}
-{{detrecipe|80|FoodHealth3|350}}
-{{detrecipe|80|OakTree|840}}
-{{detrecipe|80|CopperBar|210}}
-{{detrecipe|40|FoodHealth7|500}}
-{{detrecipe|40|FoodMining1|1200}}
-{{detrecipe|80|Iron|6000}}
-{{detrecipe|80|FoodPotMana1|2400}}
-{{detrecipe|40|FoodChoppin1|1200}}
-{{detrecipe|80|JungleTree|7200}}
-{{detrecipe|80|FoodPotRe1|3600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodG3|9}}
-{{detrecipe/totals|DesertA3b|6}}
-{{detrecipe/totals|FoodHealth1|1050}}
-{{detrecipe/totals|FoodHealth3|350}}
-{{detrecipe/totals|OakTree|840}}
-{{detrecipe/totals|CopperBar|210}}
-{{detrecipe/totals|Iron|6000}}
-{{detrecipe/totals|FoodPotMana1|2400}}
-{{detrecipe/totals|JungleTree|7200}}
-{{detrecipe/totals|FoodPotRe1|3600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Meat Pie|9}}
+{{detrecipe|3|Nuget Cake|6}}
+{{detrecipe|3|Average Food Pouch|2}}
+{{detrecipe|40|Cramped Food Pouch|14}}
+{{detrecipe|80|Nomwich|1050}}
+{{detrecipe|80|Hot Dog|350}}
+{{detrecipe|80|Oak Logs|840}}
+{{detrecipe|80|Copper Bar|210}}
+{{detrecipe|40|Meat Pie|500}}
+{{detrecipe|40|Icing Ironbite|1200}}
+{{detrecipe|80|Iron Ore|6000}}
+{{detrecipe|80|Small Mana Potion|2400}}
+{{detrecipe|40|Saucy Logfries|1200}}
+{{detrecipe|80|Jungle Logs|7200}}
+{{detrecipe|80|Small Life Potion|3600}}
+|tot=
+{{detrecipe/totals|Golden Meat Pie|9}}
+{{detrecipe/totals|Nuget Cake|6}}
+{{detrecipe/totals|Nomwich|1050}}
+{{detrecipe/totals|Hot Dog|350}}
+{{detrecipe/totals|Oak Logs|840}}
+{{detrecipe/totals|Copper Bar|210}}
+{{detrecipe/totals|Iron Ore|6000}}
+{{detrecipe/totals|Small Mana Potion|2400}}
+{{detrecipe/totals|Jungle Logs|7200}}
+{{detrecipe/totals|Small Life Potion|3600}}
+}}
 Big Food Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Health Food, Boost Food, Golden Food.
 |sellprice=427660
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=22
+|craftnum=23
 |levelreq=39
 |expgiven=100000
-|recipefrom=Start
+|recipefrom=
 |resource1=Slurpin Herm|quantity1=1500
 |resource2=Buttered Toasted Butter|quantity2=1500
 |resource3=Yeti Ham|quantity3=10000
@@ -560,107 +561,106 @@ Big Food Pouch
 {{usedin/head}}
 {{usedin/row|[[Large Food Pouch]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|FoodFish1|1500}}
-{{detrecipe|40|Fish2|7500}}
-{{detrecipe|40|FoodPotOr2|3000}}
-{{detrecipe|3|FoodCatch1|1500}}
-{{detrecipe|40|Bug2|7500}}
-{{detrecipe|40|FoodHealth6|1500}}
-{{detrecipe|3|FoodHealth9|10000}}
-{{detrecipe|3|MaxCapBagF4|2}}
-{{detrecipe|40|FoodG3|18}}
-{{detrecipe|40|DesertA3b|12}}
-{{detrecipe|40|MaxCapBagF3|4}}
-{{detrecipe|80|MaxCapBag8|28}}
-{{detrecipe|120|FoodHealth1|2100}}
-{{detrecipe|120|FoodHealth3|700}}
-{{detrecipe|120|OakTree|1680}}
-{{detrecipe|120|CopperBar|420}}
-{{detrecipe|80|FoodHealth7|1000}}
-{{detrecipe|80|FoodMining1|2400}}
-{{detrecipe|120|Iron|12000}}
-{{detrecipe|120|FoodPotMana1|4800}}
-{{detrecipe|80|FoodChoppin1|2400}}
-{{detrecipe|120|JungleTree|14400}}
-{{detrecipe|120|FoodPotRe1|7200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish2|7500}}
-{{detrecipe/totals|FoodPotOr2|3000}}
-{{detrecipe/totals|Bug2|7500}}
-{{detrecipe/totals|FoodHealth6|1500}}
-{{detrecipe/totals|FoodG3|18}}
-{{detrecipe/totals|DesertA3b|12}}
-{{detrecipe/totals|FoodHealth1|2100}}
-{{detrecipe/totals|FoodHealth3|700}}
-{{detrecipe/totals|OakTree|1680}}
-{{detrecipe/totals|CopperBar|420}}
-{{detrecipe/totals|Iron|12000}}
-{{detrecipe/totals|FoodPotMana1|4800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slurpin Herm|1500}}
+{{detrecipe|40|Hermit Can|7500}}
+{{detrecipe|40|Average Strength Potion|3000}}
+{{detrecipe|3|Buttered Toasted Butter|1500}}
+{{detrecipe|40|Butterfly|7500}}
+{{detrecipe|40|Kebab Sticks|1500}}
+{{detrecipe|3|Yeti Ham|10000}}
+{{detrecipe|3|Sizable Food Pouch|2}}
+{{detrecipe|40|Golden Meat Pie|18}}
+{{detrecipe|40|Nuget Cake|12}}
+{{detrecipe|40|Average Food Pouch|4}}
+{{detrecipe|80|Cramped Food Pouch|28}}
+{{detrecipe|120|Nomwich|2100}}
+{{detrecipe|120|Hot Dog|700}}
+{{detrecipe|120|Oak Logs|1680}}
+{{detrecipe|120|Copper Bar|420}}
+{{detrecipe|80|Meat Pie|1000}}
+{{detrecipe|80|Icing Ironbite|2400}}
+{{detrecipe|120|Iron Ore|12000}}
+{{detrecipe|120|Small Mana Potion|4800}}
+{{detrecipe|80|Saucy Logfries|2400}}
+{{detrecipe|120|Jungle Logs|14400}}
+{{detrecipe|120|Small Life Potion|7200}}
+|tot=
+{{detrecipe/totals|Hermit Can|7500}}
+{{detrecipe/totals|Average Strength Potion|3000}}
+{{detrecipe/totals|Butterfly|7500}}
+{{detrecipe/totals|Kebab Sticks|1500}}
+{{detrecipe/totals|Golden Meat Pie|18}}
+{{detrecipe/totals|Nuget Cake|12}}
+{{detrecipe/totals|Nomwich|2100}}
+{{detrecipe/totals|Hot Dog|700}}
+{{detrecipe/totals|Oak Logs|1680}}
+{{detrecipe/totals|Copper Bar|420}}
+{{detrecipe/totals|Iron Ore|12000}}
+{{detrecipe/totals|Small Mana Potion|4800}}
+}}
 Large Food Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Health Food, Boost Food, Golden Food.
 |sellprice=334900
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=44
+|craftnum=45
 |levelreq=44
 |expgiven=250000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Ham|quantity1=10
 |resource2=Critter Numnums|quantity2=30
 |resource3=Soulble Gum|quantity3=30
 |resource4=Big Food Pouch|quantity4=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|FoodG5|10}}
-{{detrecipe|3|FoodTrapping1|30}}
-{{detrecipe|40|Critter2|3000}}
-{{detrecipe|40|PureWater|30}}
-{{detrecipe|3|FoodWorship1|30}}
-{{detrecipe|40|Soul2|2100}}
-{{detrecipe|40|PureWater|30}}
-{{detrecipe|3|MaxCapBagF5|1}}
-{{detrecipe|40|FoodFish1|1500}}
-{{detrecipe|80|Fish2|7500}}
-{{detrecipe|80|FoodPotOr2|3000}}
-{{detrecipe|40|FoodCatch1|1500}}
-{{detrecipe|80|Bug2|7500}}
-{{detrecipe|80|FoodHealth6|1500}}
-{{detrecipe|40|FoodHealth9|10000}}
-{{detrecipe|40|MaxCapBagF4|2}}
-{{detrecipe|80|FoodG3|18}}
-{{detrecipe|80|DesertA3b|12}}
-{{detrecipe|80|MaxCapBagF3|4}}
-{{detrecipe|120|MaxCapBag8|28}}
-{{detrecipe|160|FoodHealth1|2100}}
-{{detrecipe|160|FoodHealth3|700}}
-{{detrecipe|160|OakTree|1680}}
-{{detrecipe|160|CopperBar|420}}
-{{detrecipe|120|FoodHealth7|1000}}
-{{detrecipe|120|FoodMining1|2400}}
-{{detrecipe|160|Iron|12000}}
-{{detrecipe|160|FoodPotMana1|4800}}
-{{detrecipe|120|FoodChoppin1|2400}}
-{{detrecipe|160|JungleTree|14400}}
-{{detrecipe|160|FoodPotRe1|7200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodG5|10}}
-{{detrecipe/totals|Critter2|3000}}
-{{detrecipe/totals|PureWater|60}}
-{{detrecipe/totals|Soul2|2100}}
-{{detrecipe/totals|Fish2|7500}}
-{{detrecipe/totals|FoodPotOr2|3000}}
-{{detrecipe/totals|Bug2|7500}}
-{{detrecipe/totals|FoodHealth6|1500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Ham|10}}
+{{detrecipe|3|Critter Numnums|30}}
+{{detrecipe|40|Crabbo|3000}}
+{{detrecipe|40|Distilled Water|30}}
+{{detrecipe|3|Soulble Gum|30}}
+{{detrecipe|40|Dune Soul|2100}}
+{{detrecipe|40|Distilled Water|30}}
+{{detrecipe|3|Big Food Pouch|1}}
+{{detrecipe|40|Slurpin Herm|1500}}
+{{detrecipe|80|Hermit Can|7500}}
+{{detrecipe|80|Average Strength Potion|3000}}
+{{detrecipe|40|Buttered Toasted Butter|1500}}
+{{detrecipe|80|Butterfly|7500}}
+{{detrecipe|80|Kebab Sticks|1500}}
+{{detrecipe|40|Yeti Ham|10000}}
+{{detrecipe|40|Sizable Food Pouch|2}}
+{{detrecipe|80|Golden Meat Pie|18}}
+{{detrecipe|80|Nuget Cake|12}}
+{{detrecipe|80|Average Food Pouch|4}}
+{{detrecipe|120|Cramped Food Pouch|28}}
+{{detrecipe|160|Nomwich|2100}}
+{{detrecipe|160|Hot Dog|700}}
+{{detrecipe|160|Oak Logs|1680}}
+{{detrecipe|160|Copper Bar|420}}
+{{detrecipe|120|Meat Pie|1000}}
+{{detrecipe|120|Icing Ironbite|2400}}
+{{detrecipe|160|Iron Ore|12000}}
+{{detrecipe|160|Small Mana Potion|4800}}
+{{detrecipe|120|Saucy Logfries|2400}}
+{{detrecipe|160|Jungle Logs|14400}}
+{{detrecipe|160|Small Life Potion|7200}}
+|tot=
+{{detrecipe/totals|Golden Ham|10}}
+{{detrecipe/totals|Crabbo|3000}}
+{{detrecipe/totals|Distilled Water|60}}
+{{detrecipe/totals|Dune Soul|2100}}
+{{detrecipe/totals|Hermit Can|7500}}
+{{detrecipe/totals|Average Strength Potion|3000}}
+{{detrecipe/totals|Butterfly|7500}}
+{{detrecipe/totals|Kebab Sticks|1500}}
+}}
 Mini Materials Pouch
 {{InfoItem
 |type=Carry Bag
@@ -673,13 +673,14 @@ Cramped Material Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Monster Parts, Smithing Production Items.
 |sellprice=1370
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=15
+|craftnum=16
 |levelreq=8
 |expgiven=25
-|recipefrom=Start
+|recipefrom=
 |resource1=Trusty Nails|quantity1=80
 |resource2=Frog Leg|quantity2=40
 |resource3=Bean Slices|quantity3=30
@@ -687,17 +688,16 @@ Cramped Material Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Material Pouch]]|7|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat5|80}}
-{{detrecipe|3|Grasslands2|40}}
-{{detrecipe|3|Grasslands3|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat5|80}}
-{{detrecipe/totals|Grasslands2|40}}
-{{detrecipe/totals|Grasslands3|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Trusty Nails|80}}
+{{detrecipe|3|Frog Leg|40}}
+{{detrecipe|3|Bean Slices|30}}
+|tot=
+{{detrecipe/totals|Trusty Nails|80}}
+{{detrecipe/totals|Frog Leg|40}}
+{{detrecipe/totals|Bean Slices|30}}
+}}
 Small Material Pouch
 {{InfoItem
 |type=Carry Bag
@@ -710,13 +710,14 @@ Average Material Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Monster Parts, Smithing Production Items.
 |sellprice=59590
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=19
+|craftnum=20
 |levelreq=18
 |expgiven=2400
-|recipefrom=Start
+|recipefrom=
 |resource1=Cramped Material Pouch|quantity1=7
 |resource2=Glass Shard|quantity2=1
 |resource3=Chain Link|quantity3=1250
@@ -724,30 +725,30 @@ Average Material Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Materials Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBagM2|7}}
-{{detrecipe|40|CraftMat5|560}}
-{{detrecipe|40|Grasslands2|280}}
-{{detrecipe|40|Grasslands3|210}}
-{{detrecipe|3|DesertA1b|1}}
-{{detrecipe|3|CraftMat7|1250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat5|560}}
-{{detrecipe/totals|Grasslands2|280}}
-{{detrecipe/totals|Grasslands3|210}}
-{{detrecipe/totals|CraftMat7|1250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Material Pouch|7}}
+{{detrecipe|40|Trusty Nails|560}}
+{{detrecipe|40|Frog Leg|280}}
+{{detrecipe|40|Bean Slices|210}}
+{{detrecipe|3|Glass Shard|1}}
+{{detrecipe|3|Chain Link|1250}}
+|tot=
+{{detrecipe/totals|Trusty Nails|560}}
+{{detrecipe/totals|Frog Leg|280}}
+{{detrecipe/totals|Bean Slices|210}}
+{{detrecipe/totals|Chain Link|1250}}
+}}
 Sizable Materials Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Monster Parts, Smithing Production Items.
 |sellprice=122130
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=37
+|craftnum=38
 |levelreq=30
 |expgiven=41000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -758,38 +759,38 @@ Sizable Materials Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Materials Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Sewers1b|5}}
-{{detrecipe|3|TreeInterior1b|5}}
-{{detrecipe|3|MaxCapBagM4|2}}
-{{detrecipe|40|MaxCapBagM2|14}}
-{{detrecipe|80|CraftMat5|1120}}
-{{detrecipe|80|Grasslands2|560}}
-{{detrecipe|80|Grasslands3|420}}
-{{detrecipe|40|DesertA1b|2}}
-{{detrecipe|40|CraftMat7|2500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Sewers1b|5}}
-{{detrecipe/totals|TreeInterior1b|5}}
-{{detrecipe/totals|CraftMat5|1120}}
-{{detrecipe/totals|Grasslands2|560}}
-{{detrecipe/totals|Grasslands3|420}}
-{{detrecipe/totals|CraftMat7|2500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Golden Plop|5}}
+{{detrecipe|3|Woodular Circle|5}}
+{{detrecipe|3|Average Material Pouch|2}}
+{{detrecipe|40|Cramped Material Pouch|14}}
+{{detrecipe|80|Trusty Nails|1120}}
+{{detrecipe|80|Frog Leg|560}}
+{{detrecipe|80|Bean Slices|420}}
+{{detrecipe|40|Glass Shard|2}}
+{{detrecipe|40|Chain Link|2500}}
+|tot=
+{{detrecipe/totals|Golden Plop|5}}
+{{detrecipe/totals|Woodular Circle|5}}
+{{detrecipe/totals|Trusty Nails|1120}}
+{{detrecipe/totals|Frog Leg|560}}
+{{detrecipe/totals|Bean Slices|420}}
+{{detrecipe/totals|Chain Link|2500}}
+}}
 Big Materials Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Monster Parts, Smithing Production Items.
 |sellprice=3244860
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=23
+|craftnum=24
 |levelreq=39
 |expgiven=100000
-|recipefrom=Start
+|recipefrom=
 |resource1=Sticky Stick|quantity1=15000
 |resource2=Ice Age 3|quantity2=3
 |resource3=Sizable Materials Pouch|quantity3=2
@@ -797,77 +798,76 @@ Big Materials Pouch
 {{usedin/head}}
 {{usedin/row|[[Large Materials Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SnowB1|15000}}
-{{detrecipe|3|SnowB2a|3}}
-{{detrecipe|3|MaxCapBagM5|2}}
-{{detrecipe|40|Sewers1b|10}}
-{{detrecipe|40|TreeInterior1b|10}}
-{{detrecipe|40|MaxCapBagM4|4}}
-{{detrecipe|80|MaxCapBagM2|28}}
-{{detrecipe|120|CraftMat5|2240}}
-{{detrecipe|120|Grasslands2|1120}}
-{{detrecipe|120|Grasslands3|840}}
-{{detrecipe|80|DesertA1b|4}}
-{{detrecipe|80|CraftMat7|5000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowB1|15000}}
-{{detrecipe/totals|SnowB2a|3}}
-{{detrecipe/totals|Sewers1b|10}}
-{{detrecipe/totals|TreeInterior1b|10}}
-{{detrecipe/totals|CraftMat5|2240}}
-{{detrecipe/totals|Grasslands2|1120}}
-{{detrecipe/totals|Grasslands3|840}}
-{{detrecipe/totals|CraftMat7|5000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Sticky Stick|15000}}
+{{detrecipe|3|Ice Age 3|3}}
+{{detrecipe|3|Sizable Materials Pouch|2}}
+{{detrecipe|40|Golden Plop|10}}
+{{detrecipe|40|Woodular Circle|10}}
+{{detrecipe|40|Average Material Pouch|4}}
+{{detrecipe|80|Cramped Material Pouch|28}}
+{{detrecipe|120|Trusty Nails|2240}}
+{{detrecipe|120|Frog Leg|1120}}
+{{detrecipe|120|Bean Slices|840}}
+{{detrecipe|80|Glass Shard|4}}
+{{detrecipe|80|Chain Link|5000}}
+|tot=
+{{detrecipe/totals|Sticky Stick|15000}}
+{{detrecipe/totals|Ice Age 3|3}}
+{{detrecipe/totals|Golden Plop|10}}
+{{detrecipe/totals|Woodular Circle|10}}
+{{detrecipe/totals|Trusty Nails|2240}}
+{{detrecipe/totals|Frog Leg|1120}}
+{{detrecipe/totals|Bean Slices|840}}
+{{detrecipe/totals|Chain Link|5000}}
+}}
 Large Materials Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Monster Parts, Smithing Production Items.
 |sellprice=20490320
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=45
+|craftnum=46
 |levelreq=44
 |expgiven=250000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Audio Cord|quantity1=70000
 |resource2=Black Lense|quantity2=3
 |resource3=Big Materials Pouch|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|SnowC3|70000}}
-{{detrecipe|3|SnowC4a|3}}
-{{detrecipe|3|MaxCapBagM6|2}}
-{{detrecipe|40|SnowB1|30000}}
-{{detrecipe|40|SnowB2a|6}}
-{{detrecipe|40|MaxCapBagM5|4}}
-{{detrecipe|80|Sewers1b|20}}
-{{detrecipe|80|TreeInterior1b|20}}
-{{detrecipe|80|MaxCapBagM4|8}}
-{{detrecipe|120|MaxCapBagM2|56}}
-{{detrecipe|160|CraftMat5|4480}}
-{{detrecipe|160|Grasslands2|2240}}
-{{detrecipe|160|Grasslands3|1680}}
-{{detrecipe|120|DesertA1b|8}}
-{{detrecipe|120|CraftMat7|10000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowC3|70000}}
-{{detrecipe/totals|SnowC4a|3}}
-{{detrecipe/totals|SnowB1|30000}}
-{{detrecipe/totals|SnowB2a|6}}
-{{detrecipe/totals|Sewers1b|20}}
-{{detrecipe/totals|TreeInterior1b|20}}
-{{detrecipe/totals|CraftMat5|4480}}
-{{detrecipe/totals|Grasslands2|2240}}
-{{detrecipe/totals|Grasslands3|1680}}
-{{detrecipe/totals|CraftMat7|10000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Audio Cord|70000}}
+{{detrecipe|3|Black Lense|3}}
+{{detrecipe|3|Big Materials Pouch|2}}
+{{detrecipe|40|Sticky Stick|30000}}
+{{detrecipe|40|Ice Age 3|6}}
+{{detrecipe|40|Sizable Materials Pouch|4}}
+{{detrecipe|80|Golden Plop|20}}
+{{detrecipe|80|Woodular Circle|20}}
+{{detrecipe|80|Average Material Pouch|8}}
+{{detrecipe|120|Cramped Material Pouch|56}}
+{{detrecipe|160|Trusty Nails|4480}}
+{{detrecipe|160|Frog Leg|2240}}
+{{detrecipe|160|Bean Slices|1680}}
+{{detrecipe|120|Glass Shard|8}}
+{{detrecipe|120|Chain Link|10000}}
+|tot=
+{{detrecipe/totals|Audio Cord|70000}}
+{{detrecipe/totals|Black Lense|3}}
+{{detrecipe/totals|Sticky Stick|30000}}
+{{detrecipe/totals|Ice Age 3|6}}
+{{detrecipe/totals|Golden Plop|20}}
+{{detrecipe/totals|Woodular Circle|20}}
+{{detrecipe/totals|Trusty Nails|4480}}
+{{detrecipe/totals|Frog Leg|2240}}
+{{detrecipe/totals|Bean Slices|1680}}
+{{detrecipe/totals|Chain Link|10000}}
+}}
 Miniature Fish Pouch
 {{InfoItem
 |type=Carry Bag
@@ -879,10 +879,11 @@ Cramped Fish Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Fish.
 |sellprice=720
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=73
+|craftnum=74
 |levelreq=9
 |expgiven=125
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -891,22 +892,22 @@ Cramped Fish Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Fish Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish1|180}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish1|180}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Goldfish|180}}
+|tot=
+{{detrecipe/totals|Goldfish|180}}
+}}
 Small Fish Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Fish.
 |sellprice=4775
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=77
+|craftnum=78
 |levelreq=15
 |expgiven=450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -916,24 +917,24 @@ Small Fish Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Fish Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish2|425}}
-{{detrecipe|3|PureWater|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish2|425}}
-{{detrecipe/totals|PureWater|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hermit Can|425}}
+{{detrecipe|3|Distilled Water|2}}
+|tot=
+{{detrecipe/totals|Hermit Can|425}}
+{{detrecipe/totals|Distilled Water|2}}
+}}
 Average Fish Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Fish.
 |sellprice=34425
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=13
+|craftnum=14
 |levelreq=17
 |expgiven=1850
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -944,29 +945,29 @@ Average Fish Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Fish Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBagFi1|5}}
-{{detrecipe|40|Fish1|900}}
-{{detrecipe|3|MaxCapBagFi2|3}}
-{{detrecipe|40|Fish2|1275}}
-{{detrecipe|40|PureWater|6}}
-{{detrecipe|3|Fish2|1500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish1|900}}
-{{detrecipe/totals|Fish2|2775}}
-{{detrecipe/totals|PureWater|6}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Fish Pouch|5}}
+{{detrecipe|40|Goldfish|900}}
+{{detrecipe|3|Small Fish Pouch|3}}
+{{detrecipe|40|Hermit Can|1275}}
+{{detrecipe|40|Distilled Water|6}}
+{{detrecipe|3|Hermit Can|1500}}
+|tot=
+{{detrecipe/totals|Goldfish|900}}
+{{detrecipe/totals|Hermit Can|2775}}
+{{detrecipe/totals|Distilled Water|6}}
+}}
 Sizable Fish Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Fish.
 |sellprice=224775
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=33
+|craftnum=34
 |levelreq=27
 |expgiven=17000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -976,35 +977,35 @@ Sizable Fish Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Fish Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish4|6750}}
-{{detrecipe|3|MaxCapBagFi3|3}}
-{{detrecipe|40|MaxCapBagFi1|15}}
-{{detrecipe|80|Fish1|2700}}
-{{detrecipe|40|MaxCapBagFi2|9}}
-{{detrecipe|80|Fish2|3825}}
-{{detrecipe|80|PureWater|18}}
-{{detrecipe|40|Fish2|4500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish4|6750}}
-{{detrecipe/totals|Fish1|2700}}
-{{detrecipe/totals|Fish2|8325}}
-{{detrecipe/totals|PureWater|18}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bloach|6750}}
+{{detrecipe|3|Average Fish Pouch|3}}
+{{detrecipe|40|Cramped Fish Pouch|15}}
+{{detrecipe|80|Goldfish|2700}}
+{{detrecipe|40|Small Fish Pouch|9}}
+{{detrecipe|80|Hermit Can|3825}}
+{{detrecipe|80|Distilled Water|18}}
+{{detrecipe|40|Hermit Can|4500}}
+|tot=
+{{detrecipe/totals|Bloach|6750}}
+{{detrecipe/totals|Goldfish|2700}}
+{{detrecipe/totals|Hermit Can|8325}}
+{{detrecipe/totals|Distilled Water|18}}
+}}
 Big Fish Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Fish.
 |sellprice=454590
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=13
+|craftnum=14
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Crescent Scropie|quantity1=4
 |resource2=Redox Salts|quantity2=50
 |resource3=Sizable Fish Pouch|quantity3=2
@@ -1012,67 +1013,66 @@ Big Fish Pouch
 {{usedin/head}}
 {{usedin/row|[[Large Fish Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter3A|4}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|MaxCapBagFi4|2}}
-{{detrecipe|40|Fish4|13500}}
-{{detrecipe|40|MaxCapBagFi3|6}}
-{{detrecipe|80|MaxCapBagFi1|30}}
-{{detrecipe|120|Fish1|5400}}
-{{detrecipe|80|MaxCapBagFi2|18}}
-{{detrecipe|120|Fish2|7650}}
-{{detrecipe|120|PureWater|36}}
-{{detrecipe|80|Fish2|9000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter3A|4}}
-{{detrecipe/totals|Refinery1|50}}
-{{detrecipe/totals|Fish4|13500}}
-{{detrecipe/totals|Fish1|5400}}
-{{detrecipe/totals|Fish2|16650}}
-{{detrecipe/totals|PureWater|36}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Crescent Scropie|4}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Sizable Fish Pouch|2}}
+{{detrecipe|40|Bloach|13500}}
+{{detrecipe|40|Average Fish Pouch|6}}
+{{detrecipe|80|Cramped Fish Pouch|30}}
+{{detrecipe|120|Goldfish|5400}}
+{{detrecipe|80|Small Fish Pouch|18}}
+{{detrecipe|120|Hermit Can|7650}}
+{{detrecipe|120|Distilled Water|36}}
+{{detrecipe|80|Hermit Can|9000}}
+|tot=
+{{detrecipe/totals|Crescent Scropie|4}}
+{{detrecipe/totals|Redox Salts|50}}
+{{detrecipe/totals|Bloach|13500}}
+{{detrecipe/totals|Goldfish|5400}}
+{{detrecipe/totals|Hermit Can|16650}}
+{{detrecipe/totals|Distilled Water|36}}
+}}
 Large Fish Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Fish.
 |sellprice=1809180
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=37
+|craftnum=38
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Bloach|quantity1=50000
 |resource2=Big Fish Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Fish4|50000}}
-{{detrecipe|3|MaxCapBagFi5|2}}
-{{detrecipe|40|Critter3A|8}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|MaxCapBagFi4|4}}
-{{detrecipe|80|Fish4|27000}}
-{{detrecipe|80|MaxCapBagFi3|12}}
-{{detrecipe|120|MaxCapBagFi1|60}}
-{{detrecipe|160|Fish1|10800}}
-{{detrecipe|120|MaxCapBagFi2|36}}
-{{detrecipe|160|Fish2|15300}}
-{{detrecipe|160|PureWater|72}}
-{{detrecipe|120|Fish2|18000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish4|77000}}
-{{detrecipe/totals|Critter3A|8}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Fish1|10800}}
-{{detrecipe/totals|Fish2|33300}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bloach|50000}}
+{{detrecipe|3|Big Fish Pouch|2}}
+{{detrecipe|40|Crescent Scropie|8}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Sizable Fish Pouch|4}}
+{{detrecipe|80|Bloach|27000}}
+{{detrecipe|80|Average Fish Pouch|12}}
+{{detrecipe|120|Cramped Fish Pouch|60}}
+{{detrecipe|160|Goldfish|10800}}
+{{detrecipe|120|Small Fish Pouch|36}}
+{{detrecipe|160|Hermit Can|15300}}
+{{detrecipe|160|Distilled Water|72}}
+{{detrecipe|120|Hermit Can|18000}}
+|tot=
+{{detrecipe/totals|Bloach|77000}}
+{{detrecipe/totals|Crescent Scropie|8}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Goldfish|10800}}
+{{detrecipe/totals|Hermit Can|33300}}
+{{detrecipe/totals|Distilled Water|72}}
+}}
 Miniature Bug Pouch
 {{InfoItem
 |type=Carry Bag
@@ -1084,10 +1084,11 @@ Cramped Bug Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Bugs.
 |sellprice=540
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=75
+|craftnum=76
 |levelreq=9
 |expgiven=125
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1096,22 +1097,22 @@ Cramped Bug Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Bug Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug1|180}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug1|180}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fly|180}}
+|tot=
+{{detrecipe/totals|Fly|180}}
+}}
 Small Bug Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Bugs.
 |sellprice=3925
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=79
+|craftnum=80
 |levelreq=15
 |expgiven=450
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1121,24 +1122,24 @@ Small Bug Pouch
 {{usedin/head}}
 {{usedin/row|[[Average Bug Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug2|425}}
-{{detrecipe|3|PureWater|2}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug2|425}}
-{{detrecipe/totals|PureWater|2}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Butterfly|425}}
+{{detrecipe|3|Distilled Water|2}}
+|tot=
+{{detrecipe/totals|Butterfly|425}}
+{{detrecipe/totals|Distilled Water|2}}
+}}
 Average Bug Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Bugs.
 |sellprice=28875
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=15
+|craftnum=16
 |levelreq=17
 |expgiven=1850
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1149,29 +1150,29 @@ Average Bug Pouch
 {{usedin/head}}
 {{usedin/row|[[Sizable Bug Pouch]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|MaxCapBagB1|5}}
-{{detrecipe|40|Bug1|900}}
-{{detrecipe|3|MaxCapBagB2|3}}
-{{detrecipe|40|Bug2|1275}}
-{{detrecipe|40|PureWater|6}}
-{{detrecipe|3|Bug2|1600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug1|900}}
-{{detrecipe/totals|Bug2|2875}}
-{{detrecipe/totals|PureWater|6}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Cramped Bug Pouch|5}}
+{{detrecipe|40|Fly|900}}
+{{detrecipe|3|Small Bug Pouch|3}}
+{{detrecipe|40|Butterfly|1275}}
+{{detrecipe|40|Distilled Water|6}}
+{{detrecipe|3|Butterfly|1600}}
+|tot=
+{{detrecipe/totals|Fly|900}}
+{{detrecipe/totals|Butterfly|2875}}
+{{detrecipe/totals|Distilled Water|6}}
+}}
 Sizable Bug Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Bugs.
 |sellprice=221625
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=35
+|craftnum=36
 |levelreq=27
 |expgiven=17000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -1181,99 +1182,98 @@ Sizable Bug Pouch
 {{usedin/head}}
 {{usedin/row|[[Big Bug Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug4|6750}}
-{{detrecipe|3|MaxCapBagB3|3}}
-{{detrecipe|40|MaxCapBagB1|15}}
-{{detrecipe|80|Bug1|2700}}
-{{detrecipe|40|MaxCapBagB2|9}}
-{{detrecipe|80|Bug2|3825}}
-{{detrecipe|80|PureWater|18}}
-{{detrecipe|40|Bug2|4800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug4|6750}}
-{{detrecipe/totals|Bug1|2700}}
-{{detrecipe/totals|Bug2|8625}}
-{{detrecipe/totals|PureWater|18}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fruitfly|6750}}
+{{detrecipe|3|Average Bug Pouch|3}}
+{{detrecipe|40|Cramped Bug Pouch|15}}
+{{detrecipe|80|Fly|2700}}
+{{detrecipe|40|Small Bug Pouch|9}}
+{{detrecipe|80|Butterfly|3825}}
+{{detrecipe|80|Distilled Water|18}}
+{{detrecipe|40|Butterfly|4800}}
+|tot=
+{{detrecipe/totals|Fruitfly|6750}}
+{{detrecipe/totals|Fly|2700}}
+{{detrecipe/totals|Butterfly|8625}}
+{{detrecipe/totals|Distilled Water|18}}
+}}
 Big Bug Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Bugs.
 |sellprice=763250
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=15
+|craftnum=16
 |levelreq=35
 |expgiven=65000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Mosquisnow|quantity1=10000
 |resource2=Sizable Bug Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Bug Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug5|10000}}
-{{detrecipe|3|MaxCapBagB4|2}}
-{{detrecipe|40|Bug4|13500}}
-{{detrecipe|40|MaxCapBagB3|6}}
-{{detrecipe|80|MaxCapBagB1|30}}
-{{detrecipe|120|Bug1|5400}}
-{{detrecipe|80|MaxCapBagB2|18}}
-{{detrecipe|120|Bug2|7650}}
-{{detrecipe|120|PureWater|36}}
-{{detrecipe|80|Bug2|9600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug5|10000}}
-{{detrecipe/totals|Bug4|13500}}
-{{detrecipe/totals|Bug1|5400}}
-{{detrecipe/totals|Bug2|17250}}
-{{detrecipe/totals|PureWater|36}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mosquisnow|10000}}
+{{detrecipe|3|Sizable Bug Pouch|2}}
+{{detrecipe|40|Fruitfly|13500}}
+{{detrecipe|40|Average Bug Pouch|6}}
+{{detrecipe|80|Cramped Bug Pouch|30}}
+{{detrecipe|120|Fly|5400}}
+{{detrecipe|80|Small Bug Pouch|18}}
+{{detrecipe|120|Butterfly|7650}}
+{{detrecipe|120|Distilled Water|36}}
+{{detrecipe|80|Butterfly|9600}}
+|tot=
+{{detrecipe/totals|Mosquisnow|10000}}
+{{detrecipe/totals|Fruitfly|13500}}
+{{detrecipe/totals|Fly|5400}}
+{{detrecipe/totals|Butterfly|17250}}
+{{detrecipe/totals|Distilled Water|36}}
+}}
 Large Bug Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Bugs.
 |sellprice=2926500
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=39
+|craftnum=40
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Flycicle|quantity1=35000
 |resource2=Big Bug Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Bug6|35000}}
-{{detrecipe|3|MaxCapBagB5|2}}
-{{detrecipe|40|Bug5|20000}}
-{{detrecipe|40|MaxCapBagB4|4}}
-{{detrecipe|80|Bug4|27000}}
-{{detrecipe|80|MaxCapBagB3|12}}
-{{detrecipe|120|MaxCapBagB1|60}}
-{{detrecipe|160|Bug1|10800}}
-{{detrecipe|120|MaxCapBagB2|36}}
-{{detrecipe|160|Bug2|15300}}
-{{detrecipe|160|PureWater|72}}
-{{detrecipe|120|Bug2|19200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug6|35000}}
-{{detrecipe/totals|Bug5|20000}}
-{{detrecipe/totals|Bug4|27000}}
-{{detrecipe/totals|Bug1|10800}}
-{{detrecipe/totals|Bug2|34500}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Flycicle|35000}}
+{{detrecipe|3|Big Bug Pouch|2}}
+{{detrecipe|40|Mosquisnow|20000}}
+{{detrecipe|40|Sizable Bug Pouch|4}}
+{{detrecipe|80|Fruitfly|27000}}
+{{detrecipe|80|Average Bug Pouch|12}}
+{{detrecipe|120|Cramped Bug Pouch|60}}
+{{detrecipe|160|Fly|10800}}
+{{detrecipe|120|Small Bug Pouch|36}}
+{{detrecipe|160|Butterfly|15300}}
+{{detrecipe|160|Distilled Water|72}}
+{{detrecipe|120|Butterfly|19200}}
+|tot=
+{{detrecipe/totals|Flycicle|35000}}
+{{detrecipe/totals|Mosquisnow|20000}}
+{{detrecipe/totals|Fruitfly|27000}}
+{{detrecipe/totals|Fly|10800}}
+{{detrecipe/totals|Butterfly|34500}}
+{{detrecipe/totals|Distilled Water|72}}
+}}
 Cramped Critter Pouch
 {{InfoItem
 |type=Carry Bag
@@ -1285,25 +1285,25 @@ Small Critter Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Critters.
 |sellprice=900
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=81
+|craftnum=82
 |levelreq=15
 |expgiven=450
-|recipefrom=Start
+|recipefrom=
 |resource1=Froge|quantity1=200
 |resource2=Redox Salts|quantity2=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Critter1|200}}
-{{detrecipe|3|Refinery1|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter1|200}}
-{{detrecipe/totals|Refinery1|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Froge|200}}
+{{detrecipe|3|Redox Salts|3}}
+|tot=
+{{detrecipe/totals|Froge|200}}
+{{detrecipe/totals|Redox Salts|3}}
+}}
 Average Critter Pouch
 {{InfoItem
 |type=Carry Bag
@@ -1315,88 +1315,88 @@ Sizable Critter Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Critters.
 |sellprice=6500
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=69
+|craftnum=70
 |levelreq=28
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Crabbo|quantity1=1000
 |resource2=Redox Salts|quantity2=15
 }}
 {{usedin/head}}
 {{usedin/row|[[Big Critter Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter2|1000}}
-{{detrecipe|3|Refinery1|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter2|1000}}
-{{detrecipe/totals|Refinery1|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Crabbo|1000}}
+{{detrecipe|3|Redox Salts|15}}
+|tot=
+{{detrecipe/totals|Crabbo|1000}}
+{{detrecipe/totals|Redox Salts|15}}
+}}
 Big Critter Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Critters.
 |sellprice=163000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=17
+|craftnum=18
 |levelreq=37
 |expgiven=80000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Mousey|quantity1=10000
 |resource2=Sizable Critter Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Critter Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter4|10000}}
-{{detrecipe|3|MaxCapBagTr3|2}}
-{{detrecipe|40|Critter2|2000}}
-{{detrecipe|40|Refinery1|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter4|10000}}
-{{detrecipe/totals|Critter2|2000}}
-{{detrecipe/totals|Refinery1|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Mousey|10000}}
+{{detrecipe|3|Sizable Critter Pouch|2}}
+{{detrecipe|40|Crabbo|2000}}
+{{detrecipe|40|Redox Salts|30}}
+|tot=
+{{detrecipe/totals|Mousey|10000}}
+{{detrecipe/totals|Crabbo|2000}}
+{{detrecipe/totals|Redox Salts|30}}
+}}
 Large Critter Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Critters.
 |sellprice=1376000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=41
+|craftnum=42
 |levelreq=44
 |expgiven=250000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Pingy|quantity1=30000
 |resource2=Big Critter Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Critter6|30000}}
-{{detrecipe|3|MaxCapBagTr4|2}}
-{{detrecipe|40|Critter4|20000}}
-{{detrecipe|40|MaxCapBagTr3|4}}
-{{detrecipe|80|Critter2|4000}}
-{{detrecipe|80|Refinery1|60}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter6|30000}}
-{{detrecipe/totals|Critter4|20000}}
-{{detrecipe/totals|Critter2|4000}}
-{{detrecipe/totals|Refinery1|60}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Pingy|30000}}
+{{detrecipe|3|Big Critter Pouch|2}}
+{{detrecipe|40|Mousey|20000}}
+{{detrecipe|40|Sizable Critter Pouch|4}}
+{{detrecipe|80|Crabbo|4000}}
+{{detrecipe|80|Redox Salts|60}}
+|tot=
+{{detrecipe/totals|Pingy|30000}}
+{{detrecipe/totals|Mousey|20000}}
+{{detrecipe/totals|Crabbo|4000}}
+{{detrecipe/totals|Redox Salts|60}}
+}}
 Cramped Soul Pouch
 {{InfoItem
 |type=Carry Bag
@@ -1408,25 +1408,25 @@ Small Soul Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 100: Souls.
 |sellprice=900
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=83
+|craftnum=84
 |levelreq=15
 |expgiven=450
-|recipefrom=Start
+|recipefrom=
 |resource1=Forest Soul|quantity1=200
 |resource2=Redox Salts|quantity2=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Soul1|200}}
-{{detrecipe|3|Refinery1|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul1|200}}
-{{detrecipe/totals|Refinery1|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Soul|200}}
+{{detrecipe|3|Redox Salts|3}}
+|tot=
+{{detrecipe/totals|Forest Soul|200}}
+{{detrecipe/totals|Redox Salts|3}}
+}}
 Average Soul Pouch
 {{InfoItem
 |type=Carry Bag
@@ -1438,85 +1438,85 @@ Sizable Soul Pouch
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Souls.
 |sellprice=15500
+|source=[[Smithing]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=71
+|craftnum=72
 |levelreq=28
 |expgiven=4000
-|recipefrom=Start
+|recipefrom=
 |resource1=Dune Soul|quantity1=1500
 |resource2=Redox Salts|quantity2=20
 }}
 {{usedin/head}}
 {{usedin/row|[[Big Soul Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul2|1500}}
-{{detrecipe|3|Refinery1|20}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul2|1500}}
-{{detrecipe/totals|Refinery1|20}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dune Soul|1500}}
+{{detrecipe|3|Redox Salts|20}}
+|tot=
+{{detrecipe/totals|Dune Soul|1500}}
+{{detrecipe/totals|Redox Salts|20}}
+}}
 Big Soul Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Souls.
 |sellprice=191000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=19
+|craftnum=20
 |levelreq=37
 |expgiven=80000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Rooted Soul|quantity1=8000
 |resource2=Sizable Soul Pouch|quantity2=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Large Soul Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul3|8000}}
-{{detrecipe|3|MaxCapBagS3|2}}
-{{detrecipe|40|Soul2|3000}}
-{{detrecipe|40|Refinery1|40}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul3|8000}}
-{{detrecipe/totals|Soul2|3000}}
-{{detrecipe/totals|Refinery1|40}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Rooted Soul|8000}}
+{{detrecipe|3|Sizable Soul Pouch|2}}
+{{detrecipe|40|Dune Soul|3000}}
+{{detrecipe|40|Redox Salts|40}}
+|tot=
+{{detrecipe/totals|Rooted Soul|8000}}
+{{detrecipe/totals|Dune Soul|3000}}
+{{detrecipe/totals|Redox Salts|40}}
+}}
 Large Soul Pouch
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Souls.
 |sellprice=1432000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=43
+|craftnum=44
 |levelreq=44
 |expgiven=250000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Frigid Soul|quantity1=30000
 |resource2=Big Soul Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Soul4|30000}}
-{{detrecipe|3|MaxCapBagS4|2}}
-{{detrecipe|40|Soul3|16000}}
-{{detrecipe|40|MaxCapBagS3|4}}
-{{detrecipe|80|Soul2|6000}}
-{{detrecipe|80|Refinery1|80}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul4|30000}}
-{{detrecipe/totals|Soul3|16000}}
-{{detrecipe/totals|Soul2|6000}}
-{{detrecipe/totals|Refinery1|80}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frigid Soul|30000}}
+{{detrecipe|3|Big Soul Pouch|2}}
+{{detrecipe|40|Rooted Soul|16000}}
+{{detrecipe|40|Sizable Soul Pouch|4}}
+{{detrecipe|80|Dune Soul|6000}}
+{{detrecipe|80|Redox Salts|80}}
+|tot=
+{{detrecipe/totals|Frigid Soul|30000}}
+{{detrecipe/totals|Rooted Soul|16000}}
+{{detrecipe/totals|Dune Soul|6000}}
+{{detrecipe/totals|Redox Salts|80}}
+}}

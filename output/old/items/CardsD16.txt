@@ -2,7 +2,7 @@
 |title=Cinder Forge
 |order=3
 |category=Medium Resources
-|effect=+{%_Smithing_EXP
+|effect=+{% Smithing EXP
 |bonus=7
 |reqtier=10
 }}

@@ -3,13 +3,14 @@
 |description=I wonder what the Ed Boys are up to these days?
 |sellprice=25
 |source=[[Wode Board]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.15|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Bleached Designer Wode Patch Pants]]|275|Crafting}}
-{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|500|Quests}}
+{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
 |}

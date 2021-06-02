@@ -1,10 +1,10 @@
 {{InfoItem
 |type=Bar
 |sellprice=32
-|source=Forging, [[Fire Forge]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Forging]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|15}}
 |}
 {{usedin/head}}
@@ -23,8 +23,8 @@
 {{usedin/row|[[Amarok Bodyplate]]|400|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
 {{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
-{{usedin/row|[[Picnic_Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
+{{usedin/row|[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Barley Brew|Barley Brew]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Barley Brew]]|Lots|Alchemy}}
 |}

@@ -9,13 +9,15 @@
 |upgrade=2
 |defence=2
 |sellprice=875
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=19
+|craftnum=20
 |levelreq=10
 |expgiven=110
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=125
 }}
 {{usedin/head}}
@@ -23,10 +25,9 @@
 {{usedin/row|[[Goo Galoshes]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|125}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|125}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|125}}
+|tot=
+{{detrecipe/totals|Copper Bar|125}}
+}}

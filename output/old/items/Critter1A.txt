@@ -2,11 +2,12 @@
 |type=Critter
 |description=Ew, it's the living embodiment of that scam alt-coin crypto ripoff, 'Frogecoin Cash'
 |sellprice=100
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Silkskin Traps]]|1|Crafting}}
 {{usedin/row|[[Dementia Boots]]|3|Crafting}}
-{{usedin/row|[[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|1|Quests}}
-{{usedin/row|[[Vials#Poison Tincture|Poison Tincture]]|Lots|Alchemy}}
+{{usedin/row|[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|1|Quests}}
+{{usedin/row|[[Alchemy#Vials|Poison Tincture]]|Lots|Alchemy}}
 |}

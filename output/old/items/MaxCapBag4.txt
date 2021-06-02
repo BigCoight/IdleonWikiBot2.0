@@ -2,10 +2,12 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Ores, Bars, Barrels.
 |sellprice=239100
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=29
+|craftnum=30
 |levelreq=24
 |expgiven=9000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -15,19 +17,18 @@
 {{usedin/head}}
 {{usedin/row|[[Big Mining Pouch]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Plat|6750}}
-{{detrecipe|3|MaxCapBag3|3}}
-{{detrecipe|40|MaxCapBag1|15}}
-{{detrecipe|80|Copper|1800}}
-{{detrecipe|40|MaxCapBag2|9}}
-{{detrecipe|80|Iron|6300}}
-{{detrecipe|40|Gold|4200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Plat|6750}}
-{{detrecipe/totals|Copper|1800}}
-{{detrecipe/totals|Iron|6300}}
-{{detrecipe/totals|Gold|4200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Platinum Ore|6750}}
+{{detrecipe|3|Average Mining Pouch|3}}
+{{detrecipe|40|Cramped Mining Pouch|15}}
+{{detrecipe|80|Copper Ore|1800}}
+{{detrecipe|40|Small Mining Pouch|9}}
+{{detrecipe|80|Iron Ore|6300}}
+{{detrecipe|40|Gold Ore|4200}}
+|tot=
+{{detrecipe/totals|Platinum Ore|6750}}
+{{detrecipe/totals|Copper Ore|1800}}
+{{detrecipe/totals|Iron Ore|6300}}
+{{detrecipe/totals|Gold Ore|4200}}
+}}

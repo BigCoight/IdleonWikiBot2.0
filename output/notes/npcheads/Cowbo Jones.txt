@@ -1,0 +1,11 @@
+{{npc
+|location=YumYum Grotto
+|noquest=13
+|repeatable=Unknown
+|birthweight=7.79
+|starsign=Libra
+|mmm=Lee
+|notes=[[Cowbo Jones]] is on the righthand side of [[Worlds#D0 - YumYum Grotto|YumYum Grotto]], near the portal to [[Worlds#D2 - Jar Bridge|Jar Bridge]]. He facilitates the main questline in Yum-Yum Desert much the same way [[Scripticus]] does in Blunder Hills.
+
+His quests introduce [[Alchemy]] and guide the player through the first half of the Desert. His final quest, "Oh No, not the Elderly!" isn't completable yet.
+}}

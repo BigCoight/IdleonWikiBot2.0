@@ -2,35 +2,36 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Ores, Bars, Barrels.
 |sellprice=3381400
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=33
+|craftnum=34
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Void Ore|quantity1=25000
 |resource2=Big Mining Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Void|25000}}
-{{detrecipe|3|MaxCapBag5|2}}
-{{detrecipe|40|Dementia|35000}}
-{{detrecipe|40|MaxCapBag4|4}}
-{{detrecipe|80|Plat|27000}}
-{{detrecipe|80|MaxCapBag3|12}}
-{{detrecipe|120|MaxCapBag1|60}}
-{{detrecipe|160|Copper|7200}}
-{{detrecipe|120|MaxCapBag2|36}}
-{{detrecipe|160|Iron|25200}}
-{{detrecipe|120|Gold|16800}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Void|25000}}
-{{detrecipe/totals|Dementia|35000}}
-{{detrecipe/totals|Plat|27000}}
-{{detrecipe/totals|Copper|7200}}
-{{detrecipe/totals|Iron|25200}}
-{{detrecipe/totals|Gold|16800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Void Ore|25000}}
+{{detrecipe|3|Big Mining Pouch|2}}
+{{detrecipe|40|Dementia Ore|35000}}
+{{detrecipe|40|Sizable Mining Pouch|4}}
+{{detrecipe|80|Platinum Ore|27000}}
+{{detrecipe|80|Average Mining Pouch|12}}
+{{detrecipe|120|Cramped Mining Pouch|60}}
+{{detrecipe|160|Copper Ore|7200}}
+{{detrecipe|120|Small Mining Pouch|36}}
+{{detrecipe|160|Iron Ore|25200}}
+{{detrecipe|120|Gold Ore|16800}}
+|tot=
+{{detrecipe/totals|Void Ore|25000}}
+{{detrecipe/totals|Dementia Ore|35000}}
+{{detrecipe/totals|Platinum Ore|27000}}
+{{detrecipe/totals|Copper Ore|7200}}
+{{detrecipe/totals|Iron Ore|25200}}
+{{detrecipe/totals|Gold Ore|16800}}
+}}

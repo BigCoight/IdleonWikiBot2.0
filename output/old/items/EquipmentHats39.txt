@@ -8,6 +8,7 @@
 |defence=5
 |sellprice=1500
 |source=[[Amarok]], [[Chaotic Amarok]], [[Nightmare Amarok]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.001|1}}

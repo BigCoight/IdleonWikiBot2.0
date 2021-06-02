@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Efaunt_Walking.gif
+|image=Efaunt Walking.gif
 |attack=1000
 |health=1000000
 |defence=775
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|King Doot|Chaotic Efaunt}}
-{{DropTable/head}}
 {{DropTable/coin|4000|1}}
 {{DropTable/card|0.035}}
 {{DropTable/row|Midnight Cookie|0.07|1}}

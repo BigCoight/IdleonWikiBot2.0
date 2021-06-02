@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Fire Forge_Walking.gif
+|image=Fire Forge Walking.gif
 |attack=1000
 |health=420
 |defence=600
@@ -9,7 +9,6 @@
 |defence0=1223.26
 }}
 {{EnemyNavigation||}}
-{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/row|Copper Bar|0.5|69}}
 {{DropTable/row|Iron Bar|0.5|69}}

@@ -7,26 +7,26 @@
 |upgrade=5
 |defence=10
 |sellprice=8640
-|source=[[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Smithing]], [[Alchemy#Level up Gift|Level up Gift]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=23
+|craftnum=24
 |levelreq=12
 |expgiven=50
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=200
 |resource2=Copper Helmet|quantity2=4
 }}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|200}}
-{{detrecipe|3|EquipmentHats17|4}}
-{{detrecipe|40|CopperBar|120}}
-{{detrecipe|40|Grasslands3|200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|200}}
-{{detrecipe/totals|CopperBar|120}}
-{{detrecipe/totals|Grasslands3|200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|200}}
+{{detrecipe|3|Copper Helmet|4}}
+{{detrecipe|40|Copper Bar|120}}
+{{detrecipe|40|Bean Slices|200}}
+|tot=
+{{detrecipe/totals|Iron Bar|200}}
+{{detrecipe/totals|Copper Bar|120}}
+{{detrecipe/totals|Bean Slices|200}}
+}}

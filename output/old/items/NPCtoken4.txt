@@ -3,6 +3,7 @@
 |description=Proof that you completed all of Stiltzcho's main quests!
 |sellprice=700
 |source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Easy Blunderhills NPC Token]]|1|Crafting}}

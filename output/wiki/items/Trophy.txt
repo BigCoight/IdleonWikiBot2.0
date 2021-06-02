@@ -11,7 +11,8 @@ King of Food
 |misc=20% Food Effect
 |defence=25
 |sellprice=10000
-|source=[[Picnic_Stowaway#King of Food|King of Food]]
+|source=[[Picnic Stowaway#King of Food|King of Food]]
+|notes= 
 }}
 Lucky Lad
 {{InfoItem
@@ -22,6 +23,7 @@ Lucky Lad
 |misc=7% Drop Chance
 |sellprice=777
 |source=[[SuperDropTable1]], [[SuperDropTable2]], [[SuperDropTable3]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0000007199999999999999|1.0}}
@@ -90,9 +92,6 @@ Lucky Lad
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.000000021599999999999998|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.000000021599999999999998|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000000026999999999999994|2.0}}
-{{detdrops|[[Frigid Soul]]|0.000000026999999999999994|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.000000026999999999999994|1.0}}
-{{detdrops|[[Bandit Bob]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000000026999999999999994|1.0}}
@@ -103,7 +102,7 @@ Lucky Lad
 {{detdrops|[[Xylobone]]|0.000000018|1.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.0000018|1.0}}
 {{detdrops|[[Bloque]]|0.0000000045|1.0}}
-{{detdrops|[[mamooth]]|0.00000000486|1.0}}
+{{detdrops|[[Mamooth]]|0.00000000486|1.0}}
 {{detdrops|[[Snowman]]|0.00000000522|1.0}}
 {{detdrops|[[Penguin]]|0.000000005579999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.00000000594|1.0}}
@@ -130,6 +129,7 @@ Club Member
 |defence=5
 |sellprice=777
 |source=[[Rocklyte#Becoming the Best Beginner|Becoming the Best Beginner]]
+|notes= 
 }}
 I Made This Game
 {{InfoItem
@@ -139,6 +139,7 @@ I Made This Game
 |weaponpower=1
 |misc=100% Player Height
 |sellprice=777
+|notes= 
 }}
 Dice Dynamo
 {{InfoItem
@@ -149,6 +150,7 @@ Dice Dynamo
 |luck=5
 |misc=2% Luk
 |sellprice=777
+|notes= 
 }}
 Blunder Hero
 {{InfoItem
@@ -164,6 +166,7 @@ Blunder Hero
 |defence=15
 |sellprice=69
 |source=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
+|notes= 
 }}
 Original Gamer
 {{InfoItem
@@ -176,6 +179,7 @@ Original Gamer
 |luck=2
 |misc=2% Xp From Monsters
 |sellprice=69
+|notes= 
 }}
 Trailblazer
 {{InfoItem
@@ -189,6 +193,7 @@ Trailblazer
 |luck=3
 |misc=20% Xp From Monsters
 |sellprice=69
+|notes= 
 }}
 Ultra Unboxer
 {{InfoItem
@@ -203,6 +208,7 @@ Ultra Unboxer
 |defence=3
 |sellprice=69
 |source=[[Guild Giftbox]]
+|notes= 
 }}
 Critter Baron
 {{InfoItem
@@ -212,5 +218,6 @@ Critter Baron
 |agi=10
 |misc=3% Agi
 |sellprice=69
-|source=[[Lord_of_the_Hunt#To Trap or not to Trap|To Trap or not to Trap]]
+|source=[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]
+|notes= 
 }}

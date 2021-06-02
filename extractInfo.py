@@ -1,3 +1,4 @@
+from os import replace
 from libs.funcLib import fix, repU
 import re
 import numpy as np
@@ -8,6 +9,7 @@ import combineEnemyData
 import combineItemData
 import combineNpcData
 import combineSkillData
+import getNotes
 
 
 # This is to rename chests eg: chestA3 to Dewdrop Gold Chest
@@ -134,7 +136,7 @@ def writeRecipesJSON(reader):
                 "recipe": recipe,
                 "levelReqToCraft": lvlData[0][0],
                 "expGiven": lvlData[0][1],
-                "no": j,
+                "no": j + 1,
                 "tab": f"Anvil Tab {i+1}",
             }
         recipes.append(temp.copy())
@@ -153,6 +155,8 @@ def writeRecipesJSON(reader):
         "no": 43,
         "tab": 2,
     }
+    if len(recipes) > 2:
+        del recipes[2]["Bullet"]
 
     writeJSON("Recipes", recipes)
 
@@ -212,7 +216,8 @@ def writeQuestJSON(reader):
 
     for i in range(1, len(questData), 2):
         if quests := re.split(reQuest, questData[i + 1]):
-            npcs[questData[i]] = []
+            npcName = repU(questData[i], True)
+            npcs[npcName] = []
             for j in range(1, len(quests), 2):
                 if data := re.split(reQData, quests[j + 1]):
                     temp = {"Type": quests[j]}
@@ -221,14 +226,15 @@ def writeQuestJSON(reader):
                         val = fix(data[k + 1], ['"', ",})", " })", ";"])
                         val = strToArray(val) if "[" in val else fix(val, [","])
                         temp[atr] = repU(val, True)
-                    npcs[questData[i]].append(temp.copy())
+                    npcs[npcName].append(temp.copy())
 
     for questName, npc, diff, index in addQuestNames(reader):
         if index == "f":
             continue
         index = int(index)
-        npcs[npc][index]["Name"] = repU(questName, True)
-        npcs[npc][index]["Difficulty"] = diff
+        npcName = repU(npc, True)
+        npcs[npcName][index]["Name"] = repU(questName, True)
+        npcs[npcName][index]["Difficulty"] = diff
     writeJSON("Npcs", npcs)
 
 
@@ -253,6 +259,9 @@ def writeEnemiesJSON(reader):
         if intName[:5] == "Chest":  # If we need to change the name of the cols
             enemies[intName]["Name"] = changeChestNames(intName, enemies[intName]["Name"])
         enemies[intName]["Name"] = repU(enemies[intName]["Name"], True)
+
+    # for toIgnore in ["ForgeA","ForgeB","Bandit_Bob","SoulCard1","SoulCard2","SoulCard3","SoulCard4","SoulCard5","SoulCard6","CritterCard1","CritterCard2","CritterCard3","CritterCard4","CritterCard5","CritterCard6","CritterCard7","CritterCard8","CritterCard9"]:
+    #     del enemies[toIgnore]
     writeJSON("Enemies", enemies)
 
 
@@ -446,7 +455,6 @@ def writeCustomSourcesJSON():
         "EquipmentRingsChat6",
         "EquipmentRingsChat3",
         "EquipmentRingsChat9",
-        "EquipmentHats38",
         "EquipmentHats35",
         "EquipmentHats50",
         "EquipmentHats49",
@@ -465,8 +473,14 @@ def writeCustomSourcesJSON():
         "EquipmentHats38",
         "EquipmentHats32",
         "EquipmentHats37",
-        "EquipmentHats35",
         "EquipmentHats40",
+        "EquipmentHats36",
+        "CardPack3",
+        "EquipmentRingsChat8",
+        "EquipmentHats43",
+        "EquipmentHats45",
+        "EquipmentHats57",
+        "EquipmentHats62",
     ]
     custSources["Starter Hat"] = ["EquipmentHats14", "EquipmentHats11", "EquipmentHats13", "EquipmentHats12"]
     custSources["[[Alchemy#Level up Gift|Level up Gift]]"] = ["EquipmentHats21", "PremiumGem", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "Timecandy5", "Line6", "StoneZ1", "FoodPotYe1", "FoodPotYe2", "FoodPotYe3", "StampC9", "Quest25", "EquipmentStatues1", "EquipmentStatues2", "EquipmentStatues3", "EquipmentStatues4", "EquipmentStatues5", "EquipmentStatues6", "EquipmentStatues7", "EquipmentStatues8"]
@@ -475,17 +489,26 @@ def writeCustomSourcesJSON():
     custSources["[[Alchemy#Liquid Shop|Mediocre Obols]]"] = ["ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronze3", "ObolBronzeMining", "ObolBronzeChoppin", "ObolBronzeDamage"]
     custSources["[[Alchemy#Liquid Shop|Decent Obols]]"] = ["ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronze3", "ObolSilverDamage", "ObolBronzeFishing", "ObolBronzeCatching", "ObolSilverFishing", "ObolSilverChoppin", "ObolSilverCatching", "ObolSilverMining", "ObolSilver0", "ObolSilver1", "ObolSilver2", "ObolSilver3"]
     custSources["[[Alchemy#Liquid Shop|Weak UPG Stone]]"] = ["StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"]
+    custSources["[[Trapping]]"] = ["CritterCard1", "CritterCard2", "CritterCard3", "CritterCard4", "CritterCard5", "CritterCard6", "CritterCard7"]
+    custSources["[[Worship]]"] = ["SoulCard1", "SoulCard2", "SoulCard3", "SoulCard4", "SoulCard5"]
+    custSources["[[Construction#Refinery|Refinery]]"] = ["Refinery1", "Refinery2", "Refinery3", "Refinery4"]
+    custSources["[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]"] = ["Quest11"]
+    custSources["Has a 1/1M chance to drop from active kills if the Blue Hedgehog [[Star Signs|Starsign]] is equipped."] = ["EquipmentRings15"]
+    custSources["[[Alchemy#Level up Gift|Level up Gift (however this item has no use anymore)]]"] = ["Quest26"]
+    # custSources["[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]"] = ["Quest10"]
+
     writeJSON("CustomSources", custSources)
 
 
 def writeCardJSON(reader):
-    cardNames = ["Blunder Hills", "Yum Yum Desert", "Easy Resources", "Medium Resources", "Frostfire Tyundra", "Bosses", "Event", "NYI", "NYI"]
-    cardDict = {}
+    cardNames = {"A": "Blunder Hills", "B": "Yum Yum Desert", "C": "Easy Resources", "D": "Medium Resources", "E": "Frostfire Tyundra", "F": "Hard Resources", "Z": "Bosses", "Y": "Event"}
+    cardDict = {x: {} for x in cardNames.values()}
     cardData = fix(reader.getSection("CardInfo"), ["\n", "  "])
     for n, section in enumerate(["[[" + x + "]]" for x in re.split(r",?\],?],\[\[", cardData)]):
-        cardDict[cardNames[n]] = {}
         for m, data in enumerate(["[[" + x + "]]" for x in re.split(r",?],\[", section)]):
-            cardDict[cardNames[n]][strToArray(data)[0]] = strToArray(data)[1:] + [str(m)]
+            arrayData = strToArray(data)
+            cardSection = arrayData[1][0]
+            cardDict[cardNames[cardSection]][arrayData[0]] = [repU(x, True).replace("{", "") for x in arrayData[1:]] + [str(m)]
     writeJSON("CardData", cardDict)
 
 
@@ -503,7 +526,7 @@ def writeTaskUnlocks(reader):
     unlockData = fix(reader.getSection("TaskUnlocks"), ["\n", "  "])
     taskUnlocks = ["[[" + x + "]]" for x in re.split(r"\],?\],?],\[\[\[", unlockData)]
     for j, taskUnlock in enumerate(taskUnlocks):
-        if j >= 2:
+        if j >= 3:
             break
         categories = ["[[" + x + "]]" for x in re.split(r",?\],?],\[\[", taskUnlock)]
         temp = []
@@ -543,5 +566,5 @@ def main(codefile):
 
 
 if __name__ == "__main__":
-    main(r"./input/codefile/idleon120.txt")
+    main(r"./input/codefile/idleon120b.txt")
 

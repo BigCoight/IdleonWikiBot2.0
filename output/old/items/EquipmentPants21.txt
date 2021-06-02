@@ -9,37 +9,38 @@
 |upgrade=4
 |defence=38
 |sellprice=11725560
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=26
+|craftnum=27
 |levelreq=45
 |expgiven=370000
-|recipefrom=Start
+|recipefrom=
 |resource1=Wispy Lumber|quantity1=75000
 |resource2=Dementia Shins|quantity2=2
 |resource3=Void Bar|quantity3=650
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Tree7|75000}}
-{{detrecipe|3|EquipmentPants6|2}}
-{{detrecipe|40|SnowA1|16000}}
-{{detrecipe|40|EquipmentPants5|4}}
-{{detrecipe|80|Bug3|2000}}
-{{detrecipe|80|EquipmentPants3|24}}
-{{detrecipe|120|IronBar|4080}}
-{{detrecipe|120|CraftMat6|5400}}
-{{detrecipe|80|PlatBar|5000}}
-{{detrecipe|40|DementiaBar|800}}
-{{detrecipe|3|VoidBar|650}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Tree7|75000}}
-{{detrecipe/totals|SnowA1|16000}}
-{{detrecipe/totals|Bug3|2000}}
-{{detrecipe/totals|IronBar|4080}}
-{{detrecipe/totals|CraftMat6|5400}}
-{{detrecipe/totals|DementiaBar|800}}
-{{detrecipe/totals|VoidBar|650}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Wispy Lumber|75000}}
+{{detrecipe|3|Dementia Shins|2}}
+{{detrecipe|40|Floof Ploof|16000}}
+{{detrecipe|40|Platinum Shins|4}}
+{{detrecipe|80|Sentient Cereal|2000}}
+{{detrecipe|80|Iron Platelegs|24}}
+{{detrecipe|120|Iron Bar|4080}}
+{{detrecipe|120|Boring Brick|5400}}
+{{detrecipe|80|Platinum Bar|5000}}
+{{detrecipe|40|Dementia Bar|800}}
+{{detrecipe|3|Void Bar|650}}
+|tot=
+{{detrecipe/totals|Wispy Lumber|75000}}
+{{detrecipe/totals|Floof Ploof|16000}}
+{{detrecipe/totals|Sentient Cereal|2000}}
+{{detrecipe/totals|Iron Bar|4080}}
+{{detrecipe/totals|Boring Brick|5400}}
+{{detrecipe/totals|Dementia Bar|800}}
+{{detrecipe/totals|Void Bar|650}}
+}}

@@ -2,8 +2,9 @@
 |type=Critter
 |description=The other bunny is brilliant... But I like this one more.
 |sellprice=3
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
+{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
 |}

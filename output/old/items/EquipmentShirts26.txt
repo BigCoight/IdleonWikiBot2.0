@@ -9,10 +9,12 @@
 |upgrade=6
 |defence=30
 |sellprice=4260
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=61
+|craftnum=62
 |levelreq=39
 |expgiven=50000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -20,14 +22,13 @@
 |resource2=Midnight Cookie|quantity2=10
 |resource3=Distilled Water|quantity3=25
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|10}}
-{{detrecipe|3|MidnightCookie|10}}
-{{detrecipe|3|PureWater|25}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|10}}
-{{detrecipe/totals|MidnightCookie|10}}
-{{detrecipe/totals|PureWater|25}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|10}}
+{{detrecipe|3|Midnight Cookie|10}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|10}}
+{{detrecipe/totals|Midnight Cookie|10}}
+{{detrecipe/totals|Distilled Water|25}}
+}}

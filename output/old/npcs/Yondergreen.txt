@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Sagittarius
-|mmm=Woo
-|birthweight=4.45
+|starsign=Gemini
+|mmm=Vail
+|birthweight=6.78
 |notes=fillme
 }}
 {{Quest/head}}

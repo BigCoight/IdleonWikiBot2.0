@@ -2,7 +2,7 @@
 |title=Sir Stache
 |order=2
 |category=Frostfire Tyundra
-|effect=+{%_Card_Drop_Chance
+|effect=+{% Card Drop Chance
 |bonus=8
 |reqtier=13
 |source=[[Sir Stache]]

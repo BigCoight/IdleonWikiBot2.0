@@ -6,13 +6,15 @@
 |agi=10
 |upgrade=2
 |sellprice=17015
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=16
+|craftnum=17
 |levelreq=40
 |expgiven=225000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Nakeo Moleo|quantity1=5
 |resource2=Redox Salts|quantity2=50
 |resource3=Wooden Traps|quantity3=2
@@ -20,16 +22,15 @@
 {{usedin/head}}
 {{usedin/row|[[Steel Traps]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Critter4A|5}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|TrapBoxSet3|2}}
-{{detrecipe|40|Critter2A|4}}
-{{detrecipe|40|Refinery1|40}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Critter4A|5}}
-{{detrecipe/totals|Refinery1|90}}
-{{detrecipe/totals|Critter2A|4}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Nakeo Moleo|5}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Wooden Traps|2}}
+{{detrecipe|40|Mutant Crabbo|4}}
+{{detrecipe|40|Redox Salts|40}}
+|tot=
+{{detrecipe/totals|Nakeo Moleo|5}}
+{{detrecipe/totals|Redox Salts|90}}
+{{detrecipe/totals|Mutant Crabbo|4}}
+}}

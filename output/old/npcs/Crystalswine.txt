@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Aries
-|mmm=Johnsen
-|birthweight=5.92
+|starsign=Gemini
+|mmm=Olson
+|birthweight=1.17
 |notes=fillme
 }}
 {{Quest/head}}

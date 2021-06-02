@@ -5,3 +5,4 @@
 |material=Meat Pie
 |sellprice=1000
 }}
+{{stampdata|stype=HFood|ftype=add|x1=1|x2=0|i4=5|material=Meat Pie|i6=50|i7=5.5|i8=200|i9=1.30|i10=0|i11={}% HP Food Effect|i12=3}}

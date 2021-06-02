@@ -3,6 +3,7 @@
 |description=A statue of the soul.
 |sellprice=10
 |source=[[Sir Stache]], [[Quenchie]]
+|notes= 
 }}
 {{Statuedata|0.3|+ @ Worship Power}}
 {{detdrops/head}}

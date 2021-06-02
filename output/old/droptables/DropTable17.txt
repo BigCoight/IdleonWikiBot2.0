@@ -1,4 +1,2 @@
-{{DropTable/head}}
 {{DropTable/row|Hidey Box Stamp|{{#expr: {{{chance}}}*.0012}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}
-|}

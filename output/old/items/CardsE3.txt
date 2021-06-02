@@ -2,7 +2,7 @@
 |title=Bloque
 |order=3
 |category=Frostfire Tyundra
-|effect=+{_Base_AGI
+|effect=+{ Base AGI
 |bonus=7
 |reqtier=14
 |source=[[Bloque]]

@@ -1,7 +1,9 @@
 {{InfoItem
 |type=Log
 |sellprice=2
-|source=Choppin, [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|40}}
@@ -20,7 +22,7 @@
 {{usedin/row|[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]|100|Quests}}
 {{usedin/row|[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]|1000|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Roid Ragin|Roid Ragin]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Sippy Splinters|Sippy Splinters]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Roid Ragin]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Sippy Splinters]]|Lots|Alchemy}}
 |}

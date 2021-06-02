@@ -9,39 +9,40 @@
 |upgrade=3
 |defence=47
 |sellprice=7614000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=50
+|craftnum=51
 |levelreq=48
 |expgiven=750000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Helmet|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentHats54|1}}
-{{detrecipe|40|Refinery3|500}}
-{{detrecipe|40|EquipmentHats53|2}}
-{{detrecipe|80|Critter1|10000}}
-{{detrecipe|80|EquipmentHats19|4}}
-{{detrecipe|120|Fish3|16000}}
-{{detrecipe|120|EquipmentHats18|16}}
-{{detrecipe|160|IronBar|2000}}
-{{detrecipe|160|Forest1|4800}}
-{{detrecipe|120|PlatBar|3000}}
-{{detrecipe|80|DementiaBar|600}}
-{{detrecipe|40|VoidBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|Refinery3|500}}
-{{detrecipe/totals|Critter1|10000}}
-{{detrecipe/totals|Fish3|16000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|Forest1|4800}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|VoidBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Helmet|1}}
+{{detrecipe|40|Spontaneity Salts|500}}
+{{detrecipe|40|Dementia Helmet|2}}
+{{detrecipe|80|Froge|10000}}
+{{detrecipe|80|Platinum Helmet|4}}
+{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Iron Helmet|16}}
+{{detrecipe|160|Iron Bar|2000}}
+{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|120|Platinum Bar|3000}}
+{{detrecipe|80|Dementia Bar|600}}
+{{detrecipe|40|Void Bar|1000}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Goblin Ear|4800}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Void Bar|1000}}
+}}

@@ -3,6 +3,7 @@
 |description=Ohhhhh, that's what people mean when they say Love At First Sight!                             NOTE: This is a very rare drop from Crabcakes
 |sellprice=80
 |source=[[Crabcake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.00005|1}}
@@ -14,5 +15,5 @@
 {{usedin/row|[[Feral Leathering]]|1|Crafting}}
 {{usedin/row|[[Furled Robes]]|1|Crafting}}
 {{usedin/row|[[Efaunts Broken Ankles]]|3|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
+{{usedin/row|[[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
 |}

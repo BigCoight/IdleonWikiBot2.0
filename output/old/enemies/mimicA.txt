@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Mimic_Walking.gif
+|image=Mimic Walking.gif
 |attack=62
 |health=5500
 |defence=132
@@ -14,12 +14,11 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sandy Pot|Crabcake}}
-{{DropTable/head}}
 {{DropTable/coin|47|0.47}}
 {{DropTable/row|Megalodon Tooth|0.212|1}}
 {{DropTable/row|Casual Confidante|0.1|1|([[Goldric]])}}
 {{DropTable/card|0.0001}}
 {{DropTable/row|Totally Normal and not fake Bag|0.000025|1}}
-{{DropTable/recipe1|Defenders Dignity|0.000005}}
+{{DropTable/recipe|1|Defenders Dignity|0.000005}}
 {{DropTable6|chance=0.0032}}
 |}

@@ -1,5 +1,3 @@
-{{DropTable/head}}
 {{DropTable/row|Speed Statue|{{#expr: {{{chance}}}*.07}}|1}}
 {{DropTable/row|Feasty Statue|{{#expr: {{{chance}}}*.05}}|1}}
 {{DropTable/row|Beholder Statue|{{#expr: {{{chance}}}*.05}}|1}}
-|}

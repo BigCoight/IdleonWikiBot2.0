@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Green Mushroom_Walking.gif
+|image=Green Mushroom Walking.gif
 |attack=1
 |health=10
 |defence=1
@@ -13,7 +13,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation||Red Mushroom}}
-{{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/row|Spore Cap|0.22|1}}
 {{DropTable/card|0.0001}}

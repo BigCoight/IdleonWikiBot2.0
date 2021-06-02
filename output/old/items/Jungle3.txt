@@ -3,6 +3,7 @@
 |description=Probably the only time you'll ever see a carrot cut into a cube!
 |sellprice=15
 |source=[[Carrotman]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Carrotman]]|0.17|1}}
@@ -11,5 +12,5 @@
 {{usedin/row|[[Iron Pickaxe]]|200|Crafting}}
 {{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|2|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Lil Big Damage|Lil Big Damage]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Lil Big Damage]]|Lots|Alchemy}}
 |}

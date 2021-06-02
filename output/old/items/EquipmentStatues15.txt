@@ -3,6 +3,7 @@
 |description=This statue was created by shooting a target statue into a stationary arrow statue.
 |sellprice=10
 |source=[[DropTable3c]]
+|notes= 
 }}
 {{Statuedata|0.8|+ %@ Accuracy}}
 {{detdrops/head}}

@@ -1,18 +1,20 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Cancer
-|mmm=Hoffman
-|birthweight=3.47
-|notes=fillme
+{{npc
+|location=The Mimic Hole
+|noquest=5
+|repeatable=Unknown
+|birthweight=3.06
+|starsign=Taurus
+|mmm=Garcia
+|notes=[[Centurion]] is located in [[Worlds#D2 - The Mimic Hole|The Mimic Hole]], next to the [[Colosseum#Sandstone_Colosseum|Sandstone Colosseum]].
+
+Completing his first two quests gives the player the ability to talk to him once every day to obtain a {{CraftReq|Colosseum Ticket}}. This is the second daily source of tickets after [[Typhoon]]. He will hold tickets for you for up to 3 days. Having more characters complete his quests does not provide more daily tickets.
 }}
 {{Quest/head}}
 {{Quest
 |name=Down The Mimic Hole!
 |text=Defeat all mimics before the time runs out.
 |difficulty=3
-|requirements=Mimics Defeated: >= 21. Starting at 0. Time Remaining: >= 1. Starting at 69. 
+|requirements=Mimics Defeated: >= 21. Starting at 0., Time Remaining: >= 1. Starting at 69.
 |consumed=No
 |rewards=1x {{CraftReq|Colosseum Ticket}}, 100 Class Experience
 }}
@@ -22,31 +24,31 @@
 |difficulty=3
 |requirements=2500x {{CraftReq|Coconotnotto}}
 |consumed=Yes
-|rewards=2x {{CraftReq|1 HR Time Candy}}, 2x {{CraftReq|Colosseum Ticket}}, 10000x {{CraftReq|COIN}}
+|rewards=2x {{CraftReq|1 HR Time Candy}}, 2x {{CraftReq|Colosseum Ticket}}, {{Coindisplay|10000}}
 }}
 {{Quest
 |name=High Scorer
 |text= Get a 200K+ colosseum score. Remember to skip rounds to grow your score multiplier!
 |difficulty=4
-|requirements=Colosseum Score: >= 200000. Starting at 0. 
+|requirements=Colosseum Score: >= 200000. Starting at 0.
 |consumed=No
-|rewards=2x {{CraftReq|2 HR Time Candy}}, 20000x {{CraftReq|COIN}}
+|rewards=2x {{CraftReq|2 HR Time Candy}}, {{Coindisplay|20000}}
 }}
 {{Quest
 |name=Colosseum Champ!
 |text=Complete all 15 waves with a final score of 350K+
 |difficulty=5
-|requirements=Waves Completed: >= 15. Starting at 0. Colosseum Score: >= 350000. Starting at 0. 
+|requirements=Waves Completed: >= 15. Starting at 0., Colosseum Score: >= 350000. Starting at 0.
 |consumed=No
-|rewards=1x {{CraftReq|4 HR Time Candy}}, 2x {{CraftReq|2 HR Time Candy}}, 50000x {{CraftReq|COIN}}
+|rewards=1x {{CraftReq|4 HR Time Candy}}, 2x {{CraftReq|2 HR Time Candy}}, {{Coindisplay|50000}}
 }}
 {{Quest
 |name=Colosseum GDQ
 |text=Complete the three colosseums with lots of Time Remaining after beating all waves.
 |difficulty=6
-|requirements=1st Colosseum: >= 180. Starting at 0. 2nd Colosseum: >= 170. Starting at 0. 
+|requirements=1st Colosseum: >= 180. Starting at 0., 2nd Colosseum: >= 170. Starting at 0.
 |consumed=No
-|rewards=1x {{CraftReq|12 HR Time Candy}}, 30x {{CraftReq|Gem}}, 100000x {{CraftReq|COIN}}
+|rewards=1x {{CraftReq|12 HR Time Candy}}, 30x {{CraftReq|Gem}}, {{Coindisplay|100000}}
 }}
 |}
 {{dialogue/head}}

@@ -2,7 +2,7 @@
 |title=Bloach
 |order=7
 |category=Medium Resources
-|effect=+{%_Fishing_Away_Gains
+|effect=+{% Fishing Away Gains
 |bonus=2
 |reqtier=10
 }}

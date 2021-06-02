@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Rooted Soul
 |order=1
-|category=Bosses
-|effect=+{_Starting_Pts_in_Worship
+|category=Hard Resources
+|effect=+{ Starting Pts in Worship
 |bonus=6
 |reqtier=3
 }}

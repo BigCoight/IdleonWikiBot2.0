@@ -2,7 +2,7 @@
 |title=Snowman
 |order=5
 |category=Frostfire Tyundra
-|effect=+{%_Total_Damage
+|effect=+{% Total Damage
 |bonus=3
 |reqtier=15
 |source=[[Snowman]]

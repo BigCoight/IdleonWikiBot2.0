@@ -9,13 +9,15 @@
 |upgrade=4
 |defence=28
 |sellprice=2347780
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=2
+|craftnum=3
 |levelreq=38
 |expgiven=150000
-|recipefrom=Start
+|recipefrom=
 |resource1=Floof Ploof|quantity1=8000
 |resource2=Platinum Shins|quantity2=2
 |resource3=Dementia Bar|quantity3=400
@@ -23,21 +25,20 @@
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Shardshins]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SnowA1|8000}}
-{{detrecipe|3|EquipmentPants5|2}}
-{{detrecipe|40|Bug3|1000}}
-{{detrecipe|40|EquipmentPants3|12}}
-{{detrecipe|80|IronBar|2040}}
-{{detrecipe|80|CraftMat6|2700}}
-{{detrecipe|40|PlatBar|2500}}
-{{detrecipe|3|DementiaBar|400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowA1|8000}}
-{{detrecipe/totals|Bug3|1000}}
-{{detrecipe/totals|IronBar|2040}}
-{{detrecipe/totals|CraftMat6|2700}}
-{{detrecipe/totals|DementiaBar|400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Floof Ploof|8000}}
+{{detrecipe|3|Platinum Shins|2}}
+{{detrecipe|40|Sentient Cereal|1000}}
+{{detrecipe|40|Iron Platelegs|12}}
+{{detrecipe|80|Iron Bar|2040}}
+{{detrecipe|80|Boring Brick|2700}}
+{{detrecipe|40|Platinum Bar|2500}}
+{{detrecipe|3|Dementia Bar|400}}
+|tot=
+{{detrecipe/totals|Floof Ploof|8000}}
+{{detrecipe/totals|Sentient Cereal|1000}}
+{{detrecipe/totals|Iron Bar|2040}}
+{{detrecipe/totals|Boring Brick|2700}}
+{{detrecipe/totals|Dementia Bar|400}}
+}}

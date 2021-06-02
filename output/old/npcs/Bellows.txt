@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Sagittarius
-|mmm=Yates
-|birthweight=4.05
+|starsign=Capricorn
+|mmm=Hoffman
+|birthweight=6.09
 |notes=fillme
 }}
 {{Quest/head}}

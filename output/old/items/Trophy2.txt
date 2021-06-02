@@ -6,6 +6,7 @@
 |misc=7% Drop Chance
 |sellprice=777
 |source=[[SuperDropTable1]], [[SuperDropTable2]], [[SuperDropTable3]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0000007199999999999999|1.0}}
@@ -74,9 +75,6 @@
 {{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.000000021599999999999998|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.000000021599999999999998|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.000000026999999999999994|2.0}}
-{{detdrops|[[Frigid Soul]]|0.000000026999999999999994|1.0}}
-{{detdrops|[[Squiddy Soul]]|0.000000026999999999999994|1.0}}
-{{detdrops|[[Bandit Bob]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000000026999999999999994|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000000026999999999999994|1.0}}
@@ -87,7 +85,7 @@
 {{detdrops|[[Xylobone]]|0.000000018|1.0}}
 {{detdrops|[[Frostbite Bronze Chest]]|0.0000018|1.0}}
 {{detdrops|[[Bloque]]|0.0000000045|1.0}}
-{{detdrops|[[mamooth]]|0.00000000486|1.0}}
+{{detdrops|[[Mamooth]]|0.00000000486|1.0}}
 {{detdrops|[[Snowman]]|0.00000000522|1.0}}
 {{detdrops|[[Penguin]]|0.000000005579999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.00000000594|1.0}}

@@ -3,6 +3,7 @@
 |description=Auto-Used when your health goes below 50%. Restores 50 HP. Has a 30 second Cooldown.
 |sellprice=7
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]], [[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[DropTable2]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=500|buyprice=28}}

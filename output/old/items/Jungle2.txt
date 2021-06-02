@@ -3,13 +3,14 @@
 |description=''Theres a snake in me boots! Oh wait no, my boots are the snake!''  - Someone who wears snakeskin boots
 |sellprice=13
 |source=[[Baby Boa]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.18|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
+{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Name I Guess|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Skinny 0 Cal|Skinny 0 Cal]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Skinny 0 Cal]]|Lots|Alchemy}}
 |}

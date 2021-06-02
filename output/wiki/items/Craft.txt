@@ -3,6 +3,8 @@ Redox Salts
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Silkskin Traps]]|5|Crafting}}
@@ -23,25 +25,29 @@ Redox Salts
 {{usedin/row|[[Natural Traps]]|50|Crafting}}
 {{usedin/row|[[Prickle Skull]]|50|Crafting}}
 {{usedin/row|[[Snouts#A Salty Fall|A Salty Fall]]|50|Quests}}
-{{usedin/row|[[High-IQ Cauldron#Matty Stafford|Matty Stafford]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Red Malt|Red Malt]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Matty Stafford]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Red Malt]]|Lots|Alchemy}}
 |}
 Explosive Salts
 {{InfoItem
 |type=Refinery Salts
 |description=It's orange, and explodey.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Snouts#Gravity VS Salt|Gravity VS Salt]]|75|Quests}}
-{{usedin/row|[[Power Cauldron#Carpenter|Carpenter]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Orange Malt|Orange Malt]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Carpenter]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Orange Malt]]|Lots|Alchemy}}
 |}
 Spontaneity Salts
 {{InfoItem
 |type=Refinery Salts
 |description=It's blue, and currently has a flight scheduled to Tahiti that it booked earlier this morning on a whim.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Helmet]]|500|Crafting}}
@@ -54,6 +60,8 @@ Dioxide Synthesis
 |type=Refinery Salts
 |description=It's green, and carbony.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Mark of Member]]|500|Crafting}}
@@ -70,12 +78,14 @@ Red Salt
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|notes= 
 }}
 Red Salt
 {{InfoItem
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|notes= 
 }}
 Thread
 {{InfoItem
@@ -83,6 +93,7 @@ Thread
 |description=It's basically string cheese, but without the cheese.
 |sellprice=3
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=1|num=1|expcraft=5|time=100}}
 {{usedin/head}}
@@ -95,10 +106,10 @@ Thread
 {{usedin/row|[[Green Tee]]|150|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|600|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Stable Jenius|Stable Jenius]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Lotto Skills|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Spool Sprite|Spool Sprite]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Stable Jenius]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Spool Sprite]]|Lots|Alchemy}}
 |}
 Crimson String
 {{InfoItem
@@ -106,6 +117,7 @@ Crimson String
 |description=I think Scripticus forgot to take out his... spoon? You may want to give that back.
 |sellprice=1
 |source=[[Scripticus#Hardcore Gamer Status, Here I Come!|Hardcore Gamer Status, Here I Come!]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Boxing Gloves]]|1|Crafting}}
@@ -116,6 +128,7 @@ Cue Tape
 |description=Ohh that's why it's called Cue tape!
 |sellprice=3
 |source=[[Vendors#Blunder Hills|Blunder Hills Vendor]]
+|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=8|vendor=Blunder Hills|stock=5000|buyprice=12}}
@@ -130,6 +143,7 @@ Trusty Nails
 |description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead!
 |sellprice=12
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=5|num=2|expcraft=8|time=250}}
 {{usedin/head}}
@@ -139,12 +153,12 @@ Trusty Nails
 {{usedin/row|[[Copper Platebody]]|120|Crafting}}
 {{usedin/row|[[Iron Boots]]|500|Crafting}}
 {{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|300|Quests}}
-{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|1000|Quests}}
-{{usedin/row|[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]|750|Quests}}
+{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|1000|Quests}}
+{{usedin/row|[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]|750|Quests}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Hocus Choppus|Hocus Choppus]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Level Up Gift|Level Up Gift]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Thumb Pow|Thumb Pow]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Thumb Pow]]|Lots|Alchemy}}
 |}
 Boring Brick
 {{InfoItem
@@ -152,6 +166,7 @@ Boring Brick
 |description=Go get your shovel... And we'll dig a deep hole... To gain a skill level... To gain a skill level...
 |sellprice=25
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=12|num=3|expcraft=14|time=500}}
 {{usedin/head}}
@@ -159,8 +174,8 @@ Boring Brick
 {{usedin/row|[[Iron Hatchet]]|125|Crafting}}
 {{usedin/row|[[Iron Platelegs]]|225|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
-{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Quick Slap]]|Lots|Alchemy}}
 |}
 Chain Link
 {{InfoItem
@@ -168,6 +183,7 @@ Chain Link
 |description=Better keep an eye on this or it might try to leave your inventory to go save Chain Zelda!
 |sellprice=40
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=18|num=4|expcraft=25|time=1000}}
 {{usedin/head}}
@@ -175,8 +191,8 @@ Chain Link
 {{usedin/row|[[Amarok Hinds]]|400|Crafting}}
 {{usedin/row|[[Starlight]]|1000|Crafting}}
 {{usedin/row|[[Average Material Pouch]]|1250|Crafting}}
-{{usedin/row|[[Plat Hatchet]]|6000|Crafting}}
-{{usedin/row|[[High-IQ Cauldron#Noodubble|Noodubble]]|Lots|Alchemy}}
+{{usedin/row|[[Plat Hatchet]]|5000|Crafting}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Noodubble]]|Lots|Alchemy}}
 |}
 Leather Hide
 {{InfoItem
@@ -184,14 +200,15 @@ Leather Hide
 |description=I mean come on, would this really be a Fantasy MMO if it didn't have a leather material item?
 |sellprice=60
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=25|num=5|expcraft=40|time=2000}}
 {{usedin/head}}
 {{usedin/row|[[Gold Fishing Rod]]|1000|Crafting}}
-{{usedin/row|[[Enforced Slasher]]|6000|Crafting}}
+{{usedin/row|[[Enforced Slasher]]|400|Crafting}}
 {{usedin/row|[[Furled Robes]]|1500|Crafting}}
-{{usedin/row|[[Cowbo_Jones#A Hat in Crime|A Hat in Crime]]|100|Quests}}
-{{usedin/row|[[Kazam Cauldron#Da Daily Drip|Da Daily Drip]]|Lots|Alchemy}}
+{{usedin/row|[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]|100|Quests}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Da Daily Drip]]|Lots|Alchemy}}
 |}
 Pinion Spur
 {{InfoItem
@@ -199,10 +216,11 @@ Pinion Spur
 |description=The big one is the Spur. The puny one is the Pinion. Have fun bragging in class when you get this question right on a test.
 |sellprice=80
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=32|num=6|expcraft=80|time=5000}}
 {{usedin/head}}
-{{usedin/row|[[Power Cauldron#Bappity Boopity|Bappity Boopity]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
 |}
 Lugi Bracket
 {{InfoItem
@@ -210,6 +228,7 @@ Lugi Bracket
 |description=Hey look Mario! I have-a my own reference in the game!
 |sellprice=100
 |source=[[Smithing#Production items|Anvil Production]]
+|notes= 
 }}
 {{ProductionSlot|lvlreq=40|num=7|expcraft=160|time=12500}}
 Distilled Water
@@ -217,8 +236,29 @@ Distilled Water
 |type=Material
 |description=The full filtration process also invovles filtering the diamonds through a vat of diamonds before using those filtered diamonds to filter the water! If only they'd filter their filtration process through diamonds so this item description wouldn't be so long.
 |sellprice=50
-|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]]
+|source=[[Carpetiem#Old Timey Craftin'|Old Timey Craftin']], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[DropTable14]], [[DropTable15]], [[DropTable16]]
+|notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Sheepie]]|0.000054999999999999995|1.0}}
+{{detdrops|[[Frost Flake]]|0.00006159999999999999|1.0}}
+{{detdrops|[[Sir Stache]]|0.00006819999999999999|1.0}}
+{{detdrops|[[Xylobone]]|0.00021999999999999998|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.022|1.0}}
+{{detdrops|[[Bloque]]|0.0000625|1.0}}
+{{detdrops|[[Mamooth]]|0.0000675|1.0}}
+{{detdrops|[[Snowman]]|0.0000725|1.0}}
+{{detdrops|[[Penguin]]|0.0000775|1.0}}
+{{detdrops|[[Thermister]]|0.0000825|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.025|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.00000108|1.0}}
+{{detdrops|[[Quenchie]]|0.0000675|1.0}}
+{{detdrops|[[Cryosnake]]|0.0000756|1.0}}
+{{detdrops|[[Bop Box]]|0.000081|1.0}}
+{{detdrops|[[Neyeptune]]|0.0000864|1.0}}
+{{detdrops|[[Bloodbone]]|0.00000108|1.0}}
+{{detdrops|[[Frostbite Golden Chest]]|0.027|1.0}}
+|}
 {{usedin/head}}
 {{usedin/row|[[Chaotic Amarok Pendant]]|25|Crafting}}
 {{usedin/row|[[Iron Fishing Rod]]|3|Crafting}}
@@ -248,6 +288,7 @@ Spore Cap
 |description=It's often misunderstood that this is part of the spore's head. But it's actually just a stylish hat. ... well, stylish in Mushroom Culture at least.
 |sellprice=3
 |source=[[Green Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.22|1}}
@@ -261,10 +302,10 @@ Spore Cap
 {{usedin/row|[[Blue Tee]]|25|Crafting}}
 {{usedin/row|[[Blunderbag]]|169|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Warriors Rule|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[Quicc Cauldron#Archer Or Bust|Archer Or Bust]]|Lots|Alchemy}}
-{{usedin/row|[[High-IQ Cauldron#Mage Is Best|Mage Is Best]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Mushroom Soup|Mushroom Soup]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Archer Or Bust]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Mage Is Best]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Mushroom Soup]]|Lots|Alchemy}}
 |}
 Frog Leg
 {{InfoItem
@@ -272,6 +313,7 @@ Frog Leg
 |description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away.
 |sellprice=5
 |source=[[Frog]], [[Mining#Drops|Mining Starfire]], [[Mining#Drops|Mining Dreadlo]], [[Mining#Drops|Mining Godshard]], [[Choppin#Drops|Choppin Alien Tree]], [[Fly Nest]], [[Butterfly Bar]], [[Sentient Bowl]], [[Grocery Bag]], [[Snowden]], [[Icicle Nest]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.21|1}}
@@ -291,9 +333,9 @@ Frog Leg
 {{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
 {{usedin/row|[[Leather Cap]]|25|Crafting}}
 {{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
 |}
 Bean Slices
 {{InfoItem
@@ -301,6 +343,7 @@ Bean Slices
 |description=There's something disturbing about how these beans have bones. Not as disturbing as how they also have eyeballs and walk around, but still disturbing anyway.
 |sellprice=7
 |source=[[Bored Bean]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.20|1}}
@@ -309,10 +352,10 @@ Bean Slices
 {{usedin/row|[[Flip Flops]]|30|Crafting}}
 {{usedin/row|[[Cramped Material Pouch]]|30|Crafting}}
 {{usedin/row|[[Copper Helmet]]|50|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Hammer Hammer|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Dieter Drink|Dieter Drink]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Hammer Hammer]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Dieter Drink]]|Lots|Alchemy}}
 |}
 Red Spore Cap
 {{InfoItem
@@ -320,6 +363,7 @@ Red Spore Cap
 |description=It's often misunderstood that this is just the spore's stylish hat, due to the cosmetic nature of Green Spores, but this cap is actually part of this spore's head.
 |sellprice=7
 |source=[[Red Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Red Mushroom]]|0.20|1}}
@@ -333,6 +377,7 @@ Slime Sludge
 |description=Ewww, slimey.
 |sellprice=10
 |source=[[Slime]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Slime]]|0.19|1}}
@@ -345,7 +390,7 @@ Slime Sludge
 {{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
 {{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
 |}
 Snake Skin
 {{InfoItem
@@ -353,15 +398,16 @@ Snake Skin
 |description=''Theres a snake in me boots! Oh wait no, my boots are the snake!''  - Someone who wears snakeskin boots
 |sellprice=13
 |source=[[Baby Boa]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.18|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
+{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Name I Guess|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Skinny 0 Cal|Skinny 0 Cal]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Skinny 0 Cal]]|Lots|Alchemy}}
 |}
 Carrot Cube
 {{InfoItem
@@ -369,6 +415,7 @@ Carrot Cube
 |description=Probably the only time you'll ever see a carrot cut into a cube!
 |sellprice=15
 |source=[[Carrotman]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Carrotman]]|0.17|1}}
@@ -377,7 +424,7 @@ Carrot Cube
 {{usedin/row|[[Iron Pickaxe]]|200|Crafting}}
 {{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|2|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Lil Big Damage|Lil Big Damage]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Lil Big Damage]]|Lots|Alchemy}}
 |}
 Goblin Ear
 {{InfoItem
@@ -385,6 +432,7 @@ Goblin Ear
 |description=This item will listen to anything you have to say, it's all ears!
 |sellprice=20
 |source=[[Glublin]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Glublin]]|0.16|1}}
@@ -393,8 +441,8 @@ Goblin Ear
 {{usedin/row|[[Iron Helmet]]|300|Crafting}}
 {{usedin/row|[[Fur Shirt]]|500|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Wyoming Blood|Wyoming Blood]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Anearful|Anearful]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Wyoming Blood]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Anearful]]|Lots|Alchemy}}
 |}
 Plank
 {{InfoItem
@@ -402,15 +450,16 @@ Plank
 |description=I wonder what the Ed Boys are up to these days?
 |sellprice=25
 |source=[[Wode Board]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.15|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Bleached Designer Wode Patch Pants]]|275|Crafting}}
-{{usedin/row|[[Tiki_Chief#Brochure Building|Brochure Building]]|500|Quests}}
+{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
 |}
 Bullfrog Horn
 {{InfoItem
@@ -418,6 +467,7 @@ Bullfrog Horn
 |description=Makes a loud noise when thrown at someones head, although the sound doesn't come from the horn itself...
 |sellprice=30
 |source=[[Gigafrog]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.14|1}}
@@ -427,7 +477,7 @@ Bullfrog Horn
 {{usedin/row|[[Amarok Hinds]]|700|Crafting}}
 {{usedin/row|[[Strung Bludgeon]]|9000|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Vials#Ramificoction|Ramificoction]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Ramificoction]]|Lots|Alchemy}}
 |}
 Corn Kernels
 {{InfoItem
@@ -435,6 +485,7 @@ Corn Kernels
 |description=I guess what they say about corn is true...
 |sellprice=30
 |source=[[Poop]], [[Dr Defecaus]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Poop]]|0.24|1}}
@@ -451,6 +502,7 @@ Golden Plop
 |description=Conker would have called this something else.                  NOTE: This is a very rare drop from Poops
 |sellprice=500
 |source=[[Poop]], [[Dr Defecaus]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Poop]]|0.00005|1}}
@@ -470,13 +522,14 @@ Rats Tail
 |description=Ew why did you pick this up?
 |sellprice=90
 |source=[[Rat]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.19|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Vials#Tail Time|Tail Time]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Tail Time]]|Lots|Alchemy}}
 |}
 Bonemeal
 {{InfoItem
@@ -484,6 +537,7 @@ Bonemeal
 |description=Imagine the guy who came up with this name... ''wait, you guys HAVENT been eating this stuff?''
 |sellprice=90
 |source=[[Boop]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Boop]]|0.5|1}}
@@ -497,6 +551,7 @@ Stick
 |description=Made of wood.
 |sellprice=90
 |source=[[Walking Stick]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Walking Stick]]|0.21|1}}
@@ -512,6 +567,7 @@ Woodular Circle
 |description=Made of circle that's been carved into the shape of a wood.            NOTE: This is a very rare drop from Branches
 |sellprice=90
 |source=[[Walking Stick]], [[Wood Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Walking Stick]]|0.00005|1}}
@@ -530,6 +586,7 @@ Acorn
 |description=Every time I plant one of these, someone eventually steals it and puts a fully grown tree in its place! Very annoying!
 |sellprice=90
 |source=[[Nutto]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Nutto]]|0.23|1}}
@@ -543,6 +600,7 @@ Baba Yaga Baby Eggs
 |description=Eventually you'll be able to turn these into a hatchable egg! Or maybe you already can! Or maybe you never will! Who knows what future content there may be!
 |sellprice=400
 |source=[[Baba Yaga]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Baba Yaga]]|0.006|1}}
@@ -553,6 +611,7 @@ Pocket Sand
 |description=This sand aint right, I tell you hwat!
 |sellprice=60
 |source=[[Sandy Pot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.22|1}}
@@ -561,7 +620,7 @@ Pocket Sand
 {{usedin/row|[[Gold Platebody]]|1500|Crafting}}
 {{usedin/row|[[Sandy Satchel]]|777|Crafting}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Startue Exp|Startue Exp]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
 |}
 Glass Shard
 {{InfoItem
@@ -569,6 +628,7 @@ Glass Shard
 |description=The result of letting heat and sand get it on if you know what I'm sayin.                        NOTE: This is a very rare drop from Sandy Pots
 |sellprice=60
 |source=[[Sandy Pot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.00005|1}}
@@ -579,7 +639,7 @@ Glass Shard
 {{usedin/row|[[Viking Cap]]|2|Crafting}}
 {{usedin/row|[[Sleek Coif]]|2|Crafting}}
 {{usedin/row|[[Witch Hat]]|2|Crafting}}
-{{usedin/row|[[Giftmas_Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
+{{usedin/row|[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
 |}
 Megalodon Tooth
 {{InfoItem
@@ -587,6 +647,7 @@ Megalodon Tooth
 |description=Wait a minute, this isn't a real megalodon tooth!
 |sellprice=70
 |source=[[Mimic]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.212|1}}
@@ -595,10 +656,10 @@ Megalodon Tooth
 {{usedin/row|[[Gold Pickaxe]]|2500|Crafting}}
 {{usedin/row|[[Empty Box]]|400|Crafting}}
 {{usedin/row|[[Studded Hide]]|4000|Crafting}}
-{{usedin/row|[[Snake_Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
+{{usedin/row|[[Snake Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Molto Loggo|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Mimicraught|Mimicraught]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Mimicraught]]|Lots|Alchemy}}
 |}
 Crabby Cakey
 {{InfoItem
@@ -606,6 +667,7 @@ Crabby Cakey
 |description=You could probably start a restaurant selling these! Just employ an overeager cook, give the place a cool name like The Crispy Crustacean, and you'd be set!
 |sellprice=80
 |source=[[Crabcake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.205|1}}
@@ -614,7 +676,7 @@ Crabby Cakey
 {{usedin/row|[[Golden Axe]]|2000|Crafting}}
 {{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|150|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Reely Smart|Reely Smart]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
 |}
 Nuget Cake
 {{InfoItem
@@ -622,6 +684,7 @@ Nuget Cake
 |description=Ohhhhh, that's what people mean when they say Love At First Sight!                             NOTE: This is a very rare drop from Crabcakes
 |sellprice=80
 |source=[[Crabcake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.00005|1}}
@@ -633,7 +696,7 @@ Nuget Cake
 {{usedin/row|[[Feral Leathering]]|1|Crafting}}
 {{usedin/row|[[Furled Robes]]|1|Crafting}}
 {{usedin/row|[[Efaunts Broken Ankles]]|3|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
+{{usedin/row|[[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
 |}
 Coconotnotto
 {{InfoItem
@@ -641,6 +704,7 @@ Coconotnotto
 |description=How many O's are in this item's name? Yep, you're right, there's six! Good job!
 |sellprice=95
 |source=[[Mafioso]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mafioso]]|0.2|1}}
@@ -648,7 +712,7 @@ Coconotnotto
 {{usedin/head}}
 {{usedin/row|[[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Quick Slap|Quick Slap]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Quick Slap]]|Lots|Alchemy}}
 |}
 Furled Flag
 {{InfoItem
@@ -656,13 +720,14 @@ Furled Flag
 |description=It's an American Flag with red paint spilled on all the non-red bits... no wait, it's the German Flag, but they ran out of black and yellow material.
 |sellprice=108
 |source=[[Sand Castle]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sand Castle]]|0.19|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Big Meaty Claws|Big Meaty Claws]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Big Meaty Claws]]|Lots|Alchemy}}
 |}
 Pincer Arm
 {{InfoItem
@@ -670,6 +735,7 @@ Pincer Arm
 |description=That looks sharp! Is probably what the pincermin said before you cut his arm off.
 |sellprice=120
 |source=[[Pincermin]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Pincermin]]|0.18|1}}
@@ -684,6 +750,7 @@ Potato Remains
 |description=Mashed potatos, I get it!
 |sellprice=133
 |source=[[Mashed Potato]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mashed Potato]]|0.17|1}}
@@ -697,6 +764,7 @@ High Steaks
 |type=Monster Drop
 |sellprice=145
 |source=[[Tyson]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Tyson]]|0.18|1}}
@@ -705,7 +773,7 @@ High Steaks
 {{usedin/row|[[Anvil Tab 3]]|1500|Crafting}}
 {{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#Brewstachio|Brewstachio]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Brewstachio]]|Lots|Alchemy}}
 |}
 Wakka Cherry
 {{InfoItem
@@ -713,6 +781,7 @@ Wakka Cherry
 |description=Weoweoweoweowdingding!
 |sellprice=160
 |source=[[Moonmoon]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.165|1}}
@@ -720,7 +789,7 @@ Wakka Cherry
 {{usedin/head}}
 {{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Fmj|Fmj]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Fmj]]|Lots|Alchemy}}
 |}
 Ghost
 {{InfoItem
@@ -728,6 +797,7 @@ Ghost
 |description=In case you haven't noticed, these are all references to the famous early 90s videogame called Gex! This description is like a bad joke at Louis CK's house!
 |sellprice=160
 |source=[[Moonmoon]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.00005|1}}
@@ -741,6 +811,7 @@ Singlecle
 |description=It's like a monocle, but not quite.
 |sellprice=180
 |source=[[Sand Giant]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sand Giant]]|0.152|1}}
@@ -748,7 +819,7 @@ Singlecle
 {{usedin/head}}
 {{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Cheap Shot|Cheap Shot]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Cheap Shot]]|Lots|Alchemy}}
 |}
 Shrapshell
 {{InfoItem
@@ -756,14 +827,15 @@ Shrapshell
 |description=The very tippy top of the shell, with some of the underneath part attached as well.
 |sellprice=200
 |source=[[Snelbie]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.14|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|10|Quests}}
+{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|10|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Kazam Cauldron#Laaarrrryyyy|Laaarrrryyyy]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Laaarrrryyyy]]|Lots|Alchemy}}
 |}
 Floof Ploof
 {{InfoItem
@@ -771,13 +843,14 @@ Floof Ploof
 |description=A ball of sheep wool. Well, it used to be a ball of ice cream but then I re-drew it.
 |sellprice=200
 |source=[[Sheepie]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sheepie]]|0.16|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Dementia Shins]]|8000|Crafting}}
-{{usedin/row|[[Vials#Fur Refresher|Fur Refresher]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Fur Refresher]]|Lots|Alchemy}}
 |}
 Melty Cube
 {{InfoItem
@@ -785,6 +858,7 @@ Melty Cube
 |description=Eugh whats this WATER doing around my ice???
 |sellprice=200
 |source=[[Frost Flake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.16|1}}
@@ -792,8 +866,8 @@ Melty Cube
 {{usedin/head}}
 {{usedin/row|[[Uninflated Glove]]|70000|Crafting}}
 {{usedin/row|[[The Ice Breaker]]|25000|Crafting}}
-{{usedin/row|[[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]|1|Quests}}
-{{usedin/row|[[Kazam Cauldron#Cogs For Hands|Cogs For Hands]]|Lots|Alchemy}}
+{{usedin/row|[[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]|1|Quests}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Cogs For Hands]]|Lots|Alchemy}}
 |}
 Yellow Snowflake
 {{InfoItem
@@ -801,6 +875,7 @@ Yellow Snowflake
 |description=Mmm yellow, my favorite flavor of snow!
 |sellprice=200
 |source=[[Frost Flake]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.00005|1}}
@@ -812,13 +887,14 @@ Moustache Comb
 |description=Sad times I hope I remember to change this before relase.
 |sellprice=200
 |source=[[Sir Stache]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sir Stache]]|0.16|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Dementia Pickaxe]]|15000|Crafting}}
-{{usedin/row|[[Power Cauldron#Call Me Bob|Call Me Bob]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Call Me Bob]]|Lots|Alchemy}}
 |}
 Ram Wool
 {{InfoItem
@@ -826,6 +902,7 @@ Ram Wool
 |description=It's got a horn stuck in it. I guess you could say this wool is kinda 
 |sellprice=200
 |source=[[Dedotated Ram]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Dedotated Ram]]|0.16|1}}
@@ -836,6 +913,7 @@ Sticky Stick
 |description=It's ALLLLL sticky!
 |sellprice=200
 |source=[[Bloque]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bloque]]|0.16|1}}
@@ -848,23 +926,25 @@ Mamooth Tusk
 |type=Monster Drop
 |description=No see, this is a mamOOth tusk, not a mammoth tusk, thats why you think it looks weird. Trust me, it's an incredibly drawn mamooth tusk, truly a work of art.
 |sellprice=200
-|source=[[mamooth]]
+|source=[[Mamooth]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[mamooth]]|0.16|1}}
+{{detdrops|[[Mamooth]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#Etruscan Lager|Etruscan Lager]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Etruscan Lager]]|Lots|Alchemy}}
 |}
 Ice Age 3
 {{InfoItem
 |type=Monster Drop
 |description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has thousands of 1 Star Ratings online claiming it's false advertising.
 |sellprice=200
-|source=[[mamooth]]
+|source=[[Mamooth]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[mamooth]]|0.00005|1}}
+{{detdrops|[[Mamooth]]|0.00005|1}}
 |}
 {{usedin/head}}
 {{usedin/row|[[Big Materials Pouch]]|3|Crafting}}
@@ -875,12 +955,13 @@ Snow Ball
 |description=If you have two of these together, please be careful what other objects you put near them, I need to keep this game age appropirate!
 |sellprice=200
 |source=[[Snowman]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Snowman]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#Snow Slurry|Snow Slurry]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Snow Slurry]]|Lots|Alchemy}}
 |}
 Pen
 {{InfoItem
@@ -888,12 +969,13 @@ Pen
 |description=Click the pen on, then hold it down against your desk and let go, and BAM that baby will fly you straight to the principal's office!
 |sellprice=200
 |source=[[Penguin]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Penguin]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#Visible Ink|Visible Ink]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Visible Ink]]|Lots|Alchemy}}
 |}
 Cracked Glass
 {{InfoItem
@@ -901,6 +983,7 @@ Cracked Glass
 |description=Ah Mr. Thermostat, not looking so hot now that I've broken you into tiny little bits... no seriously, I can't tell the temperature now that you're broken.
 |sellprice=200
 |source=[[Thermister]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Thermister]]|0.16|1}}
@@ -911,13 +994,14 @@ Sippy Straw
 |description=This vacuum operated liquid transfer system is capable of dispencing over 500 mL of dangerous dihydrogen monoxide chemical compounds from one end to the other!
 |sellprice=200
 |source=[[Quenchie]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Quenchie]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[High-IQ Cauldron#Smart Boi Talent|Smart Boi Talent]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Sippy Cup|Sippy Cup]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Smart Boi Talent]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Sippy Cup]]|Lots|Alchemy}}
 |}
 Cryosnake Skin
 {{InfoItem
@@ -925,6 +1009,7 @@ Cryosnake Skin
 |description=Wow this is just a cheap recolouring of the normal snakeskin! I want my money back!
 |sellprice=200
 |source=[[Cryosnake]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Cryosnake]]|0.16|1}}
@@ -935,6 +1020,7 @@ Audio Cord
 |description=Uhhhh... which one which one...?? The red or the blue??? Cmon think think think.. Blue...? 'BOOOOOM'.       Wait, this is an audio cord description? Whoops, I thought this was the Bomb Defuser description!!
 |sellprice=200
 |source=[[Bop Box]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bop Box]]|0.16|1}}
@@ -949,12 +1035,13 @@ Contact Lense
 |description=It's the only transparent item in IdleOn! If they weren't, they'd just be pirate eyepatches after all...
 |sellprice=200
 |source=[[Neyeptune]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.16|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Vials#40-40 Purity|40-40 Purity]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|40-40 Purity]]|Lots|Alchemy}}
 |}
 Black Lense
 {{InfoItem
@@ -962,6 +1049,7 @@ Black Lense
 |description=Why yes, I have also played that game for 100s of hours since it released over 10 years ago!
 |sellprice=200
 |source=[[Neyeptune]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.00005|1}}
@@ -977,6 +1065,7 @@ Ice A La Crem
 |type=Monster Drop
 |description=It's just a normal ice cream. It's been given a fancy name so people would pay more for it in a store.
 |sellprice=1
+|notes= 
 }}
 Minuteglass
 {{InfoItem
@@ -984,6 +1073,7 @@ Minuteglass
 |description=It's a bit small, so it's not quite an hourglass, is it.
 |sellprice=1
 |source=[[Biggie Hours]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.3|1}}
@@ -997,6 +1087,7 @@ Ripped Tunic
 |description=A piece of Efaunt's tunic. I guess it must have gotten torn off while you were absolutely obliterating them with big time Damage.
 |sellprice=1
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Chizoar]], [[Chaotic Chizoar]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.3|1}}
@@ -1017,6 +1108,7 @@ Ribbed Tunic
 |description=Chaotic Efaunt is probably glad you removed a few of his ribs, for uhh... various reasons.
 |sellprice=1
 |source=[[Chaotic Efaunt]], [[Chaotic Chizoar]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Chaotic Efaunt]]|0.2|1}}

@@ -5,6 +5,7 @@
 |description=Hold down to permanently add +2 Slots to your Inventory. Can only be used once.
 |sellprice=200
 |source=[[DropTable6]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0007199999999999999|1.0}}

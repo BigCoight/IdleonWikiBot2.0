@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Dedotated Ram_Walking.gif
+|image=Dedotated Ram Walking.gif
 |attack=3000
 |health=1250000
 |defence=1500
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Neyeptune|Xylobone}}
-{{DropTable/head}}
 {{DropTable/coin|10|0.5}}
 {{DropTable/row|Ram Wool|0.16|1}}
 {{DropTable/card|0.0001}}

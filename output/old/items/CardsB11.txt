@@ -2,7 +2,7 @@
 |title=Snelbie
 |order=10
 |category=Yum Yum Desert
-|effect=+{%_Card_Drop_Chance
+|effect=+{% Card Drop Chance
 |bonus=8
 |reqtier=10
 |source=[[Snelbie]]

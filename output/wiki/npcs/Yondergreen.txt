@@ -1,16 +1,16 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
 |starsign=Sagittarius
-|mmm=Woo
-|birthweight=4.45
+|mmm=Napier
+|birthweight=5.03
 |notes=fillme
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Well hello there!
 }}
 |}

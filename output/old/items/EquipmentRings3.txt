@@ -9,22 +9,23 @@
 |upgrade=4
 |defence=1
 |sellprice=19200
+|source=[[Smithing]], [[DropTable3|Recipe from DropTable3]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=39
+|craftnum=40
 |levelreq=13
 |expgiven=700
-|recipefrom=[[Tasks/Unlocks|Tasks]]
+|recipefrom=[[DropTable3]], [[Tasks/Unlocks|Tasks]]
 |resource1=Iron Bar|quantity1=600
 }}
 {{usedin/head}}
 {{usedin/row|[[Dooble Goopi]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|600}}
+|tot=
+{{detrecipe/totals|Iron Bar|600}}
+}}

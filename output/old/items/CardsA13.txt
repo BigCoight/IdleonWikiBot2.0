@@ -2,7 +2,7 @@
 |title=Nutto
 |order=13
 |category=Blunder Hills
-|effect=+{%_Money_from_Monsters
+|effect=+{% Money from Monsters
 |bonus=5
 |reqtier=10
 |source=[[Nutto]]

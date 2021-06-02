@@ -2,37 +2,38 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Fish.
 |sellprice=1809180
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=37
+|craftnum=38
 |levelreq=43
 |expgiven=200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Bloach|quantity1=50000
 |resource2=Big Fish Pouch|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Fish4|50000}}
-{{detrecipe|3|MaxCapBagFi5|2}}
-{{detrecipe|40|Critter3A|8}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|MaxCapBagFi4|4}}
-{{detrecipe|80|Fish4|27000}}
-{{detrecipe|80|MaxCapBagFi3|12}}
-{{detrecipe|120|MaxCapBagFi1|60}}
-{{detrecipe|160|Fish1|10800}}
-{{detrecipe|120|MaxCapBagFi2|36}}
-{{detrecipe|160|Fish2|15300}}
-{{detrecipe|160|PureWater|72}}
-{{detrecipe|120|Fish2|18000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish4|77000}}
-{{detrecipe/totals|Critter3A|8}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Fish1|10800}}
-{{detrecipe/totals|Fish2|33300}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bloach|50000}}
+{{detrecipe|3|Big Fish Pouch|2}}
+{{detrecipe|40|Crescent Scropie|8}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Sizable Fish Pouch|4}}
+{{detrecipe|80|Bloach|27000}}
+{{detrecipe|80|Average Fish Pouch|12}}
+{{detrecipe|120|Cramped Fish Pouch|60}}
+{{detrecipe|160|Goldfish|10800}}
+{{detrecipe|120|Small Fish Pouch|36}}
+{{detrecipe|160|Hermit Can|15300}}
+{{detrecipe|160|Distilled Water|72}}
+{{detrecipe|120|Hermit Can|18000}}
+|tot=
+{{detrecipe/totals|Bloach|77000}}
+{{detrecipe/totals|Crescent Scropie|8}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Goldfish|10800}}
+{{detrecipe/totals|Hermit Can|33300}}
+{{detrecipe/totals|Distilled Water|72}}
+}}

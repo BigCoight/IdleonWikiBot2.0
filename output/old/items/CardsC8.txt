@@ -2,7 +2,7 @@
 |title=Goldfish
 |order=8
 |category=Easy Resources
-|effect=+{%_Total_MP
+|effect=+{% Total MP
 |bonus=3
 |reqtier=10
 }}

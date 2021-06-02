@@ -2,6 +2,8 @@
 |type=Golden Food
 |description=Increases Mining Efficiency by [%. Golden foods are never consumed.
 |sellprice=7750
+|source=[[Smithing]]
+|notes= 
 }}
 {{gfoodbonus|30|Increases Mining Efficiency by [%.}}
 {{ForgeSlot
@@ -9,7 +11,7 @@
 |craftnum=51
 |levelreq=1
 |expgiven=1
-|recipefrom=Rocklyte
+|recipefrom=
 |resource1=Peanut|quantity1=100
 |resource2=Gold Bar|quantity2=50
 }}
@@ -17,17 +19,16 @@
 {{usedin/row|[[Blunderhills Misc Completion Token]]|30|Crafting}}
 {{usedin/row|[[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]]|5|Quests}}
 |}
-{{detrecipe/head}}
+{{detrecipe/tab
+|reci=
 {{detrecipe|3|Peanut|100}}
-{{detrecipe|40|FoodHealth3|200}}
-{{detrecipe|40|Copper|100}}
-{{detrecipe|40|BirchTree|100}}
-{{detrecipe|3|GoldBar|50}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|FoodHealth3|200}}
-{{detrecipe/totals|Copper|100}}
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|GoldBar|50}}
-|}
+{{detrecipe|40|Hot Dog|200}}
+{{detrecipe|40|Copper Ore|100}}
+{{detrecipe|40|Bleach Logs|100}}
+{{detrecipe|3|Gold Bar|50}}
+|tot=
+{{detrecipe/totals|Hot Dog|200}}
+{{detrecipe/totals|Copper Ore|100}}
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Gold Bar|50}}
+}}

@@ -2,7 +2,7 @@
 |title=Gigafrog
 |order=9
 |category=Blunder Hills
-|effect=+{%_Card_Drop_Chance
+|effect=+{% Card Drop Chance
 |bonus=5
 |reqtier=10
 |source=[[Gigafrog]]

@@ -2,13 +2,15 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Health Food, Boost Food, Golden Food.
 |sellprice=427660
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=22
+|craftnum=23
 |levelreq=39
 |expgiven=100000
-|recipefrom=Start
+|recipefrom=
 |resource1=Slurpin Herm|quantity1=1500
 |resource2=Buttered Toasted Butter|quantity2=1500
 |resource3=Yeti Ham|quantity3=10000
@@ -17,43 +19,42 @@
 {{usedin/head}}
 {{usedin/row|[[Large Food Pouch]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|FoodFish1|1500}}
-{{detrecipe|40|Fish2|7500}}
-{{detrecipe|40|FoodPotOr2|3000}}
-{{detrecipe|3|FoodCatch1|1500}}
-{{detrecipe|40|Bug2|7500}}
-{{detrecipe|40|FoodHealth6|1500}}
-{{detrecipe|3|FoodHealth9|10000}}
-{{detrecipe|3|MaxCapBagF4|2}}
-{{detrecipe|40|FoodG3|18}}
-{{detrecipe|40|DesertA3b|12}}
-{{detrecipe|40|MaxCapBagF3|4}}
-{{detrecipe|80|MaxCapBag8|28}}
-{{detrecipe|120|FoodHealth1|2100}}
-{{detrecipe|120|FoodHealth3|700}}
-{{detrecipe|120|OakTree|1680}}
-{{detrecipe|120|CopperBar|420}}
-{{detrecipe|80|FoodHealth7|1000}}
-{{detrecipe|80|FoodMining1|2400}}
-{{detrecipe|120|Iron|12000}}
-{{detrecipe|120|FoodPotMana1|4800}}
-{{detrecipe|80|FoodChoppin1|2400}}
-{{detrecipe|120|JungleTree|14400}}
-{{detrecipe|120|FoodPotRe1|7200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish2|7500}}
-{{detrecipe/totals|FoodPotOr2|3000}}
-{{detrecipe/totals|Bug2|7500}}
-{{detrecipe/totals|FoodHealth6|1500}}
-{{detrecipe/totals|FoodG3|18}}
-{{detrecipe/totals|DesertA3b|12}}
-{{detrecipe/totals|FoodHealth1|2100}}
-{{detrecipe/totals|FoodHealth3|700}}
-{{detrecipe/totals|OakTree|1680}}
-{{detrecipe/totals|CopperBar|420}}
-{{detrecipe/totals|Iron|12000}}
-{{detrecipe/totals|FoodPotMana1|4800}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Slurpin Herm|1500}}
+{{detrecipe|40|Hermit Can|7500}}
+{{detrecipe|40|Average Strength Potion|3000}}
+{{detrecipe|3|Buttered Toasted Butter|1500}}
+{{detrecipe|40|Butterfly|7500}}
+{{detrecipe|40|Kebab Sticks|1500}}
+{{detrecipe|3|Yeti Ham|10000}}
+{{detrecipe|3|Sizable Food Pouch|2}}
+{{detrecipe|40|Golden Meat Pie|18}}
+{{detrecipe|40|Nuget Cake|12}}
+{{detrecipe|40|Average Food Pouch|4}}
+{{detrecipe|80|Cramped Food Pouch|28}}
+{{detrecipe|120|Nomwich|2100}}
+{{detrecipe|120|Hot Dog|700}}
+{{detrecipe|120|Oak Logs|1680}}
+{{detrecipe|120|Copper Bar|420}}
+{{detrecipe|80|Meat Pie|1000}}
+{{detrecipe|80|Icing Ironbite|2400}}
+{{detrecipe|120|Iron Ore|12000}}
+{{detrecipe|120|Small Mana Potion|4800}}
+{{detrecipe|80|Saucy Logfries|2400}}
+{{detrecipe|120|Jungle Logs|14400}}
+{{detrecipe|120|Small Life Potion|7200}}
+|tot=
+{{detrecipe/totals|Hermit Can|7500}}
+{{detrecipe/totals|Average Strength Potion|3000}}
+{{detrecipe/totals|Butterfly|7500}}
+{{detrecipe/totals|Kebab Sticks|1500}}
+{{detrecipe/totals|Golden Meat Pie|18}}
+{{detrecipe/totals|Nuget Cake|12}}
+{{detrecipe/totals|Nomwich|2100}}
+{{detrecipe/totals|Hot Dog|700}}
+{{detrecipe/totals|Oak Logs|1680}}
+{{detrecipe/totals|Copper Bar|420}}
+{{detrecipe/totals|Iron Ore|12000}}
+{{detrecipe/totals|Small Mana Potion|4800}}
+}}

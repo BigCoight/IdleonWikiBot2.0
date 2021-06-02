@@ -2,7 +2,7 @@
 |title=Moonmoon
 |order=8
 |category=Yum Yum Desert
-|effect=+{%_Monster_EXP_While_Active
+|effect=+{% Monster EXP While Active
 |bonus=8
 |reqtier=10
 |source=[[Moonmoon]]

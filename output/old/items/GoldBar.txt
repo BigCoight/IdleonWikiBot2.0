@@ -1,10 +1,10 @@
 {{InfoItem
 |type=Bar
 |sellprice=115
-|source=Forging, [[Fire Forge]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|source=[[Forging]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Fire Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
 |}
@@ -19,6 +19,6 @@
 {{usedin/row|[[Viking Cap]]|400|Crafting}}
 {{usedin/row|[[Dootjat Eye]]|80|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Quicc Cauldron#Sanic Tools|Sanic Tools]]|Lots|Alchemy}}
-{{usedin/row|[[Kazam Cauldron#Prowesessary|Prowesessary]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
 |}

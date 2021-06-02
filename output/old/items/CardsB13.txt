@@ -2,7 +2,7 @@
 |title=Desert Topaz
 |order=12
 |category=Yum Yum Desert
-|effect=+{%_EXP_from_monsters
+|effect=+{% EXP from monsters
 |bonus=2
 |reqtier=3
 |source=[[Crystal Crabal]]

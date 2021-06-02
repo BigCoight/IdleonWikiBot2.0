@@ -3,7 +3,8 @@
 |type=Time Candy
 |description=Hold down to instantly get 1 Hour of AFK Gains.
 |sellprice=1
-|source=[[Scripticus#Can't somebody else do it?|Can't somebody else do it?]], [[Desert_Davey#U Cool?|U Cool?]], [[Mutton#Clout Chasin'|Clout Chasin']], [[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]], [[Djonnut#Genie Dieting|Genie Dieting]], [[Cowbo_Jones#No Country for One Character|No Country for One Character]], [[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Lonely_Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lonely_Hunter#Skeleton? Skelegone!|Skeleton? Skelegone!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Scripticus#Can't somebody else do it?|Can't somebody else do it?]], [[Desert Davey#U Cool?|U Cool?]], [[Mutton#Clout Chasin'|Clout Chasin']], [[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]], [[Djonnut#Genie Dieting|Genie Dieting]], [[Cowbo Jones#No Country for One Character|No Country for One Character]], [[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lonely Hunter#Skeleton? Skelegone!|Skeleton? Skelegone!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.2|1.0}}
@@ -14,7 +15,8 @@
 |type=Time Candy
 |description=Hold down to instantly get 2 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[Postboy_Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Centurion#High Scorer|High Scorer]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Giftmas_Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Centurion#High Scorer|High Scorer]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.13360000000000002|1.0}}
@@ -25,7 +27,8 @@
 |type=Time Candy
 |description=Hold down to instantly get 4 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua_Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert_Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Lord_of_the_Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]], [[Lord_of_the_Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]], [[Lord_of_the_Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]], [[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]], [[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.048|1.0}}
@@ -36,7 +39,8 @@
 |type=Time Candy
 |description=Twelve hours, that's a long time! Hold down to instantly get 12 Hour of AFK Gains.
 |sellprice=1
-|source=[[Snake_Jar#Red Stuff Bad!|Red Stuff Bad!]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Iceland_Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Lord_of_the_Hunt#Pelt for the Pelt God|Pelt for the Pelt God]], [[Lord_of_the_Hunt#Happy Tree Friend|Happy Tree Friend]], [[Lord_of_the_Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]], [[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]], [[Lord of the Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.016|1.0}}
@@ -47,7 +51,8 @@
 |type=Time Candy
 |description=An entire day, just like that! Hold down to instantly get 24 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]], [[Lord_of_the_Hunt#Untitled Quest|Untitled Quest]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]], [[Lord of the Hunt#Untitled Quest|Untitled Quest]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.0048000000000000004|1.0}}
@@ -59,6 +64,7 @@
 |description=The LEGENDARY 72 Hour candy. Hold down to instantly get 30 Seconds of AFK Gai... just kidding, you'll get 72 Hours!
 |sellprice=1
 |source=[[DropTable13]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.0004|1.0}}
@@ -69,4 +75,5 @@ Steamy Time Candy
 |type=Time Candy
 |description=Thanks for playing on Steam! Hold down to instantly get anywhere from 10 minutes to 24 hours of AFK time!
 |sellprice=1
+|notes= 
 }}

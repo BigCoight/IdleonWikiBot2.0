@@ -2,9 +2,10 @@
 |type=Critter
 |description=It's a more expensive hoot, I guess. I ain't got no jokes for owls, they're too cool.
 |sellprice=3
-|source=Trapping
+|source=[[Trapping]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Rod]]|3|Crafting}}
-{{usedin/row|[[Lord_of_the_Hunt#Happy Tree Friend|Happy Tree Friend]]|3|Quests}}
+{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|3|Quests}}
 |}

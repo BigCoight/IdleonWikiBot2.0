@@ -2,4 +2,6 @@
 |type=Card Pack
 |description=Hold down to open the pack! The cards drop on the ground, make sure to pick them up!!
 |sellprice=1
+|source=[[Gem Shop]]
+|notes= 
 }}

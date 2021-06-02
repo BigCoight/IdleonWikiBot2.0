@@ -8,25 +8,26 @@
 |reach=115
 |upgrade=1
 |sellprice=135
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=3
+|craftnum=4
 |levelreq=3
 |expgiven=12
-|recipefrom=Start
+|recipefrom=
 |resource1=Spore Cap|quantity1=25
 |resource2=Oak Logs|quantity2=30
 }}
 {{usedin/head}}
 {{usedin/row|[[Sleek Shank]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands1|25}}
-{{detrecipe|3|OakTree|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|25}}
-{{detrecipe/totals|OakTree|30}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|30}}
+|tot=
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Oak Logs|30}}
+}}

@@ -7,6 +7,7 @@
 |defence=3
 |sellprice=200
 |source=[[DropTable1]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.012|1.0}}

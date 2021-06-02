@@ -9,13 +9,15 @@
 |reach=70
 |upgrade=1
 |sellprice=145
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=1
+|craftnum=2
 |levelreq=3
 |expgiven=5
-|recipefrom=Start
+|recipefrom=
 |resource1=Spore Cap|quantity1=25
 |resource2=Copper Bar|quantity2=10
 }}
@@ -23,12 +25,11 @@
 {{usedin/row|[[Sleek Shank]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands1|25}}
-{{detrecipe|3|CopperBar|10}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|25}}
-{{detrecipe/totals|CopperBar|10}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Copper Bar|10}}
+|tot=
+{{detrecipe/totals|Spore Cap|25}}
+{{detrecipe/totals|Copper Bar|10}}
+}}

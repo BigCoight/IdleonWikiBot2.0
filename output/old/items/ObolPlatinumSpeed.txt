@@ -6,4 +6,5 @@
 |misc=4% Movement Speed
 |sellprice=20
 |rarity=Platinum
+|notes= 
 }}

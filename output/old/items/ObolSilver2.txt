@@ -6,6 +6,7 @@
 |sellprice=3
 |rarity=Silver
 |source=[[DropTable8]], [[Alchemy#Liquid Shop|Decent Obols]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.000252|1.0}}

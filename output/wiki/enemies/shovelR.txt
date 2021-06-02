@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Dig Doug_Walking.gif
+|image=Dig Doug Walking.gif
 |attack=2
 |health=14000
 |defence=228
@@ -13,7 +13,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Snelbie|Crystal Crabal}}
-{{DropTable/head}}
 {{DropTable/coin|60|0.43}}
 {{DropTable/card|0.10}}
 {{DropTable7|chance=0.0032}}

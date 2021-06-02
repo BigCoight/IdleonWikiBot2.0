@@ -2,22 +2,23 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Ores, Bars, Barrels.
 |sellprice=360
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=9
+|craftnum=10
 |levelreq=5
 |expgiven=13
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Ore|quantity1=120
 }}
 {{usedin/head}}
 {{usedin/row|[[Average Mining Pouch]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Copper|120}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Copper|120}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Ore|120}}
+|tot=
+{{detrecipe/totals|Copper Ore|120}}
+}}

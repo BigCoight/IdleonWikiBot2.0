@@ -1,26 +1,28 @@
 {{InfoItem
 |type=Boost Food
 |description=Increases Weapon Power by 1. 15% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
-|sellprice=84
+|sellprice=130
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
-|anvtab=Anvil Tab 3
-|craftnum=59
-|levelreq=1
-|expgiven=12
+|anvtab=2
+|craftnum=43
+|levelreq=16
+|expgiven=1
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Copper Ore|quantity1=6
-|resource2=Copper Ore|quantity2=22
+|resource1=Forest Fibres|quantity1=10
+|resource2=Fly|quantity2=10
 }}
 {{usedin/head}}
 {{usedin/row|[[FMJ Bullet]]|2|Crafting}}
-{{usedin/row|[[Bandit_Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
+{{usedin/row|[[Bandit Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Copper|6}}
-{{detrecipe|3|Copper|22}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Copper|28}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Fibres|10}}
+{{detrecipe|3|Fly|10}}
+|tot=
+{{detrecipe/totals|Forest Fibres|10}}
+{{detrecipe/totals|Fly|10}}
+}}

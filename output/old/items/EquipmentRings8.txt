@@ -8,4 +8,5 @@
 |luck=1
 |upgrade=2
 |sellprice=2500
+|notes= 
 }}

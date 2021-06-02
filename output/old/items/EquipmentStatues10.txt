@@ -3,6 +3,7 @@
 |description=It takes a true artist to make a realistic statue like this one. He captured the flying aspect of those stone flies perfectly!
 |sellprice=10
 |source=[[DropTable9]]
+|notes= 
 }}
 {{Statuedata|0.3|+ @ Catchin Power}}
 {{detdrops/head}}

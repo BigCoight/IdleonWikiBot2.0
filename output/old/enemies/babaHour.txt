@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Biggie Hours_Walking.gif
+|image=Biggie Hours Walking.gif
 |attack=500
 |health=800000
 |defence=600
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Chaotic Amarok|King Doot}}
-{{DropTable/head}}
 {{DropTable/coin|7000|1}}
 {{DropTable/row|Minuteglass|0.3|1}}
 {{DropTable/row|Mystery Upgrade Stone I|0.4|2}}

@@ -3,6 +3,7 @@
 |description=Imagine if humans had legs like this. Actually, it would be better if you didn't, unless you want nightmares about humans violently jumping at you from 20 feet away.
 |sellprice=5
 |source=[[Frog]], [[Mining#Drops|Mining Starfire]], [[Mining#Drops|Mining Dreadlo]], [[Mining#Drops|Mining Godshard]], [[Choppin#Drops|Choppin Alien Tree]], [[Fly Nest]], [[Butterfly Bar]], [[Sentient Bowl]], [[Grocery Bag]], [[Snowden]], [[Icicle Nest]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.21|1}}
@@ -22,7 +23,7 @@
 {{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
 {{usedin/row|[[Leather Cap]]|25|Crafting}}
 {{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
-{{usedin/row|[[Picnic_Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
 {{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Power Cauldron#Stronk Tools|Stronk Tools]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
 |}

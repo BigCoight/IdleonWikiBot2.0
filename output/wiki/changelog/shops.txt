@@ -2,27 +2,4 @@
 ==Changed Shops==
 </div><div style = "flex:50%;"> 
 ==New Shops==
-{{patchnote/head|changed=Frostbite Towndra}}
-{{patchnote|Item 1| |{{CraftReq|Mountain Bread}} qty: 25000}}
-{{patchnote|Item 2| |{{CraftReq|Yeti Ham}} qty: 25000}}
-{{patchnote|Item 3| |{{CraftReq|Sheepie Dairy}} qty: 25000}}
-{{patchnote|Item 4| |{{CraftReq|Cardboard Traps}} qty: 99}}
-{{patchnote|Item 5| |{{CraftReq|Wax Skull}} qty: 99}}
-{{patchnote|Item 6| |{{CraftReq|Weapon Upgrade Stone III}} qty: 4}}
-{{patchnote|Item 7| |{{CraftReq|Armor Upgrade Stone III}} qty: 10}}
-{{patchnote|Item 8| |{{CraftReq|Tool Upgrade Stone III}} qty: 7}}
-{{patchnote|Item 9| |{{CraftReq|Decent Strength Potion}} qty: 20000}}
-{{patchnote|Item 10| |{{CraftReq|Decent Speed Potion}} qty: 20000}}
-{{patchnote|Item 11| |{{CraftReq|Decent Life Potion}} qty: 20000}}
-{{patchnote|Item 12| |{{CraftReq|Prosperous Pouch}} qty: 1}}
-{{patchnote|Item 13| |{{CraftReq|Storage Chest 16}} qty: 1}}
-{{patchnote|Item 14| |{{CraftReq|Storage Chest 17}} qty: 1}}
-{{patchnote|Item 15| |{{CraftReq|Storage Chest 18}} qty: 1}}
-{{patchnote|Item 16| |{{CraftReq|Storage Chest 19}} qty: 1}}
-{{patchnote|Item 17| |{{CraftReq|Storage Chest 20}} qty: 1}}
-{{patchnote|Item 18| |{{CraftReq|Storage Chest 21}} qty: 1}}
-{{patchnote|Item 19| |{{CraftReq|Bottled Town Teleport}} qty: 20}}
-{{patchnote|Item 20| |{{CraftReq|Talent Point Reset Fragment}} qty: 2}}
-|}
-
 </div></div>

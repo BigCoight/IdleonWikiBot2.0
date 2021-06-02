@@ -1,10 +1,10 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Libra
-|mmm=Reamer
-|birthweight=2.45
+|starsign=Cancer
+|mmm=Sweeney
+|birthweight=2.38
 |notes=fillme
 }}
 {{Quest/head}}

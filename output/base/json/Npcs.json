@@ -1,5 +1,5 @@
 {
-    "TP_Pete": [
+    "TP Pete": [
         {
             "Type": "None",
             "DialogueText": "Hey you! Yes you the one who isn't poop... think you could help me out?",
@@ -170,14 +170,14 @@
             "NextIndex": "9999"
         }
     ],
-    "Game_Message": [
+    "Game Message": [
         {
             "Type": "None",
             "DialogueText": "Wut wuuuut!",
             "NextIndex": "0"
         }
     ],
-    "Unmade_Character": [
+    "Unmade Character": [
         {
             "Type": "None",
             "DialogueText": "Hey there what's your name? ...wait what's my name? What even am I? Am I alive?? Am I dead?? WHAT IS THIS PLACE???",
@@ -373,7 +373,7 @@
             "NextIndex": "15"
         }
     ],
-    "Town_Marble": [
+    "Town Marble": [
         {
             "Type": "None",
             "DialogueText": "Forsooth this town hath bequeathed unto me yet another philistine not worthy of laying so much as a fiddlestick upon my divine surface!",
@@ -404,7 +404,7 @@
             "NextIndex": "4"
         }
     ],
-    "Obol_Altar": [
+    "Obol Altar": [
         {
             "Type": "None",
             "DialogueText": "Zzz... Zzz... meow meow meow... @ meeeeow... Zzz...",
@@ -1361,7 +1361,7 @@
             "NextIndex": "26"
         }
     ],
-    "Picnic_Stowaway": [
+    "Picnic Stowaway": [
         {
             "Type": "None",
             "DialogueText": "... ... ... ... ... ... ... ... ... ...",
@@ -1898,7 +1898,7 @@
             "NextIndex": "13"
         }
     ],
-    "Grasslands_Gary": [
+    "Grasslands Gary": [
         {
             "Type": "None",
             "DialogueText": "Sup gamer I see you've gotten comfortable enough to start tapping on NPCs other than Scripticus down there.",
@@ -1932,7 +1932,7 @@
             "NextIndex": "9999"
         }
     ],
-    "Mr_Pigibank": [
+    "Mr Pigibank": [
         {
             "Type": "None",
             "DialogueText": "Hmpf by the looks of your clothes I don't suppose you're here to make a deposit.",
@@ -2834,7 +2834,7 @@
             "NextIndex": "16"
         }
     ],
-    "Tiki_Chief": [
+    "Tiki Chief": [
         {
             "Type": "None",
             "DialogueText": "Ooga booga bleaurgh agga blagga!!!",
@@ -3000,7 +3000,7 @@
             "NextIndex": "17"
         }
     ],
-    "Dog_Bone": [
+    "Dog Bone": [
         {
             "Type": "None",
             "DialogueText": "OOoooooOOOOooOOOooO! Have yoooOOoouuu checked oooOoout ooOOOoour latest exhibit?",
@@ -3105,7 +3105,7 @@
             "NextIndex": "16"
         }
     ],
-    "Builder_Bird": [
+    "Builder Bird": [
         {
             "Type": "None",
             "DialogueText": "Kacaw!!",
@@ -3131,7 +3131,7 @@
             "NextIndex": "2"
         }
     ],
-    "Constructor_Crow": [
+    "Constructor Crow": [
         {
             "Type": "None",
             "DialogueText": "Squakaw!!",
@@ -3162,7 +3162,7 @@
             "NextIndex": "3"
         }
     ],
-    "Papua_Piggea": [
+    "Papua Piggea": [
         {
             "Type": "None",
             "DialogueText": "Good morrow unto thee!",
@@ -3301,7 +3301,7 @@
             "NextIndex": "15"
         }
     ],
-    "Desert_Davey": [
+    "Desert Davey": [
         {
             "Type": "None",
             "DialogueText": "Yo.",
@@ -3805,7 +3805,7 @@
             "NextIndex": "6"
         }
     ],
-    "Postboy_Pablob": [
+    "Postboy Pablob": [
         {
             "Type": "None",
             "DialogueText": "Delivery? Place the order in the top slot. Incoming package? I dunno find it youself kinda busy.",
@@ -3863,7 +3863,7 @@
             "NextIndex": "9999"
         }
     ],
-    "Bandit_Bob": [
+    "Bandit Bob": [
         {
             "Type": "None",
             "DialogueText": "---BANG!---",
@@ -4385,7 +4385,7 @@
             "NextIndex": "22"
         }
     ],
-    "Omar_Da_Ogar": [
+    "Omar Da Ogar": [
         {
             "Type": "None",
             "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
@@ -4469,7 +4469,7 @@
             "NextIndex": "0"
         }
     ],
-    "Snake_Jar": [
+    "Snake Jar": [
         {
             "Type": "None",
             "DialogueText": "SSSSSSSssss....",
@@ -4883,7 +4883,7 @@
             "NextIndex": "11"
         }
     ],
-    "Cowbo_Jones": [
+    "Cowbo Jones": [
         {
             "Type": "None",
             "DialogueText": "Yall best be turnin' yourself right round I tell you hwat. Folks in these parts don't take kindly to outsiders like yorself.",
@@ -5564,7 +5564,7 @@
             "NextIndex": "23"
         }
     ],
-    "XxX_Cattleprod_XxX": [
+    "XxX Cattleprod XxX": [
         {
             "Type": "None",
             "DialogueText": "Cmon... cmonnnnNNNN!!! Spawn already!! GahhhHHHHH!",
@@ -5692,7 +5692,7 @@
             "NextIndex": "14"
         }
     ],
-    "Mecha_Pete": [
+    "Mecha Pete": [
         {
             "Type": "None",
             "DialogueText": "Hello!",
@@ -5745,7 +5745,7 @@
             "QuestName": "QuestNameFiller2"
         }
     ],
-    "Giftmas_Blobulyte": [
+    "Giftmas Blobulyte": [
         {
             "Type": "None",
             "DialogueText": "I have presents for you! Come on inside!",
@@ -6017,7 +6017,7 @@
             "NextIndex": "9"
         }
     ],
-    "Iceland_Irwin": [
+    "Iceland Irwin": [
         {
             "Type": "None",
             "DialogueText": "Oi mate! I reckon it's a bit cold out 'ere for a half naked fella like yourself! It's a darn shame you humans aren't born with a snowman heater on ya noggin like I am would do you wonders in the frozen outback!",
@@ -6257,7 +6257,7 @@
             "NextIndex": "21"
         }
     ],
-    "Bill_Brr": [
+    "Bill Brr": [
         {
             "Type": "None",
             "DialogueText": "Brrr.... Anyway so I walked up to the guy right? And I just started going off on him about some bridge an instant classic!",
@@ -6309,7 +6309,7 @@
             "NextIndex": "0"
         }
     ],
-    "Lonely_Hunter": [
+    "Lonely Hunter": [
         {
             "Type": "None",
             "DialogueText": "Ughh...",
@@ -6369,14 +6369,14 @@
             "NextIndex": "7"
         }
     ],
-    "Carpenter_Cardinal": [
+    "Carpenter Cardinal": [
         {
             "Type": "None",
             "DialogueText": "The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'",
             "NextIndex": "0"
         }
     ],
-    "Lord_of_the_Hunt": [
+    "Lord of the Hunt": [
         {
             "Type": "None",
             "DialogueText": "Ello... what 'ave we here then?",

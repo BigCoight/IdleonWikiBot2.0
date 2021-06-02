@@ -2,7 +2,7 @@
 |title=Dementia Ore
 |order=1
 |category=Medium Resources
-|effect=+{%_Mining_Speed
+|effect=+{% Mining Speed
 |bonus=4
 |reqtier=10
 |source=[[Mining#Drops|Mining Dementia]]

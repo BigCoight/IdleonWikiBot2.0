@@ -2,7 +2,7 @@
 |title=Quenchie
 |order=8
 |category=Frostfire Tyundra
-|effect=+{_Base_LUK
+|effect=+{ Base LUK
 |bonus=7
 |reqtier=17
 |source=[[Quenchie]]

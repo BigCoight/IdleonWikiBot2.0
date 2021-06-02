@@ -2,4 +2,5 @@
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 50: Souls.
 |sellprice=200
+|notes= 
 }}

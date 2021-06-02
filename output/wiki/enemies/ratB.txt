@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Rat_Walking.gif
+|image=Rat Walking.gif
 |attack=220
 |health=20000
 |defence=180
@@ -14,11 +14,10 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Poop|Walking Stick}}
-{{DropTable/head}}
 {{DropTable/coin|105|.3}}
 {{DropTable/row|Rats Tail|0.19|1}}
 {{DropTable/card|0.000050}}
-{{DropTable/row|Employment Statistics|.1|1|([[TP_Pete]])}}
+{{DropTable/row|Employment Statistics|.1|1|([[TP Pete]])}}
 {{DropTable/row|Instablab Follower|0.16|1|([[Mutton]])}}
 {{DropTable/row|Instablab Follower|0.16|1|([[Mutton]])}}
 {{DropTable3b|chance=0.006}}

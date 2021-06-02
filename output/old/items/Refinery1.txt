@@ -2,6 +2,8 @@
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
+|notes= 
 }}
 {{usedin/head}}
 {{usedin/row|[[Silkskin Traps]]|5|Crafting}}
@@ -22,6 +24,6 @@
 {{usedin/row|[[Natural Traps]]|50|Crafting}}
 {{usedin/row|[[Prickle Skull]]|50|Crafting}}
 {{usedin/row|[[Snouts#A Salty Fall|A Salty Fall]]|50|Quests}}
-{{usedin/row|[[High-IQ Cauldron#Matty Stafford|Matty Stafford]]|Lots|Alchemy}}
-{{usedin/row|[[Vials#Red Malt|Red Malt]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|Matty Stafford]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#Vials|Red Malt]]|Lots|Alchemy}}
 |}

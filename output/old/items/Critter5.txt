@@ -2,12 +2,10 @@
 |type=Critter
 |description=Hoot hoot! Yea thats all I got for this one.
 |sellprice=23
-|source=Trapping, [[Owlio]]
+|source=[[Trapping]]
+|notes= 
 }}
-{{detdrops/head}}
-{{detdrops|[[Owlio]]|0.015|1}}
-|}
 {{usedin/head}}
-{{usedin/row|[[Lord_of_the_Hunt#Happy Tree Friend|Happy Tree Friend]]|1500|Quests}}
-{{usedin/row|[[Quicc Cauldron#Green Bargain|Green Bargain]]|Lots|Alchemy}}
+{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|1500|Quests}}
+{{usedin/row|[[Alchemy#Quicc Cauldron|Green Bargain]]|Lots|Alchemy}}
 |}

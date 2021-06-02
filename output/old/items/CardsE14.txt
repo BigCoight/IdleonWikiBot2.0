@@ -2,7 +2,7 @@
 |title=Dedotated Ram
 |order=12
 |category=Frostfire Tyundra
-|effect=+{_Weapon_Power
+|effect=+{ Weapon Power
 |bonus=2
 |reqtier=20
 |source=[[Dedotated Ram]]

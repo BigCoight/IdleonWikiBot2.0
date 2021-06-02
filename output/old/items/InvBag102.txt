@@ -4,10 +4,12 @@
 |type=Inventory 
 |description=Hold down to permanently add +4 Slots to your Inventory. Can only be used once.
 |sellprice=1757
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=52
+|craftnum=53
 |levelreq=8
 |expgiven=60
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -15,14 +17,13 @@
 |resource2=Dank Paypay Chest|quantity2=1
 |resource3=Spore Cap|quantity3=169
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts16|2}}
-{{detrecipe|3|InvStorageF|1}}
-{{detrecipe|3|Grasslands1|169}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EquipmentShirts16|2}}
-{{detrecipe/totals|InvStorageF|1}}
-{{detrecipe/totals|Grasslands1|169}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Tee|2}}
+{{detrecipe|3|Dank Paypay Chest|1}}
+{{detrecipe|3|Spore Cap|169}}
+|tot=
+{{detrecipe/totals|Spore Tee|2}}
+{{detrecipe/totals|Dank Paypay Chest|1}}
+{{detrecipe/totals|Spore Cap|169}}
+}}

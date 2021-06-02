@@ -2,7 +2,7 @@
 |title=Rat
 |order=11
 |category=Blunder Hills
-|effect=+{%_Critical_Chance
+|effect=+{% Critical Chance
 |bonus=1
 |reqtier=10
 |source=[[Rat]]

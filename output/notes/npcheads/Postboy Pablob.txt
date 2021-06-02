@@ -1,0 +1,11 @@
+{{npc
+|location=YumYum Grotto
+|noquest=1
+|repeatable=Unknown
+|birthweight=1.2
+|starsign=Taurus
+|mmm=Clark
+|notes=[[Postboy Pablob]] is found in [[Worlds#D0 - YumYum Grotto|YumYum Grotto]].
+
+Complete his quest to unlock the [[Post Office]].
+}}

@@ -1,11 +1,13 @@
-{{InfoNpc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Aquarius
-|mmm=Nuttle
-|birthweight=5.88
-|notes=fillme
+{{npc
+|location=Faraway Piers
+|noquest=2
+|repeatable=Unknown
+|birthweight=1.67
+|starsign=Sagittarius
+|mmm=Taylor
+|notes=[[Scubidew]] is found in [[Worlds#F2- Faraway Piers|Faraway Piers]].
+
+Use the Fishing Rack to equip the accessories you earn from Scubidew's quests.
 }}
 {{Quest/head}}
 {{Quest
@@ -20,9 +22,10 @@
 |name=Uncovering the Deep Sea State!!!
 |text=Catch 7 fish in 2 minutes right here right now.
 |difficulty=3
-|requirements=Fish Caught: >= 7. Starting at 0. Time Left: >= 1. Starting at 121. 
+|requirements=Fish Caught: >= 7. Starting at 0., Time Left: >= 1. Starting at 121.
 |consumed=No
 |rewards=1x {{CraftReq|Basic Bobber}}, 2x {{CraftReq|Tool Upgrade Stone II}}
+|notes=A [[Barbarian]] with the Worming Undercover talent is required to catch enough fish in time.
 }}
 |}
 {{dialogue/head}}

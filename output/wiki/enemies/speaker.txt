@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Bop Box_Walking.gif
+|image=Bop Box Walking.gif
 |attack=1700
 |health=310000
 |defence=3200
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Cryosnake|Neyeptune}}
-{{DropTable/head}}
 {{DropTable/coin|440|0.3}}
 {{DropTable/row|Audio Cord|0.16|1}}
 {{DropTable/card|0.0001}}

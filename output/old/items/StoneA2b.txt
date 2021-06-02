@@ -4,6 +4,7 @@
 |sellprice=100
 |tier=B
 |source=[[DropTable7]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0025|1.0}}

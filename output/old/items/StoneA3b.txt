@@ -4,6 +4,7 @@
 |sellprice=15000
 |tier=C
 |source=[[Biggie Hours]], [[King Doot]], [[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]], [[Guild Giftbox]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.008|1}}

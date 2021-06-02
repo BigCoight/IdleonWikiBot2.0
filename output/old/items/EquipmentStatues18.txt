@@ -3,18 +3,19 @@
 |description=The sculptor got so fed up with people misinterpreting his previous statues, he felt the need to spell this one out.
 |sellprice=10
 |source=[[DropTable14]], [[DropTable15]]
+|notes= 
 }}
 {{Statuedata|0.1|+ %@ Skill Exp}}
 {{detdrops/head}}
-{{detdrops|[[Sheepie]]|0.000125|15.0}}
-{{detdrops|[[Frost Flake]]|0.00014000000000000001|15.0}}
-{{detdrops|[[Sir Stache]]|0.000155|15.0}}
-{{detdrops|[[Xylobone]]|0.0005|15.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.05|15.0}}
-{{detdrops|[[Bloque]]|0.0001|14.0}}
-{{detdrops|[[mamooth]]|0.00010800000000000001|14.0}}
-{{detdrops|[[Snowman]]|0.000116|14.0}}
-{{detdrops|[[Penguin]]|0.000124|14.0}}
-{{detdrops|[[Thermister]]|0.000132|14.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.04|14.0}}
+{{detdrops|[[Sheepie]]|0.000125|1.0}}
+{{detdrops|[[Frost Flake]]|0.00014000000000000001|1.0}}
+{{detdrops|[[Sir Stache]]|0.000155|1.0}}
+{{detdrops|[[Xylobone]]|0.0005|1.0}}
+{{detdrops|[[Frostbite Bronze Chest]]|0.05|1.0}}
+{{detdrops|[[Bloque]]|0.0001|1.0}}
+{{detdrops|[[Mamooth]]|0.00010800000000000001|1.0}}
+{{detdrops|[[Snowman]]|0.000116|1.0}}
+{{detdrops|[[Penguin]]|0.000124|1.0}}
+{{detdrops|[[Thermister]]|0.000132|1.0}}
+{{detdrops|[[Frostbite Silver Chest]]|0.04|1.0}}
 |}

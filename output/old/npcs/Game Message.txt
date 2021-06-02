@@ -1,0 +1,16 @@
+{{npc
+|location=fillme
+|noquests=fillme
+|repeatable=Unknonwn
+|starsign=Capricorn
+|mmm=Dewalt
+|birthweight=7.74
+|notes=fillme
+}}
+{{Quest/head}}
+|}
+{{dialogue/head}}
+{{dialogue/row
+|text=Wut wuuuut!
+}}
+|}

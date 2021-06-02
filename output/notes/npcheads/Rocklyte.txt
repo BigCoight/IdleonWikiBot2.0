@@ -1,0 +1,9 @@
+{{npc
+|location=Froggy Fields
+|noquest=3
+|repeatable=Unknown
+|birthweight=3.32
+|starsign=Aquarius
+|mmm=Ramirez
+|notes=[[Rocklyte]] is hidden within [[Worlds#G3 - Froggy Fields|Froggy Fields]]. In order to find him, you must complete [[Bushlyte|Bushlyte's]] quests. See [[Secrets]] for more details.
+}}

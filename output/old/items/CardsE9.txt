@@ -2,7 +2,7 @@
 |title=Cryosnake
 |order=9
 |category=Frostfire Tyundra
-|effect=+{%_MP_regen_rate
+|effect=+{% MP regen rate
 |bonus=5
 |reqtier=17
 |source=[[Cryosnake]]

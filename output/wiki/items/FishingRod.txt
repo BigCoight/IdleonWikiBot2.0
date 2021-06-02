@@ -4,10 +4,12 @@ Wood Fishing Rod
 |level=4
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=3
 |str=1
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Copper Fish Rod
 {{InfoItem
@@ -15,44 +17,49 @@ Copper Fish Rod
 |level=8
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=8
 |str=2
 |upgrade=2
 |sellprice=3000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=72
+|craftnum=73
 |levelreq=10
 |expgiven=200
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Copper Bar|quantity1=200
 |resource2=Goldfish|quantity2=400
 }}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|200}}
-{{detrecipe|3|Fish1|400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|200}}
-{{detrecipe/totals|Fish1|400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|200}}
+{{detrecipe|3|Goldfish|400}}
+|tot=
+{{detrecipe/totals|Copper Bar|200}}
+{{detrecipe/totals|Goldfish|400}}
+}}
 Iron Fishing Rod
 {{InfoItem
 |class=All
 |level=18
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=13
 |str=4
 |wis=1
 |upgrade=2
 |sellprice=19100
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=76
+|craftnum=77
 |levelreq=16
 |expgiven=750
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -63,32 +70,34 @@ Iron Fishing Rod
 {{usedin/head}}
 {{usedin/row|[[Gold Fishing Rod]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|300}}
-{{detrecipe|3|Fish2|850}}
-{{detrecipe|3|PureWater|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|300}}
-{{detrecipe/totals|Fish2|850}}
-{{detrecipe/totals|PureWater|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|300}}
+{{detrecipe|3|Hermit Can|850}}
+{{detrecipe|3|Distilled Water|3}}
+|tot=
+{{detrecipe/totals|Iron Bar|300}}
+{{detrecipe/totals|Hermit Can|850}}
+{{detrecipe/totals|Distilled Water|3}}
+}}
 Gold Fishing Rod
 {{InfoItem
 |class=All
 |level=25
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=19
 |str=6
 |luck=4
 |upgrade=3
 |sellprice=144800
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=12
+|craftnum=13
 |levelreq=22
 |expgiven=5500
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -100,83 +109,87 @@ Gold Fishing Rod
 {{usedin/row|[[Plat Fishing Rod]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish2|2500}}
-{{detrecipe|3|CraftMat9|1000}}
-{{detrecipe|3|FishingRod3|3}}
-{{detrecipe|40|IronBar|900}}
-{{detrecipe|40|Fish2|2550}}
-{{detrecipe|40|PureWater|9}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish2|5050}}
-{{detrecipe/totals|CraftMat9|1000}}
-{{detrecipe/totals|IronBar|900}}
-{{detrecipe/totals|PureWater|9}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hermit Can|2500}}
+{{detrecipe|3|Leather Hide|1000}}
+{{detrecipe|3|Iron Fishing Rod|3}}
+{{detrecipe|40|Iron Bar|900}}
+{{detrecipe|40|Hermit Can|2550}}
+{{detrecipe|40|Distilled Water|9}}
+|tot=
+{{detrecipe/totals|Hermit Can|5050}}
+{{detrecipe/totals|Leather Hide|1000}}
+{{detrecipe/totals|Iron Bar|900}}
+{{detrecipe/totals|Distilled Water|9}}
+}}
 Plat Fishing Rod
 {{InfoItem
 |class=All
 |level=35
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=25
 |str=9
 |upgrade=3
-|sellprice=875600
+|sellprice=783600
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=32
+|craftnum=33
 |levelreq=29
 |expgiven=29000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Bloach|quantity1=7000
-|resource2=Platinum Bar|quantity2=1000
+|resource2=Platinum Bar|quantity2=800
 |resource3=Gold Fishing Rod|quantity3=2
 }}
 {{usedin/head}}
 {{usedin/row|[[Dementia Rod for Fishing]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Fish4|7000}}
-{{detrecipe|3|PlatBar|1000}}
-{{detrecipe|3|FishingRod4|2}}
-{{detrecipe|40|Fish2|5000}}
-{{detrecipe|40|CraftMat9|2000}}
-{{detrecipe|40|FishingRod3|6}}
-{{detrecipe|80|IronBar|1800}}
-{{detrecipe|80|Fish2|5100}}
-{{detrecipe|80|PureWater|18}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish4|7000}}
-{{detrecipe/totals|PlatBar|1000}}
-{{detrecipe/totals|Fish2|10100}}
-{{detrecipe/totals|CraftMat9|2000}}
-{{detrecipe/totals|IronBar|1800}}
-{{detrecipe/totals|PureWater|18}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bloach|7000}}
+{{detrecipe|3|Platinum Bar|800}}
+{{detrecipe|3|Gold Fishing Rod|2}}
+{{detrecipe|40|Hermit Can|5000}}
+{{detrecipe|40|Leather Hide|2000}}
+{{detrecipe|40|Iron Fishing Rod|6}}
+{{detrecipe|80|Iron Bar|1800}}
+{{detrecipe|80|Hermit Can|5100}}
+{{detrecipe|80|Distilled Water|18}}
+|tot=
+{{detrecipe/totals|Bloach|7000}}
+{{detrecipe/totals|Platinum Bar|800}}
+{{detrecipe/totals|Hermit Can|10100}}
+{{detrecipe/totals|Leather Hide|2000}}
+{{detrecipe/totals|Iron Bar|1800}}
+{{detrecipe/totals|Distilled Water|18}}
+}}
 Dementia Rod for Fishing
 {{InfoItem
 |class=All
 |level=45
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=30
 |str=12
 |upgrade=3
-|sellprice=2206200
+|sellprice=2022200
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=12
+|craftnum=13
 |levelreq=38
 |expgiven=150000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dementia Bar|quantity1=300
 |resource2=Redox Salts|quantity2=50
 |resource3=Plat Fishing Rod|quantity3=2
@@ -184,79 +197,80 @@ Dementia Rod for Fishing
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Rod]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|DementiaBar|300}}
-{{detrecipe|3|Refinery1|50}}
-{{detrecipe|3|FishingRod5|2}}
-{{detrecipe|40|Fish4|14000}}
-{{detrecipe|40|PlatBar|2000}}
-{{detrecipe|40|FishingRod4|4}}
-{{detrecipe|80|Fish2|10000}}
-{{detrecipe|80|CraftMat9|4000}}
-{{detrecipe|80|FishingRod3|12}}
-{{detrecipe|120|IronBar|3600}}
-{{detrecipe|120|Fish2|10200}}
-{{detrecipe|120|PureWater|36}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DementiaBar|300}}
-{{detrecipe/totals|Refinery1|50}}
-{{detrecipe/totals|Fish4|14000}}
-{{detrecipe/totals|PlatBar|2000}}
-{{detrecipe/totals|Fish2|20200}}
-{{detrecipe/totals|CraftMat9|4000}}
-{{detrecipe/totals|IronBar|3600}}
-{{detrecipe/totals|PureWater|36}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dementia Bar|300}}
+{{detrecipe|3|Redox Salts|50}}
+{{detrecipe|3|Plat Fishing Rod|2}}
+{{detrecipe|40|Bloach|14000}}
+{{detrecipe|40|Platinum Bar|1600}}
+{{detrecipe|40|Gold Fishing Rod|4}}
+{{detrecipe|80|Hermit Can|10000}}
+{{detrecipe|80|Leather Hide|4000}}
+{{detrecipe|80|Iron Fishing Rod|12}}
+{{detrecipe|120|Iron Bar|3600}}
+{{detrecipe|120|Hermit Can|10200}}
+{{detrecipe|120|Distilled Water|36}}
+|tot=
+{{detrecipe/totals|Dementia Bar|300}}
+{{detrecipe/totals|Redox Salts|50}}
+{{detrecipe/totals|Bloach|14000}}
+{{detrecipe/totals|Platinum Bar|1600}}
+{{detrecipe/totals|Hermit Can|20200}}
+{{detrecipe/totals|Leather Hide|4000}}
+{{detrecipe/totals|Iron Bar|3600}}
+{{detrecipe/totals|Distilled Water|36}}
+}}
 Void Imperium Rod
 {{InfoItem
 |class=All
 |level=55
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=36
 |str=15
 |upgrade=4
-|sellprice=4432409
+|sellprice=4064409
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=36
+|craftnum=37
 |levelreq=45
 |expgiven=400000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Spontaneity Salts|quantity1=200
 |resource2=Minervowl|quantity2=3
 |resource3=Dementia Rod for Fishing|quantity3=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery3|200}}
-{{detrecipe|3|Critter5A|3}}
-{{detrecipe|3|FishingRod6|2}}
-{{detrecipe|40|DementiaBar|600}}
-{{detrecipe|40|Refinery1|100}}
-{{detrecipe|40|FishingRod5|4}}
-{{detrecipe|80|Fish4|28000}}
-{{detrecipe|80|PlatBar|4000}}
-{{detrecipe|80|FishingRod4|8}}
-{{detrecipe|120|Fish2|20000}}
-{{detrecipe|120|CraftMat9|8000}}
-{{detrecipe|120|FishingRod3|24}}
-{{detrecipe|160|IronBar|7200}}
-{{detrecipe|160|Fish2|20400}}
-{{detrecipe|160|PureWater|72}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery3|200}}
-{{detrecipe/totals|Critter5A|3}}
-{{detrecipe/totals|DementiaBar|600}}
-{{detrecipe/totals|Refinery1|100}}
-{{detrecipe/totals|Fish4|28000}}
-{{detrecipe/totals|PlatBar|4000}}
-{{detrecipe/totals|Fish2|40400}}
-{{detrecipe/totals|CraftMat9|8000}}
-{{detrecipe/totals|IronBar|7200}}
-{{detrecipe/totals|PureWater|72}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spontaneity Salts|200}}
+{{detrecipe|3|Minervowl|3}}
+{{detrecipe|3|Dementia Rod for Fishing|2}}
+{{detrecipe|40|Dementia Bar|600}}
+{{detrecipe|40|Redox Salts|100}}
+{{detrecipe|40|Plat Fishing Rod|4}}
+{{detrecipe|80|Bloach|28000}}
+{{detrecipe|80|Platinum Bar|3200}}
+{{detrecipe|80|Gold Fishing Rod|8}}
+{{detrecipe|120|Hermit Can|20000}}
+{{detrecipe|120|Leather Hide|8000}}
+{{detrecipe|120|Iron Fishing Rod|24}}
+{{detrecipe|160|Iron Bar|7200}}
+{{detrecipe|160|Hermit Can|20400}}
+{{detrecipe|160|Distilled Water|72}}
+|tot=
+{{detrecipe/totals|Spontaneity Salts|200}}
+{{detrecipe/totals|Minervowl|3}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Redox Salts|100}}
+{{detrecipe/totals|Bloach|28000}}
+{{detrecipe/totals|Platinum Bar|3200}}
+{{detrecipe/totals|Hermit Can|40400}}
+{{detrecipe/totals|Leather Hide|8000}}
+{{detrecipe/totals|Iron Bar|7200}}
+{{detrecipe/totals|Distilled Water|72}}
+}}

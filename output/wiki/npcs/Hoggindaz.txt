@@ -1,19 +1,129 @@
-{{InfoNpc
+{{npc
 |location=fillme
 |noquests=fillme
 |repeatable=Unknonwn
-|starsign=Capricorn
-|mmm=Pak
-|birthweight=6.18
+|starsign=Sagittarius
+|mmm=Jenson
+|birthweight=3.42
 |notes=fillme
 }}
 {{Quest/head}}
+{{Quest
+|name=Turn ON for what???
+|text=Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.
+|difficulty=1
+|requirements=Refinery Turned On: >= 1. Starting at 0., Hours of Redox Fuel: >= 24. Starting at 0.
+|consumed=No
+|rewards=3x {{CraftReq|Gem}}
+|notes= 
+}}
+{{Quest
+|name=Trapping with the Lord
+|text=Go to the map to the left and learn about the Trapping Skill.
+|difficulty=4
+|requirements=Get TrapBox from Hunter: >= 1. Starting at 0., Place a Trap in Jungle: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|1 HR Time Candy}}, 4x {{CraftReq|Gem}}
+|notes= 
+}}
+{{Quest
+|name=Constructing a Tower
+|text=Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.
+|difficulty=3
+|requirements=3D Printer Built: >= 1. Starting at 0., Wizard Defender Built: >= 1. Starting at 0.
+|consumed=No
+|rewards={{Talentbook|Printer Sampling}}, 2x {{CraftReq|Gem}}
+|notes= 
+}}
+{{Quest
+|name=Monke Tower Time!
+|text=Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!
+|difficulty=2
+|requirements=Summon Goblin Gorefest: >= 1. Starting at 0., Place Wizard Towers: >= 4. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|1 HR Time Candy}}, 2x {{CraftReq|Gem}}
+|notes= 
+}}
+{{Quest
+|name=Taking Samples
+|text=Use the Star Book then add the talent to your attack bar and take samples!
+|difficulty=1
+|requirements=Take Samples: >= 2. Starting at 0.
+|consumed=No
+|rewards={{Talentbook|Shrine Architect}}, 2x {{CraftReq|Gem}}
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Hi! My name is Hoggi and I am the mayor of Frostbite Tundra Town! Of course we just call it Frostbite Towndra hehe!
 }}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Anyway I've been waiting for someone like you to come around for ages!! No seriously wasn't this world meant to be available weeks ago?
+}}
+{{dialogue/row
+|text=Well you're here now! Better get started before all those Alpha Testers get too far ahead of you! Let me show you what our world has to offer...
+}}
+{{dialogue/row
+|text=First up the Refinery! See that smoke machine up there? Go turn it on and collect the fuel it needs into your Storage Chest! @ QUEST:Turn on Redox Combustion in the refinery and collect Mushroom Caps and Copper Ore until you have 24 hours of fuel.
+|quest=Turn ON for what???
+}}
+{{dialogue/row
+|text=You don't have enough inventory space clear some up!
+}}
+{{dialogue/row
+|text=You figured that out pretty quickly! Most people just take one look at it and go straight to Lava to ask him how it works...
+}}
+{{dialogue/row
+|text=While we wait for the refinery to produce some salts lets start Trapping!
+}}
+{{dialogue/row
+|text=Go to the woods map over to the left and talk to the Lord of the Hunt. He will explain Trapping better than I ever could! @ QUEST:Go to the map to the left and learn about the Trapping Skill.
+|quest=Trapping with the Lord
+}}
+{{dialogue/row
+|text=You don't have enough inventory space clear some up!
+}}
+{{dialogue/row
+|text=Nice you did it! @ Anyway let's start some Construction!
+}}
+{{dialogue/row
+|text=See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! @ QUEST:Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.
+|quest=Constructing a Tower
+}}
+{{dialogue/row
+|text=You don't have enough inventory space clear some up!
+}}
+{{dialogue/row
+|text=Well package me up and sell me without a spoon you hardly even need my help! Let me show you one last thing before you go though.
+}}
+{{dialogue/row
+|text=It's the 3rd skill of this world Worship! It's an extremely complex skill with very nuanced strategy and and rules!
+}}
+{{dialogue/row
+|text=... ok it's basically just the Monkey Ballon game.
+}}
+{{dialogue/row
+|text=Go to the totem in the Goblin Forest. You probably know it as 'that thing that I don't know what it does'. @ QUEST:Start a round of Tower Defence by going to the Goblin Map in World 1. Also equip that wax skull!
+|quest=Monke Tower Time!
+}}
+{{dialogue/row
+|text=You don't have enough inventory space clear some up!
+}}
+{{dialogue/row
+|text=Well thats it! @ ... ok oooone last thing super quick! It's super important!
+}}
+{{dialogue/row
+|text=Remember those star books I gave you? Well one of them lets you collect samples for the 3d printer!
+}}
+{{dialogue/row
+|text=Use the Star Book and level up the talent once. Then drag it into your Attack bar and use it in any map! @ Take samples using your new Star Talent! Just don't do it in Town... @ QUEST:Use the Star Book then add the talent to your attack bar and take samples!
+|quest=Taking Samples
+}}
+{{dialogue/row
+|text=You don't have enough inventory space clear some up!
+}}
+{{dialogue/row
+|text=Well thats it! That's all I had to tell you and since there's no evil boss or anything in this world and definitely never will be there's nothing left for me to say! @ Return later when the World 3 boss is released.
 }}
 |}

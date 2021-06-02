@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Butterfly Bar_Walking.gif
+|image=Butterfly Bar Walking.gif
 |attack=6
 |health=999999999
 |defence=1
@@ -9,6 +9,5 @@
 |defence0=2.67
 }}
 {{EnemyNavigation||}}
-{{DropTable/head}}
 {{DropTable/row|Frog Leg|0.0|2}}
 |}

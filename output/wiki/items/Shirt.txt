@@ -8,13 +8,15 @@ Orange Tee
 |upgrade=1
 |defence=3
 |sellprice=60
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=5
+|craftnum=6
 |levelreq=1
 |expgiven=5
-|recipefrom=Start
+|recipefrom=
 |resource1=Spore Cap|quantity1=10
 |resource2=Oak Logs|quantity2=15
 }}
@@ -24,15 +26,14 @@ Orange Tee
 {{usedin/row|[[Green Tee]]|3|Crafting}}
 {{usedin/row|[[Black Tee]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands1|10}}
-{{detrecipe|3|OakTree|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|10}}
-{{detrecipe/totals|OakTree|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Cap|10}}
+{{detrecipe|3|Oak Logs|15}}
+|tot=
+{{detrecipe/totals|Spore Cap|10}}
+{{detrecipe/totals|Oak Logs|15}}
+}}
 Blue Tee
 {{InfoItem
 |class=All
@@ -43,13 +44,15 @@ Blue Tee
 |upgrade=2
 |defence=3
 |sellprice=295
+|source=[[Smithing]], [[Scripticus#The Smithing Grind|Recipe from The Smithing Grind]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=36
+|craftnum=37
 |levelreq=3
 |expgiven=15
-|recipefrom=Scripticus
+|recipefrom=[[Scripticus#The Smithing Grind|The Smithing Grind]]
 |resource1=Spore Cap|quantity1=25
 |resource2=Oak Logs|quantity2=50
 |resource3=Orange Tee|quantity3=2
@@ -58,18 +61,17 @@ Blue Tee
 {{usedin/row|[[Black Tee]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands1|25}}
-{{detrecipe|3|OakTree|50}}
-{{detrecipe|3|EquipmentShirts1|2}}
-{{detrecipe|40|Grasslands1|20}}
-{{detrecipe|40|OakTree|30}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|45}}
-{{detrecipe/totals|OakTree|80}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Spore Cap|25}}
+{{detrecipe|3|Oak Logs|50}}
+{{detrecipe|3|Orange Tee|2}}
+{{detrecipe|40|Spore Cap|20}}
+{{detrecipe|40|Oak Logs|30}}
+|tot=
+{{detrecipe/totals|Spore Cap|45}}
+{{detrecipe/totals|Oak Logs|80}}
+}}
 Spore Tee
 {{InfoItem
 |class=All
@@ -80,6 +82,7 @@ Spore Tee
 |defence=3
 |sellprice=125
 |source=[[Green Mushroom]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.00035|1}}
@@ -96,10 +99,12 @@ Black Tee
 |upgrade=5
 |defence=5
 |sellprice=6105
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=55
+|craftnum=56
 |levelreq=9
 |expgiven=120
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -111,38 +116,37 @@ Black Tee
 {{usedin/head}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts1|5}}
-{{detrecipe|40|Grasslands1|50}}
-{{detrecipe|40|OakTree|75}}
-{{detrecipe|3|EquipmentShirts2|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|OakTree|150}}
-{{detrecipe|40|EquipmentShirts1|6}}
-{{detrecipe|80|Grasslands1|60}}
-{{detrecipe|80|OakTree|90}}
-{{detrecipe|3|EquipmentShirts25|3}}
-{{detrecipe|40|Grasslands4|120}}
-{{detrecipe|40|BirchTree|300}}
-{{detrecipe|40|EquipmentShirts1|9}}
-{{detrecipe|80|Grasslands1|90}}
-{{detrecipe|80|OakTree|135}}
-{{detrecipe|3|EquipmentShirts24|3}}
-{{detrecipe|40|CraftMat1|450}}
-{{detrecipe|40|EquipmentShirts16|6}}
-{{detrecipe|40|EquipmentShirts1|9}}
-{{detrecipe|80|Grasslands1|90}}
-{{detrecipe|80|OakTree|135}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands1|365}}
-{{detrecipe/totals|OakTree|585}}
-{{detrecipe/totals|Grasslands4|120}}
-{{detrecipe/totals|BirchTree|300}}
-{{detrecipe/totals|CraftMat1|450}}
-{{detrecipe/totals|EquipmentShirts16|6}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Orange Tee|5}}
+{{detrecipe|40|Spore Cap|50}}
+{{detrecipe|40|Oak Logs|75}}
+{{detrecipe|3|Blue Tee|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Oak Logs|150}}
+{{detrecipe|40|Orange Tee|6}}
+{{detrecipe|80|Spore Cap|60}}
+{{detrecipe|80|Oak Logs|90}}
+{{detrecipe|3|Purple Tee|3}}
+{{detrecipe|40|Red Spore Cap|120}}
+{{detrecipe|40|Bleach Logs|300}}
+{{detrecipe|40|Orange Tee|9}}
+{{detrecipe|80|Spore Cap|90}}
+{{detrecipe|80|Oak Logs|135}}
+{{detrecipe|3|Green Tee|3}}
+{{detrecipe|40|Thread|450}}
+{{detrecipe|40|Spore Tee|6}}
+{{detrecipe|40|Orange Tee|9}}
+{{detrecipe|80|Spore Cap|90}}
+{{detrecipe|80|Oak Logs|135}}
+|tot=
+{{detrecipe/totals|Spore Cap|365}}
+{{detrecipe/totals|Oak Logs|585}}
+{{detrecipe/totals|Red Spore Cap|120}}
+{{detrecipe/totals|Bleach Logs|300}}
+{{detrecipe/totals|Thread|450}}
+{{detrecipe/totals|Spore Tee|6}}
+}}
 Tanned Hide
 {{InfoItem
 |class=Archer
@@ -154,6 +158,7 @@ Tanned Hide
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Paralax Chest
 {{InfoItem
@@ -166,6 +171,7 @@ Paralax Chest
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Molten Chest
 {{InfoItem
@@ -178,18 +184,7 @@ Molten Chest
 |luck=3
 |upgrade=2
 |sellprice=200
-}}
-REPLACE ME
-{{InfoItem
-|class=Beginner
-|level=15
-|type=Shirt
-|weaponpower=5
-|str=3
-|agi=3
-|luck=3
-|upgrade=2
-|sellprice=200
+|notes= 
 }}
 REPLACE ME
 {{InfoItem
@@ -202,6 +197,7 @@ REPLACE ME
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Tattered Cloth
 {{InfoItem
@@ -213,6 +209,7 @@ Tattered Cloth
 |upgrade=2
 |sellprice=200
 |source=[[DropTable2]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.005|1.0}}
@@ -238,28 +235,29 @@ Fur Shirt
 |upgrade=3
 |defence=13
 |sellprice=26000
+|source=[[Smithing]], [[Glublin|Recipe from Glublin]], [[Funguy#Videogame Highscores are COOL!|Recipe from Videogame Highscores are COOL!]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=44
+|craftnum=45
 |levelreq=14
 |expgiven=800
-|recipefrom=Funguy
+|recipefrom=[[Glublin]], [[Funguy#Videogame Highscores are COOL!|Videogame Highscores are COOL!]]
 |resource1=Goblin Ear|quantity1=500
 |resource2=Iron Bar|quantity2=500
 }}
 {{usedin/head}}
 {{usedin/row|[[Feral Leathering]]|4|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Forest1|500}}
-{{detrecipe|3|IronBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Forest1|500}}
-{{detrecipe/totals|IronBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Goblin Ear|500}}
+{{detrecipe|3|Iron Bar|500}}
+|tot=
+{{detrecipe/totals|Goblin Ear|500}}
+{{detrecipe/totals|Iron Bar|500}}
+}}
 Copper Platebody
 {{InfoItem
 |class=All
@@ -271,13 +269,15 @@ Copper Platebody
 |upgrade=2
 |defence=7
 |sellprice=1755
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=17
+|craftnum=18
 |levelreq=7
 |expgiven=55
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=45
 |resource2=Trusty Nails|quantity2=120
 }}
@@ -286,15 +286,14 @@ Copper Platebody
 {{usedin/row|[[Gold Platebody]]|5|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|45}}
-{{detrecipe|3|CraftMat5|120}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|45}}
-{{detrecipe/totals|CraftMat5|120}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|45}}
+{{detrecipe|3|Trusty Nails|120}}
+|tot=
+{{detrecipe/totals|Copper Bar|45}}
+{{detrecipe/totals|Trusty Nails|120}}
+}}
 Iron Platebody
 {{InfoItem
 |class=All
@@ -307,29 +306,29 @@ Iron Platebody
 |upgrade=2
 |defence=12
 |sellprice=8400
-|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=33
+|craftnum=34
 |levelreq=13
 |expgiven=600
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=150
 |resource2=Jungle Logs|quantity2=600
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Platbody]]|5|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|150}}
-{{detrecipe|3|JungleTree|600}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|150}}
-{{detrecipe/totals|JungleTree|600}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|150}}
+{{detrecipe|3|Jungle Logs|600}}
+|tot=
+{{detrecipe/totals|Iron Bar|150}}
+{{detrecipe/totals|Jungle Logs|600}}
+}}
 Gold Platebody
 {{InfoItem
 |class=All
@@ -341,31 +340,32 @@ Gold Platebody
 |upgrade=3
 |defence=18
 |sellprice=139025
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=1
+|craftnum=2
 |levelreq=16
 |expgiven=1400
-|recipefrom=Start
+|recipefrom=
 |resource1=Pocket Sand|quantity1=1500
 |resource2=Copper Platebody|quantity2=5
 |resource3=Gold Bar|quantity3=350
 }}
-{{detrecipe/head}}
-{{detrecipe|3|DesertA1|1500}}
-{{detrecipe|3|EquipmentShirts11|5}}
-{{detrecipe|40|CopperBar|225}}
-{{detrecipe|40|CraftMat5|600}}
-{{detrecipe|3|GoldBar|350}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DesertA1|1500}}
-{{detrecipe/totals|CopperBar|225}}
-{{detrecipe/totals|CraftMat5|600}}
-{{detrecipe/totals|GoldBar|350}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Pocket Sand|1500}}
+{{detrecipe|3|Copper Platebody|5}}
+{{detrecipe|40|Copper Bar|225}}
+{{detrecipe|40|Trusty Nails|600}}
+{{detrecipe|3|Gold Bar|350}}
+|tot=
+{{detrecipe/totals|Pocket Sand|1500}}
+{{detrecipe/totals|Copper Bar|225}}
+{{detrecipe/totals|Trusty Nails|600}}
+{{detrecipe/totals|Gold Bar|350}}
+}}
 Amarok Bodyplate
 {{InfoItem
 |class=All
@@ -377,10 +377,12 @@ Amarok Bodyplate
 |upgrade=5
 |defence=22
 |sellprice=42300
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=65
+|craftnum=66
 |levelreq=21
 |expgiven=3000
 |recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
@@ -388,17 +390,16 @@ Amarok Bodyplate
 |resource2=Iron Bar|quantity2=400
 |resource3=Corn Kernels|quantity3=900
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Quest17|10}}
-{{detrecipe|3|IronBar|400}}
-{{detrecipe|3|Sewers1|900}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest17|10}}
-{{detrecipe/totals|IronBar|400}}
-{{detrecipe/totals|Sewers1|900}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Amarok Slab|10}}
+{{detrecipe|3|Iron Bar|400}}
+{{detrecipe|3|Corn Kernels|900}}
+|tot=
+{{detrecipe/totals|Amarok Slab|10}}
+{{detrecipe/totals|Iron Bar|400}}
+{{detrecipe/totals|Corn Kernels|900}}
+}}
 Platinum Platbody
 {{InfoItem
 |class=All
@@ -410,13 +411,15 @@ Platinum Platbody
 |upgrade=3
 |defence=25
 |sellprice=1167000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=21
+|craftnum=22
 |levelreq=30
 |expgiven=36000
-|recipefrom=Start
+|recipefrom=
 |resource1=Potato Remains|quantity1=5000
 |resource2=Iron Platebody|quantity2=5
 |resource3=Platinum Bar|quantity3=1000
@@ -424,20 +427,19 @@ Platinum Platbody
 {{usedin/head}}
 {{usedin/row|[[Dementia Body]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|DesertB4|5000}}
-{{detrecipe|3|EquipmentShirts12|5}}
-{{detrecipe|40|IronBar|750}}
-{{detrecipe|40|JungleTree|3000}}
-{{detrecipe|3|PlatBar|1000}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|DesertB4|5000}}
-{{detrecipe/totals|IronBar|750}}
-{{detrecipe/totals|JungleTree|3000}}
-{{detrecipe/totals|PlatBar|1000}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Potato Remains|5000}}
+{{detrecipe|3|Iron Platebody|5}}
+{{detrecipe|40|Iron Bar|750}}
+{{detrecipe|40|Jungle Logs|3000}}
+{{detrecipe|3|Platinum Bar|1000}}
+|tot=
+{{detrecipe/totals|Potato Remains|5000}}
+{{detrecipe/totals|Iron Bar|750}}
+{{detrecipe/totals|Jungle Logs|3000}}
+{{detrecipe/totals|Platinum Bar|1000}}
+}}
 Dementia Body
 {{InfoItem
 |class=All
@@ -449,13 +451,15 @@ Dementia Body
 |upgrade=4
 |defence=35
 |sellprice=1942000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=1
+|craftnum=2
 |levelreq=37
 |expgiven=120000
-|recipefrom=Start
+|recipefrom=
 |resource1=Forest Soul|quantity1=1000
 |resource2=Platinum Platbody|quantity2=2
 |resource3=Dementia Bar|quantity3=350
@@ -463,24 +467,23 @@ Dementia Body
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Platebody]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Soul1|1000}}
-{{detrecipe|3|EquipmentShirts14|2}}
-{{detrecipe|40|DesertB4|10000}}
-{{detrecipe|40|EquipmentShirts12|10}}
-{{detrecipe|80|IronBar|1500}}
-{{detrecipe|80|JungleTree|6000}}
-{{detrecipe|40|PlatBar|2000}}
-{{detrecipe|3|DementiaBar|350}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Soul1|1000}}
-{{detrecipe/totals|DesertB4|10000}}
-{{detrecipe/totals|IronBar|1500}}
-{{detrecipe/totals|JungleTree|6000}}
-{{detrecipe/totals|DementiaBar|350}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Soul|1000}}
+{{detrecipe|3|Platinum Platbody|2}}
+{{detrecipe|40|Potato Remains|10000}}
+{{detrecipe|40|Iron Platebody|10}}
+{{detrecipe|80|Iron Bar|1500}}
+{{detrecipe|80|Jungle Logs|6000}}
+{{detrecipe|40|Platinum Bar|2000}}
+{{detrecipe|3|Dementia Bar|350}}
+|tot=
+{{detrecipe/totals|Forest Soul|1000}}
+{{detrecipe/totals|Potato Remains|10000}}
+{{detrecipe/totals|Iron Bar|1500}}
+{{detrecipe/totals|Jungle Logs|6000}}
+{{detrecipe/totals|Dementia Bar|350}}
+}}
 Efaunt Ribcage
 {{InfoItem
 |class=All
@@ -493,10 +496,12 @@ Efaunt Ribcage
 |upgrade=6
 |defence=30
 |sellprice=4260
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=61
+|craftnum=62
 |levelreq=39
 |expgiven=50000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -504,17 +509,16 @@ Efaunt Ribcage
 |resource2=Midnight Cookie|quantity2=10
 |resource3=Distilled Water|quantity3=25
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|10}}
-{{detrecipe|3|MidnightCookie|10}}
-{{detrecipe|3|PureWater|25}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|10}}
-{{detrecipe/totals|MidnightCookie|10}}
-{{detrecipe/totals|PureWater|25}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|10}}
+{{detrecipe|3|Midnight Cookie|10}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|10}}
+{{detrecipe/totals|Midnight Cookie|10}}
+{{detrecipe/totals|Distilled Water|25}}
+}}
 Void Imperium Platebody
 {{InfoItem
 |class=All
@@ -526,13 +530,15 @@ Void Imperium Platebody
 |upgrade=4
 |defence=45
 |sellprice=21984000
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=25
+|craftnum=26
 |levelreq=44
 |expgiven=300000
-|recipefrom=Start
+|recipefrom=
 |resource1=Audio Cord|quantity1=75000
 |resource2=Dementia Body|quantity2=2
 |resource3=Void Bar|quantity3=500
@@ -543,29 +549,28 @@ Void Imperium Platebody
 {{usedin/row|[[Evergreen Wraps]]|1|Crafting}}
 {{usedin/row|[[Elegantine Robes]]|1|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SnowC3|75000}}
-{{detrecipe|3|EquipmentShirts15|2}}
-{{detrecipe|40|Soul1|2000}}
-{{detrecipe|40|EquipmentShirts14|4}}
-{{detrecipe|80|DesertB4|20000}}
-{{detrecipe|80|EquipmentShirts12|20}}
-{{detrecipe|120|IronBar|3000}}
-{{detrecipe|120|JungleTree|12000}}
-{{detrecipe|80|PlatBar|4000}}
-{{detrecipe|40|DementiaBar|700}}
-{{detrecipe|3|VoidBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowC3|75000}}
-{{detrecipe/totals|Soul1|2000}}
-{{detrecipe/totals|DesertB4|20000}}
-{{detrecipe/totals|IronBar|3000}}
-{{detrecipe/totals|JungleTree|12000}}
-{{detrecipe/totals|DementiaBar|700}}
-{{detrecipe/totals|VoidBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Audio Cord|75000}}
+{{detrecipe|3|Dementia Body|2}}
+{{detrecipe|40|Forest Soul|2000}}
+{{detrecipe|40|Platinum Platbody|4}}
+{{detrecipe|80|Potato Remains|20000}}
+{{detrecipe|80|Iron Platebody|20}}
+{{detrecipe|120|Iron Bar|3000}}
+{{detrecipe|120|Jungle Logs|12000}}
+{{detrecipe|80|Platinum Bar|4000}}
+{{detrecipe|40|Dementia Bar|700}}
+{{detrecipe|3|Void Bar|500}}
+|tot=
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Iron Bar|3000}}
+{{detrecipe/totals|Jungle Logs|12000}}
+{{detrecipe/totals|Dementia Bar|700}}
+{{detrecipe/totals|Void Bar|500}}
+}}
 MCR Tshirt
 {{InfoItem
 |class=All
@@ -577,6 +582,7 @@ MCR Tshirt
 |defence=1
 |sellprice=200
 |source=[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]
+|notes= 
 }}
 Planktop
 {{InfoItem
@@ -588,6 +594,7 @@ Planktop
 |defence=4
 |sellprice=200
 |source=[[Wode Board]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.00001|1}}
@@ -601,10 +608,12 @@ Hide Shirt
 |upgrade=3
 |defence=4
 |sellprice=8860
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=45
+|craftnum=46
 |levelreq=14
 |expgiven=600
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -615,23 +624,22 @@ Hide Shirt
 {{usedin/head}}
 {{usedin/row|[[Studded Hide]]|4|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|BirchTree|325}}
-{{detrecipe|3|EquipmentShirts11|2}}
-{{detrecipe|40|CopperBar|90}}
-{{detrecipe|40|CraftMat5|240}}
-{{detrecipe|3|TestObj7|1}}
-{{detrecipe|40|Jungle1|125}}
-{{detrecipe|40|CraftMat6|125}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|BirchTree|325}}
-{{detrecipe/totals|CopperBar|90}}
-{{detrecipe/totals|CraftMat5|240}}
-{{detrecipe/totals|Jungle1|125}}
-{{detrecipe/totals|CraftMat6|125}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleach Logs|325}}
+{{detrecipe|3|Copper Platebody|2}}
+{{detrecipe|40|Copper Bar|90}}
+{{detrecipe|40|Trusty Nails|240}}
+{{detrecipe|3|Steel Axe|1}}
+{{detrecipe|40|Slime Sludge|125}}
+{{detrecipe|40|Boring Brick|125}}
+|tot=
+{{detrecipe/totals|Bleach Logs|325}}
+{{detrecipe/totals|Copper Bar|90}}
+{{detrecipe/totals|Trusty Nails|240}}
+{{detrecipe/totals|Slime Sludge|125}}
+{{detrecipe/totals|Boring Brick|125}}
+}}
 Green Tee
 {{InfoItem
 |class=All
@@ -641,10 +649,12 @@ Green Tee
 |upgrade=1
 |defence=4
 |sellprice=880
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=54
+|craftnum=55
 |levelreq=7
 |expgiven=60
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -656,20 +666,19 @@ Green Tee
 {{usedin/row|[[Black Tee]]|3|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat1|150}}
-{{detrecipe|3|EquipmentShirts16|2}}
-{{detrecipe|3|EquipmentShirts1|3}}
-{{detrecipe|40|Grasslands1|30}}
-{{detrecipe|40|OakTree|45}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat1|150}}
-{{detrecipe/totals|EquipmentShirts16|2}}
-{{detrecipe/totals|Grasslands1|30}}
-{{detrecipe/totals|OakTree|45}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Thread|150}}
+{{detrecipe|3|Spore Tee|2}}
+{{detrecipe|3|Orange Tee|3}}
+{{detrecipe|40|Spore Cap|30}}
+{{detrecipe|40|Oak Logs|45}}
+|tot=
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Spore Tee|2}}
+{{detrecipe/totals|Spore Cap|30}}
+{{detrecipe/totals|Oak Logs|45}}
+}}
 Purple Tee
 {{InfoItem
 |class=All
@@ -679,10 +688,12 @@ Purple Tee
 |upgrade=1
 |defence=3
 |sellprice=760
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=53
+|craftnum=54
 |levelreq=5
 |expgiven=30
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -693,20 +704,19 @@ Purple Tee
 {{usedin/head}}
 {{usedin/row|[[Black Tee]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands4|40}}
-{{detrecipe|3|BirchTree|100}}
-{{detrecipe|3|EquipmentShirts1|3}}
-{{detrecipe|40|Grasslands1|30}}
-{{detrecipe|40|OakTree|45}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands4|40}}
-{{detrecipe/totals|BirchTree|100}}
-{{detrecipe/totals|Grasslands1|30}}
-{{detrecipe/totals|OakTree|45}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Red Spore Cap|40}}
+{{detrecipe|3|Bleach Logs|100}}
+{{detrecipe|3|Orange Tee|3}}
+{{detrecipe|40|Spore Cap|30}}
+{{detrecipe|40|Oak Logs|45}}
+|tot=
+{{detrecipe/totals|Red Spore Cap|40}}
+{{detrecipe/totals|Bleach Logs|100}}
+{{detrecipe/totals|Spore Cap|30}}
+{{detrecipe/totals|Oak Logs|45}}
+}}
 Member Hoodie
 {{InfoItem
 |class=Beginner
@@ -717,57 +727,58 @@ Member Hoodie
 |upgrade=4
 |defence=40
 |sellprice=50139900
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=52
+|craftnum=53
 |levelreq=50
 |expgiven=1200000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Uninflated Glove|quantity2=2
 |resource3=Void Imperium Platebody|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentPunching4|2}}
-{{detrecipe|40|SnowA2|140000}}
-{{detrecipe|40|EquipmentPunching3|6}}
-{{detrecipe|80|CraftMat3|30000}}
-{{detrecipe|80|EquipmentPunching2|30}}
-{{detrecipe|120|CopperBar|600}}
-{{detrecipe|120|OakTree|2250}}
-{{detrecipe|120|CraftMat5|600}}
-{{detrecipe|80|ToiletTree|12000}}
-{{detrecipe|3|EquipmentShirts27|1}}
-{{detrecipe|40|SnowC3|75000}}
-{{detrecipe|40|EquipmentShirts15|2}}
-{{detrecipe|80|Soul1|2000}}
-{{detrecipe|80|EquipmentShirts14|4}}
-{{detrecipe|120|DesertB4|20000}}
-{{detrecipe|120|EquipmentShirts12|20}}
-{{detrecipe|160|IronBar|3000}}
-{{detrecipe|160|JungleTree|12000}}
-{{detrecipe|120|PlatBar|4000}}
-{{detrecipe|80|DementiaBar|700}}
-{{detrecipe|40|VoidBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|SnowA2|140000}}
-{{detrecipe/totals|CraftMat3|30000}}
-{{detrecipe/totals|CopperBar|600}}
-{{detrecipe/totals|OakTree|2250}}
-{{detrecipe/totals|CraftMat5|600}}
-{{detrecipe/totals|SnowC3|75000}}
-{{detrecipe/totals|Soul1|2000}}
-{{detrecipe/totals|DesertB4|20000}}
-{{detrecipe/totals|IronBar|3000}}
-{{detrecipe/totals|JungleTree|12000}}
-{{detrecipe/totals|DementiaBar|700}}
-{{detrecipe/totals|VoidBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Uninflated Glove|2}}
+{{detrecipe|40|Melty Cube|140000}}
+{{detrecipe|40|Bandage Wraps|6}}
+{{detrecipe|80|Cue Tape|30000}}
+{{detrecipe|80|The Stingers|30}}
+{{detrecipe|120|Copper Bar|600}}
+{{detrecipe|120|Oak Logs|2250}}
+{{detrecipe|120|Trusty Nails|600}}
+{{detrecipe|80|Potty Rolls|12000}}
+{{detrecipe|3|Void Imperium Platebody|1}}
+{{detrecipe|40|Audio Cord|75000}}
+{{detrecipe|40|Dementia Body|2}}
+{{detrecipe|80|Forest Soul|2000}}
+{{detrecipe|80|Platinum Platbody|4}}
+{{detrecipe|120|Potato Remains|20000}}
+{{detrecipe|120|Iron Platebody|20}}
+{{detrecipe|160|Iron Bar|3000}}
+{{detrecipe|160|Jungle Logs|12000}}
+{{detrecipe|120|Platinum Bar|4000}}
+{{detrecipe|80|Dementia Bar|700}}
+{{detrecipe|40|Void Bar|500}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Melty Cube|140000}}
+{{detrecipe/totals|Cue Tape|30000}}
+{{detrecipe/totals|Copper Bar|600}}
+{{detrecipe/totals|Oak Logs|2250}}
+{{detrecipe/totals|Trusty Nails|600}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Iron Bar|3000}}
+{{detrecipe/totals|Jungle Logs|12000}}
+{{detrecipe/totals|Dementia Bar|700}}
+{{detrecipe/totals|Void Bar|500}}
+}}
 Studded Hide
 {{InfoItem
 |class=Warrior
@@ -778,10 +789,12 @@ Studded Hide
 |upgrade=3
 |defence=22
 |sellprice=35520
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=49
+|craftnum=50
 |levelreq=26
 |expgiven=14700
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -789,27 +802,26 @@ Studded Hide
 |resource2=Megalodon Tooth|quantity2=4000
 |resource3=Nuget Cake|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts20|4}}
-{{detrecipe|40|BirchTree|1300}}
-{{detrecipe|40|EquipmentShirts11|8}}
-{{detrecipe|80|CopperBar|360}}
-{{detrecipe|80|CraftMat5|960}}
-{{detrecipe|40|TestObj7|4}}
-{{detrecipe|80|Jungle1|500}}
-{{detrecipe|80|CraftMat6|500}}
-{{detrecipe|3|DesertA2|4000}}
-{{detrecipe|3|DesertA3b|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|BirchTree|1300}}
-{{detrecipe/totals|CopperBar|360}}
-{{detrecipe/totals|CraftMat5|960}}
-{{detrecipe/totals|Jungle1|500}}
-{{detrecipe/totals|CraftMat6|500}}
-{{detrecipe/totals|DesertA3b|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Hide Shirt|4}}
+{{detrecipe|40|Bleach Logs|1300}}
+{{detrecipe|40|Copper Platebody|8}}
+{{detrecipe|80|Copper Bar|360}}
+{{detrecipe|80|Trusty Nails|960}}
+{{detrecipe|40|Steel Axe|4}}
+{{detrecipe|80|Slime Sludge|500}}
+{{detrecipe|80|Boring Brick|500}}
+{{detrecipe|3|Megalodon Tooth|4000}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Bleach Logs|1300}}
+{{detrecipe/totals|Copper Bar|360}}
+{{detrecipe/totals|Trusty Nails|960}}
+{{detrecipe/totals|Slime Sludge|500}}
+{{detrecipe/totals|Boring Brick|500}}
+{{detrecipe/totals|Nuget Cake|1}}
+}}
 Feral Leathering
 {{InfoItem
 |class=Archer
@@ -820,10 +832,12 @@ Feral Leathering
 |upgrade=3
 |defence=18
 |sellprice=104080
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=50
+|craftnum=51
 |levelreq=26
 |expgiven=19000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -831,19 +845,18 @@ Feral Leathering
 |resource2=Stick|quantity2=3000
 |resource3=Nuget Cake|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts10|4}}
-{{detrecipe|40|Forest1|2000}}
-{{detrecipe|40|IronBar|2000}}
-{{detrecipe|3|TreeInterior1|3000}}
-{{detrecipe|3|DesertA3b|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Forest1|2000}}
-{{detrecipe/totals|IronBar|2000}}
-{{detrecipe/totals|DesertA3b|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Fur Shirt|4}}
+{{detrecipe|40|Goblin Ear|2000}}
+{{detrecipe|40|Iron Bar|2000}}
+{{detrecipe|3|Stick|3000}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Goblin Ear|2000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Nuget Cake|1}}
+}}
 Furled Robes
 {{InfoItem
 |class=Mage
@@ -854,10 +867,12 @@ Furled Robes
 |upgrade=3
 |defence=14
 |sellprice=90880
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=51
+|craftnum=52
 |levelreq=26
 |expgiven=14700
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -865,17 +880,16 @@ Furled Robes
 |resource2=Leather Hide|quantity2=1500
 |resource3=Nuget Cake|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts21|4}}
-{{detrecipe|3|CraftMat9|1500}}
-{{detrecipe|3|DesertA3b|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EquipmentShirts21|4}}
-{{detrecipe/totals|CraftMat9|1500}}
-{{detrecipe/totals|DesertA3b|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tattered Cloth|4}}
+{{detrecipe|3|Leather Hide|1500}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Tattered Cloth|4}}
+{{detrecipe/totals|Leather Hide|1500}}
+{{detrecipe/totals|Nuget Cake|1}}
+}}
 Damascus Plates
 {{InfoItem
 |class=Warrior
@@ -886,42 +900,43 @@ Damascus Plates
 |upgrade=5
 |defence=52
 |sellprice=22034000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=53
+|craftnum=54
 |levelreq=49
 |expgiven=1000000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Platebody|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentShirts27|1}}
-{{detrecipe|40|SnowC3|75000}}
-{{detrecipe|40|EquipmentShirts15|2}}
-{{detrecipe|80|Soul1|2000}}
-{{detrecipe|80|EquipmentShirts14|4}}
-{{detrecipe|120|DesertB4|20000}}
-{{detrecipe|120|EquipmentShirts12|20}}
-{{detrecipe|160|IronBar|3000}}
-{{detrecipe|160|JungleTree|12000}}
-{{detrecipe|120|PlatBar|4000}}
-{{detrecipe|80|DementiaBar|700}}
-{{detrecipe|40|VoidBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|SnowC3|75000}}
-{{detrecipe/totals|Soul1|2000}}
-{{detrecipe/totals|DesertB4|20000}}
-{{detrecipe/totals|IronBar|3000}}
-{{detrecipe/totals|JungleTree|12000}}
-{{detrecipe/totals|DementiaBar|700}}
-{{detrecipe/totals|VoidBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Platebody|1}}
+{{detrecipe|40|Audio Cord|75000}}
+{{detrecipe|40|Dementia Body|2}}
+{{detrecipe|80|Forest Soul|2000}}
+{{detrecipe|80|Platinum Platbody|4}}
+{{detrecipe|120|Potato Remains|20000}}
+{{detrecipe|120|Iron Platebody|20}}
+{{detrecipe|160|Iron Bar|3000}}
+{{detrecipe|160|Jungle Logs|12000}}
+{{detrecipe|120|Platinum Bar|4000}}
+{{detrecipe|80|Dementia Bar|700}}
+{{detrecipe|40|Void Bar|500}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Iron Bar|3000}}
+{{detrecipe/totals|Jungle Logs|12000}}
+{{detrecipe/totals|Dementia Bar|700}}
+{{detrecipe/totals|Void Bar|500}}
+}}
 Evergreen Wraps
 {{InfoItem
 |class=Archer
@@ -933,42 +948,43 @@ Evergreen Wraps
 |upgrade=5
 |defence=49
 |sellprice=22034000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=54
+|craftnum=55
 |levelreq=49
 |expgiven=1000000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Platebody|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentShirts27|1}}
-{{detrecipe|40|SnowC3|75000}}
-{{detrecipe|40|EquipmentShirts15|2}}
-{{detrecipe|80|Soul1|2000}}
-{{detrecipe|80|EquipmentShirts14|4}}
-{{detrecipe|120|DesertB4|20000}}
-{{detrecipe|120|EquipmentShirts12|20}}
-{{detrecipe|160|IronBar|3000}}
-{{detrecipe|160|JungleTree|12000}}
-{{detrecipe|120|PlatBar|4000}}
-{{detrecipe|80|DementiaBar|700}}
-{{detrecipe|40|VoidBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|SnowC3|75000}}
-{{detrecipe/totals|Soul1|2000}}
-{{detrecipe/totals|DesertB4|20000}}
-{{detrecipe/totals|IronBar|3000}}
-{{detrecipe/totals|JungleTree|12000}}
-{{detrecipe/totals|DementiaBar|700}}
-{{detrecipe/totals|VoidBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Platebody|1}}
+{{detrecipe|40|Audio Cord|75000}}
+{{detrecipe|40|Dementia Body|2}}
+{{detrecipe|80|Forest Soul|2000}}
+{{detrecipe|80|Platinum Platbody|4}}
+{{detrecipe|120|Potato Remains|20000}}
+{{detrecipe|120|Iron Platebody|20}}
+{{detrecipe|160|Iron Bar|3000}}
+{{detrecipe|160|Jungle Logs|12000}}
+{{detrecipe|120|Platinum Bar|4000}}
+{{detrecipe|80|Dementia Bar|700}}
+{{detrecipe|40|Void Bar|500}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Iron Bar|3000}}
+{{detrecipe/totals|Jungle Logs|12000}}
+{{detrecipe/totals|Dementia Bar|700}}
+{{detrecipe/totals|Void Bar|500}}
+}}
 Elegantine Robes
 {{InfoItem
 |class=Mage
@@ -979,39 +995,40 @@ Elegantine Robes
 |upgrade=5
 |defence=47
 |sellprice=22034000
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=55
+|craftnum=56
 |levelreq=49
 |expgiven=1000000
-|recipefrom=Start
+|recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Dioxide Synthesis|quantity1=500
 |resource2=Void Imperium Platebody|quantity2=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Refinery4|500}}
-{{detrecipe|3|EquipmentShirts27|1}}
-{{detrecipe|40|SnowC3|75000}}
-{{detrecipe|40|EquipmentShirts15|2}}
-{{detrecipe|80|Soul1|2000}}
-{{detrecipe|80|EquipmentShirts14|4}}
-{{detrecipe|120|DesertB4|20000}}
-{{detrecipe|120|EquipmentShirts12|20}}
-{{detrecipe|160|IronBar|3000}}
-{{detrecipe|160|JungleTree|12000}}
-{{detrecipe|120|PlatBar|4000}}
-{{detrecipe|80|DementiaBar|700}}
-{{detrecipe|40|VoidBar|500}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Refinery4|500}}
-{{detrecipe/totals|SnowC3|75000}}
-{{detrecipe/totals|Soul1|2000}}
-{{detrecipe/totals|DesertB4|20000}}
-{{detrecipe/totals|IronBar|3000}}
-{{detrecipe/totals|JungleTree|12000}}
-{{detrecipe/totals|DementiaBar|700}}
-{{detrecipe/totals|VoidBar|500}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dioxide Synthesis|500}}
+{{detrecipe|3|Void Imperium Platebody|1}}
+{{detrecipe|40|Audio Cord|75000}}
+{{detrecipe|40|Dementia Body|2}}
+{{detrecipe|80|Forest Soul|2000}}
+{{detrecipe|80|Platinum Platbody|4}}
+{{detrecipe|120|Potato Remains|20000}}
+{{detrecipe|120|Iron Platebody|20}}
+{{detrecipe|160|Iron Bar|3000}}
+{{detrecipe|160|Jungle Logs|12000}}
+{{detrecipe|120|Platinum Bar|4000}}
+{{detrecipe|80|Dementia Bar|700}}
+{{detrecipe|40|Void Bar|500}}
+|tot=
+{{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Iron Bar|3000}}
+{{detrecipe/totals|Jungle Logs|12000}}
+{{detrecipe/totals|Dementia Bar|700}}
+{{detrecipe/totals|Void Bar|500}}
+}}

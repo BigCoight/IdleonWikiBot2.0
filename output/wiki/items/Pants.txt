@@ -8,13 +8,15 @@ Torn Jeans
 |upgrade=1
 |defence=4
 |sellprice=201
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=6
+|craftnum=7
 |levelreq=4
 |expgiven=7
-|recipefrom=Start
+|recipefrom=
 |resource1=Frog Leg|quantity1=20
 |resource2=Copper Bar|quantity2=8
 |resource3=Thread|quantity3=15
@@ -23,17 +25,16 @@ Torn Jeans
 {{usedin/row|[[Bleached Designer Wode Patch Pants]]|10|Crafting}}
 {{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|8|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Grasslands2|20}}
-{{detrecipe|3|CopperBar|8}}
-{{detrecipe|3|CraftMat1|15}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands2|20}}
-{{detrecipe/totals|CopperBar|8}}
-{{detrecipe/totals|CraftMat1|15}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Frog Leg|20}}
+{{detrecipe|3|Copper Bar|8}}
+{{detrecipe|3|Thread|15}}
+|tot=
+{{detrecipe/totals|Frog Leg|20}}
+{{detrecipe/totals|Copper Bar|8}}
+{{detrecipe/totals|Thread|15}}
+}}
 Copper Platelegs
 {{InfoItem
 |class=All
@@ -45,28 +46,29 @@ Copper Platelegs
 |upgrade=2
 |defence=6
 |sellprice=870
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=18
+|craftnum=19
 |levelreq=8
 |expgiven=75
-|recipefrom=Start
+|recipefrom=
 |resource1=Copper Bar|quantity1=60
 |resource2=Bleach Logs|quantity2=150
 }}
 {{usedin/head}}
 {{usedin/row|[[Gold Platelegs]]|6|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|CopperBar|60}}
-{{detrecipe|3|BirchTree|150}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CopperBar|60}}
-{{detrecipe/totals|BirchTree|150}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Copper Bar|60}}
+{{detrecipe|3|Bleach Logs|150}}
+|tot=
+{{detrecipe/totals|Copper Bar|60}}
+{{detrecipe/totals|Bleach Logs|150}}
+}}
 Iron Platelegs
 {{InfoItem
 |class=All
@@ -78,28 +80,29 @@ Iron Platelegs
 |upgrade=2
 |defence=11
 |sellprice=11065
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=34
+|craftnum=35
 |levelreq=14
 |expgiven=750
-|recipefrom=Start
+|recipefrom=
 |resource1=Iron Bar|quantity1=170
 |resource2=Boring Brick|quantity2=225
 }}
 {{usedin/head}}
 {{usedin/row|[[Platinum Shins]]|6|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|IronBar|170}}
-{{detrecipe|3|CraftMat6|225}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|IronBar|170}}
-{{detrecipe/totals|CraftMat6|225}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Iron Bar|170}}
+{{detrecipe|3|Boring Brick|225}}
+|tot=
+{{detrecipe/totals|Iron Bar|170}}
+{{detrecipe/totals|Boring Brick|225}}
+}}
 Gold Platelegs
 {{InfoItem
 |class=All
@@ -111,32 +114,32 @@ Gold Platelegs
 |upgrade=3
 |defence=16
 |sellprice=61845
-|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]
+|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=2
+|craftnum=3
 |levelreq=18
 |expgiven=2500
-|recipefrom=Start
+|recipefrom=
 |resource1=Goldfish|quantity1=500
 |resource2=Copper Platelegs|quantity2=6
 |resource3=Gold Bar|quantity3=475
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Fish1|500}}
-{{detrecipe|3|EquipmentPants2|6}}
-{{detrecipe|40|CopperBar|360}}
-{{detrecipe|40|BirchTree|900}}
-{{detrecipe|3|GoldBar|475}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Fish1|500}}
-{{detrecipe/totals|CopperBar|360}}
-{{detrecipe/totals|BirchTree|900}}
-{{detrecipe/totals|GoldBar|475}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Goldfish|500}}
+{{detrecipe|3|Copper Platelegs|6}}
+{{detrecipe|40|Copper Bar|360}}
+{{detrecipe|40|Bleach Logs|900}}
+{{detrecipe|3|Gold Bar|475}}
+|tot=
+{{detrecipe/totals|Goldfish|500}}
+{{detrecipe/totals|Copper Bar|360}}
+{{detrecipe/totals|Bleach Logs|900}}
+{{detrecipe/totals|Gold Bar|475}}
+}}
 Amarok Hinds
 {{InfoItem
 |class=All
@@ -148,10 +151,12 @@ Amarok Hinds
 |upgrade=5
 |defence=18
 |sellprice=38500
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=66
+|craftnum=67
 |levelreq=17
 |expgiven=1500
 |recipefrom=[[Tasks/Blunder_Hills#Merit_Shop|Blunder Hills Merit Shop]]
@@ -159,17 +164,16 @@ Amarok Hinds
 |resource2=Chain Link|quantity2=400
 |resource3=Bullfrog Horn|quantity3=700
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Quest17|6}}
-{{detrecipe|3|CraftMat7|400}}
-{{detrecipe|3|Forest3|700}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Quest17|6}}
-{{detrecipe/totals|CraftMat7|400}}
-{{detrecipe/totals|Forest3|700}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Amarok Slab|6}}
+{{detrecipe|3|Chain Link|400}}
+{{detrecipe|3|Bullfrog Horn|700}}
+|tot=
+{{detrecipe/totals|Amarok Slab|6}}
+{{detrecipe/totals|Chain Link|400}}
+{{detrecipe/totals|Bullfrog Horn|700}}
+}}
 Platinum Shins
 {{InfoItem
 |class=All
@@ -181,14 +185,15 @@ Platinum Shins
 |upgrade=3
 |defence=23
 |sellprice=648890
-|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=22
+|craftnum=23
 |levelreq=31
 |expgiven=50000
-|recipefrom=Start
+|recipefrom=
 |resource1=Sentient Cereal|quantity1=500
 |resource2=Iron Platelegs|quantity2=6
 |resource3=Platinum Bar|quantity3=1250
@@ -197,20 +202,19 @@ Platinum Shins
 {{usedin/row|[[Dementia Shins]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|Bug3|500}}
-{{detrecipe|3|EquipmentPants3|6}}
-{{detrecipe|40|IronBar|1020}}
-{{detrecipe|40|CraftMat6|1350}}
-{{detrecipe|3|PlatBar|1250}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Bug3|500}}
-{{detrecipe/totals|IronBar|1020}}
-{{detrecipe/totals|CraftMat6|1350}}
-{{detrecipe/totals|PlatBar|1250}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Sentient Cereal|500}}
+{{detrecipe|3|Iron Platelegs|6}}
+{{detrecipe|40|Iron Bar|1020}}
+{{detrecipe|40|Boring Brick|1350}}
+{{detrecipe|3|Platinum Bar|1250}}
+|tot=
+{{detrecipe/totals|Sentient Cereal|500}}
+{{detrecipe/totals|Iron Bar|1020}}
+{{detrecipe/totals|Boring Brick|1350}}
+{{detrecipe/totals|Platinum Bar|1250}}
+}}
 Dementia Shins
 {{InfoItem
 |class=All
@@ -223,13 +227,15 @@ Dementia Shins
 |upgrade=4
 |defence=28
 |sellprice=2347780
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=2
+|craftnum=3
 |levelreq=38
 |expgiven=150000
-|recipefrom=Start
+|recipefrom=
 |resource1=Floof Ploof|quantity1=8000
 |resource2=Platinum Shins|quantity2=2
 |resource3=Dementia Bar|quantity3=400
@@ -237,24 +243,23 @@ Dementia Shins
 {{usedin/head}}
 {{usedin/row|[[Void Imperium Shardshins]]|2|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|SnowA1|8000}}
-{{detrecipe|3|EquipmentPants5|2}}
-{{detrecipe|40|Bug3|1000}}
-{{detrecipe|40|EquipmentPants3|12}}
-{{detrecipe|80|IronBar|2040}}
-{{detrecipe|80|CraftMat6|2700}}
-{{detrecipe|40|PlatBar|2500}}
-{{detrecipe|3|DementiaBar|400}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|SnowA1|8000}}
-{{detrecipe/totals|Bug3|1000}}
-{{detrecipe/totals|IronBar|2040}}
-{{detrecipe/totals|CraftMat6|2700}}
-{{detrecipe/totals|DementiaBar|400}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Floof Ploof|8000}}
+{{detrecipe|3|Platinum Shins|2}}
+{{detrecipe|40|Sentient Cereal|1000}}
+{{detrecipe|40|Iron Platelegs|12}}
+{{detrecipe|80|Iron Bar|2040}}
+{{detrecipe|80|Boring Brick|2700}}
+{{detrecipe|40|Platinum Bar|2500}}
+{{detrecipe|3|Dementia Bar|400}}
+|tot=
+{{detrecipe/totals|Floof Ploof|8000}}
+{{detrecipe/totals|Sentient Cereal|1000}}
+{{detrecipe/totals|Iron Bar|2040}}
+{{detrecipe/totals|Boring Brick|2700}}
+{{detrecipe/totals|Dementia Bar|400}}
+}}
 Efaunt Hipilium
 {{InfoItem
 |class=All
@@ -267,10 +272,12 @@ Efaunt Hipilium
 |upgrade=6
 |defence=32
 |sellprice=1260
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=62
+|craftnum=63
 |levelreq=37
 |expgiven=40000
 |recipefrom=[[Tasks/Yum_Yum_Desert#Merit_Shop|Yum Yum Desert Merit Shop]]
@@ -278,17 +285,16 @@ Efaunt Hipilium
 |resource2=Minuteglass|quantity2=3
 |resource3=Distilled Water|quantity3=25
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EfauntDrop1|7}}
-{{detrecipe|3|Hgg|3}}
-{{detrecipe|3|PureWater|25}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EfauntDrop1|7}}
-{{detrecipe/totals|Hgg|3}}
-{{detrecipe/totals|PureWater|25}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Ripped Tunic|7}}
+{{detrecipe|3|Minuteglass|3}}
+{{detrecipe|3|Distilled Water|25}}
+|tot=
+{{detrecipe/totals|Ripped Tunic|7}}
+{{detrecipe/totals|Minuteglass|3}}
+{{detrecipe/totals|Distilled Water|25}}
+}}
 Void Imperium Shardshins
 {{InfoItem
 |class=All
@@ -301,40 +307,41 @@ Void Imperium Shardshins
 |upgrade=4
 |defence=38
 |sellprice=11725560
+|source=[[Smithing]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
-|craftnum=26
+|craftnum=27
 |levelreq=45
 |expgiven=370000
-|recipefrom=Start
+|recipefrom=
 |resource1=Wispy Lumber|quantity1=75000
 |resource2=Dementia Shins|quantity2=2
 |resource3=Void Bar|quantity3=650
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Tree7|75000}}
-{{detrecipe|3|EquipmentPants6|2}}
-{{detrecipe|40|SnowA1|16000}}
-{{detrecipe|40|EquipmentPants5|4}}
-{{detrecipe|80|Bug3|2000}}
-{{detrecipe|80|EquipmentPants3|24}}
-{{detrecipe|120|IronBar|4080}}
-{{detrecipe|120|CraftMat6|5400}}
-{{detrecipe|80|PlatBar|5000}}
-{{detrecipe|40|DementiaBar|800}}
-{{detrecipe|3|VoidBar|650}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Tree7|75000}}
-{{detrecipe/totals|SnowA1|16000}}
-{{detrecipe/totals|Bug3|2000}}
-{{detrecipe/totals|IronBar|4080}}
-{{detrecipe/totals|CraftMat6|5400}}
-{{detrecipe/totals|DementiaBar|800}}
-{{detrecipe/totals|VoidBar|650}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Wispy Lumber|75000}}
+{{detrecipe|3|Dementia Shins|2}}
+{{detrecipe|40|Floof Ploof|16000}}
+{{detrecipe|40|Platinum Shins|4}}
+{{detrecipe|80|Sentient Cereal|2000}}
+{{detrecipe|80|Iron Platelegs|24}}
+{{detrecipe|120|Iron Bar|4080}}
+{{detrecipe|120|Boring Brick|5400}}
+{{detrecipe|80|Platinum Bar|5000}}
+{{detrecipe|40|Dementia Bar|800}}
+{{detrecipe|3|Void Bar|650}}
+|tot=
+{{detrecipe/totals|Wispy Lumber|75000}}
+{{detrecipe/totals|Floof Ploof|16000}}
+{{detrecipe/totals|Sentient Cereal|2000}}
+{{detrecipe/totals|Iron Bar|4080}}
+{{detrecipe/totals|Boring Brick|5400}}
+{{detrecipe/totals|Dementia Bar|800}}
+{{detrecipe/totals|Void Bar|650}}
+}}
 Gilded Pilates
 {{InfoItem
 |class=Warrior
@@ -346,6 +353,7 @@ Gilded Pilates
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Twisted Scales
 {{InfoItem
@@ -358,6 +366,7 @@ Twisted Scales
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Crystallax Shins
 {{InfoItem
@@ -370,6 +379,7 @@ Crystallax Shins
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Give Up On Life Pants
 {{InfoItem
@@ -381,6 +391,7 @@ Give Up On Life Pants
 |defence=3
 |sellprice=200
 |source=[[DropTable1]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.012|1.0}}
@@ -407,6 +418,7 @@ Yellow Belt Ninja Pants
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Merchantile Pants
 {{InfoItem
@@ -418,6 +430,7 @@ Merchantile Pants
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Ancient Leggings
 {{InfoItem
@@ -429,6 +442,7 @@ Ancient Leggings
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Forensic Leggings
 {{InfoItem
@@ -440,6 +454,7 @@ Forensic Leggings
 |luck=3
 |upgrade=2
 |sellprice=200
+|notes= 
 }}
 Bleached Designer Wode Patch Pants
 {{InfoItem
@@ -452,32 +467,33 @@ Bleached Designer Wode Patch Pants
 |upgrade=3
 |defence=11
 |sellprice=4110
+|source=[[Smithing]], [[Wode Board|Recipe from Wode Board]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=48
+|craftnum=49
 |levelreq=12
 |expgiven=400
-|recipefrom=Start
+|recipefrom=[[Wode Board]]
 |resource1=Torn Jeans|quantity1=10
 |resource2=Plank|quantity2=275
 |resource3=Bleach Logs|quantity3=700
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentPants1|10}}
-{{detrecipe|40|Grasslands2|200}}
-{{detrecipe|40|CopperBar|80}}
-{{detrecipe|40|CraftMat1|150}}
-{{detrecipe|3|Forest2|275}}
-{{detrecipe|3|BirchTree|700}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands2|200}}
-{{detrecipe/totals|CopperBar|80}}
-{{detrecipe/totals|CraftMat1|150}}
-{{detrecipe/totals|BirchTree|700}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Torn Jeans|10}}
+{{detrecipe|40|Frog Leg|200}}
+{{detrecipe|40|Copper Bar|80}}
+{{detrecipe|40|Thread|150}}
+{{detrecipe|3|Plank|275}}
+{{detrecipe|3|Bleach Logs|700}}
+|tot=
+{{detrecipe/totals|Frog Leg|200}}
+{{detrecipe/totals|Copper Bar|80}}
+{{detrecipe/totals|Thread|150}}
+{{detrecipe/totals|Bleach Logs|700}}
+}}
 Adam's Leaf
 {{InfoItem
 |class=All
@@ -489,6 +505,7 @@ Adam's Leaf
 |defence=2
 |sellprice=200
 |source=[[Sprout#Justice Wears No Clothes|Justice Wears No Clothes]]
+|notes= 
 }}
 Dirty Coal Miner Baggy Soot Pants
 {{InfoItem
@@ -500,30 +517,31 @@ Dirty Coal Miner Baggy Soot Pants
 |upgrade=3
 |defence=12
 |sellprice=3008
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=49
+|craftnum=50
 |levelreq=12
 |expgiven=400
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Torn Jeans|quantity1=8
 |resource2=Iron Ore|quantity2=200
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentPants1|8}}
-{{detrecipe|40|Grasslands2|160}}
-{{detrecipe|40|CopperBar|64}}
-{{detrecipe|40|CraftMat1|120}}
-{{detrecipe|3|Iron|200}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Grasslands2|160}}
-{{detrecipe/totals|CopperBar|64}}
-{{detrecipe/totals|CraftMat1|120}}
-{{detrecipe/totals|Iron|200}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Torn Jeans|8}}
+{{detrecipe|40|Frog Leg|160}}
+{{detrecipe|40|Copper Bar|64}}
+{{detrecipe|40|Thread|120}}
+{{detrecipe|3|Iron Ore|200}}
+|tot=
+{{detrecipe/totals|Frog Leg|160}}
+{{detrecipe/totals|Copper Bar|64}}
+{{detrecipe/totals|Thread|120}}
+{{detrecipe/totals|Iron Ore|200}}
+}}
 Trimmed Rune Platelegs
 {{InfoItem
 |class=All
@@ -536,6 +554,7 @@ Trimmed Rune Platelegs
 |defence=20
 |sellprice=200
 |source=[[King Doot]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[King Doot]]|0.04|1}}

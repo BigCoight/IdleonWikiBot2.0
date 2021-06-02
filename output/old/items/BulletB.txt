@@ -1,25 +1,27 @@
 {{InfoItem
 |type=Boost Food
 |description=Increases Weapon Power by 2. 12% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
-|sellprice=363
+|sellprice=455
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=43
+|craftnum=44
 |levelreq=20
 |expgiven=1
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Gold Ore|quantity1=15
 |resource2=Bullet|quantity2=2
 }}
-{{detrecipe/head}}
-{{detrecipe|3|Gold|15}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Ore|15}}
 {{detrecipe|3|Bullet|2}}
-{{detrecipe|40|Copper|12}}
-{{detrecipe|40|Copper|44}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|Gold|15}}
-{{detrecipe/totals|Copper|56}}
-|}
+{{detrecipe|40|Forest Fibres|20}}
+{{detrecipe|40|Fly|20}}
+|tot=
+{{detrecipe/totals|Gold Ore|15}}
+{{detrecipe/totals|Forest Fibres|20}}
+{{detrecipe/totals|Fly|20}}
+}}

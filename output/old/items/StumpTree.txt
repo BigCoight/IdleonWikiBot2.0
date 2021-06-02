@@ -1,7 +1,9 @@
 {{InfoItem
 |type=Log
 |sellprice=25
-|source=Choppin, [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|source=[[Choppin]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]
+|notes= 
+|hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
@@ -9,5 +11,5 @@
 {{usedin/head}}
 {{usedin/row|[[Blunder Skills Completion Token]]|2000|Crafting}}
 {{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|All For Kill]]|Lots|Alchemy}}
 |}

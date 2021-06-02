@@ -1,4 +1,3 @@
-{{DropTable/head}}
 {{DropTable/row|Grass Leaf|{{#expr: {{{chance}}}*.5}}|5}}
 {{DropTable/row|Weapon Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
 {{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
@@ -6,4 +5,3 @@
 {{DropTable/row|Small Strength Potion|{{#expr: {{{chance}}}*0.1}}|5}}
 {{DropTable/row|Smart Dirt Stamp|{{#expr: {{{chance}}}*0.0015}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.0060}}}}{{SuperDropTable1|chance={{#var:chance1}}}}{{SuperDropTable1|chance=0.0060}}
-|}

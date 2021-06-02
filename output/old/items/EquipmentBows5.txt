@@ -10,10 +10,12 @@
 |reach=175
 |upgrade=3
 |sellprice=35150
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=6
+|craftnum=7
 |levelreq=17
 |expgiven=1900
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -25,17 +27,16 @@
 {{usedin/row|[[Pharoah Bow]]|2|Crafting}}
 {{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|GoldBar|250}}
-{{detrecipe|3|EquipmentBows3|3}}
-{{detrecipe|40|Jungle1|375}}
-{{detrecipe|40|BirchTree|750}}
-{{detrecipe|3|PureWater|8}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|GoldBar|250}}
-{{detrecipe/totals|Jungle1|375}}
-{{detrecipe/totals|BirchTree|750}}
-{{detrecipe/totals|PureWater|8}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Gold Bar|250}}
+{{detrecipe|3|Birch Longbow|3}}
+{{detrecipe|40|Slime Sludge|375}}
+{{detrecipe|40|Bleach Logs|750}}
+{{detrecipe|3|Distilled Water|8}}
+|tot=
+{{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Slime Sludge|375}}
+{{detrecipe/totals|Bleach Logs|750}}
+{{detrecipe/totals|Distilled Water|8}}
+}}

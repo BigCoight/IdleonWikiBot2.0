@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Chocco Box_Walking.gif
+|image=Chocco Box Walking.gif
 |attack=1000
 |health=750000
 |defence=600
@@ -10,7 +10,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Loveulyte|Floofie}}
-{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Choco Box|0.05|1}}

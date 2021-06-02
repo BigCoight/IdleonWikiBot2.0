@@ -8,10 +8,12 @@
 |agi=4
 |upgrade=2
 |sellprice=15800
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=78
+|craftnum=79
 |levelreq=16
 |expgiven=750
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -22,14 +24,13 @@
 {{usedin/head}}
 {{usedin/row|[[Gilded Net]]|3|Crafting}}
 |}
-{{detrecipe/head}}
-{{detrecipe|3|ForestTree|800}}
-{{detrecipe|3|Bug2|850}}
-{{detrecipe|3|PureWater|3}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|ForestTree|800}}
-{{detrecipe/totals|Bug2|850}}
-{{detrecipe/totals|PureWater|3}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Forest Fibres|800}}
+{{detrecipe|3|Butterfly|850}}
+{{detrecipe|3|Distilled Water|3}}
+|tot=
+{{detrecipe/totals|Forest Fibres|800}}
+{{detrecipe/totals|Butterfly|850}}
+{{detrecipe/totals|Distilled Water|3}}
+}}

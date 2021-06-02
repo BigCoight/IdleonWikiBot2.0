@@ -6,4 +6,5 @@
 |agi=15
 |upgrade=4
 |sellprice=5
+|notes= 
 }}

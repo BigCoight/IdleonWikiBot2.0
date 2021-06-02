@@ -6,4 +6,5 @@
 |misc=100 Base Damage
 |sellprice=50
 |rarity=Dementia
+|notes= 
 }}

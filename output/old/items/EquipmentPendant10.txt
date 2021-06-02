@@ -6,10 +6,12 @@
 |upgrade=2
 |defence=4
 |sellprice=2235
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
-|craftnum=37
+|craftnum=38
 |levelreq=10
 |expgiven=350
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -18,22 +20,21 @@
 |resource3=Wooden Bow|quantity3=3
 |resource4=Gnarled Wand|quantity4=3
 }}
-{{detrecipe/head}}
-{{detrecipe|3|CraftMat1|300}}
-{{detrecipe|3|TestObj1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|CopperBar|30}}
-{{detrecipe|3|EquipmentBows1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|CraftMat1|90}}
-{{detrecipe|3|EquipmentWands1|3}}
-{{detrecipe|40|Grasslands1|75}}
-{{detrecipe|40|OakTree|90}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|CraftMat1|390}}
-{{detrecipe/totals|Grasslands1|225}}
-{{detrecipe/totals|CopperBar|30}}
-{{detrecipe/totals|OakTree|90}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Thread|300}}
+{{detrecipe|3|Wooden Spear|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Copper Bar|30}}
+{{detrecipe|3|Wooden Bow|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Thread|90}}
+{{detrecipe|3|Gnarled Wand|3}}
+{{detrecipe|40|Spore Cap|75}}
+{{detrecipe|40|Oak Logs|90}}
+|tot=
+{{detrecipe/totals|Thread|390}}
+{{detrecipe/totals|Spore Cap|225}}
+{{detrecipe/totals|Copper Bar|30}}
+{{detrecipe/totals|Oak Logs|90}}
+}}

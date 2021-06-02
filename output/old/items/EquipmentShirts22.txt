@@ -7,10 +7,12 @@
 |upgrade=3
 |defence=14
 |sellprice=90880
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
-|craftnum=51
+|craftnum=52
 |levelreq=26
 |expgiven=14700
 |recipefrom=[[Tasks/Unlocks|Tasks]]
@@ -18,14 +20,13 @@
 |resource2=Leather Hide|quantity2=1500
 |resource3=Nuget Cake|quantity3=1
 }}
-{{detrecipe/head}}
-{{detrecipe|3|EquipmentShirts21|4}}
-{{detrecipe|3|CraftMat9|1500}}
-{{detrecipe|3|DesertA3b|1}}
-{{!}}-
-{{!}}style="text-align:right"{{!}}'''Totals'''
-{{!}} 
-{{detrecipe/totals|EquipmentShirts21|4}}
-{{detrecipe/totals|CraftMat9|1500}}
-{{detrecipe/totals|DesertA3b|1}}
-|}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Tattered Cloth|4}}
+{{detrecipe|3|Leather Hide|1500}}
+{{detrecipe|3|Nuget Cake|1}}
+|tot=
+{{detrecipe/totals|Tattered Cloth|4}}
+{{detrecipe/totals|Leather Hide|1500}}
+{{detrecipe/totals|Nuget Cake|1}}
+}}

@@ -3,6 +3,7 @@
 |description=Auto-Used when your health goes below 30%. Restores 2000 HP. Has a 10 second Cooldown.
 |sellprice=300
 |source=[[Amarok]], [[Chaotic Amarok]], [[Nightmare Amarok]]
+|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.05|1}}
@@ -10,5 +11,5 @@
 {{detdrops|[[Nightmare Amarok]]|0.05|1}}
 |}
 {{usedin/head}}
-{{usedin/row|[[Picnic_Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
+{{usedin/row|[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
 |}

@@ -1,5 +1,5 @@
 {{InfoEnemy
-|image=Cryosnake_Walking.gif
+|image=Cryosnake Walking.gif
 |attack=1425
 |health=260000
 |defence=2900
@@ -14,7 +14,6 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Quenchie|Bop Box}}
-{{DropTable/head}}
 {{DropTable/coin|400|0.32}}
 {{DropTable/row|Cryosnake Skin|0.16|1}}
 {{DropTable/card|0.0001}}

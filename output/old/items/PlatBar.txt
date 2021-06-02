@@ -1,10 +1,10 @@
 {{InfoItem
 |type=Bar
 |sellprice=460
-|source=Forging, [[Cinder Forge]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Forging]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Cinder Forge]]|0.5|69}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.35|60}}
 |}
@@ -13,8 +13,8 @@
 {{usedin/row|[[Platinum Helmet]]|750|Crafting}}
 {{usedin/row|[[Platinum Platbody]]|1000|Crafting}}
 {{usedin/row|[[Platinum Shins]]|1250|Crafting}}
-{{usedin/row|[[Platinum Pickaxe]]|1000|Crafting}}
-{{usedin/row|[[Plat Fishing Rod]]|1000|Crafting}}
+{{usedin/row|[[Platinum Pickaxe]]|800|Crafting}}
+{{usedin/row|[[Plat Fishing Rod]]|800|Crafting}}
 {{usedin/row|[[Anvil Tab 3]]|2000|Crafting}}
-{{usedin/row|[[High-IQ Cauldron#All For Kill|All For Kill]]|Lots|Alchemy}}
+{{usedin/row|[[Alchemy#High-IQ Cauldron|All For Kill]]|Lots|Alchemy}}
 |}
