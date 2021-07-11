@@ -3,4 +3,7 @@
 {{DropTable/row|Distilled Water|{{#expr: {{{chance}}}*.025}}|1}}
 {{DropTable/row|Mountain Bread|{{#expr: {{{chance}}}*.5}}|15}}
 {{DropTable/row|EhExPee Statue|{{#expr: {{{chance}}}*.04}}|1}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|9|([[Mutton]])}}
+{{DropTable/row|Corporatube Sub|{{#expr: {{{chance}}}*0.2}}|3|([[Mutton]])}}
+{{DropTable/row|Bronze Obol of Trapping|{{#expr: {{{chance}}}*0.000945}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}

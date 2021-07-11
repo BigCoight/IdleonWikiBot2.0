@@ -1,5 +1,6 @@
 {{npc
 |location=Froggy Fields
+|world=Blunder Hills
 |noquest=3
 |repeatable=Unknown
 |birthweight=3.32

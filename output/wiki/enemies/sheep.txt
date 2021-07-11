@@ -4,7 +4,7 @@
 |health=55000
 |defence=550
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Steep Sheep Ledge
 |exp=620
 |respawn=40
@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Crystal Crabal|Frost Flake}}
+{{DropTable/head}}
 {{DropTable/coin|180|0.5}}
 {{DropTable/row|Floof Ploof|0.16|1}}
 {{DropTable/card|0.0001}}

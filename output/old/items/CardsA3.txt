@@ -2,7 +2,7 @@
 |title=Bored Bean
 |order=3
 |category=Blunder Hills
-|effect=+{ Base Damage
+|effect=+ Base Damage
 |bonus=7
 |reqtier=7
 |source=[[Bored Bean]]

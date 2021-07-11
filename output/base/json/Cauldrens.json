@@ -147,17 +147,17 @@
             "description": "+{_Talent_Points_for_EACH_tab!_Yea,_it's_amazing_right?_But_it's_just_for_warriors,_don't_tell_the_other_classes!!",
             "requirements": [
                 ["Critter4", "50"],
-                ["Liquid2", "4"]
+                ["Liquid3", "2"]
             ]
         },
         "Orange Bargain": {
-            "x1": "99",
-            "x2": "40",
+            "x1": "40",
+            "x2": "12",
             "func": "decay",
             "description": "The_material_costs_of_ALL_orange_bubbles_are_{%_lower",
             "requirements": [
                 ["Soul4", "30"],
-                ["Liquid2", "5"]
+                ["Liquid3", "3"]
             ]
         }
     },
@@ -309,17 +309,17 @@
             "description": "+{_Talent_Points_for_EACH_tab,_but_just_for_Archers!_Well,_and_'that'_class,_you_know_who_you_are!",
             "requirements": [
                 ["Bug6", "120"],
-                ["Liquid2", "4"]
+                ["Liquid3", "2"]
             ]
         },
         "Green Bargain": {
-            "x1": "99",
-            "x2": "40",
+            "x1": "40",
+            "x2": "12",
             "func": "decay",
             "description": "The_material_costs_of_ALL_green_bubbles_are_{%_lower",
             "requirements": [
                 ["Critter5", "200"],
-                ["Liquid2", "5"]
+                ["Liquid3", "3"]
             ]
         }
     },
@@ -471,17 +471,17 @@
             "description": "Sorry,_mages_don't_get_anything_because_you're_lame...._Ok_fine,_you_can_have_+{_Talent_Points_for_each_tab,_but_I'm_not_happy_about_it.",
             "requirements": [
                 ["SnowC1", "150"],
-                ["Liquid2", "4"]
+                ["Liquid3", "2"]
             ]
         },
         "Purple Bargain": {
-            "x1": "99",
-            "x2": "40",
+            "x1": "40",
+            "x2": "12",
             "func": "decay",
             "description": "The_material_costs_of_ALL_purple_bubbles_are_{%_lower",
             "requirements": [
                 ["Soul1", "800"],
-                ["Liquid2", "5"]
+                ["Liquid3", "3"]
             ]
         }
     },
@@ -631,17 +631,17 @@
             "description": "+{%_Book_Checkout_speed,_thanks_to_this_one_little_bubble_that_librarians_do_NOT_want_you_to_know_about!",
             "requirements": [
                 ["Tree7", "120"],
-                ["Liquid2", "4"]
+                ["Liquid3", "2"]
             ]
         },
         "Yellow Bargain": {
-            "x1": "99",
-            "x2": "40",
+            "x1": "40",
+            "x2": "12",
             "func": "decay",
             "description": "The_material_costs_of_ALL_yellow_bubbles_are_{%_lower.",
             "requirements": [
                 ["Critter6", "250"],
-                ["Liquid2", "5"]
+                ["Liquid3", "3"]
             ]
         }
     },
@@ -927,7 +927,7 @@
             ]
         },
         "Poison Tincture": {
-            "x1": "1",
+            "x1": "3",
             "x2": "0",
             "func": "add",
             "description": "Eagle_Eye_Trap-O-Vision_gives_+{%_more_critters._It_will_always_give_less_than_if_you_manually_collected_the_traps_though.",
@@ -963,7 +963,7 @@
             "description": "+{_Cog_Inventory_spaces._DONT_PANIC!!!_I_KNOW_HOW_ALARMING_IT_IS_THAT_A_VIAL_FINALLY_GIVES_A_USEFUL_BONUS_FOR_ONCE,_BUT_STAY_CALM!",
             "requirements": [
                 ["Critter4", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Visible Ink": {
@@ -973,7 +973,7 @@
             "description": "+{%_Construction_Exp_gain.",
             "requirements": [
                 ["SnowB3", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Orange Malt": {
@@ -983,7 +983,7 @@
             "description": "+{%_higher_Shiny_Critter_chance._This_stacks_with_the_shiny_chance_from_the_Fur_Refresher_vial._You_see,_they_have_the_same_shaped_vial.",
             "requirements": [
                 ["Refinery2", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Snow Slurry": {
@@ -993,7 +993,7 @@
             "description": "+{%_Printer_sample_size._My_my_there_are_a_lot_of_these_'sample_size'_bonuses_in_the_game..._too_many...",
             "requirements": [
                 ["SnowB5", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Slowergy Drink": {
@@ -1003,7 +1003,7 @@
             "description": "+{%_Base_Multikill_per_Multikill_Tier_for_all_worlds._Stack_them_skulls!",
             "requirements": [
                 ["Soul4", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Sippy Cup": {
@@ -1013,7 +1013,7 @@
             "description": "+{%_Cog_production_speed.",
             "requirements": [
                 ["SnowC1", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Bunny Brew": {
@@ -1023,7 +1023,7 @@
             "description": "+{_Talent_Points_for_Tab_3.",
             "requirements": [
                 ["Critter7", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "40-40 Purity": {
@@ -1033,7 +1033,7 @@
             "description": "+{_Liquid_Mercury_max_capacity._Thats_the_3rd_liquid_type_in_Alchemy,_btw.",
             "requirements": [
                 ["SnowC4", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Spook Pint": {
@@ -1043,7 +1043,7 @@
             "description": "+{%_base_Giant_Monster_spawn_rate.",
             "requirements": [
                 ["Soul6", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         },
         "Goosey Glug": {
@@ -1053,7 +1053,7 @@
             "description": "You_know,_I_was_talking_to_the_goose_in_that_vial,_and_they_just_aren't_ready_to_give_you_a_bonus.",
             "requirements": [
                 ["Critter9", "L"],
-                ["Liquid2", "L"]
+                ["Liquid3", "L"]
             ]
         }
     },
@@ -1129,6 +1129,53 @@
             "requirements": [
                 ["Liquid1", "20"],
                 ["Liquid2", "3"]
+            ]
+        },
+        "Grand Obols": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "1_random_Obol._It_could_be_a_super_rare_gold_obol,_but_it's_most_likely_gonna_be_a_bronze_obol.",
+            "requirements": [
+                ["Liquid2", "5"],
+                ["Liquid3", "3"]
+            ]
+        },
+        "Bargain Tag": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "Lowers_the_cost_of_the_next_bubble_you_upgrade_by_25%!_Can_stack_multiple_times,_but_max_is_90%_off.",
+            "requirements": [
+                ["Liquid2", "1"],
+                ["Liquid3", "1"]
+            ]
+        },
+        "Dense Water": {
+            "x1": "1",
+            "x2": "1",
+            "func": "0",
+            "description": "Sourced_from_the_bottom_of_the_Great_Trench,_dont_drink_this_or_you'll_become_dummy_thicc_or_whatever!",
+            "requirements": [
+                ["Liquid3", "1"]
+            ]
+        },
+        "A Pair Of Gems": {
+            "x1": "1",
+            "x2": "2",
+            "func": "0",
+            "description": "2_Gems._Thats_two_steps_closer_to_buying_everything_in_Gem_Shop!_Sure_are_a_lot_of_steps_for_that_one_though...",
+            "requirements": [
+                ["Liquid3", "5"]
+            ]
+        },
+        "Empty Space": {
+            "x1": "1",
+            "x2": "0",
+            "func": "0",
+            "description": "There's_nothing_here_buddy,_but_that_ain't_gon_stop_me_from_selling_it_to_ya!",
+            "requirements": [
+                ["Liquid3", "1"]
             ]
         }
     },

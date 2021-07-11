@@ -19,9 +19,6 @@
 |resource2=Bleach Logs|quantity2=100
 |resource3=Orange Tee|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Black Tee]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Red Spore Cap|40}}

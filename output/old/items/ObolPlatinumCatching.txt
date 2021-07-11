@@ -5,7 +5,10 @@
 |type=Hexagon Obol
 |skillpower=4
 |agi=3
+|misc=2% Catch Efficincy
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
 }}

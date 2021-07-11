@@ -3,7 +3,7 @@
 |description=Drag onto any Equip to apply. +3 Mystery Stat Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
 |tier=I
-|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Nightmare Chizoar]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Nightmare Chizoar]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -48,7 +48,6 @@
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00005406|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.00005202000000000001|2.0}}
 {{detdrops|[[Crystal Crabal]]|0.0025199999999999997|3.0}}
-{{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Sandy Pot]]|0.0000126|3.0}}
 {{detdrops|[[Mimic]]|0.00001344|3.0}}
 {{detdrops|[[Crabcake]]|0.00001512|3.0}}

@@ -4,18 +4,16 @@
 |health=1250000
 |defence=1500
 |speed=6
-|world=Frostfire Tyundra
 |area=Wam Wonderland
 |exp=3500
 |respawn=35
 |defence0=3563.92
-|crystal=Yes
-|crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Neyeptune|Xylobone}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/head}}
+{{DropTable/coin|520|0.5}}
 {{DropTable/row|Ram Wool|0.16|1}}
 {{DropTable/card|0.0001}}
-{{DropTable16|chance=0.00004}}
+{{DropTable16|chance=0.0034}}
 |}

@@ -13,8 +13,8 @@ def writeDrops(drops, subtable, caption, collapsible):
         addition += "|Droptable for " + caption
     if collapsible:
         addition += "|collapsed=Yes"
-        if not subtable:
-            res += "{{DropTable/head" + addition + "}}\n"
+    if not subtable:
+        res += "{{DropTable/head" + addition + "}}\n"
     for drop in drops:
         if subtable:
             if drop[0] == "COIN":
@@ -38,7 +38,7 @@ def writeDrops(drops, subtable, caption, collapsible):
                     res += "{{DropTable/talent|" + splitDrop[0] + f"|{drop[1]}" + "}}"
                 elif splitDrop[1] == "Recipe":
                     res += "{{DropTable/recipe|" + f"{splitDrop[2]}|{splitDrop[0]}|{drop[1]}"
-            elif "Card" in drop[0]:
+            elif "Card" in drop[0][-4:]:
                 res += "{{" + f"DropTable/card|{drop[1]}"
             else:
                 res += "{{DropTable/row" + "|" + "|".join(drop)
@@ -130,6 +130,8 @@ def main(OLD, UPLOAD):
 
     with open(fr"./output/modified/json/DropTables.json", mode="r") as jsonFile:
         dropTables = json.load(jsonFile)
+    with open(fr"./output/modified/json/CustomDropTables.json", mode="r") as jsonFile:
+        obolDroptables = json.load(jsonFile)
 
     allEnemies = {}
     allDroptables = {}
@@ -142,6 +144,9 @@ def main(OLD, UPLOAD):
 
     for name, dt in skillingDTS.items():
         writeDTOut(name, writeDTS(dt))
+
+    for name, dt in obolDroptables.items():
+        writeDTOut(name, writeDrops(dt, False, name, True))
 
     for name, dt in dropTables.items():
         allDroptables[name] = writeDrops(dt, True, "", False)
@@ -170,6 +175,7 @@ def main(OLD, UPLOAD):
         "CritterCard9",
         "Crystal0",
         "Crystal1",
+        "Crystal2",
         "wolfA",
         "wolfB",
         "wolfC",
@@ -197,6 +203,10 @@ def main(OLD, UPLOAD):
         "Boss3A",
         "Boss3B",
         "Boss3C",
+        "SummerEvent1",
+        "SummerEvent2",
+        "poopBig",
+        "babaHour",
     ]:
         if toIgnore in allEnemies.keys():
             del allEnemies[toIgnore]
@@ -207,6 +217,7 @@ def main(OLD, UPLOAD):
                 wikiPage = Page(website, enemies[name]["Name"])
                 wikiPage.text = data
                 wikiPage.save("Coights API")
+                writeOLD("enemies", name, data)
 
         for name, data in allDroptables.items():
             if checkOld("droptables", name, data) == False:
@@ -216,7 +227,8 @@ def main(OLD, UPLOAD):
                 seperator = "{{" + f"DropTable/separator|rarity={rarity}|{name}" + "}}\n"
                 page.text = f"<includeonly>{seperator}{data}</includeonly><noinclude>\nThis is template for listing the contents of {name}. Must be used within the droptable template!\n[[Category:Table templates]]\n</noinclude>"
                 page.save("Coights API")
+                writeOLD("droptables", name, data)
 
 
 if __name__ == "__main__":
-    main(True, False)
+    main(False, False)

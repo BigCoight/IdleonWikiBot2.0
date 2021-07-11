@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Natural Traps]]|5|Crafting}}
-{{usedin/row|[[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|2|Quests}}
-|}

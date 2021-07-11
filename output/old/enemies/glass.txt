@@ -4,16 +4,14 @@
 |health=225000
 |defence=2600
 |speed=4
-|world=Frostfire Tyundra
 |area=Waterlogged Entrance
 |exp=1570
-|respawn=40
+|respawn=45
 |defence0=1408.37
-|crystal=Yes
-|crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Thermister|Cryosnake}}
+{{DropTable/head}}
 {{DropTable/coin|370|0.34}}
 {{DropTable/row|Sippy Straw|0.16|1}}
 {{DropTable/card|0.0001}}

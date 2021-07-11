@@ -9,6 +9,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Meaning of Giftmas|Loveulyte}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.085}}
 {{DropTable/row|Choco Box|0.20|1}}

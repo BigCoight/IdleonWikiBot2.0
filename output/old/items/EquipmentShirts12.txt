@@ -9,7 +9,7 @@
 |upgrade=2
 |defence=12
 |sellprice=8400
-|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Smithing]]
+|source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,13 +17,10 @@
 |craftnum=34
 |levelreq=13
 |expgiven=600
-|recipefrom=
+|recipefrom=Start
 |resource1=Iron Bar|quantity1=150
 |resource2=Jungle Logs|quantity2=600
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinum Platbody]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|150}}

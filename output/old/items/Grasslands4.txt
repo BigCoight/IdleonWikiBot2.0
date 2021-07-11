@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Red Mushroom]]|0.20|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Purple Tee]]|40|Crafting}}
-|}

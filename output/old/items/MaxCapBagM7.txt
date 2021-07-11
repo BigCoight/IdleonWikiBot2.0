@@ -1,9 +1,8 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Monster Parts, Smithing Production Items.
-|sellprice=20490320
+|sellprice=38383540
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
@@ -23,8 +22,8 @@
 {{detrecipe|40|Sticky Stick|30000}}
 {{detrecipe|40|Ice Age 3|6}}
 {{detrecipe|40|Sizable Materials Pouch|4}}
-{{detrecipe|80|Golden Plop|20}}
-{{detrecipe|80|Woodular Circle|20}}
+{{detrecipe|80|Golden Plop|12}}
+{{detrecipe|80|Woodular Circle|16}}
 {{detrecipe|80|Average Material Pouch|8}}
 {{detrecipe|120|Cramped Material Pouch|56}}
 {{detrecipe|160|Trusty Nails|4480}}
@@ -37,10 +36,11 @@
 {{detrecipe/totals|Black Lense|3}}
 {{detrecipe/totals|Sticky Stick|30000}}
 {{detrecipe/totals|Ice Age 3|6}}
-{{detrecipe/totals|Golden Plop|20}}
-{{detrecipe/totals|Woodular Circle|20}}
+{{detrecipe/totals|Golden Plop|12}}
+{{detrecipe/totals|Woodular Circle|16}}
+{{detrecipe/totals|Glass Shard|8}}
+{{detrecipe/totals|Chain Link|10000}}
 {{detrecipe/totals|Trusty Nails|4480}}
 {{detrecipe/totals|Frog Leg|2240}}
 {{detrecipe/totals|Bean Slices|1680}}
-{{detrecipe/totals|Chain Link|10000}}
 }}

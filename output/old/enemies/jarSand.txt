@@ -13,7 +13,8 @@
 |crystalname=Crystal Crabal
 |hascard=Yes
 }}
-{{EnemyNavigation|Boop|Mimic}}
+{{EnemyNavigation|Wood Mushroom|Mimic}}
+{{DropTable/head}}
 {{DropTable/coin|40|0.5}}
 {{DropTable/row|Pocket Sand|0.22|1}}
 {{DropTable/card|0.0001}}

@@ -24,7 +24,7 @@ Copper Chopper
 |wis=3
 |upgrade=2
 |sellprice=196
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -32,14 +32,11 @@ Copper Chopper
 |craftnum=11
 |levelreq=4
 |expgiven=10
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=13
 |resource2=Oak Logs|quantity2=30
 |resource3=Thread|quantity3=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|13}}
@@ -62,7 +59,7 @@ Iron Hatchet
 |wis=5
 |upgrade=2
 |sellprice=4625
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -70,14 +67,10 @@ Iron Hatchet
 |craftnum=31
 |levelreq=14
 |expgiven=680
-|recipefrom=
+|recipefrom=Start
 |resource1=Jungle Logs|quantity1=250
 |resource2=Boring Brick|quantity2=125
 }}
-{{usedin/head}}
-{{usedin/row|[[Golden Axe]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Jungle Logs|250}}
@@ -129,9 +122,6 @@ Golden Axe
 |resource2=Crabby Cakey|quantity2=2000
 |resource3=Iron Hatchet|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Plat Hatchet]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Dubloon|5}}
@@ -170,10 +160,6 @@ Plat Hatchet
 |resource2=Chain Link|quantity2=5000
 |resource3=Golden Axe|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Dicer]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Tropilogs|6500}}
@@ -217,9 +203,6 @@ Dementia Dicer
 |resource2=Redox Salts|quantity2=50
 |resource3=Plat Hatchet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Axe]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Tundra Logs|15000}}
@@ -254,7 +237,7 @@ Void Imperium Axe
 |str=7
 |wis=20
 |upgrade=4
-|sellprice=5761000
+|sellprice=5761250
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -266,6 +249,7 @@ Void Imperium Axe
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Wispy Lumber|quantity1=50000
 |resource2=Dementia Dicer|quantity2=2
+|resource3=Dense Water|quantity3=5
 }}
 {{detrecipe/tab
 |reci=
@@ -282,8 +266,10 @@ Void Imperium Axe
 {{detrecipe|120|Iron Hatchet|24}}
 {{detrecipe|160|Jungle Logs|6000}}
 {{detrecipe|160|Boring Brick|3000}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Wispy Lumber|50000}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Tundra Logs|30000}}
 {{detrecipe/totals|Redox Salts|100}}
 {{detrecipe/totals|Tropilogs|26000}}

@@ -14,9 +14,6 @@
 |resource1=Jungle Logs|quantity1=6
 |resource2=Small Life Potion|quantity2=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|600|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Jungle Logs|6}}

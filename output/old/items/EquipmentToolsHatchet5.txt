@@ -3,6 +3,7 @@
 |level=45
 |skill=choppin
 |type=Hatchet
+|speed=4
 |skillpower=23
 |agi=6
 |wis=17
@@ -21,9 +22,6 @@
 |resource2=Redox Salts|quantity2=50
 |resource3=Plat Hatchet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Axe]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Tundra Logs|15000}}

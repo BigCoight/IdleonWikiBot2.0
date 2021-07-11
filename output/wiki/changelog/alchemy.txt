@@ -1,19 +1,39 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Alchemy==
-</div><div style = "flex:50%;"> 
-==New Alchemy==
-{{patchnote/head|changed=Vials}}
+{{patchnote/head|changed=Power Cauldron}}
 |-
-|'''Void Vial'''
-{{patchnote|x1| |1}}
-{{patchnote|x2| |0}}
-{{patchnote|func| |add}}
-{{patchnote|description| |+{% Mining Efficiency.}}
-|-
-|''Requirements''
-{{patchnote|Req 1| |Lx {{CraftReq|Void Ore}}}}
-{{patchnote|Req 2| |Lx {{Liquid|2}}}}
-
+|'''Orange Bargain'''
+{{patchnote|x1|30|40}}
+{{patchnote|x2|60|12}}
 |}
 
+{{patchnote/head|changed=Quicc Cauldron}}
+|-
+|'''Green Bargain'''
+{{patchnote|x1|30|40}}
+{{patchnote|x2|60|12}}
+|}
+
+{{patchnote/head|changed=High-IQ Cauldron}}
+|-
+|'''Purple Bargain'''
+{{patchnote|x1|30|40}}
+{{patchnote|x2|60|12}}
+|}
+
+{{patchnote/head|changed=Kazam Cauldron}}
+|-
+|'''Yellow Bargain'''
+{{patchnote|x1|30|40}}
+{{patchnote|x2|60|12}}
+|}
+
+{{patchnote/head|changed=Vials}}
+|-
+|'''Poison Tincture'''
+{{patchnote|x1|1|3}}
+|}
+
+</div><div style = "flex:50%;"> 
+==New Alchemy==
 </div></div>

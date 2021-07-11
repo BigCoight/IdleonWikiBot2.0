@@ -2,11 +2,11 @@
 |title=Fruitfly
 |order=9
 |category=Medium Resources
-|effect=+{% Catching Away Gains
+|effect=+% Catching Away Gains
 |bonus=2
 |reqtier=10
 |source=[[Catching#Drops|Catching Fruitflies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00025|1}}
 |}

@@ -2,7 +2,7 @@
 |title=Sand Castle
 |order=4
 |category=Yum Yum Desert
-|effect=+{% Total Accuracy
+|effect=+% Total Accuracy
 |bonus=4
 |reqtier=10
 |source=[[Sand Castle]]

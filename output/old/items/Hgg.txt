@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.3|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Hipilium]]|3|Crafting}}
-|}

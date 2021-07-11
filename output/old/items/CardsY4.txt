@@ -2,7 +2,7 @@
 |title=Loveulyte
 |order=4
 |category=Event
-|effect=+{% Total HP
+|effect=+% Total HP
 |bonus=5
 |reqtier=1.5
 }}

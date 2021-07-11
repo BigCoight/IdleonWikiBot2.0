@@ -3,11 +3,12 @@
 |level=55
 |skill=catching
 |type=Bug Catching Net
+|speed=5
 |skillpower=37
 |str=6
 |agi=12
 |upgrade=4
-|sellprice=4469200
+|sellprice=4469450
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -19,6 +20,7 @@
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Flycicle|quantity1=50000
 |resource2=Dementia Net|quantity2=2
+|resource3=Dense Water|quantity3=5
 }}
 {{detrecipe/tab
 |reci=
@@ -36,8 +38,10 @@
 {{detrecipe|160|Forest Fibres|19200}}
 {{detrecipe|160|Butterfly|20400}}
 {{detrecipe|160|Distilled Water|72}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Flycicle|50000}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Mosquisnow|30000}}
 {{detrecipe/totals|Redox Salts|100}}
 {{detrecipe/totals|Fruitfly|28000}}

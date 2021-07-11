@@ -9,7 +9,7 @@
 |reach=60
 |upgrade=2
 |sellprice=530
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,14 +17,11 @@
 |craftnum=14
 |levelreq=6
 |expgiven=15
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=20
 |resource2=Oak Logs|quantity2=75
 |resource3=Trusty Nails|quantity3=20
 }}
-{{usedin/head}}
-{{usedin/row|[[Bandage Wraps]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|20}}

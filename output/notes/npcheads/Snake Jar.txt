@@ -1,5 +1,6 @@
 {{npc
 |location=The Mimic Hole
+|world=Yum-Yum Desert
 |noquest=3
 |repeatable=Unknown
 |birthweight=4.16
@@ -7,5 +8,5 @@
 |mmm=Jones
 |notes=[[Snake Jar]] sits at the bottom of [[Worlds#D2 - The Mimic Hole|The Mimic Hole]], near the portal to [[Bandit Bob]].
 
-You must increase your HP and/or Defence in order to survive his final quest.
+You must increase your HP and/or Defence in order to survive its third quest.
 }}

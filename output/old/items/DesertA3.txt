@@ -8,9 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.205|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Golden Axe]]|2000|Crafting}}
-{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|150|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
-|}

@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.00001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Blunderhills Misc Completion Token]]|1|Crafting}}
-|}

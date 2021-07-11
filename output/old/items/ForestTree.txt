@@ -5,17 +5,3 @@
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
-{{usedin/row|[[Amarok Helmet]]|2500|Crafting}}
-{{usedin/row|[[Reinforced Net]]|800|Crafting}}
-{{usedin/row|[[Royal Bayonet]]|1250|Crafting}}
-{{usedin/row|[[Average Choppin Pouch]]|1800|Crafting}}
-{{usedin/row|[[Bullet]]|10|Crafting}}
-{{usedin/row|[[Logger Heels]]|1000|Crafting}}
-{{usedin/row|[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]|1|Quests}}
-{{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|1000|Quests}}
-{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1000|Quests}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
-|}

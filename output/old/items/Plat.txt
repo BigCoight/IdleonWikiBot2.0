@@ -9,9 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.6|50}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sizable Mining Pouch]]|6750|Crafting}}
-{{usedin/row|[[Platinet]]|3000|Crafting}}
-{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Blue Flav]]|Lots|Alchemy}}
-|}

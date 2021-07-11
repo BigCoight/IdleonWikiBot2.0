@@ -3,8 +3,13 @@
 |level=1
 |type=Circle Obol
 |weaponpower=1
-|misc=30 Base Damage
+|str=1
+|agi=1
+|wis=1
+|misc=20 Base Damage
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Damage
 }}

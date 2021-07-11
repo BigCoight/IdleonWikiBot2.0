@@ -197,7 +197,7 @@ Boop Card
 {{InfoCard
 |title=Boop
 |order=2
-|category=Blunder Hills
+|category=Bosses
 |effect=+% Fighting AFK gain rate
 |bonus=1
 |reqtier=1
@@ -373,7 +373,7 @@ Dig Doug Card
 |source=[[Dig Doug]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Dig Doug]]|0.10|1}}
+{{detdrops|[[Dig Doug]]|0.04|1}}
 |}
 Crystal Crabal Card
 {{InfoCard
@@ -526,7 +526,7 @@ Fly Card
 |source=[[Catching#Drops|Catching Flies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.00042|1}}
 |}
 Butterfly Card
 {{InfoCard
@@ -539,7 +539,7 @@ Butterfly Card
 |source=[[Catching#Drops|Catching Butterflies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00030|1}}
 |}
 Fire Forge Card
 {{InfoCard
@@ -584,16 +584,24 @@ Void Ore Card
 |effect=+% Card Drop Chance
 |bonus=6
 |reqtier=10
+|source=[[Mining#Drops|Mining Void]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.00006|1}}
+|}
 Lustre Ore Card
 {{InfoCard
 |title=Lustre Ore
-|order=8
-|category=Medium Resources
+|order=0
+|category=Hard Resources
 |effect=+ Base LUK
 |bonus=4
 |reqtier=10
+|source=[[Mining#Drops|Mining Lustre]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.00006|1}}
+|}
 Potty Rolls Card
 {{InfoCard
 |title=Potty Rolls
@@ -636,8 +644,8 @@ Tropilogs Card
 Tundra Logs Card
 {{InfoCard
 |title=Tundra Logs
-|order=9
-|category=Medium Resources
+|order=8
+|category=Hard Resources
 |effect=+% Choppin Away Gains
 |bonus=2.5
 |reqtier=10
@@ -657,7 +665,7 @@ Fruitfly Card
 |source=[[Catching#Drops|Catching Fruitflies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00014|1}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.00025|1}}
 |}
 Sentient Cereal Card
 {{InfoCard
@@ -670,7 +678,7 @@ Sentient Cereal Card
 |source=[[Catching#Drops|Catching Sentient Cereal]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00016|1}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.00028|1}}
 |}
 Bloach Card
 {{InfoCard
@@ -704,8 +712,8 @@ Dune Soul Card
 |title=Dune Soul
 |order=11
 |category=Medium Resources
-|effect=+% Max Charge
-|bonus=3
+|effect=+ Starting Pts in Worship
+|bonus=4
 |reqtier=3
 }}
 Froge Card
@@ -739,7 +747,7 @@ Sheepie Card
 {{InfoCard
 |title=Sheepie
 |order=0
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Defence from Equipment
 |bonus=3
 |reqtier=11
@@ -752,7 +760,7 @@ Frost Flake Card
 {{InfoCard
 |title=Frost Flake
 |order=1
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+ Base STR
 |bonus=7
 |reqtier=12
@@ -765,7 +773,7 @@ Sir Stache Card
 {{InfoCard
 |title=Sir Stache
 |order=2
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Card Drop Chance
 |bonus=8
 |reqtier=13
@@ -778,7 +786,7 @@ Bloque Card
 {{InfoCard
 |title=Bloque
 |order=3
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+ Base AGI
 |bonus=7
 |reqtier=14
@@ -791,7 +799,7 @@ Mamooth Card
 {{InfoCard
 |title=Mamooth
 |order=4
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Total HP
 |bonus=3.5
 |reqtier=15
@@ -804,7 +812,7 @@ Snowman Card
 {{InfoCard
 |title=Snowman
 |order=5
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Total Damage
 |bonus=3
 |reqtier=15
@@ -817,7 +825,7 @@ Penguin Card
 {{InfoCard
 |title=Penguin
 |order=6
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+ Base WIS
 |bonus=7
 |reqtier=15
@@ -830,7 +838,7 @@ Thermister Card
 {{InfoCard
 |title=Thermister
 |order=7
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Critical Damage
 |bonus=4
 |reqtier=15
@@ -843,7 +851,7 @@ Quenchie Card
 {{InfoCard
 |title=Quenchie
 |order=8
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+ Base LUK
 |bonus=7
 |reqtier=17
@@ -856,7 +864,7 @@ Cryosnake Card
 {{InfoCard
 |title=Cryosnake
 |order=9
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% MP regen rate
 |bonus=5
 |reqtier=17
@@ -869,7 +877,7 @@ Bop Box Card
 {{InfoCard
 |title=Bop Box
 |order=10
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Total Drop Rate
 |bonus=3
 |reqtier=17
@@ -882,7 +890,7 @@ Neyeptune Card
 {{InfoCard
 |title=Neyeptune
 |order=11
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Total Accuracy
 |bonus=5
 |reqtier=17
@@ -895,20 +903,20 @@ Xylobone Card
 {{InfoCard
 |title=Xylobone
 |order=13
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Critical Chance
 |bonus=1
 |reqtier=15
 |source=[[Xylobone]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Xylobone]]|0.05|1}}
+{{detdrops|[[Xylobone]]|0.010|1}}
 |}
 Bloodbone Card
 {{InfoCard
 |title=Bloodbone
 |order=14
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% Total Damage
 |bonus=3
 |reqtier=15
@@ -921,7 +929,7 @@ Dedotated Ram Card
 {{InfoCard
 |title=Dedotated Ram
 |order=12
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+ Weapon Power
 |bonus=2
 |reqtier=20
@@ -934,7 +942,7 @@ Crystal Cattle Card
 {{InfoCard
 |title=Glacier Quartz
 |order=15
-|category=Frostfire Tyundra
+|category=Frostbite Tundra
 |effect=+% EXP from monsters
 |bonus=3
 |reqtier=10
@@ -946,7 +954,7 @@ Crystal Cattle Card
 Wispy Lumber Card
 {{InfoCard
 |title=Wispy Lumber
-|order=0
+|order=9
 |category=Hard Resources
 |effect=+% Choppin Speed
 |bonus=6
@@ -1012,7 +1020,7 @@ Mosquisnow Card
 |source=[[Catching#Drops|Catching Mosquisnow]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00014|1}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00025|1}}
 |}
 Flycicle Card
 {{InfoCard
@@ -1025,7 +1033,7 @@ Flycicle Card
 |source=[[Catching#Drops|Catching Flycicle]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.00014|1}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.00025|1}}
 |}
 Frigid Soul Card
 {{InfoCard
@@ -1033,7 +1041,7 @@ Frigid Soul Card
 |order=2
 |category=Hard Resources
 |effect=+% Max Charge
-|bonus=2.5
+|bonus=7
 |reqtier=4
 }}
 Squiddy Soul Card
@@ -1042,7 +1050,7 @@ Squiddy Soul Card
 |order=3
 |category=Hard Resources
 |effect=+% Charge Rate
-|bonus=2.5
+|bonus=5
 |reqtier=5
 }}
 Ghost Card
@@ -1077,7 +1085,11 @@ Meaning of Giftmas Card
 |effect=+% Money from Monsters
 |bonus=3
 |reqtier=1.5
+|source=[[Summer Spirit]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.05|1}}
+|}
 Valentslime Card
 {{InfoCard
 |title=Valentslime
@@ -1157,6 +1169,54 @@ Egg Capsule Card
 |bonus=1
 |reqtier=1.5
 }}
+Mr Blueberry Card
+{{InfoCard
+|title=Mr Blueberry
+|order=11
+|category=Event
+|effect=+% Total Drop Rate
+|bonus=3
+|reqtier=4
+|source=[[Mr Blueberry]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Mr Blueberry]]|0.03|1}}
+|}
+Coastiolyte Card
+{{InfoCard
+|title=Coastiolyte
+|order=12
+|category=Event
+|effect=+% Fishing Away Gains
+|bonus=1
+|reqtier=8
+|source=[[Coastiolyte]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Coastiolyte]]|0.05|1}}
+|}
+Summer Spirit Card
+{{InfoCard
+|title=Summer Spirit
+|order=13
+|category=Event
+|effect=+% Catching EXP
+|bonus=4
+|reqtier=8
+}}
+Plasti Doug Card
+{{InfoCard
+|title=Plasti Doug
+|order=10
+|category=Event
+|effect=+ Base Defence
+|bonus=2
+|reqtier=4
+|source=[[Plasti Doug]]
+}}
+{{detdrops/head}}
+{{detdrops|[[Plasti Doug]]|0.03|1}}
+|}
 Baba Yaga Card
 {{InfoCard
 |title=Baba Yaga
@@ -1273,7 +1333,7 @@ Chizoar Card
 |order=9
 |category=Bosses
 |effect=+% Cog Build Spd (Passive)
-|bonus=10
+|bonus=8
 |reqtier=1.5
 }}
 Chaotic Chizoar Card

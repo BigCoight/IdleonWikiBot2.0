@@ -1,6 +1,7 @@
 {{npc
 |location=The Mimic Hole
 |noquest=5
+|world=Yum-Yum Desert
 |repeatable=Unknown
 |birthweight=3.06
 |starsign=Taurus
@@ -46,9 +47,10 @@ Completing his first two quests gives the player the ability to talk to him once
 |name=Colosseum GDQ
 |text=Complete the three colosseums with lots of Time Remaining after beating all waves.
 |difficulty=6
-|requirements=1st Colosseum: >= 180. Starting at 0., 2nd Colosseum: >= 170. Starting at 0.
+|requirements=1st Colosseum: >= 180. Starting at 0., 2nd Colosseum: >= 170. Starting at 0., 3rd Colosseum: >= 160. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|12 HR Time Candy}}, 30x {{CraftReq|Gem}}, {{Coindisplay|100000}}
+|notes=The numbers are how many seconds you must have remaining for each colosseum.
 }}
 |}
 {{dialogue/head}}

@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+  Fishing Power
 |description=What's that, statue? You want to... take me by the hand and lead me to the land? With that land pecifically being the one that you understand?
 |sellprice=10
 |source=[[DropTable12]]
@@ -8,7 +9,6 @@
 {{Statuedata|0.3|+ @ Fishing Power}}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0425|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0425|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flies]]|0.001275|1.0}}
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.001275|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.001275|1.0}}

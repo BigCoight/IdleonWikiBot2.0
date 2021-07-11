@@ -5,9 +5,3 @@
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Helmet]]|500|Crafting}}
-{{usedin/row|[[Blackhole Bow]]|250|Crafting}}
-{{usedin/row|[[Void Imperium Rod]]|200|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
-|}

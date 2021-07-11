@@ -13,6 +13,3 @@
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|.0001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Bandit Bob#Bob's Brand New Bandana|Bob's Brand New Bandana]]|1|Quests}}
-|}

@@ -5,6 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
-|}

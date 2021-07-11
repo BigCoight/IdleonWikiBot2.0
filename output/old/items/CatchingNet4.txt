@@ -3,6 +3,7 @@
 |level=25
 |skill=catching
 |type=Bug Catching Net
+|speed=5
 |skillpower=20
 |str=2
 |agi=6
@@ -21,10 +22,6 @@
 |resource2=Butterfly|quantity2=2500
 |resource3=Reinforced Net|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinet]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Dubloon|5}}

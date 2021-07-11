@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Bloodbone
 |order=14
-|category=Frostfire Tyundra
-|effect=+{% Total Damage
+|category=Frostbite Tundra
+|effect=+% Total Damage
 |bonus=3
 |reqtier=15
 |source=[[Bloodbone]]

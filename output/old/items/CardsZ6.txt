@@ -2,7 +2,7 @@
 |title=King Doot
 |order=6
 |category=Bosses
-|effect=+{% Total Drop Rate
+|effect=+% Total Drop Rate
 |bonus=6
 |reqtier=1.5
 |source=[[King Doot]]

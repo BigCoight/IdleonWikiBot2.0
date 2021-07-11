@@ -2,7 +2,7 @@
 |title=Glublin
 |order=7
 |category=Blunder Hills
-|effect=+{% Total HP
+|effect=+% Total HP
 |bonus=2
 |reqtier=10
 |source=[[Glublin]]

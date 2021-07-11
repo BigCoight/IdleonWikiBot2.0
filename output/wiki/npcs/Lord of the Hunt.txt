@@ -1,11 +1,13 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Trappers Folly
+|noquest=11
+|repeatable=Unknown
 |starsign=Leo
 |mmm=Aikin
 |birthweight=5.64
-|notes=fillme
+|notes=[[Lord of the Hunt]] is located in [[Worlds#Trappers Folly|Trappers Folly]], to the left of W3 Town. 
+
+Completing his quests unlocks [[File:Trapping Skill Icon.png]] [[Trapping]] for each successive tier of Critter. Lord of the Hunt quests are account-wide, so unlocking critter trapping spots on one character unlocks them for all.
 }}
 {{Quest/head}}
 {{Quest
@@ -39,7 +41,7 @@
 |name=Small Stingers, Big Owie
 |text=Go trap Scorpie Critters. No hint where they are sorry... I'm still stuck on the Crabbo quest myself!
 |difficulty=4
-|requirements=500x {{CraftReq|Scorpie}}, 2x {{CraftReq|Crescent Scropie}}
+|requirements=500x {{CraftReq|Scorpie}}, 2x {{CraftReq|Crescent Scorpie}}
 |consumed=Yes
 |rewards=2x {{CraftReq|Large Experience Balloon}}, 2x {{CraftReq|4 HR Time Candy}}
 |notes= 
@@ -66,7 +68,7 @@
 |name=Noot Noot!
 |text=Go trap some Pingy Critters.
 |difficulty=6
-|requirements=2500x {{CraftReq|Pingy}}, 4x {{CraftReq|Eternal Lord of  The Undying Ember}}
+|requirements=2500x {{CraftReq|Pingy}}, 4x {{CraftReq|Eternal Lord of The Undying Ember}}
 |consumed=Yes
 |rewards=1x {{CraftReq|12 HR Time Candy}}, 10x {{CraftReq|Gem}}
 |notes= 
@@ -102,7 +104,7 @@
 |name=To Trap or not to Trap
 |text=Catch a TON of Shinies... like a TOOOOOON.
 |difficulty=7
-|requirements=500x {{CraftReq|Crescent Scropie}}, 250x {{CraftReq|Eternal Lord of  The Undying Ember}}, 100x {{CraftReq|Diamond Duck}}
+|requirements=500x {{CraftReq|Crescent Scorpie}}, 250x {{CraftReq|Eternal Lord of The Undying Ember}}, 100x {{CraftReq|Diamond Duck}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Critter Baron}}
 |notes= 
@@ -159,7 +161,7 @@
 |text=You need more space although not in that hollow head of yours thats for sure!
 }}
 {{dialogue/row
-|text=Great hand them over. OW! Stupid little     stung me! 
+|text=Great hand them over. OW! Stupid little    stung me! 
 }}
 {{dialogue/row
 |text=Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST:Go trap some Mousey Critters.

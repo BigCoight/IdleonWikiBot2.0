@@ -2,7 +2,7 @@
 |title=Frigid Soul
 |order=2
 |category=Hard Resources
-|effect=+{% Max Charge
-|bonus=2.5
+|effect=+% Max Charge
+|bonus=7
 |reqtier=4
 }}

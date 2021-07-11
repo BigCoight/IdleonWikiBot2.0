@@ -2,7 +2,7 @@
 |title=Valentslime
 |order=3
 |category=Event
-|effect=+{% Defence from Equipment
+|effect=+% Defence from Equipment
 |bonus=3
 |reqtier=2
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]

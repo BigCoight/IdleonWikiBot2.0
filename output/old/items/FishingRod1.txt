@@ -3,6 +3,7 @@
 |level=4
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=3
 |str=1
 |upgrade=2

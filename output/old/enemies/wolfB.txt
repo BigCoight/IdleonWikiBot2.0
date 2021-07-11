@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Amarok|Biggie Hours}}
+{{DropTable/head}}
 {{DropTable/coin|500|1}}
 {{DropTable/row|Magic Meatloaf|0.10|3}}
 {{DropTable/card|0.02}}

@@ -8,7 +8,7 @@
 |agi=13
 |reach=200
 |upgrade=3
-|sellprice=128170
+|sellprice=95770
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -19,18 +19,13 @@
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Woodular Circle|quantity1=3
-|resource2=Bloach|quantity2=3200
+|resource2=Bloach|quantity2=1400
 |resource3=Spiked Menace|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Woodular Circle|3}}
-{{detrecipe|3|Bloach|3200}}
+{{detrecipe|3|Bloach|1400}}
 {{detrecipe|3|Spiked Menace|2}}
 {{detrecipe|40|Gold Bar|500}}
 {{detrecipe|40|Birch Longbow|6}}
@@ -39,9 +34,9 @@
 {{detrecipe|40|Distilled Water|16}}
 |tot=
 {{detrecipe/totals|Woodular Circle|3}}
-{{detrecipe/totals|Bloach|3200}}
+{{detrecipe/totals|Bloach|1400}}
 {{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Bleach Logs|1500}}
-{{detrecipe/totals|Distilled Water|16}}
 }}

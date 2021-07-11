@@ -6,7 +6,7 @@
 |misc=15% Xp From Monsters
 |upgrade=4
 |defence=40
-|sellprice=50139900
+|sellprice=71135100
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -44,18 +44,22 @@
 {{detrecipe|120|Platinum Bar|4000}}
 {{detrecipe|80|Dementia Bar|700}}
 {{detrecipe|40|Void Bar|500}}
+{{detrecipe|40|Dense Water|4}}
 |tot=
 {{detrecipe/totals|Dioxide Synthesis|500}}
 {{detrecipe/totals|Melty Cube|140000}}
+{{detrecipe/totals|Audio Cord|75000}}
+{{detrecipe/totals|Void Bar|500}}
+{{detrecipe/totals|Dense Water|4}}
 {{detrecipe/totals|Cue Tape|30000}}
+{{detrecipe/totals|Potty Rolls|12000}}
+{{detrecipe/totals|Forest Soul|2000}}
+{{detrecipe/totals|Dementia Bar|700}}
 {{detrecipe/totals|Copper Bar|600}}
 {{detrecipe/totals|Oak Logs|2250}}
 {{detrecipe/totals|Trusty Nails|600}}
-{{detrecipe/totals|Audio Cord|75000}}
-{{detrecipe/totals|Forest Soul|2000}}
 {{detrecipe/totals|Potato Remains|20000}}
+{{detrecipe/totals|Platinum Bar|4000}}
 {{detrecipe/totals|Iron Bar|3000}}
 {{detrecipe/totals|Jungle Logs|12000}}
-{{detrecipe/totals|Dementia Bar|700}}
-{{detrecipe/totals|Void Bar|500}}
 }}

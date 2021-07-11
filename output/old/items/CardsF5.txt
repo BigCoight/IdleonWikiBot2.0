@@ -2,7 +2,7 @@
 |title=Owlio
 |order=5
 |category=Hard Resources
-|effect=+{% EXP from monsters
+|effect=+% EXP from monsters
 |bonus=1.25
 |reqtier=4
 }}

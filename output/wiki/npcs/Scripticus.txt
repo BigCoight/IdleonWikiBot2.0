@@ -25,7 +25,7 @@ He introduces the player to the basics of completing quests, fighting monsters, 
 |requirements=Craft Boxing Gloves: >= 1. Starting at 0., Buy Tape from Shop: >= 5. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Red Headband}}, 15 Class Experience
-|notes=If you've accidentally sold the [[File:Crimson_String.png|36px]] [[Crimson String]], you can reclaim it from the quest codex.
+|notes=If you've accidentally sold the {{CraftReq|Crimson String}}, you can reclaim it from the quest codex.
 }}
 {{Quest
 |name=Mr. Worldwide
@@ -76,7 +76,7 @@ He introduces the player to the basics of completing quests, fighting monsters, 
 |requirements=1x {{CraftReq|Scouting Report}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Inventory Bag C}}, 1x {{CraftReq|Small Material Pouch}}, 1250 Class Experience
-|notes=There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (quest)]] item for this.
+|notes=There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (Quest)]] item for this.
 }}
 {{Quest
 |name=What Lies at the Heart of the Forest

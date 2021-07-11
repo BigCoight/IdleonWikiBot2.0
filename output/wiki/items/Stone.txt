@@ -13,6 +13,20 @@ Easter Weapon Stone
 {{detdrops|[[Floofie]]|0.01|2}}
 {{detdrops|[[Shell Snake]]|0.01|2}}
 |}
+Summer Weapon Stone
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Weapon to apply. +1 Random Stat +3 Defence Success Chance; 40% Uses up 1 slots only if Successful
+|sellprice=125
+|tier=Summer
+|source=[[Summer Spirit]], [[Mr Blueberry]], [[Plasti Doug]]
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.02|1}}
+{{detdrops|[[Mr Blueberry]]|0.01|2}}
+{{detdrops|[[Plasti Doug]]|0.01|2}}
+|}
 Weapon Upgrade Stone I
 {{InfoItem
 |type=Upgrade
@@ -35,7 +49,7 @@ Weapon Upgrade Stone II
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=5|vendor=YumYum Grotto|stock=3|buyprice=6000}}
+{{Vendoritem/tablerow|number=5|vendor=YumYum Grotto|stock=1|buyprice=6000}}
 |}
 Weapon Upgrade Stone III
 {{InfoItem
@@ -43,7 +57,7 @@ Weapon Upgrade Stone III
 |description=Drag onto any Weapon to apply. +2 Weapon Power +1 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=25000
 |tier=III
-|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]]
 |notes= 
 }}
 {{Vendoritem/head}}
@@ -72,6 +86,20 @@ Easter Armor Stone
 {{detdrops|[[Egg Capsule]]|0.25|3}}
 {{detdrops|[[Floofie]]|0.03|3}}
 {{detdrops|[[Shell Snake]]|0.03|3}}
+|}
+Summer Armor Stone
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Armor to apply. +3 Defence Success Chance; 50% Uses up 1 slots only if Successful
+|sellprice=100
+|tier=Summer
+|source=[[Summer Spirit]], [[Mr Blueberry]], [[Plasti Doug]]
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.04|3}}
+{{detdrops|[[Mr Blueberry]]|0.02|3}}
+{{detdrops|[[Plasti Doug]]|0.02|3}}
 |}
 Armor Upgrade Stone I
 {{InfoItem
@@ -105,7 +133,7 @@ Armor Upgrade Stone II
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Encroaching Forest Villas|stock=6|buyprice=3400}}
-{{Vendoritem/tablerow|number=6|vendor=YumYum Grotto|stock=6|buyprice=3400}}
+{{Vendoritem/tablerow|number=6|vendor=YumYum Grotto|stock=3|buyprice=3400}}
 |}
 Armor Upgrade Stone B
 {{InfoItem
@@ -118,7 +146,6 @@ Armor Upgrade Stone B
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0025|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0025|1.0}}
 {{detdrops|[[Mafioso]]|0.000016000000000000003|1.0}}
 {{detdrops|[[Sand Castle]]|0.000017500000000000002|1.0}}
 {{detdrops|[[Pincermin]]|0.000018500000000000002|1.0}}
@@ -138,7 +165,7 @@ Armor Upgrade Stone III
 |description=Drag onto any Armor to apply. +3 Defence +4 Random Stat Success Chance; 50% Uses up 1 slots only if Successful
 |sellprice=15000
 |tier=III
-|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 }}
 {{Vendoritem/head}}
@@ -156,9 +183,6 @@ Armor Upgrade Stone C
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.008|1}}
 {{detdrops|[[King Doot]]|0.04|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Helmet]]|2|Crafting}}
 |}
 Easter Tool Upgrade Stone
 {{InfoItem
@@ -196,6 +220,20 @@ Giftmas Tool Upgrade Stone
 |tier=Giftmas
 |notes= 
 }}
+Summer Tool Upgrade Stone
+{{InfoItem
+|type=Upgrade
+|description=Drag onto any Tool to apply. +3 Defence Success Chance; 50% Uses up 1 slots only if Successful
+|sellprice=110
+|tier=Summer
+|source=[[Summer Spirit]], [[Mr Blueberry]], [[Plasti Doug]]
+|notes= 
+}}
+{{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.03|3}}
+{{detdrops|[[Mr Blueberry]]|0.012|3}}
+{{detdrops|[[Plasti Doug]]|0.012|3}}
+|}
 Tool Upgrade Stone II
 {{InfoItem
 |type=Upgrade
@@ -206,7 +244,7 @@ Tool Upgrade Stone II
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=7|vendor=YumYum Grotto|stock=4|buyprice=5000}}
+{{Vendoritem/tablerow|number=7|vendor=YumYum Grotto|stock=6|buyprice=5000}}
 {{Vendoritem/tablerow|number=8|vendor=Faraway Piers|stock=1|buyprice=5000}}
 |}
 Tool Upgrade Stone III
@@ -256,7 +294,7 @@ Mystery Upgrade Stone I
 |description=Drag onto any Equip to apply. +3 Mystery Stat Success Chance; 100% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
 |tier=I
-|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Nightmare Chizoar]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Nightmare Amarok]], [[Nightmare Amarok]], [[Nightmare Chizoar]], [[Biggie Hours]], [[King Doot]], [[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]], [[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]], [[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]], [[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]], [[Tiki Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[SuperDropTable1]], [[SuperDropTable2]], [[Alchemy#Level up Gift|Level up Gift]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -301,7 +339,6 @@ Mystery Upgrade Stone I
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00005406|2.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.00005202000000000001|2.0}}
 {{detdrops|[[Crystal Crabal]]|0.0025199999999999997|3.0}}
-{{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Sandy Pot]]|0.0000126|3.0}}
 {{detdrops|[[Mimic]]|0.00001344|3.0}}
 {{detdrops|[[Crabcake]]|0.00001512|3.0}}
@@ -338,28 +375,29 @@ Mystery Upgrade Stone II
 |description=Drag onto any Equip to apply. +4 Mystery Stat Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
 |tier=II
-|source=[[SuperDropTable3]]
+|source=[[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable3]]
 |notes= 
 }}
 {{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Sheepie]]|0.0000105|3.0}}
 {{detdrops|[[Frost Flake]]|0.000011760000000000001|3.0}}
 {{detdrops|[[Sir Stache]]|0.000013019999999999997|3.0}}
 {{detdrops|[[Xylobone]]|0.000042|3.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.0042|3.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.0042|3.0}}
 {{detdrops|[[Bloque]]|0.0000105|3.0}}
 {{detdrops|[[Mamooth]]|0.00001134|3.0}}
 {{detdrops|[[Snowman]]|0.000012179999999999999|3.0}}
 {{detdrops|[[Penguin]]|0.000013019999999999997|3.0}}
 {{detdrops|[[Thermister]]|0.00001386|3.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.0042|3.0}}
-{{detdrops|[[Dedotated Ram]]|0.00000016800000000000002|3.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.0042|3.0}}
+{{detdrops|[[Dedotated Ram]]|0.000014279999999999997|3.0}}
 {{detdrops|[[Quenchie]]|0.0000105|3.0}}
 {{detdrops|[[Cryosnake]]|0.000011760000000000001|3.0}}
 {{detdrops|[[Bop Box]]|0.0000126|3.0}}
 {{detdrops|[[Neyeptune]]|0.00001344|3.0}}
-{{detdrops|[[Bloodbone]]|0.00000016800000000000002|3.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.0042|3.0}}
+{{detdrops|[[Bloodbone]]|0.000021|3.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.0042|3.0}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00003738|3.0}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00003738|3.0}}
 {{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00006299999999999999|3.0}}

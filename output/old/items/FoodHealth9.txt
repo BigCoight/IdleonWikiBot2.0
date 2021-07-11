@@ -8,6 +8,3 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Frostbite Towndra|stock=25000|buyprice=760}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|10000|Crafting}}
-|}

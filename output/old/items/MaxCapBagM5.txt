@@ -1,9 +1,8 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Monster Parts, Smithing Production Items.
-|sellprice=122130
+|sellprice=121160
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -11,17 +10,14 @@
 |levelreq=30
 |expgiven=41000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Golden Plop|quantity1=5
-|resource2=Woodular Circle|quantity2=5
+|resource1=Golden Plop|quantity1=3
+|resource2=Woodular Circle|quantity2=4
 |resource3=Average Material Pouch|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Materials Pouch]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Golden Plop|5}}
-{{detrecipe|3|Woodular Circle|5}}
+{{detrecipe|3|Golden Plop|3}}
+{{detrecipe|3|Woodular Circle|4}}
 {{detrecipe|3|Average Material Pouch|2}}
 {{detrecipe|40|Cramped Material Pouch|14}}
 {{detrecipe|80|Trusty Nails|1120}}
@@ -30,10 +26,11 @@
 {{detrecipe|40|Glass Shard|2}}
 {{detrecipe|40|Chain Link|2500}}
 |tot=
-{{detrecipe/totals|Golden Plop|5}}
-{{detrecipe/totals|Woodular Circle|5}}
+{{detrecipe/totals|Golden Plop|3}}
+{{detrecipe/totals|Woodular Circle|4}}
+{{detrecipe/totals|Glass Shard|2}}
+{{detrecipe/totals|Chain Link|2500}}
 {{detrecipe/totals|Trusty Nails|1120}}
 {{detrecipe/totals|Frog Leg|560}}
 {{detrecipe/totals|Bean Slices|420}}
-{{detrecipe/totals|Chain Link|2500}}
 }}

@@ -9,8 +9,8 @@
 |misc=7% Defence
 |upgrade=4
 |defence=22
-|sellprice=1299800
-|source=[[Smithing]]
+|sellprice=1210400
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -18,20 +18,17 @@
 |craftnum=4
 |levelreq=39
 |expgiven=200000
-|recipefrom=
+|recipefrom=Start
 |resource1=Poison Froge|quantity1=3
 |resource2=Platinum Boots|quantity2=1
 |resource3=Dementia Bar|quantity3=500
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Kicks]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Poison Froge|3}}
 {{detrecipe|3|Platinum Boots|1}}
-{{detrecipe|40|Tropilogs|8000}}
-{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Tropilogs|7000}}
+{{detrecipe|40|Jellyfish|3000}}
 {{detrecipe|40|Gold Boots|3}}
 {{detrecipe|80|Gold Bar|1800}}
 {{detrecipe|80|Iron Boots|6}}
@@ -43,11 +40,12 @@
 {{detrecipe|3|Dementia Bar|500}}
 |tot=
 {{detrecipe/totals|Poison Froge|3}}
-{{detrecipe/totals|Tropilogs|8000}}
-{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Dementia Bar|500}}
+{{detrecipe/totals|Tropilogs|7000}}
+{{detrecipe/totals|Jellyfish|3000}}
 {{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Distilled Water|12}}
 {{detrecipe/totals|Trusty Nails|3000}}
 {{detrecipe/totals|Iron Bar|750}}
 {{detrecipe/totals|Copper Bar|1500}}
-{{detrecipe/totals|Dementia Bar|500}}
 }}

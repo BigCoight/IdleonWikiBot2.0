@@ -2,7 +2,7 @@
 |title=Copper Ore
 |order=0
 |category=Easy Resources
-|effect=+{ Base accuracy
+|effect=+ Base accuracy
 |bonus=4
 |reqtier=10
 |source=[[Mining#Drops|Mining Copper]]

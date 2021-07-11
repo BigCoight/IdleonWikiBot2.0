@@ -3,17 +3,11 @@ Froge
 |type=Critter
 |description=The living embodiment of the classic cryptocurrency 'Frogecoin'. Very ribbit, much green, wow!!
 |sellprice=3
-|source=[[Trapping]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Trapping]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|65}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Small Critter Pouch]]|200|Crafting}}
-{{usedin/row|[[Dementia Helmet]]|5000|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|100|Quests}}
-{{usedin/row|[[Alchemy#Power Cauldron|Brittley Spears]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.6|65}}
 |}
 Poison Froge
 {{InfoItem
@@ -23,29 +17,16 @@ Poison Froge
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Silkskin Traps]]|1|Crafting}}
-{{usedin/row|[[Dementia Boots]]|3|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|1|Quests}}
-{{usedin/row|[[Alchemy#Vials|Poison Tincture]]|Lots|Alchemy}}
-|}
 Crabbo
 {{InfoItem
 |type=Critter
 |description=Argg, yer spendin' all me money!
 |sellprice=5
-|source=[[Trapping]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Trapping]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|350}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Sizable Critter Pouch]]|1000|Crafting}}
-{{usedin/row|[[Critter Numnums]]|100|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|250|Quests}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Call Me Pope]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Crab Juice]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.4|350}}
 |}
 Mutant Crabbo
 {{InfoItem
@@ -55,10 +36,6 @@ Mutant Crabbo
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Wooden Traps]]|2|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|1|Quests}}
-|}
 Scorpie
 {{InfoItem
 |type=Critter
@@ -67,23 +44,13 @@ Scorpie
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|500|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Big Game Hunter]]|Lots|Alchemy}}
-|}
-Crescent Scropie
+Crescent Scorpie
 {{InfoItem
 |type=Critter
 |description=This chrome coloured scorpion came straight from the future! Fuuuutuuuuureee! FUUTUUURREE!!! SOMEONE DIRECT ME TO THE CAN OPENERRRR!!!!
 |sellprice=10
 |source=[[Trapping]]
-|notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Fish Pouch]]|4|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|2|Quests}}
-{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|500|Quests}}
-|}
 Mousey
 {{InfoItem
 |type=Critter
@@ -92,12 +59,6 @@ Mousey
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Critter Pouch]]|10000|Crafting}}
-{{usedin/row|[[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|1000|Quests}}
-{{usedin/row|[[Alchemy#Power Cauldron|Buff Boi Talent]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Bubonic Burp]]|Lots|Alchemy}}
-|}
 Nakeo Moleo
 {{InfoItem
 |type=Critter
@@ -106,10 +67,6 @@ Nakeo Moleo
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Natural Traps]]|5|Crafting}}
-{{usedin/row|[[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|2|Quests}}
-|}
 Owlio
 {{InfoItem
 |type=Critter
@@ -118,10 +75,6 @@ Owlio
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|1500|Quests}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Green Bargain]]|Lots|Alchemy}}
-|}
 Minervowl
 {{InfoItem
 |type=Critter
@@ -130,10 +83,6 @@ Minervowl
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Rod]]|3|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|3|Quests}}
-|}
 Pingy
 {{InfoItem
 |type=Critter
@@ -142,12 +91,7 @@ Pingy
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Large Critter Pouch]]|30000|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Noot Noot!|Noot Noot!]]|2500|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Yellow Bargain]]|Lots|Alchemy}}
-|}
-Eternal Lord of  The Undying Ember
+Eternal Lord of The Undying Ember
 {{InfoItem
 |type=Critter
 |description=Bow before the destroyer of all that lies outside his domain, the ruler of the 8th dimension and all that it's flame encompasses, the bringer of light to the blind, and darkness to those who recite his title in full. ...ah crap.
@@ -155,13 +99,6 @@ Eternal Lord of  The Undying Ember
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Deuscythe]]|5|Crafting}}
-{{usedin/row|[[Steel Traps]]|6|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Noot Noot!|Noot Noot!]]|4|Quests}}
-{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|250|Quests}}
-|}
 Bunny
 {{InfoItem
 |type=Critter
@@ -170,10 +107,6 @@ Bunny
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|4000|Quests}}
-{{usedin/row|[[Alchemy#Vials|Bunny Brew]]|Lots|Alchemy}}
-|}
 Purbunni
 {{InfoItem
 |type=Critter
@@ -182,9 +115,6 @@ Purbunni
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
-|}
 Dung Beat
 {{InfoItem
 |type=Critter
@@ -193,9 +123,6 @@ Dung Beat
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Rollin' Thunder!|Rollin' Thunder!]]|8000|Quests}}
-|}
 Jade Scarab
 {{InfoItem
 |type=Critter
@@ -204,9 +131,6 @@ Jade Scarab
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Rollin' Thunder!|Rollin' Thunder!]]|10|Quests}}
-|}
 Honker
 {{InfoItem
 |type=Critter
@@ -215,10 +139,6 @@ Honker
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Untitled Quest|Untitled Quest]]|65000|Quests}}
-{{usedin/row|[[Alchemy#Vials|Goosey Glug]]|Lots|Alchemy}}
-|}
 Diamond Duck
 {{InfoItem
 |type=Critter
@@ -227,7 +147,3 @@ Diamond Duck
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Untitled Quest|Untitled Quest]]|1|Quests}}
-{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|100|Quests}}
-|}

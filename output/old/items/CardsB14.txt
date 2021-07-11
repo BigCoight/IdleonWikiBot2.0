@@ -2,7 +2,7 @@
 |title=Bandit Bob
 |order=13
 |category=Yum Yum Desert
-|effect=+{% Money from Monsters
+|effect=+% Money from Monsters
 |bonus=1
 |reqtier=1
 }}

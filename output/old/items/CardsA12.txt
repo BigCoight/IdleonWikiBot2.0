@@ -2,7 +2,7 @@
 |title=Walking Stick
 |order=12
 |category=Blunder Hills
-|effect=+{ Base WIS
+|effect=+ Base WIS
 |bonus=5
 |reqtier=10
 |source=[[Walking Stick]]

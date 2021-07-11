@@ -1,11 +1,11 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Signature Slopes
+|noquest=0
+|repeatable=Unknown
 |starsign=Sagittarius
 |mmm=Napier
 |birthweight=5.03
-|notes=fillme
+|notes=[[Yondergreen]] is found in [[Worlds#Signature Slopes|Signature Slopes]].
 }}
 {{Quest/head}}
 |}

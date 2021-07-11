@@ -10,6 +10,3 @@
 {{detdrops|[[Biggie Hours]]|0.008|1}}
 {{detdrops|[[King Doot]]|0.04|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Helmet]]|2|Crafting}}
-|}

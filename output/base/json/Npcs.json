@@ -985,7 +985,7 @@
         {
             "Type": "None",
             "DialogueText": "Wow I never thought someone would care enough about the first world to do everything! It feels like just yesterday I signed you up into the Game's Database... to think I'm now giving you the highest honor in all of Blunder Hills! You're one heckin' sick gamer wear this trophy with pride!",
-            "NextIndex": "49"
+            "NextIndex": "55"
         },
         {
             "Type": "None",
@@ -1040,7 +1040,7 @@
         {
             "Type": "None",
             "DialogueText": "Wow I never thought someone would care enough about the first world to do everything! It feels like just yesterday I found you unconscious at 1 hp and took some of your money... to think I'm now giving you the highest honor in the land! You're one heckin' sick gamer wear this trophy with pride!",
-            "NextIndex": "49"
+            "NextIndex": "55"
         }
     ],
     "Krunk": [
@@ -2191,7 +2191,7 @@
             "DialogueText": "PLEZ I WANT MOAR PEANUT!",
             "NextIndex": "3",
             "ItemTypeReq": ["Peanut"],
-            "ItemNumReq": ["100"],
+            "ItemNumReq": ["50"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "2",
@@ -2215,7 +2215,7 @@
             "DialogueText": "MOAR PEANUT MOAR PEANUT!!",
             "NextIndex": "6",
             "ItemTypeReq": ["Peanut"],
-            "ItemNumReq": ["250"],
+            "ItemNumReq": ["200"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "5",
@@ -2239,7 +2239,7 @@
             "DialogueText": "MOOOOOAAAAAARRRRR!!!",
             "NextIndex": "9",
             "ItemTypeReq": ["Peanut"],
-            "ItemNumReq": ["700"],
+            "ItemNumReq": ["400"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "2",
             "NoSpaceIndex": "8",
@@ -2304,10 +2304,10 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
-            "DialogueText": "U NEVER MAKE SHINY PEANUT? BRING ME 1000 PEANUT AND I SHOW U HOW.",
+            "DialogueText": "U NEVER MAKE SHINY PEANUT? BRING ME 500 PEANUT AND I SHOW U HOW.",
             "NextIndex": "4",
             "ItemTypeReq": ["Peanut"],
-            "ItemNumReq": ["1000"],
+            "ItemNumReq": ["500"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "3",
@@ -2378,12 +2378,12 @@
     "Cactolyte": [
         {
             "Type": "None",
-            "DialogueText": "PEANUT!!! YEEE!",
+            "DialogueText": "PEANUTS!!! ENTIRE BAG TOO YEE!!",
             "NextIndex": "1"
         },
         {
             "Type": "None",
-            "DialogueText": "VERY HYPE TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDINING ME!",
+            "DialogueText": "VERY COOL TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDING ME!",
             "NextIndex": "2"
         },
         {
@@ -2393,8 +2393,147 @@
         },
         {
             "Type": "None",
-            "DialogueText": "AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSE--- @ Yea well tough luck! Lava here that class aint done yet! I'll hopefully have it out same time I get world 3 out though maybe late february?",
-            "NextIndex": "3"
+            "DialogueText": "AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSELF!... @ ... ALRIGHT NICE! LAVAS NOT AROUND LETS DO THIS!",
+            "NextIndex": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "I AM UNDER STRICT ORDERS FROM CLUB LEADER HE TELL ME TO ONLY RANK UP PEEPLE WHO ARE TOP SKILLAGE!",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "ROCK BUSTING HAMMER HITTING AND THE TREE THINGY! THEY ARE SOME SKILLS YOU NEED! @ QUEST:Get the required skill levels in Mining Smithing and Choppin to impress Cactolyte club member!",
+            "NextIndex": "7",
+            "CustomType": "Cactolyte1",
+            "CustomArray": [
+                "Mining_Lv",
+                "32",
+                "GreaterEqual",
+                "0",
+                "Smithing_Lv:",
+                "35",
+                "GreaterEqual",
+                "0",
+                "Choppin'_Lv:",
+                "33",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "6",
+            "Rewards": ["PremiumGem", "50", "Timecandy4", "4"],
+            "QuestName": "Cactolyte1",
+            "Name": "Super Skillage",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "NO INVENTORY SPACE! NO PLS FIX!",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "SWEET SKILLAGE! BUT THATS NO TOP SKILLAGE YOU ARE NOT READY JUST YET!",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "OCEAN MURDER WATER STIRRING AND THE BUGGY ONE! THEY ARE THE OTHER SKILLS YOU NEED! @ QUEST:Get the required skill levels in Fishing Alchemy and Catching to impress Cactolyte club member!",
+            "NextIndex": "10",
+            "CustomType": "Cactolyte2",
+            "CustomArray": [
+                "Fishing_Lv",
+                "23",
+                "GreaterEqual",
+                "0",
+                "Alchemy:",
+                "25",
+                "GreaterEqual",
+                "0",
+                "Catching_Lv:",
+                "25",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "9",
+            "Rewards": ["Timecandy5", "1"],
+            "QuestName": "Cactolyte2",
+            "Name": "Top Skillage",
+            "Difficulty": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "NO INVENTORY SPACE! NO PLS FIX!",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "WOWOWOW!!! OK WOW! THATS SOME SUPER SKILLAGE! BUT I AM VERY SAD TOO SAD TO GIVE YOU NEW CLASS MEMBERSHIP. @ UNLESS... COULD YOU HELP ME?",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "I HAVE A PEANUT IT IS VERY OLD. IT WAS MY FIRST PEANUT... IT IS MY BEST FRIEND!! IT WILL DECAY TO DUST SOON PLEASE MAKE IT BETTER! @ QUEST:Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!",
+            "NextIndex": "13",
+            "ItemTypeReq": ["Quest48"],
+            "ItemNumReq": ["1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "12",
+            "Rewards": [
+                "ExpBalloon2",
+                "20",
+                "ExpBalloon2",
+                "10",
+                "ExpBalloon3",
+                "5"
+            ],
+            "QuestName": "Cactolyte3",
+            "Name": "Peanut De-Aging",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "NO INVENTORY SPACE! NO PLS FIX!",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "PETE!!! YAYYYYYY!!! OMG PETE YOU LOOK GOOD! @ ... GOOD ENOUGH TO EAT! @ NOM!!!!",
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "D: @ PETE NOOOO!!!!!! I DIDNT MEAN IT I DIDNT MEAN IT!!",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": " ",
+            "NextIndex": "17",
+            "CustomType": "Cactolyte4",
+            "CustomArray": ["Become_a_Maestro:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "16",
+            "Rewards": ["Trophy13", "1"],
+            "QuestName": "Cactolyte4",
+            "Name": "Maestro! The Stro! Mman!",
+            "Difficulty": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "UR BAG IS FULL! I NEED TO GIVE U NEW RANK TROPHY MAKE ROOM!",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "OH WELL AT LEAST PETE WAS TASTY! OH HEY YOURE A MAESTRO NOW COOL!!!",
+            "NextIndex": "17"
         }
     ],
     "Stiltzcho": [
@@ -2721,10 +2860,10 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST:Get a score of 42 in the Choppin Minigame.",
+            "DialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game you'd get mad respect from having a siiiick score to brag about! @ QUEST:Get a score of 35 in the Choppin Minigame.",
             "NextIndex": "8",
             "CustomType": "Funguy2",
-            "CustomArray": ["Choppin_Score:", "42", "GreaterEqual", "0"],
+            "CustomArray": ["Choppin_Score:", "35", "GreaterEqual", "0"],
             "ConsumeItems": "!1",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "7",
@@ -2941,7 +3080,7 @@
             "NoSpaceIndex": "12",
             "Rewards": ["ExpBalloon2", "1", "Experience0", "25000"],
             "QuestName": "Tiki Chief3",
-            "Name": "Blame it on the Goblins",
+            "Name": "Blame it on the Glublins",
             "Difficulty": "4"
         },
         {
@@ -3087,7 +3226,7 @@
             "ItemTypeReq": ["Quest17"],
             "ItemNumReq": ["25"],
             "ConsumeItems": "!1",
-            "InventorySpacesNeeded": "1",
+            "InventorySpacesNeeded": "2",
             "NoSpaceIndex": "15",
             "Rewards": ["NPCtoken13", "1", "Key1", "5"],
             "QuestName": "Dog Bone2",
@@ -3096,12 +3235,17 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Look I'm not actually over the whole 'dying' thing and it's been terribly annoying to continually help promote that darn boss monster especially since they were the one who ate me!",
+            "DialogueText": "You need 2 inventory spaces!",
             "NextIndex": "14"
         },
         {
             "Type": "None",
-            "DialogueText": "Ah are those from the boss? @ I mean they're cool and all but to be honest I'm sad I got eaten. Well thanks for helping anyway.",
+            "DialogueText": "Ah are those from the boss? @ I mean they're cool and all but to be honest I'm still sad I got eaten those rocks don't really help anything. Well thanks for helping anyway.",
+            "NextIndex": "16"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Keys... I think I gooOOooot some oooOOooon me somewhere lemme check.",
             "NextIndex": "16"
         }
     ],
@@ -3627,7 +3771,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
-            "DialogueText": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.",
+            "DialogueText": "You haven't gotten past this map yet either? Oh... Anyway can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.",
             "NextIndex": "5",
             "ItemTypeReq": ["Bug2"],
             "ItemNumReq": ["1500"],
@@ -3646,8 +3790,54 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Cool thanks a million! I'd add you as a friend but my friendslist is full sorry! @ Return Next Update!",
-            "NextIndex": "5"
+            "DialogueText": "Cool thanks a million! I'd add you as a friend but my friendslist is full sorry!",
+            "NextIndex": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Hey have you ever like tried to come up with your own thingies to do while fishing?",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Like um... one thing I do is I try to catch a certain fish a bunch in a row just to make the grind less boring.",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Cmon it's not weird try it yourself! @ QUEST:Catch 3 Hermit Cans in a row manually.",
+            "NextIndex": "10",
+            "CustomType": "Fishpaste972",
+            "CustomArray": ["Cans_In-a-row:", "3", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "9",
+            "Rewards": [
+                "NPCtoken22",
+                "1",
+                "Weight6",
+                "1",
+                "StampC18",
+                "1"
+            ],
+            "QuestName": "Fishpaste972",
+            "Name": "Can you do the Can Can?",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Full inventory gamer buddy! Please clear 2 inventory spaces and come talk to me again!",
+            "NextIndex": "8"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Ok wow that was actually super lame... huh... guess you don't really notice how weird the things you do really are.",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Shh I'm playing the minigame!!! Triple whale here I come!",
+            "NextIndex": "11"
         }
     ],
     "Scubidew": [
@@ -3694,12 +3884,12 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 7 fish in 2 minutes right here right now.",
+            "DialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 5 fish in 2 minutes right here right now.",
             "NextIndex": "7",
             "CustomType": "Scubidew2",
             "CustomArray": [
                 "Fish_Caught:",
-                "7",
+                "5",
                 "GreaterEqual",
                 "0",
                 "Time_Left:",
@@ -3732,8 +3922,42 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Well I ain't lettin' you do it! I.. WAIT NO DON'T CUT OFF MY QUESTLINE I WAS JUST GETTING STAR-- @ Return Next Update!",
-            "NextIndex": "9"
+            "DialogueText": "Well I ain't lettin' you do it! I.. WAIT NO RECODE ME TO BE A SUBSERVIENT PAWN LIKE ALL THE OTHER NPCS-- @ ... @ Greetings player! So nice to see you again!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Such a lovely day out the water sure is shimmering it's brightest today! Would you like a quest?",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "You would? Great! I have just the quest for you please get me 1 goldfish! @ QUEST:He's much better this way. I can't have too many free thinkers not in this world not in its current state. Get him a fish.",
+            "NextIndex": "13",
+            "ItemTypeReq": ["Fish1"],
+            "ItemNumReq": ["1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "12",
+            "Rewards": ["NPCtoken26", "1", "Experience4", "10000"],
+            "QuestName": "Scubidew3",
+            "Name": "A Normal Quest.",
+            "Difficulty": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "My friend your inventory is full! Please clear some space and talk with me again!",
+            "NextIndex": "11"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You did it! Congratulations! You're really good at this I'm impressed! We all are!",
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Thank you so much for the fish it's perfect! A perfect fish from a perfect ocean caught by a perfect player! Have a wonderful day friend I'll see you later! @ Return at Lv. 200",
+            "NextIndex": "14"
         }
     ],
     "Whattso": [
@@ -3801,8 +4025,70 @@
         },
         {
             "Type": "None",
-            "DialogueText": "T.T",
-            "NextIndex": "6"
+            "DialogueText": "O:",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "O: @ QUEST:Thats a good face I think! Do whatever you just did some more!",
+            "NextIndex": "9",
+            "CustomType": "Whattso3",
+            "CustomArray": ["Fishing_Score_Total:", "50", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "8",
+            "Rewards": [
+                "Weight12",
+                "1",
+                "NPCtoken18",
+                "1",
+                "Experience4",
+                "8000"
+            ],
+            "QuestName": "Whattso3",
+            "Name": "Bobbin' Bobbers",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "`-` @  I think they want to give you something but you're out of inventory space.",
+            "NextIndex": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "C: @ ",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "C: @ QUEST:The whale stares at you. He's too happy. You know what must be done.",
+            "NextIndex": "12",
+            "CustomType": "Whattso4",
+            "CustomArray": ["Catch_the_Whale:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "11",
+            "Rewards": [
+                "Line7",
+                "1",
+                "Quest46",
+                "1",
+                "Experience4",
+                "17500"
+            ],
+            "QuestName": "Whattso4",
+            "Name": "The Biggest Fish in the Sea...?",
+            "Difficulty": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "`-` @  I think they want to give you something but you're out of inventory space.",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "D:",
+            "NextIndex": "12"
         }
     ],
     "Postboy Pablob": [
@@ -3981,7 +4267,43 @@
         {
             "Type": "None",
             "DialogueText": "My packages arrived! You did real great partner. Lemme take a gander at them there completed forms of yours the ones with your signature on them just to make sure everythin's here... @ Alrighty then! Here's that signed fan letter of yours!",
-            "NextIndex": "16"
+            "NextIndex": "17"
+        },
+        {
+            "Type": "LevelReq",
+            "DialogueText": "Say theres somethin' bout you... you really are the adventurous type definitely remindin' me of my younger self thats fer sure. @ Why don't you come on back at Class Lv. 42 theres somethin' you'll wanna see.",
+            "NextIndex": "18",
+            "LevelReq": "42",
+            "LevelType": "0"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You see that weird door? That there's a Party Dungeon! I cant do it myself I'm retired from that sorta thing but it'd be perfect for you and your buddies!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Door wont open? You gotta find yourself one of them magic Sesame Seeds! They're a 1 in 100 drop from the mimics outside but only if you're actively farming! @ QUEST:Go get a Sesame Seed so you can play the party dungeon!",
+            "NextIndex": "21",
+            "ItemTypeReq": ["Quest45"],
+            "ItemNumReq": ["1"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "20",
+            "Rewards": ["NPCtoken16", "1"],
+            "QuestName": "Bandit Bob4",
+            "Name": "The Desert Dungeon Prequest",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!",
+            "NextIndex": "19"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Yep that's the seasme seed alright! Drop it at the door and go get some loot! @ NOTE FROM DEVELOPER: The party dungeon isn't quite ready yet but I'm working on it right now! It'll be full of monsters that you'll actually fight WITH your friends as well as puzzles and other fun things!",
+            "NextIndex": "21"
         }
     ],
     "Carpetiem": [
@@ -4007,7 +4329,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Fer cryin' out loud I heard they've got them vidya games playin' themselves now 'stead of playin' the game themself! And even worse some of 'em arr makin' games for a livin I mean talk about not doin' any real work!",
+            "DialogueText": "Fer cryin' out loud I heard they've got them vidya games playin' themselves now! And even worse some of 'em ar makin' games for a livin I mean talk about not doin' any real work!",
             "NextIndex": "5"
         },
         {
@@ -4048,7 +4370,7 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
+            "DialogueText": "It's such a travesty what loser Lava'Lame'2 has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
             "NextIndex": "11",
             "CustomType": "Carpetiem2",
             "CustomArray": [
@@ -4112,13 +4434,44 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matchers weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a to... @ 'Carpentiem continues talking for 110 rounds'",
+            "DialogueText": "Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matches weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a... @ 'Carpentiem continues talking for 110 rounds'",
             "NextIndex": "16"
         },
         {
             "Type": "None",
-            "DialogueText": "... and that's how LavaFlame2 changed my dialogue because he didn't have enough time before release day to finish the Desert's Main Questline!",
-            "NextIndex": "16"
+            "DialogueText": "... anyway that's how I ended up all red like this even though Scrippius and I were born identical twins! @ Well sir guess theres just one more thing I wantya to do and I'll feel like ya helped me 100 times over!",
+            "NextIndex": "17"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Looky here I'm gettin' pretty old... and I'm startin' to regret spending so much time bitter toward that darn younger generation! Can ya tell help bridge the gap between us? @ QUEST:Say 'The boomer aint so bad' to 30 different players.",
+            "NextIndex": "19",
+            "CustomType": "Carpetiem4",
+            "CustomArray": ["Players_spoken_to:", "30", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "18",
+            "Rewards": [
+                "NPCtoken20",
+                "1",
+                "Weight2",
+                "1",
+                "Line2",
+                "1"
+            ],
+            "QuestName": "Carpetiem4",
+            "Name": "Helping 100 times over",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!",
+            "NextIndex": "17"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Thanks a million ya did it! Me and them Zoomer generation are great friends now they even include me in their Ticky Tocky shenanigans it's great fun! @ Now get off my lawn ya darn millenial!",
+            "NextIndex": "19"
         }
     ],
     "Djonnut": [
@@ -4137,7 +4490,7 @@
             "DialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! @ QUEST:Collect some very blue thingies for this very blue dude",
             "NextIndex": "4",
             "ItemTypeReq": ["FoodPotMana2", "FoodMining1", "Fish3"],
-            "ItemNumReq": ["500", "1000", "400"],
+            "ItemNumReq": ["200", "600", "150"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "3",
@@ -4192,12 +4545,61 @@
         {
             "Type": "None",
             "DialogueText": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!",
-            "NextIndex": "9"
+            "NextIndex": "11"
         },
         {
             "Type": "None",
             "DialogueText": "Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!",
+            "NextIndex": "10"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!",
             "NextIndex": "8"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Friend can you do one more thing for me yes?",
+            "NextIndex": "12"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "I have heard of this... World Three. It is blue right?",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "How I would love to see this blue world. I would of be so happy but no I must remain here. Please player please help me see the blue world! @ QUEST:He's blue nuff said.",
+            "NextIndex": "15",
+            "ItemTypeReq": ["SnowA2", "SnowB1", "SnowB2"],
+            "ItemNumReq": ["2500", "2500", "2500"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "14",
+            "Rewards": ["Key2", "5", "NPCtoken25", "1"],
+            "QuestName": "Djonnut3",
+            "Name": "The Blue New World",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "So blue never niiice! Very... cool! Bwahaha I am apologize I had to I had to.",
+            "NextIndex": "17"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!",
+            "NextIndex": "17"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!",
+            "NextIndex": "16"
         }
     ],
     "Goldric": [
@@ -4380,9 +4782,49 @@
             "NextIndex": "22"
         },
         {
+            "Type": "LevelReq",
+            "DialogueText": "Well hows about you come back later? I grow weary of this chitchat there's not much of an ROI on it after all! @ Return at Class Lv. 61.",
+            "NextIndex": "23",
+            "LevelReq": "61",
+            "LevelType": "0"
+        },
+        {
             "Type": "None",
-            "DialogueText": "Well hows about you come back later? I grow weary of this chitchat there's not much of an ROI on it after all!",
-            "NextIndex": "22"
+            "DialogueText": "Aha! My minstrel has returned and with what timing! I just got some sheepies imported from the Frostbite Tundra express shipping of course!",
+            "NextIndex": "24"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "You mustn't harm my precious sheepies! They are very VERY expensive! Now then dispose of those sandcastles! @ QUEST:Defeat all sandcastle monsters without hurting the sheepies.",
+            "NextIndex": "26",
+            "CustomType": "Goldric6",
+            "CustomArray": [
+                "Defeat_Sandcastles:",
+                "18",
+                "GreaterEqual",
+                "0",
+                "Dont_Hurt_Sheep:",
+                "6",
+                "GreaterEqual",
+                "6"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "25",
+            "Rewards": ["NPCtoken21", "1", "Timecandy5", "1"],
+            "QuestName": "Goldric6",
+            "Name": "Dont lay a finger on my Sheepies!!!",
+            "Difficulty": "4"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!",
+            "NextIndex": "24"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Bwahahaha!!! What a hoot! @ Ok I'm bored. Ta-ta! @ That means get lost in rich-speak.",
+            "NextIndex": "26"
         }
     ],
     "Omar Da Ogar": [
@@ -4535,7 +4977,7 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "Now come over here or no one will believe that I was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
+            "DialogueText": "Now come over here or no one will believe that it was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
             "NextIndex": "11",
             "CustomType": "Snake Jar3",
             "CustomArray": [
@@ -4571,7 +5013,58 @@
         {
             "Type": "None",
             "DialogueText": "Hmm I ssssuppose I'll have to asssk the next player I see to prepare themsssselves medium rare... your sssspecies is a bit tough for my tassstes.",
-            "NextIndex": "11"
+            "NextIndex": "12"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "...",
+            "NextIndex": "13"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "... ...",
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "... ... ...",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "... ... ... ... that'sssss enough waiting where are the other playerssss??",
+            "NextIndex": "16"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Go get me ssssomeone else to eat and make ssssure they're a total noob ssso I can ssswallow them whole! @ QUEST:Lure another player to Snakejar's platform and have them say 'Im a total noob'.",
+            "NextIndex": "18",
+            "CustomType": "Snake Jar4",
+            "CustomArray": ["Other_players_lured:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "17",
+            "Rewards": [
+                "NPCtoken17",
+                "1",
+                "Timecandy1",
+                "3",
+                "PremiumGem",
+                "10"
+            ],
+            "QuestName": "Snake Jar4",
+            "Name": "A Noob, served Medium Rare!",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You have no sssspace! Please clear 3 spaces for these itemssss.",
+            "NextIndex": "16"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "MMMMmmmm what a juicy noob that was! The dumb ones are alwayssss the most ssssucculent!",
+            "NextIndex": "18"
         }
     ],
     "Loominadi": [
@@ -4623,10 +5116,10 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 30 Vials up to light-blue rarity or higher",
+            "DialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 13 Vials up to light-blue rarity or higher",
             "NextIndex": "8",
             "CustomType": "Loominadi2",
-            "CustomArray": ["Blue_Alch_Vials:", "30", "GreaterEqual", "0"],
+            "CustomArray": ["Blue_Alch_Vials:", "13", "GreaterEqual", "0"],
             "ConsumeItems": "!1",
             "InventorySpacesNeeded": "1",
             "NoSpaceIndex": "7",
@@ -4649,37 +5142,87 @@
         },
         {
             "Type": "None",
-            "DialogueText": "The deed done hope you had fun! But you run free and leave me be where sun I cant see!",
+            "DialogueText": "The deed done hope you had fun! But you must run free and leave me be where the sun I cannot see!",
             "NextIndex": "9"
         },
         {
             "Type": "None",
-            "DialogueText": "My head keep spinning around and around. It won't stop until you go underground never to be found!",
+            "DialogueText": "My head keeps spinning around and around. It won't stop until you go underground never to be found!",
             "NextIndex": "10"
         },
         {
             "Type": "Custom",
-            "DialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Slip Slidy Ledge mining area",
+            "DialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Ol' Straightaway mining area with Plat and Dementia ore.",
             "NextIndex": "12",
             "CustomType": "Loominadi3",
-            "CustomArray": ["Slip_Slidy_Ledge:", "1", "GreaterEqual", "0"],
+            "CustomArray": ["Reach_Ol'_Straightaway:", "1", "GreaterEqual", "0"],
             "ConsumeItems": "!1",
-            "InventorySpacesNeeded": "1",
+            "InventorySpacesNeeded": "3",
             "NoSpaceIndex": "11",
-            "Rewards": ["StoneZ1", "5", "PremiumGem", "15"],
+            "Rewards": [
+                "StoneZ2",
+                "5",
+                "PremiumGem",
+                "15",
+                "Quest37",
+                "2"
+            ],
             "QuestName": "Loominadi3",
             "Name": "Journey to the Center of the Blundermines",
             "Difficulty": "5"
         },
         {
             "Type": "None",
-            "DialogueText": "You have full inventory is this end of story?",
+            "DialogueText": "You have a full inventory is this end of the story?",
             "NextIndex": "10"
         },
         {
+            "Type": "LevelReq",
+            "DialogueText": "Oowee I've got more to say just not today! @ Return at Lv. 70",
+            "NextIndex": "13",
+            "LevelReq": "70",
+            "LevelType": "0"
+        },
+        {
             "Type": "None",
-            "DialogueText": "Oowee I've got more to say just not today!",
-            "NextIndex": "12"
+            "DialogueText": "While you were gone I had a vision so strong... and realized I had it all wrong!",
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "There is a secret portal with a secret key! Unseen by any mere mortal it eluded even me!",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "It must be found out. My status as the most secret is in doubt... a status I cannot live without! @ QUEST:Find the biggest secret in all of YumYum Desert and defeat it.",
+            "NextIndex": "17",
+            "CustomType": "Loominadi4",
+            "CustomArray": ["Secret_Boss_Defeated:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "16",
+            "Rewards": [
+                "NPCtoken24",
+                "1",
+                "Weight8",
+                "1",
+                "Timecandy5",
+                "1"
+            ],
+            "QuestName": "Loominadi4",
+            "Name": "The Mummy of Mystery",
+            "Difficulty": "7"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You have full inventory is this end of your story?",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Vanquished at last boy that was fast! That iconoclast mummy has passed I forecast that my status will now go unsurpassed! Thank you player this was really great... an absolute blast!",
+            "NextIndex": "17"
         }
     ],
     "Wellington": [
@@ -4700,7 +5243,7 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
+            "DialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Grandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
             "NextIndex": "5",
             "CustomType": "Wellington1",
             "CustomArray": [
@@ -4800,7 +5343,43 @@
         {
             "Type": "None",
             "DialogueText": "One day... one day I'll find them! I dare say old sport they can't hide forever! After all sooner or later someone will update the Wiki with a full walkthrough on how to find them!",
-            "NextIndex": "13"
+            "NextIndex": "14"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "... but I think we've done our part lets change course here. How about a simple maths puzzle? Get our minds off of that devious blobulyte what do you think?",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Right-o! Here's the puzzle: @ Square the number of letters in your character's name. For example 'Koala2' would be 6x6=  36. Kill sand giants until there are exactly 'that' many items on the ground and talk to me! If you get it wrong I'll remove ALL items in the map! @ QUEST:Do the puzzle!",
+            "NextIndex": "17",
+            "CustomType": "Wellington4",
+            "CustomArray": ["Puzzle_Complete:", "1", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "16",
+            "Rewards": [
+                "NPCtoken23",
+                "1",
+                "TalentBook1",
+                "3622100",
+                "ExpBalloon3",
+                "3"
+            ],
+            "QuestName": "Wellington4",
+            "Name": "Puzzles and Math, a Winning Combination!",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Please my good man show some respect! My prizes for completing the quest are well worth keeping you are very mistaken to not have 3 open inventory spaces!",
+            "NextIndex": "15"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Top stuff my man! Brilliantly solved! I must be getting back to my adventure now as you to yours... cheerio!",
+            "NextIndex": "17"
         }
     ],
     "Dazey": [
@@ -4821,7 +5400,7 @@
         },
         {
             "Type": "ItemsAndSpaceRequired",
-            "DialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
+            "DialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.",
             "NextIndex": "5",
             "ItemTypeReq": ["ForestTree", "Quest41"],
             "ItemNumReq": ["1000", "5"],
@@ -4874,7 +5453,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Ok new plan. Get two balls... no not THOSE balls you doorknob like actual circular balls. I remember this from class the other week. @ If you hold one ball right above the other and drop them both the top ball bounces BIG TIME!",
+            "DialogueText": "Clear up 2 inventory spaces... like cmon seriously how do you keep forgetting this? I'm like the 12th NPC youve run into probably I swear you gamers never lear... @ 'Dazey continues to blow your tiny mistake out of proportion for a while longer'",
             "NextIndex": "9"
         },
         {
@@ -5281,7 +5860,7 @@
         },
         {
             "Type": "Custom",
-            "DialogueText": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist.",
+            "DialogueText": "Supposin' you aint really innerested in that last part there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.",
             "NextIndex": "52",
             "CustomType": "Cowbo Jones13",
             "CustomArray": ["Geezers_Helped:", "100", "GreaterEqual", "0"],
@@ -5292,6 +5871,95 @@
             "QuestName": "Cowbo Jones13",
             "Name": "Oh No, not the Elderly!",
             "Difficulty": "6"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!",
+            "NextIndex": "50"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "That'll just about do it! @ Wait... did you say the old geezer's name was... Carpetiem?? @ No no no no!! He's the oldest most crankiest old person! Helping him is like helping 100 old people!",
+            "NextIndex": "53"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Ya went too far! Now were TOO good! I swore on me grandcacti's life I'd never end up a goody two shoes... We gotta go back to crime to balance this out!",
+            "NextIndex": "54"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "I got me an idea... there's a tomb way out in them Twilighty Desert dunes. It's home to the old Sultan a big dang elephant called Efaunt. You know what to do. @ QUEST:Raid Efaunt's tomb and steal his crystal.",
+            "NextIndex": "56",
+            "CustomType": "Cowbo Jones14",
+            "CustomArray": [
+                "Efaunt_Defeated:",
+                "1",
+                "GreaterEqual",
+                "0",
+                "Crystal_Stolen:",
+                "1",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "3",
+            "NoSpaceIndex": "55",
+            "Rewards": [
+                "Timecandy5",
+                "1",
+                "ObolSilverEXP",
+                "1",
+                "NPCtoken19",
+                "1"
+            ],
+            "QuestName": "Cowbo Jones14",
+            "Name": "Tomb Raid",
+            "Difficulty": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!",
+            "NextIndex": "54"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You got the crystal? @ ... @ ... @ STICK EM UP!",
+            "NextIndex": "57"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "FINALLY I CAN GET TO WORLD 3 AND DITCH THIS DANG DESERT! @ Just gotta walk myself over to ya and pickpocket the crystal. @ Oh... right. I got no legs.",
+            "NextIndex": "58"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Well guess it just ain't meant to be. I hate this darn place I wish I wasnt the Sherrif... @ Hang on a tick!",
+            "NextIndex": "59"
+        },
+        {
+            "Type": "ItemsAndSpaceRequired",
+            "DialogueText": "Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.",
+            "NextIndex": "61",
+            "ItemTypeReq": ["BadgeD1", "BadgeD2", "BadgeD3"],
+            "ItemNumReq": ["1", "1", "1"],
+            "ConsumeItems": "!0",
+            "InventorySpacesNeeded": "1",
+            "NoSpaceIndex": "60",
+            "Rewards": ["Trophy11", "1"],
+            "QuestName": "Cowbo Jones15",
+            "Name": "The New Sheriff",
+            "Difficulty": "9"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!",
+            "NextIndex": "59"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Go git 'er dun new Sheriff! YeeeeHAW!!!",
+            "NextIndex": "61"
         }
     ],
     "Typhoon": [
@@ -6025,25 +6693,25 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death! Why dontcha come back a bit later then eh?",
-            "NextIndex": "1"
+            "DialogueText": "Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death!",
+            "NextIndex": "2"
         },
         {
             "Type": "ItemsAndSpaceRequired",
-            "DialogueText": "Hopefully Lava will change my dialogue before release!",
+            "DialogueText": "If ya really wanna take on my tasks ya gotta bring me back some frosty flake melty cubes! @ QUEST:Go defeat Frost Flakes past the Sheepies and collect their cool shapes!",
             "NextIndex": "4",
             "ItemTypeReq": ["SnowA2"],
-            "ItemNumReq": ["1"],
+            "ItemNumReq": ["250"],
             "ConsumeItems": "!0",
             "InventorySpacesNeeded": "3",
             "NoSpaceIndex": "3",
             "Rewards": [
                 "PremiumGem",
-                "69",
-                "Timecandy4",
+                "25",
+                "Timecandy3",
                 "1",
                 "Timecandy1",
-                "4"
+                "2"
             ],
             "QuestName": "Iceland Irwin1",
             "Name": "Crikey, it's cold out!",
@@ -6056,7 +6724,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Alrighty then mate! You're lookin' ready to weather the ol' tundra outback come on over and I'll show you me tasks!",
+            "DialogueText": "Right-o then mate! If ya go those without keelin' over surely no simple colds gonna stop ya! Go get those tasks!",
             "NextIndex": "9999"
         }
     ],
@@ -6490,7 +7158,7 @@
         },
         {
             "Type": "None",
-            "DialogueText": "Great hand them over. OW! Stupid little     stung me! ",
+            "DialogueText": "Great hand them over. OW! Stupid little    stung me! ",
             "NextIndex": "16"
         },
         {
@@ -6774,6 +7442,75 @@
             "Type": "None",
             "DialogueText": "I'm stuck...",
             "NextIndex": "15"
+        }
+    ],
+    "Coastiolyte": [
+        {
+            "Type": "None",
+            "DialogueText": "Yoooo summer break bro! Whats up!!",
+            "NextIndex": "1"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Three weeks of hangin' around and getting sick-as rewards! This is the LIFE!",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "Cmon bro go get yourself some of that summer action!! I wanna see you opening those coolers like no other! @ QUEST:Crack open some Coolers with the lads!",
+            "NextIndex": "4",
+            "CustomType": "Coastiolyte1",
+            "CustomArray": ["Open_Summer_Coolers:", "12", "GreaterEqual", "0"],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "3",
+            "Rewards": ["Quest49", "20", "Quest50", "10"],
+            "QuestName": "Coastiolyte1",
+            "Name": "Cooler than a Cooler!",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Full inventory bro! Make some space!",
+            "NextIndex": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Man leave some coolers for the rest of us haha! Thats was totally tops dude.",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "Custom",
+            "DialogueText": "But dang there sure are a lot of newbies harshin' the vibe this year... can you get rid of them? @ QUEST: Clear the beach of all these 'Out of Towner' monsters",
+            "NextIndex": "7",
+            "CustomType": "Coastiolyte2",
+            "CustomArray": [
+                "Defeat_Plasti_Dougs:",
+                "12",
+                "GreaterEqual",
+                "0",
+                "Defeat_Mr._Blueberrys:",
+                "5",
+                "GreaterEqual",
+                "0"
+            ],
+            "ConsumeItems": "!1",
+            "InventorySpacesNeeded": "2",
+            "NoSpaceIndex": "6",
+            "Rewards": ["Quest49", "30", "Quest50", "10"],
+            "QuestName": "Coastiolyte2",
+            "Name": "Vibe Check",
+            "Difficulty": "2"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Full inventory bro! Make some space!",
+            "NextIndex": "5"
+        },
+        {
+            "Type": "None",
+            "DialogueText": "Yooo now its a party! @ Pfft cmon don't be down about it bro it's Summer Break! We don't worry about the underlying morals and themes behind quests around here we just have fun!",
+            "NextIndex": "7"
         }
     ],
     "FillerNPC": [

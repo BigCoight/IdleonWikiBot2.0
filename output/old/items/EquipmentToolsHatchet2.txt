@@ -3,6 +3,7 @@
 |level=25
 |skill=choppin
 |type=Hatchet
+|speed=4
 |skillpower=14
 |wis=8
 |luck=4
@@ -21,9 +22,6 @@
 |resource2=Crabby Cakey|quantity2=2000
 |resource3=Iron Hatchet|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Plat Hatchet]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Dubloon|5}}

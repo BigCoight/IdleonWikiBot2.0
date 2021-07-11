@@ -3,11 +3,12 @@
 |level=8
 |skill=mining
 |type=Pickaxe
+|speed=3
 |skillpower=6
 |str=3
 |upgrade=2
 |sellprice=241
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -15,7 +16,7 @@
 |craftnum=9
 |levelreq=3
 |expgiven=10
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=13
 |resource2=Frog Leg|quantity2=30
 }}

@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Taurus
-|mmm=Chapman
-|birthweight=4.24
+|starsign=Leo
+|mmm=Wagner
+|birthweight=9.69
 |notes=fillme
 }}
 {{Quest/head}}

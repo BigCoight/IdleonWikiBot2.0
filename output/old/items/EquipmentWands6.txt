@@ -23,9 +23,6 @@
 |resource2=Fruitfly|quantity2=4000
 |resource3=Starlight|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Spriggly Storm]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Plop|3}}
@@ -40,7 +37,7 @@
 {{detrecipe/totals|Golden Plop|3}}
 {{detrecipe/totals|Fruitfly|4000}}
 {{detrecipe/totals|Chain Link|2000}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Copper Bar|600}}
-{{detrecipe/totals|Distilled Water|16}}
 }}

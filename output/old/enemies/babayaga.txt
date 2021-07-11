@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Crystal Cattle|Dr Defecaus}}
+{{DropTable/head}}
 {{DropTable/coin|800|1}}
 {{DropTable/card|0.03}}
 {{DropTable/row|Baba Yaga Baby Eggs|0.006|1}}

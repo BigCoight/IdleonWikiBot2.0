@@ -8,7 +8,7 @@
 |upgrade=2
 |defence=11
 |sellprice=11065
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,13 +16,10 @@
 |craftnum=35
 |levelreq=14
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Iron Bar|quantity1=170
 |resource2=Boring Brick|quantity2=225
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinum Shins]]|6|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|170}}

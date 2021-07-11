@@ -1,13 +1,14 @@
 {{InfoItem
 |class=All
 |level=1
+|skill=worship
 |type=Worship Skull
-|weaponpower=4
+|speed=4
+|skillpower=4
 |wis=2
 |upgrade=1
 |sellprice=5000
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
-|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Frostbite Towndra|stock=99|buyprice=20000}}

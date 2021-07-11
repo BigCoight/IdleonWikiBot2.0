@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|4000|Quests}}
-{{usedin/row|[[Alchemy#Vials|Bunny Brew]]|Lots|Alchemy}}
-|}

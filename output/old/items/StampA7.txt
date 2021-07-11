@@ -10,6 +10,3 @@
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.00005|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|3|Quests}}
-|}

@@ -1,8 +1,10 @@
 {{InfoItem
 |class=All
 |level=30
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=20
+|speed=4
+|skillpower=20
 |agi=10
 |upgrade=2
 |sellprice=17015
@@ -19,9 +21,6 @@
 |resource2=Redox Salts|quantity2=50
 |resource3=Wooden Traps|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Steel Traps]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Nakeo Moleo|5}}

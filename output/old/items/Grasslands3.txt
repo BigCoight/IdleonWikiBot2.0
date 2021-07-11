@@ -8,12 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.20|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Flip Flops]]|30|Crafting}}
-{{usedin/row|[[Cramped Material Pouch]]|30|Crafting}}
-{{usedin/row|[[Copper Helmet]]|50|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Dieter Drink]]|Lots|Alchemy}}
-|}

@@ -11,10 +11,3 @@
 {{detdrops|[[Chizoar]]|0.3|1}}
 {{detdrops|[[Chaotic Chizoar]]|0.4|3}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Helmet]]|20|Crafting}}
-{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
-{{usedin/row|[[Efaunt Hipilium]]|7|Crafting}}
-{{usedin/row|[[Efaunts Broken Ankles]]|5|Crafting}}
-{{usedin/row|[[Efaunt Trunculus]]|15|Crafting}}
-|}

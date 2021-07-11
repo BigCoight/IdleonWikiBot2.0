@@ -2,7 +2,7 @@
 |title=Froge
 |order=12
 |category=Medium Resources
-|effect=+{% Shiny Critter Chance
+|effect=+% Shiny Critter Chance
 |bonus=3
 |reqtier=4
 }}

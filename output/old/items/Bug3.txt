@@ -9,9 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.4|125}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Platinum Shins]]|500|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Bug]]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Le Brain Tools]]|Lots|Alchemy}}
-|}

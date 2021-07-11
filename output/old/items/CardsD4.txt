@@ -1,8 +1,12 @@
 {{InfoCard
 |title=Lustre Ore
-|order=8
-|category=Medium Resources
-|effect=+{ Base LUK
+|order=0
+|category=Hard Resources
+|effect=+ Base LUK
 |bonus=4
 |reqtier=10
+|source=[[Mining#Drops|Mining Lustre]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.00006|1}}
+|}

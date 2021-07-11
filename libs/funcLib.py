@@ -6,7 +6,7 @@ import re
 
 def unScience(val):
     if val:
-        if '.' in val:
+        if "." in val:
             return val
         else:
             try:
@@ -19,26 +19,27 @@ def unScience(val):
 def repU(val, preserveCapitilization=False):
     try:
         if preserveCapitilization:
-            return val.replace('|', ' ').replace('_', ' ')
+            val = val.replace("_|", " ")
+            return val.replace("|", " ").replace("_", " ")
         else:
-            return val.replace('|', ' ').replace('_', ' ').title()
+            return val.replace("|", " ").replace("_", " ").title()
     except:
         return val
 
 
 def camelCaseSplitter(string):
-    return re.sub('([A-Z][a-z]+)', r' \1', re.sub('([A-Z]+)', r' \1', string)).split()
+    return re.sub("([A-Z][a-z]+)", r" \1", re.sub("([A-Z]+)", r" \1", string)).split()
 
 
 def nameDic(name):
-    res = ''
-    with open(fr'./output/modified/json/Items.json', mode='r') as jsonFile:
+    res = ""
+    with open(fr"./output/modified/json/Items.json", mode="r") as jsonFile:
         items = json.load(jsonFile)
         nameDic = {name: item["displayName"] for name, item in items.items()}
         res = nameDic.get(name)
     if res:
         return res
-    with open(fr'./output/modified/json/Enemies.json', mode='r') as jsonFile:
+    with open(fr"./output/modified/json/Enemies.json", mode="r") as jsonFile:
         enemies = json.load(jsonFile)
         nameDic = {name: enemy["Name"] for name, enemy in enemies.items()}
         res = nameDic.get(name)
@@ -48,39 +49,38 @@ def nameDic(name):
 
 
 def nameDicR(val):
-    with open('./input/raw/Names.csv', mode='r') as infile:
+    with open("./input/raw/Names.csv", mode="r") as infile:
         reader = csv.reader(infile)
-        res = {rows[1].lstrip().replace('|', "_").replace(
-            '_', ' '): rows[0].lstrip() for rows in reader}
-    return res.get(val.lstrip().replace('|', "_").replace('_', ' '), val)
+        res = {rows[1].lstrip().replace("|", "_").replace("_", " "): rows[0].lstrip() for rows in reader}
+    return res.get(val.lstrip().replace("|", "_").replace("_", " "), val)
 
 
 def enemyInternal():
-    with open('./input/raw/rawMapEnemies.txt', mode='r') as inMapEnemies:
+    with open("./input/raw/rawMapEnemies.txt", mode="r") as inMapEnemies:
         MapEnemies = inMapEnemies.readlines()
-    return [x.replace('_', ' ').replace('\n', '') for x in MapEnemies if x != '\n']
+    return [x.replace("_", " ").replace("\n", "") for x in MapEnemies if x != "\n"]
 
 
 def alchVials():
-    with open('./input/raw/rawVialData.txt', mode='r') as inVials:
+    with open("./input/raw/rawVialData.txt", mode="r") as inVials:
         Vials = inVials.readlines()
-    return [x.title().replace('_', ' ').replace('\n', '') for x in Vials if x != '\n']
+    return [x.title().replace("_", " ").replace("\n", "") for x in Vials if x != "\n"]
 
 
 def mapName():
-    with open('./input/raw/rawMapNames.txt', mode='r') as inMapNames:
+    with open("./input/raw/rawMapNames.txt", mode="r") as inMapNames:
         mapNames = inMapNames.readlines()
-    return [x.replace('_', ' ').replace('\n', '') for x in mapNames if x != '\n']
+    return [x.replace("_", " ").replace("\n", "") for x in mapNames if x != "\n"]
 
 
 def nameToMap():
     res = {}
     for i in range(len(mapName())):
         if enemyInternal()[i] in res.keys():
-            temp = enemyInternal()[i] + '2'
+            temp = enemyInternal()[i] + "2"
         else:
             temp = enemyInternal()[i]
-        res[temp] = mapName()[i].replace('_', " ")
+        res[temp] = mapName()[i].replace("_", " ")
     return res
 
 
@@ -111,10 +111,10 @@ def stampTypeID(val):
 def fix(val, replaceNull=[], repU=False):
     if val:
         for rep in replaceNull:
-            val = val.replace(rep, '')
+            val = val.replace(rep, "")
         if repU:
-            val = val.replace('_', ' ')
-            if val[0] != '|':
-                val = val.replace('|', ' ')
+            val = val.replace("_", " ")
+            if val[0] != "|":
+                val = val.replace("|", " ")
         return unScience(val.lstrip().rstrip())
     return unScience(val)

@@ -1,4 +1,5 @@
 import json
+from re import T
 from libs.funcLib import repU
 import os
 from random import choice, randint
@@ -185,7 +186,7 @@ def getHead(name):
         with open(rf"./output/notes/npcheads/{name}.txt", mode="r") as infile:
             return infile.read()
     infoNpc = "{{npc\n"
-    intToWiki = {"location": "fillme", "noquests": "fillme", "repeatable": "Unknonwn", "starsign": doStarsign, "mmm": doMMM, "birthweight": doBirthweight, "notes": "fillme"}
+    intToWiki = {"location": "fillme", "world": "fillme", "noquest": "fillme", "repeatable": "Unknonwn", "starsign": doStarsign, "mmm": doMMM, "birthweight": doBirthweight, "notes": "fillme"}
 
     for wiki, atr in intToWiki.items():
         if isinstance(atr, str):
@@ -284,7 +285,10 @@ def checkOld(cat, fn, check):
         oldCheck = infile.read().split("{{Quest/head}}")
         newCheck = check.split("{{Quest/head}}")
         if len(oldCheck) > 1 and len(newCheck) > 1:
-            return oldCheck[1] == newCheck[1]
+            toCheckOld = [x for x in oldCheck[1].split("\n") if x[:7] != "|notes="]
+            toCheckNew = [x for x in newCheck[1].split("\n") if x[:7] != "|notes="]
+            return toCheckOld == toCheckNew
+        print("BROKEY")
 
 
 def main(OLD, UPLOAD):
@@ -309,10 +313,17 @@ def main(OLD, UPLOAD):
                 wikiPage = Page(website, name)
                 wikiPage.text = npc
                 wikiPage.save("Coights API")
+                writeOLD("npcs", name, npc)
+            else:
+                print("          old", name)
+    else:
+        for name, npc in allNpcs.items():
+            if checkOld("npcs", name, npc) == False:
+                print("New", name)
             else:
                 print("          old", name)
 
 
 if __name__ == "__main__":
-    main(False, False)
+    main(False, True)
 

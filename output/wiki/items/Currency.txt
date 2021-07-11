@@ -1,3 +1,186 @@
+Woodsman Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of the Woodsman's quests! Hold down to add to your token bag found in Storage Info. Open items, look at the top left.
+|sellprice=700
+|source=[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]
+|notes= 
+}}
+Glumlee Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Glumlee's quests! Hold down to add to your token bag found in Storage Info. Open items, look at the top left.
+|sellprice=700
+|source=[[Glumlee#He's Havin' a Bad Day|He's Havin' a Bad Day]]
+|notes= 
+}}
+Stiltzcho Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Stiltzcho's main quests! Hold down to add to your token bag found in Storage Info. Open items, look at the top left.
+|sellprice=700
+|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]]
+|notes= 
+}}
+Funguy Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Funguy's quests! Hold down to add to your token bag found in Storage Info. Open items, look at the top left.
+|sellprice=1500
+|source=[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]
+|notes= 
+}}
+Krunk Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Krunk's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=1500
+|source=[[Krunk]]
+|notes=You must complete all of [[Krunk]]'s quests and talk to him after reaching Mining level 20 in order to receive the token, which falls on the ground. He says 33 at first but it's actually 20.
+}}
+Tiki Chief Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Tiki Chief's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=1500
+|source=[[Tiki Chief#Hotel? Tikivago. Sorry, couldn't Help It!|Hotel? Tikivago. Sorry, couldn't Help It!]]
+|notes= 
+}}
+Dog Bone Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Dog Bone's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Dog Bone#Bow Wow going Dow..n!|Bow Wow going Dow..n!]]
+|notes= 
+}}
+Papua Piggea Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Papua Piggea's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=700
+|source=[[Papua Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]]
+|notes= 
+}}
+Picnic Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you were able to feed a blobulyte all day. If you bring 30 of these to the Picnic Stowaway, you'll get a Trophy! Hold down to add to your token bag
+|sellprice=1
+|source=[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]
+|notes= 
+}}
+TP Pete Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of TP Pete's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[TP Pete]]
+|notes=You must complete all of [[TP Pete]]'s quests and talk to him after reaching Class Level 70 in order to receive the token, which falls on the ground.
+}}
+Sproutinald Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Sproutinald's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]
+|notes= 
+}}
+Dazey Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Dazey's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Dazey#Literally Physics|Literally Physics]]
+|notes= 
+}}
+Bandit Bob Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Bandit Bob's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Bandit Bob#The Desert Dungeon Prequest|The Desert Dungeon Prequest]]
+}}
+Snake Jar Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Snake Jar's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Snake Jar#A Noob, served Medium Rare!|A Noob, served Medium Rare!]]
+}}
+Whattso Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Whattso's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Whattso#Bobbin' Bobbers|Bobbin' Bobbers]]
+}}
+Cowbo Jones Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Cowbo Jones's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Cowbo Jones#Tomb Raid|Tomb Raid]]
+}}
+Carpetiem Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Carpetiem's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Carpetiem#Helping 100 times over|Helping 100 times over]]
+}}
+Goldric Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Goldric's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Goldric#Dont lay a finger on my Sheepies!!!|Dont lay a finger on my Sheepies!!!]]
+}}
+Cattleprod Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that Cattleprod is a little brat of a pig... like, he seriously went and SOLD his own token to the store???
+|sellprice=155000
+|source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
+}}
+{{Vendoritem/head}}
+{{Vendoritem/tablerow|number=11|vendor=Faraway Piers|stock=1|buyprice=620000}}
+|}
+Fishpaste Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Fishpaste's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Fishpaste97#Can you do the Can Can?|Can you do the Can Can?]]
+}}
+Loominadi Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Loominadi's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Loominadi#The Mummy of Mystery|The Mummy of Mystery]]
+}}
+Djonnut Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Djonnut's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Djonnut#The Blue New World|The Blue New World]]
+}}
+Scubidew Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of  Scubidew's quests! Well, most of  them, at least.  Hold down to add to your token pouch found in Storage Info.
+|sellprice=4000
+|source=[[Scubidew#A Normal Quest.|A Normal Quest.]]
+}}
+Wellington Token
+{{InfoItem
+|type=Quest Item
+|description=Proof that you completed all of Wellington's quests! Hold down to add to your token bag found in Storage Info.
+|sellprice=4000
+|source=[[Wellington#Puzzles and Math, a Winning Combination!|Puzzles and Math, a Winning Combination!]]
+}}
 Forest Villa Key
 {{InfoItem
 |type=Boss Key
@@ -16,7 +199,7 @@ Efaunt's Tomb Key
 |type=Boss Key
 |description=Hold down to add these Desert Boss Keys to your account.
 |sellprice=50
-|source=[[King Doot]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Djonnut#I'm Blue Dabadedada|I'm Blue Dabadedada]]
+|source=[[King Doot]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Djonnut#I'm Blue Dabadedada|I'm Blue Dabadedada]], [[Djonnut#The Blue New World|The Blue New World]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -30,13 +213,13 @@ Chizoar's Cavern Key
 |type=Boss Key
 |description=Hold down to add these Iceland Boss Keys to your account.
 |sellprice=50
-|source=[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.04|1}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.1|1}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.18|1}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.18|1}}
 |}
 Obol Fragment
 {{InfoItem
@@ -114,7 +297,6 @@ Silver Pen
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.000004452000000000001|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000004284000000000001|1.0}}
 {{detdrops|[[Crystal Crabal]]|0.00032399999999999996|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00032399999999999996|1.0}}
 {{detdrops|[[Sandy Pot]]|0.00000162|1.0}}
 {{detdrops|[[Mimic]]|0.0000017280000000000002|1.0}}
 {{detdrops|[[Crabcake]]|0.000001944|1.0}}
@@ -146,24 +328,25 @@ Silver Pen
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000008099999999999999|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000008099999999999999|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000008099999999999999|1.0}}
+{{detdrops|[[Crystal Cattle]]|0.00032399999999999996|1.0}}
 {{detdrops|[[Sheepie]]|0.00000135|1.0}}
 {{detdrops|[[Frost Flake]]|0.000001512|1.0}}
 {{detdrops|[[Sir Stache]]|0.0000016739999999999998|1.0}}
 {{detdrops|[[Xylobone]]|0.0000054|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.00054|1.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.00054|1.0}}
 {{detdrops|[[Bloque]]|0.00000135|1.0}}
 {{detdrops|[[Mamooth]]|0.000001458|1.0}}
 {{detdrops|[[Snowman]]|0.000001566|1.0}}
 {{detdrops|[[Penguin]]|0.0000016739999999999998|1.0}}
 {{detdrops|[[Thermister]]|0.000001782|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.00054|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.0000000216|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.00054|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000018359999999999997|1.0}}
 {{detdrops|[[Quenchie]]|0.00000135|1.0}}
 {{detdrops|[[Cryosnake]]|0.000001512|1.0}}
 {{detdrops|[[Bop Box]]|0.00000162|1.0}}
 {{detdrops|[[Neyeptune]]|0.0000017280000000000002|1.0}}
-{{detdrops|[[Bloodbone]]|0.0000000216|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.00054|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000027|1.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.00054|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.000004806|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.000004806|1.0}}
 {{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.000008099999999999999|1.0}}
@@ -174,13 +357,14 @@ Gem
 |type=Gem
 |description=Hold down to add these gems to your account. You can then spend them in the Gem Shop!
 |sellprice=69
-|source=[[King Doot]], [[Egggulyte]], [[Egg Capsule]], [[Shell Snake]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP Pete#Roll of Anger|Roll of Anger]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic Stowaway#A Midnight Snack|A Midnight Snack]], [[Funguy#Party Crashin'|Party Crashin']], [[Papua Piggea#Oinko Boinko|Oinko Boinko]], [[Desert Davey#U Cool?|U Cool?]], [[Mutton#Cross Platform Promotion|Cross Platform Promotion]], [[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]], [[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]], [[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Bandit Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]], [[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[Carpetiem#Be like Buster!|Be like Buster!]], [[Goldric#Trickle Down Economics|Trickle Down Economics]], [[Goldric#Hoopsies|Hoopsies]], [[Goldric#Only Winners have Portraits|Only Winners have Portraits]], [[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]], [[Meel#Spooky Scary Skelepoops|Spooky Scary Skelepoops]], [[Snake Jar#Lookin' Like a Snack|Lookin' Like a Snack]], [[Snake Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[Wellington#Findin' Fingerprints|Findin' Fingerprints]], [[Dazey#Dressing like a Dork|Dressing like a Dork]], [[Cowbo Jones#The Grind Begins...?|The Grind Begins...?]], [[Cowbo Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Cowbo Jones#The Notorious B.O.B|The Notorious B.O.B]], [[Cowbo Jones#The Worst Trade Deal in History|The Worst Trade Deal in History]], [[Cowbo Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Loveulyte#Heartbreaker|Heartbreaker]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Turn ON for what???|Turn ON for what???]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Constructing a Tower|Constructing a Tower]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Hoggindaz#Taking Samples|Taking Samples]], [[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]], [[Lord of the Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[King Doot]], [[Egggulyte]], [[Egg Capsule]], [[Summer Spirit]], [[Shell Snake]], [[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]], [[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]], [[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Post Office#Plan-it Express|Plan-it Express]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[TP Pete#Roll of Anger|Roll of Anger]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic Stowaway#A Midnight Snack|A Midnight Snack]], [[Cactolyte#Super Skillage|Super Skillage]], [[Funguy#Party Crashin'|Party Crashin']], [[Papua Piggea#Oinko Boinko|Oinko Boinko]], [[Desert Davey#U Cool?|U Cool?]], [[Mutton#Cross Platform Promotion|Cross Platform Promotion]], [[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]], [[Whattso#The Whaley Hard Minigame|The Whaley Hard Minigame]], [[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Bandit Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]], [[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[Carpetiem#Be like Buster!|Be like Buster!]], [[Goldric#Trickle Down Economics|Trickle Down Economics]], [[Goldric#Hoopsies|Hoopsies]], [[Goldric#Only Winners have Portraits|Only Winners have Portraits]], [[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]], [[Meel#Spooky Scary Skelepoops|Spooky Scary Skelepoops]], [[Snake Jar#Lookin' Like a Snack|Lookin' Like a Snack]], [[Snake Jar#PSA. You Are Being Eaten!|PSA. You Are Being Eaten!]], [[Snake Jar#A Noob, served Medium Rare!|A Noob, served Medium Rare!]], [[Loominadi#Rhyming is Key!|Rhyming is Key!]], [[Loominadi#Uh, Something About Vials?|Uh, Something About Vials?]], [[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[Wellington#Findin' Fingerprints|Findin' Fingerprints]], [[Dazey#Dressing like a Dork|Dressing like a Dork]], [[Cowbo Jones#The Grind Begins...?|The Grind Begins...?]], [[Cowbo Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Cowbo Jones#The Notorious B.O.B|The Notorious B.O.B]], [[Cowbo Jones#The Worst Trade Deal in History|The Worst Trade Deal in History]], [[Cowbo Jones#Children? What'd they ever do for Me...|Children? What'd they ever do for Me...]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Loveulyte#Heartbreaker|Heartbreaker]], [[Egggulyte#Egg Shaped Lootboxes!|Egg Shaped Lootboxes!]], [[Egggulyte#I've Got a Golden Tickegg!|I've Got a Golden Tickegg!]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Turn ON for what???|Turn ON for what???]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Constructing a Tower|Constructing a Tower]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Hoggindaz#Taking Samples|Taking Samples]], [[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]], [[Lord of the Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[King Doot]]|0.6|8}}
 {{detdrops|[[Egggulyte]]|0.3|1}}
 {{detdrops|[[Egg Capsule]]|0.3|1}}
+{{detdrops|[[Summer Spirit]]|0.5|1}}
 {{detdrops|[[Shell Snake]]|0.05|1}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.05|1}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.12|1}}
@@ -188,8 +372,8 @@ Gem
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.1|1}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.2|1}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.4|1}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.12|1}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.23|1}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.45|1}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.12|1}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.23|1}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.45|1}}
 {{detdrops|[[Biggie Hours]]|0.4|5.0}}
 |}

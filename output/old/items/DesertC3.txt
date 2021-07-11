@@ -8,8 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Sand Giant]]|0.152|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Cheap Shot]]|Lots|Alchemy}}
-|}

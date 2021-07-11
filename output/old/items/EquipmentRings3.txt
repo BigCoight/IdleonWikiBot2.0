@@ -20,9 +20,6 @@
 |recipefrom=[[DropTable3]], [[Tasks/Unlocks|Tasks]]
 |resource1=Iron Bar|quantity1=600
 }}
-{{usedin/head}}
-{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|600}}

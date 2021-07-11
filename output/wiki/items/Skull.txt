@@ -10,7 +10,6 @@ Wax Skull
 |upgrade=1
 |sellprice=5000
 |source=[[Vendors#Frostbite Towndra|Frostbite Towndra Vendor]]
-|notes= 
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=4|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
@@ -26,7 +25,7 @@ Ceramic Skull
 |wis=4
 |upgrade=1
 |sellprice=1250
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -34,7 +33,7 @@ Ceramic Skull
 |craftnum=83
 |levelreq=16
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Forest Soul|quantity1=250
 |resource2=Redox Salts|quantity2=5
 }}
@@ -69,9 +68,6 @@ Horned Skull
 |resource1=Dune Soul|quantity1=1200
 |resource2=Redox Salts|quantity2=25
 }}
-{{usedin/head}}
-{{usedin/row|[[Prickle Skull]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dune Soul|1200}}
@@ -90,7 +86,7 @@ Prickle Skull
 |skillpower=20
 |wis=10
 |upgrade=2
-|sellprice=281600
+|sellprice=171600
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -100,22 +96,19 @@ Prickle Skull
 |levelreq=40
 |expgiven=225000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Rooted Soul|quantity1=12500
+|resource1=Rooted Soul|quantity1=7000
 |resource2=Redox Salts|quantity2=50
 |resource3=Horned Skull|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Manifested Skull]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Rooted Soul|12500}}
+{{detrecipe|3|Rooted Soul|7000}}
 {{detrecipe|3|Redox Salts|50}}
 {{detrecipe|3|Horned Skull|2}}
 {{detrecipe|40|Dune Soul|2400}}
 {{detrecipe|40|Redox Salts|50}}
 |tot=
-{{detrecipe/totals|Rooted Soul|12500}}
+{{detrecipe/totals|Rooted Soul|7000}}
 {{detrecipe/totals|Redox Salts|100}}
 {{detrecipe/totals|Dune Soul|2400}}
 }}
@@ -129,7 +122,7 @@ Manifested Skull
 |skillpower=26
 |wis=12
 |upgrade=3
-|sellprice=2313200
+|sellprice=763450
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -139,21 +132,24 @@ Manifested Skull
 |levelreq=46
 |expgiven=500000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Frigid Soul|quantity1=50000
+|resource1=Frigid Soul|quantity1=12000
 |resource2=Prickle Skull|quantity2=2
+|resource3=Dense Water|quantity3=5
 }}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Frigid Soul|50000}}
+{{detrecipe|3|Frigid Soul|12000}}
 {{detrecipe|3|Prickle Skull|2}}
-{{detrecipe|40|Rooted Soul|25000}}
+{{detrecipe|40|Rooted Soul|14000}}
 {{detrecipe|40|Redox Salts|100}}
 {{detrecipe|40|Horned Skull|4}}
 {{detrecipe|80|Dune Soul|4800}}
 {{detrecipe|80|Redox Salts|100}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
-{{detrecipe/totals|Frigid Soul|50000}}
-{{detrecipe/totals|Rooted Soul|25000}}
+{{detrecipe/totals|Frigid Soul|12000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Rooted Soul|14000}}
 {{detrecipe/totals|Redox Salts|200}}
 {{detrecipe/totals|Dune Soul|4800}}
 }}
@@ -168,5 +164,4 @@ Wax Skull
 |wis=15
 |upgrade=4
 |sellprice=100
-|notes= 
 }}

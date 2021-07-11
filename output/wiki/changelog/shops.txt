@@ -1,5 +1,37 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Shops==
+{{patchnote/head|changed=YumYum Grotto}}
+{{patchnote|Item 12|{{CraftReq|Wealthy Wallet}} qty: 1|{{CraftReq|Wealthy Wallet}} qty: 20000}}
+{{patchnote|Item 6|{{CraftReq|Weapon Upgrade Stone II}} qty: 3|{{CraftReq|Weapon Upgrade Stone II}} qty: 1}}
+{{patchnote|Item 8|{{CraftReq|Tool Upgrade Stone II}} qty: 4|{{CraftReq|Tool Upgrade Stone II}} qty: 6}}
+{{patchnote|Item 7|{{CraftReq|Armor Upgrade Stone II}} qty: 6|{{CraftReq|Armor Upgrade Stone II}} qty: 3}}
+{{patchnote|Item 9|{{CraftReq|Average Strength Potion}} qty: 20000|{{CraftReq|Average Strength Potion}} qty: 4}}
+{{patchnote|Item 18|{{CraftReq|Talent Point Reset Fragment}} qty: 1|{{CraftReq|Bottled Town Teleport}} qty: 1}}
+{{patchnote|Item 17|{{CraftReq|Bottled Town Teleport}} qty: 15|{{CraftReq|Guilding Tools}} qty: 1}}
+{{patchnote|Item 19| |{{CraftReq|Talent Point Reset Fragment}} qty: 15}}
+|}
+
+{{patchnote/head|changed=Blunder Hills}}
+{{patchnote|Item 3|{{CraftReq|Cheezy Pizza}} qty: 500|{{CraftReq|Cheezy Pizza}} qty: 750}}
+{{patchnote|Item 7|{{CraftReq|Small Speed Potion}} qty: 400|{{CraftReq|Small Life Potion}} qty: 400}}
+{{patchnote|Item 6|{{CraftReq|Small Life Potion}} qty: 400|{{CraftReq|Small Strength Potion}} qty: 400}}
+{{patchnote|Item 5|{{CraftReq|Small Strength Potion}} qty: 400|{{CraftReq|Small Mana Potion}} qty: 500}}
+{{patchnote|Item 4|{{CraftReq|Small Mana Potion}} qty: 500|{{CraftReq|Cue Tape}} qty: 5000}}
+{{patchnote|Item 8|{{CraftReq|Crude Oil}} qty: 1000|{{CraftReq|Small Speed Potion}} qty: 400}}
+{{patchnote|Item 2|{{CraftReq|Hot Dog}} qty: 500|{{CraftReq|Hot Dog}} qty: 750}}
+{{patchnote|Item 1|{{CraftReq|Nomwich}} qty: 500|{{CraftReq|Nomwich}} qty: 750}}
+{{patchnote|Item 9|{{CraftReq|Cue Tape}} qty: 5000|{{CraftReq|Crude Oil}} qty: 1000}}
+|}
+
+{{patchnote/head|changed=Encroaching Forest Villas}}
+{{patchnote|Item 13|{{CraftReq|Talent Point Reset Fragment}} qty: 1|{{CraftReq|Bottled Town Teleport}} qty: 15}}
+{{patchnote|Item 14| |{{CraftReq|Talent Point Reset Fragment}} qty: 1}}
+|}
+
+{{patchnote/head|changed=Frostbite Towndra}}
+{{patchnote|Item 20|{{CraftReq|Talent Point Reset Fragment}} qty: 2|{{CraftReq|Talent Point Reset Fragment}} qty: 3}}
+|}
+
 </div><div style = "flex:50%;"> 
 ==New Shops==
 </div></div>

@@ -2,7 +2,7 @@
 |title=Baba Yaga
 |order=0
 |category=Bosses
-|effect=+{% Money from Monsters
+|effect=+% Money from Monsters
 |bonus=10
 |reqtier=1.5
 |source=[[Baba Yaga]]

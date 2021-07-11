@@ -3,6 +3,7 @@
 |level=4
 |skill=catching
 |type=Bug Catching Net
+|speed=4
 |skillpower=4
 |agi=2
 |upgrade=2

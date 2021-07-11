@@ -1,11 +1,13 @@
 {{npc
-|location=fillme
-|noquests=fillme
+|location=The Stache Split
+|noquest=3
 |repeatable=Unknonwn
 |starsign=Libra
 |mmm=Vanderpoel
 |birthweight=5.93
-|notes=fillme
+|notes=[[Snouts]] is hanging around in [[Worlds#The Stache Split|The Stache Split]].
+
+Like other piggy NPCs, his quests award stamps.
 }}
 {{Quest/head}}
 {{Quest
@@ -33,7 +35,7 @@
 |requirements=Defeat Giant Stache Mob: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Talent III Stamp}}, 1x {{CraftReq|Biblio Stamp}}
-|notes= 
+|notes=You must equip the [[Worship#Tachion_of_the_Titans|Tachion of the Titans]] Prayer to spawn Giant Monsters.
 }}
 |}
 {{dialogue/head}}

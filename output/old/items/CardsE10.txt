@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Bop Box
 |order=10
-|category=Frostfire Tyundra
-|effect=+{% Total Drop Rate
+|category=Frostbite Tundra
+|effect=+% Total Drop Rate
 |bonus=3
 |reqtier=17
 |source=[[Bop Box]]

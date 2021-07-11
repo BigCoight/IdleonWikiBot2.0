@@ -6,9 +6,12 @@ Dementia Obol of Magisterial Metals
 |type=Sparkle Obol
 |skillpower=5
 |str=5
+|misc=8% Mining Efficincy
 |sellprice=50
 |rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Mining
 }}
 Dementia Obol of WOWOWOWWO
 {{InfoItem
@@ -18,9 +21,11 @@ Dementia Obol of WOWOWOWWO
 |type=Sparkle Obol
 |skillpower=5
 |wis=5
+|misc=8% Chop Efficiency
 |sellprice=50
 |rarity=Dementia
 |notes= 
+|family=Choppin
 }}
 Dementia Obol of Monument Marlins
 {{InfoItem
@@ -30,9 +35,12 @@ Dementia Obol of Monument Marlins
 |type=Sparkle Obol
 |skillpower=5
 |str=5
+|misc=8% Fishin Efficincy
 |sellprice=50
 |rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Fishing
 }}
 Dementia Obol of Idk Yet
 {{InfoItem
@@ -42,18 +50,123 @@ Dementia Obol of Idk Yet
 |type=Sparkle Obol
 |skillpower=5
 |agi=5
+|misc=8% Catch Efficincy
 |sellprice=50
 |rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
 }}
-Dementia Obol of Never Ending Luck
+Dementia Obol of Infinisixes
 {{InfoItem
 |class=All
 |level=1
 |type=Sparkle Obol
-|luck=10
-|misc=30% Drop Chance
+|luck=7
+|misc=15% Drop Chance
 |sellprice=50
 |rarity=Dementia
-|notes= 
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Sixes
+}}
+Dementia Obol of Pop Pop Pop Pop
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|luck=12
+|misc=9% Drop Chance
+|defence=5
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Pop
+}}
+Dementia Obol of Killionaire
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|weaponpower=2
+|misc=10% Multikill
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Multikill
+}}
+Dementia Obol of Experience
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|weaponpower=1
+|str=5
+|agi=5
+|wis=5
+|misc=4% Xp From Monsters
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Experience
+}}
+Dementia Obol of Cards
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|weaponpower=1
+|str=5
+|agi=5
+|wis=5
+|misc=10% Card Drop Chance
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Card
+}}
+Dementia Obol of Defence
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|defence=25
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Defence
+}}
+Dementia Obol of Trapping
+{{InfoItem
+|class=All
+|level=1
+|skill=trapping
+|type=Sparkle Obol
+|skillpower=7
+|agi=5
+|sellprice=50
+|rarity=Dementia
+|family=Trapping
+}}
+Dementia Obol of Construction
+{{InfoItem
+|class=All
+|level=1
+|type=Sparkle Obol
+|str=5
+|misc=20% Build Spd
+|sellprice=50
+|rarity=Dementia
+|family=Construction
+}}
+Dementia Obol of Worship
+{{InfoItem
+|class=All
+|level=1
+|skill=worship
+|type=Sparkle Obol
+|skillpower=7
+|wis=5
+|sellprice=50
+|rarity=Dementia
+|family=Worship
 }}

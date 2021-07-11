@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Wood Mushroom]]|0.00001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sprout#Frisbee Fanatic|Frisbee Fanatic]]|1|Quests}}
-|}

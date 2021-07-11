@@ -7,11 +7,7 @@ Nomwich
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=500|buyprice=8}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Cramped Food Pouch]]|75|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
+{{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=750|buyprice=8}}
 |}
 Hot Dog
 {{InfoItem
@@ -22,12 +18,8 @@ Hot Dog
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=500|buyprice=28}}
+{{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=750|buyprice=28}}
 {{Vendoritem/tablerow|number=0|vendor=Encroaching Forest Villas|stock=1000|buyprice=28}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Cramped Food Pouch]]|25|Crafting}}
-{{usedin/row|[[Peanut]]|2|Crafting}}
 |}
 Cheezy Pizza
 {{InfoItem
@@ -38,18 +30,15 @@ Cheezy Pizza
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=500|buyprice=80}}
+{{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=750|buyprice=80}}
 {{Vendoritem/tablerow|number=1|vendor=Encroaching Forest Villas|stock=1000|buyprice=80}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|25|Quests}}
 |}
 Peanut
 {{InfoItem
 |type=Health Food
 |description=Auto-Used when your health goes below 75%. Restores 80 HP. Has a 20 second Cooldown. The favorite snack of all bloblytes!
 |sellprice=20
-|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Smithing]]
+|source=[[Post Office#Simple Shippin|Simple Shippin]], [[Smithing]], [[Picnic Stowaway#Brunchin' with the Blobs|Recipe from Brunchin' with the Blobs]]
 |notes= 
 }}
 {{ForgeSlot
@@ -57,20 +46,11 @@ Peanut
 |craftnum=51
 |levelreq=5
 |expgiven=2
-|recipefrom=
+|recipefrom=[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]
 |resource1=Hot Dog|quantity1=2
 |resource2=Copper Ore|quantity2=1
 |resource3=Bleach Logs|quantity3=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Golden Peanut]]|100|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|100|Quests}}
-{{usedin/row|[[Bushlyte#A Peanut for your Thoughts|A Peanut for your Thoughts]]|100|Quests}}
-{{usedin/row|[[Bushlyte#Honk if you Love Peanuts!|Honk if you Love Peanuts!]]|250|Quests}}
-{{usedin/row|[[Bushlyte#A Peanut Saved is a Peanut not Eaten!|A Peanut Saved is a Peanut not Eaten!]]|700|Quests}}
-{{usedin/row|[[Rocklyte#How It's Made, Episode 7. The Super Peanut|How It's Made, Episode 7. The Super Peanut]]|1000|Quests}}
-{{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|100|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Hot Dog|2}}
@@ -103,11 +83,6 @@ Kebab Sticks
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=YumYum Grotto|stock=25000|buyprice=192}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Buttered Toasted Butter]]|1|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|500|Quests}}
-{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|130|Quests}}
-|}
 Meat Pie
 {{InfoItem
 |type=Health Food
@@ -118,9 +93,6 @@ Meat Pie
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=YumYum Grotto|stock=25000|buyprice=320}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|250|Crafting}}
 |}
 Mountain Bread
 {{InfoItem
@@ -143,9 +115,6 @@ Yeti Ham
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=Frostbite Towndra|stock=25000|buyprice=760}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|10000|Crafting}}
 |}
 Sheepie Dairy
 {{InfoItem
@@ -202,9 +171,6 @@ Magic Meatloaf
 {{detdrops|[[Chaotic Amarok]]|0.10|3}}
 {{detdrops|[[Nightmare Amarok]]|0.05|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
-|}
 Small Strength Potion
 {{InfoItem
 |type=Boost Food
@@ -214,7 +180,7 @@ Small Strength Potion
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=4|vendor=Blunder Hills|stock=400|buyprice=20}}
+{{Vendoritem/tablerow|number=5|vendor=Blunder Hills|stock=400|buyprice=20}}
 |}
 Average Strength Potion
 {{InfoItem
@@ -226,11 +192,7 @@ Average Strength Potion
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Encroaching Forest Villas|stock=500|buyprice=100}}
-{{Vendoritem/tablerow|number=8|vendor=YumYum Grotto|stock=20000|buyprice=100}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Slurpin Herm]]|2|Crafting}}
-{{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|100|Quests}}
+{{Vendoritem/tablerow|number=8|vendor=YumYum Grotto|stock=4|buyprice=100}}
 |}
 Decent Strength Potion
 {{InfoItem
@@ -252,11 +214,7 @@ Small Life Potion
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=5|vendor=Blunder Hills|stock=400|buyprice=16}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Saucy Logfries]]|3|Crafting}}
-{{usedin/row|[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]]|8500|Quests}}
+{{Vendoritem/tablerow|number=6|vendor=Blunder Hills|stock=400|buyprice=16}}
 |}
 Average Life Potion
 {{InfoItem
@@ -289,7 +247,7 @@ Small Speed Potion
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=6|vendor=Blunder Hills|stock=400|buyprice=28}}
+{{Vendoritem/tablerow|number=7|vendor=Blunder Hills|stock=400|buyprice=28}}
 |}
 Average Speed Potion
 {{InfoItem
@@ -335,11 +293,7 @@ Small Mana Potion
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=3|vendor=Blunder Hills|stock=500|buyprice=20}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Icing Ironbite]]|2|Crafting}}
-{{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|50|Quests}}
+{{Vendoritem/tablerow|number=4|vendor=Blunder Hills|stock=500|buyprice=20}}
 |}
 Average Mana Potion
 {{InfoItem
@@ -361,9 +315,6 @@ Average Mana Potion
 {{detdrops|[[Baba Yaga]]|0.25|5.0}}
 {{detdrops|[[Dewdrop Golden Chest]]|0.25|10.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|500|Quests}}
-|}
 Decent Mana Potion
 {{InfoItem
 |type=Boost Food
@@ -378,7 +329,7 @@ Decent Mana Potion
 Small EXP Potion
 {{InfoItem
 |type=Boost Food
-|description=Increases Main Exp Gain by 5% 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Exp Gain by 5% 10% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=25
 |source=[[Vendors#Encroaching Forest Villas|Encroaching Forest Villas Vendor]], [[Post Office#Plan-it Express|Plan-it Express]], [[Alchemy#Level up Gift|Level up Gift]]
 |notes= 
@@ -389,24 +340,25 @@ Small EXP Potion
 Average EXP Potion
 {{InfoItem
 |type=Boost Food
-|description=Increases Main Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=250
 |source=[[Post Office#Dudes Next Door|Dudes Next Door]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Dedotated Ram]]|0.000004000000000000001|25.0}}
+{{detdrops|[[Crystal Cattle]]|0.04000000000000001|25.0}}
+{{detdrops|[[Dedotated Ram]]|0.00034|25.0}}
 {{detdrops|[[Quenchie]]|0.00025|25.0}}
 {{detdrops|[[Cryosnake]]|0.00028000000000000003|25.0}}
 {{detdrops|[[Bop Box]]|0.00030000000000000003|25.0}}
 {{detdrops|[[Neyeptune]]|0.00032|25.0}}
-{{detdrops|[[Bloodbone]]|0.000004000000000000001|25.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.1|25.0}}
+{{detdrops|[[Bloodbone]]|0.0005|25.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.1|25.0}}
 |}
 Decent EXP Potion
 {{InfoItem
 |type=Boost Food
-|description=Increases Main Exp Gain by 15% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Exp Gain by 15% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=1500
 |source=[[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
@@ -414,7 +366,7 @@ Decent EXP Potion
 Lemony Choco
 {{InfoItem
 |type=Boost Food
-|description=Increases Main Exp Gain by 10% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Exp Gain by 10% 6% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Loveulyte]], [[Chocco Box]], [[Valentslime]]
 |notes= 
@@ -424,6 +376,12 @@ Lemony Choco
 {{detdrops|[[Chocco Box]]|0.25|3}}
 {{detdrops|[[Valentslime]]|0.25|3}}
 |}
+Shiny Pearl
+{{InfoItem
+|type=Boost Food
+|description=Increases Exp Gain by 25% 1% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|sellprice=10
+}}
 Icing Ironbite
 {{InfoItem
 |type=Boost Food
@@ -441,10 +399,6 @@ Icing Ironbite
 |resource1=Iron Ore|quantity1=5
 |resource2=Small Mana Potion|quantity2=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|600|Crafting}}
-{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|1000|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Ore|5}}
@@ -456,7 +410,7 @@ Icing Ironbite
 Giftybread Man
 {{InfoItem
 |type=Boost Food
-|description=Increases Mining Speed by 25% 1% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Mining Speed by 25% 3% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
 |notes= 
@@ -466,6 +420,13 @@ Giftybread Man
 {{detdrops|[[Meaning of Giftmas]]|0.25|3}}
 {{detdrops|[[Ghost]]|0.3|2}}
 |}
+Stained Pearl
+{{InfoItem
+|type=Boost Food
+|description=Increases Mining Speed by 30% 1% chance to be consumed every time you swing your pickaxe. Must be equipped in a Food Slot to give its bonus.
+|sellprice=10
+|notes= 
+}}
 Saucy Logfries
 {{InfoItem
 |type=Boost Food
@@ -483,9 +444,6 @@ Saucy Logfries
 |resource1=Jungle Logs|quantity1=6
 |resource2=Small Life Potion|quantity2=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|600|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Jungle Logs|6}}
@@ -524,9 +482,6 @@ Slurpin Herm
 |resource1=Hermit Can|quantity1=5
 |resource2=Average Strength Potion|quantity2=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Hermit Can|5}}
@@ -538,7 +493,7 @@ Slurpin Herm
 Candy Canes
 {{InfoItem
 |type=Boost Food
-|description=Increases Fishing Spd by 25% 1% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Fishing Spd by 25% 3% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
 |sellprice=10
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]
 |notes= 
@@ -548,6 +503,13 @@ Candy Canes
 {{detdrops|[[Meaning of Giftmas]]|0.25|2}}
 {{detdrops|[[Ghost]]|0.3|2}}
 |}
+Aqua Pearl
+{{InfoItem
+|type=Boost Food
+|description=Increases Fishing Spd by 30% 1% chance to be consumed every time you reel in a fish. Must be equipped in a Food Slot to give its bonus.
+|sellprice=10
+|notes= 
+}}
 Buttered Toasted Butter
 {{InfoItem
 |type=Boost Food
@@ -565,9 +527,6 @@ Buttered Toasted Butter
 |resource1=Butterfly|quantity1=5
 |resource2=Kebab Sticks|quantity2=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Butterfly|5}}
@@ -606,9 +565,6 @@ Critter Numnums
 |resource1=Crabbo|quantity1=100
 |resource2=Distilled Water|quantity2=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|30|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Crabbo|100}}
@@ -634,9 +590,6 @@ Soulble Gum
 |resource1=Dune Soul|quantity1=70
 |resource2=Distilled Water|quantity2=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|30|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dune Soul|70}}
@@ -662,10 +615,6 @@ Bullet
 |resource1=Forest Fibres|quantity1=10
 |resource2=Fly|quantity2=10
 }}
-{{usedin/head}}
-{{usedin/row|[[FMJ Bullet]]|2|Crafting}}
-{{usedin/row|[[Bandit Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|10}}
@@ -719,16 +668,11 @@ Midnight Cookie
 {{detdrops|[[Nightmare Chizoar]]|0.07|1}}
 {{detdrops|[[King Doot]]|.2|2}}
 {{detdrops|[[Crystal Crabal]]|0.0012000000000000001|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0012000000000000001|1.0}}
 {{detdrops|[[Tyson]]|0.000009600000000000001|1.0}}
 {{detdrops|[[Moonmoon]]|0.000010500000000000001|1.0}}
 {{detdrops|[[Sand Giant]]|0.0000111|1.0}}
 {{detdrops|[[Snelbie]]|0.0000117|1.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.003|1.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
-{{usedin/row|[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]|2|Quests}}
 |}
 Cherry Choco
 {{InfoItem
@@ -746,7 +690,7 @@ Cherry Choco
 Golden Peanut
 {{InfoItem
 |type=Golden Food
-|description=Increases Mining Efficiency by [%. Golden foods are never consumed.
+|description=Increases Mining Efficiency. Golden foods are never consumed.
 |sellprice=7750
 |source=[[Smithing]]
 |notes= 
@@ -761,10 +705,6 @@ Golden Peanut
 |resource1=Peanut|quantity1=100
 |resource2=Gold Bar|quantity2=50
 }}
-{{usedin/head}}
-{{usedin/row|[[Blunderhills Misc Completion Token]]|30|Crafting}}
-{{usedin/row|[[Rocklyte#If Life Gives you Peanuts, make Shiny Peanuts!|If Life Gives you Peanuts, make Shiny Peanuts!]]|5|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Peanut|100}}
@@ -773,15 +713,15 @@ Golden Peanut
 {{detrecipe|40|Bleach Logs|100}}
 {{detrecipe|3|Gold Bar|50}}
 |tot=
+{{detrecipe/totals|Gold Bar|50}}
 {{detrecipe/totals|Hot Dog|200}}
 {{detrecipe/totals|Copper Ore|100}}
 {{detrecipe/totals|Bleach Logs|100}}
-{{detrecipe/totals|Gold Bar|50}}
 }}
 Golden Jam
 {{InfoItem
 |type=Golden Food
-|description=Increases your Max Health by [%. Golden foods are never consumed.
+|description=Increases your Max Health by. Golden foods are never consumed.
 |sellprice=50
 |source=[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]], [[Post Office#Simple Shippin|Simple Shippin]], [[Picnic Stowaway#Live-Action Entertainment|Live-Action Entertainment]], [[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]], [[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]], [[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Tiki Chief#Brochure Building|Brochure Building]]
 |notes=Not to be mixed up with [[Golden Jam (quest)]] which is needed for [[Scripticus]] quest The Unoccupied Picnic
@@ -793,7 +733,7 @@ Golden Jam
 Golden Kebabs
 {{InfoItem
 |type=Golden Food
-|description=Increases Total Damage to all monsters by [%. Golden foods are never consumed.
+|description=Increases Total Damage to. Golden foods are never consumed.
 |sellprice=200
 |source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Post Office#Dudes Next Door|Dudes Next Door]], [[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]], [[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]], [[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]
 |notes= 
@@ -805,16 +745,15 @@ Golden Kebabs
 Golden Meat Pie
 {{InfoItem
 |type=Golden Food
-|description=Increases your Total Defence by [. Golden foods are never consumed
+|description=Increases your Total Defence. Golden foods are never consumed
 |sellprice=350
 |source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]], [[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic Stowaway#A Midnight Snack|A Midnight Snack]], [[SuperDropTable2]]
 |notes= 
 }}
-{{gfoodbonus|50|Increases your Total Defence by [.}}
+{{gfoodbonus|30|Increases your Total Defence by [%.}}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.5|1}}
 {{detdrops|[[Crystal Crabal]]|0.0018|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0018|1.0}}
 {{detdrops|[[Sandy Pot]]|0.000009|1.0}}
 {{detdrops|[[Mimic]]|0.000009600000000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000108|1.0}}
@@ -848,13 +787,10 @@ Golden Meat Pie
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000044999999999999996|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sizable Food Pouch]]|9|Crafting}}
-|}
 Golden Nomwich
 {{InfoItem
 |type=Golden Food
-|description=Increases Base Damage Dealt to all monsters by [. Golden foods are never consumed.
+|description=Increases Base Damage Dealt to. Golden foods are never consumed.
 |sellprice=100
 |source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Post Office#Plan-it Express|Plan-it Express]], [[SuperDropTable1]]
 |notes= 
@@ -903,49 +839,58 @@ Golden Nomwich
 Golden Ham
 {{InfoItem
 |type=Golden Food
-|description=Increases Skill EXP earned from all skills by [%. Golden foods are never consumed.
+|description=Increases Skill EXP earned. Golden foods are never consumed.
 |sellprice=100
-|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[SuperDropTable3]]
+|source=[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[SuperDropTable3]]
 |notes= 
 }}
 {{gfoodbonus|18|Increases Skill EXP earned from all skills by [%.}}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|1}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.5|1}}
+{{detdrops|[[Crystal Cattle]]|0.0018|1.0}}
 {{detdrops|[[Sheepie]]|0.0000075|1.0}}
 {{detdrops|[[Frost Flake]]|0.000008400000000000001|1.0}}
 {{detdrops|[[Sir Stache]]|0.000009299999999999999|1.0}}
 {{detdrops|[[Xylobone]]|0.00003|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.003|1.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.003|1.0}}
 {{detdrops|[[Bloque]]|0.0000075|1.0}}
 {{detdrops|[[Mamooth]]|0.0000081|1.0}}
 {{detdrops|[[Snowman]]|0.0000087|1.0}}
 {{detdrops|[[Penguin]]|0.000009299999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.0000099|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.003|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.00000012000000000000002|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.003|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.000010199999999999999|1.0}}
 {{detdrops|[[Quenchie]]|0.0000075|1.0}}
 {{detdrops|[[Cryosnake]]|0.000008400000000000001|1.0}}
 {{detdrops|[[Bop Box]]|0.000009|1.0}}
 {{detdrops|[[Neyeptune]]|0.000009600000000000001|1.0}}
-{{detdrops|[[Bloodbone]]|0.00000012000000000000002|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.003|1.0}}
+{{detdrops|[[Bloodbone]]|0.000015|1.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.003|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.000026700000000000002|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.000026700000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Flycicle]]|0.000044999999999999996|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|10|Crafting}}
-|}
 Golden Bread
 {{InfoItem
 |type=Golden Food
-|description=Claiming AFK gains levels up shrines [% faster. Golden foods are never consumed.
+|description=Claiming AFK gains levels. Golden foods are never consumed.
 |sellprice=100
-|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{gfoodbonus|20|Claiming AFK gains levels up shrines [% faster.}}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.3|1}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.3|1}}
+|}
+Butter Bar
+{{InfoItem
+|type=Golden Food
+|description=Increases your Base Accuracy. This is technically golden food!
+|sellprice=1
+|source=[[Catching#Drops|Catching Butterflies]]
+}}
+{{gfoodbonus|60|Increases your Base Accuracy by [. And tastes great!}}
+{{detdrops/head}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.01|1}}
 |}

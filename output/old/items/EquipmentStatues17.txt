@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+  Worship Power
 |description=A statue of the soul.
 |sellprice=10
 |source=[[Sir Stache]], [[Quenchie]]

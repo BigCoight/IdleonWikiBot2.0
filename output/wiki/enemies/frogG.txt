@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Red Mushroom|Bored Bean}}
+{{DropTable/head}}
 {{DropTable/coin|3|0.48}}
 {{DropTable/row|Frog Leg|0.21|1}}
 {{DropTable/card|0.0001}}

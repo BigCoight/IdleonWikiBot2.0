@@ -8,10 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.14|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
-{{usedin/row|[[Amarok Hinds]]|700|Crafting}}
-{{usedin/row|[[Strung Bludgeon]]|9000|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Vials|Ramificoction]]|Lots|Alchemy}}
-|}

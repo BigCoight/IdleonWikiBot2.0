@@ -3,6 +3,7 @@
 |level=18
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=13
 |str=4
 |wis=1
@@ -21,9 +22,6 @@
 |resource2=Hermit Can|quantity2=850
 |resource3=Distilled Water|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Gold Fishing Rod]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|300}}

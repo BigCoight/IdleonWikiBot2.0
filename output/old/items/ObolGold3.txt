@@ -5,12 +5,12 @@
 |luck=4
 |sellprice=8
 |rarity=Gold
-|source=[[SuperDropTable2]]
+|source=[[SuperDropTable2]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=LUK
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00007938000000000002|1.0}}
 {{detdrops|[[Sandy Pot]]|0.00000039690000000000007|1.0}}
 {{detdrops|[[Mimic]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000004762800000000001|1.0}}

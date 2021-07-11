@@ -14,9 +14,6 @@
 |resource1=Crabbo|quantity1=100
 |resource2=Distilled Water|quantity2=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|30|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Crabbo|100}}

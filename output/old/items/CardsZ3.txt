@@ -2,7 +2,7 @@
 |title=Efaunt
 |order=7
 |category=Bosses
-|effect=+{% EXP from monsters
+|effect=+% EXP from monsters
 |bonus=5
 |reqtier=1.5
 |source=[[Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Nightmare Chizoar]], [[Error]]

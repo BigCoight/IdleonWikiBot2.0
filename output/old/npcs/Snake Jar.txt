@@ -35,6 +35,15 @@ You must increase your HP and/or Defence in order to survive his final quest.
 |rewards=1x {{CraftReq|Jar}}, 3x {{CraftReq|Medium Experience Balloon}}, 20x {{CraftReq|Gem}}
 |notes=requires approximately 150 defense and 900 hp
 }}
+{{Quest
+|name=A Noob, served Medium Rare!
+|text=Lure another player to Snakejar's platform and have them say 'Im a total noob'.
+|difficulty=2
+|requirements=Other players lured: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|Snake Jar Token}}, 3x {{CraftReq|1 HR Time Candy}}, 10x {{CraftReq|Gem}}
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row
@@ -67,7 +76,7 @@ You must increase your HP and/or Defence in order to survive his final quest.
 |text=Fantassstic! I'll soak the teeth in this liquid ssssso that it will appear to all that I've taken a bite out of you when I pretend to.
 }}
 {{dialogue/row
-|text=Now come over here or no one will believe that I was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...
+|text=Now come over here or no one will believe that it was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...
 |quest=PSA. You Are Being Eaten!
 }}
 {{dialogue/row
@@ -75,5 +84,27 @@ You must increase your HP and/or Defence in order to survive his final quest.
 }}
 {{dialogue/row
 |text=Hmm I ssssuppose I'll have to asssk the next player I see to prepare themsssselves medium rare... your sssspecies is a bit tough for my tassstes.
+}}
+{{dialogue/row
+|text=...
+}}
+{{dialogue/row
+|text=... ...
+}}
+{{dialogue/row
+|text=... ... ...
+}}
+{{dialogue/row
+|text=... ... ... ... that'sssss enough waiting where are the other playerssss??
+}}
+{{dialogue/row
+|text=Go get me ssssomeone else to eat and make ssssure they're a total noob ssso I can ssswallow them whole! @ QUEST:Lure another player to Snakejar's platform and have them say 'Im a total noob'.
+|quest=A Noob, served Medium Rare!
+}}
+{{dialogue/row
+|text=You have no sssspace! Please clear 3 spaces for these itemssss.
+}}
+{{dialogue/row
+|text=MMMMmmmm what a juicy noob that was! The dumb ones are alwayssss the most ssssucculent!
 }}
 |}

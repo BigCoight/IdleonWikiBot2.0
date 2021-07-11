@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Wispy Lumber
-|order=0
+|order=9
 |category=Hard Resources
-|effect=+{% Choppin Speed
+|effect=+% Choppin Speed
 |bonus=6
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Wispy Tree]]

@@ -22,11 +22,6 @@
 |resource2=The Stingers|quantity2=5
 |resource3=Potty Rolls|quantity3=2000
 }}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
-{{usedin/row|[[Uninflated Glove]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cue Tape|5000}}
@@ -37,8 +32,8 @@
 {{detrecipe|3|Potty Rolls|2000}}
 |tot=
 {{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Potty Rolls|2000}}
 {{detrecipe/totals|Copper Bar|100}}
 {{detrecipe/totals|Oak Logs|375}}
 {{detrecipe/totals|Trusty Nails|100}}
-{{detrecipe/totals|Potty Rolls|2000}}
 }}

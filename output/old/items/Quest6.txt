@@ -6,6 +6,3 @@
 |source=[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Scripticus#Seeking Foreign Aid|Seeking Foreign Aid]]|1|Quests}}
-|}

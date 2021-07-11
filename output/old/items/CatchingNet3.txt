@@ -3,6 +3,7 @@
 |level=18
 |skill=catching
 |type=Bug Catching Net
+|speed=4
 |skillpower=14
 |str=2
 |agi=4
@@ -21,9 +22,6 @@
 |resource2=Butterfly|quantity2=850
 |resource3=Distilled Water|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Gilded Net]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|800}}

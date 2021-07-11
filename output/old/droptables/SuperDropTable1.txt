@@ -6,4 +6,5 @@
 {{DropTable/row|Golden Nomwich|{{#expr: {{{chance}}}*0.5}}|1}}
 {{DropTable/row|Silver Obol of Pocket Change|{{#expr: {{{chance}}}*0.02835}}|1}}
 {{DropTable/row|Silver Obol of Little Damage|{{#expr: {{{chance}}}*0.02835}}|1}}
+{{DropTable/row|Bronze Obol of Experience|{{#expr: {{{chance}}}*0.03045}}|1}}
 {{DropTable/row|Mystery Upgrade Stone I|{{#expr: {{{chance}}}*0.85}}|2}}

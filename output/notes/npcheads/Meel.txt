@@ -1,6 +1,7 @@
 {{npc
 |location=Secret
 |noquest=2
+|world=Blunder Hills
 |repeatable=Unknown
 |birthweight=7.2
 |starsign=Aries

@@ -2,16 +2,16 @@
 |class=All
 |level=1
 |type=Square Obol
-|luck=3
-|misc=10% Drop Chance
+|luck=2
+|misc=5% Drop Chance
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable2]]
 |notes= 
+|family=Sixes
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00007938000000000002|1.0}}
 {{detdrops|[[Sandy Pot]]|0.00000039690000000000007|1.0}}
 {{detdrops|[[Mimic]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000004762800000000001|1.0}}

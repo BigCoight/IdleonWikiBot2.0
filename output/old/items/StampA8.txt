@@ -10,6 +10,3 @@
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.0003|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Papua Piggea#Oinko Boinko|Oinko Boinko]]|1|Quests}}
-|}

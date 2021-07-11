@@ -1,11 +1,11 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Overpass of Sound
+|noquest=0
+|repeatable=Unknown
 |starsign=Capricorn
 |mmm=Upson
 |birthweight=2.05
-|notes=fillme
+|notes=[[Bill Brr]] is located in the [[Worlds#Overpass of Sound|Overpass of Sound]].
 }}
 {{Quest/head}}
 |}

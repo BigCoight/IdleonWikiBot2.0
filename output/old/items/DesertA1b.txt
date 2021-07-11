@@ -8,11 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.00005|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Strung Bludgeon]]|10|Crafting}}
-{{usedin/row|[[Average Material Pouch]]|1|Crafting}}
-{{usedin/row|[[Viking Cap]]|2|Crafting}}
-{{usedin/row|[[Sleek Coif]]|2|Crafting}}
-{{usedin/row|[[Witch Hat]]|2|Crafting}}
-{{usedin/row|[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
-|}

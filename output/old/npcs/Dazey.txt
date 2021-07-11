@@ -12,7 +12,7 @@ His final quest awards the {{CraftReq|Dazey Token}}.
 {{Quest/head}}
 {{Quest
 |name=Dressing like a Dork
-|text=Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.
+|text=Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.
 |difficulty=5
 |requirements=1000x {{CraftReq|Forest Fibres}}, 5x {{CraftReq|Flowies}}
 |consumed=No
@@ -39,7 +39,7 @@ His final quest awards the {{CraftReq|Dazey Token}}.
 |text=You know what? Here's something to do... go make me a costume so that I look like that little twerp Sprout that way when people DO make it here I'll pretend to be them and since they've done their quests already they won't bother me!!
 }}
 {{dialogue/row
-|text=I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.
+|text=I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.
 |quest=Dressing like a Dork
 }}
 {{dialogue/row
@@ -62,7 +62,7 @@ His final quest awards the {{CraftReq|Dazey Token}}.
 |quest=Literally Physics
 }}
 {{dialogue/row
-|text=Ok new plan. Get two balls... no not THOSE balls you doorknob like actual circular balls. I remember this from class the other week. @ If you hold one ball right above the other and drop them both the top ball bounces BIG TIME!
+|text=Clear up 2 inventory spaces... like cmon seriously how do you keep forgetting this? I'm like the 12th NPC youve run into probably I swear you gamers never lear... @ 'Dazey continues to blow your tiny mistake out of proportion for a while longer'
 }}
 {{dialogue/row
 |text=NICE! FINALLY!!! Now I can make my costume and pretend to be Sprout! No one will ever bother me again!! Just gotta take this off and... @ Hey can I get some privacy you creep? Please leave the map and come back...

@@ -4,7 +4,7 @@
 |health=1000000
 |defence=180
 |speed=5
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |exp=210
 |respawn=252000
 |crystal=Yes
@@ -12,14 +12,15 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Bloodbone|Baba Yaga}}
+{{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.008}}
 {{DropTable/row|Crystallin|.1|1|([[Papua Piggea]])}}
 {{DropTable/talent|Quest Chungus|.005}}}}
-{{DropTable6|chance=.6}}
-{{DropTable7|chance=.5}}
-{{DropTable8|chance=.4}}
-{{DropTable9|chance=.6}}
-{{DropTable12|chance=.5}}
+{{DropTable14|chance=.6}}
+{{DropTable15|chance=.5}}
+{{DropTable16|chance=.4}}
+{{DropTable17|chance=.6}}
+{{DropTable18|chance=.5}}
 {{DropTable5b|chance=1}}
 |}

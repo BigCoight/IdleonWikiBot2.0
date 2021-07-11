@@ -6,7 +6,7 @@
 |misc=20% Catch Efficincy
 |upgrade=3
 |defence=8
-|sellprice=110200
+|sellprice=110400
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -35,11 +35,11 @@
 {{detrecipe|3|Fly|2000}}
 {{detrecipe|3|Butterfly|1250}}
 |tot=
+{{detrecipe/totals|Distilled Water|13}}
+{{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Butterfly|1250}}
 {{detrecipe/totals|Gold Bar|600}}
 {{detrecipe/totals|Trusty Nails|1000}}
 {{detrecipe/totals|Iron Bar|250}}
 {{detrecipe/totals|Copper Bar|500}}
-{{detrecipe/totals|Distilled Water|9}}
-{{detrecipe/totals|Fly|2000}}
-{{detrecipe/totals|Butterfly|1250}}
 }}

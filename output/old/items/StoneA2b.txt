@@ -8,7 +8,6 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0025|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0025|1.0}}
 {{detdrops|[[Mafioso]]|0.000016000000000000003|1.0}}
 {{detdrops|[[Sand Castle]]|0.000017500000000000002|1.0}}
 {{detdrops|[[Pincermin]]|0.000018500000000000002|1.0}}

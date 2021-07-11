@@ -3,6 +3,7 @@
 |level=25
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=19
 |str=6
 |luck=4
@@ -21,10 +22,6 @@
 |resource2=Leather Hide|quantity2=1000
 |resource3=Iron Fishing Rod|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Plat Fishing Rod]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Hermit Can|2500}}

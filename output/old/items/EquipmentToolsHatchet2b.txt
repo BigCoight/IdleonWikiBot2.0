@@ -3,6 +3,7 @@
 |level=20
 |skill=choppin
 |type=Hatchet
+|speed=2
 |skillpower=19
 |wis=8
 |luck=4

@@ -19,7 +19,7 @@ def searchNotes(wesbite, siteName):
 
 def getHead(website, siteName):
     if siteName not in ["", " "]:
-        toSplit = "{{quest/head}}"
+        toSplit = "{{Quest/head}}"
         page = Page(website, siteName)
         splitText = page.text.split(toSplit)
         if len(splitText) > 1:
@@ -34,7 +34,7 @@ def writeHead(name, head):
 
 
 def searchNotesNpc(wesbite, siteName):
-    toSplit = "{{quest/head}}"
+    toSplit = "{{Quest/head}}"
     page = Page(wesbite, siteName)
     splitText = page.text.split(toSplit)
     if len(splitText) > 1:
@@ -62,7 +62,6 @@ def main(doItems, doNpcs, doEnemy):
     if doEnemy:
         enemyNotes = {}
         for name, enemy in enemies.items():
-            print(enemy["Name"])
             if notes := searchNotes(website, enemy["Name"]).replace('"', ""):
                 enemyNotes[name] = notes
         writeJSON(fr"./output/notes/Enemies.json", enemyNotes)
@@ -79,4 +78,4 @@ def main(doItems, doNpcs, doEnemy):
 
 
 if __name__ == "__main__":
-    main(False, True, False)
+    main(True, True, True)

@@ -2,7 +2,7 @@
 |title=Chizoar
 |order=9
 |category=Bosses
-|effect=+{% Cog Build Spd (Passive)
-|bonus=10
+|effect=+% Cog Build Spd (Passive)
+|bonus=8
 |reqtier=1.5
 }}

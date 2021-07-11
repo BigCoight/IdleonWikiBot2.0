@@ -9,24 +9,6 @@ Oak Logs
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|40}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Gnarled Wand]]|30|Crafting}}
-{{usedin/row|[[Orange Tee]]|15|Crafting}}
-{{usedin/row|[[Copper Chopper]]|30|Crafting}}
-{{usedin/row|[[Cramped Choppin Pouch]]|150|Crafting}}
-{{usedin/row|[[Leather Cap]]|45|Crafting}}
-{{usedin/row|[[The Stingers]]|75|Crafting}}
-{{usedin/row|[[Cramped Food Pouch]]|60|Crafting}}
-{{usedin/row|[[Top Hat]]|200|Crafting}}
-{{usedin/row|[[Blue Tee]]|50|Crafting}}
-{{usedin/row|[[Woodsman#A noob's first swing|A noob's first swing]]|10|Quests}}
-{{usedin/row|[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]|100|Quests}}
-{{usedin/row|[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]|1000|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Roid Ragin]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Sippy Splinters]]|Lots|Alchemy}}
-|}
 Bleach Logs
 {{InfoItem
 |type=Log
@@ -37,23 +19,6 @@ Bleach Logs
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.1|25}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Copper Platelegs]]|150|Crafting}}
-{{usedin/row|[[Birch Longbow]]|250|Crafting}}
-{{usedin/row|[[Small Choppin Pouch]]|800|Crafting}}
-{{usedin/row|[[Purple Tupacband]]|100|Crafting}}
-{{usedin/row|[[Hide Shirt]]|325|Crafting}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|700|Crafting}}
-{{usedin/row|[[Peanut]]|1|Crafting}}
-{{usedin/row|[[Purple Tee]]|100|Crafting}}
-{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|1200|Quests}}
-{{usedin/row|[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|1500|Quests}}
-{{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|3|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Big Meaty Claws]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Archer Or Bust]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Le Brain Tools]]|Lots|Alchemy}}
 |}
 Jungle Logs
 {{InfoItem
@@ -66,19 +31,6 @@ Jungle Logs
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Iron Hatchet]]|250|Crafting}}
-{{usedin/row|[[Iron Platebody]]|600|Crafting}}
-{{usedin/row|[[Saucy Logfries]]|6|Crafting}}
-{{usedin/row|[[Goo Galoshes]]|1000|Crafting}}
-{{usedin/row|[[Copper Netted Net]]|500|Crafting}}
-{{usedin/row|[[Logger Heels]]|1600|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Hearty Diggy]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Jungle Juice]]|Lots|Alchemy}}
-|}
 Forest Fibres
 {{InfoItem
 |type=Log
@@ -87,20 +39,6 @@ Forest Fibres
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 2]]|400|Crafting}}
-{{usedin/row|[[Amarok Helmet]]|2500|Crafting}}
-{{usedin/row|[[Reinforced Net]]|800|Crafting}}
-{{usedin/row|[[Royal Bayonet]]|1250|Crafting}}
-{{usedin/row|[[Average Choppin Pouch]]|1800|Crafting}}
-{{usedin/row|[[Bullet]]|10|Crafting}}
-{{usedin/row|[[Logger Heels]]|1000|Crafting}}
-{{usedin/row|[[Woodsman#Exotic Pranks... I mean Logs!|Exotic Pranks... I mean Logs!]]|1|Quests}}
-{{usedin/row|[[Dazey#Dressing like a Dork|Dressing like a Dork]]|1000|Quests}}
-{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1000|Quests}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
-|}
 Potty Rolls
 {{InfoItem
 |type=Log
@@ -111,14 +49,6 @@ Potty Rolls
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Bandage Wraps]]|2000|Crafting}}
-{{usedin/row|[[Funguy#Wicked Party Cleanup|Wicked Party Cleanup]]|10000|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Cookin Roadkill]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Tea With Pea]]|Lots|Alchemy}}
 |}
 Tropilogs
 {{InfoItem
@@ -131,14 +61,6 @@ Tropilogs
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.5|100}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Platinum Boots]]|8000|Crafting}}
-{{usedin/row|[[Plat Hatchet]]|6500|Crafting}}
-{{usedin/row|[[Sizable Choppin Pouch]]|6750|Crafting}}
-{{usedin/row|[[Sleek Coif]]|2000|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Shaquracy]]|Lots|Alchemy}}
-|}
 Veiny Logs
 {{InfoItem
 |type=Log
@@ -150,28 +72,16 @@ Veiny Logs
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.5|50}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Blunder Skills Completion Token]]|2000|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|All For Kill]]|Lots|Alchemy}}
-|}
 Tundra Logs
 {{InfoItem
 |type=Log
 |sellprice=30
-|source=[[Choppin]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Choppin]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 |hascard=yes
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.5|100}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Spriggly Storm]]|10000|Crafting}}
-{{usedin/row|[[Dementia Dicer]]|15000|Crafting}}
-{{usedin/row|[[Big Choppin Pouch]]|20000|Crafting}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Call Me Ash]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|The Spanish Sahara]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.5|100}}
 |}
 Wispy Lumber
 {{InfoItem
@@ -181,12 +91,6 @@ Wispy Lumber
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Shardshins]]|75000|Crafting}}
-{{usedin/row|[[Void Imperium Axe]]|50000|Crafting}}
-{{usedin/row|[[Large Choppin Pouch]]|30000|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Ignore Overdues]]|Lots|Alchemy}}
-|}
 Alien Hive Chunk
 {{InfoItem
 |type=Log

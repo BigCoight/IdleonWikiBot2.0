@@ -67,9 +67,6 @@ Iron Fishing Rod
 |resource2=Hermit Can|quantity2=850
 |resource3=Distilled Water|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Gold Fishing Rod]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|300}}
@@ -105,10 +102,6 @@ Gold Fishing Rod
 |resource2=Leather Hide|quantity2=1000
 |resource3=Iron Fishing Rod|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Plat Fishing Rod]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Hermit Can|2500}}
@@ -133,7 +126,7 @@ Plat Fishing Rod
 |skillpower=25
 |str=9
 |upgrade=3
-|sellprice=783600
+|sellprice=693600
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -143,17 +136,13 @@ Plat Fishing Rod
 |levelreq=29
 |expgiven=29000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Bloach|quantity1=7000
+|resource1=Bloach|quantity1=2000
 |resource2=Platinum Bar|quantity2=800
 |resource3=Gold Fishing Rod|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Rod for Fishing]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Bloach|7000}}
+{{detrecipe|3|Bloach|2000}}
 {{detrecipe|3|Platinum Bar|800}}
 {{detrecipe|3|Gold Fishing Rod|2}}
 {{detrecipe|40|Hermit Can|5000}}
@@ -163,7 +152,7 @@ Plat Fishing Rod
 {{detrecipe|80|Hermit Can|5100}}
 {{detrecipe|80|Distilled Water|18}}
 |tot=
-{{detrecipe/totals|Bloach|7000}}
+{{detrecipe/totals|Bloach|2000}}
 {{detrecipe/totals|Platinum Bar|800}}
 {{detrecipe/totals|Hermit Can|10100}}
 {{detrecipe/totals|Leather Hide|2000}}
@@ -180,7 +169,7 @@ Dementia Rod for Fishing
 |skillpower=30
 |str=12
 |upgrade=3
-|sellprice=2022200
+|sellprice=1842200
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -194,15 +183,12 @@ Dementia Rod for Fishing
 |resource2=Redox Salts|quantity2=50
 |resource3=Plat Fishing Rod|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Rod]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dementia Bar|300}}
 {{detrecipe|3|Redox Salts|50}}
 {{detrecipe|3|Plat Fishing Rod|2}}
-{{detrecipe|40|Bloach|14000}}
+{{detrecipe|40|Bloach|4000}}
 {{detrecipe|40|Platinum Bar|1600}}
 {{detrecipe|40|Gold Fishing Rod|4}}
 {{detrecipe|80|Hermit Can|10000}}
@@ -214,7 +200,7 @@ Dementia Rod for Fishing
 |tot=
 {{detrecipe/totals|Dementia Bar|300}}
 {{detrecipe/totals|Redox Salts|50}}
-{{detrecipe/totals|Bloach|14000}}
+{{detrecipe/totals|Bloach|4000}}
 {{detrecipe/totals|Platinum Bar|1600}}
 {{detrecipe/totals|Hermit Can|20200}}
 {{detrecipe/totals|Leather Hide|4000}}
@@ -231,7 +217,7 @@ Void Imperium Rod
 |skillpower=36
 |str=15
 |upgrade=4
-|sellprice=4064409
+|sellprice=3704659
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -244,6 +230,7 @@ Void Imperium Rod
 |resource1=Spontaneity Salts|quantity1=200
 |resource2=Minervowl|quantity2=3
 |resource3=Dementia Rod for Fishing|quantity3=2
+|resource4=Dense Water|quantity4=5
 }}
 {{detrecipe/tab
 |reci=
@@ -253,7 +240,7 @@ Void Imperium Rod
 {{detrecipe|40|Dementia Bar|600}}
 {{detrecipe|40|Redox Salts|100}}
 {{detrecipe|40|Plat Fishing Rod|4}}
-{{detrecipe|80|Bloach|28000}}
+{{detrecipe|80|Bloach|8000}}
 {{detrecipe|80|Platinum Bar|3200}}
 {{detrecipe|80|Gold Fishing Rod|8}}
 {{detrecipe|120|Hermit Can|20000}}
@@ -262,12 +249,14 @@ Void Imperium Rod
 {{detrecipe|160|Iron Bar|7200}}
 {{detrecipe|160|Hermit Can|20400}}
 {{detrecipe|160|Distilled Water|72}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Spontaneity Salts|200}}
 {{detrecipe/totals|Minervowl|3}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Redox Salts|100}}
-{{detrecipe/totals|Bloach|28000}}
+{{detrecipe/totals|Bloach|8000}}
 {{detrecipe/totals|Platinum Bar|3200}}
 {{detrecipe/totals|Hermit Can|40400}}
 {{detrecipe/totals|Leather Hide|8000}}

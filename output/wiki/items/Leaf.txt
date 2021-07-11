@@ -14,27 +14,25 @@ Grass Leaf
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.0053|5.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0051|5.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Flip Flops]]|20|Crafting}}
-{{usedin/row|[[Eco Friendly Oil]]|1|Crafting}}
-{{usedin/row|[[Amarok Paws]]|125|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]|50|Quests}}
-{{usedin/row|[[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]]|200|Quests}}
-|}
 Twisty Leaf
 {{InfoItem
 |type=Leaf
 |sellprice=50
-|source=[[Choppin]]
+|source=[[Choppin]], [[DropTable11]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]]|50|Quests}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0075|8.0}}
 |}
 Arctic Leaf
 {{InfoItem
 |type=Leaf
 |sellprice=100
-|source=[[Choppin]]
+|source=[[Choppin]], [[DropTable17]]
 |notes= 
 }}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.3|3.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00445|3.0}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00445|3.0}}
+|}

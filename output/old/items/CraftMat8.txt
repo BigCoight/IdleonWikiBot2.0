@@ -6,6 +6,3 @@
 |notes= 
 }}
 {{ProductionSlot|lvlreq=32|num=6|expcraft=80|time=5000}}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
-|}

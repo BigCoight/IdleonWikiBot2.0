@@ -2,15 +2,12 @@
 |class=All
 |level=1
 |type=Square Obol
-|str=4
-|agi=1
-|wis=2
-|luck=4
-|misc=8% Money
+|misc=6% Money
 |sellprice=3
 |rarity=Silver
-|source=[[SuperDropTable1]]
+|source=[[SuperDropTable1]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Money
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}

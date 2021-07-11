@@ -1,11 +1,12 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Cryo Catacombs
+|world=Frostbite Tundra
+|noquest=0
+|repeatable=Unknown
 |starsign=Leo
 |mmm=Vogal
 |birthweight=8.75
-|notes=fillme
+|notes=[[Crystalswine]] is found in [[Worlds#Cryo Catacombs|Cryo Catacombs]].
 }}
 {{Quest/head}}
 |}

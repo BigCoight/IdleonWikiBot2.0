@@ -5,7 +5,10 @@
 |type=Hexagon Obol
 |skillpower=4
 |str=3
+|misc=2% Mining Efficincy
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Mining
 }}

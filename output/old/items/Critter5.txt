@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|1500|Quests}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Green Bargain]]|Lots|Alchemy}}
-|}

@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Moonmoon|Snelbie}}
+{{DropTable/head}}
 {{DropTable/coin|140|0.34}}
 {{DropTable/row|Singlecle|0.152|1}}
 {{DropTable/card|0.0001}}

@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Nutto]]|0.23|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-|}

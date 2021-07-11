@@ -16,6 +16,3 @@
 {{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.0000159|1.0}}
 {{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.000015300000000000003|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|2|Quests}}
-|}

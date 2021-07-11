@@ -2,7 +2,7 @@
 |title=Mousey
 |order=4
 |category=Hard Resources
-|effect=+{% Shiny Critter Chance
+|effect=+% Shiny Critter Chance
 |bonus=2.5
 |reqtier=4
 }}

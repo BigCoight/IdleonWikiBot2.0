@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Pincermin|Tyson}}
+{{DropTable/head}}
 {{DropTable/coin|100|0.37}}
 {{DropTable/row|Potato Remains|0.17|1}}
 {{DropTable/card|0.0001}}

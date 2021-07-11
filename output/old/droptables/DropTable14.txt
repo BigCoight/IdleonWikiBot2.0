@@ -1,6 +1,9 @@
-{{DropTable/row|Sample Stamp|{{#expr: {{{chance}}}*.001}}|1}}
+{{DropTable/row|Stample Stamp|{{#expr: {{{chance}}}*.001}}|1}}
 {{DropTable/row|Banked Pts Stamp|{{#expr: {{{chance}}}*.0006}}|1}}
 {{DropTable/row|Distilled Water|{{#expr: {{{chance}}}*.022}}|1}}
 {{DropTable/row|EhExPee Statue|{{#expr: {{{chance}}}*.05}}|1}}
 {{DropTable/row|Decent Strength Potion|{{#expr: {{{chance}}}*.15}}|25}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|8|([[Mutton]])}}
+{{DropTable/row|Corporatube Sub|{{#expr: {{{chance}}}*0.2}}|3|([[Mutton]])}}
+{{DropTable/row|Bronze Obol of Worship|{{#expr: {{{chance}}}*0.000945}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}

@@ -6,6 +6,3 @@
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Builder Bird#Restoring Power to the Portal|Restoring Power to the Portal]]|1|Quests}}
-|}

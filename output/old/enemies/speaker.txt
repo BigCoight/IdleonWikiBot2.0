@@ -4,16 +4,14 @@
 |health=310000
 |defence=3200
 |speed=4
-|world=Frostfire Tyundra
 |area=Overpass of Sound
 |exp=1780
-|respawn=40
+|respawn=45
 |defence0=2072.08
-|crystal=Yes
-|crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Cryosnake|Neyeptune}}
+{{DropTable/head}}
 {{DropTable/coin|440|0.3}}
 {{DropTable/row|Audio Cord|0.16|1}}
 {{DropTable/card|0.0001}}

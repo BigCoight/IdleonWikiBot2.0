@@ -9,8 +9,8 @@
 |misc=5% Defence
 |upgrade=3
 |defence=15
-|sellprice=550100
-|source=[[Smithing]]
+|sellprice=460100
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -18,20 +18,15 @@
 |craftnum=24
 |levelreq=32
 |expgiven=55000
-|recipefrom=
-|resource1=Tropilogs|quantity1=8000
-|resource2=Jellyfish|quantity2=8000
+|recipefrom=Start
+|resource1=Tropilogs|quantity1=7000
+|resource2=Jellyfish|quantity2=3000
 |resource3=Gold Boots|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Efaunts Broken Ankles]]|1|Crafting}}
-{{usedin/row|[[Dementia Boots]]|1|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Tropilogs|8000}}
-{{detrecipe|3|Jellyfish|8000}}
+{{detrecipe|3|Tropilogs|7000}}
+{{detrecipe|3|Jellyfish|3000}}
 {{detrecipe|3|Gold Boots|3}}
 {{detrecipe|40|Gold Bar|1800}}
 {{detrecipe|40|Iron Boots|6}}
@@ -41,11 +36,11 @@
 {{detrecipe|120|Copper Bar|1500}}
 {{detrecipe|40|Distilled Water|12}}
 |tot=
-{{detrecipe/totals|Tropilogs|8000}}
-{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Tropilogs|7000}}
+{{detrecipe/totals|Jellyfish|3000}}
 {{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Distilled Water|12}}
 {{detrecipe/totals|Trusty Nails|3000}}
 {{detrecipe/totals|Iron Bar|750}}
 {{detrecipe/totals|Copper Bar|1500}}
-{{detrecipe/totals|Distilled Water|12}}
 }}

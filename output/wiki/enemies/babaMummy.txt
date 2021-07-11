@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Biggie Hours|Efaunt}}
+{{DropTable/head}}
 {{DropTable/coin|25000|1}}
 {{DropTable/card|0.04}}
 {{DropTable/row|Efaunt's Tomb Key|0.8|1}}

@@ -9,6 +9,3 @@
 {{detdrops|[[Chaotic Efaunt]]|0.2|1}}
 {{detdrops|[[Chaotic Chizoar]]|0.2|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|4|Crafting}}
-|}

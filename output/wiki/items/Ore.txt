@@ -10,19 +10,6 @@ Copper Ore
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|30}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Farmer Brim]]|15|Crafting}}
-{{usedin/row|[[Cramped Mining Pouch]]|120|Crafting}}
-{{usedin/row|[[Militia Helm]]|150|Crafting}}
-{{usedin/row|[[Peanut]]|1|Crafting}}
-{{usedin/row|[[Cavern Trekkers]]|1500|Crafting}}
-{{usedin/row|[[Shivering Sack]]|22|Crafting}}
-{{usedin/row|[[Glumlee#Learning to Swing|Learning to Swing]]|5|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Swift Steppin]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Copper Corona]]|Lots|Alchemy}}
-|}
 Iron Ore
 {{InfoItem
 |type=Ore
@@ -34,18 +21,6 @@ Iron Ore
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.6|50}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Small Mining Pouch]]|700|Crafting}}
-{{usedin/row|[[Purple Tupacband]]|50|Crafting}}
-{{usedin/row|[[Icing Ironbite]]|5|Crafting}}
-{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|200|Crafting}}
-{{usedin/row|[[Cavern Trekkers]]|1200|Crafting}}
-{{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|1500|Quests}}
-{{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|200|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
 |}
 Gold Ore
 {{InfoItem
@@ -60,15 +35,6 @@ Gold Ore
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|20}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|75}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Average Mining Pouch]]|1400|Crafting}}
-{{usedin/row|[[FMJ Bullet]]|15|Crafting}}
-{{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|200|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Gold Guzzle]]|Lots|Alchemy}}
-|}
 Platinum Ore
 {{InfoItem
 |type=Ore
@@ -81,44 +47,30 @@ Platinum Ore
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.6|50}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sizable Mining Pouch]]|6750|Crafting}}
-{{usedin/row|[[Platinet]]|3000|Crafting}}
-{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Blue Flav]]|Lots|Alchemy}}
-|}
 Dementia Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 40 Ores into 1 Bar at the Forge. Smelting will take 3500 seconds per Bar using Forge Slot 1.
 |sellprice=35
-|source=[[Mining]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Mining]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 |hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.1|80}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.6|100}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Big Mining Pouch]]|17500|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Laaarrrryyyy]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.6|100}}
 |}
 Void Ore
 {{InfoItem
 |type=Ore
 |description=Smelt down 100 Ores into 1 Bar at the Forge. Smelting will take 6000 seconds per Bar using Forge Slot 1.
 |sellprice=48
-|source=[[Mining]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Mining]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 |hascard=yes
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.1|120}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Large Mining Pouch]]|25000|Crafting}}
-{{usedin/row|[[Alchemy#Vials|Void Vial]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.1|120}}
 |}
 Lustre Ore
 {{InfoItem

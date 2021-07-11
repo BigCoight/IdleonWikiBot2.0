@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Bored Bean|Baby Boa}}
+{{DropTable/head}}
 {{DropTable/coin|8|0.44}}
 {{DropTable/row|Slime Sludge|0.19|1}}
 {{DropTable/card|0.000095}}

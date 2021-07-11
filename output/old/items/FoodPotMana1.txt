@@ -6,9 +6,5 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=3|vendor=Blunder Hills|stock=500|buyprice=20}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Icing Ironbite]]|2|Crafting}}
-{{usedin/row|[[Krunk#A Plot to be Perfect|A Plot to be Perfect]]|50|Quests}}
+{{Vendoritem/tablerow|number=4|vendor=Blunder Hills|stock=500|buyprice=20}}
 |}

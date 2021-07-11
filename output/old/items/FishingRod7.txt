@@ -3,10 +3,11 @@
 |level=55
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=36
 |str=15
 |upgrade=4
-|sellprice=4064409
+|sellprice=3704659
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -19,6 +20,7 @@
 |resource1=Spontaneity Salts|quantity1=200
 |resource2=Minervowl|quantity2=3
 |resource3=Dementia Rod for Fishing|quantity3=2
+|resource4=Dense Water|quantity4=5
 }}
 {{detrecipe/tab
 |reci=
@@ -28,7 +30,7 @@
 {{detrecipe|40|Dementia Bar|600}}
 {{detrecipe|40|Redox Salts|100}}
 {{detrecipe|40|Plat Fishing Rod|4}}
-{{detrecipe|80|Bloach|28000}}
+{{detrecipe|80|Bloach|8000}}
 {{detrecipe|80|Platinum Bar|3200}}
 {{detrecipe|80|Gold Fishing Rod|8}}
 {{detrecipe|120|Hermit Can|20000}}
@@ -37,12 +39,14 @@
 {{detrecipe|160|Iron Bar|7200}}
 {{detrecipe|160|Hermit Can|20400}}
 {{detrecipe|160|Distilled Water|72}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Spontaneity Salts|200}}
 {{detrecipe/totals|Minervowl|3}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Redox Salts|100}}
-{{detrecipe/totals|Bloach|28000}}
+{{detrecipe/totals|Bloach|8000}}
 {{detrecipe/totals|Platinum Bar|3200}}
 {{detrecipe/totals|Hermit Can|40400}}
 {{detrecipe/totals|Leather Hide|8000}}

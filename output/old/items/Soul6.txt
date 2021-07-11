@@ -5,6 +5,3 @@
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|Spook Pint]]|Lots|Alchemy}}
-|}

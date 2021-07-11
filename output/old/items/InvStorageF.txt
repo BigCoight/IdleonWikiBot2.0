@@ -10,6 +10,3 @@
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.0001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Blunderbag]]|1|Crafting}}
-|}

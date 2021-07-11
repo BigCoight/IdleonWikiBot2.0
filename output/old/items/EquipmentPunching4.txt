@@ -7,7 +7,7 @@
 |luck=13
 |reach=65
 |upgrade=4
-|sellprice=14142950
+|sellprice=15192950
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -20,9 +20,6 @@
 |resource1=Melty Cube|quantity1=70000
 |resource2=Bandage Wraps|quantity2=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Member Hoodie]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Melty Cube|70000}}
@@ -36,8 +33,8 @@
 |tot=
 {{detrecipe/totals|Melty Cube|70000}}
 {{detrecipe/totals|Cue Tape|15000}}
+{{detrecipe/totals|Potty Rolls|6000}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Oak Logs|1125}}
 {{detrecipe/totals|Trusty Nails|300}}
-{{detrecipe/totals|Potty Rolls|6000}}
 }}

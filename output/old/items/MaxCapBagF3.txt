@@ -1,24 +1,20 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Health Food, Boost Food, Golden Food.
-|sellprice=59650
-|source=[[Smithing]]
-|notes= 
+|sellprice=79650
+|source=[[Smithing]], Recipe from Start
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
 |craftnum=19
 |levelreq=18
 |expgiven=2400
-|recipefrom=
+|recipefrom=Start
 |resource1=Cramped Food Pouch|quantity1=7
 |resource2=Meat Pie|quantity2=250
 |resource3=Icing Ironbite|quantity3=600
 |resource4=Saucy Logfries|quantity4=600
 }}
-{{usedin/head}}
-{{usedin/row|[[Sizable Food Pouch]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cramped Food Pouch|7}}
@@ -34,6 +30,7 @@
 {{detrecipe|40|Jungle Logs|3600}}
 {{detrecipe|40|Small Life Potion|1800}}
 |tot=
+{{detrecipe/totals|Meat Pie|250}}
 {{detrecipe/totals|Nomwich|525}}
 {{detrecipe/totals|Hot Dog|175}}
 {{detrecipe/totals|Oak Logs|420}}

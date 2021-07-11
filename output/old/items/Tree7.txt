@@ -5,9 +5,3 @@
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Shardshins]]|75000|Crafting}}
-{{usedin/row|[[Void Imperium Axe]]|50000|Crafting}}
-{{usedin/row|[[Large Choppin Pouch]]|30000|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Ignore Overdues]]|Lots|Alchemy}}
-|}

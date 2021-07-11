@@ -3,10 +3,11 @@
 |level=35
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=25
 |str=9
 |upgrade=3
-|sellprice=783600
+|sellprice=693600
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -16,17 +17,13 @@
 |levelreq=29
 |expgiven=29000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Bloach|quantity1=7000
+|resource1=Bloach|quantity1=2000
 |resource2=Platinum Bar|quantity2=800
 |resource3=Gold Fishing Rod|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Rod for Fishing]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Bloach|7000}}
+{{detrecipe|3|Bloach|2000}}
 {{detrecipe|3|Platinum Bar|800}}
 {{detrecipe|3|Gold Fishing Rod|2}}
 {{detrecipe|40|Hermit Can|5000}}
@@ -36,7 +33,7 @@
 {{detrecipe|80|Hermit Can|5100}}
 {{detrecipe|80|Distilled Water|18}}
 |tot=
-{{detrecipe/totals|Bloach|7000}}
+{{detrecipe/totals|Bloach|2000}}
 {{detrecipe/totals|Platinum Bar|800}}
 {{detrecipe/totals|Hermit Can|10100}}
 {{detrecipe/totals|Leather Hide|2000}}

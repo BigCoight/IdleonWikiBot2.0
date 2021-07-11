@@ -2,7 +2,7 @@
 |title=Bunny
 |order=7
 |category=Hard Resources
-|effect=+{% Skill AFK gain rate
+|effect=+% Skill AFK gain rate
 |bonus=1
 |reqtier=6
 }}

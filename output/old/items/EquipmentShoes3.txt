@@ -9,7 +9,7 @@
 |upgrade=3
 |defence=8
 |sellprice=92700
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,19 +17,11 @@
 |craftnum=4
 |levelreq=20
 |expgiven=4200
-|recipefrom=
+|recipefrom=Start
 |resource1=Gold Bar|quantity1=600
 |resource2=Iron Boots|quantity2=2
 |resource3=Distilled Water|quantity3=4
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinum Boots]]|3|Crafting}}
-{{usedin/row|[[Cavern Trekkers]]|1|Crafting}}
-{{usedin/row|[[Angler Boots]]|1|Crafting}}
-{{usedin/row|[[Logger Heels]]|1|Crafting}}
-{{usedin/row|[[Bandito Boots]]|1|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Gold Bar|600}}
@@ -41,8 +33,8 @@
 {{detrecipe|3|Distilled Water|4}}
 |tot=
 {{detrecipe/totals|Gold Bar|600}}
+{{detrecipe/totals|Distilled Water|4}}
 {{detrecipe/totals|Trusty Nails|1000}}
 {{detrecipe/totals|Iron Bar|250}}
 {{detrecipe/totals|Copper Bar|500}}
-{{detrecipe/totals|Distilled Water|4}}
 }}

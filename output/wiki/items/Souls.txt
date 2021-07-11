@@ -3,38 +3,22 @@ Forest Soul
 |type=Soul
 |description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
 |sellprice=3
-|source=[[Worship]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Worship]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Ceramic Skull]]|250|Crafting}}
-{{usedin/row|[[Small Soul Pouch]]|200|Crafting}}
-{{usedin/row|[[Dementia Body]]|1000|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|7000|Crafting}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Bow Jack]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Purple Bargain]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Sippy Soul]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.6|50}}
 |}
 Dune Soul
 {{InfoItem
 |type=Soul
 |description=Fat chonker this one is! It must be the moonmoon diet these ghosts have, they should start eating some of those fruits for a change!
 |sellprice=9
-|source=[[Worship]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Worship]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.4|400}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Horned Skull]]|1200|Crafting}}
-{{usedin/row|[[Sizable Soul Pouch]]|1500|Crafting}}
-{{usedin/row|[[Soulble Gum]]|70|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Sample It]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Chonker Chug]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.4|400}}
 |}
 Rooted Soul
 {{InfoItem
@@ -44,27 +28,14 @@ Rooted Soul
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Prickle Skull]]|12500|Crafting}}
-{{usedin/row|[[Big Soul Pouch]]|8000|Crafting}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Cuz I Catch Em All]]|Lots|Alchemy}}
-|}
 Frigid Soul
 {{InfoItem
 |type=Soul
-|description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
+|description=Well, his mom did warn him if that he kept making funny faces that it'd freeze that way!
 |sellprice=35
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Grey Gatsby]]|50000|Crafting}}
-{{usedin/row|[[Manifested Skull]]|50000|Crafting}}
-{{usedin/row|[[Large Soul Pouch]]|30000|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|22|Crafting}}
-{{usedin/row|[[Alchemy#Power Cauldron|Orange Bargain]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Slowergy Drink]]|Lots|Alchemy}}
-|}
 Squiddy Soul
 {{InfoItem
 |type=Soul
@@ -81,6 +52,3 @@ Cryo Soul
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|Spook Pint]]|Lots|Alchemy}}
-|}

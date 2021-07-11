@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Critters.
 |sellprice=6500
 |source=[[Smithing]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -14,9 +13,6 @@
 |resource1=Crabbo|quantity1=1000
 |resource2=Redox Salts|quantity2=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Critter Pouch]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Crabbo|1000}}

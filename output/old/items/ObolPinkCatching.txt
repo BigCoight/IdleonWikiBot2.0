@@ -5,7 +5,10 @@
 |type=Sparkle Obol
 |skillpower=5
 |agi=5
+|misc=8% Catch Efficincy
 |sellprice=50
 |rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
 }}

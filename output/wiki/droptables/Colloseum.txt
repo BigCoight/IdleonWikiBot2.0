@@ -71,11 +71,12 @@
 {{DropTable/row|Platinum Bar|0.2|20}}
 {{DropTable/row|Dementia Ore|0.1|80}}
 {{DropTable/row|Bloach|0.2|150}}
+{{DropTable/row|Fruitfly|0.2|169}}
 {{DropTable/row|Gold Platelegs|0.04|1}}
 {{DropTable/row|Efaunt's Tomb Key|0.18|1}}
 {{DropTable8|chance=1}}
 |}
-{{DropTable/head|Droptable for Drops for Frostbite Bronze Chest|collapsed=Yes}}
+{{DropTable/head|Droptable for Drops for Chillsnap Bronze Chest|collapsed=Yes}}
 {{DropTable/coin|1000|1}}
 {{DropTable/row|Gem|0.12|1}}
 {{DropTable/row|Weapon Upgrade Stone III|0.025|1}}
@@ -88,7 +89,7 @@
 {{DropTable/row|Platinum Bar|0.2|20}}
 {{DropTable14|chance=1}}
 |}
-{{DropTable/head|Droptable for Drops for Frostbite Silver Chest|collapsed=Yes}}
+{{DropTable/head|Droptable for Drops for Chillsnap Silver Chest|collapsed=Yes}}
 {{DropTable/coin|4000|1}}
 {{DropTable/row|Gem|0.23|1}}
 {{DropTable/row|Gold Helmet|0.02|1}}
@@ -102,7 +103,7 @@
 {{DropTable/row|Tundra Logs|0.5|100}}
 {{DropTable15|chance=1}}
 |}
-{{DropTable/head|Droptable for Drops for Frostbite Golden Chest|collapsed=Yes}}
+{{DropTable/head|Droptable for Drops for Chillsnap Golden Chest|collapsed=Yes}}
 {{DropTable/coin|10000|1}}
 {{DropTable/row|Gem|0.45|1}}
 {{DropTable/row|Dementia Bar|0.2|80}}

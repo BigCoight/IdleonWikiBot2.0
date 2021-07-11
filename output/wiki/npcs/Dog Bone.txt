@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
 |starsign=Cancer
-|mmm=Vogal
-|birthweight=8.42
+|mmm=Ebner
+|birthweight=9.47
 |notes=fillme
 }}
 {{Quest/head}}
@@ -76,9 +77,12 @@
 |quest=Bow Wow going Dow..n!
 }}
 {{dialogue/row
-|text=Look I'm not actually over the whole 'dying' thing and it's been terribly annoying to continually help promote that darn boss monster especially since they were the one who ate me!
+|text=You need 2 inventory spaces!
 }}
 {{dialogue/row
-|text=Ah are those from the boss? @ I mean they're cool and all but to be honest I'm sad I got eaten. Well thanks for helping anyway.
+|text=Ah are those from the boss? @ I mean they're cool and all but to be honest I'm still sad I got eaten those rocks don't really help anything. Well thanks for helping anyway.
+}}
+{{dialogue/row
+|text=Keys... I think I gooOOooot some oooOOooon me somewhere lemme check.
 }}
 |}

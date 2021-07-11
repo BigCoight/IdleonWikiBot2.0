@@ -93,7 +93,7 @@ def openNotes(fn):
 
 
 def main():
-    worldToCrystal = {"Blunder Hills": "Crystal0", "Yum Yum Desert": "Crystal1", "Frostfire Tyundra": "Crystal2"}
+    worldToCrystal = {"Blunder Hills": "Crystal0", "Yum Yum Desert": "Crystal1", "Frostbite Tundra": "Crystal2"}
     enemies = openJSON("Enemies")
     recipes = openJSON("Recipes")
     subTables = openJSON("Droptables")
@@ -102,6 +102,7 @@ def main():
     mapEnem = openCSV("MapEnemies")
     mapName = openCSV("MapNames")
     notes = openNotes("Enemies")
+    custDTs = openJSON("CustomDropTables")
     mapEnemToName = {}
     for i in range(len(mapEnem)):
         if mapEnem[i] in mapEnemToName.keys():
@@ -142,6 +143,8 @@ def main():
         enemy["defFor0"] = defFor0Dmg(enemy["Damages"])
     for name, table in subTables.items():
         subTables[name] = updateDrops(table, recipes, talentNames)
+    for name, table in custDTs.items():
+        custDTs[name] = updateDrops(table, recipes, talentNames)
     skillDTS = {"ORE_TYPE": {}, "TREE_TYPE": {}, "FISH_TYPE": {}, "BUG_TYPE": {}, "Colloseum": {}}
     toDel = []
     for name, enemy in enemies.items():
@@ -165,6 +168,7 @@ def main():
     writeJSON("SkillingDT", skillDTS)
     writeJSON("Enemies", enemies)
     writeJSON("DropTables", subTables)
+    writeJSON("CustomDroptables", custDTs)
 
 
 if __name__ == "__main__":

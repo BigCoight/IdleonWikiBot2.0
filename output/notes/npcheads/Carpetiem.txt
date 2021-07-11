@@ -1,5 +1,6 @@
 {{npc
 |location=Slamabam Straightaway
+|world=Yum-Yum Desert
 |noquest=3
 |repeatable=Unknown
 |birthweight=1.2

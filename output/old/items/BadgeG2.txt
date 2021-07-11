@@ -3,7 +3,7 @@
 |quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |description=Proof that you mastered the art of the Mining, Smithing, and  Choppin skills.
 |sellprice=540720
-|source=[[Smithing]]
+|source=[[Smithing]], [[Scripticus#Champion of the Grasslands|Recipe from Champion of the Grasslands]]
 |notes= 
 }}
 {{ForgeSlot
@@ -11,14 +11,11 @@
 |craftnum=58
 |levelreq=40
 |expgiven=250000
-|recipefrom=
+|recipefrom=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |resource1=Platinum Bar|quantity1=1000
 |resource2=Veiny Logs|quantity2=2000
 |resource3=Amarok Helmet|quantity3=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Platinum Bar|1000}}

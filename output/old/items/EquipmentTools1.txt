@@ -3,6 +3,7 @@
 |level=4
 |skill=mining
 |type=Pickaxe
+|speed=3
 |skillpower=2
 |str=1
 |sellprice=50

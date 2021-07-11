@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Capricorn
-|mmm=Ulrich
-|birthweight=5.43
+|starsign=Aquarius
+|mmm=Vail
+|birthweight=8.05
 |notes=fillme
 }}
 {{Quest/head}}

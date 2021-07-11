@@ -8,21 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Bronze Chest|Dewdrop Bronze Chest]]|0.6|40}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Gnarled Wand]]|30|Crafting}}
-{{usedin/row|[[Orange Tee]]|15|Crafting}}
-{{usedin/row|[[Copper Chopper]]|30|Crafting}}
-{{usedin/row|[[Cramped Choppin Pouch]]|150|Crafting}}
-{{usedin/row|[[Leather Cap]]|45|Crafting}}
-{{usedin/row|[[The Stingers]]|75|Crafting}}
-{{usedin/row|[[Cramped Food Pouch]]|60|Crafting}}
-{{usedin/row|[[Top Hat]]|200|Crafting}}
-{{usedin/row|[[Blue Tee]]|50|Crafting}}
-{{usedin/row|[[Woodsman#A noob's first swing|A noob's first swing]]|10|Quests}}
-{{usedin/row|[[Woodsman#A noob's 2nd first swing|A noob's 2nd first swing]]|100|Quests}}
-{{usedin/row|[[Woodsman#It's Just a Plank, Bro!|It's Just a Plank, Bro!]]|1000|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Roid Ragin]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Sippy Splinters]]|Lots|Alchemy}}
-|}

@@ -5,6 +5,3 @@
 |source=[[Fishing]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 4]]|6|Crafting}}
-|}

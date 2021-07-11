@@ -14,10 +14,12 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Gigafrog|Rat}}
+{{DropTable/head}}
 {{DropTable/coin|80|.3}}
 {{DropTable/row|Corn Kernels|0.24|1}}
 {{DropTable/card|0.000060}}
 {{DropTable/row|Golden Plop|0.00005|1}}
+{{DropTable/recipe|0|Bandito Pantaloon|0.0001}}
 {{DropTable/row|Corporatube Sub|0.23|1|([[Mutton]])}}
 {{DropTable/row|Corporatube Sub|0.23|1|([[Mutton]])}}
 {{DropTable/row|Corporatube Sub|0.23|1|([[Mutton]])}}

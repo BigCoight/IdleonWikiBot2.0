@@ -22,10 +22,6 @@
 |resource2=Steel Axe|quantity2=3
 |resource3=Distilled Water|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Enforced Slasher]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|1250}}
@@ -35,7 +31,7 @@
 {{detrecipe|3|Distilled Water|8}}
 |tot=
 {{detrecipe/totals|Forest Fibres|1250}}
+{{detrecipe/totals|Distilled Water|8}}
 {{detrecipe/totals|Slime Sludge|375}}
 {{detrecipe/totals|Boring Brick|375}}
-{{detrecipe/totals|Distilled Water|8}}
 }}

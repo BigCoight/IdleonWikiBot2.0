@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sandy Pot|Crabcake}}
+{{DropTable/head}}
 {{DropTable/coin|47|0.47}}
 {{DropTable/row|Megalodon Tooth|0.212|1}}
 {{DropTable/row|Casual Confidante|0.1|1|([[Goldric]])}}

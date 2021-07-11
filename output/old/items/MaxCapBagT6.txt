@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Logs, Leaves.
 |sellprice=3282000
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
@@ -32,8 +31,8 @@
 {{detrecipe/totals|Wispy Lumber|30000}}
 {{detrecipe/totals|Tundra Logs|40000}}
 {{detrecipe/totals|Tropilogs|27000}}
+{{detrecipe/totals|Forest Fibres|21600}}
 {{detrecipe/totals|Oak Logs|9000}}
 {{detrecipe/totals|Trusty Nails|1800}}
 {{detrecipe/totals|Bleach Logs|28800}}
-{{detrecipe/totals|Forest Fibres|21600}}
 }}

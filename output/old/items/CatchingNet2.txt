@@ -3,6 +3,7 @@
 |level=8
 |skill=catching
 |type=Bug Catching Net
+|speed=4
 |skillpower=9
 |str=1
 |agi=3

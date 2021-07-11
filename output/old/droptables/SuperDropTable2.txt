@@ -4,4 +4,5 @@
 {{DropTable/row|Golden Meat Pie|{{#expr: {{{chance}}}*0.5}}|1}}
 {{DropTable/row|Gold LUK Obol|{{#expr: {{{chance}}}*0.022050000000000004}}|1}}
 {{DropTable/row|Silver Obol of Double Sixes|{{#expr: {{{chance}}}*0.022050000000000004}}|1}}
+{{DropTable/row|Bronze Obol of Defence|{{#expr: {{{chance}}}*0.03045}}|1}}
 {{DropTable/row|Mystery Upgrade Stone I|{{#expr: {{{chance}}}*0.7}}|3}}

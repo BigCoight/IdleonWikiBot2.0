@@ -14,7 +14,7 @@ Like other piggy NPCs, his quests award stamps. For help completing his quests, 
 |name=Platforms in Disguise, Platsformers!
 |text=Find the 3 invisible platforms hidden throughout the game.
 |difficulty=4
-|requirements=Platform 1 Found: >= 1. Starting at 0., Platform 2 Found: >= 1. Starting at 0.
+|requirements=Platform 1 Found: >= 1. Starting at 0., Platform 2 Found: >= 1. Starting at 0., Platform 3 Found: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Brainstew Stamps}}, 1x {{CraftReq|Arcane Stamp}}
 |notes=See [[Secrets]] for more information.
@@ -26,6 +26,7 @@ Like other piggy NPCs, his quests award stamps. For help completing his quests, 
 |requirements=2500x {{CraftReq|High Steaks}}, 2500x {{CraftReq|Wakka Cherry}}, 2500x {{CraftReq|Singlecle}}
 |consumed=Yes
 |rewards=5x {{CraftReq|Gem}}, 1x {{CraftReq|Fly Intel Stamp}}, 1x {{CraftReq|Holy Mackerel Stamp}}
+|notes=It has to be typed exactly like Wellington says, cAsE sEnSiTiVe. If you're not using a US Keyboard layout, Shift+1 is how you must type the exclamation point.
 }}
 {{Quest
 |name=You Can't Run, but you Can Hide
@@ -34,7 +35,16 @@ Like other piggy NPCs, his quests award stamps. For help completing his quests, 
 |requirements=Up's Given: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Talent II Stamp}}, 2x {{CraftReq|Medium Experience Balloon}}
-|notes=It has to be typed exactly like Wellington says, cAsE sEnSiTiVe. If you're not using a US Keyboard layout, Shift+1 is how you must type the exclamation point.
+|notes=Number of drop, not the total quantity of item. Coins also count. Spaces do NOT count.
+}}
+{{Quest
+|name=Puzzles and Math, a Winning Combination!
+|text= @ Square the number of letters in your character's name. For example 'Koala2' would be 6x6=  36. Kill sand giants until there are exactly 'that' many items on the ground and talk to me! If you get it wrong I'll remove ALL items in the map! @ QUEST
+|difficulty=5
+|requirements=Puzzle Complete: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|Wellington Token}}, {{Talentbook|Stonks!}}, 3x {{CraftReq|Large Experience Balloon}}
+|notes= 
 }}
 |}
 {{dialogue/head}}
@@ -48,7 +58,7 @@ Like other piggy NPCs, his quests award stamps. For help completing his quests, 
 |text=As it happens I was just browsing page 6 infinity 7 of my map here... and I noticed some strange markings I could have sworn weren't there before!
 }}
 {{dialogue/row
-|text=Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.
+|text=Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Grandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.
 |quest=Platforms in Disguise, Platsformers!
 }}
 {{dialogue/row
@@ -82,5 +92,18 @@ Like other piggy NPCs, his quests award stamps. For help completing his quests, 
 }}
 {{dialogue/row
 |text=One day... one day I'll find them! I dare say old sport they can't hide forever! After all sooner or later someone will update the Wiki with a full walkthrough on how to find them!
+}}
+{{dialogue/row
+|text=... but I think we've done our part lets change course here. How about a simple maths puzzle? Get our minds off of that devious blobulyte what do you think?
+}}
+{{dialogue/row
+|text=Right-o! Here's the puzzle: @ Square the number of letters in your character's name. For example 'Koala2' would be 6x6=  36. Kill sand giants until there are exactly 'that' many items on the ground and talk to me! If you get it wrong I'll remove ALL items in the map! @ QUEST:Do the puzzle!
+|quest=Puzzles and Math, a Winning Combination!
+}}
+{{dialogue/row
+|text=Please my good man show some respect! My prizes for completing the quest are well worth keeping you are very mistaken to not have 3 open inventory spaces!
+}}
+{{dialogue/row
+|text=Top stuff my man! Brilliantly solved! I must be getting back to my adventure now as you to yours... cheerio!
 }}
 |}

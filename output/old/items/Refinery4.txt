@@ -5,13 +5,3 @@
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Mark of Member]]|500|Crafting}}
-{{usedin/row|[[Murmillo Helm]]|500|Crafting}}
-{{usedin/row|[[Conquistador Plume]]|500|Crafting}}
-{{usedin/row|[[Adornment of the High Priest]]|500|Crafting}}
-{{usedin/row|[[Member Hoodie]]|500|Crafting}}
-{{usedin/row|[[Damascus Plates]]|500|Crafting}}
-{{usedin/row|[[Evergreen Wraps]]|500|Crafting}}
-{{usedin/row|[[Elegantine Robes]]|500|Crafting}}
-|}

@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 2000: Bugs.
 |sellprice=2926500
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
@@ -32,7 +31,7 @@
 {{detrecipe/totals|Flycicle|35000}}
 {{detrecipe/totals|Mosquisnow|20000}}
 {{detrecipe/totals|Fruitfly|27000}}
-{{detrecipe/totals|Fly|10800}}
 {{detrecipe/totals|Butterfly|34500}}
+{{detrecipe/totals|Fly|10800}}
 {{detrecipe/totals|Distilled Water|72}}
 }}

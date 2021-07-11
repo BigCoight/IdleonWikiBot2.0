@@ -21,13 +21,13 @@ His final quest awards the {{CraftReq|Tiki Chief Token}}.
 |name=Three Strikes, you're Out!
 |text=Hand out flyers by dropping them on the right NPCs
 |difficulty=3
-|requirements=Rich Guy Invited: >= 1. Starting at 0., Happy Guy Invited: >= 1. Starting at 0.
+|requirements=Rich Guy Invited: >= 1. Starting at 0., Happy Guy Invited: >= 1. Starting at 0., Tough Guy Invited: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Questin Stamp}}, 7500 Class Experience
 |notes=Drop the quest item in front of [[Krunk]], [[Funguy]] and [[Mr Pigibank]]
 }}
 {{Quest
-|name=Blame it on the Goblins
+|name=Blame it on the Glublins
 |text=Clear out some Goblins and totally invite everyone again!
 |difficulty=4
 |requirements=Goblins Defeated: >= 5000. Starting at 0., Pretend to Re-Invite Everyone: >= 3. Starting at 3.
@@ -81,7 +81,7 @@ His final quest awards the {{CraftReq|Tiki Chief Token}}.
 }}
 {{dialogue/row
 |text=Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! @ QUEST:Clear out some Goblins and totally invite everyone again!
-|quest=Blame it on the Goblins
+|quest=Blame it on the Glublins
 }}
 {{dialogue/row
 |text=Clear some inventory space so I can give you your rewards.

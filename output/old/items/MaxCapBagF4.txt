@@ -1,9 +1,8 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Health Food, Boost Food, Golden Food.
-|sellprice=122930
+|sellprice=162770
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -12,16 +11,13 @@
 |expgiven=28000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Golden Meat Pie|quantity1=9
-|resource2=Nuget Cake|quantity2=6
+|resource2=Nuget Cake|quantity2=4
 |resource3=Average Food Pouch|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Meat Pie|9}}
-{{detrecipe|3|Nuget Cake|6}}
+{{detrecipe|3|Nuget Cake|4}}
 {{detrecipe|3|Average Food Pouch|2}}
 {{detrecipe|40|Cramped Food Pouch|14}}
 {{detrecipe|80|Nomwich|1050}}
@@ -37,7 +33,8 @@
 {{detrecipe|80|Small Life Potion|3600}}
 |tot=
 {{detrecipe/totals|Golden Meat Pie|9}}
-{{detrecipe/totals|Nuget Cake|6}}
+{{detrecipe/totals|Nuget Cake|4}}
+{{detrecipe/totals|Meat Pie|500}}
 {{detrecipe/totals|Nomwich|1050}}
 {{detrecipe/totals|Hot Dog|350}}
 {{detrecipe/totals|Oak Logs|840}}

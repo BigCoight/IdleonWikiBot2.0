@@ -2,7 +2,7 @@
 |title=Chaotic Amarok
 |order=4
 |category=Bosses
-|effect=+{% Fighting AFK gain rate
+|effect=+% Fighting AFK gain rate
 |bonus=2.5
 |reqtier=1.5
 |source=[[Chaotic Amarok]]

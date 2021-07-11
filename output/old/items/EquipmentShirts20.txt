@@ -19,9 +19,6 @@
 |resource2=Copper Platebody|quantity2=2
 |resource3=Steel Axe|quantity3=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Studded Hide]]|4|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Bleach Logs|325}}

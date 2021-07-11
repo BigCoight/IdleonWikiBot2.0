@@ -3,7 +3,7 @@
 |quest=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |description=Made up of all the tokens that you collected after completing an NPC's entire questline.
 |sellprice=23301
-|source=[[Smithing]]
+|source=[[Smithing]], [[Scripticus#Champion of the Grasslands|Recipe from Champion of the Grasslands]]
 |notes= 
 }}
 {{ForgeSlot
@@ -11,14 +11,11 @@
 |craftnum=57
 |levelreq=1
 |expgiven=2
-|recipefrom=
+|recipefrom=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |resource1=Easy Blunderhills NPC Token|quantity1=1
 |resource2=Med Blunderhills NPC Token|quantity2=1
 |resource3=Hard Blunderhills NPC Token|quantity3=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Easy Blunderhills NPC Token|1}}

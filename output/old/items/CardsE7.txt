@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Thermister
 |order=7
-|category=Frostfire Tyundra
-|effect=+{% Critical Damage
+|category=Frostbite Tundra
+|effect=+% Critical Damage
 |bonus=4
 |reqtier=15
 |source=[[Thermister]]

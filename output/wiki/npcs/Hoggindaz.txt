@@ -1,11 +1,14 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Frostbite Towndra
+|world=Frostbite Tundra
+|noquest=5
+|repeatable=Unknown
 |starsign=Sagittarius
 |mmm=Jenson
 |birthweight=3.42
-|notes=fillme
+|notes=[[Hoggindaz]] is found in [[Worlds#Frostbite Towndra|Frostbite Towndra]], at the bottom right of town. 
+
+His quests introduce the basics of [[Construction]], [[Trapping]] and [[Worship]] to the player. His quests award special talents that allow the sampling resources for the 3D Printer and moving shrines.
 }}
 {{Quest/head}}
 {{Quest
@@ -30,7 +33,7 @@
 |name=Constructing a Tower
 |text=Build the Red and Orange Signposts and also make some Cogs by going to the 'Cog' Tab and opening the Cog Shelf and dragging in some players.
 |difficulty=3
-|requirements=3D Printer Built: >= 1. Starting at 0., Wizard Defender Built: >= 1. Starting at 0.
+|requirements=3D Printer Built: >= 1. Starting at 0., Wizard Defender Built: >= 1. Starting at 0., Cogs Made: >= 1. Starting at 0.
 |consumed=No
 |rewards={{Talentbook|Printer Sampling}}, 2x {{CraftReq|Gem}}
 |notes= 

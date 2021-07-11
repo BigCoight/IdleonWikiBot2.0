@@ -2,7 +2,7 @@
 |title=Potty Rolls
 |order=5
 |category=Medium Resources
-|effect=+{% Choppin Speed
+|effect=+% Choppin Speed
 |bonus=4
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Toilet Tree]]

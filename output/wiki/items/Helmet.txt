@@ -9,7 +9,7 @@ Farmer Brim
 |upgrade=1
 |defence=2
 |sellprice=60
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,13 +17,10 @@ Farmer Brim
 |craftnum=5
 |levelreq=1
 |expgiven=3
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=5
 |resource2=Copper Ore|quantity2=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|5}}
@@ -64,7 +61,7 @@ Mark of Member
 |misc=15% Xp From Monsters
 |upgrade=5
 |defence=50
-|sellprice=1415500
+|sellprice=8897750
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -86,23 +83,27 @@ Mark of Member
 {{detrecipe|40|Dementia Helmet|2}}
 {{detrecipe|80|Froge|10000}}
 {{detrecipe|80|Platinum Helmet|4}}
-{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Jellyfish|9000}}
 {{detrecipe|120|Iron Helmet|16}}
 {{detrecipe|160|Iron Bar|2000}}
-{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|160|Glublin Ear|4800}}
 {{detrecipe|120|Platinum Bar|3000}}
 {{detrecipe|80|Dementia Bar|600}}
 {{detrecipe|40|Void Bar|1000}}
+{{detrecipe|40|Dense Water|5}}
 {{detrecipe|3|Dioxide Synthesis|500}}
 |tot=
 {{detrecipe/totals|Grandma Disguise|1}}
-{{detrecipe/totals|Spontaneity Salts|500}}
-{{detrecipe/totals|Froge|10000}}
-{{detrecipe/totals|Jellyfish|16000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Goblin Ear|4800}}
-{{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Dioxide Synthesis|500}}
+{{detrecipe/totals|Spontaneity Salts|500}}
+{{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Jellyfish|9000}}
+{{detrecipe/totals|Platinum Bar|3000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Glublin Ear|4800}}
 }}
 Leather Cap
 {{InfoItem
@@ -115,7 +116,7 @@ Leather Cap
 |upgrade=2
 |defence=4
 |sellprice=254
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -123,14 +124,11 @@ Leather Cap
 |craftnum=13
 |levelreq=4
 |expgiven=12
-|recipefrom=
+|recipefrom=Start
 |resource1=Frog Leg|quantity1=25
 |resource2=Oak Logs|quantity2=45
 |resource3=Thread|quantity3=13
 }}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Frog Leg|25}}
@@ -166,9 +164,6 @@ White Headband
 {{detdrops|[[Nightmare Amarok]]|0.01|2.0}}
 {{detdrops|[[Baba Yaga]]|0.01|2.0}}
 {{detdrops|[[Dewdrop Bronze Chest]]|0.01|1.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
 |}
 Green Headband
 {{InfoItem
@@ -221,9 +216,6 @@ Purple Tupacband
 |resource2=Iron Ore|quantity2=50
 |resource3=Crude Oil|quantity3=60
 }}
-{{usedin/head}}
-{{usedin/row|[[Hamish#Should We Tell Him?|Should We Tell Him?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Bleach Logs|100}}
@@ -249,9 +241,6 @@ Yellow Headband
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|.0001|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Bandit Bob#Bob's Brand New Bandana|Bob's Brand New Bandana]]|1|Quests}}
 |}
 Pink Headband
 {{InfoItem
@@ -326,7 +315,7 @@ Demon Horns
 |class=All
 |level=15
 |type=Helmet
-|weaponpower=5
+|weaponpower=50
 |str=3
 |agi=3
 |luck=3
@@ -362,7 +351,7 @@ Copper Helmet
 |upgrade=2
 |defence=5
 |sellprice=560
-|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Smithing]]
+|source=[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -370,17 +359,10 @@ Copper Helmet
 |craftnum=17
 |levelreq=6
 |expgiven=35
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=30
 |resource2=Bean Slices|quantity2=50
 }}
-{{usedin/head}}
-{{usedin/row|[[Militia Helm]]|2|Crafting}}
-{{usedin/row|[[Thief Hood]]|2|Crafting}}
-{{usedin/row|[[Top Hat]]|2|Crafting}}
-{{usedin/row|[[Party Hat]]|4|Crafting}}
-{{usedin/row|[[Gold Helmet]]|4|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|30}}
@@ -400,7 +382,7 @@ Iron Helmet
 |upgrade=2
 |defence=9
 |sellprice=10000
-|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Smithing]]
+|source=[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -408,22 +390,17 @@ Iron Helmet
 |craftnum=33
 |levelreq=12
 |expgiven=520
-|recipefrom=
+|recipefrom=Start
 |resource1=Iron Bar|quantity1=125
-|resource2=Goblin Ear|quantity2=300
+|resource2=Glublin Ear|quantity2=300
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinum Helmet]]|4|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|1|Quests}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|125}}
-{{detrecipe|3|Goblin Ear|300}}
+{{detrecipe|3|Glublin Ear|300}}
 |tot=
 {{detrecipe/totals|Iron Bar|125}}
-{{detrecipe/totals|Goblin Ear|300}}
+{{detrecipe/totals|Glublin Ear|300}}
 }}
 Gold Helmet
 {{InfoItem
@@ -437,7 +414,7 @@ Gold Helmet
 |upgrade=3
 |defence=15
 |sellprice=36990
-|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Smithing]]
+|source=[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -445,14 +422,11 @@ Gold Helmet
 |craftnum=1
 |levelreq=15
 |expgiven=900
-|recipefrom=
+|recipefrom=Start
 |resource1=Fly|quantity1=2000
 |resource2=Copper Helmet|quantity2=4
 |resource3=Gold Bar|quantity3=250
 }}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Fly|2000}}
@@ -462,9 +436,9 @@ Gold Helmet
 {{detrecipe|3|Gold Bar|250}}
 |tot=
 {{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Gold Bar|250}}
 {{detrecipe/totals|Copper Bar|120}}
 {{detrecipe/totals|Bean Slices|200}}
-{{detrecipe/totals|Gold Bar|250}}
 }}
 Amarok Helmet
 {{InfoItem
@@ -491,9 +465,6 @@ Amarok Helmet
 |resource2=Forest Fibres|quantity2=2500
 |resource3=Woodular Circle|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Blunder Skills Completion Token]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Amarok Slab|20}}
@@ -515,8 +486,8 @@ Platinum Helmet
 |misc=5% Defence
 |upgrade=4
 |defence=25
-|sellprice=441000
-|source=[[Smithing]]
+|sellprice=416500
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -524,26 +495,23 @@ Platinum Helmet
 |craftnum=21
 |levelreq=29
 |expgiven=20000
-|recipefrom=
-|resource1=Jellyfish|quantity1=4000
+|recipefrom=Start
+|resource1=Jellyfish|quantity1=2250
 |resource2=Iron Helmet|quantity2=4
 |resource3=Platinum Bar|quantity3=750
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Helmet]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Jellyfish|4000}}
+{{detrecipe|3|Jellyfish|2250}}
 {{detrecipe|3|Iron Helmet|4}}
 {{detrecipe|40|Iron Bar|500}}
-{{detrecipe|40|Goblin Ear|1200}}
+{{detrecipe|40|Glublin Ear|1200}}
 {{detrecipe|3|Platinum Bar|750}}
 |tot=
-{{detrecipe/totals|Jellyfish|4000}}
-{{detrecipe/totals|Iron Bar|500}}
-{{detrecipe/totals|Goblin Ear|1200}}
+{{detrecipe/totals|Jellyfish|2250}}
 {{detrecipe/totals|Platinum Bar|750}}
+{{detrecipe/totals|Iron Bar|500}}
+{{detrecipe/totals|Glublin Ear|1200}}
 }}
 Dementia Helmet
 {{InfoItem
@@ -557,8 +525,8 @@ Dementia Helmet
 |misc=6% Defence
 |upgrade=4
 |defence=34
-|sellprice=657000
-|source=[[Smithing]]
+|sellprice=1298000
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -566,30 +534,28 @@ Dementia Helmet
 |craftnum=1
 |levelreq=36
 |expgiven=100000
-|recipefrom=
+|recipefrom=Start
 |resource1=Froge|quantity1=5000
 |resource2=Platinum Helmet|quantity2=2
 |resource3=Dementia Bar|quantity3=300
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Helmet]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Froge|5000}}
 {{detrecipe|3|Platinum Helmet|2}}
-{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Jellyfish|4500}}
 {{detrecipe|40|Iron Helmet|8}}
 {{detrecipe|80|Iron Bar|1000}}
-{{detrecipe|80|Goblin Ear|2400}}
+{{detrecipe|80|Glublin Ear|2400}}
 {{detrecipe|40|Platinum Bar|1500}}
 {{detrecipe|3|Dementia Bar|300}}
 |tot=
 {{detrecipe/totals|Froge|5000}}
-{{detrecipe/totals|Jellyfish|8000}}
-{{detrecipe/totals|Iron Bar|1000}}
-{{detrecipe/totals|Goblin Ear|2400}}
 {{detrecipe/totals|Dementia Bar|300}}
+{{detrecipe/totals|Jellyfish|4500}}
+{{detrecipe/totals|Platinum Bar|1500}}
+{{detrecipe/totals|Iron Bar|1000}}
+{{detrecipe/totals|Glublin Ear|2400}}
 }}
 Efaunt Helmet
 {{InfoItem
@@ -648,8 +614,8 @@ Void Imperium Helmet
 |misc=8% Defence
 |upgrade=5
 |defence=46
-|sellprice=7564000
-|source=[[Smithing]]
+|sellprice=8846250
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -657,38 +623,36 @@ Void Imperium Helmet
 |craftnum=25
 |levelreq=43
 |expgiven=275000
-|recipefrom=
+|recipefrom=Start
 |resource1=Spontaneity Salts|quantity1=500
 |resource2=Dementia Helmet|quantity2=2
 |resource3=Void Bar|quantity3=1000
+|resource4=Dense Water|quantity4=5
 }}
-{{usedin/head}}
-{{usedin/row|[[Mark of Member]]|1|Crafting}}
-{{usedin/row|[[Murmillo Helm]]|1|Crafting}}
-{{usedin/row|[[Conquistador Plume]]|1|Crafting}}
-{{usedin/row|[[Adornment of the High Priest]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spontaneity Salts|500}}
 {{detrecipe|3|Dementia Helmet|2}}
 {{detrecipe|40|Froge|10000}}
 {{detrecipe|40|Platinum Helmet|4}}
-{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Jellyfish|9000}}
 {{detrecipe|80|Iron Helmet|16}}
 {{detrecipe|120|Iron Bar|2000}}
-{{detrecipe|120|Goblin Ear|4800}}
+{{detrecipe|120|Glublin Ear|4800}}
 {{detrecipe|80|Platinum Bar|3000}}
 {{detrecipe|40|Dementia Bar|600}}
 {{detrecipe|3|Void Bar|1000}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Spontaneity Salts|500}}
-{{detrecipe/totals|Froge|10000}}
-{{detrecipe/totals|Jellyfish|16000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Goblin Ear|4800}}
-{{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Jellyfish|9000}}
+{{detrecipe/totals|Platinum Bar|3000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Glublin Ear|4800}}
 }}
 Party Hat
 {{InfoItem
@@ -844,9 +808,6 @@ Grandma Disguise
 {{detdrops|[[Chaotic Amarok]]|0.004|1}}
 {{detdrops|[[Nightmare Amarok]]|0.001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Mark of Member]]|1|Crafting}}
-|}
 Santa Hat
 {{InfoItem
 |class=All
@@ -908,6 +869,16 @@ Bunny Ears
 |sellprice=1
 |notes= 
 }}
+Summer Shell
+{{InfoItem
+|class=All
+|level=1
+|type=Helmet
+|agi=4
+|misc=4% Xp From Monsters
+|upgrade=3
+|sellprice=1
+}}
 Militia Helm
 {{InfoItem
 |class=Warrior
@@ -931,9 +902,6 @@ Militia Helm
 |resource2=Copper Ore|quantity2=150
 |resource3=Copper Helmet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Viking Cap]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|25}}
@@ -954,9 +922,10 @@ Viking Cap
 |type=Helmet
 |str=13
 |wis=3
+|misc=10% Mining Efficincy
 |upgrade=3
 |defence=21
-|sellprice=11970
+|sellprice=57970
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -981,11 +950,12 @@ Viking Cap
 {{detrecipe|3|Gold Bar|400}}
 {{detrecipe|3|Glass Shard|2}}
 |tot=
+{{detrecipe/totals|Gold Bar|400}}
+{{detrecipe/totals|Glass Shard|2}}
 {{detrecipe/totals|Iron Bar|125}}
 {{detrecipe/totals|Copper Ore|750}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Bean Slices|500}}
-{{detrecipe/totals|Glass Shard|2}}
 }}
 Murmillo Helm
 {{InfoItem
@@ -998,7 +968,7 @@ Murmillo Helm
 |misc=10% Defence
 |upgrade=3
 |defence=55
-|sellprice=7614000
+|sellprice=8896250
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1019,22 +989,25 @@ Murmillo Helm
 {{detrecipe|40|Dementia Helmet|2}}
 {{detrecipe|80|Froge|10000}}
 {{detrecipe|80|Platinum Helmet|4}}
-{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Jellyfish|9000}}
 {{detrecipe|120|Iron Helmet|16}}
 {{detrecipe|160|Iron Bar|2000}}
-{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|160|Glublin Ear|4800}}
 {{detrecipe|120|Platinum Bar|3000}}
 {{detrecipe|80|Dementia Bar|600}}
 {{detrecipe|40|Void Bar|1000}}
+{{detrecipe|40|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Dioxide Synthesis|500}}
 {{detrecipe/totals|Spontaneity Salts|500}}
-{{detrecipe/totals|Froge|10000}}
-{{detrecipe/totals|Jellyfish|16000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Goblin Ear|4800}}
-{{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Jellyfish|9000}}
+{{detrecipe/totals|Platinum Bar|3000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Glublin Ear|4800}}
 }}
 Thief Hood
 {{InfoItem
@@ -1059,9 +1032,6 @@ Thief Hood
 |resource2=Thread|quantity2=150
 |resource3=Copper Helmet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Coif]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|25}}
@@ -1084,7 +1054,7 @@ Sleek Coif
 |agi=12
 |upgrade=3
 |defence=18
-|sellprice=11970
+|sellprice=51970
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1109,11 +1079,12 @@ Sleek Coif
 {{detrecipe|3|Tropilogs|2000}}
 {{detrecipe|3|Glass Shard|2}}
 |tot=
+{{detrecipe/totals|Tropilogs|2000}}
+{{detrecipe/totals|Glass Shard|2}}
 {{detrecipe/totals|Iron Bar|125}}
 {{detrecipe/totals|Thread|750}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Bean Slices|500}}
-{{detrecipe/totals|Glass Shard|2}}
 }}
 Conquistador Plume
 {{InfoItem
@@ -1126,7 +1097,7 @@ Conquistador Plume
 |misc=6% Movement Speed
 |upgrade=3
 |defence=47
-|sellprice=7614000
+|sellprice=8896250
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1147,22 +1118,25 @@ Conquistador Plume
 {{detrecipe|40|Dementia Helmet|2}}
 {{detrecipe|80|Froge|10000}}
 {{detrecipe|80|Platinum Helmet|4}}
-{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Jellyfish|9000}}
 {{detrecipe|120|Iron Helmet|16}}
 {{detrecipe|160|Iron Bar|2000}}
-{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|160|Glublin Ear|4800}}
 {{detrecipe|120|Platinum Bar|3000}}
 {{detrecipe|80|Dementia Bar|600}}
 {{detrecipe|40|Void Bar|1000}}
+{{detrecipe|40|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Dioxide Synthesis|500}}
 {{detrecipe/totals|Spontaneity Salts|500}}
-{{detrecipe/totals|Froge|10000}}
-{{detrecipe/totals|Jellyfish|16000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Goblin Ear|4800}}
-{{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Jellyfish|9000}}
+{{detrecipe/totals|Platinum Bar|3000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Glublin Ear|4800}}
 }}
 Top Hat
 {{InfoItem
@@ -1187,10 +1161,6 @@ Top Hat
 |resource2=Oak Logs|quantity2=200
 |resource3=Copper Helmet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Witch Hat]]|5|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|25}}
@@ -1211,9 +1181,10 @@ Witch Hat
 |type=Helmet
 |agi=1
 |wis=16
+|misc=10% Chop Efficiency
 |upgrade=3
 |defence=15
-|sellprice=11720
+|sellprice=131720
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1238,11 +1209,12 @@ Witch Hat
 {{detrecipe|3|Corn Kernels|4000}}
 {{detrecipe|3|Glass Shard|2}}
 |tot=
+{{detrecipe/totals|Corn Kernels|4000}}
+{{detrecipe/totals|Glass Shard|2}}
 {{detrecipe/totals|Iron Bar|125}}
 {{detrecipe/totals|Oak Logs|1000}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Bean Slices|500}}
-{{detrecipe/totals|Glass Shard|2}}
 }}
 Adornment of the High Priest
 {{InfoItem
@@ -1255,7 +1227,7 @@ Adornment of the High Priest
 |misc=30% Crit Damage
 |upgrade=5
 |defence=40
-|sellprice=7614000
+|sellprice=8896250
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1276,20 +1248,23 @@ Adornment of the High Priest
 {{detrecipe|40|Dementia Helmet|2}}
 {{detrecipe|80|Froge|10000}}
 {{detrecipe|80|Platinum Helmet|4}}
-{{detrecipe|120|Jellyfish|16000}}
+{{detrecipe|120|Jellyfish|9000}}
 {{detrecipe|120|Iron Helmet|16}}
 {{detrecipe|160|Iron Bar|2000}}
-{{detrecipe|160|Goblin Ear|4800}}
+{{detrecipe|160|Glublin Ear|4800}}
 {{detrecipe|120|Platinum Bar|3000}}
 {{detrecipe|80|Dementia Bar|600}}
 {{detrecipe|40|Void Bar|1000}}
+{{detrecipe|40|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Dioxide Synthesis|500}}
 {{detrecipe/totals|Spontaneity Salts|500}}
-{{detrecipe/totals|Froge|10000}}
-{{detrecipe/totals|Jellyfish|16000}}
-{{detrecipe/totals|Iron Bar|2000}}
-{{detrecipe/totals|Goblin Ear|4800}}
-{{detrecipe/totals|Dementia Bar|600}}
 {{detrecipe/totals|Void Bar|1000}}
+{{detrecipe/totals|Dense Water|5}}
+{{detrecipe/totals|Froge|10000}}
+{{detrecipe/totals|Dementia Bar|600}}
+{{detrecipe/totals|Jellyfish|9000}}
+{{detrecipe/totals|Platinum Bar|3000}}
+{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Glublin Ear|4800}}
 }}

@@ -2,7 +2,7 @@
 |title=Ghost
 |order=0
 |category=Event
-|effect=+{% Monster EXP While Active
+|effect=+% Monster EXP While Active
 |bonus=3
 |reqtier=2
 |source=[[Giftmas Blobulyte]], [[Meaning of Giftmas]], [[Ghost]]

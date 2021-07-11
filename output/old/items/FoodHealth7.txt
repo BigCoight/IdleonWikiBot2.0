@@ -8,6 +8,3 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=1|vendor=YumYum Grotto|stock=25000|buyprice=320}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|250|Crafting}}
-|}

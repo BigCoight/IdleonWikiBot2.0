@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Logs, Leaves.
 |sellprice=28500
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -15,9 +14,6 @@
 |resource2=Small Choppin Pouch|quantity2=3
 |resource3=Forest Fibres|quantity3=1800
 }}
-{{usedin/head}}
-{{usedin/row|[[Sizable Choppin Pouch]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cramped Choppin Pouch|5}}
@@ -27,8 +23,8 @@
 {{detrecipe|40|Bleach Logs|2400}}
 {{detrecipe|3|Forest Fibres|1800}}
 |tot=
+{{detrecipe/totals|Forest Fibres|1800}}
 {{detrecipe/totals|Oak Logs|750}}
 {{detrecipe/totals|Trusty Nails|150}}
 {{detrecipe/totals|Bleach Logs|2400}}
-{{detrecipe/totals|Forest Fibres|1800}}
 }}

@@ -1,8 +1,10 @@
 {{InfoItem
 |class=All
 |level=20
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=13
+|speed=4
+|skillpower=13
 |agi=7
 |upgrade=2
 |sellprice=6000
@@ -18,9 +20,6 @@
 |resource1=Mutant Crabbo|quantity1=2
 |resource2=Redox Salts|quantity2=20
 }}
-{{usedin/head}}
-{{usedin/row|[[Natural Traps]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Mutant Crabbo|2}}

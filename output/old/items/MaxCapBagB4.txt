@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 500: Bugs.
 |sellprice=221625
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -14,9 +13,6 @@
 |resource1=Fruitfly|quantity1=6750
 |resource2=Average Bug Pouch|quantity2=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Bug Pouch]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Fruitfly|6750}}
@@ -29,7 +25,7 @@
 {{detrecipe|40|Butterfly|4800}}
 |tot=
 {{detrecipe/totals|Fruitfly|6750}}
-{{detrecipe/totals|Fly|2700}}
 {{detrecipe/totals|Butterfly|8625}}
+{{detrecipe/totals|Fly|2700}}
 {{detrecipe/totals|Distilled Water|18}}
 }}

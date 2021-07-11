@@ -6,9 +6,5 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=500|buyprice=8}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Cramped Food Pouch]]|75|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Hungry Stowaway|The Hungry Stowaway]]|50|Quests}}
+{{Vendoritem/tablerow|number=0|vendor=Blunder Hills|stock=750|buyprice=8}}
 |}

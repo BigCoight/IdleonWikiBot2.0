@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sand Castle|Mashed Potato}}
+{{DropTable/head}}
 {{DropTable/coin|90|0.38}}
 {{DropTable/row|Pincer Arm|0.18|1}}
 {{DropTable/card|0.0001}}

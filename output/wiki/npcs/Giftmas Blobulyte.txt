@@ -1,5 +1,6 @@
 {{npc
 |location=Blunder Hills
+|world=Blunder Hills
 |noquest=2
 |repeatable=Unknown
 |birthweight=2.4

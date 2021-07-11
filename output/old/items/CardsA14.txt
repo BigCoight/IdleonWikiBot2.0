@@ -2,7 +2,7 @@
 |title=Crystal Carrot
 |order=14
 |category=Blunder Hills
-|effect=+{% Total Drop Rate
+|effect=+% Total Drop Rate
 |bonus=5
 |reqtier=3
 |source=[[Crystal Carrot]]

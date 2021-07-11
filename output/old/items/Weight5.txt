@@ -5,6 +5,7 @@
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=10000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Faraway Piers|stock=1|buyprice=40000}}

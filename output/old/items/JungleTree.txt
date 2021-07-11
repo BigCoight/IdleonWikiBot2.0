@@ -8,16 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Silver Chest|Dewdrop Silver Chest]]|0.4|15}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Iron Hatchet]]|250|Crafting}}
-{{usedin/row|[[Iron Platebody]]|600|Crafting}}
-{{usedin/row|[[Saucy Logfries]]|6|Crafting}}
-{{usedin/row|[[Goo Galoshes]]|1000|Crafting}}
-{{usedin/row|[[Copper Netted Net]]|500|Crafting}}
-{{usedin/row|[[Logger Heels]]|1600|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Hearty Diggy]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Jungle Juice]]|Lots|Alchemy}}
-|}

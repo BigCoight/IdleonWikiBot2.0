@@ -8,7 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Pincermin]]|0.18|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Platinum Pickaxe]]|10500|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-|}

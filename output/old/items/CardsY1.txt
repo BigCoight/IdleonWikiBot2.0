@@ -2,7 +2,7 @@
 |title=Giftmas Blobulyte
 |order=1
 |category=Event
-|effect=+{% Total Drop Rate
+|effect=+% Total Drop Rate
 |bonus=3
 |reqtier=1.5
 }}

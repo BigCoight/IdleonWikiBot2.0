@@ -19,9 +19,11 @@
 {{DropTable4|chance=0.0082}}
 |}
 {{DropTable/head|Droptable for Drops for Void|collapsed=Yes}}
+{{DropTable/card|0.00006}}
 {{DropTable4|chance=0.0090}}
 |}
 {{DropTable/head|Droptable for Drops for Lustre|collapsed=Yes}}
+{{DropTable/card|0.00006}}
 {{DropTable4|chance=0.0095}}
 |}
 {{DropTable/head|Droptable for Drops for Starfire|collapsed=Yes}}

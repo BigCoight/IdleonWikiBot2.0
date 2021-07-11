@@ -6,8 +6,9 @@ Bronze STR Obol
 |str=1
 |sellprice=1
 |rarity=Bronze
-|source=[[DropTable1]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable1]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]]
 |notes= 
+|family=STR
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0003779999999999999|1.0}}
@@ -29,8 +30,9 @@ Bronze AGI Obol
 |agi=1
 |sellprice=1
 |rarity=Bronze
-|source=[[DropTable2]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable2]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]]
 |notes= 
+|family=AGI
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00031499999999999996|1.0}}
@@ -51,8 +53,9 @@ Bronze WIS Obol
 |wis=1
 |sellprice=1
 |rarity=Bronze
-|source=[[DropTable3]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable3]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]]
 |notes= 
+|family=WIS
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.000252|1.0}}
@@ -72,10 +75,11 @@ Bronze LUK Obol
 |level=1
 |type=Circle Obol
 |luck=1
-|sellprice=3
+|sellprice=1
 |rarity=Bronze
 |source=[[DropTable4]], [[Alchemy#Liquid Shop|Mediocre Obols]], [[Alchemy#Liquid Shop|Decent Obols]]
 |notes= 
+|family=LUK
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.0003779999999999999|1.0}}
@@ -95,12 +99,12 @@ Silver STR Obol
 |str=2
 |sellprice=3
 |rarity=Silver
-|source=[[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[DropTable6]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Carpetiem#Darn Lazy Gamers!|Darn Lazy Gamers!]], [[DropTable6]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=STR
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0003779999999999999|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0003779999999999999|1.0}}
 {{detdrops|[[Sandy Pot]]|0.0000018899999999999997|1.0}}
 {{detdrops|[[Mimic]]|0.000002016|1.0}}
 {{detdrops|[[Crabcake]]|0.0000022679999999999997|1.0}}
@@ -119,12 +123,12 @@ Silver AGI Obol
 |agi=2
 |sellprice=3
 |rarity=Silver
-|source=[[DropTable7]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable7]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=AGI
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00031499999999999996|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00031499999999999996|1.0}}
 {{detdrops|[[Mafioso]]|0.000002016|1.0}}
 {{detdrops|[[Sand Castle]]|0.0000022049999999999996|1.0}}
 {{detdrops|[[Pincermin]]|0.000002331|1.0}}
@@ -146,12 +150,12 @@ Silver WIS Obol
 |wis=2
 |sellprice=3
 |rarity=Silver
-|source=[[DropTable8]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable8]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=WIS
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.000252|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.000252|1.0}}
 {{detdrops|[[Tyson]]|0.000002016|1.0}}
 {{detdrops|[[Moonmoon]]|0.0000022049999999999996|1.0}}
 {{detdrops|[[Sand Giant]]|0.000002331|1.0}}
@@ -172,12 +176,12 @@ Silver LUK Obol
 |luck=2
 |sellprice=3
 |rarity=Silver
-|source=[[DropTable9]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[DropTable9]], [[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=LUK
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0003779999999999999|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0003779999999999999|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.000007559999999999999|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.000007559999999999999|1.0}}
 {{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.000007559999999999999|1.0}}
@@ -192,7 +196,9 @@ Gold STR Obol
 |str=4
 |sellprice=8
 |rarity=Gold
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=STR
 }}
 Gold AGI Obol
 {{InfoItem
@@ -202,7 +208,9 @@ Gold AGI Obol
 |agi=4
 |sellprice=8
 |rarity=Gold
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=AGI
 }}
 Gold WIS Obol
 {{InfoItem
@@ -212,7 +220,9 @@ Gold WIS Obol
 |wis=4
 |sellprice=8
 |rarity=Gold
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=WIS
 }}
 Gold LUK Obol
 {{InfoItem
@@ -222,12 +232,12 @@ Gold LUK Obol
 |luck=4
 |sellprice=8
 |rarity=Gold
-|source=[[SuperDropTable2]]
+|source=[[SuperDropTable2]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=LUK
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00007938000000000002|1.0}}
 {{detdrops|[[Sandy Pot]]|0.00000039690000000000007|1.0}}
 {{detdrops|[[Mimic]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000004762800000000001|1.0}}
@@ -261,6 +271,50 @@ Gold LUK Obol
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.0000019845000000000002|1.0}}
 |}
+Platinum STR Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|str=7
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=STR
+}}
+Platinum AGI Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|agi=7
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=AGI
+}}
+Platinum WIS Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|wis=7
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=WIS
+}}
+Platinum LUK Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|luck=7
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=LUK
+}}
 Bronze Obol of Puny Damage
 {{InfoItem
 |class=All
@@ -271,6 +325,7 @@ Bronze Obol of Puny Damage
 |rarity=Bronze
 |source=[[Obol Altar#Bad Kitty, get off that altar!|Bad Kitty, get off that altar!]], [[Alchemy#Liquid Shop|Mediocre Obols]]
 |notes= 
+|family=Damage
 }}
 Silver Obol of Little Damage
 {{InfoItem
@@ -280,11 +335,12 @@ Silver Obol of Little Damage
 |str=1
 |agi=1
 |wis=1
-|misc=20 Base Damage
+|misc=10 Base Damage
 |sellprice=3
 |rarity=Silver
-|source=[[SuperDropTable1]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[SuperDropTable1]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Damage
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}
@@ -331,32 +387,15 @@ Golden Obol of Big Boy Damage
 |level=1
 |type=Circle Obol
 |weaponpower=1
-|misc=30 Base Damage
+|str=1
+|agi=1
+|wis=1
+|misc=20 Base Damage
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
-}}
-Platinum Obol of Lethal Damage
-{{InfoItem
-|class=All
-|level=1
-|type=Circle Obol
-|weaponpower=1
-|misc=60 Base Damage
-|sellprice=20
-|rarity=Platinum
-|notes= 
-}}
-Dementia Obol of Infinite Damage
-{{InfoItem
-|class=All
-|level=1
-|type=Circle Obol
-|weaponpower=2
-|misc=100 Base Damage
-|sellprice=50
-|rarity=Dementia
-|notes= 
+|family=Damage
 }}
 Bronze Obol of Small Swings
 {{InfoItem
@@ -369,6 +408,7 @@ Bronze Obol of Small Swings
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Mediocre Obols]]
 |notes= 
+|family=Mining
 }}
 Silver Obol of Moderate Mining
 {{InfoItem
@@ -380,8 +420,9 @@ Silver Obol of Moderate Mining
 |str=1
 |sellprice=3
 |rarity=Silver
-|source=[[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Mining
 }}
 Bronze Obol of Chippin Chops
 {{InfoItem
@@ -394,6 +435,7 @@ Bronze Obol of Chippin Chops
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Mediocre Obols]]
 |notes= 
+|family=Choppin
 }}
 Silver Obol of Big Bark
 {{InfoItem
@@ -405,8 +447,9 @@ Silver Obol of Big Bark
 |wis=1
 |sellprice=3
 |rarity=Silver
-|source=[[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Choppin
 }}
 Bronze Obol of Finite Fish
 {{InfoItem
@@ -419,6 +462,7 @@ Bronze Obol of Finite Fish
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
 |notes= 
+|family=Fishing
 }}
 Silver Obol of Puny Pikes
 {{InfoItem
@@ -430,8 +474,9 @@ Silver Obol of Puny Pikes
 |str=1
 |sellprice=3
 |rarity=Silver
-|source=[[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Fishing
 }}
 Bronze Obol of Few Flies
 {{InfoItem
@@ -444,6 +489,7 @@ Bronze Obol of Few Flies
 |rarity=Bronze
 |source=[[Alchemy#Liquid Shop|Decent Obols]]
 |notes= 
+|family=Catching
 }}
 Silver Obol of Big Bugs
 {{InfoItem
@@ -455,8 +501,9 @@ Silver Obol of Big Bugs
 |agi=1
 |sellprice=3
 |rarity=Silver
-|source=[[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Catching
 }}
 Bronze Obol of Pop
 {{InfoItem
@@ -470,7 +517,297 @@ Bronze Obol of Pop
 |rarity=Bronze
 |source=[[Gigafrog]]
 |notes= 
+|family=Pop
 }}
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.00001|1}}
 |}
+Silver Obol of Pop Pop
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|luck=3
+|misc=3% Drop Chance
+|defence=2
+|sellprice=3
+|rarity=Silver
+|family=Pop
+}}
+Bronze Obol of Multikill
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=1% Multikill
+|sellprice=1
+|rarity=Bronze
+|source=[[SuperDropTable3]], [[Alchemy#Liquid Shop|Grand Obols]]
+|family=Multikill
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.00010962|1.0}}
+{{detdrops|[[Sheepie]]|0.00000045675|1.0}}
+{{detdrops|[[Frost Flake]]|0.0000005115600000000001|1.0}}
+{{detdrops|[[Sir Stache]]|0.00000056637|1.0}}
+{{detdrops|[[Xylobone]]|0.000001827|1.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Bloque]]|0.00000045675|1.0}}
+{{detdrops|[[Mamooth]]|0.00000049329|1.0}}
+{{detdrops|[[Snowman]]|0.00000052983|1.0}}
+{{detdrops|[[Penguin]]|0.00000056637|1.0}}
+{{detdrops|[[Thermister]]|0.00000060291|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.00000062118|1.0}}
+{{detdrops|[[Quenchie]]|0.00000045675|1.0}}
+{{detdrops|[[Cryosnake]]|0.0000005115600000000001|1.0}}
+{{detdrops|[[Bop Box]]|0.0000005481|1.0}}
+{{detdrops|[[Neyeptune]]|0.0000005846400000000001|1.0}}
+{{detdrops|[[Bloodbone]]|0.0000009135|1.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.0000016260300000000002|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.0000016260300000000002|1.0}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.0000027405|1.0}}
+{{detdrops|[[Catching#Drops|Catching Flycicle]]|0.0000027405|1.0}}
+|}
+Silver Obol of Megakill
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=2% Multikill
+|sellprice=3
+|rarity=Silver
+|family=Multikill
+}}
+Bronze Obol of Experience
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=1% Xp From Monsters
+|sellprice=1
+|rarity=Bronze
+|source=[[SuperDropTable1]]
+|family=Experience
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Carrot]]|0.00007308|1.0}}
+{{detdrops|[[Green Mushroom]]|0.00000036540000000000003|1.0}}
+{{detdrops|[[Frog]]|0.00000046284000000000003|1.0}}
+{{detdrops|[[Bored Bean]]|0.0000005481|1.0}}
+{{detdrops|[[Red Mushroom]]|0.00000063336|1.0}}
+{{detdrops|[[Amarok]]|0.0001218|2.0}}
+{{detdrops|[[Chaotic Amarok]]|0.0001218|4.0}}
+{{detdrops|[[Nightmare Amarok]]|0.0001218|2.0}}
+{{detdrops|[[Baba Yaga]]|0.0001218|2.0}}
+{{detdrops|[[Dewdrop Bronze Chest]]|0.0001218|1.0}}
+{{detdrops|[[Slime]]|0.0000005481|1.0}}
+{{detdrops|[[Baby Boa]]|0.000000685125|1.0}}
+{{detdrops|[[Carrotman]]|0.00000082215|1.0}}
+{{detdrops|[[Dewdrop Silver Chest]]|0.00013702499999999998|1.0}}
+{{detdrops|[[Glublin]]|0.0000006090000000000001|1.0}}
+{{detdrops|[[Wode Board]]|0.000000685125|1.0}}
+{{detdrops|[[Gigafrog]]|0.0000007612500000000001|1.0}}
+{{detdrops|[[Dr Defecaus]]|0.00015225000000000001|2.0}}
+{{detdrops|[[Dewdrop Golden Chest]]|0.00015225000000000001|1.0}}
+{{detdrops|[[Poop]]|0.00000100485|1.0}}
+{{detdrops|[[Rat]]|0.00000100485|1.0}}
+{{detdrops|[[Walking Stick]]|0.0000009546075|1.0}}
+{{detdrops|[[Nutto]]|0.0000010885874999999998|1.0}}
+{{detdrops|[[Wood Mushroom]]|0.000001172325|1.0}}
+{{detdrops|[[Mining#Drops|Mining Copper]]|0.00000118755|1.0}}
+{{detdrops|[[Mining#Drops|Mining Iron]]|0.0000012789000000000002|1.0}}
+{{detdrops|[[Mining#Drops|Mining Gold]]|0.00000137025|1.0}}
+{{detdrops|[[Mining#Drops|Mining Plat]]|0.0000014067900000000002|1.0}}
+{{detdrops|[[Mining#Drops|Mining Dementia]]|0.0000014981400000000002|1.0}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.0000016443|2.0}}
+{{detdrops|[[Mining#Drops|Mining Lustre]]|0.0000017356500000000003|2.0}}
+{{detdrops|[[Choppin#Drops|Choppin Oak Tree]]|0.0000014616000000000001|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Birch Tree]]|0.0000015529500000000003|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Jungle Tree]]|0.0000016443|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Forest Tree]]|0.0000017356500000000003|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Toilet Tree]]|0.00000193662|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Stump Tree]]|0.0000018635400000000005|1.0}}
+|}
+Silver Obol of Experience
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|str=1
+|agi=1
+|wis=1
+|misc=1% Xp From Monsters
+|sellprice=3
+|rarity=Silver
+|source=[[Cowbo Jones#Tomb Raid|Tomb Raid]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
+|family=Experience
+}}
+Bronze Obol of Cards
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=1% Card Drop Chance
+|sellprice=1
+|rarity=Bronze
+|family=Card
+}}
+Bronze Obol of Defence
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|defence=1
+|sellprice=1
+|rarity=Bronze
+|source=[[SuperDropTable2]], [[Alchemy#Liquid Shop|Grand Obols]]
+|family=Defence
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Crabal]]|0.00010962|1.0}}
+{{detdrops|[[Sandy Pot]]|0.0000005481|1.0}}
+{{detdrops|[[Mimic]]|0.0000005846400000000001|1.0}}
+{{detdrops|[[Crabcake]]|0.00000065772|1.0}}
+{{detdrops|[[Efaunt]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Nightmare Amarok]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Chizoar]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Biggie Hours]]|0.00009135000000000001|1.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Mafioso]]|0.0000005846400000000001|1.0}}
+{{detdrops|[[Sand Castle]]|0.0000006394500000000001|1.0}}
+{{detdrops|[[Pincermin]]|0.00000067599|1.0}}
+{{detdrops|[[Mashed Potato]]|0.00000071253|1.0}}
+{{detdrops|[[Dig Doug]]|0.0000005846400000000001|1.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.00018270000000000002|2.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Tyson]]|0.0000005846400000000001|1.0}}
+{{detdrops|[[Moonmoon]]|0.0000006394500000000001|1.0}}
+{{detdrops|[[Sand Giant]]|0.00000067599|1.0}}
+{{detdrops|[[Snelbie]]|0.00000071253|1.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.00018270000000000002|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Small Fish]]|0.0000021924|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Goldfish]]|0.0000021924|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Hermit Can]]|0.0000021924|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Jellyfish]]|0.0000021924|1.0}}
+{{detdrops|[[Fishing#Drops|Fishing Bloach]]|0.0000021924|1.0}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0000027405|2.0}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.0000027405|1.0}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.0000027405|1.0}}
+{{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000027405|1.0}}
+{{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.0000027405|1.0}}
+|}
+Silver Obol of Defence
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|defence=3
+|sellprice=3
+|rarity=Silver
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
+|family=Defence
+}}
+Bronze Obol of Trapping
+{{InfoItem
+|class=All
+|level=1
+|skill=trapping
+|type=Circle Obol
+|skillpower=1
+|sellprice=1
+|rarity=Bronze
+|source=[[DropTable15]], [[Alchemy#Liquid Shop|Grand Obols]]
+|family=Trapping
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.0004725|1.0}}
+{{detdrops|[[Bloque]]|0.0000023625|1.0}}
+{{detdrops|[[Mamooth]]|0.0000025515|1.0}}
+{{detdrops|[[Snowman]]|0.0000027405|1.0}}
+{{detdrops|[[Penguin]]|0.0000029294999999999996|1.0}}
+{{detdrops|[[Thermister]]|0.0000031185|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.000945|1.0}}
+|}
+Silver Obol of Trapping
+{{InfoItem
+|class=All
+|level=1
+|skill=trapping
+|type=Circle Obol
+|skillpower=2
+|agi=1
+|sellprice=3
+|rarity=Silver
+|source=[[Alchemy#Liquid Shop|Grand Obols]]
+|family=Trapping
+}}
+Bronze Obol of Construction
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|misc=1% Build Spd
+|sellprice=1
+|rarity=Bronze
+|source=[[DropTable16]], [[Alchemy#Liquid Shop|Grand Obols]]
+|family=Construction
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.000378|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000032129999999999996|1.0}}
+{{detdrops|[[Quenchie]]|0.0000023625|1.0}}
+{{detdrops|[[Cryosnake]]|0.0000026459999999999997|1.0}}
+{{detdrops|[[Bop Box]]|0.000002835|1.0}}
+{{detdrops|[[Neyeptune]]|0.000003024|1.0}}
+{{detdrops|[[Bloodbone]]|0.000004725|1.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.000945|1.0}}
+|}
+Silver Obol of Construction
+{{InfoItem
+|class=All
+|level=1
+|type=Circle Obol
+|str=1
+|misc=2% Build Spd
+|sellprice=3
+|rarity=Silver
+|source=[[Alchemy#Liquid Shop|Grand Obols]]
+|family=Construction
+}}
+Bronze Obol of Worship
+{{InfoItem
+|class=All
+|level=1
+|skill=worship
+|type=Circle Obol
+|skillpower=1
+|sellprice=1
+|rarity=Bronze
+|source=[[DropTable14]], [[Alchemy#Liquid Shop|Grand Obols]]
+|family=Worship
+}}
+{{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.000567|1.0}}
+{{detdrops|[[Sheepie]]|0.0000023625|1.0}}
+{{detdrops|[[Frost Flake]]|0.0000026459999999999997|1.0}}
+{{detdrops|[[Sir Stache]]|0.0000029294999999999996|1.0}}
+{{detdrops|[[Xylobone]]|0.00000945|1.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.000945|1.0}}
+|}
+Silver Obol of Worship
+{{InfoItem
+|class=All
+|level=1
+|skill=worship
+|type=Circle Obol
+|skillpower=2
+|wis=1
+|sellprice=3
+|rarity=Silver
+|source=[[Alchemy#Liquid Shop|Grand Obols]]
+|family=Worship
+}}

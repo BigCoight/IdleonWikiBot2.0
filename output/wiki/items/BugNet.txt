@@ -68,9 +68,6 @@ Reinforced Net
 |resource2=Butterfly|quantity2=850
 |resource3=Distilled Water|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Gilded Net]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|800}}
@@ -106,10 +103,6 @@ Gilded Net
 |resource2=Butterfly|quantity2=2500
 |resource3=Reinforced Net|quantity3=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinet]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Dubloon|5}}
@@ -149,9 +142,6 @@ Platinet
 |resource2=Platinum Ore|quantity2=3000
 |resource3=Gilded Net|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Net]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Fruitfly|7000}}
@@ -196,9 +186,6 @@ Dementia Net
 |resource2=Redox Salts|quantity2=50
 |resource3=Platinet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Net]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Mosquisnow|15000}}
@@ -234,7 +221,7 @@ Void Imperium Net
 |str=6
 |agi=12
 |upgrade=4
-|sellprice=4469200
+|sellprice=4469450
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -246,6 +233,7 @@ Void Imperium Net
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Flycicle|quantity1=50000
 |resource2=Dementia Net|quantity2=2
+|resource3=Dense Water|quantity3=5
 }}
 {{detrecipe/tab
 |reci=
@@ -263,8 +251,10 @@ Void Imperium Net
 {{detrecipe|160|Forest Fibres|19200}}
 {{detrecipe|160|Butterfly|20400}}
 {{detrecipe|160|Distilled Water|72}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
 {{detrecipe/totals|Flycicle|50000}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Mosquisnow|30000}}
 {{detrecipe/totals|Redox Salts|100}}
 {{detrecipe/totals|Fruitfly|28000}}

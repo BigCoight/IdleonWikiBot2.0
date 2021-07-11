@@ -1,15 +1,34 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
+|quest=[[Mutton#Cross Platform Promotion|Cross Platform Promotion]], [[Mutton#7 Figure Followers|7 Figure Followers]]
 |description=Represents a single follower on Instablab, who probably sound like this: 'Oh mah gawd Becky, you would not Buh Leeeeve how lame this game I'm playing is. They have a joke about Insta that tooootally isn't funnay, like seriouslayy!
 |sellprice=1
-|source=[[Rat]], [[Rat]]
+|source=[[Rat]], [[Rat]], [[DropTable6]], [[DropTable7]], [[DropTable8]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.16|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Mutton#Cross Platform Promotion|Cross Platform Promotion]]|1000|Quests}}
-{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|300000|Quests}}
+{{detdrops|[[Crystal Crabal]]|0.18|3.0}}
+{{detdrops|[[Sandy Pot]]|0.0009|3.0}}
+{{detdrops|[[Mimic]]|0.00096|3.0}}
+{{detdrops|[[Crabcake]]|0.00108|3.0}}
+{{detdrops|[[Efaunt]]|0.3|6.0}}
+{{detdrops|[[Nightmare Amarok]]|0.3|6.0}}
+{{detdrops|[[Chizoar]]|0.3|6.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.3|6.0}}
+{{detdrops|[[Biggie Hours]]|0.15|3.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.3|3.0}}
+{{detdrops|[[Mafioso]]|0.00096|3.0}}
+{{detdrops|[[Sand Castle]]|0.00105|3.0}}
+{{detdrops|[[Pincermin]]|0.00111|3.0}}
+{{detdrops|[[Mashed Potato]]|0.0011699999999999998|3.0}}
+{{detdrops|[[Dig Doug]]|0.00096|3.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.3|6.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.3|6.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.3|3.0}}
+{{detdrops|[[Tyson]]|0.00096|3.0}}
+{{detdrops|[[Moonmoon]]|0.00105|3.0}}
+{{detdrops|[[Sand Giant]]|0.00111|3.0}}
+{{detdrops|[[Snelbie]]|0.0011699999999999998|3.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.3|3.0}}
 |}

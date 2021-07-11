@@ -9,6 +9,7 @@
 |rarity=Bronze
 |source=[[Gigafrog]]
 |notes= 
+|family=Pop
 }}
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.00001|1}}

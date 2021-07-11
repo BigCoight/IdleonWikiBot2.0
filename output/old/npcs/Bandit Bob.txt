@@ -34,6 +34,15 @@ He is also involved in a [[Secrets|Secret]].
 |consumed=No
 |rewards=1x {{CraftReq|Signed Arrest Warrant}}, 2x {{CraftReq|Gem}}
 }}
+{{Quest
+|name=The Desert Dungeon Prequest
+|text=Go get a Sesame Seed so you can play the party dungeon!
+|difficulty=2
+|requirements=1x {{CraftReq|Sesame Seed}}
+|consumed=No
+|rewards=1x {{CraftReq|Bandit Bob Token}}
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row
@@ -89,5 +98,21 @@ He is also involved in a [[Secrets|Secret]].
 }}
 {{dialogue/row
 |text=My packages arrived! You did real great partner. Lemme take a gander at them there completed forms of yours the ones with your signature on them just to make sure everythin's here... @ Alrighty then! Here's that signed fan letter of yours!
+}}
+{{dialogue/row
+|text=Say theres somethin' bout you... you really are the adventurous type definitely remindin' me of my younger self thats fer sure. @ Why don't you come on back at Class Lv. 42 theres somethin' you'll wanna see.
+}}
+{{dialogue/row
+|text=You see that weird door? That there's a Party Dungeon! I cant do it myself I'm retired from that sorta thing but it'd be perfect for you and your buddies!
+}}
+{{dialogue/row
+|text=Door wont open? You gotta find yourself one of them magic Sesame Seeds! They're a 1 in 100 drop from the mimics outside but only if you're actively farming! @ QUEST:Go get a Sesame Seed so you can play the party dungeon!
+|quest=The Desert Dungeon Prequest
+}}
+{{dialogue/row
+|text=You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Yep that's the seasme seed alright! Drop it at the door and go get some loot! @ NOTE FROM DEVELOPER: The party dungeon isn't quite ready yet but I'm working on it right now! It'll be full of monsters that you'll actually fight WITH your friends as well as puzzles and other fun things!
 }}
 |}

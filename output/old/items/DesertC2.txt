@@ -8,8 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.165|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Fmj]]|Lots|Alchemy}}
-|}

@@ -2,7 +2,7 @@
 |title=Tropilogs
 |order=4
 |category=Medium Resources
-|effect=+{% Choppin Away Gains
+|effect=+% Choppin Away Gains
 |bonus=2
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Palm Tree]]

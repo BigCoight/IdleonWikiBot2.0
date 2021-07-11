@@ -12,6 +12,3 @@
 {{detdrops|[[Crystal Crabal]]|.1|1}}
 {{detdrops|[[Crystal Cattle]]|.1|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]]|1|Quests}}
-|}

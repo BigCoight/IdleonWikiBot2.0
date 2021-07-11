@@ -7,7 +7,7 @@
 |upgrade=1
 |defence=3
 |sellprice=60
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -15,16 +15,10 @@
 |craftnum=6
 |levelreq=1
 |expgiven=5
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=10
 |resource2=Oak Logs|quantity2=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Blue Tee]]|2|Crafting}}
-{{usedin/row|[[Purple Tee]]|3|Crafting}}
-{{usedin/row|[[Green Tee]]|3|Crafting}}
-{{usedin/row|[[Black Tee]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|10}}

@@ -8,8 +8,5 @@
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Mamooth]]|0.000002|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Shivering Sack]]|1|Crafting}}
+{{detdrops|[[Mamooth]]|0.000008|1}}
 |}

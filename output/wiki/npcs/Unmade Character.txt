@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Libra
-|mmm=Johnson
-|birthweight=6.55
+|starsign=Cancer
+|mmm=Turco
+|birthweight=9.7
 |notes=fillme
 }}
 {{Quest/head}}

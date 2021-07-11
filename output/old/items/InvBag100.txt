@@ -10,6 +10,3 @@
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.00008|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
-|}

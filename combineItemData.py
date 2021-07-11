@@ -1,8 +1,9 @@
 import json
 import numpy as np
-from libs.funcLib import fix, repU
+from libs.funcLib import camelCaseSplitter, fix, repU
 from libs.jsonEncoder import CompactJSONEncoder
 import getNotes
+from queue import Queue
 
 
 def writeJSON(fn, dicti):
@@ -98,7 +99,7 @@ def splitStampData(data):
 
     data["Type"] = stampTypes[ind] + " Stamp"
     data["ID"] = str(int(num[-2:]) + 1)
-    data["stampData"] = [getDisp(fix(x)) for x in stampData]
+    data["stampData"] = [x for x in stampData]
 
 
 def addUpgradeData(data):
@@ -132,6 +133,8 @@ def allItemsStart(items):
             splitStampData(data)
         elif typeGen == "dStone":
             addUpgradeData(data)
+        elif typeGen == "dQuest":
+            data["questAss"] = []
         if source := typeToSource.get(typeGen):
             data["sources"].append(source)
         if "UQ1val" in data.keys() and "UQ1txt" in data.keys():
@@ -145,11 +148,36 @@ def allItemsStart(items):
                 del data["UQ2txt"]
 
 
+def obolFamily(name, data):
+    intFamToExt = {
+        "0": "STR",
+        "1": "AGI",
+        "2": "WIS",
+        "3": "LUK",
+        "Def": "Defence",
+        "Luck": "Sixes",
+        "Cons": "Construction",
+        "A": "Bosses",
+        "Kill": "Multikill",
+        "EXP": "Experience",
+    }
+    splitName = camelCaseSplitter(name)[-1]
+    if splitName[-1].isnumeric():
+        fam = splitName[-1]
+    else:
+        fam = splitName
+    return intFamToExt.get(fam, fam)
+
+
 def allItemsEnd(items):
+    familyNames = set()
     for name, data in items.items():
         if data["typeGen"] == "aStamp":
             if item := items.get(data["stampData"][5]):
                 item["uses"].append((f"[[{nameDic[name]}]]", "Lots", "Stamps"))
+                data["stampData"][5] = item["displayName"]
+        if data["typeGen"][0:5] == "aObol":
+            data["family"] = obolFamily(name, data)
         elif data["typeGen"] == "aCarryBag":
             materialBagDesc(data)
         elif data["typeGen"] not in ["aWeapon", "aPick", "aHatchet", "aFishingRod", "aBugNet", "aTrap", "aSkull"]:
@@ -179,7 +207,7 @@ def allItemsEnd(items):
 
         toDel = ["common", "consumable", "equip"]
         for atr, val in data.items():
-            if val in [0, "0"] and atr != "ID":
+            if val in [0, "0"] and atr not in ["ID", "family"]:
                 toDel.append(atr)
         for dele in toDel:
             if dele in data.keys():
@@ -212,34 +240,27 @@ def configureDetailedRecipe(items, citem):
                 citem["detrecipe"].append([0] + [req, no])
 
 
-def getDetailedTotals(item):
-    i = 0
-    counter = 0
+def getDetailedTotals(itemChecking, items):
     totals = {}
-    detrecipe = item["detrecipe"]
-    currentDepth = -1
+    recipe = itemChecking["recipeData"]["recipe"]
 
     def addToTotals(item, number):
         totals[item] = totals.get(item, 0) + int(number)
 
-    while counter != 4:
-        if i == len(detrecipe):
-            addToTotals(detrecipe[i - 1][1], detrecipe[i - 1][2])
-            break
-        # If we see an item with a higher depth that means there is a sub recipe
-        if currentDepth < detrecipe[i][0]:
-            # we set this to our current depth untill we find the smallest subrecipe
-            currentDepth = detrecipe[i][0]
-        # This means we are in the subrecipe
-        elif currentDepth == detrecipe[i][0]:
-            # We add it, since this is our subrecipe
-            addToTotals(detrecipe[i - 1][1], detrecipe[i - 1][2])
-        else:  # If we reach the end of the sub recipe
-            addToTotals(detrecipe[i - 1][1], detrecipe[i - 1][2])
-            currentDepth = -1
-            counter += 1
-        i += 1
-    item["detRecipeTotals"] = [(n, v) for n, v in totals.items()]
+    toLook = Queue()
+    for ite, n in recipe:
+        toLook.put((ite, n))
+
+    while not toLook.empty():
+        currentItem, n = toLook.get()
+        if item := items.get(currentItem):
+            if "recipeData" in item.keys():
+                for subRecipe, num in item["recipeData"]["recipe"]:
+                    toLook.put((subRecipe, str(int(n) * int(num))))
+            else:
+                addToTotals(currentItem, n)
+
+    itemChecking["detRecipeTotals"] = [(n, v) for n, v in totals.items()]
 
 
 def deleteFiller(items):
@@ -339,7 +360,7 @@ def main():
     fishingTK = openJSON("FishingTK")
     enemies = openJSON("Enemies")
     droptables = openJSON("Droptables")
-
+    refineryCosts = openJSON("RefineryCosts")
     npcs = openJSON("Npcs")
     recipes = openJSON("Recipes")
     postOffices = openJSON("PostOffice")
@@ -350,7 +371,9 @@ def main():
     taskUnlocks = openJSON("TaskUnlocks")
     customSources = openJSON("CustomSources")
     notes = openNotes("Items")
-
+    customRecipeFrom = openJSON("CustomRecipeFrom")
+    constructionBuildings = openJSON("BuildingData")
+    saltLicks = openCSV("SaltLicks")
     # This loop is for specific types of the items
     allItemsStart(items)
     # Adding in the fishing toolkit data
@@ -439,7 +462,7 @@ def main():
         for name, recipe in tab.items():
             if item := items.get(name):
                 configureDetailedRecipe(items, item)
-                getDetailedTotals(item)
+                getDetailedTotals(item, items)
                 configureSellPrice(items, item)
     # Adding in uses and sources from npcs and quests
     for npc, qdata in npcs.items():
@@ -451,7 +474,7 @@ def main():
                     if item := items.get(req):
                         item["uses"].append((f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]', num, "Quests"))
                         if item["typeGen"] == "dQuest":
-                            item["questAss"] = f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]'
+                            item["questAss"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
             # Add in sources for rewards and smithing recipe.
             if dline["Type"] not in ["None", "SpaceRequired", "LevelReq"]:
                 rewards = dline["Rewards"]
@@ -461,8 +484,8 @@ def main():
                             item["recipeData"]["recipeFrom"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
                     elif item := items.get(rewards[i]):
                         item["sources"].append(f'[[{npc}#{dline["Name"]}|{dline["Name"]}]]')
-    items["Quest11"]["questAss"] = "[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]"
-    items["Quest10"]["questAss"] = "[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]"
+    items["Quest11"]["questAss"].append("[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]")
+    items["Quest10"]["questAss"].append("[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]")
     # Add in the cauldrens to used in
     for cname, bubbles in cauldrons.items():
         if name == "Liquid Shop":
@@ -504,6 +527,24 @@ def main():
                     continue
                 item["recipeData"]["recipeFrom"].append("[[Tasks/Unlocks|Tasks]]")
 
+    # Construction Uses
+    for salt, refineryCost in refineryCosts.items():
+        if item := items.get(salt):
+            item["sources"].append("[[Construction#Refinery|Refinery]]")
+            saltName = item["displayName"]
+            for cost, _ in refineryCost:
+                if subItem := items.get(cost):
+                    subItem["uses"].append((f"[[Construction#Refinery|Refining {saltName}]]", "Lots", "Construction"))
+
+    for building, bData in constructionBuildings.items():
+        for req in bData["lvlUpReq"]:
+            if item := items.get(req[0]):
+                item["uses"].append([f"[[Construction#{building}|{building}]]", "Lots", "Building"])
+
+    for saltLick in saltLicks:
+        if item := items.get(saltLick[0]):
+            item["uses"].append([f"[[Construction#Salt Lick|Salt Lick Upgrades]]", "Lots", "Salt Lick"])
+
     items["EquipmentHats8"]["recipeData"]["recipeFrom"].append("[[Hamish#Should We Tell Him?|Should We Tell Him?]]")
     # Renames the internal to external name
     for tab in recipes:
@@ -514,13 +555,25 @@ def main():
                 item["detrecipe"] = [[x, nameDic[y], z] for x, y, z in item["detrecipe"]]
                 item["detRecipeTotals"] = [[nameDic[y], z] for y, z in item["detRecipeTotals"]]
                 item["sources"].append("[[Smithing]]")
+    # Adding in custom recipes
+    for custRecipeFrom, recipeItems in customRecipeFrom.items():
+        for recipeItem in recipeItems:
+            if item := items.get(recipeItem):
+                if "recipeData" in item.keys():
+                    item["recipeData"]["recipeFrom"].append(custRecipeFrom)
+    # Adding in the recipe from to the source.
+    for tab in recipes:
+        for name, recipe in tab.items():
+            if item := items.get(name):
                 if "recipeFrom" in recipe.keys():
                     for recipeFrom in recipe["recipeFrom"]:
                         splitdata = recipeFrom.split("|")
                         if len(splitdata) > 1:
                             recipeFrom = splitdata[0] + "|Recipe from " + splitdata[1]
-                        else:
+                        elif "[" in recipeFrom:
                             recipeFrom = splitdata[0][:-2] + "|Recipe from " + splitdata[0][2:-2] + "]]"
+                        else:
+                            recipeFrom = f"Recipe from {recipeFrom}"
                         item["sources"].append(recipeFrom)
 
     for source, ites in customSources.items():

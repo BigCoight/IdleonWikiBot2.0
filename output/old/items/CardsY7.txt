@@ -2,7 +2,7 @@
 |title=Shell Snake
 |order=7
 |category=Event
-|effect=+{ Base LUK
+|effect=+ Base LUK
 |bonus=3
 |reqtier=3
 |source=[[Shell Snake]]

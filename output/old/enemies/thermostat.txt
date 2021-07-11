@@ -4,16 +4,14 @@
 |health=185000
 |defence=2250
 |speed=4
-|world=Frostfire Tyundra
 |area=Thermonuclear Climb
 |exp=1370
 |respawn=40
 |defence0=1161.15
-|crystal=Yes
-|crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Penguin|Quenchie}}
+{{DropTable/head}}
 {{DropTable/coin|340|0.35}}
 {{DropTable/row|Cracked Glass|0.16|1}}
 {{DropTable/card|0.0001}}

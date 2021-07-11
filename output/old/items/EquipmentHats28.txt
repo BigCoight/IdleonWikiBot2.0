@@ -9,7 +9,7 @@
 |upgrade=3
 |defence=15
 |sellprice=36990
-|source=[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Smithing]]
+|source=[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,14 +17,11 @@
 |craftnum=1
 |levelreq=15
 |expgiven=900
-|recipefrom=
+|recipefrom=Start
 |resource1=Fly|quantity1=2000
 |resource2=Copper Helmet|quantity2=4
 |resource3=Gold Bar|quantity3=250
 }}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Fly|2000}}
@@ -34,7 +31,7 @@
 {{detrecipe|3|Gold Bar|250}}
 |tot=
 {{detrecipe/totals|Fly|2000}}
+{{detrecipe/totals|Gold Bar|250}}
 {{detrecipe/totals|Copper Bar|120}}
 {{detrecipe/totals|Bean Slices|200}}
-{{detrecipe/totals|Gold Bar|250}}
 }}

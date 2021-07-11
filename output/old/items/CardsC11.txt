@@ -2,11 +2,11 @@
 |title=Fly
 |order=11
 |category=Easy Resources
-|effect=+{% Monster EXP While Active
+|effect=+% Monster EXP While Active
 |bonus=4
 |reqtier=10
 |source=[[Catching#Drops|Catching Flies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Flies]]|0.00022|1}}
+{{detdrops|[[Catching#Drops|Catching Flies]]|0.00042|1}}
 |}

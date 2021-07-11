@@ -14,10 +14,6 @@
 |resource1=Iron Ore|quantity1=5
 |resource2=Small Mana Potion|quantity2=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Average Food Pouch]]|600|Crafting}}
-{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|1000|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Ore|5}}

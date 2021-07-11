@@ -5,6 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Bunny you Should Say That!|Bunny you Should Say That!]]|6|Quests}}
-|}

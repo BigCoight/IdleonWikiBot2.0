@@ -8,5 +8,5 @@
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Encroaching Forest Villas|stock=6|buyprice=3400}}
-{{Vendoritem/tablerow|number=6|vendor=YumYum Grotto|stock=6|buyprice=3400}}
+{{Vendoritem/tablerow|number=6|vendor=YumYum Grotto|stock=3|buyprice=3400}}
 |}

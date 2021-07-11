@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|.1|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Dog Bone#Why he Die???|Why he Die???]]|10|Quests}}
-|}

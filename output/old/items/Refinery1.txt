@@ -5,25 +5,3 @@
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Silkskin Traps]]|5|Crafting}}
-{{usedin/row|[[Small Critter Pouch]]|3|Crafting}}
-{{usedin/row|[[Ceramic Skull]]|5|Crafting}}
-{{usedin/row|[[Small Soul Pouch]]|3|Crafting}}
-{{usedin/row|[[Wooden Traps]]|20|Crafting}}
-{{usedin/row|[[Sizable Critter Pouch]]|15|Crafting}}
-{{usedin/row|[[Horned Skull]]|25|Crafting}}
-{{usedin/row|[[Sizable Soul Pouch]]|20|Crafting}}
-{{usedin/row|[[The Ice Breaker]]|150|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|150|Crafting}}
-{{usedin/row|[[Spriggly Storm]]|150|Crafting}}
-{{usedin/row|[[Dementia Dicer]]|50|Crafting}}
-{{usedin/row|[[Dementia Rod for Fishing]]|50|Crafting}}
-{{usedin/row|[[Big Fish Pouch]]|50|Crafting}}
-{{usedin/row|[[Dementia Net]]|50|Crafting}}
-{{usedin/row|[[Natural Traps]]|50|Crafting}}
-{{usedin/row|[[Prickle Skull]]|50|Crafting}}
-{{usedin/row|[[Snouts#A Salty Fall|A Salty Fall]]|50|Quests}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Matty Stafford]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Red Malt]]|Lots|Alchemy}}
-|}

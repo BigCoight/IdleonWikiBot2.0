@@ -6,10 +6,3 @@
 |notes= 
 }}
 {{ProductionSlot|lvlreq=25|num=5|expcraft=40|time=2000}}
-{{usedin/head}}
-{{usedin/row|[[Gold Fishing Rod]]|1000|Crafting}}
-{{usedin/row|[[Enforced Slasher]]|400|Crafting}}
-{{usedin/row|[[Furled Robes]]|1500|Crafting}}
-{{usedin/row|[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]|100|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Da Daily Drip]]|Lots|Alchemy}}
-|}

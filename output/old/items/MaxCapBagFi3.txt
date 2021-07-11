@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Fish.
 |sellprice=34425
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -15,9 +14,6 @@
 |resource2=Small Fish Pouch|quantity2=3
 |resource3=Hermit Can|quantity3=1500
 }}
-{{usedin/head}}
-{{usedin/row|[[Sizable Fish Pouch]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cramped Fish Pouch|5}}
@@ -27,7 +23,7 @@
 {{detrecipe|40|Distilled Water|6}}
 {{detrecipe|3|Hermit Can|1500}}
 |tot=
-{{detrecipe/totals|Goldfish|900}}
 {{detrecipe/totals|Hermit Can|2775}}
+{{detrecipe/totals|Goldfish|900}}
 {{detrecipe/totals|Distilled Water|6}}
 }}

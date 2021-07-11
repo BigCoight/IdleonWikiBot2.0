@@ -5,10 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Deuscythe]]|5|Crafting}}
-{{usedin/row|[[Steel Traps]]|6|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Noot Noot!|Noot Noot!]]|4|Quests}}
-{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|250|Quests}}
-|}

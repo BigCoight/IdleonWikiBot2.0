@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Mamooth
 |order=4
-|category=Frostfire Tyundra
-|effect=+{% Total HP
+|category=Frostbite Tundra
+|effect=+% Total HP
 |bonus=3.5
 |reqtier=15
 |source=[[Mamooth]]

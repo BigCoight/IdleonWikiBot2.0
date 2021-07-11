@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Untitled Quest|Untitled Quest]]|65000|Quests}}
-{{usedin/row|[[Alchemy#Vials|Goosey Glug]]|Lots|Alchemy}}
-|}

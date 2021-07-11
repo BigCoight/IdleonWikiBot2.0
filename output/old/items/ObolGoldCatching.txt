@@ -7,5 +7,7 @@
 |agi=2
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
 }}

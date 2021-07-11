@@ -1,10 +1,42 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Enemies==
-{{patchnote/head|changed=Mamooth}}
-{{patchnote|Name|mamooth|Mamooth}}
+{{patchnote/head|changed=Boop}}
+{{patchnote|RespawnTime|74500|745000}}
+|}
+
+{{patchnote/head|changed=Dr Defecaus}}
+{{patchnote|RespawnTime|74500|745000}}
+|}
+
+{{patchnote/head|changed=Plasti Doug}}
+{{patchnote|Defence|228|1}}
+|}
+
+{{patchnote/head|changed=Glublin}}
 |-
 |'''Droptable'''
-{{patchnote|Item 3|{{CraftReq|mamooth Card}}: qty:1, chance:0.0001|{{CraftReq|Mamooth Card}}: qty:1, chance:0.0001}}
+{{patchnote|Item 2|{{CraftReq|Goblin Ear}}: qty:1, chance:0.16|{{CraftReq|Glublin Ear}}: qty:1, chance:0.16}}
+
+|}
+
+{{patchnote/head|changed=Mamooth}}
+|-
+|'''Droptable'''
+{{patchnote|Item 5|{{CraftReq|Beach Oyster}}: qty:1, chance:0.015|{{CraftReq|R}}: qty:m, chance:e}}
+
+|}
+
+{{patchnote/head|changed=Efaunt}}
+|-
+|'''Droptable'''
+{{patchnote|Item 6| |{{CraftReq|Star Talent Reset Potion;Recipe;1}}: qty:1, chance:0.04}}
+
+|}
+
+{{patchnote/head|changed=Biggie Hours}}
+|-
+|'''Droptable'''
+{{patchnote|Item 6| |{{CraftReq|Star Talent Reset Potion;Recipe;1}}: qty:1, chance:0.06}}
 
 |}
 

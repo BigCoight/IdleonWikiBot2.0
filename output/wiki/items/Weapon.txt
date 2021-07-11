@@ -9,15 +9,15 @@ Boxing Gloves
 |luck=2
 |reach=55
 |sellprice=16
-|source=[[Smithing]]
-|notes= 
+|source=[[Smithing]], Recipe from Start
+|notes=This item is required for the task [[Tasks/Blunder_Hills#Such Rock Very Dog Wow|Such Rock Very Dog Wow 3]] and the quest [[Carpetiem#Quest Information for Carpetiem|Be like Buster!]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
 |craftnum=1
 |levelreq=1
 |expgiven=3
-|recipefrom=
+|recipefrom=Start
 |resource1=Crimson String|quantity1=1
 |resource2=Cue Tape|quantity2=5
 }}
@@ -41,7 +41,7 @@ The Stingers
 |reach=60
 |upgrade=2
 |sellprice=530
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -49,14 +49,11 @@ The Stingers
 |craftnum=14
 |levelreq=6
 |expgiven=15
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=20
 |resource2=Oak Logs|quantity2=75
 |resource3=Trusty Nails|quantity3=20
 }}
-{{usedin/head}}
-{{usedin/row|[[Bandage Wraps]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|20}}
@@ -92,11 +89,6 @@ Bandage Wraps
 |resource2=The Stingers|quantity2=5
 |resource3=Potty Rolls|quantity3=2000
 }}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
-{{usedin/row|[[Uninflated Glove]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cue Tape|5000}}
@@ -107,10 +99,10 @@ Bandage Wraps
 {{detrecipe|3|Potty Rolls|2000}}
 |tot=
 {{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Potty Rolls|2000}}
 {{detrecipe/totals|Copper Bar|100}}
 {{detrecipe/totals|Oak Logs|375}}
 {{detrecipe/totals|Trusty Nails|100}}
-{{detrecipe/totals|Potty Rolls|2000}}
 }}
 Uninflated Glove
 {{InfoItem
@@ -122,7 +114,7 @@ Uninflated Glove
 |luck=13
 |reach=65
 |upgrade=4
-|sellprice=14142950
+|sellprice=15192950
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -135,9 +127,6 @@ Uninflated Glove
 |resource1=Melty Cube|quantity1=70000
 |resource2=Bandage Wraps|quantity2=3
 }}
-{{usedin/head}}
-{{usedin/row|[[Member Hoodie]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Melty Cube|70000}}
@@ -151,10 +140,52 @@ Uninflated Glove
 |tot=
 {{detrecipe/totals|Melty Cube|70000}}
 {{detrecipe/totals|Cue Tape|15000}}
+{{detrecipe/totals|Potty Rolls|6000}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Oak Logs|1125}}
 {{detrecipe/totals|Trusty Nails|300}}
-{{detrecipe/totals|Potty Rolls|6000}}
+}}
+Eclectic Ordeal
+{{InfoItem
+|class=Beginner
+|level=85
+|type=Fisticuff
+|speed=9
+|weaponpower=32
+|luck=17
+|misc=5% Crit Chance
+|reach=85
+|upgrade=4
+|sellprice=317500
+|source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 3
+|craftnum=29
+|levelreq=45
+|expgiven=500000
+|recipefrom=[[Tasks/Unlocks|Tasks]]
+|resource1=Yellow Snowflake|quantity1=100
+|resource2=Minervowl|quantity2=50
+|resource3=Dootjat Eye|quantity3=10
+|resource4=Dense Water|quantity4=15
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Yellow Snowflake|100}}
+{{detrecipe|3|Minervowl|50}}
+{{detrecipe|3|Dootjat Eye|10}}
+{{detrecipe|40|Silver Antique|10}}
+{{detrecipe|40|Gold Bar|800}}
+{{detrecipe|40|Ghost|10}}
+{{detrecipe|3|Dense Water|15}}
+|tot=
+{{detrecipe/totals|Yellow Snowflake|100}}
+{{detrecipe/totals|Minervowl|50}}
+{{detrecipe/totals|Dense Water|15}}
+{{detrecipe/totals|Silver Antique|10}}
+{{detrecipe/totals|Gold Bar|800}}
+{{detrecipe/totals|Ghost|10}}
 }}
 Wooden Spear
 {{InfoItem
@@ -168,7 +199,7 @@ Wooden Spear
 |reach=70
 |upgrade=1
 |sellprice=145
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -176,14 +207,10 @@ Wooden Spear
 |craftnum=2
 |levelreq=3
 |expgiven=5
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=25
 |resource2=Copper Bar|quantity2=10
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Shank]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}
@@ -216,11 +243,6 @@ Steel Axe
 |resource1=Slime Sludge|quantity1=125
 |resource2=Boring Brick|quantity2=125
 }}
-{{usedin/head}}
-{{usedin/row|[[Hide Shirt]]|1|Crafting}}
-{{usedin/row|[[Royal Bayonet]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}
@@ -254,10 +276,6 @@ Royal Bayonet
 |resource2=Steel Axe|quantity2=3
 |resource3=Distilled Water|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Enforced Slasher]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|1250}}
@@ -267,9 +285,9 @@ Royal Bayonet
 {{detrecipe|3|Distilled Water|8}}
 |tot=
 {{detrecipe/totals|Forest Fibres|1250}}
+{{detrecipe/totals|Distilled Water|8}}
 {{detrecipe/totals|Slime Sludge|375}}
 {{detrecipe/totals|Boring Brick|375}}
-{{detrecipe/totals|Distilled Water|8}}
 }}
 Enforced Slasher
 {{InfoItem
@@ -282,7 +300,7 @@ Enforced Slasher
 |wis=4
 |reach=80
 |upgrade=3
-|sellprice=76290
+|sellprice=202290
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -293,16 +311,13 @@ Enforced Slasher
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Nuget Cake|quantity1=3
-|resource2=Leather Hide|quantity2=400
+|resource2=Leather Hide|quantity2=2500
 |resource3=Royal Bayonet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[The Ice Breaker]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Nuget Cake|3}}
-{{detrecipe|3|Leather Hide|400}}
+{{detrecipe|3|Leather Hide|2500}}
 {{detrecipe|3|Royal Bayonet|2}}
 {{detrecipe|40|Forest Fibres|2500}}
 {{detrecipe|40|Steel Axe|6}}
@@ -311,11 +326,11 @@ Enforced Slasher
 {{detrecipe|40|Distilled Water|16}}
 |tot=
 {{detrecipe/totals|Nuget Cake|3}}
-{{detrecipe/totals|Leather Hide|400}}
+{{detrecipe/totals|Leather Hide|2500}}
 {{detrecipe/totals|Forest Fibres|2500}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Boring Brick|750}}
-{{detrecipe/totals|Distilled Water|16}}
 }}
 The Ice Breaker
 {{InfoItem
@@ -329,7 +344,7 @@ The Ice Breaker
 |misc=5% Crit Damage
 |reach=76
 |upgrade=4
-|sellprice=5165980
+|sellprice=5794580
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -343,15 +358,12 @@ The Ice Breaker
 |resource2=Enforced Slasher|quantity2=2
 |resource3=Redox Salts|quantity3=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Deuscythe]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Melty Cube|25000}}
 {{detrecipe|3|Enforced Slasher|2}}
 {{detrecipe|40|Nuget Cake|6}}
-{{detrecipe|40|Leather Hide|800}}
+{{detrecipe|40|Leather Hide|5000}}
 {{detrecipe|40|Royal Bayonet|4}}
 {{detrecipe|80|Forest Fibres|5000}}
 {{detrecipe|80|Steel Axe|12}}
@@ -361,12 +373,13 @@ The Ice Breaker
 {{detrecipe|3|Redox Salts|150}}
 |tot=
 {{detrecipe/totals|Melty Cube|25000}}
+{{detrecipe/totals|Redox Salts|150}}
 {{detrecipe/totals|Nuget Cake|6}}
-{{detrecipe/totals|Leather Hide|800}}
+{{detrecipe/totals|Leather Hide|5000}}
 {{detrecipe/totals|Forest Fibres|5000}}
+{{detrecipe/totals|Distilled Water|32}}
 {{detrecipe/totals|Slime Sludge|1500}}
 {{detrecipe/totals|Boring Brick|1500}}
-{{detrecipe/totals|Redox Salts|150}}
 }}
 Deuscythe
 {{InfoItem
@@ -379,7 +392,7 @@ Deuscythe
 |misc=5% Crit Damage
 |reach=88
 |upgrade=4
-|sellprice=15498755
+|sellprice=17484135
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -389,19 +402,20 @@ Deuscythe
 |levelreq=45
 |expgiven=450000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Black Lense|quantity1=4
-|resource2=Eternal Lord of  The Undying Ember|quantity2=5
+|resource1=Black Lense|quantity1=10
+|resource2=Eternal Lord of The Undying Ember|quantity2=15
 |resource3=The Ice Breaker|quantity3=3
+|resource4=Dense Water|quantity4=7
 }}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Black Lense|4}}
-{{detrecipe|3|Eternal Lord of  The Undying Ember|5}}
+{{detrecipe|3|Black Lense|10}}
+{{detrecipe|3|Eternal Lord of The Undying Ember|15}}
 {{detrecipe|3|The Ice Breaker|3}}
 {{detrecipe|40|Melty Cube|75000}}
 {{detrecipe|40|Enforced Slasher|6}}
 {{detrecipe|80|Nuget Cake|18}}
-{{detrecipe|80|Leather Hide|2400}}
+{{detrecipe|80|Leather Hide|15000}}
 {{detrecipe|80|Royal Bayonet|12}}
 {{detrecipe|120|Forest Fibres|15000}}
 {{detrecipe|120|Steel Axe|36}}
@@ -409,16 +423,19 @@ Deuscythe
 {{detrecipe|160|Boring Brick|4500}}
 {{detrecipe|120|Distilled Water|96}}
 {{detrecipe|40|Redox Salts|450}}
+{{detrecipe|3|Dense Water|7}}
 |tot=
-{{detrecipe/totals|Black Lense|4}}
-{{detrecipe/totals|Eternal Lord of  The Undying Ember|5}}
+{{detrecipe/totals|Black Lense|10}}
+{{detrecipe/totals|Eternal Lord of The Undying Ember|15}}
+{{detrecipe/totals|Dense Water|7}}
 {{detrecipe/totals|Melty Cube|75000}}
+{{detrecipe/totals|Redox Salts|450}}
 {{detrecipe/totals|Nuget Cake|18}}
-{{detrecipe/totals|Leather Hide|2400}}
+{{detrecipe/totals|Leather Hide|15000}}
 {{detrecipe/totals|Forest Fibres|15000}}
+{{detrecipe/totals|Distilled Water|96}}
 {{detrecipe/totals|Slime Sludge|4500}}
 {{detrecipe/totals|Boring Brick|4500}}
-{{detrecipe/totals|Redox Salts|450}}
 }}
 Frozen Impaler
 {{InfoItem
@@ -536,7 +553,7 @@ Wooden Bow
 |reach=150
 |upgrade=1
 |sellprice=165
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -544,13 +561,10 @@ Wooden Bow
 |craftnum=3
 |levelreq=3
 |expgiven=8
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=25
 |resource2=Thread|quantity2=30
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Shank]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}
@@ -583,11 +597,6 @@ Birch Longbow
 |resource1=Slime Sludge|quantity1=125
 |resource2=Bleach Logs|quantity2=250
 }}
-{{usedin/head}}
-{{usedin/row|[[Spiked Menace]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}
@@ -612,10 +621,6 @@ Carrot Launcher
 }}
 {{detdrops/head}}
 {{detdrops|[[Carrotman]]|0.00004|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Blunderhills Misc Completion Token]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
 |}
 Spiked Menace
 {{InfoItem
@@ -643,10 +648,6 @@ Spiked Menace
 |resource2=Birch Longbow|quantity2=3
 |resource3=Distilled Water|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Pharoah Bow]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Gold Bar|250}}
@@ -656,9 +657,9 @@ Spiked Menace
 {{detrecipe|3|Distilled Water|8}}
 |tot=
 {{detrecipe/totals|Gold Bar|250}}
+{{detrecipe/totals|Distilled Water|8}}
 {{detrecipe/totals|Slime Sludge|375}}
 {{detrecipe/totals|Bleach Logs|750}}
-{{detrecipe/totals|Distilled Water|8}}
 }}
 Pharoah Bow
 {{InfoItem
@@ -671,7 +672,7 @@ Pharoah Bow
 |agi=13
 |reach=200
 |upgrade=3
-|sellprice=128170
+|sellprice=95770
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -682,18 +683,13 @@ Pharoah Bow
 |expgiven=10000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Woodular Circle|quantity1=3
-|resource2=Bloach|quantity2=3200
+|resource2=Bloach|quantity2=1400
 |resource3=Spiked Menace|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|1|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Woodular Circle|3}}
-{{detrecipe|3|Bloach|3200}}
+{{detrecipe|3|Bloach|1400}}
 {{detrecipe|3|Spiked Menace|2}}
 {{detrecipe|40|Gold Bar|500}}
 {{detrecipe|40|Birch Longbow|6}}
@@ -702,11 +698,11 @@ Pharoah Bow
 {{detrecipe|40|Distilled Water|16}}
 |tot=
 {{detrecipe/totals|Woodular Circle|3}}
-{{detrecipe/totals|Bloach|3200}}
+{{detrecipe/totals|Bloach|1400}}
 {{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Bleach Logs|1500}}
-{{detrecipe/totals|Distilled Water|16}}
 }}
 Blizzard Bow
 {{InfoItem
@@ -719,7 +715,7 @@ Blizzard Bow
 |misc=5% Crit Damage
 |reach=205
 |upgrade=4
-|sellprice=290740
+|sellprice=227540
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -733,15 +729,12 @@ Blizzard Bow
 |resource2=Pharoah Bow|quantity2=2
 |resource3=Redox Salts|quantity3=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Blackhole Bow]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Soul|7000}}
 {{detrecipe|3|Pharoah Bow|2}}
 {{detrecipe|40|Woodular Circle|6}}
-{{detrecipe|40|Bloach|6400}}
+{{detrecipe|40|Bloach|2800}}
 {{detrecipe|40|Spiked Menace|4}}
 {{detrecipe|80|Gold Bar|1000}}
 {{detrecipe|80|Birch Longbow|12}}
@@ -751,12 +744,13 @@ Blizzard Bow
 {{detrecipe|3|Redox Salts|150}}
 |tot=
 {{detrecipe/totals|Forest Soul|7000}}
+{{detrecipe/totals|Redox Salts|150}}
 {{detrecipe/totals|Woodular Circle|6}}
-{{detrecipe/totals|Bloach|6400}}
+{{detrecipe/totals|Bloach|2800}}
 {{detrecipe/totals|Gold Bar|1000}}
+{{detrecipe/totals|Distilled Water|32}}
 {{detrecipe/totals|Slime Sludge|1500}}
 {{detrecipe/totals|Bleach Logs|3000}}
-{{detrecipe/totals|Redox Salts|150}}
 }}
 Blackhole Bow
 {{InfoItem
@@ -770,7 +764,7 @@ Blackhole Bow
 |misc=5% Crit Damage
 |reach=230
 |upgrade=4
-|sellprice=898020
+|sellprice=757970
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -781,18 +775,19 @@ Blackhole Bow
 |expgiven=450000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Black Lense|quantity1=4
-|resource2=Spontaneity Salts|quantity2=250
+|resource2=Spontaneity Salts|quantity2=350
 |resource3=Blizzard Bow|quantity3=3
+|resource4=Dense Water|quantity4=7
 }}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Black Lense|4}}
-{{detrecipe|3|Spontaneity Salts|250}}
+{{detrecipe|3|Spontaneity Salts|350}}
 {{detrecipe|3|Blizzard Bow|3}}
 {{detrecipe|40|Forest Soul|21000}}
 {{detrecipe|40|Pharoah Bow|6}}
 {{detrecipe|80|Woodular Circle|18}}
-{{detrecipe|80|Bloach|19200}}
+{{detrecipe|80|Bloach|8400}}
 {{detrecipe|80|Spiked Menace|12}}
 {{detrecipe|120|Gold Bar|3000}}
 {{detrecipe|120|Birch Longbow|36}}
@@ -800,16 +795,19 @@ Blackhole Bow
 {{detrecipe|160|Bleach Logs|9000}}
 {{detrecipe|120|Distilled Water|96}}
 {{detrecipe|40|Redox Salts|450}}
+{{detrecipe|3|Dense Water|7}}
 |tot=
 {{detrecipe/totals|Black Lense|4}}
-{{detrecipe/totals|Spontaneity Salts|250}}
+{{detrecipe/totals|Spontaneity Salts|350}}
+{{detrecipe/totals|Dense Water|7}}
 {{detrecipe/totals|Forest Soul|21000}}
+{{detrecipe/totals|Redox Salts|450}}
 {{detrecipe/totals|Woodular Circle|18}}
-{{detrecipe/totals|Bloach|19200}}
+{{detrecipe/totals|Bloach|8400}}
 {{detrecipe/totals|Gold Bar|3000}}
+{{detrecipe/totals|Distilled Water|96}}
 {{detrecipe/totals|Slime Sludge|4500}}
 {{detrecipe/totals|Bleach Logs|9000}}
-{{detrecipe/totals|Redox Salts|450}}
 }}
 Gnarled Wand
 {{InfoItem
@@ -822,7 +820,7 @@ Gnarled Wand
 |reach=115
 |upgrade=1
 |sellprice=135
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -830,13 +828,10 @@ Gnarled Wand
 |craftnum=4
 |levelreq=3
 |expgiven=12
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=25
 |resource2=Oak Logs|quantity2=30
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Shank]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}
@@ -868,10 +863,6 @@ Quarterstaff
 |resource1=Slime Sludge|quantity1=125
 |resource2=Copper Bar|quantity2=100
 }}
-{{usedin/head}}
-{{usedin/row|[[Starlight]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}
@@ -905,10 +896,6 @@ Starlight
 |resource2=Quarterstaff|quantity2=3
 |resource3=Distilled Water|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Crows Nest]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Chain Link|1000}}
@@ -918,9 +905,9 @@ Starlight
 {{detrecipe|3|Distilled Water|8}}
 |tot=
 {{detrecipe/totals|Chain Link|1000}}
+{{detrecipe/totals|Distilled Water|8}}
 {{detrecipe/totals|Slime Sludge|375}}
 {{detrecipe/totals|Copper Bar|300}}
-{{detrecipe/totals|Distilled Water|8}}
 }}
 Crows Nest
 {{InfoItem
@@ -948,9 +935,6 @@ Crows Nest
 |resource2=Fruitfly|quantity2=4000
 |resource3=Starlight|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Spriggly Storm]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Golden Plop|3}}
@@ -965,9 +949,9 @@ Crows Nest
 {{detrecipe/totals|Golden Plop|3}}
 {{detrecipe/totals|Fruitfly|4000}}
 {{detrecipe/totals|Chain Link|2000}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Copper Bar|600}}
-{{detrecipe/totals|Distilled Water|16}}
 }}
 Spriggly Storm
 {{InfoItem
@@ -978,9 +962,10 @@ Spriggly Storm
 |weaponpower=36
 |wis=15
 |luck=1
+|misc=5% Crit Damage
 |reach=155
 |upgrade=4
-|sellprice=661400
+|sellprice=663000
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -994,9 +979,6 @@ Spriggly Storm
 |resource2=Crows Nest|quantity2=2
 |resource3=Redox Salts|quantity3=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Grey Gatsby]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Tundra Logs|10000}}
@@ -1012,12 +994,13 @@ Spriggly Storm
 {{detrecipe|3|Redox Salts|150}}
 |tot=
 {{detrecipe/totals|Tundra Logs|10000}}
+{{detrecipe/totals|Redox Salts|150}}
 {{detrecipe/totals|Golden Plop|6}}
 {{detrecipe/totals|Fruitfly|8000}}
 {{detrecipe/totals|Chain Link|4000}}
+{{detrecipe/totals|Distilled Water|32}}
 {{detrecipe/totals|Slime Sludge|1500}}
 {{detrecipe/totals|Copper Bar|1200}}
-{{detrecipe/totals|Redox Salts|150}}
 }}
 Grey Gatsby
 {{InfoItem
@@ -1032,7 +1015,7 @@ Grey Gatsby
 |misc=5% Crit Damage
 |reach=170
 |upgrade=4
-|sellprice=3735000
+|sellprice=2309350
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -1043,13 +1026,14 @@ Grey Gatsby
 |expgiven=450000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Black Lense|quantity1=4
-|resource2=Frigid Soul|quantity2=50000
+|resource2=Frigid Soul|quantity2=8000
 |resource3=Spriggly Storm|quantity3=3
+|resource4=Dense Water|quantity4=7
 }}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Black Lense|4}}
-{{detrecipe|3|Frigid Soul|50000}}
+{{detrecipe|3|Frigid Soul|8000}}
 {{detrecipe|3|Spriggly Storm|3}}
 {{detrecipe|40|Tundra Logs|30000}}
 {{detrecipe|40|Crows Nest|6}}
@@ -1062,16 +1046,19 @@ Grey Gatsby
 {{detrecipe|160|Copper Bar|3600}}
 {{detrecipe|120|Distilled Water|96}}
 {{detrecipe|40|Redox Salts|450}}
+{{detrecipe|3|Dense Water|7}}
 |tot=
 {{detrecipe/totals|Black Lense|4}}
-{{detrecipe/totals|Frigid Soul|50000}}
+{{detrecipe/totals|Frigid Soul|8000}}
+{{detrecipe/totals|Dense Water|7}}
 {{detrecipe/totals|Tundra Logs|30000}}
+{{detrecipe/totals|Redox Salts|450}}
 {{detrecipe/totals|Golden Plop|18}}
 {{detrecipe/totals|Fruitfly|24000}}
 {{detrecipe/totals|Chain Link|12000}}
+{{detrecipe/totals|Distilled Water|96}}
 {{detrecipe/totals|Slime Sludge|4500}}
 {{detrecipe/totals|Copper Bar|3600}}
-{{detrecipe/totals|Redox Salts|450}}
 }}
 Microphone
 {{InfoItem

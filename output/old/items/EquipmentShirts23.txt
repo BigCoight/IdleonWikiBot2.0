@@ -4,9 +4,10 @@
 |type=Shirt
 |str=2
 |agi=12
+|misc=10% Catch Efficincy
 |upgrade=3
 |defence=18
-|sellprice=104080
+|sellprice=374080
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -23,12 +24,13 @@
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Fur Shirt|4}}
-{{detrecipe|40|Goblin Ear|2000}}
+{{detrecipe|40|Glublin Ear|2000}}
 {{detrecipe|40|Iron Bar|2000}}
 {{detrecipe|3|Stick|3000}}
 {{detrecipe|3|Nuget Cake|1}}
 |tot=
-{{detrecipe/totals|Goblin Ear|2000}}
-{{detrecipe/totals|Iron Bar|2000}}
+{{detrecipe/totals|Stick|3000}}
 {{detrecipe/totals|Nuget Cake|1}}
+{{detrecipe/totals|Glublin Ear|2000}}
+{{detrecipe/totals|Iron Bar|2000}}
 }}

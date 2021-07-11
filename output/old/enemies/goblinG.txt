@@ -14,8 +14,9 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Carrotman|Wode Board}}
+{{DropTable/head}}
 {{DropTable/coin|19|0.39}}
-{{DropTable/row|Goblin Ear|0.16|1}}
+{{DropTable/row|Glublin Ear|0.16|1}}
 {{DropTable/card|0.000086}}
 {{DropTable/row|Helmet Upgrade Stone I|0.00015|1}}
 {{DropTable/recipe|0|Fur Shirt|0.00003}}

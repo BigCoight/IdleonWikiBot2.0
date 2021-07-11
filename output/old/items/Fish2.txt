@@ -9,17 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.4|50}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Iron Fishing Rod]]|850|Crafting}}
-{{usedin/row|[[Small Fish Pouch]]|425|Crafting}}
-{{usedin/row|[[Gold Fishing Rod]]|2500|Crafting}}
-{{usedin/row|[[Average Fish Pouch]]|1500|Crafting}}
-{{usedin/row|[[Empty Box]]|250|Crafting}}
-{{usedin/row|[[Angler Boots]]|1000|Crafting}}
-{{usedin/row|[[Slurpin Herm]]|5|Crafting}}
-{{usedin/row|[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]|100|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Sploosh Sploosh]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Noodubble]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Slug Slurp]]|Lots|Alchemy}}
-|}

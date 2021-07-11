@@ -1,33 +1,14 @@
 {
     "Changes": {
-        "Barbarian": {
-            "Worming Undercover": {
+        "Mage": {
+            "Leaf Thief": {
                 "Description": [
-                    "{% chance to wake the sleeper agent worm within the fish, letting you instantly catch",
-                    "{% chance"
-                ],
-                "X1": ["9.3", "to"],
-                "X2": [
-                    ".7",
-                    "wake the sleeper agent worm within the fish, letting you instantly catch"
-                ],
-                "FuncX": ["bigBase", "9.3"]
+                    "{% Choppin Efficiency per power of 10 Leaves in your Storage Chest.",
+                    "{% Choppin Efficiency per power of 10 Grass Leaves in your Storage Chest."
+                ]
             }
         }
     },
-    "New": {
-        "Barbarian": {
-            "Worming Undercover": {
-                "Y1": ".7",
-                "Y2": "bigBase"
-            }
-        }
-    },
-    "Removed": {
-        "Barbarian": {
-            "Worming Undercover": {
-                "Level Up Text": "+1% Chance"
-            }
-        }
-    }
+    "New": {},
+    "Removed": {}
 }

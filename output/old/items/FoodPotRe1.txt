@@ -6,9 +6,5 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=5|vendor=Blunder Hills|stock=400|buyprice=16}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Saucy Logfries]]|3|Crafting}}
-{{usedin/row|[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]]|8500|Quests}}
+{{Vendoritem/tablerow|number=6|vendor=Blunder Hills|stock=400|buyprice=16}}
 |}

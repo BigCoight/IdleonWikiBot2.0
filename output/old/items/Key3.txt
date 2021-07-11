@@ -2,11 +2,11 @@
 |type=Boss Key
 |description=Hold down to add these Iceland Boss Keys to your account.
 |sellprice=50
-|source=[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.04|1}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.1|1}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.18|1}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.04|1}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.1|1}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.18|1}}
 |}

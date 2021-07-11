@@ -3,10 +3,11 @@
 |type=Time Candy
 |description=Hold down to instantly get 1 Hour of AFK Gains.
 |sellprice=1
-|source=[[Scripticus#Can't somebody else do it?|Can't somebody else do it?]], [[Desert Davey#U Cool?|U Cool?]], [[Mutton#Clout Chasin'|Clout Chasin']], [[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]], [[Djonnut#Genie Dieting|Genie Dieting]], [[Cowbo Jones#No Country for One Character|No Country for One Character]], [[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lonely Hunter#Skeleton? Skelegone!|Skeleton? Skelegone!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Summer Spirit]], [[Scripticus#Can't somebody else do it?|Can't somebody else do it?]], [[Desert Davey#U Cool?|U Cool?]], [[Mutton#Clout Chasin'|Clout Chasin']], [[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]], [[Djonnut#Genie Dieting|Genie Dieting]], [[Snake Jar#A Noob, served Medium Rare!|A Noob, served Medium Rare!]], [[Cowbo Jones#No Country for One Character|No Country for One Character]], [[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]], [[Loveulyte#Heart Hogger|Heart Hogger]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Hoggindaz#Trapping with the Lord|Trapping with the Lord]], [[Hoggindaz#Monke Tower Time!|Monke Tower Time!]], [[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]], [[Lonely Hunter#Skeleton? Skelegone!|Skeleton? Skelegone!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.04|1}}
 {{detdrops|[[Biggie Hours]]|0.2|1.0}}
 {{detdrops|[[King Doot]]|0.25|1.0}}
 |}
@@ -15,10 +16,11 @@
 |type=Time Candy
 |description=Hold down to instantly get 2 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Centurion#High Scorer|High Scorer]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Summer Spirit]], [[Stiltzcho#Time Crime Episode 1|Time Crime Episode 1]], [[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]], [[Postboy Pablob#Signed, Sealed and Lost in the Post|Signed, Sealed and Lost in the Post]], [[Centurion#High Scorer|High Scorer]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Giftmas Blobulyte#Boo, Headshot!|Boo, Headshot!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.01|3}}
 {{detdrops|[[Biggie Hours]]|0.13360000000000002|1.0}}
 {{detdrops|[[King Doot]]|0.167|1.0}}
 |}
@@ -27,7 +29,7 @@
 |type=Time Candy
 |description=Hold down to instantly get 4 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]], [[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]], [[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Stiltzcho#Time Crime Episode 2|Time Crime Episode 2]], [[Papua Piggea#Crystal Crime Stopper|Crystal Crime Stopper]], [[Desert Davey#U Cool?|U Cool?]], [[Centurion#Colosseum Champ!|Colosseum Champ!]], [[Telescope#I'm Seeing Stars!|I'm Seeing Stars!]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]], [[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]], [[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -39,7 +41,7 @@
 |type=Time Candy
 |description=Twelve hours, that's a long time! Hold down to instantly get 12 Hour of AFK Gains.
 |sellprice=1
-|source=[[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]], [[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]], [[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]], [[Lord of the Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
+|source=[[Cactolyte#Super Skillage|Super Skillage]], [[Snake Jar#Red Stuff Bad!|Red Stuff Bad!]], [[Centurion#Colosseum GDQ|Colosseum GDQ]], [[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]], [[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]], [[Lord of the Hunt#Noot Noot!|Noot Noot!]], [[DropTable13]], [[Gem Shop]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -51,7 +53,7 @@
 |type=Time Candy
 |description=An entire day, just like that! Hold down to instantly get 24 Hour of AFK Gains.
 |sellprice=1
-|source=[[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]], [[Lord of the Hunt#Untitled Quest|Untitled Quest]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]]
+|source=[[Cactolyte#Top Skillage|Top Skillage]], [[Stiltzcho#Time Crime Season Finale|Time Crime Season Finale]], [[Goldric#Dont lay a finger on my Sheepies!!!|Dont lay a finger on my Sheepies!!!]], [[Loominadi#The Mummy of Mystery|The Mummy of Mystery]], [[Cowbo Jones#Tomb Raid|Tomb Raid]], [[Lord of the Hunt#Untitled Quest|Untitled Quest]], [[DropTable13]], [[Alchemy#Level up Gift|Level up Gift]]
 |notes= 
 }}
 {{detdrops/head}}

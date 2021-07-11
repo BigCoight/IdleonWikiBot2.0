@@ -1,203 +1,493 @@
 {
     "Changes": {
-        "Gold": {
-            "description": {
-                "0": ["Smelt down 8 Ores into 1 Bar", "Smelt down 7 Ores into 1 Bar"]
+        "TestObj16": {
+            "Weapon_Power": ["5", "50"]
+        },
+        "EquipmentSword3": {
+            "sellPrice": ["17424120", "17484135"],
+            "recipeData": {
+                "recipe": {
+                    "0": [
+                        ["Black Lense", "4"],
+                        ["Black Lense", "10"]
+                    ],
+                    "1": [
+                        ["Eternal Lord of The Undying Ember", "10"],
+                        ["Eternal Lord of The Undying Ember", "15"]
+                    ]
+                }
             }
         },
-        "Plat": {
-            "description": {
-                "0": ["Smelt down 20 Ores into 1 Bar", "Smelt down 16 Ores into 1 Bar"]
+        "EquipmentBows8": {
+            "sellPrice": ["747970", "757970"],
+            "recipeData": {
+                "recipe": {
+                    "1": [
+                        ["Spontaneity Salts", "250"],
+                        ["Spontaneity Salts", "350"]
+                    ]
+                }
             }
         },
-        "Dementia": {
-            "description": {
-                "0": ["Smelt down 50 Ores into 1 Bar", "Smelt down 40 Ores into 1 Bar"]
+        "WorshipSkull4": {
+            "sellPrice": ["281600", "171600"],
+            "recipeData": {
+                "recipe": {
+                    "0": [
+                        ["Rooted Soul", "12500"],
+                        ["Rooted Soul", "7000"]
+                    ]
+                }
             }
         },
-        "Void": {
-            "description": {
-                "0": ["Smelt down 125 Ores into 1 Bar", "Smelt down 100 Ores into 1 Bar"]
+        "WorshipSkull5": {
+            "sellPrice": ["773450", "763450"],
+            "recipeData": {
+                "recipe": {
+                    "0": [
+                        ["Frigid Soul", "6000"],
+                        ["Frigid Soul", "12000"]
+                    ]
+                }
             }
         },
-        "Bug2": {
+        "Pearl3": {
+            "displayName": ["Golden Pearl", "Shiny Pearl"]
+        },
+        "ResetCompletedS": {
+            "sellPrice": ["1", "5250"]
+        },
+        "BobJoePickle": {
+            "sellPrice": ["20000", "40000"]
+        },
+        "NPCtoken5": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."],
+                "4": [" ", "Open items, look at the top left."]
+            }
+        },
+        "NPCtoken6": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "1"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."],
+                "4": [" ", "Open items, look at the top left."]
+            }
+        },
+        "NPCtoken4": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "2"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."],
+                "4": [" ", "Open items, look at the top left."]
+            }
+        },
+        "NPCtoken9": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "3"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."],
+                "4": [" ", "Open items, look at the top left."]
+            }
+        },
+        "NPCtoken10": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "4"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken11": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "5"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken13": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "6"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken7": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "7"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "Quest9": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "8"],
+            "description": {
+                "4": [" ", "Hold down to add to your token bag"]
+            }
+        },
+        "NPCtoken15": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "9"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken12": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "10"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken14": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "11"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken16": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "12"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken17": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "13"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken18": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "14"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken19": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "15"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken20": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "16"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken21": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "17"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken27": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "18"]
+        },
+        "NPCtoken22": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "19"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken24": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "20"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken25": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "21"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken26": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "22"],
             "description": {
                 "0": [
-                    "Butter Fly? Get it??? Soryy... I promise I wont make this kind of joke again",
-                    "Butter Fly? Get it??? Sorry... I promise I wont make this kind of joke again"
+                    "Proof that you completed all of Scubidew's quests! Well, most of them, at least.",
+                    "Proof that you completed all of"
+                ],
+                "1": [" ", " Scubidew's quests! Well, most of "],
+                "2": [" ", "them, at least. "],
+                "3": [" ", "Hold down to add to your token pouch"],
+                "4": [" ", "found in Storage Info."]
+            }
+        },
+        "NPCtoken23": {
+            "typeGen": ["dQuest", "dCurrency"],
+            "ID": ["0", "23"],
+            "description": {
+                "2": [" ", "Hold down to add to your token bag"],
+                "3": [" ", "found in Storage Info."]
+            }
+        },
+        "MaxCapBagF4": {
+            "sellPrice": ["162930", "162770"],
+            "recipeData": {
+                "recipe": {
+                    "1": [
+                        ["Nuget Cake", "6"],
+                        ["Nuget Cake", "4"]
+                    ]
+                }
+            }
+        },
+        "MaxCapBagF5": {
+            "sellPrice": ["2522860", "2522540"]
+        },
+        "MaxCapBagF6": {
+            "sellPrice": ["2560760", "2560440"]
+        },
+        "MaxCapBagM5": {
+            "sellPrice": ["122250", "121160"],
+            "recipeData": {
+                "recipe": {
+                    "0": [
+                        ["Golden Plop", "5"],
+                        ["Golden Plop", "3"]
+                    ],
+                    "1": [
+                        ["Woodular Circle", "5"],
+                        ["Woodular Circle", "4"]
+                    ]
+                }
+            }
+        },
+        "MaxCapBagM6": {
+            "sellPrice": ["4303950", "4301770"]
+        },
+        "MaxCapBagM7": {
+            "sellPrice": ["38387900", "38383540"]
+        },
+        "ObolPlatinum0": {
+            "sellPrice": ["15", "20"]
+        },
+        "ObolPlatinum1": {
+            "sellPrice": ["15", "20"]
+        },
+        "ObolPlatinum2": {
+            "sellPrice": ["15", "20"]
+        },
+        "ObolPlatinum3": {
+            "sellPrice": ["15", "20"]
+        },
+        "ObolPink0": {
+            "sellPrice": ["15", "50"]
+        },
+        "ObolPink1": {
+            "sellPrice": ["15", "50"]
+        },
+        "ObolPink2": {
+            "sellPrice": ["15", "50"]
+        },
+        "ObolPink3": {
+            "sellPrice": ["15", "50"]
+        },
+        "ObolGoldLuck": {
+            "sellPrice": ["3", "8"]
+        },
+        "ObolPlatinumLuck": {
+            "sellPrice": ["3", "20"]
+        },
+        "ObolEfauntA": {
+            "Weapon_Power": ["1", "2"],
+            "STR": ["2", "5"],
+            "AGI": ["2", "5"],
+            "WIS": ["2", "5"],
+            "LUK": ["2", "5"]
+        },
+        "ObolAmarokA": {
+            "STR": ["3", "2"],
+            "Defence": ["2", "5"]
+        },
+        "ObolSilverDef": {
+            "typeGen": ["aObolSquare", "aObolCircle"],
+            "Type": ["Square Obol", "Circle Obol"]
+        },
+        "StampA14": {
+            "stampData": {
+                "5": ["Goblin Ear", "Glublin Ear"]
+            }
+        },
+        "StampB30": {
+            "displayName": ["Sample Stamp", "Stample Stamp"]
+        },
+        "StampB32": {
+            "displayName": ["Amplesample Stamp", "Amplestample Stamp"]
+        },
+        "CraftMat1": {
+            "description": {
+                "0": [
+                    "It's basically string cheese, but without the cheese.",
+                    "It's basically string cheese, but without the cheese. CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!"
                 ]
             }
         },
-        "EquipmentSword1": {
-            "sellPrice": ["412290", "76290"],
-            "recipeData": {
-                "recipe": {
-                    "1": [
-                        ["Leather Hide", "6000"],
-                        ["Leather Hide", "400"]
-                    ]
-                }
+        "Forest1": {
+            "displayName": ["Goblin Ear", "Glublin Ear"]
+        },
+        "Key3": {
+            "ID": ["1", "2"]
+        },
+        "CardsD4": {
+            "cardData": {
+                "4": ["8", "0"]
             }
         },
-        "EquipmentSword2": {
-            "sellPrice": ["5837980", "5165980"]
+        "CardsD8": {
+            "cardData": {
+                "4": ["9", "8"]
+            }
         },
-        "EquipmentSword3": {
-            "sellPrice": ["17514755", "15498755"]
+        "CardsD18": {
+            "cardData": {
+                "2": ["+% Max Charge", "+ Starting Pts in Worship"],
+                "3": ["3", "4"]
+            }
         },
-        "EquipmentTools6": {
-            "sellPrice": ["2291200", "2199200"],
+        "CardsF2": {
+            "cardData": {
+                "4": ["0", "9"]
+            }
+        },
+        "CardsF10": {
+            "cardData": {
+                "3": ["2.5", "7"]
+            }
+        },
+        "CardsF11": {
+            "cardData": {
+                "3": ["2.5", "5"]
+            }
+        },
+        "CardsY11": {
+            "cardData": {
+                "1": ["10", "8"]
+            }
+        },
+        "CardsY12": {
+            "cardData": {
+                "1": ["10", "8"]
+            }
+        },
+        "EquipmentShirts10": {
             "recipeData": {
                 "recipe": {
                     "0": [
-                        ["Platinum Bar", "1000"],
-                        ["Platinum Bar", "800"]
+                        ["Goblin Ear", "500"],
+                        ["Glublin Ear", "500"]
                     ]
                 }
             }
         },
-        "EquipmentTools7": {
-            "sellPrice": ["7994900", "7810900"]
-        },
-        "EquipmentTools11": {
-            "sellPrice": ["18469800", "18101800"]
-        },
-        "EquipmentToolsHatchet4": {
-            "sellPrice": ["782750", "712750"],
-            "recipeData": {
-                "recipe": {
-                    "0": [
-                        ["Tropilogs", "8000"],
-                        ["Tropilogs", "6500"]
-                    ],
-                    "1": [
-                        ["Chain Link", "6000"],
-                        ["Chain Link", "5000"]
-                    ]
-                }
-            }
-        },
-        "EquipmentToolsHatchet5": {
-            "sellPrice": ["2020500", "1880500"]
-        },
-        "EquipmentToolsHatchet7": {
-            "sellPrice": ["6041000", "5761000"]
-        },
-        "FishingRod5": {
-            "sellPrice": ["875600", "783600"],
+        "EquipmentHats18": {
             "recipeData": {
                 "recipe": {
                     "1": [
-                        ["Platinum Bar", "1000"],
-                        ["Platinum Bar", "800"]
+                        ["Goblin Ear", "300"],
+                        ["Glublin Ear", "300"]
                     ]
                 }
             }
         },
-        "FishingRod6": {
-            "sellPrice": ["2206200", "2022200"]
-        },
-        "FishingRod7": {
-            "sellPrice": ["4432409", "4064409"]
-        },
-        "CatchingNet5": {
-            "sellPrice": ["454800", "374800"],
-            "recipeData": {
-                "recipe": {
-                    "0": [
-                        ["Fruitfly", "8000"],
-                        ["Fruitfly", "7000"]
-                    ],
-                    "1": [
-                        ["Platinum Ore", "6000"],
-                        ["Platinum Ore", "3000"]
-                    ]
-                }
-            }
-        },
-        "CatchingNet6": {
-            "sellPrice": ["1394600", "1234600"]
-        },
-        "CatchingNet7": {
-            "sellPrice": ["4789200", "4469200"]
-        },
-        "EquipmentStatues16": {
-            "ID": ["14", "15"]
-        },
-        "EquipmentStatues17": {
-            "ID": ["14", "16"],
-            "statueData": {
-                "2": ["307", "260"]
-            }
-        },
-        "EquipmentStatues18": {
-            "ID": ["14", "17"]
-        },
-        "EquipmentStatues19": {
-            "ID": ["14", "18"]
-        },
-        "StampB25": {
-            "ID": ["24", "25"]
-        },
-        "StampB26": {
-            "ID": ["24", "26"]
-        },
-        "StampB27": {
-            "ID": ["24", "27"]
-        },
-        "StampB28": {
-            "ID": ["24", "28"]
-        },
-        "StampB29": {
-            "ID": ["24", "29"]
-        },
-        "StampB30": {
-            "ID": ["24", "30"]
-        },
-        "StampB31": {
-            "ID": ["24", "31"]
-        },
-        "StampB32": {
-            "ID": ["24", "32"]
-        },
-        "StampB33": {
-            "ID": ["24", "33"]
-        },
-        "StampB34": {
-            "ID": ["24", "34"]
-        },
-        "StampB35": {
-            "ID": ["24", "35"]
-        },
-        "StampB36": {
-            "ID": ["24", "36"]
-        },
-        "StampC19": {
-            "displayName": ["Overkill Stamp", "Multikill Stamp"],
-            "ID": ["18", "19"]
-        },
-        "StampC20": {
-            "ID": ["18", "20"]
-        },
-        "CardsD20": {
-            "cardData": {
-                "2": ["+% Base HP", "+% Trapping Efficiency"]
-            }
-        },
-        "CardsD21": {
-            "cardData": {
-                "2": ["+% Base HP", "+% Trapping EXP"],
-                "3": ["3", "5"]
-            }
-        },
-        "CardsE4": {
-            "displayName": ["mamooth Card", "Mamooth Card"],
-            "cardData": {
-                "2": ["+% Base HP", "+% Total HP"],
-                "5": ["mamooth", "Mamooth"]
+        "CraftMat5": {
+            "description": {
+                "3": [" ", "CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!"]
             }
         }
     },
-    "New": {},
+    "New": {
+        "EquipmentPunching5": {
+            "displayName": "Eclectic Ordeal",
+            "sellPrice": "317500",
+            "typeGen": "aWeapon",
+            "ID": "5",
+            "Type": "Fisticuff",
+            "lvReqToEquip": "85",
+            "Class": "Beginner",
+            "Speed": "9",
+            "Reach": "85",
+            "Weapon_Power": "32",
+            "LUK": "17",
+            "Upgrade_Slots_Left": "4",
+            "miscUp1": "5% Crit Chance",
+            "recipeData": {
+                "recipe": [
+                    ["Yellow Snowflake", "100"],
+                    ["Minervowl", "50"],
+                    ["Dootjat Eye", "10"],
+                    ["Dense Water", "15"]
+                ],
+                "levelReqToCraft": "45",
+                "expGiven": "500000",
+                "no": 29,
+                "tab": "Anvil Tab 3",
+                "recipeFrom": ["[[Tasks/Unlocks|Tasks]]"]
+            }
+        },
+        "SmithingHammerChisel2": {
+            "displayName": "Guilding Tools",
+            "sellPrice": "12500",
+            "typeGen": "dQuest",
+            "ID": "0",
+            "Type": "Quest Item",
+            "description": [
+                "Drop this on the statue man, and you'll turn him to gold and unlock Golden Statues!"
+            ]
+        },
+        "ResetCompletedS": {
+            "recipeData": {
+                "recipe": [
+                    ["Talent Point Reset Fragment", "25"],
+                    ["Distilled Water", "5"]
+                ],
+                "levelReqToCraft": "28",
+                "expGiven": "4000",
+                "no": 76,
+                "tab": "Anvil Tab 2",
+                "recipeFrom": ["[[Efaunt]]", "[[Biggie Hours]]"]
+            }
+        },
+        "ObolAmarokA": {
+            "AGI": "2",
+            "WIS": "2",
+            "LUK": "2"
+        }
+    },
     "Removed": {}
 }

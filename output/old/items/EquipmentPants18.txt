@@ -27,8 +27,8 @@
 {{detrecipe|40|Thread|120}}
 {{detrecipe|3|Iron Ore|200}}
 |tot=
+{{detrecipe/totals|Iron Ore|200}}
 {{detrecipe/totals|Frog Leg|160}}
 {{detrecipe/totals|Copper Bar|64}}
 {{detrecipe/totals|Thread|120}}
-{{detrecipe/totals|Iron Ore|200}}
 }}

@@ -1,9 +1,9 @@
 {{InfoItem
 |type=Leaf
 |sellprice=50
-|source=[[Choppin]]
+|source=[[Choppin]], [[DropTable11]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lonely Hunter#Leaf Him Alone!|Leaf Him Alone!]]|50|Quests}}
+{{detdrops/head}}
+{{detdrops|[[Choppin#Drops|Choppin Palm Tree]]|0.0075|8.0}}
 |}

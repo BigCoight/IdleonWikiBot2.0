@@ -89,6 +89,18 @@ def doCardData(new, data):
     return result + "\n"
 
 
+def doFishingData(new, data):
+    result = writepBold("Fishing Data")
+    if new:
+        for atr, val in enumerate(data):
+            result += writePatchnote(atr, " ", val)
+        return result + "\n"
+
+    for atr, val in enumerate(data):
+        result += writePatchnote(atr, val[0], val[1])
+    return result + "\n"
+
+
 def doStampData(new, data):
     stampChangeNames = ["Bonus", "func", "x1", "x2", "i4", "material", "i6", "i7", "i8", "i9", "i10", "Bonus", "i12"]
     result = writepBold("Stamp Data")
@@ -169,6 +181,7 @@ def doRequirements(new, data):
 
 def doRewards(new, data):
     def craftReq(reqSub):
+        print(reqSub)
         if ";" in reqSub[0]:
             return reqSub[1] + "x " + reqSub[0]
         return reqSub[1] + "x {{CraftReq|" + reqSub[0] + "}}"
@@ -180,6 +193,9 @@ def doRewards(new, data):
         return result + "\n"
     else:
         for n, value in data.items():
+            if value[0] == " ":
+                result += writePatchnote(f"Reward {int(n)+1}", " ", craftReq(value[1]))
+                continue
             result += writePatchnote(f"Reward {int(n)+1}", craftReq(value[0]), craftReq(value[1]))
         return result + "\n"
 
@@ -209,7 +225,7 @@ def writeItemsOut(changeLog):
     def getItemType(internalName):
         return items[internalName].get("Type", "Other")
 
-    changeToFunction = {"recipeData": doRecipeData, "cardData": doCardData, "description": doDescData, "stampData": doStampData, "statueData": doStatueData}
+    changeToFunction = {"recipeData": doRecipeData, "Fishing": doFishingData, "cardData": doCardData, "description": doDescData, "stampData": doStampData, "statueData": doStatueData}
     items = openJSON("Items")
     changedItems = {}
     currentChangelogOut = ""
@@ -221,7 +237,6 @@ def writeItemsOut(changeLog):
             if func := changeToFunction.get(atrChange):
                 addToDict(changedItems, itemType, func(False, valChange))
             else:
-                print(valChange)
                 addToDict(changedItems, itemType, writePatchnote(atrChange, valChange[0], valChange[1]))
 
     currentChangelogOut += writecChangeHead("Items")
@@ -297,6 +312,9 @@ def writeNPCsOut(changeLog):
     for internalName, enemyChange in changeLog["Changes"].items():
         for atrChange, valChange in enemyChange["Quests"].items():
             addToDict(changedNPCs, internalName, writepBold(atrChange))
+            if isinstance(valChange, list):
+                addToDict(changedNPCs, internalName, writePatchnote(atrChange, valChange[0], valChange[1]))
+                continue
             for changeType, changeValue in valChange.items():
                 if func := changeToFunction.get(changeType):
                     addToDict(changedNPCs, internalName, func(False, changeValue))
@@ -457,7 +475,6 @@ def writeTalentOut(changeLog):
     for caulName, talentPageChange in changeLog["Changes"].items():
         for bubbleName, talentChange in talentPageChange.items():
             addToDict(changedTalents, caulName, writepBold(bubbleName))
-            print(talentChange)
             for atrChange, valChange in talentChange.items():
                 addToDict(changedTalents, caulName, writePatchnote(atrChange, repU(valChange[0], True), repU(valChange[1], True)))
 

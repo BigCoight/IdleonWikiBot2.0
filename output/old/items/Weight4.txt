@@ -5,4 +5,5 @@
 |fishingpower=3
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}

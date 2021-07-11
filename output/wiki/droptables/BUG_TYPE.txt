@@ -1,24 +1,25 @@
 {{DropTable/head|Droptable for Drops for Flies|collapsed=Yes}}
-{{DropTable/card|0.00022}}
+{{DropTable/card|0.00042}}
 {{DropTable12|chance=0.015}}
 |}
 {{DropTable/head|Droptable for Drops for Butterflies|collapsed=Yes}}
-{{DropTable/card|0.00018}}
+{{DropTable/card|0.00030}}
+{{DropTable/row|Butter Bar|0.01|1}}
 {{DropTable12|chance=0.015}}
 |}
 {{DropTable/head|Droptable for Drops for Sentient Cereal|collapsed=Yes}}
-{{DropTable/card|0.00016}}
+{{DropTable/card|0.00028}}
 {{DropTable12|chance=0.015}}
 |}
 {{DropTable/head|Droptable for Drops for Fruitflies|collapsed=Yes}}
-{{DropTable/card|0.00014}}
+{{DropTable/card|0.00025}}
 {{DropTable12|chance=0.015}}
 |}
 {{DropTable/head|Droptable for Drops for Mosquisnow|collapsed=Yes}}
-{{DropTable/card|0.00014}}
+{{DropTable/card|0.00025}}
 {{DropTable18|chance=0.015}}
 |}
 {{DropTable/head|Droptable for Drops for Flycicle|collapsed=Yes}}
-{{DropTable/card|0.00014}}
+{{DropTable/card|0.00025}}
 {{DropTable18|chance=0.015}}
 |}

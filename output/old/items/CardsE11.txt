@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Neyeptune
 |order=11
-|category=Frostfire Tyundra
-|effect=+{% Total Accuracy
+|category=Frostbite Tundra
+|effect=+% Total Accuracy
 |bonus=5
 |reqtier=17
 |source=[[Neyeptune]]

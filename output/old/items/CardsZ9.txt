@@ -2,7 +2,7 @@
 |title=Chaotic Chizoar
 |order=10
 |category=Bosses
-|effect=+{% Shrine Effects
+|effect=+% Shrine Effects
 |bonus=5
 |reqtier=1.5
 }}

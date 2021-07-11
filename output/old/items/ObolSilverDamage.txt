@@ -5,11 +5,12 @@
 |str=1
 |agi=1
 |wis=1
-|misc=20 Base Damage
+|misc=10 Base Damage
 |sellprice=3
 |rarity=Silver
-|source=[[SuperDropTable1]], [[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[SuperDropTable1]], [[Alchemy#Liquid Shop|Decent Obols]], [[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Damage
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}

@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Untitled Quest|Untitled Quest]]|1|Quests}}
-{{usedin/row|[[Lord of the Hunt#To Trap or not to Trap|To Trap or not to Trap]]|100|Quests}}
-|}

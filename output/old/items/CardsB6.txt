@@ -2,7 +2,7 @@
 |title=Pincermin
 |order=5
 |category=Yum Yum Desert
-|effect=+{ Weapon Power
+|effect=+ Weapon Power
 |bonus=1
 |reqtier=10
 |source=[[Pincermin]]

@@ -22,9 +22,6 @@
 |resource2=Forest Fibres|quantity2=2500
 |resource3=Woodular Circle|quantity3=8
 }}
-{{usedin/head}}
-{{usedin/row|[[Blunder Skills Completion Token]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Amarok Slab|20}}

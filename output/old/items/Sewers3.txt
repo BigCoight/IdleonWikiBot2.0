@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Boop]]|0.5|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]|777|Quests}}
-|}

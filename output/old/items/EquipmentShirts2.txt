@@ -20,10 +20,6 @@
 |resource2=Oak Logs|quantity2=50
 |resource3=Orange Tee|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Black Tee]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}

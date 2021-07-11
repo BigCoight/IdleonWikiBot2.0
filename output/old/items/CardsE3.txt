@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Bloque
 |order=3
-|category=Frostfire Tyundra
-|effect=+{ Base AGI
+|category=Frostbite Tundra
+|effect=+ Base AGI
 |bonus=7
 |reqtier=14
 |source=[[Bloque]]

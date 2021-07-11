@@ -2,12 +2,17 @@
 |class=All
 |level=1
 |type=Hexagon Obol
-|str=3
+|str=2
+|agi=2
+|wis=2
+|luck=2
 |misc=4% Defence
+|defence=5
 |sellprice=20
 |rarity=Granite
 |source=[[Amarok]], [[Chaotic Amarok]]
 |notes= 
+|family=Bosses
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.0007|1}}

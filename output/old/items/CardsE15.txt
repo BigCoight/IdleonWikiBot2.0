@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Glacier Quartz
 |order=15
-|category=Frostfire Tyundra
-|effect=+{% EXP from monsters
+|category=Frostbite Tundra
+|effect=+% EXP from monsters
 |bonus=3
 |reqtier=10
 |source=[[Crystal Cattle]]

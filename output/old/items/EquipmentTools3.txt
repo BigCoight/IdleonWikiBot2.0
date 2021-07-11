@@ -3,12 +3,13 @@
 |level=18
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=10
 |str=5
 |agi=2
 |upgrade=2
 |sellprice=6200
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,14 +17,10 @@
 |craftnum=29
 |levelreq=13
 |expgiven=500
-|recipefrom=
+|recipefrom=Start
 |resource1=Iron Bar|quantity1=100
 |resource2=Carrot Cube|quantity2=200
 }}
-{{usedin/head}}
-{{usedin/row|[[Gold Pickaxe]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|100}}

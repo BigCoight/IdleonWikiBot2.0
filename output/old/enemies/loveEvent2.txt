@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Loveulyte|Floofie}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Choco Box|0.05|1}}

@@ -293,7 +293,143 @@
                 "AFKactivity": "0"
             }
         },
-        "TRIPLE_JAB": {}
+        "SKILLAGE_DAMAGE": {
+            "Description": "+{%_DMG_for_every_5_levels_of_your_lowest_LV_Skill",
+            "X1": "50",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_DMG"
+        },
+        "PRINTER_GO_BRRR": {
+            "Description": "Print_{_Hours_of_printer_samples_instantly._}%_chance_to_have_no_cooldown!",
+            "X1": "1",
+            "X2": "40",
+            "FuncX": "intervalAdd",
+            "Y1": "95",
+            "Y2": "60",
+            "FuncY": "decay",
+            "Level Up Text": "{_Hours_&_+}%_No_CD_chance",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "82000",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "TRIPLE_JAB": {
+            "Description": "Punches_now_hit_a_3rd_time_for_{%_dmg._The_other_hits_do_+}%_more_Dmg",
+            "X1": "20",
+            "X2": "4",
+            "FuncX": "intervalAdd",
+            "Y1": "0.5",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+{%_3rd_Dmg_&_+}_other_Dmg"
+        },
+        "ONE_STEP_AHEAD": {
+            "Description": "Check-Mate!",
+            "X1": "1",
+            "X2": "1",
+            "FuncX": "add",
+            "Level Up Text": "Pawn_to_B{"
+        },
+        "LUCKY_CHARMS": {
+            "Description": "LUK's_effect_on_Class_EXP_Gain_is_increased_by_{%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{%_Effect"
+        },
+        "CLEVER_CLOVER_OBOLS": {
+            "Description": "Obols_give_+{%_more_LUK_than_what's_listed",
+            "X1": "60",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_more_LUK_from_Obols"
+        },
+        "SKILLIEST_STATUE": {
+            "Description": "'EhExPee',_'Kapow',_and_'Feasty'_statues_give_{%_higher_bonuses",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_higher_bonuses"
+        },
+        "BLISS_N_CHIPS": {
+            "Description": "+{_Max_LV_to_'Happy_Dude',_and_+}_Max_LV_to_Lucky_Horseshoe",
+            "X1": "2",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "1",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+{_Max_LV_&_+}_Max_LV"
+        },
+        "COLLOQUIAL_CONTAINERS": {
+            "Description": "Each_Lv_of_'Lotto_Skills'_Bubble_raises_max_Lv_of_'Sleepin_On_The_Job'_Talent,_up_to_+{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{_Max_LV_for_Sleep_On_Job"
+        },
+        "MAESTRO_TRANSFUSION": {
+            "Description": "+{%_Skill_EXP_Gain,_and_-}%_Skill_Efficiency._Affects_all_Skills.",
+            "X1": "2.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "140",
+            "Y2": "100",
+            "FuncY": "decay",
+            "Level Up Text": "+{%_EXP_gain_&_-}%_Efficiency",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "120",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "CRYSTAL_COUNTDOWN": {
+            "Description": "Killing_a_Crystal_or_Giant_lowers_REQ_Exp_of_a_random_skill_by_2%._Stacks_up_to_{%.",
+            "X1": "100",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "10",
+            "Y2": "1",
+            "FuncY": "add",
+            "Level Up Text": "+{%_max_exp_reduction"
+        },
+        "LEFT_HAND_OF_LEARNING": {
+            "Description": "+{%_Skill_EXP_Gain_for_your_other_characters,_if_their_Skill_LV_is_lower_than_Maestro's.",
+            "X1": "200",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Skill_EXP_to_family"
+        },
+        "RIGHT_HAND_OF_ACTION": {
+            "Description": "+{%_Skill_Efficiency_for_your_other_characters,_if_their_Skill_LV_is_lower_than_Maestro's.",
+            "X1": "150",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Skill_Eff_to_family"
+        },
+        "JMAN_WAS_BETTER": {
+            "Description": "+{_Talent_Points_for_the_'Journeyman'_tab._Maestro_not_worth_the_wait,_eh?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1_Journeyman_Point"
+        }
     },
     "VIRTUOSO": {
         "QUAD_JAB": {}
@@ -613,14 +749,14 @@
             }
         },
         "MOCKING_SHOUT": {
-            "Description": "Every_0.5_sec,_monsters_move_toward_you_and_heal_for_{%_HP.",
+            "Description": "Every_0.5_sec,_monsters_move_toward_you_and_heal_for_{%_HP._Lasts_for_}_seconds",
             "X1": "1",
             "X2": "0",
             "FuncX": "add",
-            "Y1": "1",
-            "Y2": "0",
-            "FuncY": "add",
-            "Level Up Text": "+1%_Monster_heal,_+1%_EXP",
+            "Y1": "20",
+            "Y2": "0.2",
+            "FuncY": "bigBase",
+            "Level Up Text": "+1%_heal,_+}_sec",
             "Active Data": {
                 "K": "1",
                 "D": "1",
@@ -666,7 +802,7 @@
         "APOCALYPSE_ZOW": {
             "Description": "+{%_Dmg_for_every_monster_you_kill_over_100,000_times._Counts_}_monster_types",
             "X1": "2",
-            "X2": "25",
+            "X2": "33",
             "FuncX": "intervalAdd",
             "Y1": "1",
             "Y2": "0",
@@ -681,7 +817,7 @@
             "Level Up Text": "+{%_more_STR_from_Obols"
         },
         "STRONGEST_STATUES": {
-            "Description": "'Might',_'Mining',_and_'Oceanman'_statues_give_{%_higher_bonuses",
+            "Description": "'Power',_'Mining',_and_'Oceanman'_statues_give_{%_higher_bonuses",
             "X1": "100",
             "X2": "50",
             "FuncX": "decay",
@@ -702,11 +838,12 @@
             "Level Up Text": "+{_Max_LV_for_Critikill_Talent"
         },
         "WORMING_UNDERCOVER": {
-            "Description": "{%_chance_to_wake_the_sleeper_agent_worm_within_the_fish,_letting_you_instantly_catch",
-            "X1": "9.3",
-            "X2": ".7",
-            "FuncX": "bigBase",
-            "Level Up Text": "+1%_Chance",
+            "Description": "{%_chance",
+            "X1": "to",
+            "X2": "wake_the_sleeper_agent_worm_within_the_fish,_letting_you_instantly_catch",
+            "FuncX": "9.3",
+            "Y1": ".7",
+            "Y2": "bigBase",
             "Active Data": {
                 "K": "1",
                 "D": "1.4",
@@ -849,8 +986,8 @@
             }
         },
         "PRECISION_POWER": {
-            "Description": "+{%_Damage_if_your_accuracy_is_1.5x_higher_than_needed_for_100%_hit_chance",
-            "X1": "100",
+            "Description": "+{%_Dmg_per_Refinery_Rank_if_accuracy_is_1.5x_higher_than_needed_for_100%_hit_chance",
+            "X1": "11",
             "X2": "80",
             "FuncX": "decay",
             "Level Up Text": "+{%_Dmg_if_ACC_big"
@@ -863,7 +1000,7 @@
             "Level Up Text": "+{%_more_STR_from_Obols"
         },
         "SHIELDIEST_STATUES": {
-            "Description": "'Might',_'Mining',_and_'Defence'_statues_give_{%_higher_bonuses",
+            "Description": "'Power',_'Mining',_and_'Defence'_statues_give_{%_higher_bonuses",
             "X1": "100",
             "X2": "50",
             "FuncX": "decay",
@@ -917,7 +1054,7 @@
             "Level Up Text": "+{%_Construction_EXP"
         },
         "SUPER_SAMPLES": {
-            "Description": "+{%_Sample_Size_when_talking_Samples_for_the_3d_printer.",
+            "Description": "+{%_Sample_Size_when_taking_Samples_for_the_3d_printer.",
             "X1": "9",
             "X2": "75",
             "FuncX": "decay",
@@ -1217,7 +1354,7 @@
                 "s": "1.1",
                 "cooldown": "20",
                 "castTime": "0.45",
-                "manaCost": "38",
+                "manaCost": "28",
                 "inputReq": "0",
                 "AFKrange": "300",
                 "AFKtype": "circle",
@@ -1239,7 +1376,7 @@
                 "s": "1.05",
                 "cooldown": "7",
                 "castTime": "0.45",
-                "manaCost": "20",
+                "manaCost": "15",
                 "inputReq": "0",
                 "AFKrange": "100",
                 "AFKtype": "target",
@@ -1362,11 +1499,11 @@
             "Level Up Text": "+{%_damage",
             "Active Data": {
                 "K": "1.2",
-                "D": "1",
+                "D": "1.3",
                 "s": "1",
                 "cooldown": "30",
                 "castTime": "1.1",
-                "manaCost": "30",
+                "manaCost": "25",
                 "inputReq": "2",
                 "AFKrange": "200",
                 "AFKtype": "auto",
@@ -1384,11 +1521,11 @@
             "Level Up Text": "+{_Traps_&_+}%_Dmg",
             "Active Data": {
                 "K": "1.2",
-                "D": "1",
+                "D": "1.15",
                 "s": "1",
                 "cooldown": "9",
                 "castTime": "1.5",
-                "manaCost": "40",
+                "manaCost": "30",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -1407,7 +1544,7 @@
                 "s": "1.1",
                 "cooldown": "120",
                 "castTime": "1.5",
-                "manaCost": "50",
+                "manaCost": "35",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -1480,10 +1617,10 @@
         },
         "EAGLE_EYE": {
             "Description": "Collect_&_set_all_traps,_but_only_get_{%_critters._}%_Exp_is_given_to_each_player.",
-            "X1": "100",
+            "X1": "140",
             "X2": "100",
             "FuncX": "decay",
-            "Y1": "80",
+            "Y1": "130",
             "Y2": "100",
             "FuncY": "decay",
             "Level Up Text": "+{%_Critters_&_+}%_XP",
@@ -1493,7 +1630,7 @@
                 "s": "1",
                 "cooldown": "6",
                 "castTime": "0.95",
-                "manaCost": "10",
+                "manaCost": "2",
                 "inputReq": "0",
                 "AFKrange": "50",
                 "AFKtype": "buff",
@@ -1795,7 +1932,7 @@
             }
         },
         "LEAF_THIEF": {
-            "Description": "{%_Choppin_Efficiency_per_power_of_10_Leaves_in_your_Storage_Chest.",
+            "Description": "{%_Choppin_Efficiency_per_power_of_10_Grass_Leaves_in_your_Storage_Chest.",
             "X1": "25",
             "X2": "70",
             "FuncX": "decay",
@@ -1936,7 +2073,7 @@
         },
         "PAPERWORK,_GREAT...": {
             "Description": "+{%_Damage_for_every_10_Stamps_in_your_collection._Oink_Oink!",
-            "X1": "60",
+            "X1": "70",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{%_damage"
@@ -2103,7 +2240,7 @@
         },
         "VIRILE_VIALS": {
             "Description": "+{%_damage_dealt_for_every_alchemy_vial_upgraded_to_at_least_Green_LV",
-            "X1": "15",
+            "X1": "12",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{%_Damage"
@@ -2346,6 +2483,25 @@
             "X2": "60",
             "FuncX": "decay",
             "Level Up Text": "+{%_card_drop_chance"
+        },
+        "TELEKINETIC_STORAGE": {
+            "Description": "Deposits_your_items_to_storage,_and_destroys_items_on_ground._PASSIVE:_+{%_Carry_Cap",
+            "X1": "30",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{%_Carry_Cap",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "1800",
+                "castTime": "0.1",
+                "manaCost": "1",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
         },
         "PRINTER_SAMPLING": {
             "Description": "Cast_to_sample_{%_of_your_current_AFK_gains,_which_is_used_by_the_3d_Printer.",

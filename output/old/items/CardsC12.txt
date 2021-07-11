@@ -2,11 +2,11 @@
 |title=Butterfly
 |order=12
 |category=Easy Resources
-|effect=+{% Total Catching Efficiency
+|effect=+% Total Catching Efficiency
 |bonus=5
 |reqtier=10
 |source=[[Catching#Drops|Catching Butterflies]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00018|1}}
+{{detdrops|[[Catching#Drops|Catching Butterflies]]|0.00030|1}}
 |}

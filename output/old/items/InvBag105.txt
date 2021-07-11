@@ -8,5 +8,5 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=1|buyprice=9996}}
+{{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=2|buyprice=9996}}
 |}

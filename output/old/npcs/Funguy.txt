@@ -21,11 +21,12 @@ His final quest awards the {{CraftReq|Funguy Token}}.
 }}
 {{Quest
 |name=Videogame Highscores are COOL!
-|text=Get a score of 42 in the Choppin Minigame.
+|text=Get a score of 35 in the Choppin Minigame.
 |difficulty=3
-|requirements=Choppin Score: >= 42. Starting at 0.
+|requirements=Choppin Score: >= 35. Starting at 0.
 |consumed=No
 |rewards={{Recipe|0|Goo Galoshes}}, 3000 Class Experience, {{Coindisplay|1250}}
+|notes=Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again.
 }}
 {{Quest
 |name=Partycrastination
@@ -34,6 +35,7 @@ His final quest awards the {{CraftReq|Funguy Token}}.
 |requirements=250x {{CraftReq|Time Thingy}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Silver Stopwatch}}, 1500 Smithing Experience
+|notes= 
 }}
 {{Quest
 |name=Party Crashin'
@@ -42,7 +44,7 @@ His final quest awards the {{CraftReq|Funguy Token}}.
 |requirements=Meet New People: >= 35. Starting at 0., Make Some Friends: >= 0. Starting at 0.
 |consumed=No
 |rewards=5000 Class Experience, 3000 Chopping Experience, 4x {{CraftReq|Gem}}
-|notes=Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again.
+|notes= 
 }}
 {{Quest
 |name=Wicked Party Cleanup
@@ -51,6 +53,7 @@ His final quest awards the {{CraftReq|Funguy Token}}.
 |requirements=10000x {{CraftReq|Potty Rolls}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Funguy Token}}, 4x {{CraftReq|Warped Weapon Upgrade Stone}}
+|notes= 
 }}
 |}
 {{dialogue/head}}
@@ -74,7 +77,7 @@ His final quest awards the {{CraftReq|Funguy Token}}.
 |text=Soooo... you're kiiiiinda my plus one for this shindig my guy so my reps ridin' on you being a toooootally chillin guy. You look heckin' skilled so lets roll with that...
 }}
 {{dialogue/row
-|text=You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST:Get a score of 42 in the Choppin Minigame.
+|text=You ever played that choppin' minigame? Everyone around here loooves that game you'd get mad respect from having a siiiick score to brag about! @ QUEST:Get a score of 35 in the Choppin Minigame.
 |quest=Videogame Highscores are COOL!
 }}
 {{dialogue/row

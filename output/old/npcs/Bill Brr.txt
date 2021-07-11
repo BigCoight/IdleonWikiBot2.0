@@ -1,16 +1,16 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Pisces
-|mmm=Ostrander
-|birthweight=7.24
-|notes=fillme
+|location=Overpass of Sound
+|noquest=0
+|repeatable=Unknown
+|starsign=Capricorn
+|mmm=Upson
+|birthweight=2.05
+|notes=[[Bill Brr]] is located in the [[Worlds#Overpass of Sound|Overpass of Sound]].
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Brrr.... Anyway so I walked up to the guy right? And I just started going off on him about some bridge an instant classic!
 }}
 |}

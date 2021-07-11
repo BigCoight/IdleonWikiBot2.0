@@ -2,7 +2,7 @@
 |title=Forest Fibres
 |order=7
 |category=Easy Resources
-|effect=+{% EXP Conversion from Talent
+|effect=+% EXP Conversion from Talent
 |bonus=8
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Forest Tree]]

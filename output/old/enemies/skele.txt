@@ -4,16 +4,14 @@
 |health=200000
 |defence=100
 |speed=4
-|world=Frostfire Tyundra
 |exp=2000
 |respawn=40
 |defence0=213.8
-|crystal=Yes
-|crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Dedotated Ram|Bloodbone}}
-{{DropTable/coin|10|0.5}}
-{{DropTable/card|0.05}}
+{{DropTable/head}}
+{{DropTable/coin|100|0.5}}
+{{DropTable/card|0.010}}
 {{DropTable14|chance=0.01}}
 |}

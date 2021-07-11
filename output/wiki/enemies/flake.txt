@@ -4,7 +4,7 @@
 |health=67000
 |defence=700
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Snowfield Outskirts
 |exp=700
 |respawn=40
@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sheepie|Sir Stache}}
+{{DropTable/head}}
 {{DropTable/coin|190|0.46}}
 {{DropTable/row|Melty Cube|0.16|1}}
 {{DropTable/card|0.0001}}

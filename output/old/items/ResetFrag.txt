@@ -7,8 +7,8 @@
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=23|vendor=Blunder Hills|stock=1|buyprice=800}}
-{{Vendoritem/tablerow|number=12|vendor=Encroaching Forest Villas|stock=1|buyprice=800}}
-{{Vendoritem/tablerow|number=17|vendor=YumYum Grotto|stock=1|buyprice=800}}
-{{Vendoritem/tablerow|number=11|vendor=Faraway Piers|stock=1|buyprice=800}}
-{{Vendoritem/tablerow|number=19|vendor=Frostbite Towndra|stock=2|buyprice=800}}
+{{Vendoritem/tablerow|number=13|vendor=Encroaching Forest Villas|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=18|vendor=YumYum Grotto|stock=15|buyprice=800}}
+{{Vendoritem/tablerow|number=12|vendor=Faraway Piers|stock=1|buyprice=800}}
+{{Vendoritem/tablerow|number=19|vendor=Frostbite Towndra|stock=3|buyprice=800}}
 |}

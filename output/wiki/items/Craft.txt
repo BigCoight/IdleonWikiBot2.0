@@ -6,28 +6,6 @@ Redox Salts
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Silkskin Traps]]|5|Crafting}}
-{{usedin/row|[[Small Critter Pouch]]|3|Crafting}}
-{{usedin/row|[[Ceramic Skull]]|5|Crafting}}
-{{usedin/row|[[Small Soul Pouch]]|3|Crafting}}
-{{usedin/row|[[Wooden Traps]]|20|Crafting}}
-{{usedin/row|[[Sizable Critter Pouch]]|15|Crafting}}
-{{usedin/row|[[Horned Skull]]|25|Crafting}}
-{{usedin/row|[[Sizable Soul Pouch]]|20|Crafting}}
-{{usedin/row|[[The Ice Breaker]]|150|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|150|Crafting}}
-{{usedin/row|[[Spriggly Storm]]|150|Crafting}}
-{{usedin/row|[[Dementia Dicer]]|50|Crafting}}
-{{usedin/row|[[Dementia Rod for Fishing]]|50|Crafting}}
-{{usedin/row|[[Big Fish Pouch]]|50|Crafting}}
-{{usedin/row|[[Dementia Net]]|50|Crafting}}
-{{usedin/row|[[Natural Traps]]|50|Crafting}}
-{{usedin/row|[[Prickle Skull]]|50|Crafting}}
-{{usedin/row|[[Snouts#A Salty Fall|A Salty Fall]]|50|Quests}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Matty Stafford]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Red Malt]]|Lots|Alchemy}}
-|}
 Explosive Salts
 {{InfoItem
 |type=Refinery Salts
@@ -36,11 +14,6 @@ Explosive Salts
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Snouts#Gravity VS Salt|Gravity VS Salt]]|75|Quests}}
-{{usedin/row|[[Alchemy#Power Cauldron|Carpenter]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Orange Malt]]|Lots|Alchemy}}
-|}
 Spontaneity Salts
 {{InfoItem
 |type=Refinery Salts
@@ -49,12 +22,6 @@ Spontaneity Salts
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Helmet]]|500|Crafting}}
-{{usedin/row|[[Blackhole Bow]]|250|Crafting}}
-{{usedin/row|[[Void Imperium Rod]]|200|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|1|Crafting}}
-|}
 Dioxide Synthesis
 {{InfoItem
 |type=Refinery Salts
@@ -63,21 +30,12 @@ Dioxide Synthesis
 |source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Mark of Member]]|500|Crafting}}
-{{usedin/row|[[Murmillo Helm]]|500|Crafting}}
-{{usedin/row|[[Conquistador Plume]]|500|Crafting}}
-{{usedin/row|[[Adornment of the High Priest]]|500|Crafting}}
-{{usedin/row|[[Member Hoodie]]|500|Crafting}}
-{{usedin/row|[[Damascus Plates]]|500|Crafting}}
-{{usedin/row|[[Evergreen Wraps]]|500|Crafting}}
-{{usedin/row|[[Elegantine Robes]]|500|Crafting}}
-|}
 Red Salt
 {{InfoItem
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
 Red Salt
@@ -85,32 +43,18 @@ Red Salt
 |type=Refinery Salts
 |description=It's red, and boring.
 |sellprice=100
+|source=[[Construction#Refinery|Refinery]]
 |notes= 
 }}
 Thread
 {{InfoItem
 |type=Material
-|description=It's basically string cheese, but without the cheese.
+|description=It's basically string cheese, but without the cheese. CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!
 |sellprice=3
 |source=[[Smithing#Production items|Anvil Production]]
 |notes= 
 }}
 {{ProductionSlot|lvlreq=1|num=1|expcraft=5|time=100}}
-{{usedin/head}}
-{{usedin/row|[[Wooden Bow]]|30|Crafting}}
-{{usedin/row|[[Torn Jeans]]|15|Crafting}}
-{{usedin/row|[[Copper Chopper]]|15|Crafting}}
-{{usedin/row|[[Leather Cap]]|13|Crafting}}
-{{usedin/row|[[Thief Hood]]|150|Crafting}}
-{{usedin/row|[[Sleek Shank]]|300|Crafting}}
-{{usedin/row|[[Green Tee]]|150|Crafting}}
-{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|600|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Stable Jenius]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Lotto Skills]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Spool Sprite]]|Lots|Alchemy}}
-|}
 Crimson String
 {{InfoItem
 |type=Material
@@ -119,9 +63,6 @@ Crimson String
 |source=[[Scripticus#Hardcore Gamer Status, Here I Come!|Hardcore Gamer Status, Here I Come!]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Boxing Gloves]]|1|Crafting}}
-|}
 Cue Tape
 {{InfoItem
 |type=Material
@@ -131,35 +72,17 @@ Cue Tape
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=8|vendor=Blunder Hills|stock=5000|buyprice=12}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Boxing Gloves]]|5|Crafting}}
-{{usedin/row|[[Bandage Wraps]]|5000|Crafting}}
+{{Vendoritem/tablerow|number=3|vendor=Blunder Hills|stock=5000|buyprice=12}}
 |}
 Trusty Nails
 {{InfoItem
 |type=Material
-|description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead!
+|description=Twice the nailage, so you can feel even dumber when you still end up hitting your thumb instead! CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!
 |sellprice=12
 |source=[[Smithing#Production items|Anvil Production]]
 |notes= 
 }}
 {{ProductionSlot|lvlreq=5|num=2|expcraft=8|time=250}}
-{{usedin/head}}
-{{usedin/row|[[Cramped Choppin Pouch]]|30|Crafting}}
-{{usedin/row|[[The Stingers]]|20|Crafting}}
-{{usedin/row|[[Cramped Material Pouch]]|80|Crafting}}
-{{usedin/row|[[Copper Platebody]]|120|Crafting}}
-{{usedin/row|[[Iron Boots]]|500|Crafting}}
-{{usedin/row|[[Krunk#King of the Cavern|King of the Cavern]]|300|Quests}}
-{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|1000|Quests}}
-{{usedin/row|[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]|750|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Hocus Choppus]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Level Up Gift]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Thumb Pow]]|Lots|Alchemy}}
-|}
 Boring Brick
 {{InfoItem
 |type=Material
@@ -169,14 +92,6 @@ Boring Brick
 |notes= 
 }}
 {{ProductionSlot|lvlreq=12|num=3|expcraft=14|time=500}}
-{{usedin/head}}
-{{usedin/row|[[Steel Axe]]|125|Crafting}}
-{{usedin/row|[[Iron Hatchet]]|125|Crafting}}
-{{usedin/row|[[Iron Platelegs]]|225|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Quick Slap]]|Lots|Alchemy}}
-|}
 Chain Link
 {{InfoItem
 |type=Material
@@ -186,14 +101,6 @@ Chain Link
 |notes= 
 }}
 {{ProductionSlot|lvlreq=18|num=4|expcraft=25|time=1000}}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 2]]|200|Crafting}}
-{{usedin/row|[[Amarok Hinds]]|400|Crafting}}
-{{usedin/row|[[Starlight]]|1000|Crafting}}
-{{usedin/row|[[Average Material Pouch]]|1250|Crafting}}
-{{usedin/row|[[Plat Hatchet]]|5000|Crafting}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Noodubble]]|Lots|Alchemy}}
-|}
 Leather Hide
 {{InfoItem
 |type=Material
@@ -203,13 +110,6 @@ Leather Hide
 |notes= 
 }}
 {{ProductionSlot|lvlreq=25|num=5|expcraft=40|time=2000}}
-{{usedin/head}}
-{{usedin/row|[[Gold Fishing Rod]]|1000|Crafting}}
-{{usedin/row|[[Enforced Slasher]]|400|Crafting}}
-{{usedin/row|[[Furled Robes]]|1500|Crafting}}
-{{usedin/row|[[Cowbo Jones#A Hat in Crime|A Hat in Crime]]|100|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Da Daily Drip]]|Lots|Alchemy}}
-|}
 Pinion Spur
 {{InfoItem
 |type=Material
@@ -219,9 +119,6 @@ Pinion Spur
 |notes= 
 }}
 {{ProductionSlot|lvlreq=32|num=6|expcraft=80|time=5000}}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Power Cauldron|Bappity Boopity]]|Lots|Alchemy}}
-|}
 Lugi Bracket
 {{InfoItem
 |type=Material
@@ -240,48 +137,33 @@ Distilled Water
 |notes= 
 }}
 {{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.013199999999999998|1.0}}
 {{detdrops|[[Sheepie]]|0.000054999999999999995|1.0}}
 {{detdrops|[[Frost Flake]]|0.00006159999999999999|1.0}}
 {{detdrops|[[Sir Stache]]|0.00006819999999999999|1.0}}
 {{detdrops|[[Xylobone]]|0.00021999999999999998|1.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.022|1.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.022|1.0}}
 {{detdrops|[[Bloque]]|0.0000625|1.0}}
 {{detdrops|[[Mamooth]]|0.0000675|1.0}}
 {{detdrops|[[Snowman]]|0.0000725|1.0}}
 {{detdrops|[[Penguin]]|0.0000775|1.0}}
 {{detdrops|[[Thermister]]|0.0000825|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.025|1.0}}
-{{detdrops|[[Dedotated Ram]]|0.00000108|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.025|1.0}}
+{{detdrops|[[Dedotated Ram]]|0.0000918|1.0}}
 {{detdrops|[[Quenchie]]|0.0000675|1.0}}
 {{detdrops|[[Cryosnake]]|0.0000756|1.0}}
 {{detdrops|[[Bop Box]]|0.000081|1.0}}
 {{detdrops|[[Neyeptune]]|0.0000864|1.0}}
-{{detdrops|[[Bloodbone]]|0.00000108|1.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.027|1.0}}
+{{detdrops|[[Bloodbone]]|0.000135|1.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.027|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Chaotic Amarok Pendant]]|25|Crafting}}
-{{usedin/row|[[Iron Fishing Rod]]|3|Crafting}}
-{{usedin/row|[[Small Fish Pouch]]|2|Crafting}}
-{{usedin/row|[[Reinforced Net]]|3|Crafting}}
-{{usedin/row|[[Small Bug Pouch]]|2|Crafting}}
-{{usedin/row|[[Gold Boots]]|4|Crafting}}
-{{usedin/row|[[Royal Bayonet]]|8|Crafting}}
-{{usedin/row|[[Spiked Menace]]|8|Crafting}}
-{{usedin/row|[[Starlight]]|8|Crafting}}
-{{usedin/row|[[Defenders Dignity]]|15|Crafting}}
-{{usedin/row|[[Strung Bludgeon]]|20|Crafting}}
-{{usedin/row|[[Empty Box]]|4|Crafting}}
-{{usedin/row|[[Googley Eyes]]|5|Crafting}}
-{{usedin/row|[[Cavern Trekkers]]|9|Crafting}}
-{{usedin/row|[[Angler Boots]]|9|Crafting}}
-{{usedin/row|[[Logger Heels]]|9|Crafting}}
-{{usedin/row|[[Bandito Boots]]|9|Crafting}}
-{{usedin/row|[[Efaunt Ribcage]]|25|Crafting}}
-{{usedin/row|[[Efaunt Hipilium]]|25|Crafting}}
-{{usedin/row|[[Critter Numnums]]|1|Crafting}}
-{{usedin/row|[[Soulble Gum]]|1|Crafting}}
-|}
+Dense Water
+{{InfoItem
+|type=Material
+|description=It's like a bowl of oatmeal, but double the thiccness and hold the oats.
+|sellprice=50
+|notes= 
+}}
 Spore Cap
 {{InfoItem
 |type=Monster Drop
@@ -292,20 +174,6 @@ Spore Cap
 }}
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.22|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Wooden Spear]]|25|Crafting}}
-{{usedin/row|[[Wooden Bow]]|25|Crafting}}
-{{usedin/row|[[Gnarled Wand]]|25|Crafting}}
-{{usedin/row|[[Farmer Brim]]|5|Crafting}}
-{{usedin/row|[[Orange Tee]]|10|Crafting}}
-{{usedin/row|[[Blue Tee]]|25|Crafting}}
-{{usedin/row|[[Blunderbag]]|169|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Warriors Rule]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Archer Or Bust]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Mage Is Best]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Mushroom Soup]]|Lots|Alchemy}}
 |}
 Frog Leg
 {{InfoItem
@@ -328,15 +196,6 @@ Frog Leg
 {{detdrops|[[Snowden]]|0.0|2}}
 {{detdrops|[[Icicle Nest]]|0.0|2}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Torn Jeans]]|20|Crafting}}
-{{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
-{{usedin/row|[[Leather Cap]]|25|Crafting}}
-{{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
-|}
 Bean Slices
 {{InfoItem
 |type=Monster Drop
@@ -347,15 +206,6 @@ Bean Slices
 }}
 {{detdrops/head}}
 {{detdrops|[[Bored Bean]]|0.20|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Flip Flops]]|30|Crafting}}
-{{usedin/row|[[Cramped Material Pouch]]|30|Crafting}}
-{{usedin/row|[[Copper Helmet]]|50|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|100|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Hammer Hammer]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Dieter Drink]]|Lots|Alchemy}}
 |}
 Red Spore Cap
 {{InfoItem
@@ -368,9 +218,6 @@ Red Spore Cap
 {{detdrops/head}}
 {{detdrops|[[Red Mushroom]]|0.20|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Purple Tee]]|40|Crafting}}
-|}
 Slime Sludge
 {{InfoItem
 |type=Monster Drop
@@ -381,16 +228,6 @@ Slime Sludge
 }}
 {{detdrops/head}}
 {{detdrops|[[Slime]]|0.19|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Steel Axe]]|125|Crafting}}
-{{usedin/row|[[Birch Longbow]]|125|Crafting}}
-{{usedin/row|[[Quarterstaff]]|125|Crafting}}
-{{usedin/row|[[Goo Galoshes]]|600|Crafting}}
-{{usedin/row|[[Dooble Goopi]]|1000|Crafting}}
-{{usedin/row|[[Hamish#Slime for Storage|Slime for Storage]]|50|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
 |}
 Snake Skin
 {{InfoItem
@@ -403,12 +240,6 @@ Snake Skin
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.18|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|12|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Skinny 0 Cal]]|Lots|Alchemy}}
-|}
 Carrot Cube
 {{InfoItem
 |type=Monster Drop
@@ -420,29 +251,15 @@ Carrot Cube
 {{detdrops/head}}
 {{detdrops|[[Carrotman]]|0.17|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Iron Pickaxe]]|200|Crafting}}
-{{usedin/row|[[Stiltzcho#Investigator by Day, Prankster by Night|Investigator by Day, Prankster by Night]]|2|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Lil Big Damage]]|Lots|Alchemy}}
-|}
-Goblin Ear
+Glublin Ear
 {{InfoItem
 |type=Monster Drop
 |description=This item will listen to anything you have to say, it's all ears!
 |sellprice=20
 |source=[[Glublin]]
-|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Glublin]]|0.16|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Iron Helmet]]|300|Crafting}}
-{{usedin/row|[[Fur Shirt]]|500|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Wyoming Blood]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Anearful]]|Lots|Alchemy}}
 |}
 Plank
 {{InfoItem
@@ -455,12 +272,6 @@ Plank
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.15|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|275|Crafting}}
-{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
-|}
 Bullfrog Horn
 {{InfoItem
 |type=Monster Drop
@@ -471,13 +282,6 @@ Bullfrog Horn
 }}
 {{detdrops/head}}
 {{detdrops|[[Gigafrog]]|0.14|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
-{{usedin/row|[[Amarok Hinds]]|700|Crafting}}
-{{usedin/row|[[Strung Bludgeon]]|9000|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Vials|Ramificoction]]|Lots|Alchemy}}
 |}
 Corn Kernels
 {{InfoItem
@@ -491,11 +295,6 @@ Corn Kernels
 {{detdrops|[[Poop]]|0.24|1}}
 {{detdrops|[[Dr Defecaus]]|1|150}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Amarok Bodyplate]]|900|Crafting}}
-{{usedin/row|[[Witch Hat]]|4000|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-|}
 Golden Plop
 {{InfoItem
 |type=Monster Drop
@@ -508,14 +307,6 @@ Golden Plop
 {{detdrops|[[Poop]]|0.00005|1}}
 {{detdrops|[[Dr Defecaus]]|0.1|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Blunderhills Misc Completion Token]]|12|Crafting}}
-{{usedin/row|[[Defenders Dignity]]|17|Crafting}}
-{{usedin/row|[[Crows Nest]]|3|Crafting}}
-{{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
-{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
-{{usedin/row|[[Goldric#Criminal Code of Conduct|Criminal Code of Conduct]]|1|Quests}}
-|}
 Rats Tail
 {{InfoItem
 |type=Monster Drop
@@ -526,10 +317,6 @@ Rats Tail
 }}
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.19|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Vials|Tail Time]]|Lots|Alchemy}}
 |}
 Bonemeal
 {{InfoItem
@@ -542,9 +329,6 @@ Bonemeal
 {{detdrops/head}}
 {{detdrops|[[Boop]]|0.5|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Meel#Waitin' for the Cards to Drop|Waitin' for the Cards to Drop]]|777|Quests}}
-|}
 Stick
 {{InfoItem
 |type=Monster Drop
@@ -555,11 +339,6 @@ Stick
 }}
 {{detdrops/head}}
 {{detdrops|[[Walking Stick]]|0.21|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Feral Leathering]]|3000|Crafting}}
-{{usedin/row|[[Sprout#Sticks and Stone Something Something Bones...|Sticks and Stone Something Something Bones...]]|500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 |}
 Woodular Circle
 {{InfoItem
@@ -573,13 +352,6 @@ Woodular Circle
 {{detdrops|[[Walking Stick]]|0.00005|1}}
 {{detdrops|[[Wood Mushroom]]|0.000075|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Amarok Helmet]]|8|Crafting}}
-{{usedin/row|[[Pharoah Bow]]|3|Crafting}}
-{{usedin/row|[[Sizable Materials Pouch]]|5|Crafting}}
-{{usedin/row|[[Googley Eyes]]|2|Crafting}}
-{{usedin/row|[[Dazey#Literally Physics|Literally Physics]]|1|Quests}}
-|}
 Acorn
 {{InfoItem
 |type=Monster Drop
@@ -590,9 +362,6 @@ Acorn
 }}
 {{detdrops/head}}
 {{detdrops|[[Nutto]]|0.23|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 |}
 Baba Yaga Baby Eggs
 {{InfoItem
@@ -616,12 +385,6 @@ Pocket Sand
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.22|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Gold Platebody]]|1500|Crafting}}
-{{usedin/row|[[Sandy Satchel]]|777|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
-|}
 Glass Shard
 {{InfoItem
 |type=Monster Drop
@@ -632,14 +395,6 @@ Glass Shard
 }}
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.00005|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Strung Bludgeon]]|10|Crafting}}
-{{usedin/row|[[Average Material Pouch]]|1|Crafting}}
-{{usedin/row|[[Viking Cap]]|2|Crafting}}
-{{usedin/row|[[Sleek Coif]]|2|Crafting}}
-{{usedin/row|[[Witch Hat]]|2|Crafting}}
-{{usedin/row|[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
 |}
 Megalodon Tooth
 {{InfoItem
@@ -652,15 +407,6 @@ Megalodon Tooth
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.212|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Gold Pickaxe]]|2500|Crafting}}
-{{usedin/row|[[Empty Box]]|400|Crafting}}
-{{usedin/row|[[Studded Hide]]|4000|Crafting}}
-{{usedin/row|[[Snake Jar#Lookin' Like a Snack|Lookin' Like a Snack]]|4200|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Mimicraught]]|Lots|Alchemy}}
-|}
 Crabby Cakey
 {{InfoItem
 |type=Monster Drop
@@ -671,12 +417,6 @@ Crabby Cakey
 }}
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.205|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Golden Axe]]|2000|Crafting}}
-{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|150|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Reely Smart]]|Lots|Alchemy}}
 |}
 Nuget Cake
 {{InfoItem
@@ -689,15 +429,6 @@ Nuget Cake
 {{detdrops/head}}
 {{detdrops|[[Crabcake]]|0.00005|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Enforced Slasher]]|3|Crafting}}
-{{usedin/row|[[Sizable Food Pouch]]|6|Crafting}}
-{{usedin/row|[[Studded Hide]]|1|Crafting}}
-{{usedin/row|[[Feral Leathering]]|1|Crafting}}
-{{usedin/row|[[Furled Robes]]|1|Crafting}}
-{{usedin/row|[[Efaunts Broken Ankles]]|3|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]]|2|Quests}}
-|}
 Coconotnotto
 {{InfoItem
 |type=Monster Drop
@@ -708,11 +439,6 @@ Coconotnotto
 }}
 {{detdrops/head}}
 {{detdrops|[[Mafioso]]|0.2|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Centurion#Which one of yous is the Mafia?|Which one of yous is the Mafia?]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Quick Slap]]|Lots|Alchemy}}
 |}
 Furled Flag
 {{InfoItem
@@ -725,10 +451,6 @@ Furled Flag
 {{detdrops/head}}
 {{detdrops|[[Sand Castle]]|0.19|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Big Meaty Claws]]|Lots|Alchemy}}
-|}
 Pincer Arm
 {{InfoItem
 |type=Monster Drop
@@ -739,10 +461,6 @@ Pincer Arm
 }}
 {{detdrops/head}}
 {{detdrops|[[Pincermin]]|0.18|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Platinum Pickaxe]]|10500|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
 |}
 Potato Remains
 {{InfoItem
@@ -755,10 +473,6 @@ Potato Remains
 {{detdrops/head}}
 {{detdrops|[[Mashed Potato]]|0.17|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Platinum Platbody]]|5000|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-|}
 High Steaks
 {{InfoItem
 |type=Monster Drop
@@ -768,12 +482,6 @@ High Steaks
 }}
 {{detdrops/head}}
 {{detdrops|[[Tyson]]|0.18|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Anvil Tab 3]]|1500|Crafting}}
-{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Brewstachio]]|Lots|Alchemy}}
 |}
 Wakka Cherry
 {{InfoItem
@@ -786,11 +494,6 @@ Wakka Cherry
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.165|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Fmj]]|Lots|Alchemy}}
-|}
 Ghost
 {{InfoItem
 |type=Monster Drop
@@ -801,9 +504,6 @@ Ghost
 }}
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.00005|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Dootjat Eye]]|1|Crafting}}
 |}
 Singlecle
 {{InfoItem
@@ -816,11 +516,6 @@ Singlecle
 {{detdrops/head}}
 {{detdrops|[[Sand Giant]]|0.152|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Wellington#Findin' Fingerprints|Findin' Fingerprints]]|2500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Cheap Shot]]|Lots|Alchemy}}
-|}
 Shrapshell
 {{InfoItem
 |type=Monster Drop
@@ -831,11 +526,6 @@ Shrapshell
 }}
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.14|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|10|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Laaarrrryyyy]]|Lots|Alchemy}}
 |}
 Floof Ploof
 {{InfoItem
@@ -848,59 +538,45 @@ Floof Ploof
 {{detdrops/head}}
 {{detdrops|[[Sheepie]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Dementia Shins]]|8000|Crafting}}
-{{usedin/row|[[Alchemy#Vials|Fur Refresher]]|Lots|Alchemy}}
-|}
 Melty Cube
 {{InfoItem
 |type=Monster Drop
 |description=Eugh whats this WATER doing around my ice???
-|sellprice=200
+|sellprice=215
 |source=[[Frost Flake]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Uninflated Glove]]|70000|Crafting}}
-{{usedin/row|[[The Ice Breaker]]|25000|Crafting}}
-{{usedin/row|[[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]|1|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Cogs For Hands]]|Lots|Alchemy}}
-|}
 Yellow Snowflake
 {{InfoItem
 |type=Monster Drop
 |description=Mmm yellow, my favorite flavor of snow!
-|sellprice=200
-|source=[[Frost Flake]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|sellprice=230
+|source=[[Frost Flake]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.00005|1}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.01|1}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.01|1}}
 |}
 Moustache Comb
 {{InfoItem
 |type=Monster Drop
 |description=Sad times I hope I remember to change this before relase.
-|sellprice=200
+|sellprice=250
 |source=[[Sir Stache]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Sir Stache]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Dementia Pickaxe]]|15000|Crafting}}
-{{usedin/row|[[Alchemy#Power Cauldron|Call Me Bob]]|Lots|Alchemy}}
-|}
 Ram Wool
 {{InfoItem
 |type=Monster Drop
 |description=It's got a horn stuck in it. I guess you could say this wool is kinda 
-|sellprice=200
+|sellprice=500
 |source=[[Dedotated Ram]]
 |notes= 
 }}
@@ -911,77 +587,62 @@ Sticky Stick
 {{InfoItem
 |type=Monster Drop
 |description=It's ALLLLL sticky!
-|sellprice=200
+|sellprice=270
 |source=[[Bloque]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bloque]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Big Materials Pouch]]|15000|Crafting}}
-|}
 Mamooth Tusk
 {{InfoItem
 |type=Monster Drop
 |description=No see, this is a mamOOth tusk, not a mammoth tusk, thats why you think it looks weird. Trust me, it's an incredibly drawn mamooth tusk, truly a work of art.
-|sellprice=200
+|sellprice=290
 |source=[[Mamooth]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mamooth]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|Etruscan Lager]]|Lots|Alchemy}}
-|}
 Ice Age 3
 {{InfoItem
 |type=Monster Drop
 |description=The thrilling documentary that captures the first three years of Jonathan Ice's life, from birth to preschool. It also has thousands of 1 Star Ratings online claiming it's false advertising.
-|sellprice=200
+|sellprice=3150
 |source=[[Mamooth]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Mamooth]]|0.00005|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Big Materials Pouch]]|3|Crafting}}
-|}
 Snow Ball
 {{InfoItem
 |type=Monster Drop
 |description=If you have two of these together, please be careful what other objects you put near them, I need to keep this game age appropirate!
-|sellprice=200
+|sellprice=315
 |source=[[Snowman]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Snowman]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|Snow Slurry]]|Lots|Alchemy}}
-|}
 Pen
 {{InfoItem
 |type=Monster Drop
 |description=Click the pen on, then hold it down against your desk and let go, and BAM that baby will fly you straight to the principal's office!
-|sellprice=200
+|sellprice=340
 |source=[[Penguin]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Penguin]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|Visible Ink]]|Lots|Alchemy}}
-|}
 Cracked Glass
 {{InfoItem
 |type=Monster Drop
 |description=Ah Mr. Thermostat, not looking so hot now that I've broken you into tiny little bits... no seriously, I can't tell the temperature now that you're broken.
-|sellprice=200
+|sellprice=360
 |source=[[Thermister]]
 |notes= 
 }}
@@ -992,22 +653,18 @@ Sippy Straw
 {{InfoItem
 |type=Monster Drop
 |description=This vacuum operated liquid transfer system is capable of dispencing over 500 mL of dangerous dihydrogen monoxide chemical compounds from one end to the other!
-|sellprice=200
+|sellprice=380
 |source=[[Quenchie]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Quenchie]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Smart Boi Talent]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Sippy Cup]]|Lots|Alchemy}}
-|}
 Cryosnake Skin
 {{InfoItem
 |type=Monster Drop
 |description=Wow this is just a cheap recolouring of the normal snakeskin! I want my money back!
-|sellprice=200
+|sellprice=400
 |source=[[Cryosnake]]
 |notes= 
 }}
@@ -1018,47 +675,34 @@ Audio Cord
 {{InfoItem
 |type=Monster Drop
 |description=Uhhhh... which one which one...?? The red or the blue??? Cmon think think think.. Blue...? 'BOOOOOM'.       Wait, this is an audio cord description? Whoops, I thought this was the Bomb Defuser description!!
-|sellprice=200
+|sellprice=425
 |source=[[Bop Box]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Bop Box]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Platebody]]|75000|Crafting}}
-{{usedin/row|[[Large Materials Pouch]]|70000|Crafting}}
-|}
 Contact Lense
 {{InfoItem
 |type=Monster Drop
 |description=It's the only transparent item in IdleOn! If they weren't, they'd just be pirate eyepatches after all...
-|sellprice=200
+|sellprice=450
 |source=[[Neyeptune]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.16|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Alchemy#Vials|40-40 Purity]]|Lots|Alchemy}}
-|}
 Black Lense
 {{InfoItem
 |type=Monster Drop
 |description=Why yes, I have also played that game for 100s of hours since it released over 10 years ago!
-|sellprice=200
+|sellprice=10000
 |source=[[Neyeptune]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Neyeptune]]|0.00005|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Deuscythe]]|4|Crafting}}
-{{usedin/row|[[Blackhole Bow]]|4|Crafting}}
-{{usedin/row|[[Grey Gatsby]]|4|Crafting}}
-{{usedin/row|[[Large Materials Pouch]]|3|Crafting}}
 |}
 Ice A La Crem
 {{InfoItem
@@ -1078,9 +722,6 @@ Minuteglass
 {{detdrops/head}}
 {{detdrops|[[Biggie Hours]]|0.3|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Hipilium]]|3|Crafting}}
-|}
 Ripped Tunic
 {{InfoItem
 |type=Monster Drop
@@ -1095,13 +736,6 @@ Ripped Tunic
 {{detdrops|[[Chizoar]]|0.3|1}}
 {{detdrops|[[Chaotic Chizoar]]|0.4|3}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Helmet]]|20|Crafting}}
-{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
-{{usedin/row|[[Efaunt Hipilium]]|7|Crafting}}
-{{usedin/row|[[Efaunts Broken Ankles]]|5|Crafting}}
-{{usedin/row|[[Efaunt Trunculus]]|15|Crafting}}
-|}
 Ribbed Tunic
 {{InfoItem
 |type=Monster Drop
@@ -1113,7 +747,4 @@ Ribbed Tunic
 {{detdrops/head}}
 {{detdrops|[[Chaotic Efaunt]]|0.2|1}}
 {{detdrops|[[Chaotic Chizoar]]|0.2|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Trunculus]]|4|Crafting}}
 |}

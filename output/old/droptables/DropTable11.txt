@@ -1,3 +1,4 @@
+{{DropTable/row|Twisty Leaf|{{#expr: {{{chance}}}*.5}}|4}}
 {{DropTable/row|Weapon Upgrade Stone II|{{#expr: {{{chance}}}*.002}}|1}}
 {{DropTable/row|Tool Upgrade Stone I|{{#expr: {{{chance}}}*.03}}|1}}
 {{DropTable/row|Thicc Skin Statue|{{#expr: {{{chance}}}*.05}}|1}}

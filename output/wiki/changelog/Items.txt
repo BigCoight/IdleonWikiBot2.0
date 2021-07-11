@@ -1,174 +1,474 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Items==
-{{patchnote/head|changed=Ore}}
-{{patchnote/item|Gold Ore}}
+{{patchnote/head|changed=Helmet}}
+{{patchnote/item|Demon Horns}}
+{{patchnote|Weapon Power|5|50}}
+{{patchnote/item|Iron Helmet}}
 |-
-|'''Description'''
-{{patchnote|Description Line 1|Smelt down 8 Ores into 1 Bar|Smelt down 7 Ores into 1 Bar}}
-
-{{patchnote/item|Platinum Ore}}
-|-
-|'''Description'''
-{{patchnote|Description Line 1|Smelt down 20 Ores into 1 Bar|Smelt down 16 Ores into 1 Bar}}
-
-{{patchnote/item|Dementia Ore}}
-|-
-|'''Description'''
-{{patchnote|Description Line 1|Smelt down 50 Ores into 1 Bar|Smelt down 40 Ores into 1 Bar}}
-
-{{patchnote/item|Void Ore}}
-|-
-|'''Description'''
-{{patchnote|Description Line 1|Smelt down 125 Ores into 1 Bar|Smelt down 100 Ores into 1 Bar}}
-
-|}
-
-{{patchnote/head|changed=Bug}}
-{{patchnote/item|Butterfly}}
-|-
-|'''Description'''
-{{patchnote|Description Line 1|Butter Fly? Get it??? Soryy... I promise I wont make this kind of joke again|Butter Fly? Get it??? Sorry... I promise I wont make this kind of joke again}}
+|'''Recipe Data'''
+{{patchnote|Item 1|300x {{CraftReq|Goblin Ear}}|300x {{CraftReq|Glublin Ear}}}}
 
 |}
 
 {{patchnote/head|changed=Spear}}
-{{patchnote/item|Enforced Slasher}}
-{{patchnote|sellPrice|412290|76290}}
-|-
-|'''Recipe Data'''
-{{patchnote|Item 1|6000x {{CraftReq|Leather Hide}}|400x {{CraftReq|Leather Hide}}}}
-
-{{patchnote/item|The Ice Breaker}}
-{{patchnote|sellPrice|5837980|5165980}}
 {{patchnote/item|Deuscythe}}
-{{patchnote|sellPrice|17514755|15498755}}
-|}
-
-{{patchnote/head|changed=Pickaxe}}
-{{patchnote/item|Platinum Pickaxe}}
-{{patchnote|sellPrice|2291200|2199200}}
+{{patchnote|sellPrice|17424120|17484135}}
 |-
 |'''Recipe Data'''
-{{patchnote|Item 0|1000x {{CraftReq|Platinum Bar}}|800x {{CraftReq|Platinum Bar}}}}
+{{patchnote|Item 0|4x {{CraftReq|Black Lense}}|10x {{CraftReq|Black Lense}}}}
+{{patchnote|Item 1|10x {{CraftReq|Eternal Lord of The Undying Ember}}|15x {{CraftReq|Eternal Lord of The Undying Ember}}}}
 
-{{patchnote/item|Dementia Pickaxe}}
-{{patchnote|sellPrice|7994900|7810900}}
-{{patchnote/item|Void Imperium Pik}}
-{{patchnote|sellPrice|18469800|18101800}}
 |}
 
-{{patchnote/head|changed=Hatchet}}
-{{patchnote/item|Plat Hatchet}}
-{{patchnote|sellPrice|782750|712750}}
+{{patchnote/head|changed=Bow}}
+{{patchnote/item|Blackhole Bow}}
+{{patchnote|sellPrice|747970|757970}}
 |-
 |'''Recipe Data'''
-{{patchnote|Item 0|8000x {{CraftReq|Tropilogs}}|6500x {{CraftReq|Tropilogs}}}}
-{{patchnote|Item 1|6000x {{CraftReq|Chain Link}}|5000x {{CraftReq|Chain Link}}}}
+{{patchnote|Item 1|250x {{CraftReq|Spontaneity Salts}}|350x {{CraftReq|Spontaneity Salts}}}}
 
-{{patchnote/item|Dementia Dicer}}
-{{patchnote|sellPrice|2020500|1880500}}
-{{patchnote/item|Void Imperium Axe}}
-{{patchnote|sellPrice|6041000|5761000}}
 |}
 
-{{patchnote/head|changed=Fishing Rod}}
-{{patchnote/item|Plat Fishing Rod}}
-{{patchnote|sellPrice|875600|783600}}
+{{patchnote/head|changed=Worship Skull}}
+{{patchnote/item|Prickle Skull}}
+{{patchnote|sellPrice|281600|171600}}
 |-
 |'''Recipe Data'''
-{{patchnote|Item 1|1000x {{CraftReq|Platinum Bar}}|800x {{CraftReq|Platinum Bar}}}}
+{{patchnote|Item 0|12500x {{CraftReq|Rooted Soul}}|7000x {{CraftReq|Rooted Soul}}}}
 
-{{patchnote/item|Dementia Rod for Fishing}}
-{{patchnote|sellPrice|2206200|2022200}}
-{{patchnote/item|Void Imperium Rod}}
-{{patchnote|sellPrice|4432409|4064409}}
-|}
-
-{{patchnote/head|changed=Bug Catching Net}}
-{{patchnote/item|Platinet}}
-{{patchnote|sellPrice|454800|374800}}
+{{patchnote/item|Manifested Skull}}
+{{patchnote|sellPrice|773450|763450}}
 |-
 |'''Recipe Data'''
-{{patchnote|Item 0|8000x {{CraftReq|Fruitfly}}|7000x {{CraftReq|Fruitfly}}}}
-{{patchnote|Item 1|6000x {{CraftReq|Platinum Ore}}|3000x {{CraftReq|Platinum Ore}}}}
+{{patchnote|Item 0|6000x {{CraftReq|Frigid Soul}}|12000x {{CraftReq|Frigid Soul}}}}
 
-{{patchnote/item|Dementia Net}}
-{{patchnote|sellPrice|1394600|1234600}}
-{{patchnote/item|Void Imperium Net}}
-{{patchnote|sellPrice|4789200|4469200}}
 |}
 
-{{patchnote/head|changed=Statue}}
-{{patchnote/item|Box Statue}}
-{{patchnote|ID|14|15}}
-{{patchnote/item|Twosoul Statue}}
-{{patchnote|ID|14|16}}
-|-
-|'''Statue Data'''
-{{patchnote|X1|307|260}}
+{{patchnote/head|changed=Boost Food}}
+{{patchnote/item|Shiny Pearl}}
+{{patchnote|displayName|Golden Pearl|Shiny Pearl}}
+|}
 
-{{patchnote/item|EhExPee Statue}}
-{{patchnote|ID|14|17}}
-{{patchnote/item|Seesaw Statue}}
-{{patchnote|ID|14|18}}
+{{patchnote/head|changed=Reset Potion}}
+{{patchnote/item|Star Talent Reset Potion}}
+{{patchnote|sellPrice|1|5250}}
+|}
+
+{{patchnote/head|changed=Quest Item}}
+{{patchnote/item|BobJoePickle}}
+{{patchnote|sellPrice|20000|40000}}
+{{patchnote/item|Woodsman Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+{{patchnote|Description Line 5| |Open items, look at the top left.}}
+
+{{patchnote/item|Glumlee Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|1}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+{{patchnote|Description Line 5| |Open items, look at the top left.}}
+
+{{patchnote/item|Stiltzcho Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|2}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+{{patchnote|Description Line 5| |Open items, look at the top left.}}
+
+{{patchnote/item|Funguy Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|3}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+{{patchnote|Description Line 5| |Open items, look at the top left.}}
+
+{{patchnote/item|Krunk Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|4}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Tiki Chief Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|5}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Dog Bone Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|6}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Papua Piggea Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|7}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Picnic Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|8}}
+|-
+|'''Description'''
+{{patchnote|Description Line 5| |Hold down to add to your token bag}}
+
+{{patchnote/item|TP Pete Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|9}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Sproutinald Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|10}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Dazey Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|11}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Bandit Bob Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|12}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Snake Jar Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|13}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Whattso Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|14}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Cowbo Jones Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|15}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Carpetiem Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|16}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Goldric Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|17}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Cattleprod Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|18}}
+{{patchnote/item|Fishpaste Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|19}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Loominadi Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|20}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Djonnut Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|21}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+{{patchnote/item|Scubidew Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|22}}
+|-
+|'''Description'''
+{{patchnote|Description Line 1|Proof that you completed all of Scubidew's quests! Well, most of them, at least.|Proof that you completed all of}}
+{{patchnote|Description Line 2| | Scubidew's quests! Well, most of }}
+{{patchnote|Description Line 3| |them, at least. }}
+{{patchnote|Description Line 4| |Hold down to add to your token pouch}}
+{{patchnote|Description Line 5| |found in Storage Info.}}
+
+{{patchnote/item|Wellington Token}}
+{{patchnote|typeGen|dQuest|dCurrency}}
+{{patchnote|ID|0|23}}
+|-
+|'''Description'''
+{{patchnote|Description Line 3| |Hold down to add to your token bag}}
+{{patchnote|Description Line 4| |found in Storage Info.}}
+
+|}
+
+{{patchnote/head|changed=Carry Bag}}
+{{patchnote/item|Sizable Food Pouch}}
+{{patchnote|sellPrice|162930|162770}}
+|-
+|'''Recipe Data'''
+{{patchnote|Item 1|6x {{CraftReq|Nuget Cake}}|4x {{CraftReq|Nuget Cake}}}}
+
+{{patchnote/item|Big Food Pouch}}
+{{patchnote|sellPrice|2522860|2522540}}
+{{patchnote/item|Large Food Pouch}}
+{{patchnote|sellPrice|2560760|2560440}}
+{{patchnote/item|Sizable Materials Pouch}}
+{{patchnote|sellPrice|122250|121160}}
+|-
+|'''Recipe Data'''
+{{patchnote|Item 0|5x {{CraftReq|Golden Plop}}|3x {{CraftReq|Golden Plop}}}}
+{{patchnote|Item 1|5x {{CraftReq|Woodular Circle}}|4x {{CraftReq|Woodular Circle}}}}
+
+{{patchnote/item|Big Materials Pouch}}
+{{patchnote|sellPrice|4303950|4301770}}
+{{patchnote/item|Large Materials Pouch}}
+{{patchnote|sellPrice|38387900|38383540}}
+|}
+
+{{patchnote/head|changed=Circle Obol}}
+{{patchnote/item|Platinum STR Obol}}
+{{patchnote|sellPrice|15|20}}
+{{patchnote/item|Platinum AGI Obol}}
+{{patchnote|sellPrice|15|20}}
+{{patchnote/item|Platinum WIS Obol}}
+{{patchnote|sellPrice|15|20}}
+{{patchnote/item|Platinum LUK Obol}}
+{{patchnote|sellPrice|15|20}}
+{{patchnote/item|Silver Obol of Defence}}
+{{patchnote|typeGen|aObolSquare|aObolCircle}}
+{{patchnote|Type|Square Obol|Circle Obol}}
+|}
+
+{{patchnote/head|changed=Square Obol}}
+{{patchnote/item|Dementia STR Obol}}
+{{patchnote|sellPrice|15|50}}
+{{patchnote/item|Dementia AGI Obol}}
+{{patchnote|sellPrice|15|50}}
+{{patchnote/item|Dementia WIS Obol}}
+{{patchnote|sellPrice|15|50}}
+{{patchnote/item|Dementia LUK Obol}}
+{{patchnote|sellPrice|15|50}}
+{{patchnote/item|Golden Obol of Triple Sixes}}
+{{patchnote|sellPrice|3|8}}
+|}
+
+{{patchnote/head|changed=Hexagon Obol}}
+{{patchnote/item|Platinum Obol of Yahtzee Sixes}}
+{{patchnote|sellPrice|3|20}}
+{{patchnote/item|Skeletal Obol of Efaunt's Gaze}}
+{{patchnote|Weapon Power|1|2}}
+{{patchnote|STR|2|5}}
+{{patchnote|AGI|2|5}}
+{{patchnote|WIS|2|5}}
+{{patchnote|LUK|2|5}}
+{{patchnote/item|Granite Obol of Amarok's Stare}}
+{{patchnote|STR|3|2}}
+{{patchnote|Defence|2|5}}
+|}
+
+{{patchnote/head|changed=Combat Stamp}}
+{{patchnote/item|Manamoar Stamp}}
+|-
+|'''Stamp Data'''
+{{patchnote|material|Goblin Ear|Glublin Ear}}
+
 |}
 
 {{patchnote/head|changed=Skills Stamp}}
-{{patchnote/item|Hidey Box Stamp}}
-{{patchnote|ID|24|25}}
-{{patchnote/item|Purp Froge Stamp}}
-{{patchnote|ID|24|26}}
-{{patchnote/item|Spikemouth Stamp}}
-{{patchnote|ID|24|27}}
-{{patchnote/item|Shiny Crab Stamp}}
-{{patchnote|ID|24|28}}
-{{patchnote/item|Gear Stamp}}
-{{patchnote|ID|24|29}}
-{{patchnote/item|Sample Stamp}}
-{{patchnote|ID|24|30}}
-{{patchnote/item|Saw Stamp}}
-{{patchnote|ID|24|31}}
-{{patchnote/item|Amplesample Stamp}}
-{{patchnote|ID|24|32}}
-{{patchnote/item|SpoOoky Stamp}}
-{{patchnote|ID|24|33}}
-{{patchnote/item|Flowin Stamp}}
-{{patchnote|ID|24|34}}
-{{patchnote/item|Prayday Stamp}}
-{{patchnote|ID|24|35}}
-{{patchnote/item|Banked Pts Stamp}}
-{{patchnote|ID|24|36}}
+{{patchnote/item|Stample Stamp}}
+{{patchnote|displayName|Sample Stamp|Stample Stamp}}
+{{patchnote/item|Amplestample Stamp}}
+{{patchnote|displayName|Amplesample Stamp|Amplestample Stamp}}
 |}
 
-{{patchnote/head|changed=Misc Stamp}}
-{{patchnote/item|Multikill Stamp}}
-{{patchnote|displayName|Overkill Stamp|Multikill Stamp}}
-{{patchnote|ID|18|19}}
-{{patchnote/item|Biblio Stamp}}
-{{patchnote|ID|18|20}}
+{{patchnote/head|changed=Material}}
+{{patchnote/item|Thread}}
+|-
+|'''Description'''
+{{patchnote|Description Line 1|It's basically string cheese, but without the cheese.|It's basically string cheese, but without the cheese. CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!}}
+
+{{patchnote/item|Trusty Nails}}
+|-
+|'''Description'''
+{{patchnote|Description Line 4| |CRAFT THESE IN THE 'PRODUCE' TAB IN ANVIL!}}
+
+|}
+
+{{patchnote/head|changed=Monster Drop}}
+{{patchnote/item|Glublin Ear}}
+{{patchnote|displayName|Goblin Ear|Glublin Ear}}
+|}
+
+{{patchnote/head|changed=Boss Key}}
+{{patchnote/item|Chizoar's Cavern Key}}
+{{patchnote|ID|1|2}}
 |}
 
 {{patchnote/head|changed=Card}}
-{{patchnote/item|Crabbo Card}}
+{{patchnote/item|Lustre Ore Card}}
 |-
 |'''Card Data'''
-{{patchnote|Bonus|+% Base HP|+% Trapping Efficiency}}
+{{patchnote|Id|8|0}}
 
-{{patchnote/item|Scorpie Card}}
+{{patchnote/item|Tundra Logs Card}}
 |-
 |'''Card Data'''
-{{patchnote|Bonus|+% Base HP|+% Trapping EXP}}
-{{patchnote|Base Val|3|5}}
+{{patchnote|Id|9|8}}
 
-{{patchnote/item|Mamooth Card}}
-{{patchnote|displayName|mamooth Card|Mamooth Card}}
+{{patchnote/item|Dune Soul Card}}
 |-
 |'''Card Data'''
-{{patchnote|Bonus|+% Base HP|+% Total HP}}
-{{patchnote|Enemy|mamooth|Mamooth}}
+{{patchnote|Bonus|+% Max Charge|+ Starting Pts in Worship}}
+{{patchnote|Base Val|3|4}}
+
+{{patchnote/item|Wispy Lumber Card}}
+|-
+|'''Card Data'''
+{{patchnote|Id|0|9}}
+
+{{patchnote/item|Frigid Soul Card}}
+|-
+|'''Card Data'''
+{{patchnote|Base Val|2.5|7}}
+
+{{patchnote/item|Squiddy Soul Card}}
+|-
+|'''Card Data'''
+{{patchnote|Base Val|2.5|5}}
+
+{{patchnote/item|Coastiolyte Card}}
+|-
+|'''Card Data'''
+{{patchnote|Cards Needed|10|8}}
+
+{{patchnote/item|Summer Spirit Card}}
+|-
+|'''Card Data'''
+{{patchnote|Cards Needed|10|8}}
+
+|}
+
+{{patchnote/head|changed=Shirt}}
+{{patchnote/item|Fur Shirt}}
+|-
+|'''Recipe Data'''
+{{patchnote|Item 0|500x {{CraftReq|Goblin Ear}}|500x {{CraftReq|Glublin Ear}}}}
 
 |}
 
 </div><div style = "flex:50%;"> 
 ==New Items==
+{{patchnote/head|changed=Fisticuff}}
+{{patchnote/item|Eclectic Ordeal}}
+{{patchnote|displayName| |Eclectic Ordeal}}
+{{patchnote|sellPrice| |317500}}
+{{patchnote|typeGen| |aWeapon}}
+{{patchnote|ID| |5}}
+{{patchnote|Type| |Fisticuff}}
+{{patchnote|lvReqToEquip| |85}}
+{{patchnote|Class| |Beginner}}
+{{patchnote|Speed| |9}}
+{{patchnote|Reach| |85}}
+{{patchnote|Weapon Power| |32}}
+{{patchnote|LUK| |17}}
+{{patchnote|Upgrade Slots Left| |4}}
+{{patchnote|miscUp1| |5% Crit Chance}}
+|-
+|'''Recipe Data'''
+{{patchnote|Item 1||100x {{CraftReq|Yellow Snowflake}}}}
+{{patchnote|Item 2||50x {{CraftReq|Minervowl}}}}
+{{patchnote|Item 3||10x {{CraftReq|Dootjat Eye}}}}
+{{patchnote|Item 4||15x {{CraftReq|Dense Water}}}}
+{{patchnote|levelReqToCraft| |45}}
+{{patchnote|expGiven| |500000}}
+{{patchnote|no| |29}}
+{{patchnote|tab| |Anvil Tab 3}}
+{{patchnote|recipeFrom| |['[[Tasks/Unlocks|Tasks]]']}}
+
+|}
+
+{{patchnote/head|changed=Quest Item}}
+{{patchnote/item|Guilding Tools}}
+{{patchnote|displayName| |Guilding Tools}}
+{{patchnote|sellPrice| |12500}}
+{{patchnote|typeGen| |dQuest}}
+{{patchnote|ID| |0}}
+{{patchnote|Type| |Quest Item}}
+|-
+|'''Description'''
+{{patchnote|Description Line 1| |Drop this on the statue man, and you'll turn him to gold and unlock Golden Statues!}}
+
+|}
+
+{{patchnote/head|changed=Reset Potion}}
+{{patchnote/item|Star Talent Reset Potion}}
+|-
+|'''Recipe Data'''
+{{patchnote|Item 1||25x {{CraftReq|Talent Point Reset Fragment}}}}
+{{patchnote|Item 2||5x {{CraftReq|Distilled Water}}}}
+{{patchnote|levelReqToCraft| |28}}
+{{patchnote|expGiven| |4000}}
+{{patchnote|no| |76}}
+{{patchnote|tab| |Anvil Tab 2}}
+{{patchnote|recipeFrom| |['[[Efaunt]]', '[[Biggie Hours]]']}}
+
+|}
+
+{{patchnote/head|changed=Hexagon Obol}}
+{{patchnote/item|Granite Obol of Amarok's Stare}}
+{{patchnote|AGI| |2}}
+{{patchnote|WIS| |2}}
+{{patchnote|LUK| |2}}
+|}
+
 </div></div>

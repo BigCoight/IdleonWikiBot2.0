@@ -4,5 +4,7 @@
 {{Drippy Drop Stamp|chance={{#expr: {{{chance}}}*0.0006}}}}
 {{DropTable/row|Anvil Statue|{{#expr: {{{chance}}}*.07}}|1}}
 {{DropTable/row|Monster Rating|{{#expr: {{{chance}}}*.6}}|1|([[XxX Cattleprod XxX]])}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|7|([[Mutton]])}}
+{{DropTable/row|Instablab Follower|{{#expr: {{{chance}}}*0.3}}|3|([[Mutton]])}}
 {{DropTable/row|Silver STR Obol|{{#expr: {{{chance}}}*0.0006299999999999999}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable2|chance={{#var:chance1}}}}{{SuperDropTable2|chance=0.006}}

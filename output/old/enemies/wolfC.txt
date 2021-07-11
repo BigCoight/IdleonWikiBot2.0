@@ -9,6 +9,7 @@
 |defence0=1223.26
 }}
 {{EnemyNavigation||}}
+{{DropTable/head}}
 {{DropTable/coin|500|1}}
 {{DropTable/row|Magic Meatloaf|0.05|1}}
 {{DropTable/card|0.02}}

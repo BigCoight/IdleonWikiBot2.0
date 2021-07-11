@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Wooden Traps]]|2|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|1|Quests}}
-|}

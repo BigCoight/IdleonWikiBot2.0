@@ -20,6 +20,3 @@
 {{detdrops|[[Baba Yaga]]|0.01|1.0}}
 {{detdrops|[[Dewdrop Silver Chest]]|0.01|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Furled Robes]]|4|Crafting}}
-|}

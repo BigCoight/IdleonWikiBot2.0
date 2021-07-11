@@ -1,17 +1,9 @@
 {{InfoItem
 |type=Bar
 |sellprice=1500
-|source=[[Forging]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Forging]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.2|80}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Dementia Helmet]]|300|Crafting}}
-{{usedin/row|[[Dementia Body]]|350|Crafting}}
-{{usedin/row|[[Dementia Shins]]|400|Crafting}}
-{{usedin/row|[[Dementia Boots]]|500|Crafting}}
-{{usedin/row|[[Dementia Pickaxe]]|275|Crafting}}
-{{usedin/row|[[Dementia Rod for Fishing]]|300|Crafting}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.2|80}}
 |}

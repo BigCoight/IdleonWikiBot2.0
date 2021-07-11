@@ -3,7 +3,7 @@
 |quest=[[Mutton#7 Figure Followers|7 Figure Followers]]
 |description=Represents a single follower on Cloudsound. This isn't a website, it's literally a giant cloud that emits sound that people enjoy following around. Why, what were YOU thinking this was?
 |sellprice=1
-|source=[[DropTable1]], [[DropTable2]], [[DropTable3]], [[DropTable3b]], [[DropTable3c]]
+|source=[[DropTable1]], [[DropTable2]], [[DropTable3]], [[DropTable3b]], [[DropTable3c]], [[DropTable6]], [[DropTable7]], [[DropTable8]], [[DropTable14]], [[DropTable15]], [[DropTable16]]
 |notes= 
 }}
 {{detdrops/head}}
@@ -31,7 +31,45 @@
 {{detdrops|[[Walking Stick]]|0.00285|3.0}}
 {{detdrops|[[Nutto]]|0.00325|3.0}}
 {{detdrops|[[Wood Mushroom]]|0.0035|3.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Mutton#7 Figure Followers|7 Figure Followers]]|500000|Quests}}
+{{detdrops|[[Crystal Crabal]]|0.3|7.0}}
+{{detdrops|[[Sandy Pot]]|0.0015|7.0}}
+{{detdrops|[[Mimic]]|0.0016|7.0}}
+{{detdrops|[[Crabcake]]|0.0018|7.0}}
+{{detdrops|[[Efaunt]]|0.5|14.0}}
+{{detdrops|[[Chizoar]]|0.5|14.0}}
+{{detdrops|[[Nightmare Chizoar]]|0.5|14.0}}
+{{detdrops|[[Biggie Hours]]|0.25|7.0}}
+{{detdrops|[[Sandstone Bronze Chest]]|0.5|7.0}}
+{{detdrops|[[Mafioso]]|0.0016|8.0}}
+{{detdrops|[[Sand Castle]]|0.00175|8.0}}
+{{detdrops|[[Pincermin]]|0.00185|8.0}}
+{{detdrops|[[Mashed Potato]]|0.00195|8.0}}
+{{detdrops|[[Dig Doug]]|0.0016|8.0}}
+{{detdrops|[[Chaotic Efaunt]]|0.5|16.0}}
+{{detdrops|[[Chaotic Chizoar]]|0.5|16.0}}
+{{detdrops|[[Sandstone Silver Chest]]|0.5|8.0}}
+{{detdrops|[[Tyson]]|0.0016|8.0}}
+{{detdrops|[[Moonmoon]]|0.00175|8.0}}
+{{detdrops|[[Sand Giant]]|0.00185|8.0}}
+{{detdrops|[[Snelbie]]|0.00195|8.0}}
+{{detdrops|[[Sandstone Golden Chest]]|0.5|8.0}}
+{{detdrops|[[Crystal Cattle]]|0.3|8.0}}
+{{detdrops|[[Sheepie]]|0.00125|8.0}}
+{{detdrops|[[Frost Flake]]|0.0014|8.0}}
+{{detdrops|[[Sir Stache]]|0.00155|8.0}}
+{{detdrops|[[Xylobone]]|0.005|8.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.5|8.0}}
+{{detdrops|[[Bloque]]|0.00125|9.0}}
+{{detdrops|[[Mamooth]]|0.00135|9.0}}
+{{detdrops|[[Snowman]]|0.00145|9.0}}
+{{detdrops|[[Penguin]]|0.00155|9.0}}
+{{detdrops|[[Thermister]]|0.00165|9.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.5|9.0}}
+{{detdrops|[[Dedotated Ram]]|0.0017|10.0}}
+{{detdrops|[[Quenchie]]|0.00125|10.0}}
+{{detdrops|[[Cryosnake]]|0.0014|10.0}}
+{{detdrops|[[Bop Box]]|0.0015|10.0}}
+{{detdrops|[[Neyeptune]]|0.0016|10.0}}
+{{detdrops|[[Bloodbone]]|0.0025|10.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.5|10.0}}
 |}

@@ -14,9 +14,6 @@
 |resource1=Hermit Can|quantity1=5
 |resource2=Average Strength Potion|quantity2=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Food Pouch]]|1500|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Hermit Can|5}}

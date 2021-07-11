@@ -3,6 +3,7 @@
 |level=90
 |skill=choppin
 |type=Hatchet
+|speed=5
 |skillpower=40
 |str=4
 |agi=4

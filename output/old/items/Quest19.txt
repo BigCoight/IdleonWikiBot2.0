@@ -1,6 +1,6 @@
 {{InfoItem
 |type=Quest Item
-|quest=[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]
+|quest=[[Cowbo Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]], [[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]
 |description=Avast, land lubber! This coin be property of the YumYum Sea Pirates! Ye best be returning it, lest ye want an underwater funeral, arg!
 |sellprice=3500
 |source=[[Vendors#YumYum Grotto|YumYum Grotto Vendor]]
@@ -8,10 +8,4 @@
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=YumYum Grotto|stock=10000|buyprice=14000}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Golden Axe]]|5|Crafting}}
-{{usedin/row|[[Gilded Net]]|5|Crafting}}
-{{usedin/row|[[Cowbo Jones#Say Goodbye to your Dubloon!|Say Goodbye to your Dubloon!]]|1|Quests}}
-{{usedin/row|[[Giftmas Blobulyte#You Shouldn't Have! No, really.|You Shouldn't Have! No, really.]]|1|Quests}}
 |}

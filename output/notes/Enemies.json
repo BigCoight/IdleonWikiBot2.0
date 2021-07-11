@@ -17,11 +17,13 @@
     "CritterCard9": " ",
     "Crystal0": "<p>The Crystal Carrot is a rare enemy that has a 1 in 2,000 chance to spawn whenever you kill an enemy in the first world. Its stats change depending on what area you are in. You can increase the chances of it spawning using the [[Special Talents|Crystals 4 dayys]] special talent, the [[Crystallin]] Stamp, the [[Poop Card]], the third bonus of the Non Predatory Loot Box in the [[Post Office]], or the [[Journeyman#Cmon_Out_Crystals|Cmon Out Crystals]] Journeyman talent. </p>",
     "Crystal1": "<p>The Crystal Crabal is a rare enemy that has a 1 in 2,000 chance to spawn whenever you kill an enemy in the second world. Its stats change depending on what area you are in. You can increase the chances of it spawning using the [[Special Talents|Crystals 4 dayys]] special talent, the [[Crystallin]] Stamp, the [[Poop Card]], the third bonus of the Non Predatory Loot Box in the [[Post Office]], or the [[Journeyman#Cmon_Out_Crystals|Cmon Out Crystals]] Journeyman talent.</p>",
+    "Crystal2": "<p>The Crystal Cattle is a rare enemy that has a 1 in 2,000 chance to spawn whenever you kill an enemy in the third world. Its stats change depending on what area you are in. You can increase the chances of it spawning using the [[Special Talents|Crystals 4 dayys]] special talent, the [[Crystallin]] Stamp, the [[Poop Card]], the third bonus of the Non Predatory Loot Box in the [[Post Office]], or the [[Journeyman#Cmon_Out_Crystals|Cmon Out Crystals]] Journeyman talent. </p>",
+    "poopBig": "''Proudly pushing out his new Poo-hD in thermo-poo-dynamics, Dr.Defacaus will gladly soil the good name of Doctors everywhere with his nutty results.''",
     "babayaga": "<p>Baba Yaga is a mini-boss that spawns in the Birch Enclave, the portal on the bottom left of [[Worlds#G4_-_Valley_Of_The_Beans|Valley of the Beans]]. It spawns at the beginning of each hour (XX:00). For best results, enter the area 5 minutes before and it may take 5 minutes after the hour to spawn.<p> ",
-    "babaHour": "<p>To summon this boss, you must craft {{CraftReq|Googley Eyes}} using the recipe dropped from [[Crabcake|Crabcakes]].</p>",
     "xmasEvent": "''Every day during Giftmas, you'll get to give ME gifts!! Hey dont gimme dat look! Not every event needs to be centered around you, ya know!''",
     "loveEvent": "''Roses are red, blobulytes are cute, go run my errands and I'll give you some loot!''",
     "EasterEvent1": "''Im Eg, I'm Egg, I'm... wait which one am I again?''",
     "EasterEvent2": " ",
+    "SummerEvent1": "''Cmon bro go get yourself some of that summer action!! I wanna see you opening those coolers like no other!''",
     "ghost": " "
 }

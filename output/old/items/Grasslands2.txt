@@ -18,12 +18,3 @@
 {{detdrops|[[Snowden]]|0.0|2}}
 {{detdrops|[[Icicle Nest]]|0.0|2}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Torn Jeans]]|20|Crafting}}
-{{usedin/row|[[Copper Pickaxe]]|30|Crafting}}
-{{usedin/row|[[Leather Cap]]|25|Crafting}}
-{{usedin/row|[[Cramped Material Pouch]]|40|Crafting}}
-{{usedin/row|[[Picnic Stowaway#The Most Important Meal of the Day|The Most Important Meal of the Day]]|200|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Stronk Tools]]|Lots|Alchemy}}
-|}

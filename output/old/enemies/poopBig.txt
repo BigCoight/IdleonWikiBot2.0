@@ -5,11 +5,12 @@
 |defence=600
 |speed=3
 |exp=12000
-|respawn=74500
+|respawn=745000
 |defence0=1223.26
 |hascard=Yes
 }}
-{{EnemyNavigation|Baba Yaga|Amarok}}
+{{EnemyNavigation|Baba Yaga|Boop}}
+{{DropTable/head}}
 {{DropTable/card|0.03}}
 {{DropTable/row|Job Application|1|1}}
 {{DropTable/row|Corn Kernels|1|150}}

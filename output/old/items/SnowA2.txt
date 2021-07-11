@@ -1,16 +1,10 @@
 {{InfoItem
 |type=Monster Drop
 |description=Eugh whats this WATER doing around my ice???
-|sellprice=200
+|sellprice=215
 |source=[[Frost Flake]]
 |notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Frost Flake]]|0.16|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Uninflated Glove]]|70000|Crafting}}
-{{usedin/row|[[The Ice Breaker]]|25000|Crafting}}
-{{usedin/row|[[Iceland Irwin#Crikey, it's cold out!|Crikey, it's cold out!]]|1|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Cogs For Hands]]|Lots|Alchemy}}
 |}

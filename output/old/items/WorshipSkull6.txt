@@ -1,10 +1,11 @@
 {{InfoItem
 |class=All
 |level=70
+|skill=worship
 |type=Worship Skull
-|weaponpower=34
+|speed=4
+|skillpower=34
 |wis=15
 |upgrade=4
 |sellprice=100
-|notes= 
 }}

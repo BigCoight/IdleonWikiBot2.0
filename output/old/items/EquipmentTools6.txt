@@ -3,6 +3,7 @@
 |level=35
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=16
 |str=11
 |agi=4
@@ -22,10 +23,6 @@
 |resource2=Pincer Arm|quantity2=10500
 |resource3=Gold Pickaxe|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Pickaxe]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Platinum Bar|800}}

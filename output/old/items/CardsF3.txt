@@ -2,7 +2,7 @@
 |title=Rooted Soul
 |order=1
 |category=Hard Resources
-|effect=+{ Starting Pts in Worship
+|effect=+ Starting Pts in Worship
 |bonus=6
 |reqtier=3
 }}

@@ -3,6 +3,7 @@
 |level=4
 |skill=choppin
 |type=Hatchet
+|speed=3
 |skillpower=3
 |wis=1
 |upgrade=1

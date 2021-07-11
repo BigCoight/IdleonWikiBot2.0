@@ -4,9 +4,10 @@
 |type=Helmet
 |agi=1
 |wis=16
+|misc=10% Chop Efficiency
 |upgrade=3
 |defence=15
-|sellprice=11720
+|sellprice=131720
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -31,9 +32,10 @@
 {{detrecipe|3|Corn Kernels|4000}}
 {{detrecipe|3|Glass Shard|2}}
 |tot=
+{{detrecipe/totals|Corn Kernels|4000}}
+{{detrecipe/totals|Glass Shard|2}}
 {{detrecipe/totals|Iron Bar|125}}
 {{detrecipe/totals|Oak Logs|1000}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Bean Slices|500}}
-{{detrecipe/totals|Glass Shard|2}}
 }}

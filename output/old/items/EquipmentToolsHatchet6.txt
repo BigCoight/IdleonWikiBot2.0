@@ -3,6 +3,7 @@
 |level=65
 |skill=choppin
 |type=Hatchet
+|speed=5
 |skillpower=29
 |wis=24
 |luck=8

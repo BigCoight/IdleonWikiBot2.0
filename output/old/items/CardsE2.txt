@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Sir Stache
 |order=2
-|category=Frostfire Tyundra
-|effect=+{% Card Drop Chance
+|category=Frostbite Tundra
+|effect=+% Card Drop Chance
 |bonus=8
 |reqtier=13
 |source=[[Sir Stache]]

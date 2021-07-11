@@ -3,10 +3,11 @@
 |level=45
 |skill=fishing
 |type=Fishing Rod
+|speed=4
 |skillpower=30
 |str=12
 |upgrade=3
-|sellprice=2022200
+|sellprice=1842200
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -20,15 +21,12 @@
 |resource2=Redox Salts|quantity2=50
 |resource3=Plat Fishing Rod|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Rod]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dementia Bar|300}}
 {{detrecipe|3|Redox Salts|50}}
 {{detrecipe|3|Plat Fishing Rod|2}}
-{{detrecipe|40|Bloach|14000}}
+{{detrecipe|40|Bloach|4000}}
 {{detrecipe|40|Platinum Bar|1600}}
 {{detrecipe|40|Gold Fishing Rod|4}}
 {{detrecipe|80|Hermit Can|10000}}
@@ -40,7 +38,7 @@
 |tot=
 {{detrecipe/totals|Dementia Bar|300}}
 {{detrecipe/totals|Redox Salts|50}}
-{{detrecipe/totals|Bloach|14000}}
+{{detrecipe/totals|Bloach|4000}}
 {{detrecipe/totals|Platinum Bar|1600}}
 {{detrecipe/totals|Hermit Can|20200}}
 {{detrecipe/totals|Leather Hide|4000}}

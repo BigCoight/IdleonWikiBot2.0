@@ -4,7 +4,7 @@
 |health=115000
 |defence=1400
 |speed=3
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Mamooooth Mountain
 |exp=1030
 |respawn=40
@@ -14,10 +14,11 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Bloque|Snowman}}
+{{DropTable/head}}
 {{DropTable/coin|260|0.39}}
 {{DropTable/row|Mamooth Tusk|0.16|1}}
 {{DropTable/card|0.0001}}
 {{DropTable/row|Ice Age 3|0.00005|1}}
-{{DropTable/row|Mamooth Hide Bag|0.000002|1}}
+{{DropTable/row|Mamooth Hide Bag|0.000008|1}}
 {{DropTable15|chance=0.0027}}
 |}

@@ -293,7 +293,143 @@
                 "AFKactivity": "0"
             }
         },
-        "Triple Jab": {}
+        "Skillage Damage": {
+            "Description": "+{% DMG for every 5 levels of your lowest LV Skill",
+            "X1": "50",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{% DMG"
+        },
+        "Printer Go Brrr": {
+            "Description": "Print { Hours of printer samples instantly. }% chance to have no cooldown!",
+            "X1": "1",
+            "X2": "40",
+            "FuncX": "intervalAdd",
+            "Y1": "95",
+            "Y2": "60",
+            "FuncY": "decay",
+            "Level Up Text": "{ Hours & +}% No CD chance",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "82000",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "Triple Jab": {
+            "Description": "Punches now hit a 3rd time for {% dmg. The other hits do +}% more Dmg",
+            "X1": "20",
+            "X2": "4",
+            "FuncX": "intervalAdd",
+            "Y1": "0.5",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+{% 3rd Dmg & +} other Dmg"
+        },
+        "One Step Ahead": {
+            "Description": "Check-Mate!",
+            "X1": "1",
+            "X2": "1",
+            "FuncX": "add",
+            "Level Up Text": "Pawn to B{"
+        },
+        "Lucky Charms": {
+            "Description": "LUK's effect on Class EXP Gain is increased by {%",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{% Effect"
+        },
+        "Clever Clover Obols": {
+            "Description": "Obols give +{% more LUK than what's listed",
+            "X1": "60",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{% more LUK from Obols"
+        },
+        "Skilliest Statue": {
+            "Description": "'EhExPee', 'Kapow', and 'Feasty' statues give {% higher bonuses",
+            "X1": "100",
+            "X2": "50",
+            "FuncX": "decay",
+            "Level Up Text": "+{% higher bonuses"
+        },
+        "Bliss N Chips": {
+            "Description": "+{ Max LV to 'Happy Dude', and +} Max LV to Lucky Horseshoe",
+            "X1": "2",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "1",
+            "Y2": "0",
+            "FuncY": "add",
+            "Level Up Text": "+{ Max LV & +} Max LV"
+        },
+        "Colloquial Containers": {
+            "Description": "Each Lv of 'Lotto Skills' Bubble raises max Lv of 'Sleepin On The Job' Talent, up to +{",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+{ Max LV for Sleep On Job"
+        },
+        "Maestro Transfusion": {
+            "Description": "+{% Skill EXP Gain, and -}% Skill Efficiency. Affects all Skills.",
+            "X1": "2.5",
+            "X2": "0",
+            "FuncX": "add",
+            "Y1": "140",
+            "Y2": "100",
+            "FuncY": "decay",
+            "Level Up Text": "+{% EXP gain & -}% Efficiency",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "120",
+                "castTime": "0.45",
+                "manaCost": "5",
+                "inputReq": "0",
+                "AFKrange": "125",
+                "AFKtype": "buff",
+                "AFKactivity": "0"
+            }
+        },
+        "Crystal Countdown": {
+            "Description": "Killing a Crystal or Giant lowers REQ Exp of a random skill by 2%. Stacks up to {%.",
+            "X1": "100",
+            "X2": "100",
+            "FuncX": "decay",
+            "Y1": "10",
+            "Y2": "1",
+            "FuncY": "add",
+            "Level Up Text": "+{% max exp reduction"
+        },
+        "Left Hand Of Learning": {
+            "Description": "+{% Skill EXP Gain for your other characters, if their Skill LV is lower than Maestro's.",
+            "X1": "200",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{% Skill EXP to family"
+        },
+        "Right Hand Of Action": {
+            "Description": "+{% Skill Efficiency for your other characters, if their Skill LV is lower than Maestro's.",
+            "X1": "150",
+            "X2": "100",
+            "FuncX": "decay",
+            "Level Up Text": "+{% Skill Eff to family"
+        },
+        "Jman Was Better": {
+            "Description": "+{ Talent Points for the 'Journeyman' tab. Maestro not worth the wait, eh?",
+            "X1": "1",
+            "X2": "0",
+            "FuncX": "add",
+            "Level Up Text": "+1 Journeyman Point"
+        }
     },
     "Virtuoso": {
         "Quad Jab": {}
@@ -613,14 +749,14 @@
             }
         },
         "Mocking Shout": {
-            "Description": "Every 0.5 sec, monsters move toward you and heal for {% HP.",
+            "Description": "Every 0.5 sec, monsters move toward you and heal for {% HP. Lasts for } seconds",
             "X1": "1",
             "X2": "0",
             "FuncX": "add",
-            "Y1": "1",
-            "Y2": "0",
-            "FuncY": "add",
-            "Level Up Text": "+1% Monster heal, +1% EXP",
+            "Y1": "20",
+            "Y2": "0.2",
+            "FuncY": "bigBase",
+            "Level Up Text": "+1% heal, +} sec",
             "Active Data": {
                 "K": "1",
                 "D": "1",
@@ -666,7 +802,7 @@
         "Apocalypse Zow": {
             "Description": "+{% Dmg for every monster you kill over 100,000 times. Counts } monster types",
             "X1": "2",
-            "X2": "25",
+            "X2": "33",
             "FuncX": "intervalAdd",
             "Y1": "1",
             "Y2": "0",
@@ -681,7 +817,7 @@
             "Level Up Text": "+{% more STR from Obols"
         },
         "Strongest Statues": {
-            "Description": "'Might', 'Mining', and 'Oceanman' statues give {% higher bonuses",
+            "Description": "'Power', 'Mining', and 'Oceanman' statues give {% higher bonuses",
             "X1": "100",
             "X2": "50",
             "FuncX": "decay",
@@ -702,11 +838,12 @@
             "Level Up Text": "+{ Max LV for Critikill Talent"
         },
         "Worming Undercover": {
-            "Description": "{% chance to wake the sleeper agent worm within the fish, letting you instantly catch",
-            "X1": "9.3",
-            "X2": ".7",
-            "FuncX": "bigBase",
-            "Level Up Text": "+1% Chance",
+            "Description": "{% chance",
+            "X1": "to",
+            "X2": "wake the sleeper agent worm within the fish, letting you instantly catch",
+            "FuncX": "9.3",
+            "Y1": ".7",
+            "Y2": "bigBase",
             "Active Data": {
                 "K": "1",
                 "D": "1.4",
@@ -849,8 +986,8 @@
             }
         },
         "Precision Power": {
-            "Description": "+{% Damage if your accuracy is 1.5x higher than needed for 100% hit chance",
-            "X1": "100",
+            "Description": "+{% Dmg per Refinery Rank if accuracy is 1.5x higher than needed for 100% hit chance",
+            "X1": "11",
             "X2": "80",
             "FuncX": "decay",
             "Level Up Text": "+{% Dmg if ACC big"
@@ -863,7 +1000,7 @@
             "Level Up Text": "+{% more STR from Obols"
         },
         "Shieldiest Statues": {
-            "Description": "'Might', 'Mining', and 'Defence' statues give {% higher bonuses",
+            "Description": "'Power', 'Mining', and 'Defence' statues give {% higher bonuses",
             "X1": "100",
             "X2": "50",
             "FuncX": "decay",
@@ -917,7 +1054,7 @@
             "Level Up Text": "+{% Construction EXP"
         },
         "Super Samples": {
-            "Description": "+{% Sample Size when talking Samples for the 3d printer.",
+            "Description": "+{% Sample Size when taking Samples for the 3d printer.",
             "X1": "9",
             "X2": "75",
             "FuncX": "decay",
@@ -1217,7 +1354,7 @@
                 "s": "1.1",
                 "cooldown": "20",
                 "castTime": "0.45",
-                "manaCost": "38",
+                "manaCost": "28",
                 "inputReq": "0",
                 "AFKrange": "300",
                 "AFKtype": "circle",
@@ -1239,7 +1376,7 @@
                 "s": "1.05",
                 "cooldown": "7",
                 "castTime": "0.45",
-                "manaCost": "20",
+                "manaCost": "15",
                 "inputReq": "0",
                 "AFKrange": "100",
                 "AFKtype": "target",
@@ -1362,11 +1499,11 @@
             "Level Up Text": "+{% damage",
             "Active Data": {
                 "K": "1.2",
-                "D": "1",
+                "D": "1.3",
                 "s": "1",
                 "cooldown": "30",
                 "castTime": "1.1",
-                "manaCost": "30",
+                "manaCost": "25",
                 "inputReq": "2",
                 "AFKrange": "200",
                 "AFKtype": "auto",
@@ -1384,11 +1521,11 @@
             "Level Up Text": "+{ Traps & +}% Dmg",
             "Active Data": {
                 "K": "1.2",
-                "D": "1",
+                "D": "1.15",
                 "s": "1",
                 "cooldown": "9",
                 "castTime": "1.5",
-                "manaCost": "40",
+                "manaCost": "30",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -1407,7 +1544,7 @@
                 "s": "1.1",
                 "cooldown": "120",
                 "castTime": "1.5",
-                "manaCost": "50",
+                "manaCost": "35",
                 "inputReq": "0",
                 "AFKrange": "150",
                 "AFKtype": "buff",
@@ -1480,10 +1617,10 @@
         },
         "Eagle Eye": {
             "Description": "Collect & set all traps, but only get {% critters. }% Exp is given to each player.",
-            "X1": "100",
+            "X1": "140",
             "X2": "100",
             "FuncX": "decay",
-            "Y1": "80",
+            "Y1": "130",
             "Y2": "100",
             "FuncY": "decay",
             "Level Up Text": "+{% Critters & +}% XP",
@@ -1493,7 +1630,7 @@
                 "s": "1",
                 "cooldown": "6",
                 "castTime": "0.95",
-                "manaCost": "10",
+                "manaCost": "2",
                 "inputReq": "0",
                 "AFKrange": "50",
                 "AFKtype": "buff",
@@ -1795,7 +1932,7 @@
             }
         },
         "Leaf Thief": {
-            "Description": "{% Choppin Efficiency per power of 10 Leaves in your Storage Chest.",
+            "Description": "{% Choppin Efficiency per power of 10 Grass Leaves in your Storage Chest.",
             "X1": "25",
             "X2": "70",
             "FuncX": "decay",
@@ -1936,7 +2073,7 @@
         },
         "Paperwork, Great...": {
             "Description": "+{% Damage for every 10 Stamps in your collection. Oink Oink!",
-            "X1": "60",
+            "X1": "70",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{% damage"
@@ -2103,7 +2240,7 @@
         },
         "Virile Vials": {
             "Description": "+{% damage dealt for every alchemy vial upgraded to at least Green LV",
-            "X1": "15",
+            "X1": "12",
             "X2": "100",
             "FuncX": "decay",
             "Level Up Text": "+{% Damage"
@@ -2346,6 +2483,25 @@
             "X2": "60",
             "FuncX": "decay",
             "Level Up Text": "+{% card drop chance"
+        },
+        "Telekinetic Storage": {
+            "Description": "Deposits your items to storage, and destroys items on ground. PASSIVE: +{% Carry Cap",
+            "X1": "30",
+            "X2": "60",
+            "FuncX": "decay",
+            "Level Up Text": "+{% Carry Cap",
+            "Active Data": {
+                "K": "1",
+                "D": "1",
+                "s": "1",
+                "cooldown": "1800",
+                "castTime": "0.1",
+                "manaCost": "1",
+                "inputReq": "0",
+                "AFKrange": "1",
+                "AFKtype": "buff",
+                "AFKactivity": "-2"
+            }
         },
         "Printer Sampling": {
             "Description": "Cast to sample {% of your current AFK gains, which is used by the 3d Printer.",

@@ -2,7 +2,7 @@
 |title=Scorpie
 |order=14
 |category=Medium Resources
-|effect=+{% Trapping EXP
+|effect=+% Trapping EXP
 |bonus=5
 |reqtier=4
 }}

@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Penguin
 |order=6
-|category=Frostfire Tyundra
-|effect=+{ Base WIS
+|category=Frostbite Tundra
+|effect=+ Base WIS
 |bonus=7
 |reqtier=15
 |source=[[Penguin]]

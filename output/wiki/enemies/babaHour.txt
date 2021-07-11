@@ -10,11 +10,13 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Chaotic Amarok|King Doot}}
+{{DropTable/head}}
 {{DropTable/coin|7000|1}}
 {{DropTable/row|Minuteglass|0.3|1}}
 {{DropTable/row|Mystery Upgrade Stone I|0.4|2}}
 {{DropTable/row|Armor Upgrade Stone C|0.008|1}}
 {{DropTable/card|0.024}}
+{{DropTable/recipe|1|Star Talent Reset Potion|0.06}}
 {{DropTable6|chance=0.5}}
 {{DropTable13|chance=0.4}}
 |}

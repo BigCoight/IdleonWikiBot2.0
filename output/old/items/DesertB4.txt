@@ -8,7 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Mashed Potato]]|0.17|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Platinum Platbody]]|5000|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-|}

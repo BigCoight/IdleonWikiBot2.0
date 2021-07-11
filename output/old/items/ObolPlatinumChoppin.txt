@@ -5,7 +5,10 @@
 |type=Hexagon Obol
 |skillpower=4
 |wis=3
+|misc=2% Chop Efficiency
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Choppin
 }}

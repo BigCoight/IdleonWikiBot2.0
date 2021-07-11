@@ -2,7 +2,7 @@
 |title=Frog
 |order=2
 |category=Blunder Hills
-|effect=+{ Base MP
+|effect=+ Base MP
 |bonus=10
 |reqtier=6
 |source=[[Frog]]

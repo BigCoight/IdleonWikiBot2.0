@@ -3,4 +3,7 @@
 {{DropTable/row|Distilled Water|{{#expr: {{{chance}}}*.027}}|1}}
 {{DropTable/row|Average EXP Potion|{{#expr: {{{chance}}}*.1}}|25}}
 {{DropTable/row|Feasty Statue|{{#expr: {{{chance}}}*0.03}}|1}}
+{{DropTable/row|Cloudsound Follower|{{#expr: {{{chance}}}*0.5}}|10|([[Mutton]])}}
+{{DropTable/row|Corporatube Sub|{{#expr: {{{chance}}}*0.2}}|3|([[Mutton]])}}
+{{DropTable/row|Bronze Obol of Construction|{{#expr: {{{chance}}}*0.000945}}|1}}
 {{#vardefine:chance1|{{#expr:{{{chance}}}*0.006}}}}{{SuperDropTable3|chance={{#var:chance1}}}}{{SuperDropTable3|chance=0.006}}

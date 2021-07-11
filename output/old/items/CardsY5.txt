@@ -2,7 +2,7 @@
 |title=Chocco Box
 |order=5
 |category=Event
-|effect=+{% Boost Food Effect
+|effect=+% Boost Food Effect
 |bonus=4
 |reqtier=1.5
 }}

@@ -8,7 +8,6 @@
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.36|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.36|1.0}}
 {{detdrops|[[Sandy Pot]]|0.0018|1.0}}
 {{detdrops|[[Mimic]]|0.00192|1.0}}
 {{detdrops|[[Crabcake]]|0.00216|1.0}}
@@ -26,7 +25,4 @@
 {{detdrops|[[Chaotic Efaunt]]|0.9|2.0}}
 {{detdrops|[[Chaotic Chizoar]]|0.9|2.0}}
 {{detdrops|[[Sandstone Silver Chest]]|0.9|1.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[XxX Cattleprod XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1000|Quests}}
 |}

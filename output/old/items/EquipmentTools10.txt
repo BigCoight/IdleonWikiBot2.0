@@ -3,6 +3,7 @@
 |level=15
 |skill=mining
 |type=Pickaxe
+|speed=2
 |skillpower=18
 |misc=2% Mining Efficincy
 |upgrade=6

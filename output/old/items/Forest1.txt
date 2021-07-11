@@ -3,15 +3,7 @@
 |description=This item will listen to anything you have to say, it's all ears!
 |sellprice=20
 |source=[[Glublin]]
-|notes= 
 }}
 {{detdrops/head}}
 {{detdrops|[[Glublin]]|0.16|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Iron Helmet]]|300|Crafting}}
-{{usedin/row|[[Fur Shirt]]|500|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Wyoming Blood]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Anearful]]|Lots|Alchemy}}
 |}

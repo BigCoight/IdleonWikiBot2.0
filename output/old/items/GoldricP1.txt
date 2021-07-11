@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Mimic]]|0.1|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Goldric#Only Winners have Portraits|Only Winners have Portraits]]|200|Quests}}
-|}

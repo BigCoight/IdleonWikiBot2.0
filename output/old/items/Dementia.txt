@@ -2,15 +2,11 @@
 |type=Ore
 |description=Smelt down 40 Ores into 1 Bar at the Forge. Smelting will take 3500 seconds per Bar using Forge Slot 1.
 |sellprice=35
-|source=[[Mining]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Mining]], [[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 |hascard=yes
 }}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.1|80}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.6|100}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Big Mining Pouch]]|17500|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Laaarrrryyyy]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.6|100}}
 |}

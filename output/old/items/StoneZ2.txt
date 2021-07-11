@@ -3,28 +3,29 @@
 |description=Drag onto any Equip to apply. +4 Mystery Stat Success Chance; 50% Uses up 1 slots only if Successful. WARNING:Mystery Stat has a chance to be Negative, and reduce stats!
 |sellprice=777
 |tier=II
-|source=[[SuperDropTable3]]
+|source=[[Loominadi#Journey to the Center of the Blundermines|Journey to the Center of the Blundermines]], [[SuperDropTable3]]
 |notes= 
 }}
 {{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.0025199999999999997|3.0}}
 {{detdrops|[[Sheepie]]|0.0000105|3.0}}
 {{detdrops|[[Frost Flake]]|0.000011760000000000001|3.0}}
 {{detdrops|[[Sir Stache]]|0.000013019999999999997|3.0}}
 {{detdrops|[[Xylobone]]|0.000042|3.0}}
-{{detdrops|[[Frostbite Bronze Chest]]|0.0042|3.0}}
+{{detdrops|[[Chillsnap Bronze Chest]]|0.0042|3.0}}
 {{detdrops|[[Bloque]]|0.0000105|3.0}}
 {{detdrops|[[Mamooth]]|0.00001134|3.0}}
 {{detdrops|[[Snowman]]|0.000012179999999999999|3.0}}
 {{detdrops|[[Penguin]]|0.000013019999999999997|3.0}}
 {{detdrops|[[Thermister]]|0.00001386|3.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.0042|3.0}}
-{{detdrops|[[Dedotated Ram]]|0.00000016800000000000002|3.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.0042|3.0}}
+{{detdrops|[[Dedotated Ram]]|0.000014279999999999997|3.0}}
 {{detdrops|[[Quenchie]]|0.0000105|3.0}}
 {{detdrops|[[Cryosnake]]|0.000011760000000000001|3.0}}
 {{detdrops|[[Bop Box]]|0.0000126|3.0}}
 {{detdrops|[[Neyeptune]]|0.00001344|3.0}}
-{{detdrops|[[Bloodbone]]|0.00000016800000000000002|3.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.0042|3.0}}
+{{detdrops|[[Bloodbone]]|0.000021|3.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.0042|3.0}}
 {{detdrops|[[Choppin#Drops|Choppin Saharan Foal]]|0.00003738|3.0}}
 {{detdrops|[[Choppin#Drops|Choppin Wispy Tree]]|0.00003738|3.0}}
 {{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00006299999999999999|3.0}}

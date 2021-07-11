@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Wode Board|Poop}}
+{{DropTable/head}}
 {{DropTable/coin|28|0.35}}
 {{DropTable/row|Bullfrog Horn|0.14|1}}
 {{DropTable/card|0.000070}}

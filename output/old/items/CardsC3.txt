@@ -2,7 +2,7 @@
 |title=Gold Ore
 |order=2
 |category=Easy Resources
-|effect=+{% Mining EXP
+|effect=+% Mining EXP
 |bonus=5
 |reqtier=10
 |source=[[Mining#Drops|Mining Gold]]

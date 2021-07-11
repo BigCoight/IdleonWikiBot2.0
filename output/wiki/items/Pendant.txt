@@ -228,9 +228,6 @@ Fuscismatia
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.000002|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 Lucky Fish Head
 {{InfoItem
 |class=All

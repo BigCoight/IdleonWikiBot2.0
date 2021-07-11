@@ -51,7 +51,16 @@ def doSkill(name, item):
 
 def doDescription(name, item):
     if description := item.get("description"):
+        if item["Type"] == "Golden Food":
+            return item["description"][0] + ". " + item["description"][2]
         return " ".join(description)
+    else:
+        return ""
+
+
+def doQuestAss(name, item):
+    if questAss := item.get("questAss"):
+        return ", ".join(questAss)
     else:
         return ""
 
@@ -95,6 +104,8 @@ def doHasCard(name, item):
 def doBonus(name, item):
     if item["typeGen"] == "aStamp":
         return item["stampData"][-2].split("{}")[1]
+    elif item["typeGen"] == "dStatueStone":
+        return item["statueData"][1].replace("@", "")
     return ""
 
 
@@ -107,7 +118,7 @@ def doSkillPower(name, item):
 
 
 def isSkill(name, item):
-    skillNames = ["Catching", "Fishing", "Choppin", "Mining"]
+    skillNames = ["Catching", "Fishing", "Choppin", "Mining", "Trapping", "Worship"]
     toolSkills = {"aHatchet": "Choppin", "aFishingRod": "Fishing", "aBugNet": "Catching", "aPick": "Mining", "aTrap": "Trapping", "aSkull": "Worship"}
     skill = camelCaseSplitter(name)[-1]
     if skill in skillNames:
@@ -135,7 +146,7 @@ def writeItem(name, item):
         "reach": "Reach",
         "upgrade": "Upgrade_Slots_Left",
         "defence": "Defence",
-        "quest": "questAss",
+        "quest": doQuestAss,
         "description": doDescription,
         "sellprice": "sellPrice",
         "rarity": doRarity,
@@ -143,6 +154,7 @@ def writeItem(name, item):
         "source": doSource,
         "notes": "notes",
         "hascard": doHasCard,
+        "family": "family",
     }
     itemData = "{{InfoItem\n"
     for wiki, atr in mapIntToWiki.items():
@@ -259,8 +271,8 @@ def writeSubData(name, item):
 
     if "prodInfo" in item.keys():
         itemData += writeProccessing(name, item)
-    if "uses" in item.keys():
-        itemData += writeUses(name, item)
+    # if "uses" in item.keys():
+    #     itemData += writeUses(name, item)
     if "detrecipe" in item.keys():
         itemData += writeDetrecipe(name, item)
 
@@ -364,8 +376,6 @@ def world3Spoilers(changedItems, name, website, dispName):
 
 def main(OLD, UPLOAD):
     website = Site()
-    with open(fr"./output/changelog/Items.json", mode="r") as jsonFile:
-        changedItems = json.load(jsonFile)
     if OLD and UPLOAD:
         print("You cannot have old and upload set to true")
         return
@@ -400,6 +410,8 @@ def main(OLD, UPLOAD):
                 wikiPage = Page(website, items[name]["displayName"])
                 wikiPage.text = data
                 wikiPage.save("Coights API")
+                writeOLD(name, data)
+                print("Wrote Old")
             else:
                 pass  # print(f"Old: {items[name]['displayName']}")
 

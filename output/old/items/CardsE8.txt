@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Quenchie
 |order=8
-|category=Frostfire Tyundra
-|effect=+{ Base LUK
+|category=Frostbite Tundra
+|effect=+ Base LUK
 |bonus=7
 |reqtier=17
 |source=[[Quenchie]]

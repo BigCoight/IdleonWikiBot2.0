@@ -2,7 +2,7 @@
 |title=Floofie
 |order=6
 |category=Event
-|effect=+{% MP regen rate
+|effect=+% MP regen rate
 |bonus=3
 |reqtier=3
 |source=[[Egggulyte]], [[Egg Capsule]], [[Floofie]]

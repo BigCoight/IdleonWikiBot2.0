@@ -1,19 +1,46 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Droptables==
 {{patchnote/head|changed=DropTable14}}
-{{patchnote|Drop 2|{{CraftReq|EhExPee Statue}}: qty:15, chance:.05|{{CraftReq|Distilled Water}}: qty:1, chance:.022}}
-{{patchnote|Drop 3| |{{CraftReq|EhExPee Statue}}: qty:1, chance:.05}}
+{{patchnote|Drop 0|{{CraftReq|Book Stamp}}: qty:1, chance:0.0004|{{CraftReq|R}}: qty:m, chance:e}}
+{{patchnote|Drop 5| |{{CraftReq|Cloudsound Follower}}: qty:8, chance:0.5}}
+{{patchnote|Drop 6| |{{CraftReq|Corporatube Sub}}: qty:3, chance:0.2}}
 |}
 
-{{patchnote/head|changed=DropTable16}}
-{{patchnote|Drop 1|{{CraftReq|Blover Stamp}}: qty:15, chance:.00008|{{CraftReq|Blover Stamp}}: qty:1, chance:.00008}}
-{{patchnote|Drop 2| |{{CraftReq|Distilled Water}}: qty:1, chance:.027}}
+{{patchnote/head|changed=DropTable4}}
+{{patchnote|Drop 5| |{{CraftReq|Book Stamp}}: qty:1, chance:0.00015}}
+|}
+
+{{patchnote/head|changed=DropTable6}}
+{{patchnote|Drop 6| |{{CraftReq|Cloudsound Follower}}: qty:7, chance:0.5}}
+{{patchnote|Drop 7| |{{CraftReq|Instablab Follower}}: qty:3, chance:0.3}}
+|}
+
+{{patchnote/head|changed=DropTable7}}
+{{patchnote|Drop 5| |{{CraftReq|Cloudsound Follower}}: qty:8, chance:0.5}}
+{{patchnote|Drop 6| |{{CraftReq|Instablab Follower}}: qty:3, chance:0.3}}
+|}
+
+{{patchnote/head|changed=DropTable8}}
+{{patchnote|Drop 4| |{{CraftReq|Cloudsound Follower}}: qty:8, chance:0.5}}
+{{patchnote|Drop 5| |{{CraftReq|Instablab Follower}}: qty:3, chance:0.3}}
+|}
+
+{{patchnote/head|changed=DropTable11}}
+{{patchnote|Drop 0| |{{CraftReq|Twisty Leaf}}: qty:4, chance:.5}}
 |}
 
 {{patchnote/head|changed=DropTable15}}
-{{patchnote|Drop 0|{{CraftReq|EhExPee Statue}}: qty:14, chance:.04|{{CraftReq|R}}: qty:m, chance:e}}
-{{patchnote|Drop 2| |{{CraftReq|Distilled Water}}: qty:1, chance:.025}}
-{{patchnote|Drop 4| |{{CraftReq|EhExPee Statue}}: qty:1, chance:.04}}
+{{patchnote|Drop 5| |{{CraftReq|Cloudsound Follower}}: qty:9, chance:0.5}}
+{{patchnote|Drop 6| |{{CraftReq|Corporatube Sub}}: qty:3, chance:0.2}}
+|}
+
+{{patchnote/head|changed=DropTable16}}
+{{patchnote|Drop 5| |{{CraftReq|Cloudsound Follower}}: qty:10, chance:0.5}}
+{{patchnote|Drop 6| |{{CraftReq|Corporatube Sub}}: qty:3, chance:0.2}}
+|}
+
+{{patchnote/head|changed=DropTable17}}
+{{patchnote|Drop 0| |{{CraftReq|Arctic Leaf}}: qty:3, chance:.5}}
 |}
 
 </div><div style = "flex:50%;"> 

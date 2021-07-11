@@ -7,24 +7,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|15}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Militia Helm]]|25|Crafting}}
-{{usedin/row|[[Thief Hood]]|25|Crafting}}
-{{usedin/row|[[Top Hat]]|25|Crafting}}
-{{usedin/row|[[Party Hat]]|200|Crafting}}
-{{usedin/row|[[Iron Pickaxe]]|100|Crafting}}
-{{usedin/row|[[Iron Helmet]]|125|Crafting}}
-{{usedin/row|[[Iron Platebody]]|150|Crafting}}
-{{usedin/row|[[Iron Platelegs]]|170|Crafting}}
-{{usedin/row|[[Anvil Tab 2]]|250|Crafting}}
-{{usedin/row|[[Iron Boots]]|125|Crafting}}
-{{usedin/row|[[Steel Band]]|600|Crafting}}
-{{usedin/row|[[Fur Shirt]]|500|Crafting}}
-{{usedin/row|[[Amarok Bodyplate]]|400|Crafting}}
-{{usedin/row|[[Iron Fishing Rod]]|300|Crafting}}
-{{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|100|Quests}}
-{{usedin/row|[[Picnic Stowaway#Luncheon with the Inlaws|Luncheon with the Inlaws]]|100|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Molto Loggo]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Barley Brew]]|Lots|Alchemy}}
-|}

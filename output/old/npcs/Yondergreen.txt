@@ -1,16 +1,16 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Gemini
-|mmm=Vail
-|birthweight=6.78
-|notes=fillme
+|location=Signature Slopes
+|noquest=0
+|repeatable=Unknown
+|starsign=Sagittarius
+|mmm=Napier
+|birthweight=5.03
+|notes=[[Yondergreen]] is found in [[Worlds#Signature Slopes|Signature Slopes]].
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Well hello there!
 }}
 |}

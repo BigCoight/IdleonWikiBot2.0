@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.0001|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Loominadi#Rhyming is Key!|Rhyming is Key!]]|10|Quests}}
-|}

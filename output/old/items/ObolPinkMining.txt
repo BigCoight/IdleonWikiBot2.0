@@ -5,7 +5,10 @@
 |type=Sparkle Obol
 |skillpower=5
 |str=5
+|misc=8% Mining Efficincy
 |sellprice=50
 |rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Mining
 }}

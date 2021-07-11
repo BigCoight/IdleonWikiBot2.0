@@ -4,16 +4,17 @@
 |health=260000
 |defence=2900
 |speed=6
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Cryo Catacombs
 |exp=1690
-|respawn=40
+|respawn=45
 |defence0=1743.06
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Quenchie|Bop Box}}
+{{DropTable/head}}
 {{DropTable/coin|400|0.32}}
 {{DropTable/row|Cryosnake Skin|0.16|1}}
 {{DropTable/card|0.0001}}

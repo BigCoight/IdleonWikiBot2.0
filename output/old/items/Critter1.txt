@@ -2,15 +2,9 @@
 |type=Critter
 |description=The living embodiment of the classic cryptocurrency 'Frogecoin'. Very ribbit, much green, wow!!
 |sellprice=3
-|source=[[Trapping]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Trapping]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|65}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Small Critter Pouch]]|200|Crafting}}
-{{usedin/row|[[Dementia Helmet]]|5000|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Frogecoin to the MOON!|Frogecoin to the MOON!]]|100|Quests}}
-{{usedin/row|[[Alchemy#Power Cauldron|Brittley Spears]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.6|65}}
 |}

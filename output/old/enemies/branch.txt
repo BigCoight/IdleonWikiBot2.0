@@ -14,9 +14,11 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Rat|Nutto}}
+{{DropTable/head}}
 {{DropTable/coin|90|.3}}
 {{DropTable/row|Stick|0.21|1}}
 {{DropTable/card|0.000060}}
 {{DropTable/row|Woodular Circle|0.00005|1}}
+{{DropTable/recipe|0|Fishing Overalls|0.0002}}
 {{DropTable3c|chance=0.0057}}
 |}

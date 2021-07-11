@@ -7,6 +7,6 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=7|vendor=YumYum Grotto|stock=4|buyprice=5000}}
+{{Vendoritem/tablerow|number=7|vendor=YumYum Grotto|stock=6|buyprice=5000}}
 {{Vendoritem/tablerow|number=8|vendor=Faraway Piers|stock=1|buyprice=5000}}
 |}

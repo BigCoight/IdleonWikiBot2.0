@@ -5,7 +5,9 @@
 |type=Sparkle Obol
 |skillpower=5
 |wis=5
+|misc=8% Chop Efficiency
 |sellprice=50
 |rarity=Dementia
 |notes= 
+|family=Choppin
 }}

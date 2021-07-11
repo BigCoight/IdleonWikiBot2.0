@@ -9,7 +9,7 @@
 |reach=70
 |upgrade=1
 |sellprice=145
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,14 +17,10 @@
 |craftnum=2
 |levelreq=3
 |expgiven=5
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=25
 |resource2=Copper Bar|quantity2=10
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Shank]]|3|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}

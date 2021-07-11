@@ -26,6 +26,24 @@ He gives you some starter quests, to introduce you to the basics of [[File:Fishi
 |consumed=No
 |rewards=1x {{CraftReq|Spoons Lol}}, 3x {{CraftReq|Gem}}, 2000 Fishing Experience
 }}
+{{Quest
+|name=Bobbin' Bobbers
+|text= @ QUEST
+|difficulty=4
+|requirements=Fishing Score Total: >= 50. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|Triple Threat}}, 1x {{CraftReq|Whattso Token}}, 8000 Fishing Experience
+|notes= 
+}}
+{{Quest
+|name=The Biggest Fish in the Sea...?
+|text= @ QUEST
+|difficulty=6
+|requirements=Catch the Whale: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|Electrical Wiring}}, 1x {{CraftReq|The Bobber Challenge Scroll}}, 17500 Fishing Experience
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row
@@ -49,6 +67,26 @@ He gives you some starter quests, to introduce you to the basics of [[File:Fishi
 |text=`-` @  I think they want to give you something but you're out of inventory space.
 }}
 {{dialogue/row
-|text=T.T
+|text=O:
+}}
+{{dialogue/row
+|text=O: @ QUEST:Thats a good face I think! Do whatever you just did some more!
+|quest=Bobbin' Bobbers
+}}
+{{dialogue/row
+|text=`-` @  I think they want to give you something but you're out of inventory space.
+}}
+{{dialogue/row
+|text=C: @ 
+}}
+{{dialogue/row
+|text=C: @ QUEST:The whale stares at you. He's too happy. You know what must be done.
+|quest=The Biggest Fish in the Sea...?
+}}
+{{dialogue/row
+|text=`-` @  I think they want to give you something but you're out of inventory space.
+}}
+{{dialogue/row
+|text=D:
 }}
 |}

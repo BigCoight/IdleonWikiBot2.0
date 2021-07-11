@@ -2,7 +2,7 @@
 |title=Red Mushroom
 |order=1
 |category=Blunder Hills
-|effect=+{ Base LUK
+|effect=+ Base LUK
 |bonus=3
 |reqtier=10
 |source=[[Red Mushroom]]

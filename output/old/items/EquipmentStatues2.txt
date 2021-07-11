@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+ % Move Speed
 |description=A stone statue that isnt actually fast because its made of stone and stone can't move. Give this to the Statue Man in return for some bonus stats
 |sellprice=10
 |source=[[Krunk#King of the Cavern|King of the Cavern]], [[Stiltzcho#Outta the Way Slimes|Outta the Way Slimes]], [[Stiltzcho#No Stone Unturned|No Stone Unturned]], [[Papua Piggea#This Little Piggy Felt Remorse|This Little Piggy Felt Remorse]], [[DropTable5b]], [[Alchemy#Level up Gift|Level up Gift]]

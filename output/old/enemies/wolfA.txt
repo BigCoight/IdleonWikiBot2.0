@@ -9,7 +9,8 @@
 |defence0=1223.26
 |hascard=Yes
 }}
-{{EnemyNavigation|Dr Defecaus|Chaotic Amarok}}
+{{EnemyNavigation|Boop|Chaotic Amarok}}
+{{DropTable/head}}
 {{DropTable/coin|500|1}}
 {{DropTable/row|Magic Meatloaf|0.05|1}}
 {{DropTable/card|0.04}}

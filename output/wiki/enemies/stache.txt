@@ -4,7 +4,7 @@
 |health=81000
 |defence=900
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=The Stache Split
 |exp=800
 |respawn=40
@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Frost Flake|Bloque}}
+{{DropTable/head}}
 {{DropTable/coin|205|0.43}}
 {{DropTable/row|Moustache Comb|0.16|1}}
 {{DropTable/card|0.0001}}

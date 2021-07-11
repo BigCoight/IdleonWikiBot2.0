@@ -70,7 +70,6 @@ Inventory Bag G
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.0007199999999999999|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0007199999999999999|1.0}}
 {{detdrops|[[Sandy Pot]]|0.0000036|1.0}}
 {{detdrops|[[Mimic]]|0.00000384|1.0}}
 {{detdrops|[[Crabcake]]|0.000004319999999999999|1.0}}
@@ -172,9 +171,6 @@ Snakeskinventory Bag
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.00008|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Sandy Satchel]]|1|Crafting}}
-|}
 Totally Normal and not fake Bag
 {{InfoItem
 |class=All
@@ -272,7 +268,7 @@ Capitalist Case
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=1|buyprice=9996}}
+{{Vendoritem/tablerow|number=9|vendor=Encroaching Forest Villas|stock=2|buyprice=9996}}
 |}
 Wealthy Wallet
 {{InfoItem
@@ -285,7 +281,7 @@ Wealthy Wallet
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=11|vendor=YumYum Grotto|stock=1|buyprice=999996}}
+{{Vendoritem/tablerow|number=11|vendor=YumYum Grotto|stock=20000|buyprice=999996}}
 |}
 Prosperous Pouch
 {{InfoItem
@@ -315,7 +311,7 @@ Shivering Sack
 |level=65
 |type=Inventory 
 |description=Hold down to permanently add +3 Slots to your Inventory. Can only be used once.
-|sellprice=5066
+|sellprice=435690
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -326,15 +322,18 @@ Shivering Sack
 |expgiven=5000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
 |resource1=Mamooth Hide Bag|quantity1=1
-|resource2=Copper Ore|quantity2=22
+|resource2=Melty Cube|quantity2=2000
+|resource3=Yellow Snowflake|quantity3=3
 }}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Mamooth Hide Bag|1}}
-{{detrecipe|3|Copper Ore|22}}
+{{detrecipe|3|Melty Cube|2000}}
+{{detrecipe|3|Yellow Snowflake|3}}
 |tot=
 {{detrecipe/totals|Mamooth Hide Bag|1}}
-{{detrecipe/totals|Copper Ore|22}}
+{{detrecipe/totals|Melty Cube|2000}}
+{{detrecipe/totals|Yellow Snowflake|3}}
 }}
 Mamooth Hide Bag
 {{InfoItem
@@ -347,8 +346,5 @@ Mamooth Hide Bag
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Mamooth]]|0.000002|1}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Shivering Sack]]|1|Crafting}}
+{{detdrops|[[Mamooth]]|0.000008|1}}
 |}

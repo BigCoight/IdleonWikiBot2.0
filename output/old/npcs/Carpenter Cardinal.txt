@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Taurus
-|mmm=Shaffer
-|birthweight=5.42
+|starsign=Libra
+|mmm=Darnell
+|birthweight=9.63
 |notes=fillme
 }}
 {{Quest/head}}

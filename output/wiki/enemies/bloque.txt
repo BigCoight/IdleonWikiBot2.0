@@ -4,7 +4,7 @@
 |health=100000
 |defence=1150
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Refrigeration Station
 |exp=940
 |respawn=40
@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sir Stache|Mamooth}}
+{{DropTable/head}}
 {{DropTable/coin|240|0.41}}
 {{DropTable/row|Sticky Stick|0.16|1}}
 {{DropTable/card|0.0001}}

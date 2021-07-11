@@ -2,7 +2,7 @@
 |title=Dr Defecaus
 |order=1
 |category=Bosses
-|effect=+{% Total Damage
+|effect=+% Total Damage
 |bonus=5
 |reqtier=1.5
 |source=[[Dr Defecaus]]

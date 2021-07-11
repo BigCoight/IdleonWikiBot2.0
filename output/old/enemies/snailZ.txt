@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Sand Giant|Dig Doug}}
+{{DropTable/head}}
 {{DropTable/coin|160|0.35}}
 {{DropTable/row|Shrapshell|0.14|1}}
 {{DropTable/card|0.0001}}

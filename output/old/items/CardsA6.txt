@@ -2,7 +2,7 @@
 |title=Carrotman
 |order=6
 |category=Blunder Hills
-|effect=+{ Base AGI
+|effect=+ Base AGI
 |bonus=2
 |reqtier=10
 |source=[[Carrotman]]

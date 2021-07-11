@@ -22,7 +22,7 @@ Like other piggy NPCs, his quests award stamps. His final quest requires you to 
 |name=Wait No, I meant Pathetic Gaming
 |text=Defeat Mafiosos and Sand Castles super fast
 |difficulty=5
-|requirements=Mafiosos Defeated: >= 30. Starting at 0., Sand Castles Defeated: >= 18. Starting at 0.
+|requirements=Mafiosos Defeated: >= 30. Starting at 0., Sand Castles Defeated: >= 18. Starting at 0., Time Left: >= 1. Starting at 72.
 |consumed=No
 |rewards=1x {{CraftReq|Mason Jar Stamp}}, 1x {{CraftReq|Fishhead Stamp}}
 }}

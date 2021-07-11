@@ -15,9 +15,6 @@ Cardboard Traps
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=3|vendor=Frostbite Towndra|stock=99|buyprice=20000}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|1|Quests}}
-|}
 Silkskin Traps
 {{InfoItem
 |class=All
@@ -29,7 +26,7 @@ Silkskin Traps
 |agi=4
 |upgrade=1
 |sellprice=600
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -37,7 +34,7 @@ Silkskin Traps
 |craftnum=81
 |levelreq=16
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Poison Froge|quantity1=1
 |resource2=Redox Salts|quantity2=5
 }}
@@ -72,9 +69,6 @@ Wooden Traps
 |resource1=Mutant Crabbo|quantity1=2
 |resource2=Redox Salts|quantity2=20
 }}
-{{usedin/head}}
-{{usedin/row|[[Natural Traps]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Mutant Crabbo|2}}
@@ -107,9 +101,6 @@ Natural Traps
 |resource2=Redox Salts|quantity2=50
 |resource3=Wooden Traps|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Steel Traps]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Nakeo Moleo|5}}
@@ -132,7 +123,7 @@ Steel Traps
 |skillpower=26
 |agi=12
 |upgrade=3
-|sellprice=17033
+|sellprice=17283
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -142,20 +133,23 @@ Steel Traps
 |levelreq=46
 |expgiven=500000
 |recipefrom=[[Tasks/Unlocks|Tasks]]
-|resource1=Eternal Lord of  The Undying Ember|quantity1=6
+|resource1=Eternal Lord of The Undying Ember|quantity1=6
 |resource2=Natural Traps|quantity2=1
+|resource3=Dense Water|quantity3=5
 }}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe|3|Eternal Lord of The Undying Ember|6}}
 {{detrecipe|3|Natural Traps|1}}
 {{detrecipe|40|Nakeo Moleo|5}}
 {{detrecipe|40|Redox Salts|50}}
 {{detrecipe|40|Wooden Traps|2}}
 {{detrecipe|80|Mutant Crabbo|4}}
 {{detrecipe|80|Redox Salts|40}}
+{{detrecipe|3|Dense Water|5}}
 |tot=
-{{detrecipe/totals|Eternal Lord of  The Undying Ember|6}}
+{{detrecipe/totals|Eternal Lord of The Undying Ember|6}}
+{{detrecipe/totals|Dense Water|5}}
 {{detrecipe/totals|Nakeo Moleo|5}}
 {{detrecipe/totals|Redox Salts|90}}
 {{detrecipe/totals|Mutant Crabbo|4}}

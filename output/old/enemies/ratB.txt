@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Poop|Walking Stick}}
+{{DropTable/head}}
 {{DropTable/coin|105|.3}}
 {{DropTable/row|Rats Tail|0.19|1}}
 {{DropTable/card|0.000050}}

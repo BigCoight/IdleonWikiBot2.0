@@ -61,6 +61,7 @@
         ["EquipmentStatues7", ".27", "1", "N/A"],
         ["FoodPotGr1", "0.2", "5", "N/A"],
         ["StampB11", "0.0009", "1", "N/A"],
+        ["StampA13", "0.00015", "1", "N/A"],
         ["ObolBronze3", "0.0006299999999999999", "1", "N/A"],
         ["SuperDropTable1", "0.0060", "1", "N/A"]
     ],
@@ -84,6 +85,7 @@
         ["FoodG4", "0.5", "1", "N/A"],
         ["ObolSilverMoney", "0.02835", "1", "N/A"],
         ["ObolSilverDamage", "0.02835", "1", "N/A"],
+        ["ObolBronzeEXP", "0.03045", "1", "N/A"],
         ["StoneZ1", "0.85", "2", "N/A"]
     ],
     "DropTable5b": [
@@ -100,6 +102,8 @@
         ["StampB15", "0.0006", "1", "N/A"],
         ["EquipmentStatues12", ".07", "1", "N/A"],
         ["Quest32", ".6", "1", "XxX_Cattleprod_XxX3"],
+        ["Quest24", "0.5", "7", "Mutton4"],
+        ["Quest23", "0.3", "3", "Mutton4"],
         ["ObolSilver0", "0.0006299999999999999", "1", "N/A"],
         ["SuperDropTable2", "0.006", "1", "N/A"]
     ],
@@ -110,6 +114,8 @@
         ["StampB16", "0.0004", "1", "N/A"],
         ["EquipmentStatues11", ".04", "1", "N/A"],
         ["Quest32", ".9", "1", "XxX_Cattleprod_XxX3"],
+        ["Quest24", "0.5", "8", "Mutton4"],
+        ["Quest23", "0.3", "3", "Mutton4"],
         ["ObolSilver1", "0.0006299999999999999", "1", "N/A"],
         ["SuperDropTable2", "0.006", "1", "N/A"]
     ],
@@ -119,6 +125,8 @@
         ["FoodPotRe3", ".4", "25", "N/A"],
         ["StampB24", "0.00015", "1", "N/A"],
         ["EquipmentStatues13", ".07", "1", "N/A"],
+        ["Quest24", "0.5", "8", "Mutton4"],
+        ["Quest23", "0.3", "3", "Mutton4"],
         ["ObolSilver2", "0.0006299999999999999", "1", "N/A"],
         ["SuperDropTable2", "0.006", "1", "N/A"]
     ],
@@ -134,11 +142,11 @@
         ["StoneA2", ".002", "1", "N/A"],
         ["StoneT1", ".03", "1", "N/A"],
         ["FoodPotGr1", "0.2", "5", "N/A"],
-        ["StampA13", "0.0004", "1", "N/A"],
         ["SuperDropTable2", "0.006", "1", "N/A"]
     ],
     "DropTable11": [
         ["COIN", "0", "1", "N/A"],
+        ["Leaf2", ".5", "4", "N/A"],
         ["StoneW2", ".002", "1", "N/A"],
         ["StoneT1", ".03", "1", "N/A"],
         ["EquipmentStatues8", ".05", "1", "N/A"],
@@ -174,6 +182,7 @@
         ["FoodG3", "0.5", "1", "N/A"],
         ["ObolGold3", "0.022050000000000004", "1", "N/A"],
         ["ObolSilverLuck", "0.022050000000000004", "1", "N/A"],
+        ["ObolBronzeDef", "0.03045", "1", "N/A"],
         ["StoneZ1", "0.7", "3", "N/A"]
     ],
     "DropTable14": [
@@ -183,6 +192,9 @@
         ["PureWater", ".022", "1", "N/A"],
         ["EquipmentStatues18", ".05", "1", "N/A"],
         ["FoodPotOr3", ".15", "25", "N/A"],
+        ["Quest24", "0.5", "8", "Mutton4"],
+        ["Quest22", "0.2", "3", "Mutton4"],
+        ["ObolBronzeWorship", "0.000945", "1", "N/A"],
         ["SuperDropTable3", "0.006", "1", "N/A"]
     ],
     "DropTable15": [
@@ -192,6 +204,9 @@
         ["PureWater", ".025", "1", "N/A"],
         ["FoodHealth10", ".5", "15", "N/A"],
         ["EquipmentStatues18", ".04", "1", "N/A"],
+        ["Quest24", "0.5", "9", "Mutton4"],
+        ["Quest22", "0.2", "3", "Mutton4"],
+        ["ObolBronzeTrapping", "0.000945", "1", "N/A"],
         ["SuperDropTable3", "0.006", "1", "N/A"]
     ],
     "DropTable16": [
@@ -201,10 +216,14 @@
         ["PureWater", ".027", "1", "N/A"],
         ["FoodPotYe2", ".1", "25", "N/A"],
         ["EquipmentStatues4", "0.03", "1", "N/A"],
+        ["Quest24", "0.5", "10", "Mutton4"],
+        ["Quest22", "0.2", "3", "Mutton4"],
+        ["ObolBronzeCons", "0.000945", "1", "N/A"],
         ["SuperDropTable3", "0.006", "1", "N/A"]
     ],
     "DropTable17": [
         ["COIN", "0", "1", "N/A"],
+        ["Leaf3", ".5", "3", "N/A"],
         ["StampB25", ".0012", "1", "N/A"],
         ["SuperDropTable3", "0.006", "1", "N/A"]
     ],
@@ -220,6 +239,7 @@
         ["Trophy2", ".0003", "1", "N/A"],
         ["ResetFrag", ".15", "1", "N/A"],
         ["FoodG5", "0.5", "1", "N/A"],
+        ["ObolBronzeKill", "0.03045", "1", "N/A"],
         ["StoneZ2", "0.7", "3", "N/A"]
     ]
 }

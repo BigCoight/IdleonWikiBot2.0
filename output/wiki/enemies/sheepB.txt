@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Chocco Box|Shell Snake}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Egg Capsule|0.1|1}}

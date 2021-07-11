@@ -5,8 +5,3 @@
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Prickle Skull]]|12500|Crafting}}
-{{usedin/row|[[Big Soul Pouch]]|8000|Crafting}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Cuz I Catch Em All]]|Lots|Alchemy}}
-|}

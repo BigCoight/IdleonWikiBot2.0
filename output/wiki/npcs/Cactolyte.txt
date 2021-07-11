@@ -1,25 +1,107 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Libra
-|mmm=Ebner
-|birthweight=7.55
-|notes=fillme
+|location=Djonnuttown
+|world=Yum-Yum Desert
+|noquest=3
+|repeatable=Unknown
+|starsign=Sagittarius
+|mmm=Hancock
+|birthweight=2.88
+|notes=[[Cactolyte]] is hidden within Djonnuttown. See [[Secrets]] for more details.
 }}
 {{Quest/head}}
+{{Quest
+|name=Super Skillage
+|text=Get the required skill levels in Mining Smithing and Choppin to impress Cactolyte club member!
+|difficulty=4
+|requirements=Mining Lv >= 32. Starting at 0., Smithing Lv: >= 35. Starting at 0., Choppin' Lv: >= 33. Starting at 0.
+|consumed=No
+|rewards=50x {{CraftReq|Gem}}, 4x {{CraftReq|12 HR Time Candy}}
+|notes=Get this quest by dropping a {{CraftReq|Bag o Nuts}} on the cactus in Djonnuttown.
+}}
+{{Quest
+|name=Top Skillage
+|text=Get the required skill levels in Fishing Alchemy and Catching to impress Cactolyte club member!
+|difficulty=6
+|requirements=Fishing Lv >= 23. Starting at 0., Alchemy: >= 25. Starting at 0., Catching Lv: >= 25. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|24 HR Time Candy}}
+|notes= 
+}}
+{{Quest
+|name=Peanut De-Aging
+|text=Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!
+|difficulty=5
+|requirements=1x {{CraftReq|Pete the Peanut}}
+|consumed=Yes
+|rewards=20x {{CraftReq|Medium Experience Balloon}}, 10x {{CraftReq|Medium Experience Balloon}}, 5x {{CraftReq|Large Experience Balloon}}
+|notes=You need at least 594 defense to take 0 damage from Biggie Hours. Defeating him outside the colosseum using Googley Eyes also grants quest completion.
+}}
+{{Quest
+|name=Maestro! The Stro! Mman!
+|difficulty=1
+|requirements=Become a Maestro: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|Club Maestro}}
+|notes= 
+}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=PEANUT!!! YEEE!
+|text=PEANUTS!!! ENTIRE BAG TOO YEE!!
 }}
 {{dialogue/row
-|text=VERY HYPE TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDINING ME!
+|text=VERY COOL TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDING ME!
 }}
 {{dialogue/row
 |text=I AM MAESTRO MEMBER CACTOLYTE! I AM NEXT STEP TO YOU BECOMING THE BESTEST BEGINNER TO EVER BEGIN EVER!!!
 }}
 {{dialogue/row
-|text=AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSE--- @ Yea well tough luck! Lava here that class aint done yet! I'll hopefully have it out same time I get world 3 out though maybe late february?
+|text=AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSELF!... @ ... ALRIGHT NICE! LAVAS NOT AROUND LETS DO THIS!
+}}
+{{dialogue/row
+|text=I AM UNDER STRICT ORDERS FROM CLUB LEADER HE TELL ME TO ONLY RANK UP PEEPLE WHO ARE TOP SKILLAGE!
+}}
+{{dialogue/row
+|text=ROCK BUSTING HAMMER HITTING AND THE TREE THINGY! THEY ARE SOME SKILLS YOU NEED! @ QUEST:Get the required skill levels in Mining Smithing and Choppin to impress Cactolyte club member!
+|quest=Super Skillage
+}}
+{{dialogue/row
+|text=NO INVENTORY SPACE! NO PLS FIX!
+}}
+{{dialogue/row
+|text=SWEET SKILLAGE! BUT THATS NO TOP SKILLAGE YOU ARE NOT READY JUST YET!
+}}
+{{dialogue/row
+|text=OCEAN MURDER WATER STIRRING AND THE BUGGY ONE! THEY ARE THE OTHER SKILLS YOU NEED! @ QUEST:Get the required skill levels in Fishing Alchemy and Catching to impress Cactolyte club member!
+|quest=Top Skillage
+}}
+{{dialogue/row
+|text=NO INVENTORY SPACE! NO PLS FIX!
+}}
+{{dialogue/row
+|text=WOWOWOW!!! OK WOW! THATS SOME SUPER SKILLAGE! BUT I AM VERY SAD TOO SAD TO GIVE YOU NEW CLASS MEMBERSHIP. @ UNLESS... COULD YOU HELP ME?
+}}
+{{dialogue/row
+|text=I HAVE A PEANUT IT IS VERY OLD. IT WAS MY FIRST PEANUT... IT IS MY BEST FRIEND!! IT WILL DECAY TO DUST SOON PLEASE MAKE IT BETTER! @ QUEST:Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!
+|quest=Peanut De-Aging
+}}
+{{dialogue/row
+|text=NO INVENTORY SPACE! NO PLS FIX!
+}}
+{{dialogue/row
+|text=PETE!!! YAYYYYYY!!! OMG PETE YOU LOOK GOOD! @ ... GOOD ENOUGH TO EAT! @ NOM!!!!
+}}
+{{dialogue/row
+|text=D: @ PETE NOOOO!!!!!! I DIDNT MEAN IT I DIDNT MEAN IT!!
+}}
+{{dialogue/row
+|text= 
+|quest=Maestro! The Stro! Mman!
+}}
+{{dialogue/row
+|text=UR BAG IS FULL! I NEED TO GIVE U NEW RANK TROPHY MAKE ROOM!
+}}
+{{dialogue/row
+|text=OH WELL AT LEAST PETE WAS TASTY! OH HEY YOURE A MAESTRO NOW COOL!!!
 }}
 |}

@@ -9,8 +9,8 @@
 |misc=8% Defence
 |upgrade=4
 |defence=30
-|sellprice=9494600
-|source=[[Smithing]]
+|sellprice=9316000
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -18,10 +18,11 @@
 |craftnum=28
 |levelreq=46
 |expgiven=500000
-|recipefrom=
+|recipefrom=Start
 |resource1=Flycicle|quantity1=60000
 |resource2=Dementia Boots|quantity2=2
 |resource3=Void Bar|quantity3=725
+|resource4=Dense Water|quantity4=4
 }}
 {{detrecipe/tab
 |reci=
@@ -29,8 +30,8 @@
 {{detrecipe|3|Dementia Boots|2}}
 {{detrecipe|40|Poison Froge|6}}
 {{detrecipe|40|Platinum Boots|2}}
-{{detrecipe|80|Tropilogs|16000}}
-{{detrecipe|80|Jellyfish|16000}}
+{{detrecipe|80|Tropilogs|14000}}
+{{detrecipe|80|Jellyfish|6000}}
 {{detrecipe|80|Gold Boots|6}}
 {{detrecipe|120|Gold Bar|3600}}
 {{detrecipe|120|Iron Boots|12}}
@@ -41,15 +42,18 @@
 {{detrecipe|120|Distilled Water|24}}
 {{detrecipe|40|Dementia Bar|1000}}
 {{detrecipe|3|Void Bar|725}}
+{{detrecipe|3|Dense Water|4}}
 |tot=
 {{detrecipe/totals|Flycicle|60000}}
+{{detrecipe/totals|Void Bar|725}}
+{{detrecipe/totals|Dense Water|4}}
 {{detrecipe/totals|Poison Froge|6}}
-{{detrecipe/totals|Tropilogs|16000}}
-{{detrecipe/totals|Jellyfish|16000}}
+{{detrecipe/totals|Dementia Bar|1000}}
+{{detrecipe/totals|Tropilogs|14000}}
+{{detrecipe/totals|Jellyfish|6000}}
 {{detrecipe/totals|Gold Bar|3600}}
+{{detrecipe/totals|Distilled Water|24}}
 {{detrecipe/totals|Trusty Nails|6000}}
 {{detrecipe/totals|Iron Bar|1500}}
 {{detrecipe/totals|Copper Bar|3000}}
-{{detrecipe/totals|Dementia Bar|1000}}
-{{detrecipe/totals|Void Bar|725}}
 }}

@@ -1,17 +1,79 @@
+Dementia STR Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=1
+|str=12
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=STR
+}}
+Dementia AGI Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=1
+|agi=12
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=AGI
+}}
+Dementia WIS Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=1
+|wis=12
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=WIS
+}}
+Dementia LUK Obol
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=1
+|luck=12
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=LUK
+}}
+Platinum Obol of Lethal Damage
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=2
+|str=2
+|agi=3
+|wis=3
+|luck=3
+|misc=50 Base Damage
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|notes= 
+|family=Damage
+}}
 Silver Obol of Pocket Change
 {{InfoItem
 |class=All
 |level=1
 |type=Square Obol
-|str=4
-|agi=1
-|wis=2
-|luck=4
-|misc=8% Money
+|misc=6% Money
 |sellprice=3
 |rarity=Silver
-|source=[[SuperDropTable1]]
+|source=[[SuperDropTable1]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Money
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Carrot]]|0.00006803999999999999|1.0}}
@@ -57,12 +119,12 @@ Golden Obol of Plentiful Riches
 |class=All
 |level=1
 |type=Square Obol
-|wis=4
-|luck=6
-|misc=13% Money
+|misc=10% Money
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Money
 }}
 Golden Obol of Diligent Digging
 {{InfoItem
@@ -74,7 +136,9 @@ Golden Obol of Diligent Digging
 |str=2
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Mining
 }}
 Golden Obol of Huge Hackin
 {{InfoItem
@@ -86,7 +150,9 @@ Golden Obol of Huge Hackin
 |wis=2
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Choppin
 }}
 Golden Obol of Crazy Carp
 {{InfoItem
@@ -98,7 +164,9 @@ Golden Obol of Crazy Carp
 |str=2
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Fishing
 }}
 Golden Obol of Insane Insects
 {{InfoItem
@@ -110,23 +178,25 @@ Golden Obol of Insane Insects
 |agi=2
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
 }}
 Silver Obol of Double Sixes
 {{InfoItem
 |class=All
 |level=1
 |type=Square Obol
-|luck=3
-|misc=10% Drop Chance
+|luck=2
+|misc=5% Drop Chance
 |sellprice=3
 |rarity=Silver
 |source=[[SuperDropTable2]]
 |notes= 
+|family=Sixes
 }}
 {{detdrops/head}}
 {{detdrops|[[Crystal Crabal]]|0.00007938000000000002|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.00007938000000000002|1.0}}
 {{detdrops|[[Sandy Pot]]|0.00000039690000000000007|1.0}}
 {{detdrops|[[Mimic]]|0.0000004233600000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000004762800000000001|1.0}}
@@ -160,3 +230,113 @@ Silver Obol of Double Sixes
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.0000019845000000000002|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.0000019845000000000002|1.0}}
 |}
+Golden Obol of Triple Sixes
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|luck=3
+|misc=7% Drop Chance
+|sellprice=8
+|rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Sixes
+}}
+Golden Obol of Poppity Pop
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|luck=6
+|misc=4% Drop Chance
+|defence=3
+|sellprice=8
+|rarity=Golden
+|family=Pop
+}}
+Golden Obol of Ultrakill
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|weaponpower=1
+|misc=3% Multikill
+|sellprice=8
+|rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Multikill
+}}
+Golden Obol of Experience
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|str=2
+|agi=2
+|wis=2
+|misc=2% Xp From Monsters
+|sellprice=8
+|rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Experience
+}}
+Silver Obol of Cards
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|str=1
+|agi=1
+|wis=1
+|misc=3% Card Drop Chance
+|sellprice=3
+|rarity=Silver
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
+|family=Card
+}}
+Golden Obol of Defence
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|defence=6
+|sellprice=8
+|rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Defence
+}}
+Golden Obol of Trapping
+{{InfoItem
+|class=All
+|level=1
+|skill=trapping
+|type=Square Obol
+|skillpower=3
+|agi=2
+|sellprice=8
+|rarity=Golden
+|family=Trapping
+}}
+Golden Obol of Construction
+{{InfoItem
+|class=All
+|level=1
+|type=Square Obol
+|str=2
+|misc=5% Build Spd
+|sellprice=8
+|rarity=Golden
+|family=Construction
+}}
+Golden Obol of Worship
+{{InfoItem
+|class=All
+|level=1
+|skill=worship
+|type=Square Obol
+|skillpower=3
+|wis=2
+|sellprice=8
+|rarity=Golden
+|family=Worship
+}}

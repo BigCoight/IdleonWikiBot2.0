@@ -8,7 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Rat]]|0.19|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Vials|Tail Time]]|Lots|Alchemy}}
-|}

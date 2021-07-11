@@ -1,8 +1,9 @@
 {{Fishingaccessory
 |depth3=20
 |depth4=60
-|fishingexp=5
-|fishingpower=5
+|fishingpower=6
+|source=[[Loominadi#The Mummy of Mystery|The Mummy of Mystery]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}

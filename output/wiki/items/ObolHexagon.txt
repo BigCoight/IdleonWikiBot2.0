@@ -1,13 +1,31 @@
+Dementia Obol of Infinite Damage
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|weaponpower=3
+|str=5
+|agi=5
+|wis=5
+|luck=5
+|misc=100 Base Damage
+|sellprice=50
+|rarity=Dementia
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|notes= 
+|family=Damage
+}}
 Platinum Obol of Blinding Speed
 {{InfoItem
 |class=All
 |level=1
 |type=Hexagon Obol
 |agi=4
-|misc=4% Movement Speed
+|misc=2% Movement Speed
 |sellprice=20
 |rarity=Platinum
 |notes= 
+|family=Speed
 }}
 Platinum Obol of Dwarven Delving
 {{InfoItem
@@ -17,9 +35,12 @@ Platinum Obol of Dwarven Delving
 |type=Hexagon Obol
 |skillpower=4
 |str=3
+|misc=2% Mining Efficincy
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Mining
 }}
 Platinum Obol of Lumby Loggo
 {{InfoItem
@@ -29,9 +50,12 @@ Platinum Obol of Lumby Loggo
 |type=Hexagon Obol
 |skillpower=4
 |wis=3
+|misc=2% Chop Efficiency
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Choppin
 }}
 Platinum Obol of Tremendous Trout
 {{InfoItem
@@ -41,9 +65,12 @@ Platinum Obol of Tremendous Trout
 |type=Hexagon Obol
 |skillpower=4
 |str=3
+|misc=2% Fishin Efficincy
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Fishing
 }}
 Platinum Obol of Idk Yet
 {{InfoItem
@@ -53,25 +80,54 @@ Platinum Obol of Idk Yet
 |type=Hexagon Obol
 |skillpower=4
 |agi=3
+|misc=2% Catch Efficincy
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Catching
+}}
+Platinum Obol of Yahtzee Sixes
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|luck=5
+|misc=10% Drop Chance
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Sixes
+}}
+Platinum Obol of Poppity Poppy
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|luck=9
+|misc=6% Drop Chance
+|defence=4
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Pop
 }}
 Skeletal Obol of Efaunt's Gaze
 {{InfoItem
 |class=All
 |level=1
 |type=Hexagon Obol
-|weaponpower=1
-|str=2
-|agi=2
-|wis=2
-|luck=2
+|weaponpower=2
+|str=5
+|agi=5
+|wis=5
+|luck=5
 |misc=5% Boss Damage
 |sellprice=20
 |rarity=Skeletal
 |source=[[Efaunt]], [[Chaotic Efaunt]], [[Nightmare Amarok]], [[Chizoar]], [[Chaotic Chizoar]], [[Nightmare Chizoar]]
 |notes= 
+|family=Bosses
 }}
 {{detdrops/head}}
 {{detdrops|[[Efaunt]]|0.001|1}}
@@ -86,14 +142,119 @@ Granite Obol of Amarok's Stare
 |class=All
 |level=1
 |type=Hexagon Obol
-|str=3
+|str=2
+|agi=2
+|wis=2
+|luck=2
 |misc=4% Defence
+|defence=5
 |sellprice=20
 |rarity=Granite
 |source=[[Amarok]], [[Chaotic Amarok]]
 |notes= 
+|family=Bosses
 }}
 {{detdrops/head}}
 {{detdrops|[[Amarok]]|0.0007|1}}
 {{detdrops|[[Chaotic Amarok]]|0.0033|1}}
 |}
+Platinum Obol of Killimanjaro
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|weaponpower=1
+|misc=5% Multikill
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Multikill
+}}
+Platinum Obol of Experience
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=3
+|agi=3
+|wis=3
+|misc=3% Xp From Monsters
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Experience
+}}
+Golden Obol of Cards
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=2
+|agi=2
+|wis=2
+|misc=5% Card Drop Chance
+|sellprice=8
+|rarity=Golden
+|source=[[Alchemy#Liquid Shop|Grand Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Card
+}}
+Platinum Obol of Cards
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=3
+|agi=3
+|wis=3
+|misc=7% Card Drop Chance
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Card
+}}
+Platinum Obol of Defense with an S
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|defence=15
+|sellprice=20
+|rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
+|family=Defence
+}}
+Platinum Obol of Trapping
+{{InfoItem
+|class=All
+|level=1
+|skill=trapping
+|type=Hexagon Obol
+|skillpower=5
+|agi=3
+|sellprice=20
+|rarity=Platinum
+|family=Trapping
+}}
+Platinum Obol of Construction
+{{InfoItem
+|class=All
+|level=1
+|type=Hexagon Obol
+|str=3
+|misc=12% Build Spd
+|sellprice=20
+|rarity=Platinum
+|family=Construction
+}}
+Platinum Obol of Worship
+{{InfoItem
+|class=All
+|level=1
+|skill=worship
+|type=Hexagon Obol
+|skillpower=5
+|wis=3
+|sellprice=20
+|rarity=Platinum
+|family=Worship
+}}

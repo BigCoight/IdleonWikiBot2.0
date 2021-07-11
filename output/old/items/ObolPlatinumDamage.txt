@@ -1,10 +1,16 @@
 {{InfoItem
 |class=All
 |level=1
-|type=Circle Obol
-|weaponpower=1
-|misc=60 Base Damage
+|type=Square Obol
+|weaponpower=2
+|str=2
+|agi=3
+|wis=3
+|luck=3
+|misc=50 Base Damage
 |sellprice=20
 |rarity=Platinum
+|source=[[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Damage
 }}

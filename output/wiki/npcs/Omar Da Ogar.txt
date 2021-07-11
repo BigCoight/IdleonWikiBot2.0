@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Libra
-|mmm=Dewalt
-|birthweight=9.0
+|starsign=Aquarius
+|mmm=Bateman
+|birthweight=8.86
 |notes=fillme
 }}
 {{Quest/head}}

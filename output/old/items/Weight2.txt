@@ -3,7 +3,8 @@
 |depth2=2
 |fishingspeed=3
 |fishingpower=1
-|source=[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]]
+|source=[[Scubidew#Don't Step to Me, Bro!|Don't Step to Me, Bro!]], [[Carpetiem#Helping 100 times over|Helping 100 times over]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}

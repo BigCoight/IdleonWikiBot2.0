@@ -2,7 +2,7 @@
 |title=Tyson
 |order=7
 |category=Yum Yum Desert
-|effect=+{ Base STR
+|effect=+ Base STR
 |bonus=5
 |reqtier=10
 |source=[[Tyson]]

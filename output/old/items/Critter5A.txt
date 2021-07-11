@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Rod]]|3|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Happy Tree Friend|Happy Tree Friend]]|3|Quests}}
-|}

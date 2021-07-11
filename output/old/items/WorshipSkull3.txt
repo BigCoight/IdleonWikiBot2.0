@@ -1,8 +1,10 @@
 {{InfoItem
 |class=All
 |level=25
+|skill=worship
 |type=Worship Skull
-|weaponpower=13
+|speed=5
+|skillpower=13
 |wis=7
 |upgrade=2
 |sellprice=13300
@@ -18,9 +20,6 @@
 |resource1=Dune Soul|quantity1=1200
 |resource2=Redox Salts|quantity2=25
 }}
-{{usedin/head}}
-{{usedin/row|[[Prickle Skull]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dune Soul|1200}}

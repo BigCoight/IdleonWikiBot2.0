@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Rat]]|.1|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[TP Pete#The Rats are to Blame!|The Rats are to Blame!]]|50|Quests}}
-|}

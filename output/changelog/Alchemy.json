@@ -1,31 +1,35 @@
 {
-    "Changes": {},
-    "New": {
+    "Changes": {
+        "Power Cauldron": {
+            "Orange Bargain": {
+                "x1": ["30", "40"],
+                "x2": ["60", "12"]
+            }
+        },
+        "Quicc Cauldron": {
+            "Green Bargain": {
+                "x1": ["30", "40"],
+                "x2": ["60", "12"]
+            }
+        },
+        "High-IQ Cauldron": {
+            "Purple Bargain": {
+                "x1": ["30", "40"],
+                "x2": ["60", "12"]
+            }
+        },
+        "Kazam Cauldron": {
+            "Yellow Bargain": {
+                "x1": ["30", "40"],
+                "x2": ["60", "12"]
+            }
+        },
         "Vials": {
-            "Void Vial": {
-                "x1": "1",
-                "x2": "0",
-                "func": "add",
-                "description": "+{%_Mining_Efficiency.",
-                "requirements": [
-                    ["Void", "L"],
-                    ["Liquid2", "L"]
-                ]
+            "Poison Tincture": {
+                "x1": ["1", "3"]
             }
         }
     },
-    "Removed": {
-        "Vials": {
-            "Stache Stew": {
-                "x1": "1",
-                "x2": "0",
-                "func": "add",
-                "description": "+{%_Mining_Efficiency.",
-                "requirements": [
-                    ["Void", "L"],
-                    ["Liquid2", "L"]
-                ]
-            }
-        }
-    }
+    "New": {},
+    "Removed": {}
 }

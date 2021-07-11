@@ -1,21 +1,11 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Talent==
-{{patchnote/head|changed=Barbarian}}
+{{patchnote/head|changed=Mage}}
 |-
-|'''Worming Undercover'''
-{{patchnote|Description|{% chance to wake the sleeper agent worm within the fish, letting you instantly catch|{% chance}}
-{{patchnote|X1|9.3|to}}
-{{patchnote|X2|.7|wake the sleeper agent worm within the fish, letting you instantly catch}}
-{{patchnote|FuncX|bigBase|9.3}}
+|'''Leaf Thief'''
+{{patchnote|Description|{% Choppin Efficiency per power of 10 Leaves in your Storage Chest.|{% Choppin Efficiency per power of 10 Grass Leaves in your Storage Chest.}}
 |}
 
 </div><div style = "flex:50%;"> 
 ==New Talent==
-{{patchnote/head|changed=Barbarian}}
-|-
-|'''Worming Undercover'''
-{{patchnote|Y1| |.7}}
-{{patchnote|Y2| |bigBase}}
-|}
-
 </div></div>

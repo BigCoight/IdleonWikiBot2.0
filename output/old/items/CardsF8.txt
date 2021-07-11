@@ -2,11 +2,11 @@
 |title=Mosquisnow
 |order=10
 |category=Hard Resources
-|effect=+{% Total Catching Efficiency
+|effect=+% Total Catching Efficiency
 |bonus=7
 |reqtier=10
 |source=[[Catching#Drops|Catching Mosquisnow]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00014|1}}
+{{detdrops|[[Catching#Drops|Catching Mosquisnow]]|0.00025|1}}
 |}

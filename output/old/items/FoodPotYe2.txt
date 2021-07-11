@@ -1,16 +1,17 @@
 {{InfoItem
 |type=Boost Food
-|description=Increases Main Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
+|description=Increases Exp Gain by 10% 8% chance to be consumed every time you defeat a monster. Must be equipped in a Food Slot to give its bonus.
 |sellprice=250
 |source=[[Post Office#Dudes Next Door|Dudes Next Door]], [[DropTable16]], [[Alchemy#Level up Gift|Level up Gift]], [[Guild Giftbox]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Dedotated Ram]]|0.000004000000000000001|25.0}}
+{{detdrops|[[Crystal Cattle]]|0.04000000000000001|25.0}}
+{{detdrops|[[Dedotated Ram]]|0.00034|25.0}}
 {{detdrops|[[Quenchie]]|0.00025|25.0}}
 {{detdrops|[[Cryosnake]]|0.00028000000000000003|25.0}}
 {{detdrops|[[Bop Box]]|0.00030000000000000003|25.0}}
 {{detdrops|[[Neyeptune]]|0.00032|25.0}}
-{{detdrops|[[Bloodbone]]|0.000004000000000000001|25.0}}
-{{detdrops|[[Frostbite Golden Chest]]|0.1|25.0}}
+{{detdrops|[[Bloodbone]]|0.0005|25.0}}
+{{detdrops|[[Chillsnap Golden Chest]]|0.1|25.0}}
 |}

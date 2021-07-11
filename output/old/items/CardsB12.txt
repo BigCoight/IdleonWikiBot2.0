@@ -2,11 +2,11 @@
 |title=Dig Doug
 |order=11
 |category=Yum Yum Desert
-|effect=+{ Base LUK
+|effect=+ Base LUK
 |bonus=6
 |reqtier=10
 |source=[[Dig Doug]]
 }}
 {{detdrops/head}}
-{{detdrops|[[Dig Doug]]|0.10|1}}
+{{detdrops|[[Dig Doug]]|0.04|1}}
 |}

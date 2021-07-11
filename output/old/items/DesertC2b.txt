@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Moonmoon]]|0.00005|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Dootjat Eye]]|1|Crafting}}
-|}

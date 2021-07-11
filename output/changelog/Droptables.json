@@ -1,37 +1,85 @@
 {
     "Changes": {
         "DropTable14": {
-            "2": [
-                ["EhExPee Statue", ".05", "15", "N/A"],
-                ["Distilled Water", ".022", "1", "N/A"]
+            "0": [
+                ["Book Stamp", "0.0004", "1", "N/A"],
+                "Removed"
             ],
-            "3": [
+            "5": [
                 " ",
-                ["EhExPee Statue", ".05", "1", "N/A"]
+                ["Cloudsound Follower", "0.5", "8", "Mutton4"]
+            ],
+            "6": [
+                " ",
+                ["Corporatube Sub", "0.2", "3", "Mutton4"]
             ]
         },
-        "DropTable16": {
-            "1": [
-                ["Blover Stamp", ".00008", "15", "N/A"],
-                ["Blover Stamp", ".00008", "1", "N/A"]
-            ],
-            "2": [
+        "DropTable4": {
+            "5": [
                 " ",
-                ["Distilled Water", ".027", "1", "N/A"]
+                ["Book Stamp", "0.00015", "1", "N/A"]
+            ]
+        },
+        "DropTable6": {
+            "6": [
+                " ",
+                ["Cloudsound Follower", "0.5", "7", "Mutton4"]
+            ],
+            "7": [
+                " ",
+                ["Instablab Follower", "0.3", "3", "Mutton4"]
+            ]
+        },
+        "DropTable7": {
+            "5": [
+                " ",
+                ["Cloudsound Follower", "0.5", "8", "Mutton4"]
+            ],
+            "6": [
+                " ",
+                ["Instablab Follower", "0.3", "3", "Mutton4"]
+            ]
+        },
+        "DropTable8": {
+            "4": [
+                " ",
+                ["Cloudsound Follower", "0.5", "8", "Mutton4"]
+            ],
+            "5": [
+                " ",
+                ["Instablab Follower", "0.3", "3", "Mutton4"]
+            ]
+        },
+        "DropTable11": {
+            "0": [
+                " ",
+                ["Twisty Leaf", ".5", "4", "N/A"]
             ]
         },
         "DropTable15": {
+            "5": [
+                " ",
+                ["Cloudsound Follower", "0.5", "9", "Mutton4"]
+            ],
+            "6": [
+                " ",
+                ["Corporatube Sub", "0.2", "3", "Mutton4"]
+            ]
+        },
+        "DropTable16": {
+            "5": [
+                " ",
+                ["Cloudsound Follower", "0.5", "10", "Mutton4"]
+            ],
+            "6": [
+                " ",
+                ["Corporatube Sub", "0.2", "3", "Mutton4"]
+            ]
+        },
+        "DropTable17": {
             "0": [
-                ["EhExPee Statue", ".04", "14", "N/A"],
-                "Removed"
-            ],
-            "2": [
                 " ",
-                ["Distilled Water", ".025", "1", "N/A"]
-            ],
-            "4": [
-                " ",
-                ["EhExPee Statue", ".04", "1", "N/A"]
+                ["Arctic Leaf", ".5", "3", "N/A"]
             ]
         }
     },

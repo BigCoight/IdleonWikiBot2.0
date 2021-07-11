@@ -5,6 +5,3 @@
 |sellprice=1
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Loveulyte#Heart Hogger|Heart Hogger]]|25|Quests}}
-|}

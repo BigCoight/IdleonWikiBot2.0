@@ -9,14 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|65}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Copper Netted Net]]|400|Crafting}}
-{{usedin/row|[[Cramped Bug Pouch]]|180|Crafting}}
-{{usedin/row|[[Gold Helmet]]|2000|Crafting}}
-{{usedin/row|[[Bullet]]|10|Crafting}}
-{{usedin/row|[[Bandito Boots]]|2000|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Power Cauldron|Wyoming Blood]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Droppin Loads]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Fly In My Drink]]|Lots|Alchemy}}
-|}

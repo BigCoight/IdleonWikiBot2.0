@@ -17,6 +17,3 @@
 {{detdrops|[[Baba Yaga]]|0.25|5.0}}
 {{detdrops|[[Dewdrop Golden Chest]]|0.25|10.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Djonnut#Genie Dieting|Genie Dieting]]|500|Quests}}
-|}

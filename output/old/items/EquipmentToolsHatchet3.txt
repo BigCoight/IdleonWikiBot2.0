@@ -3,12 +3,13 @@
 |level=8
 |skill=choppin
 |type=Hatchet
+|speed=3
 |skillpower=7
 |agi=1
 |wis=3
 |upgrade=2
 |sellprice=196
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,14 +17,11 @@
 |craftnum=11
 |levelreq=4
 |expgiven=10
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=13
 |resource2=Oak Logs|quantity2=30
 |resource3=Thread|quantity3=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Hamish#The Hamazing Plot Twist|The Hamazing Plot Twist]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|13}}

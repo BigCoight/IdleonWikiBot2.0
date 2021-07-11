@@ -1,15 +1,7 @@
 {{InfoItem
 |type=Soul
-|description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
+|description=Well, his mom did warn him if that he kept making funny faces that it'd freeze that way!
 |sellprice=35
 |source=[[Worship]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Grey Gatsby]]|50000|Crafting}}
-{{usedin/row|[[Manifested Skull]]|50000|Crafting}}
-{{usedin/row|[[Large Soul Pouch]]|30000|Crafting}}
-{{usedin/row|[[Anvil Tab 4]]|22|Crafting}}
-{{usedin/row|[[Alchemy#Power Cauldron|Orange Bargain]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Slowergy Drink]]|Lots|Alchemy}}
-|}

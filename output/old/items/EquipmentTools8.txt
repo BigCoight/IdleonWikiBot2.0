@@ -1,8 +1,9 @@
 {{InfoItem
 |class=All
-|level=65
+|level=60
 |skill=mining
 |type=Pickaxe
+|speed=5
 |skillpower=28
 |str=22
 |agi=7

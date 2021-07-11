@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Aquarius
-|mmm=Irwin
-|birthweight=9.24
+|starsign=Capricorn
+|mmm=Miller
+|birthweight=1.46
 |notes=fillme
 }}
 {{Quest/head}}

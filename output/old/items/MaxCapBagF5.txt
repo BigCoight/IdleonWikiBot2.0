@@ -1,24 +1,20 @@
 {{InfoItem
 |type=Carry Bag
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 1000: Health Food, Boost Food, Golden Food.
-|sellprice=427660
-|source=[[Smithing]]
-|notes= 
+|sellprice=2522540
+|source=[[Smithing]], Recipe from Start
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 3
 |craftnum=23
 |levelreq=39
 |expgiven=100000
-|recipefrom=
+|recipefrom=Start
 |resource1=Slurpin Herm|quantity1=1500
 |resource2=Buttered Toasted Butter|quantity2=1500
 |resource3=Yeti Ham|quantity3=10000
 |resource4=Sizable Food Pouch|quantity4=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Large Food Pouch]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slurpin Herm|1500}}
@@ -30,7 +26,7 @@
 {{detrecipe|3|Yeti Ham|10000}}
 {{detrecipe|3|Sizable Food Pouch|2}}
 {{detrecipe|40|Golden Meat Pie|18}}
-{{detrecipe|40|Nuget Cake|12}}
+{{detrecipe|40|Nuget Cake|8}}
 {{detrecipe|40|Average Food Pouch|4}}
 {{detrecipe|80|Cramped Food Pouch|28}}
 {{detrecipe|120|Nomwich|2100}}
@@ -45,16 +41,20 @@
 {{detrecipe|120|Jungle Logs|14400}}
 {{detrecipe|120|Small Life Potion|7200}}
 |tot=
+{{detrecipe/totals|Yeti Ham|10000}}
 {{detrecipe/totals|Hermit Can|7500}}
 {{detrecipe/totals|Average Strength Potion|3000}}
 {{detrecipe/totals|Butterfly|7500}}
 {{detrecipe/totals|Kebab Sticks|1500}}
 {{detrecipe/totals|Golden Meat Pie|18}}
-{{detrecipe/totals|Nuget Cake|12}}
+{{detrecipe/totals|Nuget Cake|8}}
+{{detrecipe/totals|Meat Pie|1000}}
 {{detrecipe/totals|Nomwich|2100}}
 {{detrecipe/totals|Hot Dog|700}}
 {{detrecipe/totals|Oak Logs|1680}}
 {{detrecipe/totals|Copper Bar|420}}
 {{detrecipe/totals|Iron Ore|12000}}
 {{detrecipe/totals|Small Mana Potion|4800}}
+{{detrecipe/totals|Jungle Logs|14400}}
+{{detrecipe/totals|Small Life Potion|7200}}
 }}

@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Tyson|Sand Giant}}
+{{DropTable/head}}
 {{DropTable/coin|125|0.35}}
 {{DropTable/row|Wakka Cherry|0.165|1}}
 {{DropTable/row|Ghost|0.00005|1}}

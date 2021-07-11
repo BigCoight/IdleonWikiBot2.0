@@ -10,6 +10,3 @@
 {{detdrops|[[Chaotic Amarok]]|0.10|3}}
 {{detdrops|[[Nightmare Amarok]]|0.05|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]]|1|Quests}}
-|}

@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
 |starsign=Sagittarius
-|mmm=Aikin
-|birthweight=8.62
+|mmm=Linde
+|birthweight=5.89
 |notes=fillme
 }}
 {{Quest/head}}

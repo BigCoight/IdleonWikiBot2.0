@@ -9,7 +9,7 @@
 |upgrade=2
 |defence=2
 |sellprice=875
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,14 +17,9 @@
 |craftnum=20
 |levelreq=10
 |expgiven=110
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=125
 }}
-{{usedin/head}}
-{{usedin/row|[[Iron Boots]]|2|Crafting}}
-{{usedin/row|[[Goo Galoshes]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|125}}

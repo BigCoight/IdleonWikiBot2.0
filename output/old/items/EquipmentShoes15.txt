@@ -21,12 +21,6 @@
 |resource2=Iron Bar|quantity2=125
 |resource3=Copper Boots|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Amarok Paws]]|1|Crafting}}
-{{usedin/row|[[Gold Boots]]|2|Crafting}}
-{{usedin/row|[[Sprout#Shoe Shopping with Sprout|Shoe Shopping with Sprout]]|2|Quests}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Trusty Nails|500}}

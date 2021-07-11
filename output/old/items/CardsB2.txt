@@ -2,7 +2,7 @@
 |title=Mimic
 |order=1
 |category=Yum Yum Desert
-|effect=+{% Total Drop Rate
+|effect=+% Total Drop Rate
 |bonus=3
 |reqtier=10
 |source=[[Mimic]]

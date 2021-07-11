@@ -8,7 +8,7 @@
 |misc=2% Movement Speed
 |upgrade=6
 |defence=18
-|sellprice=550345
+|sellprice=460345
 |source=[[Smithing]]
 |notes= 
 }}
@@ -27,8 +27,8 @@
 {{detrecipe|3|Ripped Tunic|5}}
 {{detrecipe|3|Nuget Cake|3}}
 {{detrecipe|3|Platinum Boots|1}}
-{{detrecipe|40|Tropilogs|8000}}
-{{detrecipe|40|Jellyfish|8000}}
+{{detrecipe|40|Tropilogs|7000}}
+{{detrecipe|40|Jellyfish|3000}}
 {{detrecipe|40|Gold Boots|3}}
 {{detrecipe|80|Gold Bar|1800}}
 {{detrecipe|80|Iron Boots|6}}
@@ -40,11 +40,11 @@
 |tot=
 {{detrecipe/totals|Ripped Tunic|5}}
 {{detrecipe/totals|Nuget Cake|3}}
-{{detrecipe/totals|Tropilogs|8000}}
-{{detrecipe/totals|Jellyfish|8000}}
+{{detrecipe/totals|Tropilogs|7000}}
+{{detrecipe/totals|Jellyfish|3000}}
 {{detrecipe/totals|Gold Bar|1800}}
+{{detrecipe/totals|Distilled Water|12}}
 {{detrecipe/totals|Trusty Nails|3000}}
 {{detrecipe/totals|Iron Bar|750}}
 {{detrecipe/totals|Copper Bar|1500}}
-{{detrecipe/totals|Distilled Water|12}}
 }}

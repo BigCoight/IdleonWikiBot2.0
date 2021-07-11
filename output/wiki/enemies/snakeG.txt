@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Slime|Carrotman}}
+{{DropTable/head}}
 {{DropTable/coin|11|0.43}}
 {{DropTable/row|Snake Skin|0.18|1}}
 {{DropTable/card|0.000094}}

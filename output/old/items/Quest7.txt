@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Baby Boa]]|0.2|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Stiltzcho#No Stone Unturned|No Stone Unturned]]|5|Quests}}
-|}

@@ -7,6 +7,7 @@
 |str=1
 |sellprice=3
 |rarity=Silver
-|source=[[Alchemy#Liquid Shop|Decent Obols]]
+|source=[[Alchemy#Liquid Shop|Decent Obols]], [[Gem Shop#Quality Obol Stack|Quality Obol Stack]]
 |notes= 
+|family=Mining
 }}

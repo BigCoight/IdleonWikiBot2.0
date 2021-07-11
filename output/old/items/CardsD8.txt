@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Tundra Logs
-|order=9
-|category=Medium Resources
-|effect=+{% Choppin Away Gains
+|order=8
+|category=Hard Resources
+|effect=+% Choppin Away Gains
 |bonus=2.5
 |reqtier=10
 |source=[[Choppin#Drops|Choppin Saharan Foal]]

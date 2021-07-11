@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+  Trappin Power
 |description=It's more of an open container than a box, really.
 |sellprice=10
 |source=[[Sheepie]], [[Penguin]]

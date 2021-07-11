@@ -520,7 +520,7 @@
                 "difficulty": "1",
                 "name": "Gear Up, Gamer!",
                 "questText": "Buy some Tape from the Shop and then make some gloves",
-                "notes": "If you've accidentally sold the [[File:Crimson_String.png|36px]] [[Crimson String]], you can reclaim it from the quest codex."
+                "notes": "If you've accidentally sold the {{CraftReq|Crimson String}}, you can reclaim it from the quest codex."
             },
             "Mr. Worldwide": {
                 "rewards": [
@@ -612,7 +612,7 @@
                 "difficulty": "5",
                 "name": "Seeking Foreign Aid",
                 "questText": "Get a scouting report from the Jungle resident.",
-                "notes": "There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (quest)]] item for this."
+                "notes": "There are '''TWO''' {{CraftReq|Golden Jam}} items. You want the [[Golden Jam (Quest)]] item for this."
             },
             "What Lies at the Heart of the Forest": {
                 "rewards": [
@@ -1239,7 +1239,8 @@
                 ],
                 "requirements": [
                     "Teacup_Retrieved: >= 1. Starting at 0.",
-                    "Tea_Temperature: >= 100. Starting at 300."
+                    "Tea_Temperature: >= 100. Starting at 300.",
+                    "Dont_Teleport:___ >= 1. Starting at 1."
                 ],
                 "consumed": "Yes",
                 "dialogueText": "I could really go for a spot of tea but some jar of sand fell in love with my teacup the stupid thing! He took it and ran deep into the Jungle. ",
@@ -1813,7 +1814,7 @@
                     ["COIN", "777"]
                 ],
                 "requirements": [
-                    ["Peanut", "100"]
+                    ["Peanut", "50"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "PLEZ I WANT MOAR PEANUT!",
@@ -1827,13 +1828,13 @@
                     ["COIN", "1500"]
                 ],
                 "requirements": [
-                    ["Peanut", "250"]
+                    ["Peanut", "200"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "MOAR PEANUT MOAR PEANUT!!",
                 "difficulty": "2",
                 "name": "Honk if you Love Peanuts!",
-                "notes": ""
+                "notes": "Drop the {{CraftReq|Stone Peanut}} at the [[Rocklyte]] to start the final part of the questline."
             },
             "A Peanut Saved is a Peanut not Eaten!": {
                 "rewards": [
@@ -1842,13 +1843,13 @@
                     ["COIN", "2500"]
                 ],
                 "requirements": [
-                    ["Peanut", "700"]
+                    ["Peanut", "400"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "MOOOOOAAAAAARRRRR!!!",
                 "difficulty": "3",
                 "name": "A Peanut Saved is a Peanut not Eaten!",
-                "notes": "Drop the {{CraftReq|Stone Peanut}} at the [[Rocklyte]] to start the final part of the questline."
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -1910,10 +1911,10 @@
                     ["Class;Experience", "5000"]
                 ],
                 "requirements": [
-                    ["Peanut", "1000"]
+                    ["Peanut", "500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "U NEVER MAKE SHINY PEANUT? BRING ME 1000 PEANUT AND I SHOW U HOW.",
+                "dialogueText": "U NEVER MAKE SHINY PEANUT? BRING ME 500 PEANUT AND I SHOW U HOW.",
                 "difficulty": "3",
                 "name": "How It's Made, Episode 7. The Super Peanut",
                 "notes": "Drop the {{CraftReq|Stone Peanut}} at the rock on the bottom right side of Froggy Fields"
@@ -1930,7 +1931,7 @@
                 "dialogueText": "GO MAKE ME A MILLION BILLION SHINY PEANUTS AND I WILL HELP! ... THAT TOO MANY? OKEY JUST MAKE 5!",
                 "difficulty": "4",
                 "name": "If Life Gives you Peanuts, make Shiny Peanuts!",
-                "notes": ""
+                "notes": "This quest can only be completed by a beginner (no class chosen)"
             },
             "Becoming the Best Beginner": {
                 "rewards": [
@@ -1942,7 +1943,7 @@
                 "dialogueText": " ",
                 "difficulty": "1",
                 "name": "Becoming the Best Beginner",
-                "notes": "This quest can only be completed by a beginner (no class chosen)"
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -1953,7 +1954,7 @@
                 "text": "U WANT TO JOIN CLUB? BE BEST BEGINNER? YEEE THAT IS GOOD! BUT I WANT SHINY PEANUT FIRST!"
             },
             {
-                "text": "U NEVER MAKE SHINY PEANUT? BRING ME 1000 PEANUT AND I SHOW U HOW.",
+                "text": "U NEVER MAKE SHINY PEANUT? BRING ME 500 PEANUT AND I SHOW U HOW.",
                 "associated": "How It's Made, Episode 7. The Super Peanut"
             },
             {
@@ -1985,19 +1986,126 @@
         ]
     },
     "Cactolyte": {
-        "Quests": {},
+        "Quests": {
+            "Super Skillage": {
+                "rewards": [
+                    ["Gem", "50"],
+                    ["12 HR Time Candy", "4"]
+                ],
+                "requirements": [
+                    "Mining_Lv >= 32. Starting at 0.",
+                    "Smithing_Lv: >= 35. Starting at 0.",
+                    "Choppin'_Lv: >= 33. Starting at 0."
+                ],
+                "consumed": "No",
+                "dialogueText": "ROCK BUSTING HAMMER HITTING AND THE TREE THINGY! THEY ARE SOME SKILLS YOU NEED! ",
+                "difficulty": "4",
+                "name": "Super Skillage",
+                "questText": "Get the required skill levels in Mining Smithing and Choppin to impress Cactolyte club member!",
+                "notes": "Get this quest by dropping a {{CraftReq|Bag o Nuts}} on the cactus in Djonnuttown."
+            },
+            "Top Skillage": {
+                "rewards": [
+                    ["24 HR Time Candy", "1"]
+                ],
+                "requirements": [
+                    "Fishing_Lv >= 23. Starting at 0.",
+                    "Alchemy: >= 25. Starting at 0.",
+                    "Catching_Lv: >= 25. Starting at 0."
+                ],
+                "consumed": "No",
+                "dialogueText": "OCEAN MURDER WATER STIRRING AND THE BUGGY ONE! THEY ARE THE OTHER SKILLS YOU NEED! ",
+                "difficulty": "6",
+                "name": "Top Skillage",
+                "questText": "Get the required skill levels in Fishing Alchemy and Catching to impress Cactolyte club member!",
+                "notes": " "
+            },
+            "Peanut De-Aging": {
+                "rewards": [
+                    ["Medium Experience Balloon", "20"],
+                    ["Medium Experience Balloon", "10"],
+                    ["Large Experience Balloon", "5"]
+                ],
+                "requirements": [
+                    ["Pete the Peanut", "1"]
+                ],
+                "consumed": "Yes",
+                "dialogueText": "I HAVE A PEANUT IT IS VERY OLD. IT WAS MY FIRST PEANUT... IT IS MY BEST FRIEND!! IT WILL DECAY TO DUST SOON PLEASE MAKE IT BETTER! ",
+                "difficulty": "5",
+                "name": "Peanut De-Aging",
+                "questText": "Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!",
+                "notes": "You need at least 594 defense to take 0 damage from Biggie Hours. Defeating him outside the colosseum using Googley Eyes also grants quest completion."
+            },
+            "Maestro! The Stro! Mman!": {
+                "rewards": [
+                    ["Club Maestro", "1"]
+                ],
+                "requirements": ["Become_a_Maestro: >= 1. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": " ",
+                "difficulty": "1",
+                "name": "Maestro! The Stro! Mman!",
+                "notes": " "
+            }
+        },
         "Dialogue": [
             {
-                "text": "PEANUT!!! YEEE!"
+                "text": "PEANUTS!!! ENTIRE BAG TOO YEE!!"
             },
             {
-                "text": "VERY HYPE TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDINING ME!"
+                "text": "VERY COOL TO SEE A CLUB MEMBER MANY RAGEQUIT BEFORE FINDING ME!"
             },
             {
                 "text": "I AM MAESTRO MEMBER CACTOLYTE! I AM NEXT STEP TO YOU BECOMING THE BESTEST BEGINNER TO EVER BEGIN EVER!!!"
             },
             {
-                "text": "AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSE--- @ Yea well tough luck! Lava here that class aint done yet! I'll hopefully have it out same time I get world 3 out though maybe late february?"
+                "text": "AS LONG AS LAVA DOESNT INTERRUPT ME I CAN GIVE YOU QUEST TO BECOME A MAESTRO CLASS YOURSELF!... @ ... ALRIGHT NICE! LAVAS NOT AROUND LETS DO THIS!"
+            },
+            {
+                "text": "I AM UNDER STRICT ORDERS FROM CLUB LEADER HE TELL ME TO ONLY RANK UP PEEPLE WHO ARE TOP SKILLAGE!"
+            },
+            {
+                "text": "ROCK BUSTING HAMMER HITTING AND THE TREE THINGY! THEY ARE SOME SKILLS YOU NEED! @ QUEST:Get the required skill levels in Mining Smithing and Choppin to impress Cactolyte club member!",
+                "associated": "Super Skillage"
+            },
+            {
+                "text": "NO INVENTORY SPACE! NO PLS FIX!"
+            },
+            {
+                "text": "SWEET SKILLAGE! BUT THATS NO TOP SKILLAGE YOU ARE NOT READY JUST YET!"
+            },
+            {
+                "text": "OCEAN MURDER WATER STIRRING AND THE BUGGY ONE! THEY ARE THE OTHER SKILLS YOU NEED! @ QUEST:Get the required skill levels in Fishing Alchemy and Catching to impress Cactolyte club member!",
+                "associated": "Top Skillage"
+            },
+            {
+                "text": "NO INVENTORY SPACE! NO PLS FIX!"
+            },
+            {
+                "text": "WOWOWOW!!! OK WOW! THATS SOME SUPER SKILLAGE! BUT I AM VERY SAD TOO SAD TO GIVE YOU NEW CLASS MEMBERSHIP. @ UNLESS... COULD YOU HELP ME?"
+            },
+            {
+                "text": "I HAVE A PEANUT IT IS VERY OLD. IT WAS MY FIRST PEANUT... IT IS MY BEST FRIEND!! IT WILL DECAY TO DUST SOON PLEASE MAKE IT BETTER! @ QUEST:Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!",
+                "associated": "Peanut De-Aging"
+            },
+            {
+                "text": "NO INVENTORY SPACE! NO PLS FIX!"
+            },
+            {
+                "text": "PETE!!! YAYYYYYY!!! OMG PETE YOU LOOK GOOD! @ ... GOOD ENOUGH TO EAT! @ NOM!!!!"
+            },
+            {
+                "text": "D: @ PETE NOOOO!!!!!! I DIDNT MEAN IT I DIDNT MEAN IT!!"
+            },
+            {
+                "text": " ",
+                "associated": "Maestro! The Stro! Mman!"
+            },
+            {
+                "text": "UR BAG IS FULL! I NEED TO GIVE U NEW RANK TROPHY MAKE ROOM!"
+            },
+            {
+                "text": "OH WELL AT LEAST PETE WAS TASTY! OH HEY YOURE A MAESTRO NOW COOL!!!"
             }
         ]
     },
@@ -2237,13 +2345,13 @@
                     ["Class;Experience", "3000"],
                     ["COIN", "1250"]
                 ],
-                "requirements": ["Choppin_Score: >= 42. Starting at 0."],
+                "requirements": ["Choppin_Score: >= 35. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! ",
+                "dialogueText": "You ever played that choppin' minigame? Everyone around here loooves that game you'd get mad respect from having a siiiick score to brag about! ",
                 "difficulty": "3",
                 "name": "Videogame Highscores are COOL!",
-                "questText": "Get a score of 42 in the Choppin Minigame.",
-                "notes": ""
+                "questText": "Get a score of 35 in the Choppin Minigame.",
+                "notes": "Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again."
             },
             "Partycrastination": {
                 "rewards": [
@@ -2258,7 +2366,7 @@
                 "difficulty": "6",
                 "name": "Partycrastination",
                 "questText": "Wait until the party starts.",
-                "notes": ""
+                "notes": " "
             },
             "Party Crashin'": {
                 "rewards": [
@@ -2275,7 +2383,7 @@
                 "difficulty": "4",
                 "name": "Party Crashin'",
                 "questText": "Go on then party!",
-                "notes": "Kill the 35 spawned monsters. If you left the area before killing all 35 monsters, forfeit and re-accept the quest to spawn them again."
+                "notes": " "
             },
             "Wicked Party Cleanup": {
                 "rewards": [
@@ -2290,7 +2398,7 @@
                 "difficulty": "5",
                 "name": "Wicked Party Cleanup",
                 "questText": "Get toilet paper to help clean.",
-                "notes": ""
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -2314,7 +2422,7 @@
                 "text": "Soooo... you're kiiiiinda my plus one for this shindig my guy so my reps ridin' on you being a toooootally chillin guy. You look heckin' skilled so lets roll with that..."
             },
             {
-                "text": "You ever played that choppin' minigame? Everyone around here loooves that game I bet you'd get mad respect if you had a siiiick score to brag about! @ QUEST:Get a score of 42 in the Choppin Minigame.",
+                "text": "You ever played that choppin' minigame? Everyone around here loooves that game you'd get mad respect from having a siiiick score to brag about! @ QUEST:Get a score of 35 in the Choppin Minigame.",
                 "associated": "Videogame Highscores are COOL!"
             },
             {
@@ -2376,7 +2484,8 @@
                 ],
                 "requirements": [
                     "Rich_Guy_Invited: >= 1. Starting at 0.",
-                    "Happy_Guy_Invited: >= 1. Starting at 0."
+                    "Happy_Guy_Invited: >= 1. Starting at 0.",
+                    "Tough_Guy_Invited: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
                 "dialogueText": "Invite someone rich to help with business someone whose totally chillin' to serve as a party starter and someone tough as a rock to sit at the front desk and not get triggered by entitled moms! ",
@@ -2385,7 +2494,7 @@
                 "questText": "Hand out flyers by dropping them on the right NPCs",
                 "notes": "Drop the quest item in front of [[Krunk]], [[Funguy]] and [[Mr Pigibank]]"
             },
-            "Blame it on the Goblins": {
+            "Blame it on the Glublins": {
                 "rewards": [
                     ["Medium Experience Balloon", "1"],
                     ["Class;Experience", "25000"]
@@ -2397,7 +2506,7 @@
                 "consumed": "No",
                 "dialogueText": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! ",
                 "difficulty": "4",
-                "name": "Blame it on the Goblins",
+                "name": "Blame it on the Glublins",
                 "questText": "Clear out some Goblins and totally invite everyone again!",
                 "notes": ""
             },
@@ -2457,7 +2566,7 @@
             },
             {
                 "text": "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! @ QUEST:Clear out some Goblins and totally invite everyone again!",
-                "associated": "Blame it on the Goblins"
+                "associated": "Blame it on the Glublins"
             },
             {
                 "text": "Clear some inventory space so I can give you your rewards."
@@ -2480,7 +2589,7 @@
             }
         ]
     },
-    "Dog Bone": {
+    "Dog Bone (NPC)": {
         "Quests": {
             "Why he Die???": {
                 "rewards": [
@@ -2494,7 +2603,7 @@
                 "difficulty": "2",
                 "name": "Why he Die???",
                 "questText": "Defeat Board Monsters below until you find out how ghostie here died",
-                "notes": " "
+                "notes": "Complete this quest to earn daily keys."
             },
             "Bow Wow going Dow..n!": {
                 "rewards": [
@@ -2509,7 +2618,7 @@
                 "difficulty": "3",
                 "name": "Bow Wow going Dow..n!",
                 "questText": "Bring some stones back from Amarok to show to Dog Bone as a token of his revenge.",
-                "notes": " "
+                "notes": "This token is not reclaimable."
             }
         },
         "Dialogue": [
@@ -2561,10 +2670,13 @@
                 "associated": "Bow Wow going Dow..n!"
             },
             {
-                "text": "Look I'm not actually over the whole 'dying' thing and it's been terribly annoying to continually help promote that darn boss monster especially since they were the one who ate me!"
+                "text": "You need 2 inventory spaces!"
             },
             {
-                "text": "Ah are those from the boss? @ I mean they're cool and all but to be honest I'm sad I got eaten. Well thanks for helping anyway."
+                "text": "Ah are those from the boss? @ I mean they're cool and all but to be honest I'm still sad I got eaten those rocks don't really help anything. Well thanks for helping anyway."
+            },
+            {
+                "text": "Keys... I think I gooOOooot some oooOOooon me somewhere lemme check."
             }
         ]
     },
@@ -3024,11 +3136,25 @@
                     ["Butterfly", "1500"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. ",
+                "dialogueText": "You haven't gotten past this map yet either? Oh... Anyway can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. ",
                 "difficulty": "3",
                 "name": "'Accidental' Exploit",
                 "questText": "Catch some Butterflies.",
-                "notes": ""
+                "notes": " "
+            },
+            "Can you do the Can Can?": {
+                "rewards": [
+                    ["Fishpaste Token", "1"],
+                    ["One Pound of Feathers", "1"],
+                    ["Talent S Stamp", "1"]
+                ],
+                "requirements": ["Cans_In-a-row: >= 3. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "Cmon it's not weird try it yourself! ",
+                "difficulty": "4",
+                "name": "Can you do the Can Can?",
+                "questText": "Catch 3 Hermit Cans in a row manually.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3042,14 +3168,33 @@
                 "text": "So whatcha doin' out here? You know any cool fishing places for a pro like me?"
             },
             {
-                "text": "You haven't gotten past this map yet either? Oh... Hey can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.",
+                "text": "You haven't gotten past this map yet either? Oh... Anyway can you get me some Butterflies while I'm training? I haven't made a Bowman yet so I cant catch much. @ QUEST:Catch some Butterflies.",
                 "associated": "'Accidental' Exploit"
             },
             {
                 "text": "Full inventory gamer buddy! Please clear 2 inventory spaces and come talk to me again!"
             },
             {
-                "text": "Cool thanks a million! I'd add you as a friend but my friendslist is full sorry! @ Return Next Update!"
+                "text": "Cool thanks a million! I'd add you as a friend but my friendslist is full sorry!"
+            },
+            {
+                "text": "Hey have you ever like tried to come up with your own thingies to do while fishing?"
+            },
+            {
+                "text": "Like um... one thing I do is I try to catch a certain fish a bunch in a row just to make the grind less boring."
+            },
+            {
+                "text": "Cmon it's not weird try it yourself! @ QUEST:Catch 3 Hermit Cans in a row manually.",
+                "associated": "Can you do the Can Can?"
+            },
+            {
+                "text": "Full inventory gamer buddy! Please clear 2 inventory spaces and come talk to me again!"
+            },
+            {
+                "text": "Ok wow that was actually super lame... huh... guess you don't really notice how weird the things you do really are."
+            },
+            {
+                "text": "Shh I'm playing the minigame!!! Triple whale here I come!"
             }
         ]
     },
@@ -3071,7 +3216,7 @@
                 "difficulty": "2",
                 "name": "Don't Step to Me, Bro!",
                 "questText": "Show him there are no water monters.",
-                "notes": ""
+                "notes": "A [[Barbarian]] with the Worming Undercover talent makes this quest easy. Non-Barbarians should equip Fishing boost food."
             },
             "Uncovering the Deep Sea State!!!": {
                 "rewards": [
@@ -3079,15 +3224,30 @@
                     ["Tool Upgrade Stone II", "2"]
                 ],
                 "requirements": [
-                    "Fish_Caught: >= 7. Starting at 0.",
+                    "Fish_Caught: >= 5. Starting at 0.",
                     "Time_Left: >= 1. Starting at 121."
                 ],
                 "consumed": "No",
                 "dialogueText": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! ",
                 "difficulty": "3",
                 "name": "Uncovering the Deep Sea State!!!",
-                "questText": "Catch 7 fish in 2 minutes right here right now.",
-                "notes": "A [[Barbarian]] with the Worming Undercover talent is required to catch enough fish in time."
+                "questText": "Catch 5 fish in 2 minutes right here right now.",
+                "notes": " "
+            },
+            "A Normal Quest.": {
+                "rewards": [
+                    ["Scubidew Token", "1"],
+                    ["Fishing;Experience", "10000"]
+                ],
+                "requirements": [
+                    ["Goldfish", "1"]
+                ],
+                "consumed": "Yes",
+                "dialogueText": "You would? Great! I have just the quest for you please get me 1 goldfish! ",
+                "difficulty": "1",
+                "name": "A Normal Quest.",
+                "questText": "He's much better this way. I can't have too many free thinkers not in this world not in its current state. Get him a fish.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3108,7 +3268,7 @@
                 "text": "Hey hey come on now bro that's heckin' fishy of you to just show up with these. You obviously just bought them at a fish market."
             },
             {
-                "text": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 7 fish in 2 minutes right here right now.",
+                "text": "If you actually went fishin' yourself youd' have been pulled in by a giant squid guarantee it! Go on prove me wrong betcha cant! @ QUEST:Catch 5 fish in 2 minutes right here right now.",
                 "associated": "Uncovering the Deep Sea State!!!"
             },
             {
@@ -3121,7 +3281,23 @@
                 "text": "Say... you're awfully insistant on convincing me that the ocean isn't full of monsters. @ I KNEW IT! You're in cahoots with BlueAnon who's trying to resurrect the one who shall not be named in a coup to take power from Lavaflame!"
             },
             {
-                "text": "Well I ain't lettin' you do it! I.. WAIT NO DON'T CUT OFF MY QUESTLINE I WAS JUST GETTING STAR-- @ Return Next Update!"
+                "text": "Well I ain't lettin' you do it! I.. WAIT NO RECODE ME TO BE A SUBSERVIENT PAWN LIKE ALL THE OTHER NPCS-- @ ... @ Greetings player! So nice to see you again!"
+            },
+            {
+                "text": "Such a lovely day out the water sure is shimmering it's brightest today! Would you like a quest?"
+            },
+            {
+                "text": "You would? Great! I have just the quest for you please get me 1 goldfish! @ QUEST:He's much better this way. I can't have too many free thinkers not in this world not in its current state. Get him a fish.",
+                "associated": "A Normal Quest."
+            },
+            {
+                "text": "My friend your inventory is full! Please clear some space and talk with me again!"
+            },
+            {
+                "text": "You did it! Congratulations! You're really good at this I'm impressed! We all are!"
+            },
+            {
+                "text": "Thank you so much for the fish it's perfect! A perfect fish from a perfect ocean caught by a perfect player! Have a wonderful day friend I'll see you later! @ Return at Lv. 200"
             }
         ]
     },
@@ -3141,7 +3317,7 @@
                 "difficulty": "1",
                 "name": "Mopey Dick",
                 "questText": "What are they looking at?",
-                "notes": ""
+                "notes": " "
             },
             "The Whaley Hard Minigame": {
                 "rewards": [
@@ -3155,7 +3331,35 @@
                 "difficulty": "3",
                 "name": "The Whaley Hard Minigame",
                 "questText": "They look even sadder now try doing something else...",
-                "notes": ""
+                "notes": " "
+            },
+            "Bobbin' Bobbers": {
+                "rewards": [
+                    ["Triple Threat", "1"],
+                    ["Whattso Token", "1"],
+                    ["Fishing;Experience", "8000"]
+                ],
+                "requirements": ["Fishing_Score_Total: >= 50. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "O",
+                "difficulty": "4",
+                "name": "Bobbin' Bobbers",
+                "questText": " @ QUEST",
+                "notes": " "
+            },
+            "The Biggest Fish in the Sea...?": {
+                "rewards": [
+                    ["Electrical Wiring", "1"],
+                    ["The Bobber Challenge Scroll", "1"],
+                    ["Fishing;Experience", "17500"]
+                ],
+                "requirements": ["Catch_the_Whale: >= 1. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "C",
+                "difficulty": "6",
+                "name": "The Biggest Fish in the Sea...?",
+                "questText": " @ QUEST",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3180,7 +3384,27 @@
                 "text": "`-` @  I think they want to give you something but you're out of inventory space."
             },
             {
-                "text": "T.T"
+                "text": "O:"
+            },
+            {
+                "text": "O: @ QUEST:Thats a good face I think! Do whatever you just did some more!",
+                "associated": "Bobbin' Bobbers"
+            },
+            {
+                "text": "`-` @  I think they want to give you something but you're out of inventory space."
+            },
+            {
+                "text": "C: @ "
+            },
+            {
+                "text": "C: @ QUEST:The whale stares at you. He's too happy. You know what must be done.",
+                "associated": "The Biggest Fish in the Sea...?"
+            },
+            {
+                "text": "`-` @  I think they want to give you something but you're out of inventory space."
+            },
+            {
+                "text": "D:"
             }
         ]
     },
@@ -3247,7 +3471,7 @@
                 "difficulty": "3",
                 "name": "Bullets for Bandit Bob!",
                 "questText": "Get ya boy Bob some bullets!",
-                "notes": ""
+                "notes": " "
             },
             "Bob's Brand New Bandana": {
                 "rewards": [
@@ -3262,7 +3486,7 @@
                 "difficulty": "2",
                 "name": "Bob's Brand New Bandana",
                 "questText": "Get Bob a yellow bandana even though it would ruin his style.",
-                "notes": ""
+                "notes": " "
             },
             "Bringing Bob's Boxes": {
                 "rewards": [
@@ -3275,7 +3499,21 @@
                 "difficulty": "3",
                 "name": "Bringing Bob's Boxes",
                 "questText": "Make some deliveries for Plan-It Experess over at the post office.",
-                "notes": ""
+                "notes": " "
+            },
+            "The Desert Dungeon Prequest": {
+                "rewards": [
+                    ["Bandit Bob Token", "1"]
+                ],
+                "requirements": [
+                    ["Sesame Seed", "1"]
+                ],
+                "consumed": "No",
+                "dialogueText": "Door wont open? You gotta find yourself one of them magic Sesame Seeds! They're a 1 in 100 drop from the mimics outside but only if you're actively farming! ",
+                "difficulty": "2",
+                "name": "The Desert Dungeon Prequest",
+                "questText": "Go get a Sesame Seed so you can play the party dungeon!",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3332,6 +3570,22 @@
             },
             {
                 "text": "My packages arrived! You did real great partner. Lemme take a gander at them there completed forms of yours the ones with your signature on them just to make sure everythin's here... @ Alrighty then! Here's that signed fan letter of yours!"
+            },
+            {
+                "text": "Say theres somethin' bout you... you really are the adventurous type definitely remindin' me of my younger self thats fer sure. @ Why don't you come on back at Class Lv. 42 theres somethin' you'll wanna see."
+            },
+            {
+                "text": "You see that weird door? That there's a Party Dungeon! I cant do it myself I'm retired from that sorta thing but it'd be perfect for you and your buddies!"
+            },
+            {
+                "text": "Door wont open? You gotta find yourself one of them magic Sesame Seeds! They're a 1 in 100 drop from the mimics outside but only if you're actively farming! @ QUEST:Go get a Sesame Seed so you can play the party dungeon!",
+                "associated": "The Desert Dungeon Prequest"
+            },
+            {
+                "text": "You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "Yep that's the seasme seed alright! Drop it at the door and go get some loot! @ NOTE FROM DEVELOPER: The party dungeon isn't quite ready yet but I'm working on it right now! It'll be full of monsters that you'll actually fight WITH your friends as well as puzzles and other fun things!"
             }
         ]
     },
@@ -3349,7 +3603,7 @@
                 "difficulty": "3",
                 "name": "Darn Lazy Gamers!",
                 "questText": "Kill 750 Potatos. Idle kills don't count.",
-                "notes": ""
+                "notes": "Load up your inventory with the necessary materials before accepting the quest, then craft the bullets and turn the quest in. If you open your storage while the quest is active, forfeit and start over."
             },
             "Old Timey Craftin'": {
                 "rewards": [
@@ -3362,10 +3616,10 @@
                     "Unopened_Chest: >= 1. Starting at 1."
                 ],
                 "consumed": "No",
-                "dialogueText": "It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
+                "dialogueText": "It's such a travesty what loser Lava'Lame'2 has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
                 "difficulty": "4",
                 "name": "Old Timey Craftin'",
-                "notes": ""
+                "notes": "Reclaim the [[Crimson String]] from your codex to craft a new pair of [[Boxing Gloves]]. Forfeit and start over if you need to respawn the monster."
             },
             "Be like Buster!": {
                 "rewards": [
@@ -3378,7 +3632,21 @@
                 "difficulty": "3",
                 "name": "Be like Buster!",
                 "questText": "Defeat the former Heavyweight Champ with Red Boxing Gloves equipped.",
-                "notes": ""
+                "notes": " "
+            },
+            "Helping 100 times over": {
+                "rewards": [
+                    ["Carpetiem Token", "1"],
+                    ["Iron Hook", "1"],
+                    ["Silver Twine", "1"]
+                ],
+                "requirements": ["Players_spoken_to: >= 30. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "Looky here I'm gettin' pretty old... and I'm startin' to regret spending so much time bitter toward that darn younger generation! Can ya tell help bridge the gap between us? ",
+                "difficulty": "2",
+                "name": "Helping 100 times over",
+                "questText": "Say 'The boomer aint so bad' to 30 different players.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3395,7 +3663,7 @@
                 "text": "I ain't lookin' for no posessions no sir-eee. I'm just fixin' for them young'ns to stop bein' so gosh darn lazy!"
             },
             {
-                "text": "Fer cryin' out loud I heard they've got them vidya games playin' themselves now 'stead of playin' the game themself! And even worse some of 'em arr makin' games for a livin I mean talk about not doin' any real work!"
+                "text": "Fer cryin' out loud I heard they've got them vidya games playin' themselves now! And even worse some of 'em ar makin' games for a livin I mean talk about not doin' any real work!"
             },
             {
                 "text": "Hows about you set a good example? You gotta show 'em how to earn things the RIGHT way! Just like I done did myslf when I was a lad. @ QUEST:Kill 750 Potatos. Idle kills don't count.",
@@ -3411,7 +3679,7 @@
                 "text": "... and that's why I constantly blink my eyes all the time! Anyway them youngin's are still as lazy as ever so lets keep workin' on that!"
             },
             {
-                "text": "It's such a travesty what 'Loser LavaLame2' has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
+                "text": "It's such a travesty what loser Lava'Lame'2 has done over the years. He's made smithin' way too easy such a weak move! Show 'em how it's meant to be done! @ Craft 225 bullets without opening up the Storage Chest.",
                 "associated": "Old Timey Craftin'"
             },
             {
@@ -3431,10 +3699,20 @@
                 "text": "You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!"
             },
             {
-                "text": "Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matchers weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a to... @ 'Carpentiem continues talking for 110 rounds'"
+                "text": "Hot diggity what a fight! I've never seen jabs as quick as those! Although back in my day boxing matches weren't just a few punches over a few rounds. They used to last for six hours and fifteen minutes and always had a... @ 'Carpentiem continues talking for 110 rounds'"
             },
             {
-                "text": "... and that's how LavaFlame2 changed my dialogue because he didn't have enough time before release day to finish the Desert's Main Questline!"
+                "text": "... anyway that's how I ended up all red like this even though Scrippius and I were born identical twins! @ Well sir guess theres just one more thing I wantya to do and I'll feel like ya helped me 100 times over!"
+            },
+            {
+                "text": "Looky here I'm gettin' pretty old... and I'm startin' to regret spending so much time bitter toward that darn younger generation! Can ya tell help bridge the gap between us? @ QUEST:Say 'The boomer aint so bad' to 30 different players.",
+                "associated": "Helping 100 times over"
+            },
+            {
+                "text": "You need more 1 open inventory spaces for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "Thanks a million ya did it! Me and them Zoomer generation are great friends now they even include me in their Ticky Tocky shenanigans it's great fun! @ Now get off my lawn ya darn millenial!"
             }
         ]
     },
@@ -3445,16 +3723,16 @@
                     ["1 HR Time Candy", "8"]
                 ],
                 "requirements": [
-                    ["Average Mana Potion", "500"],
-                    ["Icing Ironbite", "1000"],
-                    ["Jellyfish", "400"]
+                    ["Average Mana Potion", "200"],
+                    ["Icing Ironbite", "600"],
+                    ["Jellyfish", "150"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "Get for me all the most very blue items! I will use to regain my wishing powers! ",
                 "difficulty": "4",
                 "name": "Genie Dieting",
                 "questText": "Collect some very blue thingies for this very blue dude",
-                "notes": "Crafting the 1k Icing Ironbite requires 5k Iron Ore and 2k Small Mana Potions. "
+                "notes": "The recipe for Icing Ironbite comes from the W1 Taskboard. Average Mana Potions are dropped by Forest monsters and Amarok."
             },
             "I'm Blue Dabadedada": {
                 "rewards": [
@@ -3470,6 +3748,23 @@
                 "name": "I'm Blue Dabadedada",
                 "questText": "Defeat Moonmen and retrieve some ghosts",
                 "notes": "Kill 10k [[Moonmoon|Moonmoons]] and gather 1 [[Ghost]] drops. Moonmoons killed/Ghosts collected before you start this quest do not count."
+            },
+            "The Blue New World": {
+                "rewards": [
+                    ["Efaunt's Tomb Key", "5"],
+                    ["Djonnut Token", "1"]
+                ],
+                "requirements": [
+                    ["Melty Cube", "2500"],
+                    ["Sticky Stick", "2500"],
+                    ["Mamooth Tusk", "2500"]
+                ],
+                "consumed": "Yes",
+                "dialogueText": "How I would love to see this blue world. I would of be so happy but no I must remain here. Please player please help me see the blue world! ",
+                "difficulty": "4",
+                "name": "The Blue New World",
+                "questText": "He's blue nuff said.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3504,6 +3799,31 @@
             },
             {
                 "text": "Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!"
+            },
+            {
+                "text": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!"
+            },
+            {
+                "text": "Friend can you do one more thing for me yes?"
+            },
+            {
+                "text": "I have heard of this... World Three. It is blue right?"
+            },
+            {
+                "text": "How I would love to see this blue world. I would of be so happy but no I must remain here. Please player please help me see the blue world! @ QUEST:He's blue nuff said.",
+                "associated": "The Blue New World"
+            },
+            {
+                "text": "You need more 2 open inventory spaces for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "So blue never niiice! Very... cool! Bwahaha I am apologize I had to I had to."
+            },
+            {
+                "text": "Sayyy have you gotten the elephant boss rare equip? It is very naiiice for the grind!"
+            },
+            {
+                "text": "Here are ur keys to the pyramid and if you return tomorrow more keys I will wish for you! And to say sorry for joke earlier I even wait up to 3 days and will give u keys as if you were here every day!"
             }
         ]
     },
@@ -3583,7 +3903,23 @@
                 "difficulty": "4",
                 "name": "Dress to Impress",
                 "questText": " Equip a golden helmet platebody platelegs and any golden tool.",
-                "notes": ""
+                "notes": " "
+            },
+            "Dont lay a finger on my Sheepies!!!": {
+                "rewards": [
+                    ["Goldric Token", "1"],
+                    ["24 HR Time Candy", "1"]
+                ],
+                "requirements": [
+                    "Defeat_Sandcastles: >= 18. Starting at 0.",
+                    "Dont_Hurt_Sheep: >= 6. Starting at 6."
+                ],
+                "consumed": "No",
+                "dialogueText": "You mustn't harm my precious sheepies! They are very VERY expensive! Now then dispose of those sandcastles! ",
+                "difficulty": "4",
+                "name": "Dont lay a finger on my Sheepies!!!",
+                "questText": "Defeat all sandcastle monsters without hurting the sheepies.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3659,7 +3995,20 @@
                 "text": "My my wasn't that a thrill! I haven't experienced a good mugging like that since my childhood days of watching my father underpay his laborers myeheheheh!"
             },
             {
-                "text": "Well hows about you come back later? I grow weary of this chitchat there's not much of an ROI on it after all!"
+                "text": "Well hows about you come back later? I grow weary of this chitchat there's not much of an ROI on it after all! @ Return at Class Lv. 61."
+            },
+            {
+                "text": "Aha! My minstrel has returned and with what timing! I just got some sheepies imported from the Frostbite Tundra express shipping of course!"
+            },
+            {
+                "text": "You mustn't harm my precious sheepies! They are very VERY expensive! Now then dispose of those sandcastles! @ QUEST:Defeat all sandcastle monsters without hurting the sheepies.",
+                "associated": "Dont lay a finger on my Sheepies!!!"
+            },
+            {
+                "text": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "Bwahahaha!!! What a hoot! @ Ok I'm bored. Ta-ta! @ That means get lost in rich-speak."
             }
         ]
     },
@@ -3759,7 +4108,7 @@
                 "difficulty": "3",
                 "name": "Lookin' Like a Snack",
                 "questText": " Get some teeth so you can be eaten! Mmm yummy!",
-                "notes": ""
+                "notes": "requires approximately 150 defense and 900 hp"
             },
             "Red Stuff Bad!": {
                 "rewards": [
@@ -3774,7 +4123,7 @@
                 "difficulty": "3",
                 "name": "Red Stuff Bad!",
                 "questText": " BLOOD FOR THE BLOOD GODS!!! Err... I mean get HP pots!",
-                "notes": ""
+                "notes": " "
             },
             "PSA. You Are Being Eaten!": {
                 "rewards": [
@@ -3787,11 +4136,25 @@
                     "Stand_Near_Snake_Jar: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Now come over here or no one will believe that I was me who brought you to your end! ",
+                "dialogueText": "Now come over here or no one will believe that it was me who brought you to your end! ",
                 "difficulty": "4",
                 "name": "PSA. You Are Being Eaten!",
                 "questText": " Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
-                "notes": "requires approximately 150 defense and 900 hp"
+                "notes": " "
+            },
+            "A Noob, served Medium Rare!": {
+                "rewards": [
+                    ["Snake Jar Token", "1"],
+                    ["1 HR Time Candy", "3"],
+                    ["Gem", "10"]
+                ],
+                "requirements": ["Other_players_lured: >= 1. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "Go get me ssssomeone else to eat and make ssssure they're a total noob ssso I can ssswallow them whole! ",
+                "difficulty": "2",
+                "name": "A Noob, served Medium Rare!",
+                "questText": "Lure another player to Snakejar's platform and have them say 'Im a total noob'.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3825,7 +4188,7 @@
                 "text": "Fantassstic! I'll soak the teeth in this liquid ssssso that it will appear to all that I've taken a bite out of you when I pretend to."
             },
             {
-                "text": "Now come over here or no one will believe that I was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
+                "text": "Now come over here or no one will believe that it was me who brought you to your end! @ QUEST: Wait why do they want to pretend to have eaten you again? Uh oh I don't like the look of that Quest Helper...",
                 "associated": "PSA. You Are Being Eaten!"
             },
             {
@@ -3833,6 +4196,28 @@
             },
             {
                 "text": "Hmm I ssssuppose I'll have to asssk the next player I see to prepare themsssselves medium rare... your sssspecies is a bit tough for my tassstes."
+            },
+            {
+                "text": "..."
+            },
+            {
+                "text": "... ..."
+            },
+            {
+                "text": "... ... ..."
+            },
+            {
+                "text": "... ... ... ... that'sssss enough waiting where are the other playerssss??"
+            },
+            {
+                "text": "Go get me ssssomeone else to eat and make ssssure they're a total noob ssso I can ssswallow them whole! @ QUEST:Lure another player to Snakejar's platform and have them say 'Im a total noob'.",
+                "associated": "A Noob, served Medium Rare!"
+            },
+            {
+                "text": "You have no sssspace! Please clear 3 spaces for these itemssss."
+            },
+            {
+                "text": "MMMMmmmm what a juicy noob that was! The dumb ones are alwayssss the most ssssucculent!"
             }
         ]
     },
@@ -3852,7 +4237,7 @@
                 "difficulty": "4f",
                 "name": "Rhyming is Key!",
                 "questText": "Kill moonmen until they drop all the keys you need.",
-                "notes": ""
+                "notes": "'Light Blue' means level 5."
             },
             "Uh, Something About Vials?": {
                 "rewards": [
@@ -3860,26 +4245,41 @@
                     ["Gem", "10"],
                     ["Distilled Water", "15"]
                 ],
-                "requirements": ["Blue_Alch_Vials: >= 30. Starting at 0."],
+                "requirements": ["Blue_Alch_Vials: >= 13. Starting at 0."],
                 "consumed": "No",
                 "dialogueText": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! ",
                 "difficulty": "5",
                 "name": "Uh, Something About Vials?",
-                "questText": "Upgrade 30 Vials up to light-blue rarity or higher",
-                "notes": ""
+                "questText": "Upgrade 13 Vials up to light-blue rarity or higher",
+                "notes": "See [[King Doot]] for details on summoning this secret boss."
             },
             "Journey to the Center of the Blundermines": {
                 "rewards": [
-                    ["Mystery Upgrade Stone I", "5"],
-                    ["Gem", "15"]
+                    ["Mystery Upgrade Stone II", "5"],
+                    ["Gem", "15"],
+                    ["Silver Antique", "2"]
                 ],
-                "requirements": ["Slip_Slidy_Ledge: >= 1. Starting at 0."],
+                "requirements": ["Reach_Ol'_Straightaway: >= 1. Starting at 0."],
                 "consumed": "No",
                 "dialogueText": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! ",
                 "difficulty": "5",
                 "name": "Journey to the Center of the Blundermines",
-                "questText": "Reach the Slip Slidy Ledge mining area",
-                "notes": ""
+                "questText": "Reach the Ol' Straightaway mining area with Plat and Dementia ore.",
+                "notes": " "
+            },
+            "The Mummy of Mystery": {
+                "rewards": [
+                    ["Loominadi Token", "1"],
+                    ["Literal Elephant", "1"],
+                    ["24 HR Time Candy", "1"]
+                ],
+                "requirements": ["Secret_Boss_Defeated: >= 1. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "It must be found out. My status as the most secret is in doubt... a status I cannot live without! ",
+                "difficulty": "7",
+                "name": "The Mummy of Mystery",
+                "questText": "Find the biggest secret in all of YumYum Desert and defeat it.",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3903,27 +4303,43 @@
                 "text": "I like keys they open doors! Many many doors some below floors!"
             },
             {
-                "text": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 30 Vials up to light-blue rarity or higher",
+                "text": "But no you have forgot! Those vials are vital are they not? With no other spot in the plot they deserve a shot! @ QUEST:Upgrade 13 Vials up to light-blue rarity or higher",
                 "associated": "Uh, Something About Vials?"
             },
             {
                 "text": "You have full inventory is this end of your story?"
             },
             {
-                "text": "The deed done hope you had fun! But you run free and leave me be where sun I cant see!"
+                "text": "The deed done hope you had fun! But you must run free and leave me be where the sun I cannot see!"
             },
             {
-                "text": "My head keep spinning around and around. It won't stop until you go underground never to be found!"
+                "text": "My head keeps spinning around and around. It won't stop until you go underground never to be found!"
             },
             {
-                "text": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Slip Slidy Ledge mining area",
+                "text": "So go go go what do you wait for? There's no more in store up here anymore go explore the world's core! @ QUEST:Reach the Ol' Straightaway mining area with Plat and Dementia ore.",
                 "associated": "Journey to the Center of the Blundermines"
             },
             {
-                "text": "You have full inventory is this end of story?"
+                "text": "You have a full inventory is this end of the story?"
             },
             {
-                "text": "Oowee I've got more to say just not today!"
+                "text": "Oowee I've got more to say just not today! @ Return at Lv. 70"
+            },
+            {
+                "text": "While you were gone I had a vision so strong... and realized I had it all wrong!"
+            },
+            {
+                "text": "There is a secret portal with a secret key! Unseen by any mere mortal it eluded even me!"
+            },
+            {
+                "text": "It must be found out. My status as the most secret is in doubt... a status I cannot live without! @ QUEST:Find the biggest secret in all of YumYum Desert and defeat it.",
+                "associated": "The Mummy of Mystery"
+            },
+            {
+                "text": "You have full inventory is this end of your story?"
+            },
+            {
+                "text": "Vanquished at last boy that was fast! That iconoclast mummy has passed I forecast that my status will now go unsurpassed! Thank you player this was really great... an absolute blast!"
             }
         ]
     },
@@ -3936,10 +4352,11 @@
                 ],
                 "requirements": [
                     "Platform_1_Found: >= 1. Starting at 0.",
-                    "Platform_2_Found: >= 1. Starting at 0."
+                    "Platform_2_Found: >= 1. Starting at 0.",
+                    "Platform_3_Found: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
-                "dialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. ",
+                "dialogueText": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Grandioso Canyon and here. ",
                 "difficulty": "4",
                 "name": "Platforms in Disguise, Platsformers!",
                 "questText": "Find the 3 invisible platforms hidden throughout the game.",
@@ -3961,7 +4378,7 @@
                 "difficulty": "4",
                 "name": "Findin' Fingerprints",
                 "questText": "Collect materials maybe the blobulyte left some fingerprints on one?",
-                "notes": ""
+                "notes": "It has to be typed exactly like Wellington says, cAsE sEnSiTiVe. If you're not using a US Keyboard layout, Shift+1 is how you must type the exclamation point."
             },
             "You Can't Run, but you Can Hide": {
                 "rewards": [
@@ -3974,7 +4391,21 @@
                 "difficulty": "1",
                 "name": "You Can't Run, but you Can Hide",
                 "questText": "Give up on your search for the Maestro Blobulyte by saying 'Darn you Blobulyte! Why must you hide like a coward'",
-                "notes": "It has to be typed exactly like Wellington says, cAsE sEnSiTiVe. If you're not using a US Keyboard layout, Shift+1 is how you must type the exclamation point."
+                "notes": "Number of drop, not the total quantity of item. Coins also count. Spaces do NOT count."
+            },
+            "Puzzles and Math, a Winning Combination!": {
+                "rewards": [
+                    ["Wellington Token", "1"],
+                    ["Stonks!;Talent Book", "1"],
+                    ["Large Experience Balloon", "3"]
+                ],
+                "requirements": ["Puzzle_Complete: >= 1. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "Right-o! Here's the puzzle",
+                "difficulty": "5",
+                "name": "Puzzles and Math, a Winning Combination!",
+                "questText": " @ Square the number of letters in your character's name. For example 'Koala2' would be 6x6=  36. Kill sand giants until there are exactly 'that' many items on the ground and talk to me! If you get it wrong I'll remove ALL items in the map! @ QUEST",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -3988,7 +4419,7 @@
                 "text": "As it happens I was just browsing page 6 infinity 7 of my map here... and I noticed some strange markings I could have sworn weren't there before!"
             },
             {
-                "text": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
+                "text": "Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Grandioso Canyon and here. @ QUEST:Find the 3 invisible platforms hidden throughout the game.",
                 "associated": "Platforms in Disguise, Platsformers!"
             },
             {
@@ -4022,6 +4453,19 @@
             },
             {
                 "text": "One day... one day I'll find them! I dare say old sport they can't hide forever! After all sooner or later someone will update the Wiki with a full walkthrough on how to find them!"
+            },
+            {
+                "text": "... but I think we've done our part lets change course here. How about a simple maths puzzle? Get our minds off of that devious blobulyte what do you think?"
+            },
+            {
+                "text": "Right-o! Here's the puzzle: @ Square the number of letters in your character's name. For example 'Koala2' would be 6x6=  36. Kill sand giants until there are exactly 'that' many items on the ground and talk to me! If you get it wrong I'll remove ALL items in the map! @ QUEST:Do the puzzle!",
+                "associated": "Puzzles and Math, a Winning Combination!"
+            },
+            {
+                "text": "Please my good man show some respect! My prizes for completing the quest are well worth keeping you are very mistaken to not have 3 open inventory spaces!"
+            },
+            {
+                "text": "Top stuff my man! Brilliantly solved! I must be getting back to my adventure now as you to yours... cheerio!"
             }
         ]
     },
@@ -4039,7 +4483,7 @@
                 "dialogueText": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! ",
                 "difficulty": "5",
                 "name": "Dressing like a Dork",
-                "questText": "Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
+                "questText": "Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.",
                 "notes": ""
             },
             "Literally Physics": {
@@ -4071,7 +4515,7 @@
                 "text": "You know what? Here's something to do... go make me a costume so that I look like that little twerp Sprout that way when people DO make it here I'll pretend to be them and since they've done their quests already they won't bother me!!"
             },
             {
-                "text": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.",
+                "text": "I need some fibres from the forest petals from Baba Yaga aaand... oh right a tiny little stupid pea brain to really tie it all together hahaha! @ QUEST:Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.",
                 "associated": "Dressing like a Dork"
             },
             {
@@ -4094,7 +4538,7 @@
                 "associated": "Literally Physics"
             },
             {
-                "text": "Ok new plan. Get two balls... no not THOSE balls you doorknob like actual circular balls. I remember this from class the other week. @ If you hold one ball right above the other and drop them both the top ball bounces BIG TIME!"
+                "text": "Clear up 2 inventory spaces... like cmon seriously how do you keep forgetting this? I'm like the 12th NPC youve run into probably I swear you gamers never lear... @ 'Dazey continues to blow your tiny mistake out of proportion for a while longer'"
             },
             {
                 "text": "NICE! FINALLY!!! Now I can make my costume and pretend to be Sprout! No one will ever bother me again!! Just gotta take this off and... @ Hey can I get some privacy you creep? Please leave the map and come back..."
@@ -4128,7 +4572,7 @@
                 "difficulty": "3",
                 "name": "The Hatless Howerhouse!",
                 "questText": "Kill 20 Sandy Pots without your precious hat equipped.",
-                "notes": ""
+                "notes": "Bubbles unlocked before you start this quest count, but the [[Distilled Water]] must be purchased while the quest is active."
             },
             "No Country for One Character": {
                 "rewards": [
@@ -4141,7 +4585,7 @@
                 "difficulty": "4",
                 "name": "No Country for One Character",
                 "questText": "Create at least 3 new players for your Account.",
-                "notes": ""
+                "notes": "Vials unlocked before you start the quest count. See [[Alchemy#Vials|Alchemy Vials]] for a full list of unlockable Vials."
             },
             "Say Goodbye to your Dubloon!": {
                 "rewards": [
@@ -4157,7 +4601,7 @@
                 "difficulty": "2",
                 "name": "Say Goodbye to your Dubloon!",
                 "questText": "cold hard cash! Bring me round sum' that and we can git into some real business. @ QUEST",
-                "notes": ""
+                "notes": "The criminal is located through the portal below Mimics."
             },
             "Alchemial Apprentice": {
                 "rewards": [
@@ -4173,7 +4617,7 @@
                 "dialogueText": "... you get all that pardner? Ya better 'ave cause I'm boutta test ya! Go unlock a bubble and buy some pure water from the Liquid Shop!",
                 "difficulty": "3",
                 "name": "Alchemial Apprentice",
-                "notes": "Bubbles unlocked before you start this quest count, but the [[Distilled Water]] must be purchased while the quest is active."
+                "notes": "You have to complete [[Bandit Bob|Bandit Bob's]] questline for this."
             },
             "Three Vials? Those are Rookie Numbers!": {
                 "rewards": [
@@ -4185,7 +4629,7 @@
                 "difficulty": "2",
                 "name": "Three Vials? Those are Rookie Numbers!",
                 "questText": "Unlock 2 Vials. Stand infront of the Cauldron then drag an item like Copper out of your inventory",
-                "notes": "Vials unlocked before you start the quest count. See [[Alchemy#Vials|Alchemy Vials]] for a full list of unlockable Vials."
+                "notes": "You have to complete [[Goldric|Goldric's]] questline for this."
             },
             "The Notorious B.O.B": {
                 "rewards": [
@@ -4199,7 +4643,7 @@
                 "difficulty": "4",
                 "name": "The Notorious B.O.B",
                 "questText": "Find the criminal!",
-                "notes": "The criminal is located through the portal below Mimics."
+                "notes": "Donate in the [[Alchemy]] Liquids Tab."
             },
             "Bake Him Away, Toys": {
                 "rewards": [
@@ -4213,7 +4657,7 @@
                 "dialogueText": "Now then just get him to sign this Arrest Warrant and we'll have his bounty as easy as ya can say 'Easy' which is gosh darn easy I tell ya hwat!",
                 "difficulty": "5",
                 "name": "Bake Him Away, Toys",
-                "notes": "You have to complete [[Bandit Bob|Bandit Bob's]] questline for this."
+                "notes": "[[Carpetiem]] (in the [[Mashed Potato]] area) is the geezer you must help."
             },
             "A Hat in Crime": {
                 "rewards": [
@@ -4229,7 +4673,7 @@
                 "difficulty": "4",
                 "name": "A Hat in Crime",
                 "questText": "Yes Bandit Bob set you up. Guess you're taking orders from a cactus now!",
-                "notes": ""
+                "notes": " "
             },
             "Commence Criminal Crimes!": {
                 "rewards": [
@@ -4242,7 +4686,7 @@
                 "difficulty": "6",
                 "name": "Commence Criminal Crimes!",
                 "questText": "Commit a crime on whoever the quest helper says to lol",
-                "notes": "You have to complete [[Goldric|Goldric's]] questline for this."
+                "notes": " "
             },
             "The Worst Trade Deal in History": {
                 "rewards": [
@@ -4255,7 +4699,7 @@
                 "difficulty": "3",
                 "name": "The Worst Trade Deal in History",
                 "questText": "Buy and sell a total of 10 Golden Dubloons.",
-                "notes": ""
+                "notes": " "
             },
             "Children? What'd they ever do for Me...": {
                 "rewards": [
@@ -4268,7 +4712,7 @@
                 "difficulty": "4",
                 "name": "Children? What'd they ever do for Me...",
                 "questText": "Donate to the Starving Orphan Monsters foundation in the Cauldron.",
-                "notes": "Donate in the [[Alchemy]] Liquids Tab."
+                "notes": " "
             },
             "Oh No, not the Elderly!": {
                 "rewards": [
@@ -4276,11 +4720,43 @@
                 ],
                 "requirements": ["Geezers_Helped: >= 100. Starting at 0."],
                 "consumed": "No",
-                "dialogueText": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. ",
+                "dialogueText": "Supposin' you aint really innerested in that last part there's only one thing left to save our souls. ",
                 "difficulty": "6",
                 "name": "Oh No, not the Elderly!",
-                "questText": "Find some old coot to assist.",
-                "notes": "This quest is not completable yet."
+                "questText": "Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.",
+                "notes": " "
+            },
+            "Tomb Raid": {
+                "rewards": [
+                    ["24 HR Time Candy", "1"],
+                    ["Silver Obol of Experience", "1"],
+                    ["Cowbo Jones Token", "1"]
+                ],
+                "requirements": [
+                    "Efaunt_Defeated: >= 1. Starting at 0.",
+                    "Crystal_Stolen: >= 1. Starting at 0."
+                ],
+                "consumed": "No",
+                "dialogueText": "I got me an idea... there's a tomb way out in them Twilighty Desert dunes. It's home to the old Sultan a big dang elephant called Efaunt. You know what to do. ",
+                "difficulty": "5",
+                "name": "Tomb Raid",
+                "questText": "Raid Efaunt's tomb and steal his crystal.",
+                "notes": " "
+            },
+            "The New Sheriff": {
+                "rewards": [
+                    ["YumYum Sheriff", "1"]
+                ],
+                "requirements": [
+                    ["Yumyum Desert NPC Completion Token", "1"],
+                    ["Yumyum Skills Completion Token", "1"],
+                    ["Yumyum Misc Completion Token", "1"]
+                ],
+                "consumed": "Yes",
+                "dialogueText": "Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.",
+                "difficulty": "9",
+                "name": "The New Sheriff",
+                "notes": " "
             }
         },
         "Dialogue": [
@@ -4447,8 +4923,43 @@
                 "text": "That was a bit better tell you hwat... but you know what they say: @ Give an orphan monster some water and they'll drink for a day. Teach an orphan monster how to extract the liquid from the players they kill and they'll drink for a lifetime."
             },
             {
-                "text": "Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist.",
+                "text": "Supposin' you aint really innerested in that last part there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.",
                 "associated": "Oh No, not the Elderly!"
+            },
+            {
+                "text": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "That'll just about do it! @ Wait... did you say the old geezer's name was... Carpetiem?? @ No no no no!! He's the oldest most crankiest old person! Helping him is like helping 100 old people!"
+            },
+            {
+                "text": "Ya went too far! Now were TOO good! I swore on me grandcacti's life I'd never end up a goody two shoes... We gotta go back to crime to balance this out!"
+            },
+            {
+                "text": "I got me an idea... there's a tomb way out in them Twilighty Desert dunes. It's home to the old Sultan a big dang elephant called Efaunt. You know what to do. @ QUEST:Raid Efaunt's tomb and steal his crystal.",
+                "associated": "Tomb Raid"
+            },
+            {
+                "text": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "You got the crystal? @ ... @ ... @ STICK EM UP!"
+            },
+            {
+                "text": "FINALLY I CAN GET TO WORLD 3 AND DITCH THIS DANG DESERT! @ Just gotta walk myself over to ya and pickpocket the crystal. @ Oh... right. I got no legs."
+            },
+            {
+                "text": "Well guess it just ain't meant to be. I hate this darn place I wish I wasnt the Sherrif... @ Hang on a tick!"
+            },
+            {
+                "text": "Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.",
+                "associated": "The New Sheriff"
+            },
+            {
+                "text": "You need more 1 open inventory space for rewards! Clear some space and talk to me again!"
+            },
+            {
+                "text": "Go git 'er dun new Sheriff! YeeeeHAW!!!"
             }
         ]
     },
@@ -4562,14 +5073,15 @@
                 ],
                 "requirements": [
                     "1st_Colosseum: >= 180. Starting at 0.",
-                    "2nd_Colosseum: >= 170. Starting at 0."
+                    "2nd_Colosseum: >= 170. Starting at 0.",
+                    "3rd_Colosseum: >= 160. Starting at 0."
                 ],
                 "consumed": "No",
                 "dialogueText": "The rank of Optio is not one I give out flippantly you'll need a full set of talents and strategic wits to pass this test. ",
                 "difficulty": "6",
                 "name": "Colosseum GDQ",
                 "questText": "Complete the three colosseums with lots of Time Remaining after beating all waves.",
-                "notes": ""
+                "notes": "The numbers are how many seconds you must have remaining for each colosseum."
             }
         },
         "Dialogue": [
@@ -4677,7 +5189,8 @@
                 ],
                 "requirements": [
                     "Mafiosos_Defeated: >= 30. Starting at 0.",
-                    "Sand_Castles_Defeated: >= 18. Starting at 0."
+                    "Sand_Castles_Defeated: >= 18. Starting at 0.",
+                    "Time_Left: >= 1. Starting at 72."
                 ],
                 "consumed": "No",
                 "dialogueText": "Wait no I remember!! You need to also kill all the sand castles cuz like the maps have connected spawn timers...? My friend told me and he's way smarter than you so go do it! ",
@@ -4997,17 +5510,18 @@
         "Quests": {
             "Crikey, it's cold out!": {
                 "rewards": [
-                    ["Gem", "69"],
-                    ["12 HR Time Candy", "1"],
-                    ["1 HR Time Candy", "4"]
+                    ["Gem", "25"],
+                    ["4 HR Time Candy", "1"],
+                    ["1 HR Time Candy", "2"]
                 ],
                 "requirements": [
-                    ["Melty Cube", "1"]
+                    ["Melty Cube", "250"]
                 ],
                 "consumed": "Yes",
-                "dialogueText": "Hopefully Lava will change my dialogue before release!",
+                "dialogueText": "If ya really wanna take on my tasks ya gotta bring me back some frosty flake melty cubes! ",
                 "difficulty": "4",
                 "name": "Crikey, it's cold out!",
+                "questText": "Go defeat Frost Flakes past the Sheepies and collect their cool shapes!",
                 "notes": " "
             }
         },
@@ -5016,17 +5530,17 @@
                 "text": "Oi mate! I reckon it's a bit cold out 'ere for a half naked fella like yourself! It's a darn shame you humans aren't born with a snowman heater on ya noggin like I am would do you wonders in the frozen outback!"
             },
             {
-                "text": "Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death! Why dontcha come back a bit later then eh?"
+                "text": "Now hang on just a tick mate! I'm not messin' around when I say it's cold out there... I can't be givin' ya my tasks until I know you wont freeze to death!"
             },
             {
-                "text": "Hopefully Lava will change my dialogue before release!",
+                "text": "If ya really wanna take on my tasks ya gotta bring me back some frosty flake melty cubes! @ QUEST:Go defeat Frost Flakes past the Sheepies and collect their cool shapes!",
                 "associated": "Crikey, it's cold out!"
             },
             {
                 "text": "Whoa there mate! You ain't got any inventory slots open clear up 3 spaces so I can getcha your goodies!"
             },
             {
-                "text": "Alrighty then mate! You're lookin' ready to weather the ol' tundra outback come on over and I'll show you me tasks!"
+                "text": "Right-o then mate! If ya go those without keelin' over surely no simple colds gonna stop ya! Go get those tasks!"
             }
         ]
     },
@@ -5070,7 +5584,8 @@
                 ],
                 "requirements": [
                     "3D_Printer_Built: >= 1. Starting at 0.",
-                    "Wizard_Defender_Built: >= 1. Starting at 0."
+                    "Wizard_Defender_Built: >= 1. Starting at 0.",
+                    "Cogs_Made: >= 1. Starting at 0."
                 ],
                 "consumed": "No",
                 "dialogueText": "See that Workbench? Try building the first two buildings! GO TO THE 'COG' TAB TO GET BUILD SPEED!! Sorry to yell hehehe I just really like cogs is all! ",
@@ -5363,7 +5878,7 @@
                 ],
                 "requirements": [
                     ["Scorpie", "500"],
-                    ["Crescent Scropie", "2"]
+                    ["Crescent Scorpie", "2"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "Alright the Scorpie Hunting Season is on you know what to do. QUEST",
@@ -5409,7 +5924,7 @@
                 ],
                 "requirements": [
                     ["Pingy", "2500"],
-                    ["Eternal Lord of  The Undying Ember", "4"]
+                    ["Eternal Lord of The Undying Ember", "4"]
                 ],
                 "consumed": "Yes",
                 "dialogueText": "I'll activate the Pingy Hunting Season for ya. These little guys are great I still remember when I caught my first Shiny Pingy... ",
@@ -5469,8 +5984,8 @@
                     ["Critter Baron", "1"]
                 ],
                 "requirements": [
-                    ["Crescent Scropie", "500"],
-                    ["Eternal Lord of  The Undying Ember", "250"],
+                    ["Crescent Scorpie", "500"],
+                    ["Eternal Lord of The Undying Ember", "250"],
                     ["Diamond Duck", "100"]
                 ],
                 "consumed": "Yes",
@@ -5532,7 +6047,7 @@
                 "text": "You need more space although not in that hollow head of yours thats for sure!"
             },
             {
-                "text": "Great hand them over. OW! Stupid little     stung me! "
+                "text": "Great hand them over. OW! Stupid little    stung me! "
             },
             {
                 "text": "Eh it's nothing compared to the sting of being an NPC instead of the main character. Anyway the Mousey Hunting Season is on go do that while I quicksell this scorpie as revenge @ QUEST:Go trap some Mousey Critters.",
@@ -5651,7 +6166,7 @@
                 "difficulty": "5",
                 "name": "Big Ol Chonker",
                 "questText": "Defeat a giant monster. You need a Prayer for giants to spawn at all remember.",
-                "notes": " "
+                "notes": "You must equip the [[Worship#Tachion_of_the_Titans|Tachion of the Titans]] Prayer to spawn Giant Monsters."
             }
         },
         "Dialogue": [
@@ -5705,6 +6220,67 @@
             },
             {
                 "text": "I'm stuck..."
+            }
+        ]
+    },
+    "Coastiolyte": {
+        "Quests": {
+            "Cooler than a Cooler!": {
+                "rewards": [
+                    ["Summer Cooler", "20"],
+                    ["Beach Oyster", "10"]
+                ],
+                "requirements": ["Open_Summer_Coolers: >= 12. Starting at 0."],
+                "consumed": "No",
+                "dialogueText": "Cmon bro go get yourself some of that summer action!! I wanna see you opening those coolers like no other! ",
+                "difficulty": "2",
+                "name": "Cooler than a Cooler!",
+                "questText": "Crack open some Coolers with the lads!",
+                "notes": " "
+            },
+            "Vibe Check": {
+                "rewards": [
+                    ["Summer Cooler", "30"],
+                    ["Beach Oyster", "10"]
+                ],
+                "requirements": [
+                    "Defeat_Plasti_Dougs: >= 12. Starting at 0.",
+                    "Defeat_Mr._Blueberrys: >= 5. Starting at 0."
+                ],
+                "consumed": "No",
+                "dialogueText": "But dang there sure are a lot of newbies harshin' the vibe this year... can you get rid of them? ",
+                "difficulty": "2",
+                "name": "Vibe Check",
+                "questText": " Clear the beach of all these 'Out of Towner' monsters",
+                "notes": " "
+            }
+        },
+        "Dialogue": [
+            {
+                "text": "Yoooo summer break bro! Whats up!!"
+            },
+            {
+                "text": "Three weeks of hangin' around and getting sick-as rewards! This is the LIFE!"
+            },
+            {
+                "text": "Cmon bro go get yourself some of that summer action!! I wanna see you opening those coolers like no other! @ QUEST:Crack open some Coolers with the lads!",
+                "associated": "Cooler than a Cooler!"
+            },
+            {
+                "text": "Full inventory bro! Make some space!"
+            },
+            {
+                "text": "Man leave some coolers for the rest of us haha! Thats was totally tops dude."
+            },
+            {
+                "text": "But dang there sure are a lot of newbies harshin' the vibe this year... can you get rid of them? @ QUEST: Clear the beach of all these 'Out of Towner' monsters",
+                "associated": "Vibe Check"
+            },
+            {
+                "text": "Full inventory bro! Make some space!"
+            },
+            {
+                "text": "Yooo now its a party! @ Pfft cmon don't be down about it bro it's Summer Break! We don't worry about the underlying morals and themes behind quests around here we just have fun!"
             }
         ]
     },

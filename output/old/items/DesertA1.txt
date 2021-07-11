@@ -8,9 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Sandy Pot]]|0.22|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Gold Platebody]]|1500|Crafting}}
-{{usedin/row|[[Sandy Satchel]]|777|Crafting}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
-|}

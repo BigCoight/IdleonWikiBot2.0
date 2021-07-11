@@ -9,5 +9,6 @@
 |defence0=2.67
 }}
 {{EnemyNavigation||}}
+{{DropTable/head}}
 {{DropTable/row|Frog Leg|0.0|2}}
 |}

@@ -2,7 +2,7 @@
 |title=Pingy
 |order=6
 |category=Hard Resources
-|effect=+{% Shiny Critter Chance
+|effect=+% Shiny Critter Chance
 |bonus=6
 |reqtier=5
 }}

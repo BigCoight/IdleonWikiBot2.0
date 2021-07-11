@@ -10,12 +10,3 @@
 {{detdrops|[[Colosseum#Dewdrop Golden Chest|Dewdrop Golden Chest]]|0.1|20}}
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.6|75}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Average Mining Pouch]]|1400|Crafting}}
-{{usedin/row|[[FMJ Bullet]]|15|Crafting}}
-{{usedin/row|[[Krunk#The Scientific Method, According to a Rock|The Scientific Method, According to a Rock]]|200|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Anvilnomics]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Name I Guess]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Gold Guzzle]]|Lots|Alchemy}}
-|}

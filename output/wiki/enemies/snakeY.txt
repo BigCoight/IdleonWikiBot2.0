@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Floofie|Egggulyte}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Gem|0.05|1}}

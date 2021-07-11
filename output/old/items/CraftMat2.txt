@@ -5,6 +5,3 @@
 |source=[[Scripticus#Hardcore Gamer Status, Here I Come!|Hardcore Gamer Status, Here I Come!]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Boxing Gloves]]|1|Crafting}}
-|}

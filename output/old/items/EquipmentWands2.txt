@@ -20,10 +20,6 @@
 |resource1=Slime Sludge|quantity1=125
 |resource2=Copper Bar|quantity2=100
 }}
-{{usedin/head}}
-{{usedin/row|[[Starlight]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}

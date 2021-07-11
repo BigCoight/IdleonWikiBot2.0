@@ -2,7 +2,7 @@
 |title=Slime
 |order=4
 |category=Blunder Hills
-|effect=+{ Base WIS
+|effect=+ Base WIS
 |bonus=2
 |reqtier=8
 |source=[[Slime]]

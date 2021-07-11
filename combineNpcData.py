@@ -83,9 +83,10 @@ def formatQuest(line):
     if line["Type"] == "Custom":
         current = line["CustomArray"]
         tempReq = []
-        tempReq.append(f"{current[0]} {symbols[current[2]]} {current[1]}. Starting at {current[3]}.")
-        if len(current) > 4:
-            tempReq.append(f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}.")
+        for i in range(0,len(current), 4):
+            tempReq.append(f"{current[i]} {symbols[current[i+2]]} {current[i+1]}. Starting at {current[i+3]}.")
+        # if len(current) > 4:
+        #     tempReq.append(f"{current[4]} {symbols[current[6]]} {current[5]}. Starting at {current[7]}.")
         tempReq = repU(tempReq, True)
     elif line["Type"] == "ItemsAndSpaceRequired":
         tempReq = []
@@ -113,7 +114,7 @@ def openNotes(fn):
 def main():
     newNpcs = {}
     npcData = openJSON("Npcs")
-    nameConflicts = {"Ghost": "Ghost_(Event)", "Dog_Bone": "Dog_Bone_(NPC)"}
+    nameConflicts = {"Ghost": "Ghost (Event)", "Dog Bone": "Dog Bone (NPC)"}
     notes = openNotes("Quest")
 
     for name, npc in npcData.items():

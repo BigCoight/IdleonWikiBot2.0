@@ -5,9 +5,9 @@
 |birthweight=8.43
 |starsign=Aries
 |mmm=Wilson
-|notes=[[Builder Bird]] is found in the [[Worlds#G1 - Blunder Hills|starting town]], located in the top right section of the area.
+|notes=[[Builder Bird]] is found in the [[Worlds#G1 - Blunder Hills|starting town]], located in the top right section of the area. 
 
-Upon completing his quest the player gains access to the portal to [[Worlds#D0 - YumYum Grotto|World 2 - Yum Yum Desert]] that is located next to Builder Bird.
+Upon completing his quest the player gains access to the portal to [[Worlds#D0 - YumYum Grotto|World 2 - Yum Yum Desert]].
 
 '''Note:''' Unlocking the portal with one character unlocks it for all characters on your account.
 }}

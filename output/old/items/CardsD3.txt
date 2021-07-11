@@ -2,7 +2,11 @@
 |title=Void Ore
 |order=2
 |category=Medium Resources
-|effect=+{% Card Drop Chance
+|effect=+% Card Drop Chance
 |bonus=6
 |reqtier=10
+|source=[[Mining#Drops|Mining Void]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Mining#Drops|Mining Void]]|0.00006|1}}
+|}

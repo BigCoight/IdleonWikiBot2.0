@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Green Mushroom|Frog}}
+{{DropTable/head}}
 {{DropTable/coin|6|0.5}}
 {{DropTable/row|Red Spore Cap|0.20|1}}
 {{DropTable/card|0.0001}}

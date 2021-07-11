@@ -1,8 +1,10 @@
 {{InfoItem
 |class=All
 |level=50
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=34
+|speed=4
+|skillpower=34
 |agi=15
 |upgrade=4
 |sellprice=5

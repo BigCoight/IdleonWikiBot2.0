@@ -10,6 +10,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Shell Snake|Egg Capsule}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Gem|0.3|1}}

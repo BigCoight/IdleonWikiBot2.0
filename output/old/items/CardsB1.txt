@@ -2,7 +2,7 @@
 |title=Sandy Pot
 |order=0
 |category=Yum Yum Desert
-|effect=+{% EXP Conversion from Talent
+|effect=+% EXP Conversion from Talent
 |bonus=12
 |reqtier=10
 |source=[[Sandy Pot]]

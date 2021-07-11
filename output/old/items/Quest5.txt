@@ -6,6 +6,3 @@
 |source=[[Picnic Stowaway#Live-Action Entertainment|Live-Action Entertainment]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Scripticus#The Unoccupied Picnic|The Unoccupied Picnic]]|1|Quests}}
-|}

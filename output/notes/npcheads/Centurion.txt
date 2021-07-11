@@ -1,6 +1,7 @@
 {{npc
 |location=The Mimic Hole
 |noquest=5
+|world=Yum-Yum Desert
 |repeatable=Unknown
 |birthweight=3.06
 |starsign=Taurus

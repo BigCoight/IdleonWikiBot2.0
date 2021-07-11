@@ -8,6 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Chaotic Amarok]]|0.2|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Chaotic Amarok Pendant]]|4|Crafting}}
-|}

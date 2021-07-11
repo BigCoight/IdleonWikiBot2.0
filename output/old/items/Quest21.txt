@@ -17,6 +17,3 @@
 {{detdrops|[[Baba Yaga]]|0.3|1.0}}
 {{detdrops|[[Dewdrop Silver Chest]]|0.3|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Funguy#Partycrastination|Partycrastination]]|250|Quests}}
-|}

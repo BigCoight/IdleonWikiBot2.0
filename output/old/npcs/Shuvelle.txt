@@ -1,16 +1,16 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Scorpio
-|mmm=Dinkins
-|birthweight=2.16
-|notes=fillme
+|location=Mamooooth Mountain
+|noquest=0
+|repeatable=Unknown
+|starsign=Leo
+|mmm=Chambers
+|birthweight=6.48
+|notes=[[Shuvelle]] is found in [[Worlds#Mamooooth Mountain|Mamooooth Mountain]].
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text=Diggy diggy hole I'm digging a hole...
 }}
 |}

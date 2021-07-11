@@ -14,10 +14,6 @@
 |resource1=Forest Fibres|quantity1=10
 |resource2=Fly|quantity2=10
 }}
-{{usedin/head}}
-{{usedin/row|[[FMJ Bullet]]|2|Crafting}}
-{{usedin/row|[[Bandit Bob#Bullets for Bandit Bob!|Bullets for Bandit Bob!]]|300|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Fibres|10}}

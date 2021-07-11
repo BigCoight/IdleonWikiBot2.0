@@ -10,6 +10,3 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=17|vendor=Blunder Hills|stock=1|buyprice=10000}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Papua Piggea#Stamp Collecting|Stamp Collecting]]|5|Quests}}
-|}

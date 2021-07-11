@@ -6,6 +6,3 @@
 |source=[[Bandit Bob#Bringing Bob's Boxes|Bringing Bob's Boxes]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Cowbo Jones#Bake Him Away, Toys|Bake Him Away, Toys]]|1|Quests}}
-|}

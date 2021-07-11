@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Gemini
-|mmm=Tisler
-|birthweight=3.25
+|starsign=Capricorn
+|mmm=Bateman
+|birthweight=4.87
 |notes=fillme
 }}
 {{Quest/head}}

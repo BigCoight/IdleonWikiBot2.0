@@ -8,7 +8,7 @@
 |upgrade=2
 |defence=4
 |sellprice=254
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,14 +16,11 @@
 |craftnum=13
 |levelreq=4
 |expgiven=12
-|recipefrom=
+|recipefrom=Start
 |resource1=Frog Leg|quantity1=25
 |resource2=Oak Logs|quantity2=45
 |resource3=Thread|quantity3=13
 }}
-{{usedin/head}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Frog Leg|25}}

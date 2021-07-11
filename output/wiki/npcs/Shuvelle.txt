@@ -1,11 +1,11 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Mamooooth Mountain
+|noquest=0
+|repeatable=Unknown
 |starsign=Leo
 |mmm=Chambers
 |birthweight=6.48
-|notes=fillme
+|notes=[[Shuvelle]] is found in [[Worlds#Mamooooth Mountain|Mamooooth Mountain]].
 }}
 {{Quest/head}}
 |}

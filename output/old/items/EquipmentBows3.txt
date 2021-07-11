@@ -21,11 +21,6 @@
 |resource1=Slime Sludge|quantity1=125
 |resource2=Bleach Logs|quantity2=250
 }}
-{{usedin/head}}
-{{usedin/row|[[Spiked Menace]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}

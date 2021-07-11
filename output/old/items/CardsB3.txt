@@ -2,7 +2,7 @@
 |title=Crabcake
 |order=2
 |category=Yum Yum Desert
-|effect=+{% To not consume Food
+|effect=+% To not consume Food
 |bonus=5
 |reqtier=10
 |source=[[Crabcake]]

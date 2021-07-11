@@ -1,4 +1,8 @@
 {{Fishingaccessory
+|depth3=20
+|fishingexp=15
+|source=[[Carpetiem#Helping 100 times over|Helping 100 times over]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}

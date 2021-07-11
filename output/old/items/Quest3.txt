@@ -9,6 +9,3 @@
 {{detdrops/head}}
 {{detdrops|[[Frog]]|0.15|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Picnic Stowaway#Beating Up Frogs for some Sauce|Beating Up Frogs for some Sauce]]|3|Quests}}
-|}

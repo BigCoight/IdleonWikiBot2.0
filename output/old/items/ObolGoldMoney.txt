@@ -2,10 +2,10 @@
 |class=All
 |level=1
 |type=Square Obol
-|wis=4
-|luck=6
-|misc=13% Money
+|misc=10% Money
 |sellprice=8
 |rarity=Golden
+|source=[[Gem Shop#Quality Obol Stack|Quality Obol Stack]], [[Gem Shop#Marvelous Obol Stack|Marvelous Obol Stack]]
 |notes= 
+|family=Money
 }}

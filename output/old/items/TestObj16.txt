@@ -2,7 +2,7 @@
 |class=All
 |level=15
 |type=Helmet
-|weaponpower=5
+|weaponpower=50
 |str=3
 |agi=3
 |luck=3

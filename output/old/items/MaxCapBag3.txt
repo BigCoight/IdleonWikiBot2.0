@@ -3,7 +3,6 @@
 |description=Hold down on this bag to increase the Carry Capacity of the following items to 250: Ores, Bars, Barrels.
 |sellprice=34700
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
-|notes= 
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 2
@@ -15,9 +14,6 @@
 |resource2=Small Mining Pouch|quantity2=3
 |resource3=Gold Ore|quantity3=1400
 }}
-{{usedin/head}}
-{{usedin/row|[[Sizable Mining Pouch]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Cramped Mining Pouch|5}}
@@ -26,7 +22,7 @@
 {{detrecipe|40|Iron Ore|2100}}
 {{detrecipe|3|Gold Ore|1400}}
 |tot=
+{{detrecipe/totals|Gold Ore|1400}}
 {{detrecipe/totals|Copper Ore|600}}
 {{detrecipe/totals|Iron Ore|2100}}
-{{detrecipe/totals|Gold Ore|1400}}
 }}

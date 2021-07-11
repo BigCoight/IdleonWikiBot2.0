@@ -2,7 +2,7 @@
 |title=Squiddy Soul
 |order=3
 |category=Hard Resources
-|effect=+{% Charge Rate
-|bonus=2.5
+|effect=+% Charge Rate
+|bonus=5
 |reqtier=5
 }}

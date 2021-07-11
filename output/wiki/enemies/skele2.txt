@@ -4,17 +4,18 @@
 |health=10000000
 |defence=100
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Hell Hath Frozen Over
 |exp=6000
-|respawn=40
+|respawn=60
 |defence0=3563.92
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Xylobone|Crystal Cattle}}
-{{DropTable/coin|10|0.5}}
+{{DropTable/head}}
+{{DropTable/coin|800|0.5}}
 {{DropTable/card|0.0001}}
-{{DropTable16|chance=0.00004}}
+{{DropTable16|chance=0.005}}
 |}

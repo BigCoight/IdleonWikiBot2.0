@@ -1,11 +1,11 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Crystal Basecamp
+|noquest=0
+|repeatable=Unknown
 |starsign=Leo
 |mmm=Lawless
 |birthweight=1.06
-|notes=fillme
+|notes=[[Bellows]] is located in [[Worlds#Crystal Basecamp|Crystal Basecamp]].
 }}
 {{Quest/head}}
 |}

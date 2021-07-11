@@ -8,7 +8,7 @@
 |upgrade=3
 |defence=25
 |sellprice=1167000
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,14 +16,11 @@
 |craftnum=22
 |levelreq=30
 |expgiven=36000
-|recipefrom=
+|recipefrom=Start
 |resource1=Potato Remains|quantity1=5000
 |resource2=Iron Platebody|quantity2=5
 |resource3=Platinum Bar|quantity3=1000
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Body]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Potato Remains|5000}}
@@ -33,7 +30,7 @@
 {{detrecipe|3|Platinum Bar|1000}}
 |tot=
 {{detrecipe/totals|Potato Remains|5000}}
+{{detrecipe/totals|Platinum Bar|1000}}
 {{detrecipe/totals|Iron Bar|750}}
 {{detrecipe/totals|Jungle Logs|3000}}
-{{detrecipe/totals|Platinum Bar|1000}}
 }}

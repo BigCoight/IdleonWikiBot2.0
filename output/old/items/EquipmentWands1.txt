@@ -8,7 +8,7 @@
 |reach=115
 |upgrade=1
 |sellprice=135
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,13 +16,10 @@
 |craftnum=4
 |levelreq=3
 |expgiven=12
-|recipefrom=
+|recipefrom=Start
 |resource1=Spore Cap|quantity1=25
 |resource2=Oak Logs|quantity2=30
 }}
-{{usedin/head}}
-{{usedin/row|[[Sleek Shank]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Spore Cap|25}}

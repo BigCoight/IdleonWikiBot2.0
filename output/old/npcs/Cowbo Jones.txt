@@ -113,12 +113,29 @@ His quests introduce [[Alchemy]] and guide the player through the first half of 
 }}
 {{Quest
 |name=Oh No, not the Elderly!
-|text=Find some old coot to assist.
+|text=Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.
 |difficulty=6
 |requirements=Geezers Helped: >= 100. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Inventory Bag H}}
 |notes=This quest is not completable yet.
+}}
+{{Quest
+|name=Tomb Raid
+|text=Raid Efaunt's tomb and steal his crystal.
+|difficulty=5
+|requirements=Efaunt Defeated: >= 1. Starting at 0., Crystal Stolen: >= 1. Starting at 0.
+|consumed=No
+|rewards=1x {{CraftReq|24 HR Time Candy}}, 1x {{CraftReq|Silver Obol of Experience}}, 1x {{CraftReq|Cowbo Jones Token}}
+|notes= 
+}}
+{{Quest
+|name=The New Sheriff
+|difficulty=9
+|requirements=1x {{CraftReq|Yumyum Desert NPC Completion Token}}, 1x {{CraftReq|Yumyum Skills Completion Token}}, 1x {{CraftReq|Yumyum Misc Completion Token}}
+|consumed=Yes
+|rewards=1x {{CraftReq|YumYum Sheriff}}
+|notes= 
 }}
 |}
 {{dialogue/head}}
@@ -285,7 +302,42 @@ His quests introduce [[Alchemy]] and guide the player through the first half of 
 |text=That was a bit better tell you hwat... but you know what they say: @ Give an orphan monster some water and they'll drink for a day. Teach an orphan monster how to extract the liquid from the players they kill and they'll drink for a lifetime.
 }}
 {{dialogue/row
-|text=Supposin' you aint really  innerested in that last part so there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist.
+|text=Supposin' you aint really innerested in that last part there's only one thing left to save our souls. @ We gotta help the elderly... @ QUEST:Find some old coot to assist. Some old rag a real carpet of a fella you know what I mean.
 |quest=Oh No, not the Elderly!
+}}
+{{dialogue/row
+|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=That'll just about do it! @ Wait... did you say the old geezer's name was... Carpetiem?? @ No no no no!! He's the oldest most crankiest old person! Helping him is like helping 100 old people!
+}}
+{{dialogue/row
+|text=Ya went too far! Now were TOO good! I swore on me grandcacti's life I'd never end up a goody two shoes... We gotta go back to crime to balance this out!
+}}
+{{dialogue/row
+|text=I got me an idea... there's a tomb way out in them Twilighty Desert dunes. It's home to the old Sultan a big dang elephant called Efaunt. You know what to do. @ QUEST:Raid Efaunt's tomb and steal his crystal.
+|quest=Tomb Raid
+}}
+{{dialogue/row
+|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=You got the crystal? @ ... @ ... @ STICK EM UP!
+}}
+{{dialogue/row
+|text=FINALLY I CAN GET TO WORLD 3 AND DITCH THIS DANG DESERT! @ Just gotta walk myself over to ya and pickpocket the crystal. @ Oh... right. I got no legs.
+}}
+{{dialogue/row
+|text=Well guess it just ain't meant to be. I hate this darn place I wish I wasnt the Sherrif... @ Hang on a tick!
+}}
+{{dialogue/row
+|text=Go make the 3 Yumyum Desert Tokens of Completion and you can have my Yumyum Sherrif Trophy! Here's the token recipes.
+|quest=The New Sheriff
+}}
+{{dialogue/row
+|text=You need more 1 open inventory space for rewards! Clear some space and talk to me again!
+}}
+{{dialogue/row
+|text=Go git 'er dun new Sheriff! YeeeeHAW!!!
 }}
 |}

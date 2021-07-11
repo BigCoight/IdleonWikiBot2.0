@@ -1,5 +1,6 @@
 {{npc
 |location=Froggy Fields
+|world=Blunder Hills
 |noquest=3
 |repeatable=Unknown
 |birthweight=3.32
@@ -11,7 +12,7 @@
 {{Quest
 |name=How It's Made, Episode 7. The Super Peanut
 |difficulty=3
-|requirements=1000x {{CraftReq|Peanut}}
+|requirements=500x {{CraftReq|Peanut}}
 |consumed=Yes
 |rewards={{Recipe|0|Peanut}}, 5000 Class Experience
 |notes=Drop the {{CraftReq|Stone Peanut}} at the rock on the bottom right side of Froggy Fields
@@ -22,6 +23,7 @@
 |requirements=5x {{CraftReq|Golden Peanut}}
 |consumed=Yes
 |rewards=1x {{CraftReq|Mystery Upgrade Stone I}}, 5000 Class Experience
+|notes=This quest can only be completed by a beginner (no class chosen)
 }}
 {{Quest
 |name=Becoming the Best Beginner
@@ -29,7 +31,7 @@
 |requirements=Become a Journeyman: >= 1. Starting at 0.
 |consumed=No
 |rewards=1x {{CraftReq|Club Member}}, {{Talentbook|Beginner Best Class}}
-|notes=This quest can only be completed by a beginner (no class chosen)
+|notes= 
 }}
 |}
 {{dialogue/head}}
@@ -40,7 +42,7 @@
 |text=U WANT TO JOIN CLUB? BE BEST BEGINNER? YEEE THAT IS GOOD! BUT I WANT SHINY PEANUT FIRST!
 }}
 {{dialogue/row
-|text=U NEVER MAKE SHINY PEANUT? BRING ME 1000 PEANUT AND I SHOW U HOW.
+|text=U NEVER MAKE SHINY PEANUT? BRING ME 500 PEANUT AND I SHOW U HOW.
 |quest=How It's Made, Episode 7. The Super Peanut
 }}
 {{dialogue/row

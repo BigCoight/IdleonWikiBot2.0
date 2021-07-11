@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+  Choppin Power
 |description=A stone statue named in a world where the name Jack doesn't exist. Give this to the Statue Man in return for some bonus stats
 |sellprice=10
 |source=[[DropTable4]], [[Alchemy#Level up Gift|Level up Gift]]

@@ -1,11 +1,14 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
+|location=Snowfield Outskirts
+|world=Frostbite Tundra
+|noquest=2
+|repeatable=Unknown
 |starsign=Gemini
 |mmm=Ziegler
 |birthweight=7.48
-|notes=fillme
+|notes=[[Lonely Hunter]] is found in [[Worlds#Snowfield Outskirts|Snowfield Outskirts]], the second zone of Frostbite Tundra, in the bottom right of the area.
+
+Completing his quests gives the player the ability to talk to him once every day to obtain a {{CraftReq|Colosseum Ticket}}. He will hold tickets for you for up to 3 days. Having more characters complete his quests does not provide more daily tickets.
 }}
 {{Quest/head}}
 {{Quest

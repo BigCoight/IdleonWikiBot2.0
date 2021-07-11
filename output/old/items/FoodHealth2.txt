@@ -6,9 +6,6 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=500|buyprice=80}}
+{{Vendoritem/tablerow|number=2|vendor=Blunder Hills|stock=750|buyprice=80}}
 {{Vendoritem/tablerow|number=1|vendor=Encroaching Forest Villas|stock=1000|buyprice=80}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Funguy#Mushroom Munchies|Mushroom Munchies]]|25|Quests}}
 |}

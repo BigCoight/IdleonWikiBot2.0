@@ -9,6 +9,7 @@
 |defence0=1223.26
 }}
 {{EnemyNavigation||}}
+{{DropTable/head}}
 {{DropTable/card|0.00022}}
 {{DropTable/row|Froge|1|1}}
 |}

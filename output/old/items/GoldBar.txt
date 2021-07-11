@@ -8,17 +8,3 @@
 {{detdrops|[[Colosseum#Sandstone Bronze Chest|Sandstone Bronze Chest]]|0.2|20}}
 {{detdrops|[[Colosseum#Sandstone Silver Chest|Sandstone Silver Chest]]|0.35|60}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Golden Peanut]]|50|Crafting}}
-{{usedin/row|[[Gold Helmet]]|250|Crafting}}
-{{usedin/row|[[Gold Platebody]]|350|Crafting}}
-{{usedin/row|[[Gold Platelegs]]|475|Crafting}}
-{{usedin/row|[[Gold Boots]]|600|Crafting}}
-{{usedin/row|[[Spiked Menace]]|250|Crafting}}
-{{usedin/row|[[Gold Pickaxe]]|800|Crafting}}
-{{usedin/row|[[Viking Cap]]|400|Crafting}}
-{{usedin/row|[[Dootjat Eye]]|80|Crafting}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Sanic Tools]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Prowesessary]]|Lots|Alchemy}}
-|}

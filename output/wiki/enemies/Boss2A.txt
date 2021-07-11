@@ -10,11 +10,13 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|King Doot|Chaotic Efaunt}}
+{{DropTable/head}}
 {{DropTable/coin|4000|1}}
 {{DropTable/card|0.035}}
 {{DropTable/row|Midnight Cookie|0.07|1}}
 {{DropTable/row|Skeletal Obol of Efaunt's Gaze|0.001|1}}
 {{DropTable/row|Royal Turban|0.000667|1}}
+{{DropTable/recipe|1|Star Talent Reset Potion|0.04}}
 {{DropTable/row|Ripped Tunic|0.3|1}}
 {{DropTable6|chance=1}}
 {{DropTable7|chance=1}}

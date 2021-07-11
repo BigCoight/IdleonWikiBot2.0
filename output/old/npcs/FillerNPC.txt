@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Cancer
-|mmm=Sweeney
-|birthweight=2.38
+|starsign=Aries
+|mmm=Chapman
+|birthweight=4.73
 |notes=fillme
 }}
 {{Quest/head}}

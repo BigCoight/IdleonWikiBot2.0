@@ -21,11 +21,6 @@
 |resource1=Slime Sludge|quantity1=125
 |resource2=Boring Brick|quantity2=125
 }}
-{{usedin/head}}
-{{usedin/row|[[Hide Shirt]]|1|Crafting}}
-{{usedin/row|[[Royal Bayonet]]|3|Crafting}}
-{{usedin/row|[[Desert Davey#U Cool?|U Cool?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Slime Sludge|125}}

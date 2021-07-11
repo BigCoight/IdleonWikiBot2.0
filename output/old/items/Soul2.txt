@@ -2,16 +2,9 @@
 |type=Soul
 |description=Fat chonker this one is! It must be the moonmoon diet these ghosts have, they should start eating some of those fruits for a change!
 |sellprice=9
-|source=[[Worship]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Worship]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.4|400}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Horned Skull]]|1200|Crafting}}
-{{usedin/row|[[Sizable Soul Pouch]]|1500|Crafting}}
-{{usedin/row|[[Soulble Gum]]|70|Crafting}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Sample It]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Chonker Chug]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.4|400}}
 |}

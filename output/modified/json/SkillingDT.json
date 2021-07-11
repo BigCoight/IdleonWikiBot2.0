@@ -21,9 +21,11 @@
             ["DropTable4", "0.0082", "1", "N/A"]
         ],
         "Void": [
+            ["Void Ore Card", "0.00006", "1", "N/A"],
             ["DropTable4", "0.0090", "2", "N/A"]
         ],
         "Lustre": [
+            ["Lustre Ore Card", "0.00006", "1", "N/A"],
             ["DropTable4", "0.0095", "2", "N/A"]
         ],
         "Starfire": [
@@ -98,27 +100,28 @@
     },
     "BUG_TYPE": {
         "Flies": [
-            ["Fly Card", "0.00022", "1", "N/A"],
+            ["Fly Card", "0.00042", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
         "Butterflies": [
-            ["Butterfly Card", "0.00018", "1", "N/A"],
+            ["Butterfly Card", "0.00030", "1", "N/A"],
+            ["Butter Bar", "0.01", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
         "Sentient Cereal": [
-            ["Sentient Cereal Card", "0.00016", "1", "N/A"],
+            ["Sentient Cereal Card", "0.00028", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
         "Fruitflies": [
-            ["Fruitfly Card", "0.00014", "1", "N/A"],
+            ["Fruitfly Card", "0.00025", "1", "N/A"],
             ["DropTable12", "0.015", "1", "N/A"]
         ],
         "Mosquisnow": [
-            ["Mosquisnow Card", "0.00014", "1", "N/A"],
+            ["Mosquisnow Card", "0.00025", "1", "N/A"],
             ["DropTable18", "0.015", "1", "N/A"]
         ],
         "Flycicle": [
-            ["Flycicle Card", "0.00014", "1", "N/A"],
+            ["Flycicle Card", "0.00025", "1", "N/A"],
             ["DropTable18", "0.015", "1", "N/A"]
         ]
     },
@@ -197,12 +200,13 @@
             ["Platinum Bar", "0.2", "20", "N/A"],
             ["Dementia Ore", "0.1", "80", "N/A"],
             ["Bloach", "0.2", "150", "N/A"],
+            ["Fruitfly", "0.2", "169", "N/A"],
             ["Gold Platelegs", "0.04", "1", "N/A"],
             ["Efaunt's Tomb Key", "0.18", "1", "N/A"],
             ["DropTable8", "1", "1", "N/A"]
         ],
         "Sandstone Legendary Chest": [],
-        "Frostbite Bronze Chest": [
+        "Chillsnap Bronze Chest": [
             ["COIN", "1", "1000", "N/A"],
             ["Gem", "0.12", "1", "N/A"],
             ["Weapon Upgrade Stone III", "0.025", "1", "N/A"],
@@ -215,7 +219,7 @@
             ["Platinum Bar", "0.2", "20", "N/A"],
             ["DropTable14", "1", "1", "N/A"]
         ],
-        "Frostbite Silver Chest": [
+        "Chillsnap Silver Chest": [
             ["COIN", "1", "4000", "N/A"],
             ["Gem", "0.23", "1", "N/A"],
             ["Gold Helmet", "0.02", "1", "N/A"],
@@ -229,7 +233,7 @@
             ["Tundra Logs", "0.5", "100", "N/A"],
             ["DropTable15", "1", "1", "N/A"]
         ],
-        "Frostbite Golden Chest": [
+        "Chillsnap Golden Chest": [
             ["COIN", "1", "10000", "N/A"],
             ["Gem", "0.45", "1", "N/A"],
             ["Dementia Bar", "0.2", "80", "N/A"],
@@ -241,7 +245,7 @@
             ["Golden Bread", "0.3", "1", "N/A"],
             ["DropTable16", "1", "1", "N/A"]
         ],
-        "Frostbite Legendary Chest": [],
+        "Chillsnap Legendary Chest": [],
         "NYI Bronze Chest": [],
         "NYI Silver Chest": [],
         "NYI Golden Chest": [],

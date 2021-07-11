@@ -6,5 +6,5 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=4|vendor=Blunder Hills|stock=400|buyprice=20}}
+{{Vendoritem/tablerow|number=5|vendor=Blunder Hills|stock=400|buyprice=20}}
 |}

@@ -7,7 +7,7 @@
 |upgrade=1
 |defence=4
 |sellprice=201
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -15,15 +15,11 @@
 |craftnum=7
 |levelreq=4
 |expgiven=7
-|recipefrom=
+|recipefrom=Start
 |resource1=Frog Leg|quantity1=20
 |resource2=Copper Bar|quantity2=8
 |resource3=Thread|quantity3=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|10|Crafting}}
-{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|8|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Frog Leg|20}}

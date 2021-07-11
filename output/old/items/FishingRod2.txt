@@ -3,6 +3,7 @@
 |level=8
 |skill=fishing
 |type=Fishing Rod
+|speed=3
 |skillpower=8
 |str=2
 |upgrade=2

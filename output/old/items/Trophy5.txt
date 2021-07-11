@@ -6,5 +6,5 @@
 |luck=5
 |misc=2% Luk
 |sellprice=777
-|notes= 
+|notes=Roll a 1 with [[Special Talents#Roll Da Dice|Roll Da Dice]]
 }}

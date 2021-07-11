@@ -16,17 +16,14 @@
 |levelreq=14
 |expgiven=800
 |recipefrom=[[Glublin]], [[Funguy#Videogame Highscores are COOL!|Videogame Highscores are COOL!]]
-|resource1=Goblin Ear|quantity1=500
+|resource1=Glublin Ear|quantity1=500
 |resource2=Iron Bar|quantity2=500
 }}
-{{usedin/head}}
-{{usedin/row|[[Feral Leathering]]|4|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Goblin Ear|500}}
+{{detrecipe|3|Glublin Ear|500}}
 {{detrecipe|3|Iron Bar|500}}
 |tot=
-{{detrecipe/totals|Goblin Ear|500}}
+{{detrecipe/totals|Glublin Ear|500}}
 {{detrecipe/totals|Iron Bar|500}}
 }}

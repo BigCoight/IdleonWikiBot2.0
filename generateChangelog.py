@@ -52,7 +52,7 @@ def compare(old, new, name, compareFunc=None, excludeReges=""):
         else:
             return match[0]
 
-    regex = r"\['([\w \-\.']*)'\]|\[([0-9]*)\]"
+    regex = r"\['([\w \-\.'\!\,]*)'\]|\[([0-9]*)\]"
     formattedChanges = {"Changes": {}, "New": {}, "Removed": {}}
     difference = deepdiff.DeepDiff(old, new, ignore_order=False, exclude_regex_paths=excludeReges, iterable_compare_func=compareFunc, ignore_numeric_type_changes=True)
     print(difference.keys())
@@ -110,7 +110,6 @@ def compare(old, new, name, compareFunc=None, excludeReges=""):
             for toDel in excludeReges:
                 if toDel in tempToAdd.keys():
                     del tempToAdd[toDel]
-
             if isinstance(tempToAdd[getMatch(matches[-1])], dict):
                 for toDel in excludeReges:
                     if toDel in tempToAdd[getMatch(matches[-1])].keys():
@@ -120,7 +119,11 @@ def compare(old, new, name, compareFunc=None, excludeReges=""):
     if changes := difference.get("dictionary_item_removed"):
         for newValue in changes:
             matches = re.findall(regex, newValue)
-            current = formattedChanges["Removed"]
+            if len(matches) == 1:
+                print(matches)
+                current = formattedChanges["Removed"]
+            else:
+                current = formattedChanges["Changes"]
             tempToAdd = old
             for match in matches[:-1]:
                 if getMatch(match) in current.keys():
@@ -133,7 +136,11 @@ def compare(old, new, name, compareFunc=None, excludeReges=""):
             for toDel in excludeReges:
                 if toDel in tempToAdd.keys():
                     del tempToAdd[toDel]
-            current[getMatch(matches[-1])] = tempToAdd[getMatch(matches[-1])]
+            if len(matches) == 1:
+                current[getMatch(matches[-1])] = tempToAdd[getMatch(matches[-1])]
+            else:
+                current[getMatch(matches[-1])] = (tempToAdd[getMatch(matches[-1])], "Removed")
+
     if changes := difference.get("type_changes"):
         print(changes)
     writeJSON(name, formattedChanges)
@@ -178,4 +185,4 @@ def main(oldVer, newVer):
 
 
 if __name__ == "__main__":
-    main("120", "120b")
+    main("122", "122d")

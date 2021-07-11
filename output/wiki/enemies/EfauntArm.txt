@@ -9,5 +9,6 @@
 |defence0=12.82
 }}
 {{EnemyNavigation||}}
+{{DropTable/head}}
 {{DropTable/card|0.0000005}}
 |}

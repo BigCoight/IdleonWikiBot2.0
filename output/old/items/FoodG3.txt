@@ -1,15 +1,14 @@
 {{InfoItem
 |type=Golden Food
-|description=Increases your Total Defence by [. Golden foods are never consumed
+|description=Increases your Total Defence. Golden foods are never consumed
 |sellprice=350
 |source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Picnic Stowaway#The Last Supper, at Least for Today!|The Last Supper, at Least for Today!]], [[Picnic Stowaway#Don't Desert the Dessert|Don't Desert the Dessert]], [[Picnic Stowaway#A Midnight Snack|A Midnight Snack]], [[SuperDropTable2]]
 |notes= 
 }}
-{{gfoodbonus|50|Increases your Total Defence by [.}}
+{{gfoodbonus|30|Increases your Total Defence by [%.}}
 {{detdrops/head}}
 {{detdrops|[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]]|0.5|1}}
 {{detdrops|[[Crystal Crabal]]|0.0018|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0018|1.0}}
 {{detdrops|[[Sandy Pot]]|0.000009|1.0}}
 {{detdrops|[[Mimic]]|0.000009600000000000001|1.0}}
 {{detdrops|[[Crabcake]]|0.0000108|1.0}}
@@ -42,7 +41,4 @@
 {{detdrops|[[Catching#Drops|Catching Butterflies]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Sentient Cereal]]|0.000044999999999999996|1.0}}
 {{detdrops|[[Catching#Drops|Catching Fruitflies]]|0.000044999999999999996|1.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Sizable Food Pouch]]|9|Crafting}}
 |}

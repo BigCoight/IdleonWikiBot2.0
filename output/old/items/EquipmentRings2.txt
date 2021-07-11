@@ -19,10 +19,6 @@
 |recipefrom=[[DropTable1]]
 |resource1=Copper Bar|quantity1=300
 }}
-{{usedin/head}}
-{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|300}}

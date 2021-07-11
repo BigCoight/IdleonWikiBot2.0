@@ -1,5 +1,6 @@
 {{InfoItem
 |type=Statue
+|bonus=+ % Accuracy
 |description=This statue was created by shooting a target statue into a stationary arrow statue.
 |sellprice=10
 |source=[[DropTable3c]]

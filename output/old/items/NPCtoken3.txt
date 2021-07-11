@@ -2,7 +2,7 @@
 |type=Quest Item
 |description=Made up of the tokens from all of the Blunder NPCs whose quests are hardest to complete.
 |sellprice=12001
-|source=[[Smithing]]
+|source=[[Smithing]], [[Scripticus#Champion of the Grasslands|Recipe from Champion of the Grasslands]]
 |notes= 
 }}
 {{ForgeSlot
@@ -10,15 +10,12 @@
 |craftnum=63
 |levelreq=1
 |expgiven=2
-|recipefrom=
+|recipefrom=[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]
 |resource1=Picnic Token|quantity1=1
 |resource2=TP Pete Token|quantity2=1
 |resource3=Sproutinald Token|quantity3=1
 |resource4=Dazey Token|quantity4=1
 }}
-{{usedin/head}}
-{{usedin/row|[[Blunderhills NPC Completion Token]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Picnic Token|1}}

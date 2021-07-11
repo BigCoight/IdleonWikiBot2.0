@@ -86,9 +86,9 @@
             "Depth2": "0",
             "Depth3": "20",
             "Depth4": "60",
-            "FishingExp": "5",
+            "FishingExp": "0",
             "FishingSpeed": "0",
-            "FishingPower": "5"
+            "FishingPower": "6"
         },
         {
             "Name": "Valve_Circles",
@@ -176,9 +176,9 @@
             "Name": "Silver_Twine",
             "Depth1": "0",
             "Depth2": "0",
-            "Depth3": "0",
+            "Depth3": "20",
             "Depth4": "0",
-            "FishingExp": "0",
+            "FishingExp": "15",
             "FishingSpeed": "0",
             "FishingPower": "0"
         },
@@ -224,10 +224,10 @@
         },
         {
             "Name": "Electrical_Wire",
-            "Depth1": "20",
+            "Depth1": "0",
             "Depth2": "0",
-            "Depth3": "0",
-            "Depth4": "0",
+            "Depth3": "5",
+            "Depth4": "20",
             "FishingExp": "0",
             "FishingSpeed": "2",
             "FishingPower": "5"

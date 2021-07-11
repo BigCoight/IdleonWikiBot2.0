@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Cryosnake
 |order=9
-|category=Frostfire Tyundra
-|effect=+{% MP regen rate
+|category=Frostbite Tundra
+|effect=+% MP regen rate
 |bonus=5
 |reqtier=17
 |source=[[Cryosnake]]

@@ -33,10 +33,6 @@ Copper Band
 |recipefrom=[[DropTable1]]
 |resource1=Copper Bar|quantity1=300
 }}
-{{usedin/head}}
-{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|300}}
@@ -66,9 +62,6 @@ Steel Band
 |recipefrom=[[DropTable3]], [[Tasks/Unlocks|Tasks]]
 |resource1=Iron Bar|quantity1=600
 }}
-{{usedin/head}}
-{{usedin/row|[[Dooble Goopi]]|1|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|600}}
@@ -169,12 +162,11 @@ Spikeweed Ring
 Defenders Dignity
 {{InfoItem
 |class=All
-|level=20
+|level=30
 |type=Ring
-|luck=1
 |upgrade=2
-|defence=10
-|sellprice=73250
+|defence=15
+|sellprice=42750
 |source=[[Smithing]], [[Mimic|Recipe from Mimic]]
 |notes= 
 }}
@@ -184,18 +176,18 @@ Defenders Dignity
 |levelreq=23
 |expgiven=10000
 |recipefrom=[[Mimic]]
-|resource1=Goldfish|quantity1=16000
-|resource2=Golden Plop|quantity2=17
+|resource1=Goldfish|quantity1=10000
+|resource2=Golden Plop|quantity2=4
 |resource3=Distilled Water|quantity3=15
 }}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Goldfish|16000}}
-{{detrecipe|3|Golden Plop|17}}
+{{detrecipe|3|Goldfish|10000}}
+{{detrecipe|3|Golden Plop|4}}
 {{detrecipe|3|Distilled Water|15}}
 |tot=
-{{detrecipe/totals|Goldfish|16000}}
-{{detrecipe/totals|Golden Plop|17}}
+{{detrecipe/totals|Goldfish|10000}}
+{{detrecipe/totals|Golden Plop|4}}
 {{detrecipe/totals|Distilled Water|15}}
 }}
 Shallow Watering
@@ -323,7 +315,7 @@ Efaunt Trunculus
 |misc=2% Crit Chance
 |upgrade=4
 |defence=8
-|sellprice=145839
+|sellprice=143439
 |source=[[Smithing]]
 |notes= 
 }}
@@ -351,7 +343,7 @@ Efaunt Trunculus
 {{detrecipe|40|Potty Rolls|2000}}
 {{detrecipe|3|Pharoah Bow|1}}
 {{detrecipe|40|Woodular Circle|3}}
-{{detrecipe|40|Bloach|3200}}
+{{detrecipe|40|Bloach|1400}}
 {{detrecipe|40|Spiked Menace|2}}
 {{detrecipe|80|Gold Bar|500}}
 {{detrecipe|80|Birch Longbow|6}}
@@ -362,13 +354,14 @@ Efaunt Trunculus
 {{detrecipe/totals|Ribbed Tunic|4}}
 {{detrecipe/totals|Ripped Tunic|15}}
 {{detrecipe/totals|Cue Tape|5000}}
+{{detrecipe/totals|Potty Rolls|2000}}
+{{detrecipe/totals|Woodular Circle|3}}
+{{detrecipe/totals|Bloach|1400}}
 {{detrecipe/totals|Copper Bar|100}}
 {{detrecipe/totals|Oak Logs|375}}
 {{detrecipe/totals|Trusty Nails|100}}
-{{detrecipe/totals|Woodular Circle|3}}
-{{detrecipe/totals|Bloach|3200}}
 {{detrecipe/totals|Gold Bar|500}}
+{{detrecipe/totals|Distilled Water|16}}
 {{detrecipe/totals|Slime Sludge|750}}
 {{detrecipe/totals|Bleach Logs|1500}}
-{{detrecipe/totals|Distilled Water|16}}
 }}

@@ -1,12 +1,14 @@
 {{InfoItem
 |class=All
 |level=10
+|skill=worship
 |type=Worship Skull
-|weaponpower=8
+|speed=5
+|skillpower=8
 |wis=4
 |upgrade=1
 |sellprice=1250
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -14,7 +16,7 @@
 |craftnum=83
 |levelreq=16
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Forest Soul|quantity1=250
 |resource2=Redox Salts|quantity2=5
 }}

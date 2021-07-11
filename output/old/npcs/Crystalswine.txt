@@ -1,16 +1,23 @@
 {{npc
-|location=fillme
-|noquests=fillme
-|repeatable=Unknonwn
-|starsign=Gemini
-|mmm=Olson
-|birthweight=1.17
-|notes=fillme
+|location=Cryo Catacombs
+|world=Frostbite Tundra
+|noquest=0
+|repeatable=Unknown
+|starsign=Leo
+|mmm=Vogal
+|birthweight=8.75
+|notes=[[Crystalswine]] is found in [[Worlds#Cryo Catacombs|Cryo Catacombs]].
 }}
 {{Quest/head}}
 |}
 {{dialogue/head}}
 {{dialogue/row
-|text=The engraving on the side says 'High Power Hubble Telescope capable of over 500000x magnification...'
+|text='The pig looks at you'
+}}
+{{dialogue/row
+|text='You step to the side... the pig's eyes dont move because he's frozen. It was just a coincidence that they were looking at you at first.'
+}}
+{{dialogue/row
+|text='Unless you want a puddle of water and some roasted ham there's not much you can do here.'
 }}
 |}

@@ -5,6 +5,7 @@
 |source=[[Vendors#Faraway Piers|Faraway Piers Vendor]]
 |type=Fishing Accessory
 |sellprice=15000
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters! Also turns your character into Idleon's busiest music nerd for 0.01 seconds.
 }}
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=5|vendor=Faraway Piers|stock=1|buyprice=60000}}

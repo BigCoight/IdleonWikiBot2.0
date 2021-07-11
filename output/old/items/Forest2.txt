@@ -8,9 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Wode Board]]|0.15|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|275|Crafting}}
-{{usedin/row|[[Tiki Chief#Brochure Building|Brochure Building]]|500|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Startue Exp]]|Lots|Alchemy}}
-|}

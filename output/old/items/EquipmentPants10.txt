@@ -21,6 +21,3 @@
 {{detdrops|[[Baba Yaga]]|0.02|2.0}}
 {{detdrops|[[Dewdrop Bronze Chest]]|0.02|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
-|}

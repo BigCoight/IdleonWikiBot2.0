@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Sheepie
 |order=0
-|category=Frostfire Tyundra
-|effect=+{% Defence from Equipment
+|category=Frostbite Tundra
+|effect=+% Defence from Equipment
 |bonus=3
 |reqtier=11
 |source=[[Sheepie]]

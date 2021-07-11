@@ -13,7 +13,8 @@
 |crystalname=Crystal Carrot
 |hascard=Yes
 }}
-{{EnemyNavigation|Crystal Carrot|Boop}}
+{{EnemyNavigation|Crystal Carrot|Sandy Pot}}
+{{DropTable/head}}
 {{DropTable/coin|40|0.5}}
 {{DropTable/row|Red Frisbee|0.00001|1}}
 {{DropTable/row|Woodular Circle|0.000075|1}}

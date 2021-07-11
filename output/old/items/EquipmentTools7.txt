@@ -1,14 +1,15 @@
 {{InfoItem
 |class=All
-|level=45
+|level=40
 |skill=mining
 |type=Pickaxe
+|speed=4
 |skillpower=19
 |str=15
 |agi=5
 |misc=2% Mining Efficincy
 |upgrade=3
-|sellprice=7810900
+|sellprice=8560900
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -22,9 +23,6 @@
 |resource2=Moustache Comb|quantity2=15000
 |resource3=Platinum Pickaxe|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Pik]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Dementia Bar|275}}

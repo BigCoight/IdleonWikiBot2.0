@@ -8,8 +8,3 @@
 {{detdrops/head}}
 {{detdrops|[[Snelbie]]|0.14|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Pelt for the Pelt God|Pelt for the Pelt God]]|10|Quests}}
-{{usedin/row|[[Post Office#Dudes Next Door|Dudes Next Door]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Laaarrrryyyy]]|Lots|Alchemy}}
-|}

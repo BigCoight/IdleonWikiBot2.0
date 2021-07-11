@@ -2,7 +2,11 @@
 |title=Meaning of Giftmas
 |order=2
 |category=Event
-|effect=+{% Money from Monsters
+|effect=+% Money from Monsters
 |bonus=3
 |reqtier=1.5
+|source=[[Summer Spirit]]
 }}
+{{detdrops/head}}
+{{detdrops|[[Summer Spirit]]|0.05|1}}
+|}

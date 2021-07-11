@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Frog|Slime}}
+{{DropTable/head}}
 {{DropTable/coin|5|0.46}}
 {{DropTable/row|Bean Slices|0.20|1}}
 {{DropTable/card|0.000097}}

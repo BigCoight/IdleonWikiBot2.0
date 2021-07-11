@@ -6,15 +6,12 @@ import updateEnemies
 
 
 def main(oldFn, newFn):
-    extractInfo.main(fr"./input/codefile/idleon{oldFn}.txt")
-    updateItems.main(True, False)
-    updateNPCs.main(True, False)
-    updateEnemies.main(True, False)
-    extractInfo.main(fr"./input/codefile/idleon{newFn}.txt")
-    updateItems.main(False, True)
-    updateNPCs.main(False, True)
-    updateEnemies.main(False, True)
+    # extractInfo.main(fr"./input/codefile/idleon{newFn}.txt")
+    # #updateItems.main(False, True)
+    # #updateNPCs.main(True, False)
+    # #updateEnemies.main(False, True)
+    pass
 
 
 if __name__ == "__main__":
-    main("114b", "120b")
+    main("114b", "121")

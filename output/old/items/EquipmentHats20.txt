@@ -20,9 +20,6 @@
 |resource2=Copper Ore|quantity2=150
 |resource3=Copper Helmet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Viking Cap]]|5|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|25}}

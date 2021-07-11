@@ -8,7 +8,7 @@
 |misc=5% Crit Damage
 |reach=205
 |upgrade=4
-|sellprice=290740
+|sellprice=227540
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -22,15 +22,12 @@
 |resource2=Pharoah Bow|quantity2=2
 |resource3=Redox Salts|quantity3=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Blackhole Bow]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Forest Soul|7000}}
 {{detrecipe|3|Pharoah Bow|2}}
 {{detrecipe|40|Woodular Circle|6}}
-{{detrecipe|40|Bloach|6400}}
+{{detrecipe|40|Bloach|2800}}
 {{detrecipe|40|Spiked Menace|4}}
 {{detrecipe|80|Gold Bar|1000}}
 {{detrecipe|80|Birch Longbow|12}}
@@ -40,10 +37,11 @@
 {{detrecipe|3|Redox Salts|150}}
 |tot=
 {{detrecipe/totals|Forest Soul|7000}}
+{{detrecipe/totals|Redox Salts|150}}
 {{detrecipe/totals|Woodular Circle|6}}
-{{detrecipe/totals|Bloach|6400}}
+{{detrecipe/totals|Bloach|2800}}
 {{detrecipe/totals|Gold Bar|1000}}
+{{detrecipe/totals|Distilled Water|32}}
 {{detrecipe/totals|Slime Sludge|1500}}
 {{detrecipe/totals|Bleach Logs|3000}}
-{{detrecipe/totals|Redox Salts|150}}
 }}

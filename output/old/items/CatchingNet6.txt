@@ -3,6 +3,7 @@
 |level=45
 |skill=catching
 |type=Bug Catching Net
+|speed=5
 |skillpower=31
 |str=4
 |agi=9
@@ -21,9 +22,6 @@
 |resource2=Redox Salts|quantity2=50
 |resource3=Platinet|quantity3=2
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Net]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Mosquisnow|15000}}

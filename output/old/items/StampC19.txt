@@ -8,10 +8,11 @@
 }}
 {{stampdata|stype=Overkill|ftype=add|x1=1|x2=0|i4=2|material=Spore Cap|i6=100|i7=3|i8=10000|i9=1.3|i10=0|i11={}% Base Overkill|i12=3}}
 {{detdrops/head}}
+{{detdrops|[[Crystal Cattle]]|0.00015|1.0}}
 {{detdrops|[[Bloque]]|0.0000007499999999999999|1.0}}
 {{detdrops|[[Mamooth]]|0.00000081|1.0}}
 {{detdrops|[[Snowman]]|0.0000008699999999999998|1.0}}
 {{detdrops|[[Penguin]]|0.0000009299999999999999|1.0}}
 {{detdrops|[[Thermister]]|0.0000009899999999999998|1.0}}
-{{detdrops|[[Frostbite Silver Chest]]|0.0003|1.0}}
+{{detdrops|[[Chillsnap Silver Chest]]|0.0003|1.0}}
 |}

@@ -13,6 +13,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Nutto|Wood Mushroom}}
+{{DropTable/head}}
 {{DropTable/coin|1|0.5}}
 {{DropTable/card|0.01}}
 {{DropTable/row|Crystallin|.1|1|([[Papua Piggea]])}}

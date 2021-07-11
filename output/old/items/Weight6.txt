@@ -2,6 +2,8 @@
 |depth3=35
 |depth4=10
 |fishingspeed=5
+|source=[[Fishpaste97#Can you do the Can Can?|Can you do the Can Can?]]
 |type=Fishing Accessory
 |sellprice=50
+|description=Hold down to add this accessory to it to your fishing toolkit, where it can be accessed by all characters!
 }}

@@ -2,18 +2,9 @@
 |type=Soul
 |description=The soul moans ooOOOOooOOOoo, because it's the only key on his keyboard that works.
 |sellprice=3
-|source=[[Worship]], [[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]
+|source=[[Worship]], [[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Bronze Chest|Frostbite Bronze Chest]]|0.6|50}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Ceramic Skull]]|250|Crafting}}
-{{usedin/row|[[Small Soul Pouch]]|200|Crafting}}
-{{usedin/row|[[Dementia Body]]|1000|Crafting}}
-{{usedin/row|[[Blizzard Bow]]|7000|Crafting}}
-{{usedin/row|[[Alchemy#Quicc Cauldron|Bow Jack]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Purple Bargain]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Sippy Soul]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Bronze Chest|Chillsnap Bronze Chest]]|0.6|50}}
 |}

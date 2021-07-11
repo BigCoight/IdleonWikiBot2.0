@@ -696,6 +696,26 @@
             "no": 68,
             "tab": "Anvil Tab 1"
         },
+        "EquipmentPants22": {
+            "recipe": [
+                ["EquipmentPants15", "3"],
+                ["Fish1", "500"]
+            ],
+            "levelReqToCraft": "14",
+            "expGiven": "1",
+            "no": 69,
+            "tab": "Anvil Tab 1"
+        },
+        "EquipmentPants23": {
+            "recipe": [
+                ["EquipmentPants18", "3"],
+                ["Bug1", "500"]
+            ],
+            "levelReqToCraft": "14",
+            "expGiven": "1",
+            "no": 70,
+            "tab": "Anvil Tab 1"
+        },
         "EquipmentPendant17": {
             "recipe": [
                 ["Quest29", "4"],
@@ -1007,8 +1027,8 @@
         },
         "EquipmentRings11": {
             "recipe": [
-                ["Fish1", "16000"],
-                ["Sewers1b", "17"],
+                ["Fish1", "10000"],
+                ["Sewers1b", "4"],
                 ["PureWater", "15"]
             ],
             "levelReqToCraft": "23",
@@ -1052,7 +1072,7 @@
         },
         "EquipmentHats19": {
             "recipe": [
-                ["Fish3", "4000"],
+                ["Fish3", "2250"],
                 ["EquipmentHats18", "4"],
                 ["PlatBar", "750"]
             ],
@@ -1074,7 +1094,7 @@
         },
         "EquipmentPants5": {
             "recipe": [
-                ["Bug3", "500"],
+                ["Bug3", "5000"],
                 ["EquipmentPants3", "6"],
                 ["PlatBar", "1250"]
             ],
@@ -1085,8 +1105,8 @@
         },
         "EquipmentShoes4": {
             "recipe": [
-                ["PalmTree", "8000"],
-                ["Fish3", "8000"],
+                ["PalmTree", "7000"],
+                ["Fish3", "3000"],
                 ["EquipmentShoes3", "3"]
             ],
             "levelReqToCraft": "32",
@@ -1107,7 +1127,7 @@
         "EquipmentSword1": {
             "recipe": [
                 ["DesertA3b", "3"],
-                ["CraftMat9", "400"],
+                ["CraftMat9", "2500"],
                 ["TestObj3", "2"]
             ],
             "levelReqToCraft": "23",
@@ -1118,7 +1138,7 @@
         "EquipmentBows6": {
             "recipe": [
                 ["TreeInterior1b", "3"],
-                ["Fish4", "3200"],
+                ["Fish4", "1400"],
                 ["EquipmentBows5", "2"]
             ],
             "levelReqToCraft": "23",
@@ -1181,7 +1201,7 @@
         },
         "FishingRod5": {
             "recipe": [
-                ["Fish4", "7000"],
+                ["Fish4", "2000"],
                 ["PlatBar", "800"],
                 ["FishingRod4", "2"]
             ],
@@ -1192,7 +1212,7 @@
         },
         "MaxCapBagFi4": {
             "recipe": [
-                ["Fish4", "6750"],
+                ["Fish4", "2500"],
                 ["MaxCapBagFi3", "3"]
             ],
             "levelReqToCraft": "27",
@@ -1224,7 +1244,7 @@
         "MaxCapBagF4": {
             "recipe": [
                 ["FoodG3", "9"],
-                ["DesertA3b", "6"],
+                ["DesertA3b", "4"],
                 ["MaxCapBagF3", "2"]
             ],
             "levelReqToCraft": "28",
@@ -1234,8 +1254,8 @@
         },
         "MaxCapBagM5": {
             "recipe": [
-                ["Sewers1b", "5"],
-                ["TreeInterior1b", "5"],
+                ["Sewers1b", "3"],
+                ["TreeInterior1b", "4"],
                 ["MaxCapBagM4", "2"]
             ],
             "levelReqToCraft": "30",
@@ -1269,7 +1289,8 @@
         "Quest35": {
             "recipe": [
                 ["TreeInterior1b", "2"],
-                ["PureWater", "5"]
+                ["PureWater", "5"],
+                ["InvBag105", "1"]
             ],
             "levelReqToCraft": "17",
             "expGiven": "900",
@@ -1538,6 +1559,86 @@
             "expGiven": "4000",
             "no": 72,
             "tab": "Anvil Tab 2"
+        },
+        "BadgeD1": {
+            "recipe": [
+                ["NPCtoken28", "1"],
+                ["NPCtoken29", "1"],
+                ["NPCtoken30", "1"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 73,
+            "tab": "Anvil Tab 2"
+        },
+        "BadgeD2": {
+            "recipe": [
+                ["Fish4", "4000"],
+                ["Bug4", "8000"],
+                ["PureWater2", "50"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 74,
+            "tab": "Anvil Tab 2"
+        },
+        "BadgeD3": {
+            "recipe": [
+                ["Hgg", "13"],
+                ["DesertC2b", "25"],
+                ["EquipmentHats52", "1"],
+                ["EquipmentPendant14", "2"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 75,
+            "tab": "Anvil Tab 2"
+        },
+        "ResetCompletedS": {
+            "recipe": [
+                ["ResetFrag", "25"],
+                ["PureWater", "5"]
+            ],
+            "levelReqToCraft": "28",
+            "expGiven": "4000",
+            "no": 76,
+            "tab": "Anvil Tab 2"
+        },
+        "NPCtoken28": {
+            "recipe": [
+                ["NPCtoken16", "1"],
+                ["NPCtoken17", "1"],
+                ["NPCtoken18", "1"],
+                ["NPCtoken19", "1"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 77,
+            "tab": "Anvil Tab 2"
+        },
+        "NPCtoken29": {
+            "recipe": [
+                ["NPCtoken20", "1"],
+                ["NPCtoken21", "1"],
+                ["NPCtoken22", "1"],
+                ["NPCtoken27", "1"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 78,
+            "tab": "Anvil Tab 2"
+        },
+        "NPCtoken30": {
+            "recipe": [
+                ["NPCtoken24", "1"],
+                ["NPCtoken25", "1"],
+                ["NPCtoken26", "1"],
+                ["NPCtoken23", "1"]
+            ],
+            "levelReqToCraft": "30",
+            "expGiven": "4000",
+            "no": 79,
+            "tab": "Anvil Tab 2"
         }
     },
     {
@@ -1736,7 +1837,7 @@
         },
         "WorshipSkull4": {
             "recipe": [
-                ["Soul3", "12500"],
+                ["Soul3", "7000"],
                 ["Refinery1", "50"],
                 ["WorshipSkull3", "2"]
             ],
@@ -1782,7 +1883,8 @@
             "recipe": [
                 ["Refinery3", "500"],
                 ["EquipmentHats53", "2"],
-                ["VoidBar", "1000"]
+                ["VoidBar", "1000"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "43",
             "expGiven": "275000",
@@ -1793,7 +1895,8 @@
             "recipe": [
                 ["SnowC3", "75000"],
                 ["EquipmentShirts15", "2"],
-                ["VoidBar", "500"]
+                ["VoidBar", "500"],
+                ["PureWater2", "4"]
             ],
             "levelReqToCraft": "44",
             "expGiven": "300000",
@@ -1804,7 +1907,8 @@
             "recipe": [
                 ["Tree7", "75000"],
                 ["EquipmentPants6", "2"],
-                ["VoidBar", "650"]
+                ["VoidBar", "650"],
+                ["PureWater2", "4"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "370000",
@@ -1815,18 +1919,32 @@
             "recipe": [
                 ["Bug6", "60000"],
                 ["EquipmentShoes5", "2"],
-                ["VoidBar", "725"]
+                ["VoidBar", "725"],
+                ["PureWater2", "4"]
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
             "no": 28,
             "tab": "Anvil Tab 3"
         },
+        "EquipmentPunching5": {
+            "recipe": [
+                ["SnowA2a", "100"],
+                ["Critter5A", "50"],
+                ["Quest36", "10"],
+                ["PureWater2", "15"]
+            ],
+            "levelReqToCraft": "45",
+            "expGiven": "500000",
+            "no": 29,
+            "tab": "Anvil Tab 3"
+        },
         "EquipmentSword3": {
             "recipe": [
-                ["SnowC4a", "4"],
-                ["Critter6A", "5"],
-                ["EquipmentSword2", "3"]
+                ["SnowC4a", "10"],
+                ["Critter6A", "15"],
+                ["EquipmentSword2", "3"],
+                ["PureWater2", "7"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
@@ -1836,8 +1954,9 @@
         "EquipmentBows8": {
             "recipe": [
                 ["SnowC4a", "4"],
-                ["Refinery3", "250"],
-                ["EquipmentBows7", "3"]
+                ["Refinery3", "350"],
+                ["EquipmentBows7", "3"],
+                ["PureWater2", "7"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
@@ -1847,8 +1966,9 @@
         "EquipmentWands7": {
             "recipe": [
                 ["SnowC4a", "4"],
-                ["Soul4", "50000"],
-                ["EquipmentWands3", "3"]
+                ["Soul4", "8000"],
+                ["EquipmentWands3", "3"],
+                ["PureWater2", "7"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "450000",
@@ -1858,7 +1978,8 @@
         "EquipmentTools11": {
             "recipe": [
                 ["VoidBar", "400"],
-                ["EquipmentTools7", "2"]
+                ["EquipmentTools7", "2"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
@@ -1878,7 +1999,8 @@
         "EquipmentToolsHatchet7": {
             "recipe": [
                 ["Tree7", "50000"],
-                ["EquipmentToolsHatchet5", "2"]
+                ["EquipmentToolsHatchet5", "2"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
@@ -1899,7 +2021,8 @@
             "recipe": [
                 ["Refinery3", "200"],
                 ["Critter5A", "3"],
-                ["FishingRod6", "2"]
+                ["FishingRod6", "2"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
@@ -1919,7 +2042,8 @@
         "CatchingNet7": {
             "recipe": [
                 ["Bug6", "50000"],
-                ["CatchingNet6", "2"]
+                ["CatchingNet6", "2"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "45",
             "expGiven": "400000",
@@ -1939,7 +2063,8 @@
         "TrapBoxSet5": {
             "recipe": [
                 ["Critter6A", "6"],
-                ["TrapBoxSet4", "1"]
+                ["TrapBoxSet4", "1"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
@@ -1958,8 +2083,9 @@
         },
         "WorshipSkull5": {
             "recipe": [
-                ["Soul4", "50000"],
-                ["WorshipSkull4", "2"]
+                ["Soul4", "12000"],
+                ["WorshipSkull4", "2"],
+                ["PureWater2", "5"]
             ],
             "levelReqToCraft": "46",
             "expGiven": "500000",
@@ -1968,7 +2094,7 @@
         },
         "MaxCapBagS5": {
             "recipe": [
-                ["Soul4", "30000"],
+                ["Soul3", "30000"],
                 ["MaxCapBagS4", "2"]
             ],
             "levelReqToCraft": "44",
@@ -2116,7 +2242,8 @@
         "InvBag109": {
             "recipe": [
                 ["InvBag110", "1"],
-                ["Copper", "22"]
+                ["SnowA2", "2000"],
+                ["SnowA2a", "3"]
             ],
             "levelReqToCraft": "35",
             "expGiven": "5000",

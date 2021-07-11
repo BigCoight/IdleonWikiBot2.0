@@ -5,9 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Big Critter Pouch]]|10000|Crafting}}
-{{usedin/row|[[Lord of the Hunt#The Mouse n the Molerat|The Mouse n the Molerat]]|1000|Quests}}
-{{usedin/row|[[Alchemy#Power Cauldron|Buff Boi Talent]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Bubonic Burp]]|Lots|Alchemy}}
-|}

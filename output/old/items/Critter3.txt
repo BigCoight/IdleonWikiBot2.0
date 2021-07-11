@@ -5,7 +5,3 @@
 |source=[[Trapping]]
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[Lord of the Hunt#Small Stingers, Big Owie|Small Stingers, Big Owie]]|500|Quests}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Big Game Hunter]]|Lots|Alchemy}}
-|}

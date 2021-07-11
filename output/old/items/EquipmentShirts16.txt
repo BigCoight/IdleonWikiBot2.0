@@ -12,7 +12,3 @@
 {{detdrops/head}}
 {{detdrops|[[Green Mushroom]]|0.00035|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Blunderbag]]|2|Crafting}}
-{{usedin/row|[[Green Tee]]|2|Crafting}}
-|}

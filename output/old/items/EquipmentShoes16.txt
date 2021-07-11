@@ -7,7 +7,7 @@
 |misc=20% Mining Efficincy
 |upgrade=3
 |defence=10
-|sellprice=105850
+|sellprice=106050
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -36,11 +36,11 @@
 {{detrecipe|3|Copper Ore|1500}}
 {{detrecipe|3|Iron Ore|1200}}
 |tot=
+{{detrecipe/totals|Distilled Water|13}}
+{{detrecipe/totals|Copper Ore|1500}}
+{{detrecipe/totals|Iron Ore|1200}}
 {{detrecipe/totals|Gold Bar|600}}
 {{detrecipe/totals|Trusty Nails|1000}}
 {{detrecipe/totals|Iron Bar|250}}
 {{detrecipe/totals|Copper Bar|500}}
-{{detrecipe/totals|Distilled Water|9}}
-{{detrecipe/totals|Copper Ore|1500}}
-{{detrecipe/totals|Iron Ore|1200}}
 }}

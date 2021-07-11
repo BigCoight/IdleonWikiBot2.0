@@ -13,7 +13,8 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Snelbie|Crystal Crabal}}
+{{DropTable/head}}
 {{DropTable/coin|60|0.43}}
-{{DropTable/card|0.10}}
+{{DropTable/card|0.04}}
 {{DropTable7|chance=0.0032}}
 |}

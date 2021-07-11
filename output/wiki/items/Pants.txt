@@ -8,7 +8,7 @@ Torn Jeans
 |upgrade=1
 |defence=4
 |sellprice=201
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -16,15 +16,11 @@ Torn Jeans
 |craftnum=7
 |levelreq=4
 |expgiven=7
-|recipefrom=
+|recipefrom=Start
 |resource1=Frog Leg|quantity1=20
 |resource2=Copper Bar|quantity2=8
 |resource3=Thread|quantity3=15
 }}
-{{usedin/head}}
-{{usedin/row|[[Bleached Designer Wode Patch Pants]]|10|Crafting}}
-{{usedin/row|[[Dirty Coal Miner Baggy Soot Pants]]|8|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Frog Leg|20}}
@@ -46,7 +42,7 @@ Copper Platelegs
 |upgrade=2
 |defence=6
 |sellprice=870
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -54,13 +50,10 @@ Copper Platelegs
 |craftnum=19
 |levelreq=8
 |expgiven=75
-|recipefrom=
+|recipefrom=Start
 |resource1=Copper Bar|quantity1=60
 |resource2=Bleach Logs|quantity2=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Gold Platelegs]]|6|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Copper Bar|60}}
@@ -80,7 +73,7 @@ Iron Platelegs
 |upgrade=2
 |defence=11
 |sellprice=11065
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -88,13 +81,10 @@ Iron Platelegs
 |craftnum=35
 |levelreq=14
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Iron Bar|quantity1=170
 |resource2=Boring Brick|quantity2=225
 }}
-{{usedin/head}}
-{{usedin/row|[[Platinum Shins]]|6|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Iron Bar|170}}
@@ -114,7 +104,7 @@ Gold Platelegs
 |upgrade=3
 |defence=16
 |sellprice=61845
-|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Smithing]]
+|source=[[Colosseum#Sandstone Golden Chest|Sandstone Golden Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -122,7 +112,7 @@ Gold Platelegs
 |craftnum=3
 |levelreq=18
 |expgiven=2500
-|recipefrom=
+|recipefrom=Start
 |resource1=Goldfish|quantity1=500
 |resource2=Copper Platelegs|quantity2=6
 |resource3=Gold Bar|quantity3=475
@@ -136,9 +126,9 @@ Gold Platelegs
 {{detrecipe|3|Gold Bar|475}}
 |tot=
 {{detrecipe/totals|Goldfish|500}}
+{{detrecipe/totals|Gold Bar|475}}
 {{detrecipe/totals|Copper Bar|360}}
 {{detrecipe/totals|Bleach Logs|900}}
-{{detrecipe/totals|Gold Bar|475}}
 }}
 Amarok Hinds
 {{InfoItem
@@ -184,8 +174,8 @@ Platinum Shins
 |wis=6
 |upgrade=3
 |defence=23
-|sellprice=648890
-|source=[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]], [[Smithing]]
+|sellprice=716390
+|source=[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]], [[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -193,27 +183,23 @@ Platinum Shins
 |craftnum=23
 |levelreq=31
 |expgiven=50000
-|recipefrom=
-|resource1=Sentient Cereal|quantity1=500
+|recipefrom=Start
+|resource1=Sentient Cereal|quantity1=5000
 |resource2=Iron Platelegs|quantity2=6
 |resource3=Platinum Bar|quantity3=1250
 }}
-{{usedin/head}}
-{{usedin/row|[[Dementia Shins]]|2|Crafting}}
-{{usedin/row|[[Post Office#Plan-it Express|Plan-it Express]]|Lots|Post Office}}
-|}
 {{detrecipe/tab
 |reci=
-{{detrecipe|3|Sentient Cereal|500}}
+{{detrecipe|3|Sentient Cereal|5000}}
 {{detrecipe|3|Iron Platelegs|6}}
 {{detrecipe|40|Iron Bar|1020}}
 {{detrecipe|40|Boring Brick|1350}}
 {{detrecipe|3|Platinum Bar|1250}}
 |tot=
-{{detrecipe/totals|Sentient Cereal|500}}
+{{detrecipe/totals|Sentient Cereal|5000}}
+{{detrecipe/totals|Platinum Bar|1250}}
 {{detrecipe/totals|Iron Bar|1020}}
 {{detrecipe/totals|Boring Brick|1350}}
-{{detrecipe/totals|Platinum Bar|1250}}
 }}
 Dementia Shins
 {{InfoItem
@@ -226,8 +212,8 @@ Dementia Shins
 |misc=3% Defence
 |upgrade=4
 |defence=28
-|sellprice=2347780
-|source=[[Smithing]]
+|sellprice=3632780
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -235,19 +221,16 @@ Dementia Shins
 |craftnum=3
 |levelreq=38
 |expgiven=150000
-|recipefrom=
+|recipefrom=Start
 |resource1=Floof Ploof|quantity1=8000
 |resource2=Platinum Shins|quantity2=2
 |resource3=Dementia Bar|quantity3=400
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Shardshins]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Floof Ploof|8000}}
 {{detrecipe|3|Platinum Shins|2}}
-{{detrecipe|40|Sentient Cereal|1000}}
+{{detrecipe|40|Sentient Cereal|10000}}
 {{detrecipe|40|Iron Platelegs|12}}
 {{detrecipe|80|Iron Bar|2040}}
 {{detrecipe|80|Boring Brick|2700}}
@@ -255,10 +238,11 @@ Dementia Shins
 {{detrecipe|3|Dementia Bar|400}}
 |tot=
 {{detrecipe/totals|Floof Ploof|8000}}
-{{detrecipe/totals|Sentient Cereal|1000}}
+{{detrecipe/totals|Dementia Bar|400}}
+{{detrecipe/totals|Sentient Cereal|10000}}
+{{detrecipe/totals|Platinum Bar|2500}}
 {{detrecipe/totals|Iron Bar|2040}}
 {{detrecipe/totals|Boring Brick|2700}}
-{{detrecipe/totals|Dementia Bar|400}}
 }}
 Efaunt Hipilium
 {{InfoItem
@@ -306,8 +290,8 @@ Void Imperium Shardshins
 |misc=7% Defence
 |upgrade=4
 |defence=38
-|sellprice=11725560
-|source=[[Smithing]]
+|sellprice=14295760
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -315,10 +299,11 @@ Void Imperium Shardshins
 |craftnum=27
 |levelreq=45
 |expgiven=370000
-|recipefrom=
+|recipefrom=Start
 |resource1=Wispy Lumber|quantity1=75000
 |resource2=Dementia Shins|quantity2=2
 |resource3=Void Bar|quantity3=650
+|resource4=Dense Water|quantity4=4
 }}
 {{detrecipe/tab
 |reci=
@@ -326,21 +311,24 @@ Void Imperium Shardshins
 {{detrecipe|3|Dementia Shins|2}}
 {{detrecipe|40|Floof Ploof|16000}}
 {{detrecipe|40|Platinum Shins|4}}
-{{detrecipe|80|Sentient Cereal|2000}}
+{{detrecipe|80|Sentient Cereal|20000}}
 {{detrecipe|80|Iron Platelegs|24}}
 {{detrecipe|120|Iron Bar|4080}}
 {{detrecipe|120|Boring Brick|5400}}
 {{detrecipe|80|Platinum Bar|5000}}
 {{detrecipe|40|Dementia Bar|800}}
 {{detrecipe|3|Void Bar|650}}
+{{detrecipe|3|Dense Water|4}}
 |tot=
 {{detrecipe/totals|Wispy Lumber|75000}}
+{{detrecipe/totals|Void Bar|650}}
+{{detrecipe/totals|Dense Water|4}}
 {{detrecipe/totals|Floof Ploof|16000}}
-{{detrecipe/totals|Sentient Cereal|2000}}
+{{detrecipe/totals|Dementia Bar|800}}
+{{detrecipe/totals|Sentient Cereal|20000}}
+{{detrecipe/totals|Platinum Bar|5000}}
 {{detrecipe/totals|Iron Bar|4080}}
 {{detrecipe/totals|Boring Brick|5400}}
-{{detrecipe/totals|Dementia Bar|800}}
-{{detrecipe/totals|Void Bar|650}}
 }}
 Gilded Pilates
 {{InfoItem
@@ -405,9 +393,6 @@ Give Up On Life Pants
 {{detdrops|[[Baba Yaga]]|0.02|2.0}}
 {{detdrops|[[Dewdrop Bronze Chest]]|0.02|1.0}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Mutton#Beatboxing Starterpack|Beatboxing Starterpack]]|1|Quests}}
-|}
 Yellow Belt Ninja Pants
 {{InfoItem
 |class=All
@@ -466,7 +451,7 @@ Bleached Designer Wode Patch Pants
 |misc=5% Chop Efficiency
 |upgrade=3
 |defence=11
-|sellprice=4110
+|sellprice=10985
 |source=[[Smithing]], [[Wode Board|Recipe from Wode Board]]
 |notes= 
 }}
@@ -489,10 +474,11 @@ Bleached Designer Wode Patch Pants
 {{detrecipe|3|Plank|275}}
 {{detrecipe|3|Bleach Logs|700}}
 |tot=
+{{detrecipe/totals|Plank|275}}
+{{detrecipe/totals|Bleach Logs|700}}
 {{detrecipe/totals|Frog Leg|200}}
 {{detrecipe/totals|Copper Bar|80}}
 {{detrecipe/totals|Thread|150}}
-{{detrecipe/totals|Bleach Logs|700}}
 }}
 Adam's Leaf
 {{InfoItem
@@ -537,10 +523,10 @@ Dirty Coal Miner Baggy Soot Pants
 {{detrecipe|40|Thread|120}}
 {{detrecipe|3|Iron Ore|200}}
 |tot=
+{{detrecipe/totals|Iron Ore|200}}
 {{detrecipe/totals|Frog Leg|160}}
 {{detrecipe/totals|Copper Bar|64}}
 {{detrecipe/totals|Thread|120}}
-{{detrecipe/totals|Iron Ore|200}}
 }}
 Trimmed Rune Platelegs
 {{InfoItem
@@ -559,6 +545,79 @@ Trimmed Rune Platelegs
 {{detdrops/head}}
 {{detdrops|[[King Doot]]|0.04|1}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Helmet]]|1|Crafting}}
-|}
+Fishing Overalls
+{{InfoItem
+|class=All
+|level=35
+|type=Pants
+|str=8
+|misc=12% Fishin Efficincy
+|upgrade=3
+|defence=15
+|sellprice=34955
+|source=[[Smithing]], [[Walking Stick|Recipe from Walking Stick]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=69
+|levelreq=14
+|expgiven=1
+|recipefrom=[[Walking Stick]]
+|resource1=Bleached Designer Wode Patch Pants|quantity1=3
+|resource2=Goldfish|quantity2=500
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Bleached Designer Wode Patch Pants|3}}
+{{detrecipe|40|Torn Jeans|30}}
+{{detrecipe|80|Frog Leg|600}}
+{{detrecipe|80|Copper Bar|240}}
+{{detrecipe|80|Thread|450}}
+{{detrecipe|40|Plank|825}}
+{{detrecipe|40|Bleach Logs|2100}}
+{{detrecipe|3|Goldfish|500}}
+|tot=
+{{detrecipe/totals|Goldfish|500}}
+{{detrecipe/totals|Plank|825}}
+{{detrecipe/totals|Bleach Logs|2100}}
+{{detrecipe/totals|Frog Leg|600}}
+{{detrecipe/totals|Copper Bar|240}}
+{{detrecipe/totals|Thread|450}}
+}}
+Bandito Pantaloon
+{{InfoItem
+|class=All
+|level=35
+|type=Pants
+|agi=9
+|misc=12% Catch Efficincy
+|upgrade=3
+|defence=14
+|sellprice=10524
+|source=[[Smithing]], [[Poop|Recipe from Poop]]
+}}
+{{ForgeSlot
+|anvtab=Anvil Tab 1
+|craftnum=70
+|levelreq=14
+|expgiven=1
+|recipefrom=[[Poop]]
+|resource1=Dirty Coal Miner Baggy Soot Pants|quantity1=3
+|resource2=Fly|quantity2=500
+}}
+{{detrecipe/tab
+|reci=
+{{detrecipe|3|Dirty Coal Miner Baggy Soot Pants|3}}
+{{detrecipe|40|Torn Jeans|24}}
+{{detrecipe|80|Frog Leg|480}}
+{{detrecipe|80|Copper Bar|192}}
+{{detrecipe|80|Thread|360}}
+{{detrecipe|40|Iron Ore|600}}
+{{detrecipe|3|Fly|500}}
+|tot=
+{{detrecipe/totals|Fly|500}}
+{{detrecipe/totals|Iron Ore|600}}
+{{detrecipe/totals|Frog Leg|480}}
+{{detrecipe/totals|Copper Bar|192}}
+{{detrecipe/totals|Thread|360}}
+}}

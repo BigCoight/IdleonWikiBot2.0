@@ -9,7 +9,8 @@
 |defence0=1223.26
 |hascard=Yes
 }}
-{{EnemyNavigation|Egggulyte|}}
+{{EnemyNavigation|Egggulyte|Plasti Doug}}
+{{DropTable/head}}
 {{DropTable/coin|69|0.5}}
 {{DropTable/card|0.05}}
 {{DropTable/row|Gem|0.3|1}}

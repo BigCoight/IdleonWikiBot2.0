@@ -1,10 +1,11 @@
 {{npc
 |location=fillme
-|noquests=fillme
+|world=fillme
+|noquest=fillme
 |repeatable=Unknonwn
-|starsign=Cancer
-|mmm=DeLorenzo
-|birthweight=9.98
+|starsign=Taurus
+|mmm=Sandstrom
+|birthweight=3.34
 |notes=fillme
 }}
 {{Quest/head}}

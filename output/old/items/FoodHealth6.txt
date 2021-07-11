@@ -8,8 +8,3 @@
 {{Vendoritem/head}}
 {{Vendoritem/tablerow|number=0|vendor=YumYum Grotto|stock=25000|buyprice=192}}
 |}
-{{usedin/head}}
-{{usedin/row|[[Buttered Toasted Butter]]|1|Crafting}}
-{{usedin/row|[[Picnic Stowaway#Early Evening Eating Endeavor|Early Evening Eating Endeavor]]|500|Quests}}
-{{usedin/row|[[Speccius#More like 'Sleepius' lmao|More like 'Sleepius' lmao]]|130|Quests}}
-|}

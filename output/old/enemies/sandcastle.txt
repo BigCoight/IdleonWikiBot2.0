@@ -14,6 +14,7 @@
 |hascard=Yes
 }}
 {{EnemyNavigation|Mafioso|Pincermin}}
+{{DropTable/head}}
 {{DropTable/coin|80|0.4}}
 {{DropTable/row|Furled Flag|0.19|1}}
 {{DropTable/row|Claiming Cashe|0.05|1|([[Goldric]])}}

@@ -4,9 +4,10 @@
 |type=Helmet
 |str=13
 |wis=3
+|misc=10% Mining Efficincy
 |upgrade=3
 |defence=21
-|sellprice=11970
+|sellprice=57970
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -31,9 +32,10 @@
 {{detrecipe|3|Gold Bar|400}}
 {{detrecipe|3|Glass Shard|2}}
 |tot=
+{{detrecipe/totals|Gold Bar|400}}
+{{detrecipe/totals|Glass Shard|2}}
 {{detrecipe/totals|Iron Bar|125}}
 {{detrecipe/totals|Copper Ore|750}}
 {{detrecipe/totals|Copper Bar|300}}
 {{detrecipe/totals|Bean Slices|500}}
-{{detrecipe/totals|Glass Shard|2}}
 }}

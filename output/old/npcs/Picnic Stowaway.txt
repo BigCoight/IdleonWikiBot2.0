@@ -67,7 +67,7 @@ Completing the full daily questline in a single day awards you one {{CraftReq|Pi
 |name=Afternoon Tea in a Jiffy
 |text=Get the tea back before it gets cold!
 |difficulty=4
-|requirements=Teacup Retrieved: >= 1. Starting at 0., Tea Temperature: >= 100. Starting at 300.
+|requirements=Teacup Retrieved: >= 1. Starting at 0., Tea Temperature: >= 100. Starting at 300., Dont Teleport:    >= 1. Starting at 1.
 |consumed=Yes
 |rewards=3x {{CraftReq|Golden Kebabs}}, 10x {{CraftReq|Golden Jam}}, 1x {{CraftReq|Small Experience Balloon}}
 |notes=Daily Quest. There is a [[Sandy Pot]] at [[Carrotman|Carrotmen]]. Kill it, pick up the teacup and run back to Picnic Stowaway.

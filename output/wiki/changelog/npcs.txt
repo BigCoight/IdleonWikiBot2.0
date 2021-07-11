@@ -1,5 +1,70 @@
   NOTOC  <div style = "display:flex;"><div style = "flex:50%;"> 
 ==Changed Npcs==
+{{patchnote/head|changed=Cactolyte}}
+|-
+|'''Peanut De-Aging'''
+{{patchnote|questText|Defeat Biggie Hours in the colosseum with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!|Defeat Biggie Hours with this peanut in your inventory. Don't drop it or it'll decay to dust in 5 seconds flat!}}
+|}
+
+{{patchnote/head|changed=Funguy}}
+|-
+|'''Videogame Highscores are COOL!'''
+|-
+|''Requirements''
+{{patchnote|Req 1|Choppin Score: > 42. Starting at 0.|Choppin Score: > 35. Starting at 0.}}
+
+{{patchnote|questText|Get a score of 42 in the Choppin Minigame. OR score 100 total over many games!|Get a score of 35 in the Choppin Minigame.}}
+|}
+
+{{patchnote/head|changed=Wellington}}
+|-
+|'''Platforms in Disguise, Platsformers!'''
+{{patchnote|dialogueText|Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Gandioso Canyon and here. |Next to the 1st mark I see frogs the 2nd mark I believe is located in a Doctors office and the 3rd is somewhere between the Grandioso Canyon and here. }}
+|}
+
+{{patchnote/head|changed=Dazey}}
+|-
+|'''Dressing like a Dork'''
+{{patchnote|questText|Help Dazey build a Sprout costume. You don't actually need a pea brain that was just him being a jerk.|Help Dazey build a Sprout costume. You don't actually need a pea brain that was just her being a jerk.}}
+|}
+
+{{patchnote/head|changed=Coastiolyte}}
+|-
+|'''Vibe Check'''
+|-
+|''Requirements''
+{{patchnote|Req 1|Defeat Plasti Dougs: > 20. Starting at 0.|Defeat Plasti Dougs: > 12. Starting at 0.}}
+{{patchnote|Req 2|OR total score: > 100. Starting at 0.|Removed}}
+
+|}
+
+{{patchnote/head|changed=Tiki Chief}}
+|-
+|'''Blame it on the Goblins'''
+{{patchnote|Blame it on the Goblins|{'rewards': [['Medium Experience Balloon', '1'], ['Class;Experience', '25000']], 'requirements': ['Goblins Defeated: >= 5000. Starting at 0.', 'Pretend to Re-Invite Everyone: >= 3. Starting at 3.'], 'consumed': 'No', 'dialogueText': "Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! ", 'difficulty': '4', 'name': 'Blame it on the Goblins', 'questText': 'Clear out some Goblins and totally invite everyone again!', 'notes': ''}|Removed}}
+|}
+
 </div><div style = "flex:50%;"> 
 ==New Npcs==
+{{patchnote/head|changed=Tiki Chief}}
+|-
+|'''Blame it on the Glublins'''
+|-
+|''Rewards''
+{{patchnote|Reward 1| |1x {{CraftReq|Medium Experience Balloon}}}}
+{{patchnote|Reward 2| |25000x Class;Experience}}
+
+|-
+|''Requirements''
+{{patchnote|Req 1| |Goblins Defeated: > 5000. Starting at 0.}}
+{{patchnote|Req 2| |Pretend to Re-Invite Everyone: > 3. Starting at 3.}}
+
+{{patchnote|consumed| |No}}
+{{patchnote|dialogueText| |Go defeat some goblins and then go re-invite everyone from before! I bet they'll be more than happy to come visit without those goblins in the way! }}
+{{patchnote|difficulty| |4}}
+{{patchnote|name| |Blame it on the Glublins}}
+{{patchnote|questText| |Clear out some Goblins and totally invite everyone again!}}
+{{patchnote|notes| | }}
+|}
+
 </div></div>

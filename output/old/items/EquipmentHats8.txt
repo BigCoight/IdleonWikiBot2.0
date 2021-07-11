@@ -19,9 +19,6 @@
 |resource2=Iron Ore|quantity2=50
 |resource3=Crude Oil|quantity3=60
 }}
-{{usedin/head}}
-{{usedin/row|[[Hamish#Should We Tell Him?|Should We Tell Him?]]|1|Quests}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Bleach Logs|100}}

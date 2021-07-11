@@ -3,6 +3,7 @@
 |level=80
 |skill=choppin
 |type=Hatchet
+|speed=5
 |skillpower=35
 |agi=9
 |wis=28

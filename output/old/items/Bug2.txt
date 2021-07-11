@@ -6,14 +6,3 @@
 |notes= 
 |hascard=yes
 }}
-{{usedin/head}}
-{{usedin/row|[[Reinforced Net]]|850|Crafting}}
-{{usedin/row|[[Small Bug Pouch]]|425|Crafting}}
-{{usedin/row|[[Gilded Net]]|2500|Crafting}}
-{{usedin/row|[[Average Bug Pouch]]|1600|Crafting}}
-{{usedin/row|[[Bandito Boots]]|1250|Crafting}}
-{{usedin/row|[[Buttered Toasted Butter]]|5|Crafting}}
-{{usedin/row|[[Fishpaste97#'Accidental' Exploit|'Accidental' Exploit]]|1500|Quests}}
-{{usedin/row|[[Post Office#Simple Shippin|Simple Shippin]]|Lots|Post Office}}
-{{usedin/row|[[Alchemy#Kazam Cauldron|Stamp Tramp]]|Lots|Alchemy}}
-|}

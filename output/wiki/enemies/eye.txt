@@ -4,16 +4,17 @@
 |health=350000
 |defence=3400
 |speed=4
-|world=Frostfire Tyundra
+|world=Frostbite Tundra
 |area=Crystal Basecamp
 |exp=1900
-|respawn=40
+|respawn=45
 |defence0=2424.95
 |crystal=Yes
 |crystalname=Crystal Cattle
 |hascard=Yes
 }}
 {{EnemyNavigation|Bop Box|Dedotated Ram}}
+{{DropTable/head}}
 {{DropTable/coin|490|0.28}}
 {{DropTable/row|Contact Lense|0.16|1}}
 {{DropTable/card|0.0001}}

@@ -1,12 +1,14 @@
 {{InfoItem
 |class=All
 |level=10
+|skill=trapping
 |type=Trap Box Set
-|weaponpower=8
+|speed=4
+|skillpower=8
 |agi=4
 |upgrade=1
 |sellprice=600
-|source=[[Smithing]]
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -14,7 +16,7 @@
 |craftnum=81
 |levelreq=16
 |expgiven=750
-|recipefrom=
+|recipefrom=Start
 |resource1=Poison Froge|quantity1=1
 |resource2=Redox Salts|quantity2=5
 }}

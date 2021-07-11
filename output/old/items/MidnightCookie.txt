@@ -14,14 +14,9 @@
 {{detdrops|[[Nightmare Chizoar]]|0.07|1}}
 {{detdrops|[[King Doot]]|.2|2}}
 {{detdrops|[[Crystal Crabal]]|0.0012000000000000001|1.0}}
-{{detdrops|[[Crystal Cattle]]|0.0012000000000000001|1.0}}
 {{detdrops|[[Tyson]]|0.000009600000000000001|1.0}}
 {{detdrops|[[Moonmoon]]|0.000010500000000000001|1.0}}
 {{detdrops|[[Sand Giant]]|0.0000111|1.0}}
 {{detdrops|[[Snelbie]]|0.0000117|1.0}}
 {{detdrops|[[Sandstone Golden Chest]]|0.003|1.0}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Efaunt Ribcage]]|10|Crafting}}
-{{usedin/row|[[Picnic Stowaway#A Midnight Snack|A Midnight Snack]]|2|Quests}}
 |}

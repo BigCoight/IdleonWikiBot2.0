@@ -6,9 +6,10 @@
 |weaponpower=36
 |wis=15
 |luck=1
+|misc=5% Crit Damage
 |reach=155
 |upgrade=4
-|sellprice=661400
+|sellprice=663000
 |source=[[Smithing]], [[Tasks/Unlocks|Recipe from Tasks]]
 |notes= 
 }}
@@ -22,9 +23,6 @@
 |resource2=Crows Nest|quantity2=2
 |resource3=Redox Salts|quantity3=150
 }}
-{{usedin/head}}
-{{usedin/row|[[Grey Gatsby]]|3|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Tundra Logs|10000}}
@@ -40,10 +38,11 @@
 {{detrecipe|3|Redox Salts|150}}
 |tot=
 {{detrecipe/totals|Tundra Logs|10000}}
+{{detrecipe/totals|Redox Salts|150}}
 {{detrecipe/totals|Golden Plop|6}}
 {{detrecipe/totals|Fruitfly|8000}}
 {{detrecipe/totals|Chain Link|4000}}
+{{detrecipe/totals|Distilled Water|32}}
 {{detrecipe/totals|Slime Sludge|1500}}
 {{detrecipe/totals|Copper Bar|1200}}
-{{detrecipe/totals|Redox Salts|150}}
 }}

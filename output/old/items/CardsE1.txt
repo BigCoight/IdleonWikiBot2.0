@@ -1,8 +1,8 @@
 {{InfoCard
 |title=Frost Flake
 |order=1
-|category=Frostfire Tyundra
-|effect=+{ Base STR
+|category=Frostbite Tundra
+|effect=+ Base STR
 |bonus=7
 |reqtier=12
 |source=[[Frost Flake]]

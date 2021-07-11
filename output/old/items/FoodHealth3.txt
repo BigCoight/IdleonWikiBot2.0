@@ -6,10 +6,6 @@
 |notes= 
 }}
 {{Vendoritem/head}}
-{{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=500|buyprice=28}}
+{{Vendoritem/tablerow|number=1|vendor=Blunder Hills|stock=750|buyprice=28}}
 {{Vendoritem/tablerow|number=0|vendor=Encroaching Forest Villas|stock=1000|buyprice=28}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Cramped Food Pouch]]|25|Crafting}}
-{{usedin/row|[[Peanut]]|2|Crafting}}
 |}

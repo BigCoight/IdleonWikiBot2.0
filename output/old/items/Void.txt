@@ -2,14 +2,10 @@
 |type=Ore
 |description=Smelt down 100 Ores into 1 Bar at the Forge. Smelting will take 6000 seconds per Bar using Forge Slot 1.
 |sellprice=48
-|source=[[Mining]], [[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]
+|source=[[Mining]], [[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]
 |notes= 
 |hascard=yes
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Golden Chest|Frostbite Golden Chest]]|0.1|120}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Large Mining Pouch]]|25000|Crafting}}
-{{usedin/row|[[Alchemy#Vials|Void Vial]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Golden Chest|Chillsnap Golden Chest]]|0.1|120}}
 |}

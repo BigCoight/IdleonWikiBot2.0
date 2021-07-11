@@ -8,8 +8,8 @@
 |misc=3% Defence
 |upgrade=4
 |defence=28
-|sellprice=2347780
-|source=[[Smithing]]
+|sellprice=3632780
+|source=[[Smithing]], Recipe from Start
 |notes= 
 }}
 {{ForgeSlot
@@ -17,19 +17,16 @@
 |craftnum=3
 |levelreq=38
 |expgiven=150000
-|recipefrom=
+|recipefrom=Start
 |resource1=Floof Ploof|quantity1=8000
 |resource2=Platinum Shins|quantity2=2
 |resource3=Dementia Bar|quantity3=400
 }}
-{{usedin/head}}
-{{usedin/row|[[Void Imperium Shardshins]]|2|Crafting}}
-|}
 {{detrecipe/tab
 |reci=
 {{detrecipe|3|Floof Ploof|8000}}
 {{detrecipe|3|Platinum Shins|2}}
-{{detrecipe|40|Sentient Cereal|1000}}
+{{detrecipe|40|Sentient Cereal|10000}}
 {{detrecipe|40|Iron Platelegs|12}}
 {{detrecipe|80|Iron Bar|2040}}
 {{detrecipe|80|Boring Brick|2700}}
@@ -37,8 +34,9 @@
 {{detrecipe|3|Dementia Bar|400}}
 |tot=
 {{detrecipe/totals|Floof Ploof|8000}}
-{{detrecipe/totals|Sentient Cereal|1000}}
+{{detrecipe/totals|Dementia Bar|400}}
+{{detrecipe/totals|Sentient Cereal|10000}}
+{{detrecipe/totals|Platinum Bar|2500}}
 {{detrecipe/totals|Iron Bar|2040}}
 {{detrecipe/totals|Boring Brick|2700}}
-{{detrecipe/totals|Dementia Bar|400}}
 }}

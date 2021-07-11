@@ -5,6 +5,3 @@
 |sellprice=100
 |notes= 
 }}
-{{usedin/head}}
-{{usedin/row|[[XxX Cattleprod XxX#Ok, NOW it's Peak Gaming!|Ok, NOW it's Peak Gaming!]]|1|Quests}}
-|}

@@ -2,16 +2,9 @@
 |type=Critter
 |description=Argg, yer spendin' all me money!
 |sellprice=5
-|source=[[Trapping]], [[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]
+|source=[[Trapping]], [[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]
 |notes= 
 }}
 {{detdrops/head}}
-{{detdrops|[[Colosseum#Frostbite Silver Chest|Frostbite Silver Chest]]|0.4|350}}
-|}
-{{usedin/head}}
-{{usedin/row|[[Sizable Critter Pouch]]|1000|Crafting}}
-{{usedin/row|[[Critter Numnums]]|100|Crafting}}
-{{usedin/row|[[Lord of the Hunt#Yet another Cartoon Reference|Yet another Cartoon Reference]]|250|Quests}}
-{{usedin/row|[[Alchemy#High-IQ Cauldron|Call Me Pope]]|Lots|Alchemy}}
-{{usedin/row|[[Alchemy#Vials|Crab Juice]]|Lots|Alchemy}}
+{{detdrops|[[Colosseum#Chillsnap Silver Chest|Chillsnap Silver Chest]]|0.4|350}}
 |}

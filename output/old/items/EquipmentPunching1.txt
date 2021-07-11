@@ -8,15 +8,15 @@
 |luck=2
 |reach=55
 |sellprice=16
-|source=[[Smithing]]
-|notes= 
+|source=[[Smithing]], Recipe from Start
+|notes=This item is required for the task [[Tasks/Blunder_Hills#Such Rock Very Dog Wow|Such Rock Very Dog Wow 3]] and the quest [[Carpetiem#Quest Information for Carpetiem|Be like Buster!]]
 }}
 {{ForgeSlot
 |anvtab=Anvil Tab 1
 |craftnum=1
 |levelreq=1
 |expgiven=3
-|recipefrom=
+|recipefrom=Start
 |resource1=Crimson String|quantity1=1
 |resource2=Cue Tape|quantity2=5
 }}

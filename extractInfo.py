@@ -9,11 +9,10 @@ import combineEnemyData
 import combineItemData
 import combineNpcData
 import combineSkillData
-import getNotes
 
 
 # This is to rename chests eg: chestA3 to Dewdrop Gold Chest
-COLNAMES = ["Dewdrop", "Sandstone", "Frostbite", "NYI", "NYI", "NYI", "NYI", "NYI", "NYI"]
+COLNAMES = ["Dewdrop", "Sandstone", "Chillsnap", "NYI", "NYI", "NYI", "NYI", "NYI", "NYI"]
 
 
 def writeJSON(fn, dicti):
@@ -64,6 +63,10 @@ def readSections(codefile):
     reader.addSection("StatueInfo = function ()", "}", "StatueInfo")
     reader.addSection("CardStuff = function ()", "}", "CardInfo")
     reader.addSection("TaskUnlocks = function ()", "}", "TaskUnlocks")
+    reader.addSection("RefineryInfo = function ()", "}", "RefineryCost")
+    reader.addSection("TowerInfo = function () {", "};", "BuildingData")
+    reader.addSection("SaltLicks = function () {", "};", "SaltLicks")
+    reader.addSection("MTXinfo = function () {", "};", "GemShop")
     reader.readCode()
     return reader
 
@@ -186,7 +189,7 @@ def writeProductionCSV(reader):
 
 
 def writeItemJSON(reader):
-    reNames = r'.\.addNew[a-zA-Z0-9_]*\("([a-zA-Z0-9_]*)", ..?\);'
+    reNames = r'.\.addNew[a-zA-Z0-9_]*\("([a-zA-Z0-9_]*)", ..?.?\);'
     reData = r'..\.setReserved\("([a-zA-Z0-9_]*)", ?"?([^\s"]*)"?\)'
     items = {}
     itemText = fix(reader.getSection("Items"), ["\n", "  "])
@@ -238,9 +241,39 @@ def writeQuestJSON(reader):
     writeJSON("Npcs", npcs)
 
 
+def writeTowerJson(reader: CodeReader):
+    towerData = fix(reader.getSection("BuildingData"), ["  ", "\n"])
+    buildings = re.findall(r'"([ a-zA-Z0-_\'\n\(\)@,!$+\{\}%:\.]*)"\.', towerData)
+    buildings = [x.split(" ") for x in buildings]
+    buildingData = {}
+    for building in buildings:
+        curBuilding = repU(building[0], True)
+        buildingData[curBuilding] = {}
+        current = buildingData[curBuilding]
+        data = building[1:]
+        data[0] = repU(data[0], True)
+        desc = data[0].split("@")
+        current["desc"] = data[0].split("@")[0]
+        if len(desc) > 2:
+            current["currentBonus"] = desc[2]
+        current["lvlUpReq"] = [[data[3], data[5]], [data[4], data[6]]]
+        current["maxLvl"] = data[7]
+        current["costIncrement"] = data[8]
+        current["lvlInc"] = data[1:3]
+        current["dunno"] = data[-1]
+    writeJSON("BuildingData", buildingData)
+
+
+def writeSaltLickCSV(reader: CodeReader):
+    saltLickData = fix(reader.getSection("SaltLicks"), ["  ", "\n"])
+    saltLicks = re.findall(r'"([ a-zA-Z0-_\'\n\(\)@,!$+\{\}%:\.]*)"\.', saltLickData)
+    saltLicks = [x.split(" ") for x in saltLicks]
+    writeCSV("SaltLicks", saltLicks)
+
+
 def writeEnemiesJSON(reader):
     reName = r'..\.addNewMonster\("([a-zA-Z0-9_]*)", {'
-    reData = r'([a-zA-Z0-9_]*): "?([a-zA-Z0-9_.\]\[, ]*)"?,'
+    reData = r'([a-zA-Z0-9_]*): "?([a-zA-Z0-9_.\]\[, \$]*)"?,'
     enemies = {}
     enemiesText = reader.getSection("Enemies")
     enemiesData = re.split(reName, enemiesText)
@@ -274,7 +307,7 @@ def writeDroptablesJSON(reader):
     for i in range(0, len(droptables) - 1, 2):
         tables[droptables[i + 1]] = re.findall(reDrops, droptables[i])
     obols = []
-    for i in range(12):  # Obolsu
+    for i in range(12):  # Obols1
         if i < 4:
             obols.append([f"ObolBronze{i}", str(0.0006 * (1 + 1 / 20)), "1", "N/A"])
         elif i < 8:
@@ -295,6 +328,14 @@ def writeDroptablesJSON(reader):
             tables[f"SuperDropTable1"].insert(-1, obols[i])
         elif i < 12:
             tables[f"SuperDropTable2"].insert(-1, obols[i])
+
+    tables["DropTable14"].insert(-1, [f"ObolBronzeWorship", str(9e-4 * (1 + 1 / 20)), "1", "N/A"])
+    tables["DropTable15"].insert(-1, [f"ObolBronzeTrapping", str(9e-4 * (1 + 1 / 20)), "1", "N/A"])
+    tables["DropTable16"].insert(-1, [f"ObolBronzeCons", str(9e-4 * (1 + 1 / 20)), "1", "N/A"])
+    tables["SuperDropTable1"].insert(-1, [f"ObolBronzeEXP", str(0.029 * (1 + 1 / 20)), "1", "N/A"])
+    tables["SuperDropTable3"].insert(-1, [f"ObolBronzeKill", str(0.029 * (1 + 1 / 20)), "1", "N/A"])
+    tables["SuperDropTable2"].insert(-1, [f"ObolBronzeDef", str(0.029 * (1 + 1 / 20)), "1", "N/A"])
+
     writeJSON("Droptables", tables)
 
 
@@ -418,6 +459,24 @@ def writeTalentJSON(reader):
     writeJSON("Talents", talents)
 
 
+def getGemShopObols():
+    gold = "ObolSilver0 7 ObolSilver1 14 ObolSilver2 21 ObolSilver3 28 ObolSilverCard 32 ObolSilverCatching 37 ObolSilverChoppin 42 ObolSilverFishing 47 ObolSilverMining 52 ObolSilverDamage 60 ObolSilverDef 64 ObolSilverEXP 65 ObolSilverMoney 67 ObolGold0 70 ObolGold1 73 ObolGold2 76 ObolGold3 78 ObolGoldMoney 79 ObolGoldCard 80 ObolGoldKill 82 ObolGoldChoppin 84 ObolGoldMining 86 ObolGoldLuck 88 ObolGoldCatching 90 ObolGoldFishing 92 ObolGoldEXP 93 ObolGoldDef 95 ObolGoldDamage 100".split(" ")
+    plat = "ObolGold0 7 ObolGold1 14 ObolGold2 21 ObolGold3 28 ObolGoldMoney 32 ObolGoldCard 34 ObolGoldKill 36 ObolGoldChoppin 41 ObolGoldMining 46 ObolGoldLuck 47 ObolGoldCatching 52 ObolGoldFishing 57 ObolGoldDamage 63 ObolGoldEXP 64 ObolGoldDef 65 ObolPlatinum0 67 ObolPlatinum1 69 ObolPlatinum2 71 ObolPlatinum3 73 ObolPlatinumCard 74 ObolPlatinumCatching 76 ObolPlatinumChoppin 78 ObolPlatinumDamage 81 ObolPlatinumDef 82 ObolPlatinumEXP 83 ObolPlatinumFishing 85 ObolPlatinumKill 86 ObolPlatinumMining 88 ObolPlatinumPop 89 ObolPlatinumLuck 90 ObolPink0 91 ObolPink1 92 ObolPink2 93 ObolPink3 94 ObolPinkCard 94.5 ObolPinkCatching 95 ObolPinkDamage 96 ObolPinkDef 95.5 ObolPinkEXP 97 ObolPinkFishing 98 ObolPinkKill 98.4 ObolPinkLuck 99.2 ObolPinkMining 99.8 ObolPinkPop 100".split(
+        " "
+    )
+    dtGold = []
+    prev = 0.0
+    for i in range(0, len(gold), 2):
+        dtGold.append([gold[i], str((float(gold[i + 1]) - prev) / 100), "1", "N/A"])
+        prev = float(gold[i + 1])
+    dtPlat = []
+    prev = 0
+    for i in range(0, len(plat), 2):
+        dtPlat.append([plat[i], str((float(plat[i + 1]) - prev) / 100), "1", "N/A"])
+        prev = float(plat[i + 1])
+    return dtGold, dtPlat
+
+
 def writeCustomSourcesJSON():
     custSources = {}
     custSources["[[Gem Shop]]"] = [
@@ -483,32 +542,103 @@ def writeCustomSourcesJSON():
         "EquipmentHats62",
     ]
     custSources["Starter Hat"] = ["EquipmentHats14", "EquipmentHats11", "EquipmentHats13", "EquipmentHats12"]
-    custSources["[[Alchemy#Level up Gift|Level up Gift]]"] = ["EquipmentHats21", "PremiumGem", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "Timecandy5", "Line6", "StoneZ1", "FoodPotYe1", "FoodPotYe2", "FoodPotYe3", "StampC9", "Quest25", "EquipmentStatues1", "EquipmentStatues2", "EquipmentStatues3", "EquipmentStatues4", "EquipmentStatues5", "EquipmentStatues6", "EquipmentStatues7", "EquipmentStatues8"]
+    custSources["[[Alchemy#Level up Gift|Level up Gift]]"] = ["StampA23", "EquipmentHats21", "PremiumGem", "Timecandy1", "Timecandy2", "Timecandy3", "Timecandy4", "Timecandy5", "Line6", "StoneZ1", "FoodPotYe1", "FoodPotYe2", "FoodPotYe3", "StampC9", "Quest25", "EquipmentStatues1", "EquipmentStatues2", "EquipmentStatues3", "EquipmentStatues4", "EquipmentStatues5", "EquipmentStatues6", "EquipmentStatues7", "EquipmentStatues8"]
     custSources["[[Guild Giftbox]]"] = ["Trophy9", "FoodPotYe3", "FoodPotYe2", "PremiumGem", "StoneA3b", "StoneW2", "StoneA2", "StonePremLUK", "StoneHelm6", "StoneW6", "ExpBalloon1", "ExpBalloon2", "ExpBalloon3", "ResetFrag", "Timecandy4", "Timecandy3", "Timecandy2", "Timecandy1"]
-    custSources["Start"] = ["StampA1", "StampA2"]
+    custSources["Start"] = ["StampA1", "StampA2", "StampB1", "StampB2"]
     custSources["[[Alchemy#Liquid Shop|Mediocre Obols]]"] = ["ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronze3", "ObolBronzeMining", "ObolBronzeChoppin", "ObolBronzeDamage"]
     custSources["[[Alchemy#Liquid Shop|Decent Obols]]"] = ["ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronze3", "ObolSilverDamage", "ObolBronzeFishing", "ObolBronzeCatching", "ObolSilverFishing", "ObolSilverChoppin", "ObolSilverCatching", "ObolSilverMining", "ObolSilver0", "ObolSilver1", "ObolSilver2", "ObolSilver3"]
+    custSources["[[Alchemy#Liquid Shop|Grand Obols]]"] = ["ObolSilverDamage", "ObolBronze0", "ObolBronze1", "ObolBronze2", "ObolBronzeCons", "ObolBronzeKill", "ObolBronzeDef", "ObolBronzeTrapping", "ObolBronzeWorship", "ObolSilverTrapping", "ObolSilverWorship", "ObolSilverCons", "ObolSilver0", "ObolSilver1", "ObolSilver2", "ObolGold", "ObolGoldCard"]
     custSources["[[Alchemy#Liquid Shop|Weak UPG Stone]]"] = ["StoneW1", "StoneA1", "StoneT1", "StoneHelm1", "StoneA1b"]
     custSources["[[Trapping]]"] = ["CritterCard1", "CritterCard2", "CritterCard3", "CritterCard4", "CritterCard5", "CritterCard6", "CritterCard7"]
     custSources["[[Worship]]"] = ["SoulCard1", "SoulCard2", "SoulCard3", "SoulCard4", "SoulCard5"]
-    custSources["[[Construction#Refinery|Refinery]]"] = ["Refinery1", "Refinery2", "Refinery3", "Refinery4"]
     custSources["[[Tiki Chief#Three Strikes, you're Out!|Three Strikes, you're Out!]]"] = ["Quest11"]
     custSources["Has a 1/1M chance to drop from active kills if the Blue Hedgehog [[Star Signs|Starsign]] is equipped."] = ["EquipmentRings15"]
     custSources["[[Alchemy#Level up Gift|Level up Gift (however this item has no use anymore)]]"] = ["Quest26"]
-    # custSources["[[Picnic Stowaway#Afternoon Tea in a Jiffy|Afternoon Tea in a Jiffy]]"] = ["Quest10"]
+    custSources["[[TP Pete]]"] = ["NPCtoken15"]
+    custSources["[[Krunk]]"] = ["NPCtoken10"]
+
+    dtGold, dtPlat = getGemShopObols()
+    custDropTables = {"Quality Obol Stack": dtGold, "Marvelous Obol Stack": dtPlat}
+
+    for custDropTable, drops in custDropTables.items():
+        custSources[f"[[Gem Shop#{custDropTable}|{custDropTable}]]"] = []
+        current = custSources[f"[[Gem Shop#{custDropTable}|{custDropTable}]]"]
+        for drop in drops:
+            current.append(drop[0])
+
+    custRecipeFrom = {}
+    custRecipeFrom["Start"] = [
+        "EquipmentPunching1",
+        "TestObj1",
+        "EquipmentBows1",
+        "EquipmentWands1",
+        "EquipmentHats1",
+        "EquipmentShirts1",
+        "EquipmentPants1",
+        "EquipmentShoes9",
+        "EquipmentTools2",
+        "MaxCapBag1",
+        "EquipmentToolsHatchet3",
+        "MaxCapBag7",
+        "EquipmentHats15",
+        "EquipmentPunching2",
+        "MaxCapBag8",
+        "MaxCapBagM2",
+        "EquipmentHats17",
+        "EquipmentShirts11",
+        "EquipmentPants2",
+        "EquipmentShoes1",
+        "EquipmentTools3",
+        "MaxCapBag2",
+        "EquipmentToolsHatchet1",
+        "MaxCapBag9",
+        "EquipmentHats18",
+        "EquipmentShirts12",
+        "EquipmentPants3",
+        "EquipmentSmithingTabs2",
+        "WorshipSkull2",
+        "MaxCapBagS1",
+        "TrapBoxSet2",
+        "MaxCapBagTr1",
+        "EquipmentHats28",
+        "EquipmentShirts13",
+        "EquipmentPants4",
+        "EquipmentShoes3",
+        "MaxCapBagF3",
+        "MaxCapBagM4",
+        "EquipmentHats19",
+        "EquipmentShirts14",
+        "EquipmentPants5",
+        "EquipmentShoes4",
+        "EquipmentSmithingTabs3",
+        "Quest13",
+        "EquipmentHats53",
+        "EquipmentShirts15",
+        "EquipmentPants6",
+        "EquipmentShoes5",
+        "MaxCapBagF5",
+        "MaxCapBagM6",
+        "EquipmentHats54",
+        "EquipmentShirts27",
+        "EquipmentPants21",
+        "EquipmentShoes22",
+    ]
+    custRecipeFrom["[[Scripticus#Champion of the Grasslands|Champion of the Grasslands]]"] = ["BadgeG1", "BadgeG2", "BadgeG3", "NPCtoken1", "NPCtoken2", "NPCtoken3"]
+    custRecipeFrom["[[Picnic Stowaway#Brunchin' with the Blobs|Brunchin' with the Blobs]]"] = ["Peanut"]
 
     writeJSON("CustomSources", custSources)
+    writeJSON("CustomRecipeFrom", custRecipeFrom)
+    writeJSON("CustomDropTables", custDropTables)
 
 
 def writeCardJSON(reader):
-    cardNames = {"A": "Blunder Hills", "B": "Yum Yum Desert", "C": "Easy Resources", "D": "Medium Resources", "E": "Frostfire Tyundra", "F": "Hard Resources", "Z": "Bosses", "Y": "Event"}
-    cardDict = {x: {} for x in cardNames.values()}
+    cardNames = ["Blunder Hills", "Yum Yum Desert", "Easy Resources", "Medium Resources", "Frostbite Tundra", "Hard Resources", "Bosses", "Event"]
+    cardDict = {x: {} for x in cardNames}
     cardData = fix(reader.getSection("CardInfo"), ["\n", "  "])
     for n, section in enumerate(["[[" + x + "]]" for x in re.split(r",?\],?],\[\[", cardData)]):
         for m, data in enumerate(["[[" + x + "]]" for x in re.split(r",?],\[", section)]):
             arrayData = strToArray(data)
-            cardSection = arrayData[1][0]
-            cardDict[cardNames[cardSection]][arrayData[0]] = [repU(x, True).replace("{", "") for x in arrayData[1:]] + [str(m)]
+            cardDict[cardNames[n]][arrayData[0]] = [repU(x, True).replace("{", "") for x in arrayData[1:]] + [str(m)]
     writeJSON("CardData", cardDict)
 
 
@@ -539,6 +669,32 @@ def writeTaskUnlocks(reader):
     writeJSON("TaskUnlocks", TaskUnlocks)
 
 
+def writeGemShopCSV(reader: CodeReader):
+    gemShopData = fix(reader.getSection("GemShop"), ["  ", "\n"])
+    gemShops = re.findall(r'"([ a-zA-Z0-_\'\n\(\)@,!$+\{\}%:\.]*)"\.', gemShopData)
+    gemShops = [x.split(" ") for x in gemShops]
+    for gemShop in gemShops:
+        gemShop[1] = repU(gemShop[1])
+        gemShop[2] = repU(gemShop[2], True)
+    writeCSV("GemShop", gemShops)
+
+
+def writeRefineryCost(reader):
+    refCosts = reader.getSection("RefineryCost")
+    refSlots = re.findall(r'"([ a-zA-Z0-_\'\n]*)"\.', refCosts)
+    refSlots = [x.split(" ") for x in refSlots]
+    refineryCosts = {}
+    for refSlot in refSlots:
+        slotName = refSlot[12]
+        refineryCosts[slotName] = []
+        for i in range(6):
+            if refSlot[i] == "Blank":
+                continue
+            refineryCosts[slotName].append([refSlot[i], refSlot[i + 6]])
+
+    writeJSON("RefineryCosts", refineryCosts)
+
+
 def main(codefile):
     reader = readSections(codefile)
     MAPNAMES = writeMapNamesCSV(reader)
@@ -558,6 +714,10 @@ def main(codefile):
     writeCardJSON(reader)
     writeStatueCSV(reader)
     writeTaskUnlocks(reader)
+    writeRefineryCost(reader)
+    writeTowerJson(reader)
+    writeSaltLickCSV(reader)
+    writeGemShopCSV(reader)
 
     combineItemData.main()
     combineEnemyData.main()
@@ -566,5 +726,5 @@ def main(codefile):
 
 
 if __name__ == "__main__":
-    main(r"./input/codefile/idleon120b.txt")
+    main(r"./input/codefile/idleon122d.txt")
 
